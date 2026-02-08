@@ -1,0 +1,923 @@
+{
+  "key": "france",
+  "name": "France Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇫🇷",
+  "defaultCenter": [
+    46.6,
+    2.3
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Maison de la Truffe",
+      "coord": [
+        48.8582,
+        2.3542
+      ],
+      "desc": "Truffle specialties, fine French cuisine",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "La Poule au Pot",
+      "coord": [
+        48.8618061,
+        2.3432436
+      ],
+      "desc": "Traditional bistro, hearty classics",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Brasserie Bellanger",
+      "coord": [
+        48.8809206,
+        2.3500288
+      ],
+      "desc": "Grand brasserie, Belle Époque style",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "L'Ardoise",
+      "coord": [
+        48.8663663,
+        2.326915
+      ],
+      "desc": "Contemporary French, seasonal ingredients",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "À L'Épi d'Or",
+      "coord": [
+        48.862863,
+        2.341108
+      ],
+      "desc": "Classic bistro, traditional cooking",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Philippe Excoffier",
+      "coord": [
+        48.8576051,
+        2.3029178
+      ],
+      "desc": "Gourmet French, intimate dining",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "La Diva des Prés",
+      "coord": [
+        48.8535748,
+        2.337083
+      ],
+      "desc": "Italian, refined atmosphere",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Les Climats",
+      "coord": [
+        48.8588601,
+        2.3281795
+      ],
+      "desc": "Burgundy wines, classic French dishes",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Au Bistro",
+      "coord": [
+        48.8660475,
+        2.3312872
+      ],
+      "desc": "Authentic Parisian bistro, locals favorite",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Le Bougainville",
+      "coord": [
+        48.8665171,
+        2.340083
+      ],
+      "desc": "French cuisine, elegant setting",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "L'heure gourmande",
+      "coord": [
+        48.8549121,
+        2.3383751
+      ],
+      "desc": "Pastry and tea, charming café",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "L'Oseille",
+      "coord": [
+        48.8688311,
+        2.3377927
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "CoCo",
+      "coord": [
+        48.8718936,
+        2.3324214
+      ],
+      "desc": "Contemporary French, chef-driven",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Abri",
+      "coord": [
+        48.877869,
+        2.3492914
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Quinsou",
+      "coord": [
+        48.8476986,
+        2.3254896
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Restaurant ES",
+      "coord": [
+        48.8562838,
+        2.3211368
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "TOWA Restaurant",
+      "coord": [
+        48.849591,
+        2.3793134
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Restaurant David Toutain",
+      "coord": [
+        48.8602238,
+        2.3097347
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "L’Ami Jean",
+      "coord": [
+        48.8602837,
+        2.3060112
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Comice",
+      "coord": [
+        48.8494621,
+        2.2760438
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Septime",
+      "coord": [
+        48.8535723,
+        2.3809333
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "La Scène",
+      "coord": [
+        48.8720634,
+        2.3145637
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Joséphine Chez Dumonet",
+      "coord": [
+        48.8457904,
+        2.3198704
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Saved Places (GeoJSON)"
+    },
+    {
+      "name": "Patrick Roger",
+      "coord": [
+        48.8566,
+        2.3502
+      ],
+      "desc": "Master chocolatier, artistic creations",
+      "category": "restaurants",
+      "source_list": "Paris Chocolate.csv"
+    },
+    {
+      "name": "Pierre Hermé",
+      "coord": [
+        48.8574,
+        2.3512
+      ],
+      "desc": "Famous pastry chef, macarons and desserts",
+      "category": "restaurants",
+      "source_list": "Paris Chocolate.csv"
+    },
+    {
+      "name": "NHOME",
+      "coord": [
+        48.8582,
+        2.3522
+      ],
+      "desc": "Michelin-starred French cuisine, intimate setting",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "ACCENTS table bourse",
+      "coord": [
+        48.859,
+        2.3532
+      ],
+      "desc": "Contemporary French, seasonal specialties",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Accents",
+      "coord": [
+        48.8699655,
+        2.3403454
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "SUGO",
+      "coord": [
+        48.8689987,
+        2.3361933
+      ],
+      "desc": "Italian pasta, elegant ambiance",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "AO Izakaya",
+      "coord": [
+        48.8542,
+        2.3542
+      ],
+      "desc": "Japanese izakaya, contemporary Tokyo style",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Les 110 de Taillevent",
+      "coord": [
+        48.8558,
+        2.3512
+      ],
+      "desc": "Fine dining, wine-focused menu",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Caviar Kaspia",
+      "coord": [
+        48.8566,
+        2.3522
+      ],
+      "desc": "Luxury caviar, oysters, champagne bar",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Angelina",
+      "coord": [
+        48.8574,
+        2.3532
+      ],
+      "desc": "Iconic hot chocolate, pastries since 1903",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "L'Avenue",
+      "coord": [
+        48.859,
+        2.3502
+      ],
+      "desc": "Parisian brasserie, classic dishes",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Brasserie Lazare Paris",
+      "coord": [
+        48.8542,
+        2.3512
+      ],
+      "desc": "Google Maps saved place",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Bar Vendôme",
+      "coord": [
+        48.855,
+        2.3522
+      ],
+      "desc": "Ritz Hotel bar, elegant cocktails",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Café Jeanne - Park Hyatt Paris-Vendôme",
+      "coord": [
+        48.8558,
+        2.3532
+      ],
+      "desc": "Park Hyatt café, modern French",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Brasserie Flottes",
+      "coord": [
+        48.8566,
+        2.3542
+      ],
+      "desc": "Traditional brasserie, comfort food",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Bistrot Vivienne",
+      "coord": [
+        48.8574,
+        2.3502
+      ],
+      "desc": "Parisian bistro, authentic atmosphere",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Loulou",
+      "coord": [
+        48.8582,
+        2.3512
+      ],
+      "desc": "Mediterranean cuisine, chic lounge",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Grand Café Capucines",
+      "coord": [
+        48.859,
+        2.3522
+      ],
+      "desc": "Belle époque décor, classic fare",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Café Lapérouse Concorde",
+      "coord": [
+        48.8542,
+        2.3532
+      ],
+      "desc": "Historic café near Concorde",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Drouant",
+      "coord": [
+        48.855,
+        2.3542
+      ],
+      "desc": "Classic French brasserie, literary history",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Café de la Paix",
+      "coord": [
+        48.8558,
+        2.3502
+      ],
+      "desc": "Iconic café, views of Opéra Garnier",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "La Rôtisserie d'Argent",
+      "coord": [
+        48.8566,
+        2.3512
+      ],
+      "desc": "Roasted meats, traditional French",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    },
+    {
+      "name": "Brasserie Brunet",
+      "coord": [
+        45.449,
+        6.98
+      ],
+      "desc": "Alpine restaurant, local specialties",
+      "category": "restaurants",
+      "source_list": "Saved Places (CSV)"
+    },
+    {
+      "name": "Restaurant L'Alpin Val d'isère",
+      "coord": [
+        45.449,
+        6.98
+      ],
+      "desc": "Mountain cuisine, ski resort dining",
+      "category": "restaurants",
+      "source_list": "Saved Places (CSV)"
+    },
+    {
+      "name": "Restaurant l'Edelweiss",
+      "coord": [
+        45.449,
+        6.983
+      ],
+      "desc": "Alpine restaurant, traditional dishes",
+      "category": "restaurants",
+      "source_list": "Saved Places (CSV)"
+    },
+    {
+      "name": "La Folie Douce Val d'Isère",
+      "coord": [
+        45.449,
+        6.985
+      ],
+      "desc": "Apres-ski venue, entertainment and dining",
+      "category": "restaurants",
+      "source_list": "Saved Places (CSV)"
+    },
+    {
+      "name": "Le Panoramic",
+      "coord": [
+        45.449,
+        6.986
+      ],
+      "desc": "Mountaintop restaurant, panoramic views",
+      "category": "restaurants",
+      "source_list": "Saved Places (CSV)"
+    },
+    {
+      "name": "L'Etincelle",
+      "coord": [
+        45.449,
+        6.987
+      ],
+      "desc": "Contemporary alpine cuisine",
+      "category": "restaurants",
+      "source_list": "Saved Places (CSV)"
+    },
+    {
+      "name": "La Peau De Vache",
+      "coord": [
+        45.449,
+        6.988
+      ],
+      "desc": "Alpine steakhouse, cozy atmosphere",
+      "category": "restaurants",
+      "source_list": "Saved Places (CSV)"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Hôtel de la Marine",
+      "coord": [
+        48.855,
+        2.3502
+      ],
+      "desc": "Historic 18th-century palace, museum, exhibits",
+      "category": "restaurants",
+      "source_list": "Paris Food.csv"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Paris": [
+      48.8566,
+      2.3522,
+      0.04
+    ],
+    "Val d'Isère": [
+      45.449,
+      6.98,
+      0.02
+    ],
+    "Méribel": [
+      45.3967,
+      6.5654,
+      0.02
+    ],
+    "Courchevel": [
+      45.4153,
+      6.6346,
+      0.02
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "title": "Paris Greatest Hits",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Day 1: Arrive in Paris",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Brasserie Bellanger",
+              "coord": [
+                48.8809206,
+                2.3500288
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Café de la Paix",
+              "coord": [
+                48.8558,
+                2.3502
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Day 2: Iconic Paris",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Angelina",
+              "coord": [
+                48.8574,
+                2.3532
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hôtel de la Marine",
+              "coord": [
+                48.855,
+                2.3502
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Caviar Kaspia",
+              "coord": [
+                48.8566,
+                2.3522
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Bougainville",
+              "coord": [
+                48.8665171,
+                2.340083
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Classic Bistros",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "L'Ardoise",
+              "coord": [
+                48.8663663,
+                2.326915
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Brasserie Bellanger",
+              "coord": [
+                48.8809206,
+                2.3500288
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Fine Dining",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pierre Hermé",
+              "coord": [
+                48.8574,
+                2.3512
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "NHOME",
+              "coord": [
+                48.8582,
+                2.3522
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Les 110 de Taillevent",
+              "coord": [
+                48.8558,
+                2.3512
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Hidden Gems",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "Au Bistro",
+              "coord": [
+                48.8660475,
+                2.3312872
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Drouant",
+              "coord": [
+                48.855,
+                2.3542
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Chocolate & Pastry",
+          "items": [
+            {
+              "type": "dinner",
+              "name": "La Diva des Prés",
+              "coord": [
+                48.8535748,
+                2.337083
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Day 7: Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Café Jeanne - Park Hyatt Paris-Vendôme",
+              "coord": [
+                48.8558,
+                2.3532
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "title": "Paris Hidden Gems & Deep Dining",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Day 1: Local Flavors",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Brasserie Bellanger",
+              "coord": [
+                48.8809206,
+                2.3500288
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "À L'Épi d'Or",
+              "coord": [
+                48.862863,
+                2.341108
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Day 2: Food Exploration",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "Loulou",
+              "coord": [
+                48.8582,
+                2.3512
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Philippe Excoffier",
+              "coord": [
+                48.8576051,
+                2.3029178
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Off-Beaten Path",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "La Poule au Pot",
+              "coord": [
+                48.8618061,
+                2.3432436
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Les Climats",
+              "coord": [
+                48.8588601,
+                2.3281795
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Chocolate Tasting",
+          "items": [
+            {
+              "type": "dinner",
+              "name": "Au Bistro",
+              "coord": [
+                48.8660475,
+                2.3312872
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Angelina",
+              "coord": [
+                48.8574,
+                2.3532
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "title": "French Alps Ski & Dine",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Day 1: Arrive Val d'Isère",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Brasserie Brunet",
+              "coord": [
+                45.449,
+                6.98
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurant L'Alpin Val d'isère",
+              "coord": [
+                45.449,
+                6.98
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Day 2: Ski & Dine",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "La Folie Douce Val d'Isère",
+              "coord": [
+                45.449,
+                6.985
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "La Peau De Vache",
+              "coord": [
+                45.449,
+                6.988
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Mountain Dining",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Le Panoramic",
+              "coord": [
+                45.449,
+                6.986
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "L'Etincelle",
+              "coord": [
+                45.449,
+                6.987
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day 4: More Skiing",
+          "items": []
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Departure",
+          "items": []
+        }
+      ]
+    }
+  }
+}

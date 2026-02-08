@@ -1,0 +1,213 @@
+{
+  "key": "mexico",
+  "name": "Mexico Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇲🇽",
+  "defaultCenter": [20.5, -99.0],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Casa Campos",
+      "coord": [19.4300, -99.1350],
+      "city": "Mexico City",
+      "desc": "Charming boutique hotel in Roma Norte with rooftop terrace"
+    },
+    {
+      "name": "La Posada Tulum",
+      "coord": [20.2110, -87.4630],
+      "city": "Tulum",
+      "desc": "Beachfront eco-friendly resort with jungle access"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Restaurante Rosetta",
+      "coord": [19.4298, -99.1587],
+      "city": "Mexico City",
+      "cuisine": "Modern Mexican-Italian",
+      "desc": "Celebrated modern Mexican-Italian in Roma Norte, gorgeous courtyard"
+    },
+    {
+      "name": "Máximo",
+      "coord": [19.4324, -99.1587],
+      "city": "Mexico City",
+      "cuisine": "Mexican",
+      "desc": "Chef Eduardo García, refined Mexican cuisine, Roma Norte favorite"
+    },
+    {
+      "name": "ULTRAMARINOS DEMAR",
+      "coord": [19.4314, -99.1602],
+      "city": "Mexico City",
+      "cuisine": "Seafood",
+      "desc": "Contemporary seafood bar, Roma Norte"
+    },
+    {
+      "name": "Ki'bok Coffee Tulum",
+      "coord": [20.2115, -87.4610],
+      "city": "Tulum",
+      "cuisine": "Cafe",
+      "desc": "Specialty coffee roaster, bohemian Tulum vibe"
+    },
+    {
+      "name": "Restaurante Bar El Capitán",
+      "coord": [20.2102, -87.4624],
+      "city": "Tulum",
+      "cuisine": "Seafood",
+      "desc": "Local Tulum seafood, casual beachside dining"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Templo Mayor",
+      "coord": [19.4383, -99.1367],
+      "city": "Mexico City",
+      "desc": "Archaeological site of Aztec temple complex in historic center"
+    },
+    {
+      "name": "Frida Kahlo Museum",
+      "coord": [19.4159, -99.1461],
+      "city": "Mexico City",
+      "desc": "Casa Azul, the iconic blue house and museum"
+    },
+    {
+      "name": "Chichén Itzá",
+      "coord": [20.6829, -87.5479],
+      "city": "Yucatán",
+      "desc": "Iconic Maya ruins with El Castillo pyramid"
+    },
+    {
+      "name": "Cenote Swimming",
+      "coord": [20.2100, -87.4600],
+      "city": "Tulum",
+      "desc": "Swimming in crystal-clear underground cenote pools"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Chapultepec Park",
+      "coord": [19.4265, -99.1865],
+      "city": "Mexico City",
+      "desc": "Large urban park with museums, zoo, and playgrounds"
+    },
+    {
+      "name": "Xel-Há Water Park",
+      "coord": [20.3514, -87.3214],
+      "city": "Riviera Maya",
+      "desc": "All-inclusive eco-adventure park with snorkeling and wildlife"
+    },
+    {
+      "name": "Playa del Carmen Beach",
+      "coord": [20.6296, -87.0739],
+      "city": "Riviera Maya",
+      "desc": "Family-friendly beach with water activities"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mercado de la Merced",
+      "coord": [19.4333, -99.1222],
+      "city": "Mexico City",
+      "desc": "One of world's largest open-air markets with produce and crafts"
+    },
+    {
+      "name": "La Lagunilla Market",
+      "coord": [19.4416, -99.1416],
+      "city": "Mexico City",
+      "desc": "Historic weekend market with antiques and crafts"
+    },
+    {
+      "name": "Tulum Artisan Market",
+      "coord": [20.2180, -87.4400],
+      "city": "Tulum",
+      "desc": "Local crafts and souvenirs from Tulum vendors"
+    }
+  ],
+  "cityCenters": {
+    "Mexico City": [19.4326, -99.1332, 0.04],
+    "Tulum": [20.2115, -87.4654, 0.02]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Mexico City Food Tour",
+      "duration": 3,
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Roma Norte Culinary Introduction",
+          "activities": [
+            "Arrival at Mexico City, settle into Casa Campos",
+            "Lunch at Máximo - refined Mexican cuisine",
+            "Afternoon stroll through Roma Norte neighborhood",
+            "Dinner at Restaurante Rosetta - gorgeous courtyard"
+          ],
+          "locations": [[19.4310, -99.1350]]
+        },
+        {
+          "day": 2,
+          "title": "Markets and Seafood",
+          "activities": [
+            "Morning at Mercado de la Merced - vibrant market experience",
+            "Lunch at ULTRAMARINOS DEMAR - contemporary seafood",
+            "Afternoon exploring Frida Kahlo Museum",
+            "Evening at La Lagunilla Market for local crafts"
+          ],
+          "locations": [[19.4333, -99.1222], [19.4314, -99.1602], [19.4159, -99.1461]]
+        },
+        {
+          "day": 3,
+          "title": "Historic Center and Departure",
+          "activities": [
+            "Morning tour of Templo Mayor archaeological site",
+            "Final lunch at favorite restaurant",
+            "Afternoon shopping in historic center",
+            "Departure from Mexico City"
+          ],
+          "locations": [[19.4383, -99.1367]]
+        }
+      ]
+    },
+    "b": {
+      "name": "Tulum Beach & Wellness",
+      "duration": 3,
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Beach Arrival and Cenote",
+          "activities": [
+            "Arrival in Tulum, check into La Posada Tulum",
+            "Afternoon cenote swimming experience",
+            "Sunset beach walk on Tulum's white sand",
+            "Dinner at Restaurante Bar El Capitán - casual beachside"
+          ],
+          "locations": [[20.2115, -87.4630], [20.2100, -87.4600]]
+        },
+        {
+          "day": 2,
+          "title": "Wellness and Culture",
+          "activities": [
+            "Morning yoga session at La Embajada Universal wellness center",
+            "Specialty coffee at Ki'bok Coffee - bohemian vibes",
+            "Lunch with ocean views",
+            "Afternoon exploring Tulum Artisan Market",
+            "Evening meditation and relaxation"
+          ],
+          "locations": [[20.2120, -87.4590], [20.2115, -87.4610], [20.2180, -87.4400]]
+        },
+        {
+          "day": 3,
+          "title": "Maya Ruins and Departure",
+          "activities": [
+            "Day trip to Chichén Itzá or nearby ruins",
+            "Lunch with local specialties",
+            "Return to Tulum for final sunset",
+            "Farewell dinner at favorite restaurant",
+            "Departure preparation"
+          ],
+          "locations": [[20.6829, -87.5479]]
+        }
+      ]
+    }
+  }
+}

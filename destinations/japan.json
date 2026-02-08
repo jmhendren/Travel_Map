@@ -12,160 +12,160 @@
     {
       "name": "Janu Tokyo",
       "coord": [
-        35.659,
-        139.74
+        35.662174,
+        139.740323
       ],
       "desc": "Ultra-modern luxury, Aman sister brand"
     },
     {
       "name": "Bvlgari Hotel Tokyo",
       "coord": [
-        35.658,
-        139.725
+        35.672979,
+        139.76712
       ],
       "desc": "Italian luxury, Yaesu"
     },
     {
       "name": "Tokyo Edition",
       "coord": [
-        35.664,
-        139.749
+        35.695126,
+        139.75391
       ],
       "desc": "Contemporary design"
     },
     {
       "name": "Hotel Okura",
       "coord": [
-        35.666,
-        139.737
+        35.6635,
+        139.747
       ],
       "desc": "Iconic mid-century"
     },
     {
       "name": "Hoshinoya Tokyo",
       "coord": [
-        35.6867,
-        139.763
+        35.687717,
+        139.765015
       ],
       "desc": "Luxury ryokan in city, Otemachi"
     },
     {
       "name": "K5 Tokyo",
       "coord": [
-        35.6838,
-        139.7745
+        35.67686,
+        139.763895
       ],
       "desc": "Design hotel, Nihonbashi"
     },
     {
       "name": "Tokyo Station Hotel",
       "coord": [
-        35.6812,
-        139.7671
+        35.681013,
+        139.765916
       ],
       "desc": "Historic, in station"
     },
     {
       "name": "Park Hyatt Tokyo",
       "coord": [
-        35.686,
-        139.691
+        35.6873,
+        139.7109
       ],
       "desc": "Renovated Oct 2025"
     },
     {
       "name": "Gora Kadan",
       "coord": [
-        35.2387,
-        139.0571
+        45.082,
+        140.727
       ],
       "desc": "Luxury ryokan, Hakone"
     },
     {
       "name": "Hotel Mitsui Hakone",
       "coord": [
-        35.235,
-        139.066
+        35.189486,
+        139.026906
       ],
       "desc": "Luxury, Hakone"
     },
     {
       "name": "Six Senses Kyoto",
       "coord": [
-        35.012,
-        135.768
+        34.991044,
+        135.773999
       ],
       "desc": "World-class spa"
     },
     {
       "name": "Sowaka Kyoto",
       "coord": [
-        35.003,
-        135.776
+        38.61955,
+        141.236045
       ],
       "desc": "Boutique ryokan, Gion"
     },
     {
       "name": "Four Seasons Kyoto",
       "coord": [
-        34.9879,
-        135.778
+        34.990842,
+        135.776438
       ],
       "desc": "Luxury"
     },
     {
       "name": "Aman Kyoto",
       "coord": [
-        35.0477,
-        135.7258
+        35.050347,
+        135.73123
       ],
       "desc": "Forest retreat"
     },
     {
       "name": "Capella Kyoto",
       "coord": [
-        35.01,
-        135.77
+        32.264947,
+        130.656862
       ],
       "desc": "NEW Q4 2025, Kengo Kuma"
     },
     {
       "name": "Waldorf Astoria Osaka",
       "coord": [
-        34.694,
-        135.502
+        34.702777,
+        135.491491
       ],
       "desc": "Grand luxury"
     },
     {
       "name": "Patina Osaka",
       "coord": [
-        34.6762,
-        135.5009
+        34.681892,
+        135.52475
       ],
       "desc": "Design hotel"
     },
     {
       "name": "Kanazawa Premier Hotel",
       "coord": [
-        36.562,
-        136.6565
+        36.56905,
+        136.66021
       ],
       "desc": "Kanazawa"
     },
     {
       "name": "Byaku Narai",
       "coord": [
-        35.9627,
-        137.8124
+        35.937988,
+        137.960815
       ],
       "desc": "Historic, Narai-juku"
     },
     {
       "name": "Asaba Ryokan",
       "coord": [
-        34.972,
-        138.927
+        34.9666,
+        138.3833
       ],
       "desc": "Izu, Michelin 3 Key"
     },
@@ -188,32 +188,32 @@
     {
       "name": "Setsu Niseko",
       "coord": [
-        42.86,
-        140.69
+        42.804684,
+        140.687303
       ],
       "desc": "Michelin Key hotel"
     },
     {
       "name": "The Windsor Hotel Toya",
       "coord": [
-        42.55,
-        140.84
+        42.59192,
+        140.75993
       ],
       "desc": "Michelin 5-star, Lake Toya"
     },
     {
       "name": "Fujiya Ginzan Onsen",
       "coord": [
-        38.5678,
-        140.3258
+        35.016975,
+        135.752205
       ],
       "desc": "Kengo Kuma design"
     },
     {
       "name": "Tsuru no Yu",
       "coord": [
-        39.795,
-        140.755
+        32.930528,
+        130.589808
       ],
       "desc": "300-year-old onsen"
     },
@@ -228,24 +228,24 @@
     {
       "name": "Noboribetsu Takinoya",
       "coord": [
-        42.49,
-        141.14
+        34.93405,
+        138.18699
       ],
       "desc": "Luxury ryokan"
     },
     {
       "name": "Matsushima Taikanso",
       "coord": [
-        38.37,
-        141.065
+        38.36847,
+        141.060849
       ],
       "desc": "Bay view ryokan"
     },
     {
       "name": "The Westin Sendai",
       "coord": [
-        38.26,
-        140.87
+        38.256369,
+        140.876262
       ],
       "desc": "Floors 28-36"
     },
@@ -256,6 +256,14 @@
         140.835
       ],
       "desc": "Every room open-air bath"
+    },
+    {
+      "name": "MAGMA RESORT Shimobe",
+      "coord": [
+        36.1984,
+        137.499
+      ],
+      "desc": "Google Maps saved place"
     }
   ],
   "restaurants": [
@@ -270,24 +278,24 @@
     {
       "name": "Den",
       "coord": [
-        35.67,
-        139.71
+        35.703301,
+        139.783794
       ],
       "desc": "2 Michelin stars, playful kaiseki"
     },
     {
       "name": "Kanda",
       "coord": [
-        35.673,
-        139.741
+        33.775708,
+        130.980557
       ],
       "desc": "3 Michelin stars, modern Japanese"
     },
     {
       "name": "Tempura Kondo",
       "coord": [
-        35.671,
-        139.765
+        36.825605,
+        139.717773
       ],
       "desc": "Iconic Ginza tempura"
     },
@@ -310,80 +318,80 @@
     {
       "name": "Sushi Meino",
       "coord": [
-        35.67,
-        139.71
+        35.784117,
+        140.379397
       ],
       "desc": "High-end omakase"
     },
     {
       "name": "Sushi Takehan Wakatsuki",
       "coord": [
-        35.69,
-        139.705
+        35.784117,
+        140.379397
       ],
       "desc": "Sushi as art"
     },
     {
       "name": "Shima Steak",
       "coord": [
-        35.67,
-        139.73
+        34.33333,
+        136.83333
       ],
       "desc": "Premium wagyu"
     },
     {
       "name": "Butagumi",
       "coord": [
-        35.66,
-        139.725
+        35.660958,
+        139.72215
       ],
       "desc": "Cult tonkatsu"
     },
     {
       "name": "Roppongi Robataya",
       "coord": [
-        35.662,
-        139.731
+        35.66322,
+        139.73219
       ],
       "desc": "Theatrical dining"
     },
     {
       "name": "Pizzeria da Isa",
       "coord": [
-        35.644,
-        139.699
+        35.647164,
+        139.695258
       ],
       "desc": "World Pizza Cup champion"
     },
     {
       "name": "Yakiniku Jambo Hanare",
       "coord": [
-        35.708,
-        139.761
+        35.263763,
+        136.248108
       ],
       "desc": "A5 wagyu, Tabelog Gold"
     },
     {
       "name": "Tsukiji Toritoh",
       "coord": [
-        35.665,
-        139.77
+        35.66487,
+        139.77004
       ],
       "desc": "Since 1907, oyakodon"
     },
     {
       "name": "Bar Benfiddich",
       "coord": [
-        35.691,
-        139.697
+        35.689499,
+        139.696595
       ],
       "desc": "World's 50 Best #18"
     },
     {
       "name": "Gen Yamamoto",
       "coord": [
-        35.654,
-        139.737
+        35.656487,
+        139.734278
       ],
       "desc": "Cocktail omakase, 8 seats"
     },
@@ -398,16 +406,16 @@
     {
       "name": "The Bellwood",
       "coord": [
-        35.66,
-        139.693
+        35.663084,
+        139.695008
       ],
       "desc": "World's #48, hidden sushi counter"
     },
     {
       "name": "Bar High Five",
       "coord": [
-        35.671,
-        139.764
+        35.671596,
+        139.762937
       ],
       "desc": "Bespoke cocktails, Ginza"
     },
@@ -422,8 +430,8 @@
     {
       "name": "Grandfather's Bar",
       "coord": [
-        35.658,
-        139.701
+        34.338823,
+        134.049513
       ],
       "desc": "Hidden vinyl bar, Shibuya"
     },
@@ -438,32 +446,32 @@
     {
       "name": "Kitcho Arashiyama",
       "coord": [
-        35.014,
-        135.668
+        43.793605,
+        142.310999
       ],
       "desc": "Japan's best kaiseki"
     },
     {
       "name": "Kikunoi",
       "coord": [
-        34.999,
-        135.78
+        35.001375,
+        135.782263
       ],
       "desc": "3 Michelin stars, 100+ years"
     },
     {
       "name": "Roan Kikunoi",
       "coord": [
-        35.004,
-        135.776
+        35.003408,
+        135.77064
       ],
       "desc": "Affordable kaiseki, Gion"
     },
     {
       "name": "Gion Owatari",
       "coord": [
-        35.003,
-        135.775
+        39.309087,
+        140.744297
       ],
       "desc": "2 Michelin stars, Kyoto"
     },
@@ -478,48 +486,48 @@
     {
       "name": "Honke Owariya",
       "coord": [
-        35.009,
-        135.762
+        35.012748,
+        135.760145
       ],
       "desc": "Oldest soba 1465"
     },
     {
       "name": "Yasaka Park Hyatt",
       "coord": [
-        35,
-        135.778
+        34.998608,
+        135.778174
       ],
       "desc": "Best restaurant in Kyoto"
     },
     {
       "name": "Bee's Knees",
       "coord": [
-        35.004,
-        135.776
+        35.670165,
+        139.742909
       ],
       "desc": "Asia's 50 Best bars, Gion"
     },
     {
       "name": "L'Escamoteur",
       "coord": [
-        35.008,
-        135.77
+        35.001819,
+        135.769992
       ],
       "desc": "Steampunk cocktails"
     },
     {
       "name": "Kashiwaya",
       "coord": [
-        34.76,
-        135.515
+        41.774978,
+        140.731683
       ],
       "desc": "3 Michelin stars, Osaka"
     },
     {
       "name": "Hajime",
       "coord": [
-        34.686,
-        135.496
+        34.799547,
+        135.779128
       ],
       "desc": "3 Michelin stars, El Bulli trained"
     },
@@ -534,120 +542,120 @@
     {
       "name": "Ajinoya",
       "coord": [
-        34.669,
-        135.503
+        34.668058,
+        135.500963
       ],
       "desc": "Bib Gourmand okonomiyaki"
     },
     {
       "name": "Mizuno",
       "coord": [
-        34.669,
-        135.502
+        32.956279,
+        130.451718
       ],
       "desc": "World-famous okonomiyaki"
     },
     {
       "name": "Bar K",
       "coord": [
-        34.696,
-        135.498
+        35.94867,
+        139.696256
       ],
       "desc": "Moody whiskey bar"
     },
     {
       "name": "Otome Sushi",
       "coord": [
-        36.571,
-        136.656
+        36.5358,
+        136.617474
       ],
       "desc": "2 Michelin stars, Kanazawa"
     },
     {
       "name": "Zeniya",
       "coord": [
-        36.561,
-        136.656
+        34.21084,
+        131.223921
       ],
       "desc": "2 Michelin stars, French-Japanese"
     },
     {
       "name": "Tsubajin",
       "coord": [
-        36.563,
-        136.66
+        36.55521,
+        136.6514
       ],
       "desc": "400-year-old ryotei"
     },
     {
       "name": "Sushi Miyakawa",
       "coord": [
-        43.055,
-        141.35
+        42.85871,
+        140.705313
       ],
       "desc": "3 Michelin stars, Sapporo"
     },
     {
       "name": "Tempura Araki",
       "coord": [
-        43.056,
-        141.351
+        42.859024,
+        140.706381
       ],
       "desc": "2 Michelin stars, Sapporo"
     },
     {
       "name": "Ryotei FUMOTO",
       "coord": [
-        41.768,
-        140.726
+        33.2664,
+        131.3667
       ],
       "desc": "Michelin 1 star, Hakodate"
     },
     {
       "name": "Keyaki",
       "coord": [
-        43.054,
-        141.353
+        34.769869,
+        133.649076
       ],
       "desc": "Legendary miso ramen"
     },
     {
       "name": "Ebisoba Ichigen",
       "coord": [
-        43.053,
-        141.352
+        43.051275,
+        141.345469
       ],
       "desc": "Shrimp ramen, Sapporo"
     },
     {
       "name": "Uni Murakami",
       "coord": [
-        41.769,
-        140.727
+        41.771938,
+        140.724383
       ],
       "desc": "Sea urchin specialist"
     },
     {
       "name": "Bar Yamazaki",
       "coord": [
-        43.0545,
-        141.354
+        35.42137,
+        139.41172
       ],
       "desc": "Sapporo's most famous bar"
     },
     {
       "name": "Hana Ita",
       "coord": [
-        38.2605,
-        140.871
+        33.64171,
+        130.82755
       ],
       "desc": "Michelin kaiseki, Sendai"
     },
     {
       "name": "Rikyu Gyutan",
       "coord": [
-        38.261,
-        140.882
+        38.248566,
+        140.91608
       ],
       "desc": "Iconic gyutan, Sendai"
     },
@@ -662,24 +670,24 @@
     {
       "name": "Pairon",
       "coord": [
-        39.698,
-        141.154
+        35.705848,
+        139.741503
       ],
       "desc": "Originator of jajamen"
     },
     {
       "name": "Seirokaku",
       "coord": [
-        39.701,
-        141.137
+        35.776475,
+        139.704323
       ],
       "desc": "Tabelog 100, reimen"
     },
     {
       "name": "Otaru Sushi Takumi",
       "coord": [
-        43.19,
-        140.994
+        32.92825,
+        130.84758
       ],
       "desc": "Local sushi, Otaru"
     },
@@ -694,66 +702,226 @@
     {
       "name": "Restaurant Yamazaki",
       "coord": [
-        40.603,
-        140.464
+        38.291795,
+        141.010644
       ],
       "desc": "French farm-to-table, Hirosaki"
     },
     {
       "name": "Sakura no Sato",
       "coord": [
-        39.596,
-        140.558
+        34.906454,
+        139.090323
       ],
       "desc": "Hinai chicken, Kakunodate"
     },
     {
       "name": "Zunda Saryo",
       "coord": [
-        38.2615,
-        140.8825
+        35.681441,
+        139.769288
       ],
       "desc": "Edamame sweets, Sendai"
     },
     {
       "name": "Fuunji",
       "coord": [
-        35.689,
-        139.7
+        35.68689,
+        139.696686
       ],
       "desc": "Top-rated tsukemen, Shinjuku"
     },
     {
       "name": "Afuri",
       "coord": [
-        35.66,
-        139.704
+        35.64239,
+        139.669796
       ],
       "desc": "Light yuzu ramen"
     },
     {
       "name": "Tsurutontan Udon",
       "coord": [
-        35.689,
-        139.7
+        34.651801,
+        135.38552
       ],
       "desc": "Giant udon bowls, theatrical"
+    },
+    {
+      "name": "Matsubara-an Keyaki",
+      "coord": [
+        35.6695124,
+        139.7037221
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Lemon-sha Ginza-kyokai Store",
+      "coord": [
+        35.672907,
+        139.764273
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Fujikoshi Camera",
+      "coord": [
+        35.6665391,
+        139.7575215
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Akihabara Nisshin camera head office",
+      "coord": [
+        35.6963927,
+        139.775127
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "KATSUMIDO Camera",
+      "coord": [
+        35.670603,
+        139.765523
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Sukiya Camera",
+      "coord": [
+        35.67211,
+        139.76452
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "fileja",
+      "coord": [
+        36.1992,
+        137.5
+      ],
+      "desc": "pasta omakase"
+    },
+    {
+      "name": "Ine Fishing Village",
+      "coord": [
+        36.2,
+        137.501
+      ],
+      "desc": "between osaka and kyoto. maybe cool"
+    },
+    {
+      "name": "Chayakado",
+      "coord": [
+        36.2008,
+        137.502
+      ],
+      "desc": "noodles"
+    },
+    {
+      "name": "Kichijōji",
+      "coord": [
+        36.2016,
+        137.498
+      ],
+      "desc": "Cool neighborhood in tokyo maybe"
+    },
+    {
+      "name": "Ghibli Museum",
+      "coord": [
+        36.2024,
+        137.499
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Sawada",
+      "coord": [
+        36.1976,
+        137.5
+      ],
+      "desc": "Sushi - from roads and kingdoms book"
+    },
+    {
+      "name": "㐂舌響 KITAN HIBIKI YAKINIKU&STEAK",
+      "coord": [
+        36.1984,
+        137.501
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "New Matsuzaka Shinjukuten",
+      "coord": [
+        36.1992,
+        137.502
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Gion Mikaku",
+      "coord": [
+        36.2,
+        137.498
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Karashibi Miso Ramen Kikanbō Kanda Honten",
+      "coord": [
+        36.2008,
+        137.499
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Tempura Yasuda",
+      "coord": [
+        36.2016,
+        137.5
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Shima",
+      "coord": [
+        35.6786,
+        139.6513
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "USHIGORO S. GINZA",
+      "coord": [
+        35.6746,
+        139.6483
+      ],
+      "desc": "evidently a good upscale spot that allows kids. A5 Wagyu tasting. found on chubbytravel"
+    },
+    {
+      "name": "Ogawanoshodaimonten",
+      "coord": [
+        36.2,
+        137.5
+      ],
+      "desc": "Google Maps saved place"
     }
   ],
   "experiences": [
     {
       "name": "teamLab Borderless",
       "coord": [
-        35.6584,
-        139.732
+        35.661602,
+        139.741267
       ],
       "desc": "Digital art, Azabudai Hills"
     },
     {
       "name": "teamLab Planets",
       "coord": [
-        35.644,
-        139.789
+        35.661602,
+        139.741267
       ],
       "desc": "Walk-through water"
     },
@@ -768,40 +936,40 @@
     {
       "name": "Kappabashi Street",
       "coord": [
-        35.714,
-        139.789
+        35.714253,
+        139.788889
       ],
       "desc": "Kitchen supply wonderland"
     },
     {
       "name": "Saihoji Moss Temple",
       "coord": [
-        34.994,
-        135.685
+        34.992293,
+        135.683607
       ],
       "desc": "120+ moss varieties"
     },
     {
       "name": "Arashiyama Bamboo",
       "coord": [
-        35.0094,
-        135.6673
+        35.016742,
+        135.671148
       ],
       "desc": "Iconic bamboo grove"
     },
     {
       "name": "Hakone Open Air Museum",
       "coord": [
-        35.2471,
-        139.0506
+        35.244284,
+        139.052083
       ],
       "desc": "Outdoor sculpture"
     },
     {
       "name": "Miho Museum",
       "coord": [
-        34.89,
-        136.038
+        34.9149,
+        136.016131
       ],
       "desc": "I.M. Pei design"
     },
@@ -816,48 +984,48 @@
     {
       "name": "Hakone Kowakien Yunessun",
       "coord": [
-        35.235,
-        139.06
+        35.239353,
+        139.045161
       ],
       "desc": "Wine/coffee/tea baths!"
     },
     {
       "name": "Hakone Yuryo",
       "coord": [
-        35.24,
-        139.055
+        35.233833,
+        139.095833
       ],
       "desc": "19 private onsen baths"
     },
     {
       "name": "Maikoya Tea Ceremony",
       "coord": [
-        35.004,
-        135.77
+        34.997695,
+        135.774015
       ],
       "desc": "Kimono + tea + sweets"
     },
     {
       "name": "Honen-in Temple",
       "coord": [
-        35.021,
-        135.798
+        35.023647,
+        135.797361
       ],
       "desc": "Hidden moss temple"
     },
     {
       "name": "Gio-ji Temple",
       "coord": [
-        35.025,
-        135.662
+        35.023517,
+        135.666801
       ],
       "desc": "Hidden moss garden"
     },
     {
       "name": "Sanzen-in Temple",
       "coord": [
-        35.121,
-        135.835
+        35.119642,
+        135.834923
       ],
       "desc": "Rural, playful Jizo statues"
     },
@@ -872,48 +1040,48 @@
     {
       "name": "Tenjin Festival",
       "coord": [
-        34.694,
-        135.513
+        35.93776,
+        139.8434
       ],
       "desc": "July 24-25, illuminated boats"
     },
     {
       "name": "Nikka Whisky Yoichi",
       "coord": [
-        43.197,
-        140.762
+        43.186165,
+        140.789495
       ],
       "desc": "Founded 1934"
     },
     {
       "name": "Farm Tomita",
       "coord": [
-        43.247,
-        142.389
+        26.40899,
+        127.715401
       ],
       "desc": "Lavender fields, peak mid-July"
     },
     {
       "name": "Shirogane Blue Pond",
       "coord": [
-        43.388,
-        142.606
+        43.473856,
+        142.63819
       ],
       "desc": "Stunning blue water, Biei"
     },
     {
       "name": "Otaru Canal",
       "coord": [
-        43.195,
-        140.994
+        43.202023,
+        141.0006
       ],
       "desc": "1,140m canal, 63 gas lamps"
     },
     {
       "name": "Furano Wine Factory",
       "coord": [
-        43.32,
-        142.37
+        43.358563,
+        142.373697
       ],
       "desc": "Japan's northernmost winery"
     },
@@ -928,32 +1096,32 @@
     {
       "name": "Matsushima Bay Cruise",
       "coord": [
-        38.365,
-        141.07
+        36.665631,
+        138.155303
       ],
       "desc": "260+ pine islands"
     },
     {
       "name": "Ginzan Onsen Village",
       "coord": [
-        38.568,
-        140.326
+        38.56722,
+        140.52556
       ],
       "desc": "Gaslit onsen town"
     },
     {
       "name": "Kakunodate Samurai District",
       "coord": [
-        39.595,
-        140.557
+        39.597831,
+        140.562156
       ],
       "desc": "Little Kyoto of Tohoku"
     },
     {
       "name": "Dewa Sanzan",
       "coord": [
-        38.699,
-        139.973
+        38.63864,
+        139.98847
       ],
       "desc": "Sacred mountain pilgrimage"
     },
@@ -968,16 +1136,16 @@
     {
       "name": "Oirase Gorge",
       "coord": [
-        40.523,
-        140.951
+        40.6859,
+        139.97919
       ],
       "desc": "Ancient beech forest"
     },
     {
       "name": "Otokoyama Sake Museum",
       "coord": [
-        43.77,
-        142.37
+        38.166676,
+        140.397052
       ],
       "desc": "350-year sake history"
     },
@@ -1000,8 +1168,8 @@
     {
       "name": "Patchwork Road",
       "coord": [
-        43.375,
-        142.45
+        34.957453,
+        136.259892
       ],
       "desc": "Iconic farm landscape, Biei"
     },
@@ -1016,24 +1184,24 @@
     {
       "name": "Asahiyama Zoo",
       "coord": [
-        43.769,
-        142.365
+        43.768642,
+        142.479273
       ],
       "desc": "Hokkaido's most popular zoo"
     },
     {
       "name": "Map Camera Shinjuku",
       "coord": [
-        35.6938,
-        139.7004
+        35.689428,
+        139.69676
       ],
       "desc": "Japan's largest used camera store"
     },
     {
       "name": "Fujiya Camera Nakano",
       "coord": [
-        35.7063,
-        139.6659
+        35.706663,
+        139.666557
       ],
       "desc": "Legendary used cameras, Nakano Broadway"
     },
@@ -1048,24 +1216,24 @@
     {
       "name": "Camera no Naniwa Osaka",
       "coord": [
-        34.705,
-        135.498
+        34.702049,
+        135.493566
       ],
       "desc": "Osaka's top used camera dealer"
     },
     {
       "name": "Leica Store Kyoto",
       "coord": [
-        35.004,
-        135.776
+        35.007816,
+        135.768844
       ],
       "desc": "Machiya townhouse, Japan editions"
     },
     {
       "name": "Camera Collection Sapporo",
       "coord": [
-        43.054,
-        141.353
+        35.614667,
+        139.378381
       ],
       "desc": "Hokkaido's best used cameras"
     },
@@ -1096,32 +1264,32 @@
     {
       "name": "Yojiya Kyoto",
       "coord": [
-        35.004,
-        135.775
+        35.022044,
+        135.794726
       ],
       "desc": "Iconic Kyoto skincare since 1904"
     },
     {
       "name": "Makanai Cosmetics Kanazawa",
       "coord": [
-        36.562,
-        136.657
+        36.561627,
+        136.656882
       ],
       "desc": "Gold-leaf skincare"
     },
     {
       "name": "SUQQU Flagship Ginza",
       "coord": [
-        35.671,
-        139.764
+        35.671534,
+        139.764195
       ],
       "desc": "Ultra-luxury Japanese beauty"
     },
     {
       "name": "THREE Aoyama",
       "coord": [
-        35.665,
-        139.714
+        35.6633,
+        139.71008
       ],
       "desc": "Natural botanical skincare"
     },
@@ -1136,8 +1304,8 @@
     {
       "name": "Shimokitazawa Vintage",
       "coord": [
-        35.661,
-        139.669
+        35.66145,
+        139.66735
       ],
       "desc": "100+ thrift stores, indie cafes"
     },
@@ -1152,26 +1320,74 @@
     {
       "name": "Tsutaya T-Site Daikanyama",
       "coord": [
-        35.65,
-        139.702
+        39.675399,
+        140.126689
       ],
       "desc": "World's most beautiful bookstore"
     },
     {
       "name": "Kiyomizu Pottery Street",
       "coord": [
-        34.998,
-        135.78
+        34.997107,
+        135.779023
       ],
       "desc": "Historic ceramics district"
     },
     {
       "name": "Disk Union Shinjuku",
       "coord": [
-        35.692,
-        139.701
+        35.690771,
+        139.702751
       ],
       "desc": "8 floors of vinyl records"
+    },
+    {
+      "name": "Meiji Jingu",
+      "coord": [
+        35.6763976,
+        139.6993259
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "TOMORROWLAND",
+      "coord": [
+        35.680285,
+        139.763161
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Map Camera",
+      "coord": [
+        35.6894431,
+        139.6972617
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Sankyo Camera",
+      "coord": [
+        35.670117,
+        139.766867
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "TOMORROWLAND Marunouchi Store",
+      "coord": [
+        36.2024,
+        137.501
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "teamLab Borderless: MORI Building DIGITAL ART MUSEUM",
+      "coord": [
+        35.6738,
+        139.6523
+      ],
+      "desc": "Google Maps saved place"
     }
   ],
   "kidFriendly": [
@@ -1194,24 +1410,24 @@
     {
       "name": "Pokemon Center Kyoto",
       "coord": [
-        35.004,
-        135.76
+        35.003368,
+        135.758369
       ],
       "desc": "Official store"
     },
     {
       "name": "Kyoto Aquarium",
       "coord": [
-        34.987,
-        135.747
+        34.987554,
+        135.747878
       ],
       "desc": "Dolphins, penguins"
     },
     {
       "name": "DisneySea",
       "coord": [
-        35.627,
-        139.885
+        35.627252,
+        139.883939
       ],
       "desc": "World-class theme park"
     },
@@ -1234,64 +1450,64 @@
     {
       "name": "Inokashira Park",
       "coord": [
-        35.699,
-        139.576
+        35.696256,
+        139.571487
       ],
       "desc": "Swan boats, small zoo"
     },
     {
       "name": "Nara Park",
       "coord": [
-        34.6851,
-        135.843
+        34.682901,
+        135.854598
       ],
       "desc": "Friendly deer"
     },
     {
       "name": "Solaniwa Onsen",
       "coord": [
-        34.731,
-        135.496
+        36.84352,
+        139.71935
       ],
       "desc": "Family onsen paradise"
     },
     {
       "name": "Tokyo Toy Museum",
       "coord": [
-        35.693,
-        139.722
+        35.689779,
+        139.717977
       ],
       "desc": "Wooden toys"
     },
     {
       "name": "Kids Plaza Osaka",
       "coord": [
-        34.703,
-        135.51
+        34.704525,
+        135.510271
       ],
       "desc": "Enormous play zone"
     },
     {
       "name": "Osaka Aquarium",
       "coord": [
-        34.6545,
-        135.4289
+        34.655159,
+        135.429379
       ],
       "desc": "Whale sharks"
     },
     {
       "name": "Asahiyama Zoo",
       "coord": [
-        43.769,
-        142.365
+        43.768642,
+        142.479273
       ],
       "desc": "Free for kids, stroller rentals"
     },
     {
       "name": "Furano Cheese Workshop",
       "coord": [
-        43.31,
-        142.38
+        43.345155,
+        142.36084
       ],
       "desc": "Hands-on for toddlers"
     },
@@ -1306,48 +1522,48 @@
     {
       "name": "Matsushima Bay Cruise",
       "coord": [
-        38.365,
-        141.07
+        36.665631,
+        138.155303
       ],
       "desc": "Gentle scenic boat ride"
     },
     {
       "name": "Kakunodate Walking",
       "coord": [
-        39.595,
-        140.557
+        39.58333,
+        140.56667
       ],
       "desc": "Flat streets, stroller-friendly"
     },
     {
       "name": "Anpanman Museum Sendai",
       "coord": [
-        38.26,
-        140.875
+        38.264181,
+        140.887501
       ],
       "desc": "Character museum for toddlers"
     },
     {
       "name": "Kiddyland Harajuku",
       "coord": [
-        35.67,
-        139.703
+        35.670432,
+        139.703008
       ],
       "desc": "5 floors of toys"
     },
     {
       "name": "Cup Noodles Museum",
       "coord": [
-        35.455,
-        139.638
+        35.455486,
+        139.638881
       ],
       "desc": "Design your own cup noodle"
     },
     {
       "name": "Sapporo Maruyama Zoo",
       "coord": [
-        43.052,
-        141.318
+        43.048751,
+        141.306127
       ],
       "desc": "Compact, stroller-friendly"
     },
@@ -1364,72 +1580,72 @@
     {
       "name": "Toyosu Market",
       "coord": [
-        35.643,
-        139.786
+        35.645052,
+        139.78485
       ],
       "desc": "World's largest fish market"
     },
     {
       "name": "Tsukiji Outer Market",
       "coord": [
-        35.6654,
-        139.7707
+        35.665253,
+        139.769302
       ],
       "desc": "Iconic food market"
     },
     {
       "name": "Nishiki Market",
       "coord": [
-        35.005,
-        135.764
+        35.005024,
+        135.76557
       ],
       "desc": "400 years, 5 blocks"
     },
     {
       "name": "Kuromon Market",
       "coord": [
-        34.6626,
-        135.5067
+        34.665795,
+        135.507015
       ],
       "desc": "Osaka's kitchen"
     },
     {
       "name": "Kappabashi",
       "coord": [
-        35.714,
-        139.789
+        35.714253,
+        139.788889
       ],
       "desc": "Kitchen supplies"
     },
     {
       "name": "Omicho Market",
       "coord": [
-        36.5714,
-        136.6598
+        36.57069,
+        136.656955
       ],
       "desc": "Kanazawa's kitchen, 300 years"
     },
     {
       "name": "Tsukishima Monja Street",
       "coord": [
-        35.661,
-        139.782
+        35.664285,
+        139.782458
       ],
       "desc": "80+ monjayaki restaurants"
     },
     {
       "name": "Hakodate Morning Market",
       "coord": [
-        41.773,
-        140.731
+        41.772239,
+        140.724817
       ],
       "desc": "250 shops, Donburi Yokocho"
     },
     {
       "name": "Nijo Market",
       "coord": [
-        43.058,
-        141.351
+        43.058255,
+        141.358467
       ],
       "desc": "Sapporo's kitchen, 100+ years"
     },
@@ -1444,32 +1660,32 @@
     {
       "name": "Furukawa Fish Market",
       "coord": [
-        40.827,
-        140.738
+        38.57167,
+        140.95556
       ],
       "desc": "DIY nokke-don, Aomori"
     },
     {
       "name": "Foodever",
       "coord": [
-        38.728,
-        139.827
+        38.739082,
+        139.836545
       ],
       "desc": "UNESCO gastronomy food hall"
     },
     {
       "name": "Nakano Broadway",
       "coord": [
-        35.706,
-        139.665
+        35.709241,
+        139.665685
       ],
       "desc": "Vintage cameras, anime, retro"
     },
     {
       "name": "Yanaka Ginza",
       "coord": [
-        35.724,
-        139.767
+        35.727669,
+        139.765317
       ],
       "desc": "Retro shotengai, cat-themed"
     }

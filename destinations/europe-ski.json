@@ -12,24 +12,24 @@
     {
       "name": "Aman Rosa Alpina",
       "coord": [
-        46.572,
-        11.856
+        46.574000000000005,
+        11.860000000000001
       ],
       "desc": "Reimagined Rosa Alpina; signature wine focus; high-touch wellness & design."
     },
     {
       "name": "Lagació Hotel Mountain Residence",
       "coord": [
-        46.572,
-        11.856
+        46.578,
+        11.858
       ],
       "desc": "Apartment-style suites, ideal with kids; base for Sellaronda/Alta Badia slopes."
     },
     {
       "name": "Hotel La Perla",
       "coord": [
-        46.5501,
-        11.8736
+        47.692732,
+        9.270347
       ],
       "desc": "Family-run; famed cellar (thousands of vintages); excellent dining base in Co..."
     },
@@ -44,194 +44,309 @@
     {
       "name": "Hotel ChristiAnia",
       "coord": [
-        46.561,
-        11.872
+        46.58212,
+        11.903805
       ],
       "desc": "Classic lodge + contemporary wing; polished service and spa."
     },
     {
       "name": "Ciasa Salares",
       "coord": [
-        46.572,
-        11.856
+        46.567,
+        11.868
       ],
       "desc": "Well-known for culinary focus (cheese & wine culture); cozy alpine design."
     },
     {
       "name": "Hotel Tofana",
       "coord": [
-        46.572,
-        11.856
+        46.557203,
+        12.064367
       ],
       "desc": "Wellness + family-friendly positioning in San Cassiano."
     },
     {
       "name": "The Crystal VAYA Unique",
       "coord": [
-        46.8695,
-        11.0258
+        46.871500000000005,
+        11.029800000000002
       ],
       "desc": "On-piste access; indoor/outdoor pool with Ötztal views; sustainability notes."
     },
     {
       "name": "Alpen-Wellness Resort Hochfirst",
       "coord": [
-        46.8695,
-        11.0258
+        46.8755,
+        11.027800000000001
       ],
       "desc": "High-altitude base; snow-sure positioning; spa focus."
     },
     {
       "name": "Hotel Bellevue Obergurgl",
       "coord": [
-        46.8695,
-        11.0258
+        47.114699,
+        13.133135
       ],
       "desc": "Elegant base in Obergurgl with wellness positioning."
     },
     {
       "name": "Hochfirst – The Luxury Mountain Resort",
       "coord": [
-        46.8695,
-        11.0258
+        46.86750000000001,
+        11.027800000000001
       ],
       "desc": "Large alpine spa + heated pools; direct slope access (Falstaff-rated)."
     },
     {
       "name": "Hotel Gurglhof",
       "coord": [
-        46.8695,
-        11.0258
+        46.8735,
+        11.023800000000001
       ],
       "desc": "Falstaff-rated; notes childcare + spa; strong location score."
     },
     {
       "name": "all inclusive Hotel Lohmann",
       "coord": [
-        46.8695,
-        11.0258
+        46.8775,
+        11.0218
       ],
       "desc": "Child-minding + ski-school pickup/drop-off service (per CN Traveller)."
     },
     {
       "name": "Alpina",
       "coord": [
-        46.1566,
-        6.6686
+        46.1586,
+        6.672599999999999
       ],
       "desc": "Village-center; pool/sauna; playroom & interconnecting options."
     },
     {
       "name": "Hôtel & Spa Crychar",
       "coord": [
-        46.1566,
-        6.6686
+        46.1626,
+        6.670599999999999
       ],
       "desc": "Chalet-style; at base of slopes; home-style cooking emphasis."
     },
     {
       "name": "Chalet-Hotel La Marmotte (Les Gets)",
       "coord": [
-        46.1566,
-        6.6686
+        48.070429,
+        6.878235
       ],
       "desc": "Spa + multiple on-site restaurants/bars (handy with kids & early nights)."
     },
     {
       "name": "Les Dromonts",
       "coord": [
-        46.18,
-        6.685
+        46.189244,
+        6.776454
       ],
       "desc": "Iconic Avoriaz stay; easy access to bigger Portes du Soleil domain."
     },
     {
       "name": "MIL8",
       "coord": [
-        46.18,
-        6.685
+        49.599934,
+        9.229667
       ],
       "desc": "Modern rooms + retro cocktail bar; Avoriaz streets-as-pistes experience."
     },
     {
       "name": "La Bergerie",
       "coord": [
-        46.14,
-        6.64
+        45.935,
+        6.555
       ],
       "desc": "Seasonal January–April; traditional chalet-hotel format."
     },
     {
       "name": "Plum Guide – 'Alpine Modern' (chalet)",
       "coord": [
-        46.1566,
-        6.6686
+        46.1546,
+        6.670599999999999
       ],
       "desc": "Vetted chalet option in Les Gets (Plum Guide), flexible for naps/meals."
     },
     {
       "name": "Plum Guide – 'Be Together' (chalet)",
       "coord": [
-        46.1566,
-        6.6686
+        46.160599999999995,
+        6.6646
       ],
       "desc": "Vetted chalet option in Les Gets (Plum Guide), good for multi-age kids."
     },
     {
       "name": "Hotel Val de Neu",
       "coord": [
-        42.645,
-        0.68
+        45.800,
+        6.707
       ],
       "desc": "Excellent slope access; Sisley spa + thermal circuit; fireside hot chocolate ..."
     },
     {
       "name": "Val de Ruda Hotel Chalet",
       "coord": [
-        42.645,
-        0.68
+        45.810,
+        6.715
       ],
       "desc": "Traditional alpine feel; wood-clad rooms; easy-going alternative to big hotels."
     },
     {
       "name": "Chalet Salana (Ski Miquel / catered)",
       "coord": [
-        42.645,
-        0.68
+        45.800,
+        6.705
       ],
       "desc": "Highlighted as great chalet stay near Baqueira (CN Traveller)."
     },
     {
       "name": "Plum Guide – 'Snowfall Sanctuary' (chalet)",
       "coord": [
-        42.645,
-        0.68
+        45.798,
+        6.706
       ],
       "desc": "Vetted Plum Guide ski-in/ski-out option close to lifts."
     },
     {
       "name": "Copperhill Mountain Lodge",
       "coord": [
-        63.4,
-        13.08
+        63.383234,
+        13.17775
       ],
       "desc": "Design-hotel energy; good for children; non-ski activities incl. dog-sledding..."
     },
     {
       "name": "Hotel Åregården",
       "coord": [
-        63.4,
-        13.08
+        63.399435,
+        13.079068
       ],
       "desc": "White Guide–listed hotel; in-town access to restaurants/bars."
     },
     {
       "name": "Granen Hotel & Restaurant",
       "coord": [
-        63.4,
+        63.3975,
         13.08
       ],
       "desc": "White Guide–rated restaurant on-site; classic alpine-stuga feel."
+    },
+    {
+      "name": "ValKids",
+      "coord": [45.449, 6.980],
+      "desc": ""
+    },
+    {
+      "name": "AKI Family Resort PLOSE",
+      "coord": [46.6840, 11.4310],
+      "desc": ""
+    },
+    {
+      "name": "Livigno",
+      "coord": [46.5386, 10.1356],
+      "desc": ""
+    },
+    {
+      "name": "Hotel Mürren Palace",
+      "coord": [46.5590, 7.8930],
+      "desc": ""
+    },
+    {
+      "name": "Six Senses Crans-Montana",
+      "coord": [46.3070, 7.4815],
+      "desc": ""
+    },
+    {
+      "name": "Naturhotel Forsthofgut",
+      "coord": [47.265, 10.758],
+      "desc": ""
+    },
+    {
+      "name": "Ischgl",
+      "coord": [47.268, 10.299],
+      "desc": ""
+    },
+    {
+      "name": "Bettmeralp",
+      "coord": [46.409, 8.222],
+      "desc": ""
+    },
+    {
+      "name": "Les Contamines-Montjoie",
+      "coord": [45.800, 6.706],
+      "desc": ""
+    },
+    {
+      "name": "Village Club MMV Les Brévières",
+      "coord": [45.456, 6.735],
+      "desc": ""
+    },
+    {
+      "name": "Tignes Station de Ski",
+      "coord": [45.471, 6.745],
+      "desc": ""
+    },
+    {
+      "name": "Avoriaz",
+      "coord": [46.180, 6.685],
+      "desc": ""
+    },
+    {
+      "name": "Silvretta Hochalpenstraße Aussichtspunkt",
+      "coord": [46.965, 10.085],
+      "desc": ""
+    },
+    {
+      "name": "COMO Alpina Dolomites",
+      "coord": [46.635, 11.923],
+      "desc": ""
+    },
+    {
+      "name": "Aurelio Hotel & Chalet Lech",
+      "coord": [47.607, 10.170],
+      "desc": ""
+    },
+    {
+      "name": "Le Cerf Amoureux",
+      "coord": [45.936, 6.556],
+      "desc": ""
+    },
+    {
+      "name": "Tschuggen Grand Hotel Arosa",
+      "coord": [46.799, 9.840],
+      "desc": ""
+    },
+    {
+      "name": "Valsana Hotel & Ferienwohnungen Arosa",
+      "coord": [46.799, 9.835],
+      "desc": ""
+    },
+    {
+      "name": "Le Refuge de Solaise",
+      "coord": [45.290, 6.735],
+      "desc": ""
+    },
+    {
+      "name": "Schilthorn - Piz Gloria 360°- Restaurant",
+      "coord": [46.642, 8.342],
+      "desc": ""
+    },
+    {
+      "name": "Kleine Scheidegg",
+      "coord": [46.661, 8.341],
+      "desc": ""
+    },
+    {
+      "name": "Jungfraujoch Sphinx Observatory",
+      "coord": [46.548, 8.163],
+      "desc": ""
+    },
+    {
+      "name": "Schilthorn",
+      "coord": [46.642, 8.342],
+      "desc": ""
     }
   ],
   "restaurants": [
@@ -247,95 +362,95 @@
       "name": "La Stüa de Michil (MICHELIN)",
       "coord": [
         46.5501,
-        11.8736
+        11.8756
       ],
       "desc": "Signature Ladin stube setting inside Hotel La Perla; chef-led tasting menus."
     },
     {
       "name": "Bistrot La Perla",
       "coord": [
-        46.5501,
-        11.8736
+        47.693,
+        9.270
       ],
       "desc": "Reliable bistro option when you want La Perla energy without the full tasting."
     },
     {
       "name": "Rifugio Bioch",
       "coord": [
-        46.572,
-        11.856
+        46.65712,
+        11.88024
       ],
       "desc": "Easy to reach (even with kids); standout Champagne list + local producers."
     },
     {
       "name": "Rifugio Sponata",
       "coord": [
-        46.561,
-        11.872
+        46.498705,
+        12.38474
       ],
-      "desc": "Wine-driven ski lunch; bottles drawn from Rosa Alpina’s cellar per expert."
+      "desc": "Wine-driven ski lunch; bottles drawn from Rosa Alpina's cellar per expert."
     },
     {
       "name": "Berghaus Ladinia",
       "coord": [
-        46.5501,
-        11.8736
+        47.670937,
+        8.290455
       ],
       "desc": "Classic Ladin dishes; perfect warming lunch by the lifts."
     },
     {
       "name": "Rifugio Scotoni",
       "coord": [
-        46.561,
-        11.872
+        46.55302,
+        11.99836
       ],
       "desc": "Rowdy, grill-forward ski-in classic; great for a big lunch with friends."
     },
     {
       "name": "Maso Runch-Hof (MICHELIN)",
       "coord": [
-        46.561,
-        11.872
+        46.617098,
+        11.907826
       ],
-      "desc": "Historic farmhouse setting; ‘journey back in time’ feel per MICHELIN."
+      "desc": "Historic farmhouse setting; 'journey back in time' feel per MICHELIN."
     },
     {
       "name": "L'Ostì (MICHELIN selection)",
       "coord": [
-        46.561,
-        11.872
+        46.563,
+        11.876
       ],
-      "desc": "Dependable ‘smart-casual’ dinner option in the valley."
+      "desc": "Dependable 'smart-casual' dinner option in the valley."
     },
     {
       "name": "Rifugio Col Alt (MICHELIN selection)",
       "coord": [
-        46.5501,
-        11.8736
+        45.929394,
+        12.422032
       ],
       "desc": "High-view ski lunch stop (book on sunny days)."
     },
     {
       "name": "Austria Stuben (Falstaff)",
       "coord": [
-        46.8695,
-        11.0258
+        47.522617,
+        14.143702
       ],
       "desc": "Gourmet dining in Obergurgl; strong wine program."
     },
     {
       "name": "Gourmet Restaurant Grünerhof (Falstaff)",
       "coord": [
-        46.8695,
-        11.0258
+        48.22964,
+        11.702636
       ],
       "desc": "Falstaff-rated; classic Tyrolean comfort with polish."
     },
     {
       "name": "Edelweiss & Gurgl (Falstaff)",
       "coord": [
-        46.8695,
-        11.0258
+        46.86964,
+        11.02641
       ],
       "desc": "Fondue option + elevated local menu; cozy parlours."
     },
@@ -351,113 +466,113 @@
       "name": "La R'mize (MICHELIN selection)",
       "coord": [
         46.1566,
-        6.6686
+        6.6706
       ],
       "desc": "A polished dinner in the village; good for a date-night babysitter evening."
     },
     {
       "name": "La Paika",
       "coord": [
-        46.1566,
-        6.6686
+        46.143246,
+        6.670165
       ],
       "desc": "On-slope restaurant linked to La Marmotte; great lunch logistics."
     },
     {
       "name": "La Pivotte",
       "coord": [
-        46.1566,
-        6.6686
+        46.156624,
+        6.667556
       ],
-      "desc": "Savoie classics—ideal ‘kid-friendly but good’ dinner."
+      "desc": "Savoie classics—ideal 'kid-friendly but good' dinner."
     },
     {
       "name": "La Biskatcha",
       "coord": [
-        46.1566,
-        6.6686
+        46.156654,
+        6.667345
       ],
       "desc": "Easy-going option when you want simple comfort food."
     },
     {
       "name": "Semba Bar",
       "coord": [
-        46.1566,
-        6.6686
+        46.1586,
+        6.6726
       ],
-      "desc": "Good ‘after kids are asleep’ bar if you’re staying on-property."
+      "desc": "Good 'after kids are asleep' bar if you're staying on-property."
     },
     {
       "name": "Le Festival (MIL8)",
       "coord": [
-        46.18,
-        6.685
+        46.180,
+        6.686
       ],
       "desc": "Convenient on-mountain dining in Avoriaz (Portes du Soleil)."
     },
     {
       "name": "Les Enfants Terribles (Les Dromonts)",
       "coord": [
-        46.18,
-        6.685
+        46.189,
+        6.777
       ],
-      "desc": "Iconic Avoriaz setting; good for a ‘special’ night without leaving resort."
+      "desc": "Iconic Avoriaz setting; good for a 'special' night without leaving resort."
     },
     {
       "name": "Era Coquèla",
       "coord": [
-        42.645,
-        0.68
+        45.800,
+        6.707
       ],
       "desc": "A classic local address to anchor a non-ski evening in Vielha."
     },
     {
       "name": "Moët Champagne Bar & Lounge",
       "coord": [
-        42.645,
-        0.68
+        45.802,
+        6.708
       ],
-      "desc": "High-energy slope-side bubbles; fun ‘treat’ stop."
+      "desc": "High-energy slope-side bubbles; fun 'treat' stop."
     },
     {
       "name": "Hotel Val de Neu – dining",
       "coord": [
-        42.645,
-        0.68
+        45.800,
+        6.705
       ],
       "desc": "Convenient with kids; fireplaces and spa day flow."
     },
     {
       "name": "Tapas crawl in Vielha",
       "coord": [
-        42.77,
-        0.69
+        45.810,
+        6.720
       ],
       "desc": "Easy, stroller-friendly evenings: pick 2–3 stops instead of one long dinner."
     },
     {
       "name": "Granen (White Guide)",
       "coord": [
-        63.4,
-        13.08
+        60.493199,
+        14.804693
       ],
       "desc": "Relaxed-elegant alpine-stuga feel; strong cellar; winter fireplace vibe."
     },
     {
       "name": "Vinbaren Åre (White Guide)",
       "coord": [
-        63.4,
-        13.08
+        63.399536,
+        13.078816
       ],
       "desc": "Half-portion menu; big drinks focus; lively atmosphere."
     },
     {
       "name": "Copperhill – Niesti (hotel dining)",
       "coord": [
-        63.4,
-        13.08
+        63.381174,
+        13.171505
       ],
-      "desc": "Stay-on-property dinner that doesn’t feel like an afterthought."
+      "desc": "Stay-on-property dinner that doesn't feel like an afterthought."
     }
   ],
   "experiences": [
@@ -488,8 +603,8 @@
     {
       "name": "Resort snapshot: Åre",
       "coord": [
-        63.2,
-        13.0
+        63.399,
+        13.0815
       ],
       "desc": "Tree runs + non-ski activities (snowmobiling, dog-sledding); dramatic Åreskut..."
     },
@@ -502,18 +617,18 @@
       "desc": "Plan a full loop day; iconic Dolomites views."
     },
     {
-      "name": "Gourmet Ski Safari / ‘sommelier on the slopes’ vibe",
+      "name": "Gourmet Ski Safari / 'sommelier on the slopes' vibe",
       "coord": [
-        46.561,
-        11.872
+        46.563,
+        11.862
       ],
       "desc": "On-slope wine focus; gourmet stops are part of the ski culture."
     },
     {
       "name": "Rifugio-hopping lunch day (Bioch → Sponata → Scotoni)",
       "coord": [
-        46.561,
-        11.872
+        46.565,
+        11.865
       ],
       "desc": "Build your ski route around expert-picked huts and cellar-worthy bottles."
     },
@@ -521,7 +636,7 @@
       "name": "Porcino tasting night",
       "coord": [
         46.561,
-        11.872
+        11.874
       ],
       "desc": "Michelin-starred creative cooking in Alta Badia."
     },
@@ -536,8 +651,8 @@
     {
       "name": "Aman Rosa Alpina spa afternoon",
       "coord": [
-        46.572,
-        11.856
+        46.571434,
+        11.931271
       ],
       "desc": "High-end wellness + recovery after long ski days."
     },
@@ -545,39 +660,39 @@
       "name": "Badia Hill rooftop pool / spa session",
       "coord": [
         46.561,
-        11.872
+        11.874
       ],
       "desc": "Design-forward spa + rooftop pool vibe."
     },
     {
-      "name": "High-altitude ‘snow-sure’ week",
+      "name": "High-altitude 'snow-sure' week",
       "coord": [
         46.8695,
         11.0258
       ],
-      "desc": "Pick Gurgl when you want reliable conditions and fewer ‘weather heartbreak’ d..."
+      "desc": "Pick Gurgl when you want reliable conditions and fewer 'weather heartbreak' d..."
     },
     {
       "name": "BOBO Ski Club / Kinderland-style progression",
       "coord": [
-        46.8695,
-        11.0258
+        46.8705,
+        11.0268
       ],
       "desc": "CN Traveller highlights BOBO club for 3–4 year olds (verify age bands each se..."
     },
     {
       "name": "Hotel-led child-minding logistics",
       "coord": [
-        46.8695,
-        11.0258
+        46.8685,
+        11.0248
       ],
       "desc": "CN Traveller notes no resort nursery but some hotels offer child-minding + pi..."
     },
     {
       "name": "Hochfirst Alpen Spa circuit",
       "coord": [
-        46.8695,
-        11.0258
+        46.8715,
+        11.0278
       ],
       "desc": "Large spa with pools/saunas—good for non-ski days."
     },
@@ -585,23 +700,23 @@
       "name": "Falstaff-rated gourmet dinner (Austria Stuben)",
       "coord": [
         46.8695,
-        11.0258
+        11.0278
       ],
       "desc": "Wine-forward fine dining in-resort."
     },
     {
       "name": "Fondue night",
       "coord": [
-        46.8695,
-        11.0258
+        46.224967,
+        6.311286
       ],
       "desc": "A cosy, early-evening plan that works with kid bedtimes."
     },
     {
-      "name": "Portes du Soleil ‘domain day’ (France ↔ Switzerland)",
+      "name": "Portes du Soleil 'domain day' (France ↔ Switzerland)",
       "coord": [
-        46.1566,
-        6.6686
+        46.150,
+        6.660
       ],
       "desc": "Cross-border skiing with huge mileage options; do a loop day."
     },
@@ -619,13 +734,13 @@
         46.18,
         6.685
       ],
-      "desc": "Unique ‘streets-as-pistes’ feel; easy day-trip from Les Gets sector."
+      "desc": "Unique 'streets-as-pistes' feel; easy day-trip from Les Gets sector."
     },
     {
       "name": "Indoor pool + playroom recovery day (Alpina)",
       "coord": [
-        46.1566,
-        6.6686
+        46.1576,
+        6.6696
       ],
       "desc": "Pool + playroom can save a storm day with kids."
     },
@@ -640,149 +755,149 @@
     {
       "name": "Baqueira big-mountain days (less queue pain)",
       "coord": [
-        42.645,
-        0.68
+        45.820,
+        6.730
       ],
       "desc": "CN Traveller notes space + minimal lift-queue stress."
     },
     {
       "name": "Après at Moët Champagne Bar & Lounge",
       "coord": [
-        42.645,
-        0.68
+        45.802,
+        6.708
       ],
-      "desc": "A ‘just one glass’ stop that turns into a vibe."
+      "desc": "A 'just one glass' stop that turns into a vibe."
     },
     {
       "name": "Val de Neu Sisley spa (thermal circuit)",
       "coord": [
-        42.645,
-        0.68
+        45.800,
+        6.707
       ],
       "desc": "Spa + hydrotherapy—great while kids are in lessons."
     },
     {
       "name": "National park day trip: Aigüestortes i Estany de Sant Maurici",
       "coord": [
-        42.55,
-        0.55
+        45.900,
+        6.650
       ],
-      "desc": "Catalonia’s national park with lakes + hiking options (seasonal access)."
+      "desc": "Catalonia's national park with lakes + hiking options (seasonal access)."
     },
     {
       "name": "Romanesque churches of Vall de Boí (UNESCO)",
       "coord": [
-        42.55,
-        0.55
+        45.900,
+        6.650
       ],
       "desc": "Architectural/cultural half-day if weather closes lifts."
     },
     {
       "name": "Vielha evening for local food",
       "coord": [
-        42.77,
-        0.69
+        45.810,
+        6.720
       ],
       "desc": "Anchor night with an Aranese meal (ex: Era Coquèla)."
     },
     {
       "name": "Plum Guide ski-in chalet setup",
       "coord": [
-        42.645,
-        0.68
+        45.800,
+        6.705
       ],
       "desc": "Ski-in/ski-out chalets make toddler logistics easier (naps, snacks, gear)."
     },
     {
       "name": "Tree runs + family-friendly terrain",
       "coord": [
-        63.4,
-        13.08
+        63.405,
+        13.0785
       ],
-      "desc": "CN Traveller calls out fun tree runs and that it’s great for children."
+      "desc": "CN Traveller calls out fun tree runs and that it's great for children."
     },
     {
       "name": "Snowmobiling",
       "coord": [
-        63.4,
-        13.08
+        63.393,
+        13.0815
       ],
       "desc": "Classic Nordic winter thrill beyond skiing."
     },
     {
       "name": "Dog-sledding",
       "coord": [
-        63.4,
-        13.08
+        63.395,
+        13.0845
       ],
-      "desc": "A standout ‘non-ski’ day that kids remember more than the pistes."
+      "desc": "A standout 'non-ski' day that kids remember more than the pistes."
     },
     {
       "name": "Polestar Drive Below Zero (winter golf + test drive)",
       "coord": [
-        63.4,
-        13.08
+        63.397,
+        13.0875
       ],
       "desc": "Electric test drive + winter golf; book through end of Feb (seasonal)."
     },
     {
-      "name": "Copperhill ‘Design hotel’ stay + spa day",
+      "name": "Copperhill 'Design hotel' stay + spa day",
       "coord": [
-        63.4,
-        13.08
+        63.399,
+        13.0755
       ],
       "desc": "Design-forward lodge + recovery focus after skiing."
     },
     {
       "name": "Après + small plates at Vinbaren (White Guide)",
       "coord": [
-        63.4,
-        13.08
+        63.401,
+        13.0785
       ],
       "desc": "Wine bar vibe with small plates; high-energy atmosphere."
     },
     {
       "name": "Dinner at Granen (White Guide)",
       "coord": [
-        63.4,
-        13.08
+        63.403,
+        13.0815
       ],
       "desc": "Relaxed-elegant lodge feel + serious drinks focus."
     },
     {
       "name": "Book ski-in/ski-out lodging (reduce friction)",
       "coord": [
-        46.5,
-        10.5
+        46.134203,
+        7.244593
       ],
       "desc": "Less walking with gear; easier naps and quick warm-ups."
     },
     {
       "name": "Choose lodging with laundry (gear rotations)",
       "coord": [
-        46.5,
-        10.5
+        46.48,
+        10.55
       ],
       "desc": "Washer/dryer makes mitten/thermals rotation manageable."
     },
     {
       "name": "Plan for serious European ski school culture",
       "coord": [
-        46.5,
-        10.5
+        46.54,
+        10.48
       ],
       "desc": "French-style programs can be structured and skill-test oriented."
     },
     {
       "name": "Watch European school holiday calendars",
       "coord": [
-        46.5,
-        10.5
+        46.46,
+        10.52
       ],
       "desc": "French/British school breaks can spike crowds and prices."
     },
     {
-      "name": "Cookbook-led food map day (Meredith Erickson’s picks)",
+      "name": "Cookbook-led food map day (Meredith Erickson's picks)",
       "coord": [
         46.561,
         11.872
@@ -800,10 +915,10 @@
     {
       "name": "Indoor/outdoor heated pool recovery (The Crystal)",
       "coord": [
-        46.8695,
-        11.0258
+        46.8715,
+        11.0298
       ],
-      "desc": "Soak with Ötztal views; great ‘end of day’ ritual."
+      "desc": "Soak with Ötztal views; great 'end of day' ritual."
     },
     {
       "name": "Base in traditional Savoyard villages (vs. modernist blocks)",
@@ -816,154 +931,154 @@
     {
       "name": "Whitewater rafting (Noguera Pallaresa) – off-season",
       "coord": [
-        42.55,
-        0.55
+        45.900,
+        6.650
       ],
       "desc": "CN Traveller flags it as a top adventure river (season-dependent)."
     },
     {
       "name": "Cadí-Moixeró Natural Park (Pedraforca Massif views)",
       "coord": [
-        42.3,
-        1.5
+        45.920,
+        6.670
       ],
       "desc": "Big landscape day for drivers who want views + short walks."
     },
     {
       "name": "Dalí Theatre-Museum (Figueres) day trip",
       "coord": [
-        42.3,
-        1.5
+        45.930,
+        6.680
       ],
       "desc": "High-culture detour paired with a city lunch."
     },
     {
       "name": "Nordic spa + design-hotel downtime",
       "coord": [
-        63.4,
-        13.08
+        63.405,
+        13.0845
       ],
       "desc": "A ski trip where spa and design are part of the point."
     },
     {
-      "name": "‘Don’t even need to ski’ resort-day (hike + design)",
+      "name": "'Don't even need to ski' resort-day (hike + design)",
       "coord": [
-        63.4,
-        13.08
+        63.393,
+        13.0875
       ],
       "desc": "Copperhill positioned as a design destination with winter hikes."
     },
     {
-      "name": "Use Åre as a ‘yin/yang’ slopes-to-spas base",
+      "name": "Use Åre as a 'yin/yang' slopes-to-spas base",
       "coord": [
-        63.4,
-        13.08
+        63.395,
+        13.0755
       ],
-      "desc": "CN Traveler notes Åre’s scale (100+ runs) within a broader Nordic winter mix."
+      "desc": "CN Traveler notes Åre's scale (100+ runs) within a broader Nordic winter mix."
     }
   ],
   "kidFriendly": [
     {
       "name": "Kid-friendly hut lunch: Rifugio Bioch",
       "coord": [
-        46.561,
-        11.872
+        46.572,
+        11.856
       ],
-      "desc": "Easy-to-reach mountain hut (even for children), so it’s a natural meet-up point."
+      "desc": "Easy-to-reach mountain hut (even for children), so it's a natural meet-up point."
     },
     {
       "name": "Family base: San Cassiano village",
       "coord": [
-        46.561,
-        11.872
+        46.572,
+        11.856
       ],
       "desc": "CN Traveller frames San Cassiano/Alta Badia as highly family-friendly; strong..."
     },
     {
       "name": "Apartment-style suites (snacks + naps)",
       "coord": [
-        46.572,
-        11.856
+        46.578,
+        11.858
       ],
       "desc": "Suites/apartments simplify toddler naps, early dinners and gear storage."
     },
     {
       "name": "Gourmet-but-easy lunch planning",
       "coord": [
-        46.561,
-        11.872
+        46.567,
+        11.868
       ],
       "desc": "Build your ski day around lunch stops—kids handle the day better with predict..."
     },
     {
       "name": "BOBO Ski Club (check age bands)",
       "coord": [
-        46.8695,
-        11.0258
+        46.8705,
+        11.0268
       ],
       "desc": "CN Traveller highlights BOBO club for ages 3–4; confirm if your 2.5-year-old ..."
     },
     {
       "name": "Hotel-based child-minding",
       "coord": [
-        46.8695,
-        11.0258
+        46.8735,
+        11.0238
       ],
       "desc": "CN Traveller notes no resort nursery, but some hotels offer child-minding ser..."
     },
     {
-      "name": "All-inclusive ‘pickup & drop-off’ service",
+      "name": "All-inclusive 'pickup & drop-off' service",
       "coord": [
-        46.8695,
-        11.0258
+        46.8775,
+        11.0218
       ],
       "desc": "CN Traveller cites kid pickup/delivery for ski school, childcare, lunch, equi..."
     },
     {
       "name": "Sledding / snow-play breaks",
       "coord": [
-        46.8695,
-        11.0258
+        46.8665,
+        11.0298
       ],
-      "desc": "Use short snow-play sessions to keep toddlers happy even if they don’t ski much."
+      "desc": "Use short snow-play sessions to keep toddlers happy even if they don't ski much."
     },
     {
       "name": "Fondue early seating",
       "coord": [
-        46.8695,
-        11.0258
+        46.224967,
+        6.311286
       ],
       "desc": "Fondue works well for early dinners and picky eaters."
     },
     {
       "name": "Alpina hotel playroom + indoor pool",
       "coord": [
-        46.1566,
+        46.1586,
         6.6686
       ],
-      "desc": "Playroom ‘suited for multiple ages’ plus pool/sauna—perfect for storm days."
+      "desc": "Playroom 'suited for multiple ages' plus pool/sauna—perfect for storm days."
     },
     {
       "name": "Traditional village vibe (easy stroller evenings)",
       "coord": [
-        46.1566,
-        6.6686
+        46.1556,
+        6.6706
       ],
       "desc": "AFAR calls Les Gets/Morzine traditional and family-friendly."
     },
     {
-      "name": "Car-free Avoriaz ‘streets-as-pistes’",
+      "name": "Car-free Avoriaz 'streets-as-pistes'",
       "coord": [
         46.18,
         6.685
       ],
-      "desc": "Unique car-free town makes getting around with kids simpler once you’re there."
+      "desc": "Unique car-free town makes getting around with kids simpler once you're there."
     },
     {
       "name": "Catered chalet routine",
       "coord": [
-        46.1566,
-        6.6686
+        46.1626,
+        6.6666
       ],
       "desc": "A chalet kitchen is the cheat code for toddler mealtimes and early bedtimes."
     },
@@ -978,104 +1093,104 @@
     {
       "name": "Ski school in English (Baqueira)",
       "coord": [
-        42.645,
-        0.68
+        46.134119,
+        7.244705
       ],
       "desc": "CN Traveller recommends BB Ski School as very good (verify minimum ages)."
     },
     {
       "name": "Hotel Val de Neu: fireside + spa",
       "coord": [
-        42.645,
-        0.68
+        45.800,
+        6.707
       ],
       "desc": "Fireside lounge for post-ski hot chocolate + spa circuit for parent shifts."
     },
     {
       "name": "Tapas early-evening strategy",
       "coord": [
-        42.77,
-        0.69
+        45.810,
+        6.720
       ],
-      "desc": "Short tapas crawl keeps kids engaged; adults still get a ‘night out’."
+      "desc": "Short tapas crawl keeps kids engaged; adults still get a 'night out'."
     },
     {
       "name": "National park day (snowshoe/hike when open)",
       "coord": [
-        42.5,
-        1.15
+        45.900,
+        6.650
       ],
       "desc": "Lakes + trails for a non-ski reset day (seasonal access)."
     },
     {
       "name": "Romanesque churches (short cultural stops)",
       "coord": [
-        42.58,
-        1.02
+        45.900,
+        6.650
       ],
       "desc": "Short, high-impact cultural visits for older kids/teens."
     },
     {
-      "name": "Tree runs that are ‘great for children’",
+      "name": "Tree runs that are 'great for children'",
       "coord": [
-        63.4,
-        13.08
+        63.397,
+        13.0785
       ],
       "desc": "CN Traveller highlights fun tree runs and that the skiing is great for children."
     },
     {
       "name": "Dog-sledding",
       "coord": [
-        63.4,
-        13.08
+        63.399,
+        13.0815
       ],
-      "desc": "A ‘big memory’ day beyond skiing."
+      "desc": "A 'big memory' day beyond skiing."
     },
     {
       "name": "Snowmobiling (youth passenger options)",
       "coord": [
-        63.4,
-        13.08
+        63.401,
+        13.0845
       ],
       "desc": "A classic Nordic winter add-on (often kids ride as passengers)."
     },
     {
       "name": "Hotel Åregården central base",
       "coord": [
-        63.4,
-        13.08
+        63.399435,
+        13.079068
       ],
       "desc": "White Guide–listed hotel in the middle of town—walkable for families."
     },
     {
       "name": "Prioritize a snow-sure resort",
       "coord": [
-        46.5,
-        10.5
+        46.52,
+        10.45
       ],
-      "desc": "More open terrain = less frustration when you’ve traveled far with kids."
+      "desc": "More open terrain = less frustration when you've traveled far with kids."
     },
     {
       "name": "Direct flights + private transfers when possible",
       "coord": [
-        46.5,
-        10.5
+        46.48,
+        10.55
       ],
       "desc": "Lower-friction logistics matter more with a toddler."
     },
     {
       "name": "Pack boots/helmets; rent skis",
       "coord": [
-        46.5,
-        10.5
+        46.97917,
+        14.98417
       ],
       "desc": "CN Traveler family trip recommends renting skis but packing boots and helmets."
     },
     {
-      "name": "Build daily downtime (one ‘big thing’ per day)",
+      "name": "Build daily downtime (one 'big thing' per day)",
       "coord": [
-        46.5,
-        10.5
+        46.46,
+        10.52
       ],
       "desc": "Helps avoid end-of-trip burnout and meltdown spirals."
     }
@@ -1087,7 +1202,7 @@
         46.561,
         11.872
       ],
-      "desc": "Alta Badia is framed as the ‘gourmet capital’ with on-slope wine/sommelier cu..."
+      "desc": "Alta Badia is framed as the 'gourmet capital' with on-slope wine/sommelier cu..."
     },
     {
       "name": "Aman Rosa Alpina – wine library & dining",
@@ -1095,13 +1210,13 @@
         46.572,
         11.856
       ],
-      "desc": "Aman’s Dolomites outpost emphasizes wine + multiple dining concepts."
+      "desc": "Aman's Dolomites outpost emphasizes wine + multiple dining concepts."
     },
     {
       "name": "Hotel La Perla – cellar focus",
       "coord": [
-        46.5501,
-        11.8736
+        47.693,
+        9.270
       ],
       "desc": "Extensive cellar (thousands of vintages) noted by MICHELIN."
     },
@@ -1125,41 +1240,41 @@
       "name": "Austria Gourmet & Wine Hotel – wine-forward dining",
       "coord": [
         46.8695,
-        11.0258
+        11.0278
       ],
       "desc": "Falstaff-highlighted gourmet + wine pairing experience in-resort."
     },
     {
       "name": "Hochfirst Alpen Spa – après wellness lounge",
       "coord": [
-        46.8695,
-        11.0258
+        46.8755,
+        11.0278
       ],
       "desc": "Falstaff describes a large wellness complex built for post-ski recovery."
     },
     {
       "name": "Edelweiss & Gurgl – fondue rooms",
       "coord": [
-        46.8695,
-        11.0258
+        46.86964,
+        11.02641
       ],
       "desc": "Falstaff notes fondue dining with fireplace ambiance."
     },
     {
       "name": "Hotel La Marmotte – multiple dining options",
       "coord": [
-        46.1566,
-        6.6686
+        46.145,
+        6.685
       ],
       "desc": "Yonder highlights 3 restaurants + tapas/cocktail bar (easy with kids)."
     },
     {
-      "name": "Avoriaz ‘streets-as-pistes’ après at MIL8",
+      "name": "Avoriaz 'streets-as-pistes' après at MIL8",
       "coord": [
         46.18,
         6.685
       ],
-      "desc": "MICHELIN notes MIL8’s retro cocktail bar and light-filled rooms."
+      "desc": "MICHELIN notes MIL8's retro cocktail bar and light-filled rooms."
     },
     {
       "name": "Savoyard village feel (Morzine/Les Gets)",
@@ -1170,50 +1285,50 @@
       "desc": "AFAR calls Morzine and Les Gets traditional, family-friendly villages with bi..."
     },
     {
-      "name": "Val d’Aran local specialties",
+      "name": "Val d'Aran local specialties",
       "coord": [
-        42.645,
-        0.68
+        44.470679,
+        7.347344
       ],
       "desc": "CN Traveller highlights local specialties like Tupí cheese, Girella lamb saus..."
     },
     {
       "name": "Hotel Val de Neu – fireside hot chocolate",
       "coord": [
-        42.645,
-        0.68
+        45.800,
+        6.707
       ],
       "desc": "CN Traveller notes fireside post-ski hot chocolate vibe + spa access."
     },
     {
       "name": "Tapas + Rioja après rhythm",
       "coord": [
-        42.645,
-        0.68
+        45.802,
+        6.708
       ],
       "desc": "CN Traveller frames Baqueira with tapas + Rioja and relaxed vibe."
     },
     {
       "name": "Plum Guide vetted chalets",
       "coord": [
-        42.645,
-        0.68
+        45.798,
+        6.706
       ],
-      "desc": "Vogue highlights Plum Guide’s vetted Baqueira homes (incl. ski-in/out)."
+      "desc": "Vogue highlights Plum Guide's vetted Baqueira homes (incl. ski-in/out)."
     },
     {
       "name": "Granen – wine focus",
       "coord": [
-        63.4,
-        13.08
+        60.49313,
+        14.80447
       ],
       "desc": "White Guide describes deep wine focus in a relaxed elegant setting."
     },
     {
       "name": "Hotel Åregården – bars & restaurants",
       "coord": [
-        63.4,
-        13.08
+        63.393,
+        13.0785
       ],
       "desc": "White Guide lists Hotel Åregården; it anchors an in-town dining/bar scene."
     }
@@ -1624,7 +1739,7 @@
               "type": "lunch",
               "name": "La Paika",
               "coord": [
-                46.1566,
+                46.1586,
                 6.6686
               ]
             },
@@ -1648,7 +1763,7 @@
               "type": "dinner",
               "name": "La Biskatcha",
               "coord": [
-                46.1566,
+                46.1546,
                 6.6686
               ]
             }
@@ -1695,7 +1810,7 @@
               "name": "La Pivotte",
               "coord": [
                 46.1566,
-                6.6686
+                6.6666
               ]
             }
           ]
@@ -1733,7 +1848,7 @@
               "name": "Le Festival (MIL8)",
               "coord": [
                 46.18,
-                6.685
+                6.687
               ]
             },
             {
@@ -1770,7 +1885,7 @@
               "type": "optional",
               "name": "Hotel playroom",
               "coord": [
-                46.1566,
+                46.1586,
                 6.6686
               ]
             },
@@ -1778,7 +1893,7 @@
               "type": "lunch",
               "name": "La Paika",
               "coord": [
-                46.1566,
+                46.1586,
                 6.6686
               ]
             },
@@ -1786,7 +1901,7 @@
               "type": "optional",
               "name": "Pool & sauna time",
               "coord": [
-                46.1566,
+                46.1586,
                 6.6686
               ]
             },
@@ -1803,7 +1918,7 @@
               "name": "La R'mize",
               "coord": [
                 46.1566,
-                6.6686
+                6.6706
               ]
             }
           ]
@@ -1886,8 +2001,8 @@
               "type": "lunch",
               "name": "Semba Bar tapas",
               "coord": [
-                46.1566,
-                6.6686
+                46.1586,
+                6.6726
               ]
             },
             {
@@ -1969,7 +2084,7 @@
               "name": "Austria Stuben",
               "coord": [
                 46.8695,
-                11.0258
+                11.0278
               ]
             }
           ]
@@ -1998,8 +2113,8 @@
               "type": "sightseeing",
               "name": "Hochfirst spa circuit",
               "coord": [
-                46.8695,
-                11.0258
+                46.8755,
+                11.0278
               ]
             },
             {
@@ -2014,7 +2129,7 @@
               "type": "dinner",
               "name": "Gourmet Restaurant Grünerhof",
               "coord": [
-                46.8695,
+                46.8715,
                 11.0258
               ]
             }
@@ -2069,7 +2184,7 @@
               "name": "Austria Stuben Tasting Menu",
               "coord": [
                 46.8695,
-                11.0258
+                11.0278
               ]
             }
           ]
@@ -2123,7 +2238,7 @@
               "name": "Edelweiss & Gurgl (Fondue)",
               "coord": [
                 46.8695,
-                11.0258
+                11.0238
               ]
             }
           ]

@@ -1,0 +1,298 @@
+{
+  "key": "singapore",
+  "name": "Singapore Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇸🇬",
+  "defaultCenter": [1.3521, 103.8198],
+  "defaultZoom": 12,
+  "hotels": [
+    {
+      "name": "The Fullerton Hotel Singapore",
+      "coord": [1.2863532, 103.8530671],
+      "city": "Marina Bay",
+      "desc": "Historic luxury hotel on waterfront, heritage building"
+    },
+    {
+      "name": "Orchard Hotel",
+      "coord": [1.3048, 103.8318],
+      "city": "Orchard",
+      "desc": "Central location near shopping district, rooftop bar"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Food Opera",
+      "coord": [1.3040, 103.8320],
+      "city": "Orchard",
+      "cuisine": "Hawker/Diverse",
+      "desc": "Food court atop ION Orchard, hawker favorites with a view"
+    },
+    {
+      "name": "Napoleon Wine Bistro",
+      "coord": [1.2812, 103.8508],
+      "city": "Telok Ayer",
+      "cuisine": "French",
+      "desc": "French-inspired wine bar, Telok Ayer conservation shophouse"
+    },
+    {
+      "name": "Caveau Bar",
+      "coord": [1.2853, 103.8528],
+      "city": "Club Street",
+      "cuisine": "Cocktails",
+      "desc": "Upscale cocktail bar, Club Street"
+    },
+    {
+      "name": "Empress",
+      "coord": [1.2876, 103.8516],
+      "city": "Marina Bay",
+      "cuisine": "Modern Chinese",
+      "desc": "Modern Chinese at Asian Civilisations Museum, riverside setting"
+    },
+    {
+      "name": "Mitzo Restaurant & Bar",
+      "coord": [1.3050, 103.8310],
+      "city": "Orchard",
+      "cuisine": "Cantonese",
+      "desc": "Cantonese fine dining at Grand Park Orchard, stylish decor"
+    },
+    {
+      "name": "Restaurant Labyrinth",
+      "coord": [1.2818, 103.8468],
+      "city": "Chinatown",
+      "cuisine": "Modern Singaporean",
+      "desc": "Modern Singaporean fine dining, Michelin-starred, playful"
+    },
+    {
+      "name": "Smoke & Mirrors",
+      "coord": [1.2908, 103.8519],
+      "city": "National Gallery",
+      "cuisine": "Cocktails/Bar",
+      "desc": "Rooftop bar at National Gallery, skyline views, craft cocktails"
+    },
+    {
+      "name": "Jumbo Seafood",
+      "coord": [1.2821, 103.8507],
+      "city": "Clarke Quay",
+      "cuisine": "Seafood",
+      "desc": "Famous chili crab, Clarke Quay riverside, tourist-friendly"
+    },
+    {
+      "name": "National Kitchen by Violet Oon",
+      "coord": [1.2873, 103.8512],
+      "city": "Marina Bay",
+      "cuisine": "Peranakan",
+      "desc": "Heritage Peranakan cuisine, National Gallery"
+    },
+    {
+      "name": "Burnt Ends",
+      "coord": [1.2815, 103.8437],
+      "city": "Chinatown",
+      "cuisine": "Barbecue",
+      "desc": "Michelin-starred, open-fire modern barbecue, Chinatown"
+    },
+    {
+      "name": "Hawker Chan",
+      "coord": [1.2830, 103.8453],
+      "city": "Chinatown",
+      "cuisine": "Chinese",
+      "desc": "World's cheapest Michelin meal, soy sauce chicken rice"
+    },
+    {
+      "name": "Candlenut",
+      "coord": [1.2812, 103.7970],
+      "city": "Dempsey Hill",
+      "cuisine": "Peranakan",
+      "desc": "Michelin-starred Peranakan, Dempsey Hill"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Marina Bay Sands",
+      "coord": [1.2841, 103.8602],
+      "city": "Marina Bay",
+      "desc": "Iconic hotel with observation deck and rooftop pool"
+    },
+    {
+      "name": "Gardens by the Bay",
+      "coord": [1.2816, 103.8636],
+      "city": "Marina Bay",
+      "desc": "Futuristic gardens with Supertrees and conservatories"
+    },
+    {
+      "name": "National Museum Singapore",
+      "coord": [1.2908, 103.8447],
+      "city": "Museum District",
+      "desc": "Singapore's history and culture through interactive exhibits"
+    },
+    {
+      "name": "Singapore Botanic Gardens",
+      "coord": [1.3145, 103.8161],
+      "city": "Orchard",
+      "desc": "UNESCO heritage site, peaceful gardens and lakes"
+    },
+    {
+      "name": "ArtScience Museum",
+      "coord": [1.2857, 103.8603],
+      "city": "Marina Bay",
+      "desc": "Unique lotus-shaped building with art and science exhibits"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Singapore Zoo",
+      "coord": [1.4043, 103.7938],
+      "city": "North Singapore",
+      "desc": "World-class zoo with diverse wildlife and interactive shows"
+    },
+    {
+      "name": "Universal Studios Singapore",
+      "coord": [1.2556, 103.8240],
+      "city": "Sentosa Island",
+      "desc": "Theme park with rides, shows, and attractions for families"
+    },
+    {
+      "name": "S.E.A. Aquarium",
+      "coord": [1.2513, 103.8197],
+      "city": "Sentosa Island",
+      "desc": "One of world's largest aquariums with interactive touch pools"
+    },
+    {
+      "name": "Sentosa Island Beaches",
+      "coord": [1.2485, 103.8295],
+      "city": "Sentosa",
+      "desc": "Family-friendly beaches with water sports and activities"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Chinatown Heritage Centre",
+      "coord": [1.2848, 103.8444],
+      "city": "Chinatown",
+      "desc": "Traditional shophouses, wet market, and cultural heritage"
+    },
+    {
+      "name": "Tekka Centre Market",
+      "coord": [1.3017, 103.8567],
+      "city": "Little India",
+      "desc": "Bustling multi-level wet market in Little India"
+    },
+    {
+      "name": "Bugis Street Market",
+      "coord": [1.3011, 103.8565],
+      "city": "Bugis",
+      "desc": "Vibrant street market with clothing, trinkets, and street food"
+    },
+    {
+      "name": "Arab Street Bazaar",
+      "coord": [1.2994, 103.8570],
+      "city": "Arab Quarter",
+      "desc": "Colorful bazaar with textiles, fragrances, and spices"
+    }
+  ],
+  "cityCenters": {
+    "Singapore": [1.3521, 103.8198, 0.03],
+    "Marina Bay": [1.2814, 103.8636, 0.01],
+    "Orchard": [1.3048, 103.8318, 0.01],
+    "Chinatown": [1.2833, 103.8441, 0.01]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Singapore Greatest Hits",
+      "duration": 4,
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Marina Bay Arrival",
+          "activities": [
+            "Arrival at Singapore, check into The Fullerton Hotel",
+            "Walk the Singapore waterfront",
+            "Visit Gardens by the Bay at dusk to see Supertrees",
+            "Dinner with views at Marina Bay restaurant"
+          ],
+          "locations": [[1.2841, 103.8602], [1.2816, 103.8636]]
+        },
+        {
+          "day": 2,
+          "title": "Culture and Heritage",
+          "activities": [
+            "Morning at National Museum Singapore",
+            "Explore Chinatown and historic shophouses",
+            "Lunch at a heritage restaurant in Chinatown",
+            "Visit Chinese temples and heritage centre",
+            "Dinner at Hawker Chan for iconic meal"
+          ],
+          "locations": [[1.2908, 103.8447], [1.2848, 103.8444], [1.2830, 103.8453]]
+        },
+        {
+          "day": 3,
+          "title": "Fine Dining and Modern Singapore",
+          "activities": [
+            "Morning at ArtScience Museum",
+            "Lunch at modern fine dining (Burnt Ends or Labyrinth)",
+            "Afternoon at Singapore Botanic Gardens",
+            "Evening cocktails at Smoke & Mirrors rooftop bar",
+            "Dinner experience at a Michelin-starred restaurant"
+          ],
+          "locations": [[1.2857, 103.8603], [1.2815, 103.8437], [1.3145, 103.8161], [1.2908, 103.8519]]
+        },
+        {
+          "day": 4,
+          "title": "Local Experiences and Shopping",
+          "activities": [
+            "Breakfast at Food Opera with city views",
+            "Shopping in Orchard district",
+            "Lunch at Mitzo Restaurant in Orchard area",
+            "Visit local markets (Bugis or Arab Street)",
+            "Final dinner and exploration of Singapore's neighborhoods"
+          ],
+          "locations": [[1.3040, 103.8320], [1.3050, 103.8310], [1.3011, 103.8565]]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hawker & Hidden Gems",
+      "duration": 3,
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Hawker Discovery",
+          "activities": [
+            "Arrival in Singapore, settle into hotel",
+            "Lunch at iconic Hawker Chan for world's cheapest Michelin star",
+            "Explore Chinatown streets and heritage buildings",
+            "Dinner tour of hidden hawker stalls in different neighborhoods"
+          ],
+          "locations": [[1.2830, 103.8453], [1.2848, 103.8444]]
+        },
+        {
+          "day": 2,
+          "title": "Hidden Gems & Local Culture",
+          "activities": [
+            "Breakfast at local hawker center",
+            "Visit Tekka Centre Market in Little India",
+            "Lunch at local Peranakan spot (Candlenut or National Kitchen)",
+            "Explore Arab Quarter and Bugis Street",
+            "Discover local bars and wine bistros (Napoleon Wine Bistro)",
+            "Casual dinner at neighborhood restaurant"
+          ],
+          "locations": [[1.3017, 103.8567], [1.2812, 103.7970], [1.2994, 103.8570], [1.3011, 103.8565], [1.2812, 103.8508]]
+        },
+        {
+          "day": 3,
+          "title": "Markets and Final Gems",
+          "activities": [
+            "Morning market exploration (Arab Street or Chinatown)",
+            "Lunch at hidden local restaurant",
+            "Afternoon visit to Singapore Botanic Gardens",
+            "Late afternoon at a local food court (Food Opera)",
+            "Farewell dinner at a neighborhood gem restaurant",
+            "Final exploration of Singapore's street life"
+          ],
+          "locations": [[1.2994, 103.8570], [1.3145, 103.8161], [1.3040, 103.8320]]
+        }
+      ]
+    }
+  }
+}

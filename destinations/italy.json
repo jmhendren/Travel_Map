@@ -8,164 +8,227 @@
     12.5
   ],
   "defaultZoom": 6,
+  "regions": [
+    {
+      "name": "Northern Italy",
+      "bounds": [
+        [
+          43.8,
+          6.5
+        ],
+        [
+          47.5,
+          14.0
+        ]
+      ]
+    },
+    {
+      "name": "Central Italy",
+      "bounds": [
+        [
+          41.2,
+          10.0
+        ],
+        [
+          43.8,
+          15.0
+        ]
+      ]
+    },
+    {
+      "name": "Southern Italy",
+      "bounds": [
+        [
+          38.0,
+          13.5
+        ],
+        [
+          41.2,
+          18.5
+        ]
+      ]
+    },
+    {
+      "name": "Islands (Sicily & Sardinia)",
+      "bounds": [
+        [
+          36.0,
+          8.0
+        ],
+        [
+          39.5,
+          16.5
+        ]
+      ]
+    }
+  ],
   "hotels": [
     {
       "name": "Aki Family Resort",
       "coord": [
-        46.7152,
-        11.6556
+        46.682424,
+        11.664413
       ],
       "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$"
     },
     {
       "name": "Falkensteiner Family Resort Lido",
       "coord": [
-        46.7833,
-        11.7333
+        45.416459,
+        12.370612
       ],
       "desc": "Casteldarne/Ehrenburg, Dolomites/South Tyrol, $$$"
     },
     {
       "name": "Quercia Rubra Villa",
       "coord": [
-        43.1,
-        11.8
+        40.54057,
+        17.817736
       ],
       "desc": "Tuscany (countryside), Tuscany, $$$$"
     },
     {
       "name": "Il San Pietro di Positano",
       "coord": [
-        40.626,
-        14.4809
+        40.62929,
+        14.48294
       ],
-      "desc": "Positano, Amalfi Coast/Campania, $$$$"
+      "desc": "Positano, Amalfi Coast/Campania, $$$$",
+      "location": "Positano (Amalfi Coast)"
     },
     {
       "name": "Borgo Santo Pietro",
       "coord": [
-        43.1547,
-        11.0847
+        43.765618,
+        11.247399
       ],
-      "desc": "Chiusdino, Tuscany, $$$$"
+      "desc": "Chiusdino, Tuscany, $$$$",
+      "location": "Chiusdino (Tuscany)"
     },
     {
       "name": "Aman Venice",
       "coord": [
-        45.4408,
-        12.3155
+        45.715797,
+        12.462981
       ],
-      "desc": "Venice, Veneto, $$$$"
+      "desc": "Venice, Veneto, $$$$",
+      "location": "Venice"
     },
     {
       "name": "Rosewood Castiglion del Bosco",
       "coord": [
-        43.0996,
-        11.8432
+        43.083844,
+        11.421964
       ],
-      "desc": "Montalcino, Tuscany, $$$$"
+      "desc": "Montalcino, Tuscany, $$$$",
+      "location": "Montalcino (Tuscany)"
     },
     {
       "name": "Passalacqua",
       "coord": [
-        45.853,
-        9.098
+        44.901551,
+        7.454637
       ],
       "desc": "Moltrasio (Lake Como), Lombardy, $$$$"
     },
     {
       "name": "JK Place Capri",
       "coord": [
-        40.553,
-        14.245
+        40.55737,
+        14.23555
       ],
-      "desc": "Capri, Campania, $$$$"
+      "desc": "Capri, Campania, $$$$",
+      "location": "Capri (Campania)"
     },
     {
       "name": "Castello di Reschio",
       "coord": [
-        43.2333,
-        12.1333
+        43.275972,
+        12.198736
       ],
-      "desc": "Lisciano Niccone, Umbria, $$$$"
+      "desc": "Lisciano Niccone, Umbria, $$$$",
+      "location": "Lisciano Niccone (Umbria)"
     },
     {
       "name": "Casa Maria Luigia",
       "coord": [
-        44.6472,
-        10.9252
+        44.535336,
+        9.999054
       ],
-      "desc": "Modena, Emilia-Romagna, $$$$"
+      "desc": "Modena, Emilia-Romagna, $$$$",
+      "location": "Modena (Emilia-Romagna)"
     },
     {
       "name": "Corte della Maestà",
       "coord": [
-        42.6306,
-        12.1306
+        41.4143,
+        13.84182
       ],
-      "desc": "Civita di Bagnoregio, Lazio, $$$$"
+      "desc": "Civita di Bagnoregio, Lazio, $$$$",
+      "location": "Civita di Bagnoregio (Lazio)"
     },
     {
       "name": "San Domenico Palace Taormina (Four Seasons)",
       "coord": [
-        37.8516,
-        15.2876
+        37.849905,
+        15.283452
       ],
       "desc": "Taormina, Sicily, $$$$"
     },
     {
       "name": "Hotel Cipriani (Belmond)",
       "coord": [
-        45.4408,
-        12.3155
+        45.42767,
+        12.34069
       ],
       "desc": "Venice (Giudecca), Veneto, $$$$"
     },
     {
       "name": "Bulgari Hotel Roma",
       "coord": [
-        41.9028,
-        12.4964
+        41.90672,
+        12.476475
       ],
       "desc": "Rome, Lazio, $$$$"
     },
     {
       "name": "Four Seasons Hotel Firenze",
       "coord": [
-        43.7695,
-        11.2558
+        43.777017,
+        11.266284
       ],
-      "desc": "Florence, Tuscany, $$$$"
+      "desc": "Florence, Tuscany, $$$$",
+      "location": "Florence"
     },
     {
       "name": "Private Villa on Salina (via Bellini Travel)",
       "coord": [
-        38.5608,
-        14.8539
+        40.921187,
+        14.300521
       ],
       "desc": "Salina, Aeolian Islands/Sicily, $$$$"
     },
     {
       "name": "Hotel De Len",
       "coord": [
-        46.5406,
-        12.1275
+        46.538796,
+        12.134217
       ],
       "desc": "Cortina d'Ampezzo, Dolomites/Veneto, $$$"
     },
     {
       "name": "Castello di Casole (Belmond)",
       "coord": [
-        43.3396,
-        11.0465
+        43.324899,
+        11.084164
       ],
       "desc": "Casole d'Elsa, Tuscany, $$$$"
     },
     {
       "name": "Quellenhof Luxury Resort Lazise",
       "coord": [
-        45.4981,
-        10.7343
+        45.490884,
+        10.741471
       ],
       "desc": "Lazise, Lake Garda/Veneto, $$$"
     },
@@ -180,56 +243,48 @@
     {
       "name": "Verdura Resort (Rocco Forte)",
       "coord": [
-        37.5071,
-        13.086
+        37.47772,
+        13.19163
       ],
       "desc": "Sciacca, Sicily, $$$$"
     },
     {
       "name": "Luxury Villa on Lake Garda (Nice2Stay)",
       "coord": [
-        45.55,
-        10.5
+        45.526725,
+        10.523933
       ],
       "desc": "Lake Garda (Monte Baldo), Veneto/Lombardy, $$$$"
     },
     {
       "name": "Palazzo Daniele (Casa Lawa Retreat)",
       "coord": [
-        40.175,
-        18.17
+        43.099067,
+        12.559806
       ],
       "desc": "Galatina, Puglia, $$$"
     },
     {
-      "name": "Aki Family Resort (duplicate - richer detail)",
-      "coord": [
-        46.7152,
-        11.6556
-      ],
-      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$$"
-    },
-    {
       "name": "Furore Grand Hotel",
       "coord": [
-        40.6208,
-        14.5519
+        45.618481,
+        10.56137
       ],
       "desc": "Furore, Campania/Amalfi Coast, $$$"
     },
     {
       "name": "Botania Relais & Spa",
       "coord": [
-        40.7275,
-        13.897
+        43.07059,
+        12.62008
       ],
       "desc": "Ischia, Campania, $$$"
     },
     {
       "name": "Villa Igiea (Rocco Forte)",
       "coord": [
-        38.1157,
-        13.3615
+        38.145376,
+        13.370224
       ],
       "desc": "Palermo, Sicily, $$$$"
     },
@@ -244,128 +299,104 @@
     {
       "name": "Masseria Calderisi",
       "coord": [
-        40.8337,
-        17.3637
+        40.856899,
+        17.395254
       ],
       "desc": "Fasano, Puglia, $$$"
     },
     {
       "name": "Casa Maiora",
       "coord": [
-        41,
-        16.5
+        45.46241,
+        9.179742
       ],
       "desc": "Puglia, Puglia, $$$"
     },
     {
       "name": "Borgo Santandrea (2025 Season Update)",
       "coord": [
-        40.634,
-        14.6027
+        45.08266,
+        10.78748
       ],
       "desc": "Amalfi Coast, Campania/Amalfi Coast, $$$$"
     },
     {
       "name": "Collegio alla Querce (Auberge Collection)",
       "coord": [
-        43.7695,
-        11.2558
+        44.80935,
+        9.26845
       ],
       "desc": "Florence, Tuscany, $$$$"
     },
     {
-      "name": "Villa Igiea (duplicate)",
-      "coord": [
-        38.1157,
-        13.3615
-      ],
-      "desc": "Palermo, Sicily, $$$$"
-    },
-    {
       "name": "Castello di Vicarello",
       "coord": [
-        43.1,
-        11.8
+        45.9498,
+        8.67566
       ],
       "desc": "Tuscany, Tuscany, $$$$"
     },
     {
-      "name": "Aki Family Resort (3rd mention - detailed review)",
-      "coord": [
-        46.7152,
-        11.6556
-      ],
-      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$$"
-    },
-    {
-      "name": "Corte della Maestà (Michelin Key 2025)",
-      "coord": [
-        42.6306,
-        12.1306
-      ],
-      "desc": "Civita di Bagnoregio, Lazio, $$$$"
-    },
-    {
       "name": "Hotel Saltus",
       "coord": [
-        46.5,
-        11.5
+        46.53887,
+        11.330646
       ],
       "desc": "South Tyrol, South Tyrol, $$$"
     },
     {
       "name": "La Réserve Firenze (Opening June 2026)",
       "coord": [
-        43.7695,
-        11.2558
+        43.76245003248438,
+        11.262320865707752
       ],
       "desc": "Florence, Tuscany, $$$$"
     },
     {
       "name": "La Perla (Hotel, Corvara)",
       "coord": [
-        46.55,
-        11.8667
+        46.547239,
+        11.876729
       ],
       "desc": "Corvara, Dolomites/South Tyrol, $$$$"
     },
     {
       "name": "La Badia Hotel (Orvieto - Opening 2027)",
       "coord": [
-        42.7181,
-        12.1092
+        42.70953,
+        12.11674
       ],
       "desc": "Orvieto, Umbria, $$$$"
     },
     {
       "name": "Castel Badia (T Magazine Feature)",
       "coord": [
-        46.7831,
-        11.9039
+        46.785641,
+        11.890398
       ],
       "desc": "San Lorenzo di Sebato, Dolomites/South Tyrol, $$$$"
     },
     {
       "name": "Villa Mabel (Boutique Hotel, Taormina)",
       "coord": [
-        37.8516,
-        15.2876
+        37.851222,
+        15.283019
       ],
       "desc": "Taormina, Sicily, $$"
     },
     {
       "name": "Palazzo Daniele",
       "coord": [
-        39.8333,
-        18.3667
+        43.096432,
+        12.565726
       ],
       "desc": "Gagliano del Capo, Puglia, $$$$"
     },
     {
       "name": "Hotel Ristorante Grotta Palazzese",
       "coord": [
-        41.02,
-        17.1987
+        40.995876,
+        17.221195
       ],
       "desc": "Polignano a Mare, Puglia, $$$$"
     },
@@ -378,164 +409,132 @@
       "desc": "Pievescola, Tuscany, $$$$"
     },
     {
-      "name": "La Réserve Firenze",
-      "coord": [
-        43.7695,
-        11.2558
-      ],
-      "desc": "Florence, Tuscany, $$$$"
-    },
-    {
-      "name": "Castel Badia",
-      "coord": [
-        46.7831,
-        11.9039
-      ],
-      "desc": "San Lorenzo di Sebato, Dolomites/South Tyrol, $$$$"
-    },
-    {
       "name": "Ancora Cortina",
       "coord": [
-        46.5406,
-        12.1275
+        46.537246,
+        12.137868
       ],
       "desc": "Cortina d'Ampezzo, Dolomites/Veneto, $$$$"
     },
     {
       "name": "Orient Express La Minerva",
       "coord": [
-        41.9028,
-        12.4964
+        45.371649,
+        11.917589
       ],
       "desc": "Rome, Lazio, $$$$"
     },
     {
       "name": "Casa Monti",
       "coord": [
-        41.9028,
-        12.4964
+        41.895465,
+        12.492085
       ],
       "desc": "Rome, Lazio, $$$"
     },
     {
       "name": "Ara Maris",
       "coord": [
-        40.6263,
-        14.3757
+        40.62721,
+        14.376964
       ],
       "desc": "Sorrento, Campania, $$$$"
     },
     {
       "name": "Vista Ostuni",
       "coord": [
-        40.8353,
-        17.5789
+        40.734189,
+        17.581581
       ],
       "desc": "Ostuni, Puglia, $$$$"
     },
     {
-      "name": "La Perla",
-      "coord": [
-        46.55,
-        11.8667
-      ],
-      "desc": "Corvara, Dolomites/South Tyrol, $$$$"
-    },
-    {
-      "name": "La Badia Hotel",
-      "coord": [
-        42.7181,
-        12.1092
-      ],
-      "desc": "Orvieto, Umbria, $$$$"
-    },
-    {
-      "name": "Villa Mabel",
-      "coord": [
-        37.8516,
-        15.2876
-      ],
-      "desc": "Taormina, Sicily, $$"
-    },
-    {
-      "name": "La Suvera",
-      "coord": [
-        43.2531,
-        11.1242
-      ],
-      "desc": "Pievescola, Tuscany, $$$$"
-    },
-    {
-      "name": "Grotta Palazzese",
-      "coord": [
-        41.02,
-        17.1987
-      ],
-      "desc": "Polignano a Mare, Puglia, $$$$"
-    },
-    {
-      "name": "Collegio alla Querce",
-      "coord": [
-        43.7695,
-        11.2558
-      ],
-      "desc": "Florence, Tuscany, $$$$"
-    },
-    {
       "name": "Hotel Il Pellicano",
       "coord": [
-        42.3942,
-        11.2064
+        42.373777,
+        11.187547
       ],
       "desc": "Porto Ercole, Tuscany/Maremma, $$$$"
     },
     {
-      "name": "Botania Relais",
+      "name": "Giardino Eden Resort",
       "coord": [
-        40.7275,
-        13.897
+        40.7272413,
+        13.9599025
       ],
-      "desc": "Ischia, Campania, $$$"
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Grand Hotel Majestic già Baglioni",
+      "coord": [
+        44.4958518,
+        11.3427008
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "The House dell'Arancio",
+      "coord": [
+        37.9809,
+        12.1813
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Il Baglio sull'Acqua",
+      "coord": [
+        37.9817,
+        12.1823
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Dimora Cala del Pozzo",
+      "coord": [
+        37.9825,
+        12.1833
+      ],
+      "desc": "Google Maps saved place"
     }
   ],
   "restaurants": [
     {
       "name": "Pizzicheria di De Miccoli Bruno (Antonio's Salumeria)",
       "coord": [
-        43.3195,
-        11.9306
+        43.316988,
+        11.330704
       ],
       "desc": "Siena, Tuscany, $"
     },
     {
       "name": "La Reggia degli Etruschi",
       "coord": [
-        43.7696,
-        11.2558
+        43.807292,
+        11.290354
       ],
       "desc": "Fiesole (near Florence), Tuscany, $$$"
     },
     {
       "name": "Ristorante Grassilli",
       "coord": [
-        44.4949,
-        11.3426
+        44.539662,
+        11.268144
       ],
       "desc": "Bologna, Emilia-Romagna, $$"
     },
     {
       "name": "Rifugio Crucolo",
       "coord": [
-        46.5,
-        11.8
+        46.118944,
+        11.498571
       ],
       "desc": "Trentino (Dolomites), Trentino/Dolomites, $$"
     },
     {
       "name": "Luca's Restaurant / Hotel La Gemma",
       "coord": [
-        43.7695,
-        11.2558
+        43.76590863331057,
+        11.260001778937808
       ],
       "desc": "Florence, Tuscany, $$$$"
     },
@@ -558,104 +557,104 @@
     {
       "name": "Trattoria Ermes (Modena)",
       "coord": [
-        44.6472,
-        10.9252
+        44.649435,
+        10.925387
       ],
       "desc": "Modena, Emilia-Romagna, $"
     },
     {
       "name": "Trattoria da Ruggero",
       "coord": [
-        43.7695,
-        11.2558
+        43.757336,
+        11.240688
       ],
-      "desc": "Florence, Tuscany, $$"
+      "desc": "Florence, Tuscany, $$ — Note: your guide recommended for lunch"
     },
     {
       "name": "Trattoria Sostanza",
       "coord": [
-        43.7695,
-        11.2558
+        43.772674,
+        11.24715
       ],
       "desc": "Florence, Tuscany, $$"
     },
     {
       "name": "La Gelatiera",
       "coord": [
-        43.7695,
-        11.2558
+        43.775601,
+        11.255288
       ],
       "desc": "Florence, Tuscany, $"
     },
     {
       "name": "Da'Vinattieri",
       "coord": [
-        43.7695,
-        11.2558
+        43.771338,
+        11.257156
       ],
       "desc": "Florence, Tuscany, $"
     },
     {
       "name": "Taverna Trilussa",
       "coord": [
-        41.9028,
-        12.4964
+        41.53219,
+        14.38816
       ],
       "desc": "Rome, Lazio, $$"
     },
     {
       "name": "Roscioli Salumeria",
       "coord": [
-        41.9028,
-        12.4964
+        41.894647,
+        12.474264
       ],
-      "desc": "Rome, Lazio"
+      "desc": "Rome, Lazio — Note: A household name, eating at the deli-restaurant Roscioli is an absolute must while in town. This culinary haven lies just steps from Campo de Fiori and serves Roman classics alongside a mouthwatering array of fresh cheeses, cold cuts and pickled products straight from the deli counter. It’s a classic haunt beloved by food critics and travellers alike, so make sure to book a table in advance."
     },
     {
       "name": "Giggetto al Portico",
       "coord": [
-        41.9028,
-        12.4964
+        41.90389912676906,
+        12.49729229236398
       ],
       "desc": "Rome, Lazio, $$"
     },
     {
       "name": "La Palanca",
       "coord": [
-        45.4408,
-        12.3155
+        46.509966,
+        11.992077
       ],
       "desc": "Venice (Giudecca), Veneto, $$"
     },
     {
       "name": "Harry's Bar",
       "coord": [
-        45.4408,
-        12.3155
+        45.432405,
+        12.337259
       ],
       "desc": "Venice, Veneto, $$$$"
     },
     {
       "name": "Do Forni",
       "coord": [
-        45.4408,
-        12.3155
+        45.8568,
+        11.36171
       ],
       "desc": "Venice, Veneto, $$$"
     },
     {
       "name": "Conca del Sogno",
       "coord": [
-        40.5919,
-        14.345
+        42.00244,
+        13.95448
       ],
       "desc": "Nerano, Campania/Amalfi, $$$"
     },
     {
       "name": "Lo Scoglio",
       "coord": [
-        40.5919,
-        14.345
+        41.255821,
+        14.59571
       ],
       "desc": "Nerano, Campania/Amalfi, $$$"
     },
@@ -668,68 +667,573 @@
       "desc": "Positano, Campania/Amalfi, $$"
     },
     {
-      "name": "Macelleria Popolare",
-      "coord": [
-        45.4642,
-        9.19
-      ],
-      "desc": "Milan, Lombardy, $$"
-    },
-    {
-      "name": "Trattoria Ermes",
-      "coord": [
-        44.6472,
-        10.9252
-      ],
-      "desc": "Modena, Emilia-Romagna, $"
-    },
-    {
       "name": "Harry's Piccolo",
       "coord": [
-        45.65,
-        13.78
+        45.649685,
+        13.767453
       ],
-      "desc": "Trieste, Friuli Venezia Giulia, $$$$"
+      "desc": "Trieste, Friuli Venezia Giulia, $$$$",
+      "location": "Trieste"
     },
     {
       "name": "Antica Trattoria Suban",
       "coord": [
-        45.65,
-        13.78
+        45.653404,
+        13.808203
       ],
       "desc": "Trieste, Friuli Venezia Giulia, $$"
     },
     {
       "name": "Caffè degli Specchi",
       "coord": [
-        45.65,
-        13.78
+        46.330895,
+        9.488706
       ],
       "desc": "Trieste, Friuli Venezia Giulia, $$"
     },
     {
-      "name": "Piero Pompili",
+      "name": "I Ricci officina del gusto",
       "coord": [
-        44.4949,
-        11.3426
+        40.7454078,
+        13.9428111
       ],
-      "desc": "Bologna, Emilia-Romagna, $$"
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Ristorante La Tuga",
+      "coord": [
+        40.700331,
+        13.8829127
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Da Gemma",
+      "coord": [
+        40.6346207,
+        14.6022181
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Ristorante Rendenèr Alpine Food",
+      "coord": [
+        46.1614849,
+        10.7632421
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Ristorante La Botte.",
+      "coord": [
+        46.1524155,
+        10.7666332
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Osteria Bagat",
+      "coord": [
+        46.1575088,
+        10.7651736
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Ristorante La Cantina Venezia",
+      "coord": [
+        45.4416348,
+        12.333105
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Osteria Mocenigo",
+      "coord": [
+        45.4407222,
+        12.3296556
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "\"La Scaletta\" Restaurant",
+      "coord": [
+        37.9833,
+        12.1843
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Il Veliero",
+      "coord": [
+        37.9841,
+        12.1853
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Quello Che C’è C’è... Ristorantemediterraneo sull’isola dal 2004",
+      "coord": [
+        37.9849,
+        12.1813
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Otaleg",
+      "coord": [
+        41.9052,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Fiocco di neve",
+      "coord": [
+        41.9004,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Al Settimo Gelo",
+      "coord": [
+        41.9012,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "La Gourmandise",
+      "coord": [
+        41.902,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Fiordiluna",
+      "coord": [
+        41.9028,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Otaleg - Ice-cream",
+      "coord": [
+        41.9036,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Brivido Gelateria",
+      "coord": [
+        41.9044,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Come il Latte",
+      "coord": [
+        41.9052,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Gunther Gelato Italiano – Gelateria in Piazza Sant'Eustachio",
+      "coord": [
+        41.9004,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Gelateria Fassi - Gelato artigianale a Roma dal 1880",
+      "coord": [
+        41.9012,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Mercadillo histórico \"El Jueves\"",
+      "coord": [
+        41.902,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Boccione",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "jewish bakery"
+    },
+    {
+      "name": "Bar Antico Caffe",
+      "coord": [
+        41.9036,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Bar San Calisto | Roma",
+      "coord": [
+        41.9044,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Piazza delle Cinque Scole",
+      "coord": [
+        41.9052,
+        12.4944
+      ],
+      "desc": "jewish bakery here somewhere"
+    },
+    {
+      "name": "Otello",
+      "coord": [
+        41.9004,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Tonnarello | Paglia",
+      "coord": [
+        41.9012,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Nannarella",
+      "coord": [
+        41.902,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "da Etta",
+      "coord": [
+        41.9028,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Proloco Trastevere",
+      "coord": [
+        41.9036,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Meridionale Restaurant",
+      "coord": [
+        41.9044,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Dar Poeta",
+      "coord": [
+        41.9052,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Popi Popi",
+      "coord": [
+        41.9004,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Osteria Der Belli",
+      "coord": [
+        41.9012,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Aromaticus",
+      "coord": [
+        41.902,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "ENOTECA FERRARA Ristorante Trastevere",
+      "coord": [
+        41.9028,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "L'Elementare - Trastevere",
+      "coord": [
+        41.9036,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Ma Che Siete Venuti A Fà",
+      "coord": [
+        41.9044,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Hamburgeseria Burger Bar",
+      "coord": [
+        41.9052,
+        12.4984
+      ],
+      "desc": "Indulge in American burgers with a made-in-Italy flair at this eclectic pub in San Lorenzo. With its mismatched chairs and tables and wine-stocked shelves, Hamburgeseria looks halfway between a cosy restaurant and a hipster co-working space. Every burger on the menu is filled with five local ingredients – the Danish meat (or fish in some cases) always meets its par with a contrasting vegetable, cheese and sauce – all made in-house. They also have great fried starters, wraps and salads, but hamburgers are king."
+    },
+    {
+      "name": "Il Mulino ai quattro venti",
+      "coord": [
+        41.9004,
+        12.4944
+      ],
+      "desc": "This cosy family-run restaurant on a steep street on the hill of Monteverde caters to your every fancy: whether you’re craving meat, fish, vegetables, dessert or all of the above, the menu here will not disappoint. You’ll find plenty of revisited recipes for traditional dishes, made with quality local produce and paired with innovative garnish. The menu at Mulino Ai Quattro Venti (The Mill on the Four Winds) changes every few months and the managers are known for their cordiality and kindness, so it’s a place to visit often. Their duck breast is a must-have."
+    },
+    {
+      "name": "MARE NOSTRUM Seafood",
+      "coord": [
+        41.9012,
+        12.4954
+      ],
+      "desc": "Mare Nostrum (Latin for ‘our sea’) is Roman by circumstance, Sicilian by origin, and Mediterranean by choice. This restaurant in Trastevere takes inspiration from seafood across the Med –and in a landlocked city that has plenty of good seafood restaurants, Mare Nostrum is in a league of its own. An example of the unusual but tasteful juxtapositions is their popular Paccheri Creuza de Mà: pasta with salmon tartare, greenified by a light touch of basil pesto, finished off with Parmesan fondue, a orange and pistachio crumbs."
+    },
+    {
+      "name": "Il Margutta",
+      "coord": [
+        41.902,
+        12.4964
+      ],
+      "desc": "Since 1979, this chic restaurant has been delighting diners with its imaginative vegetarian cuisine, offering a fresh twist on Mediterranean flavors. A self-titled ‘ristoarte’, Il Margutta showcases dishes as vibrant as the contemporary works of art that adorn its walls. From vegetables and grains to salads and pastas, everything is colorful, nutritious and full of flavor."
+    },
+    {
+      "name": "Ai Tre Scalini",
+      "coord": [
+        41.9028,
+        12.4974
+      ],
+      "desc": "A fixture in Monti, Ai Tre Scalini is a bustling wine bar cherished by locals, where patrons of all ages gather day and night to enjoy glasses of wine paired with cheeses and cold cuts. Its vibrant atmosphere spills onto the streets, where guests mingle beneath cascading ivy. Originally a historic canteen dating back to 1895, Ai Tre Scalini transformed into a wine bar bistro in the 1990s, delighting visitors with a diverse menu featuring Roman classics like oven-baked lasagna and meatballs, alongside an impressive array of wines available by the glass."
+    },
+    {
+      "name": "Supplizio",
+      "coord": [
+        41.9036,
+        12.4984
+      ],
+      "desc": "The humble supplì is Rome’s most quintessential street food snack. The deep-fried rice ball has its roots in the city’s Cucina povera (‘poor man’s cuisine’) tradition, which makes the most of simple ingredients. Today, you’ll find modern variants at chef Arcangelo Dandini’s beloved eatery. Try the supplì with butter and anchovies or the arrabbiata for a kick."
+    },
+    {
+      "name": "Pastificio San Lorenzo",
+      "coord": [
+        41.9044,
+        12.4944
+      ],
+      "desc": "Tucked away in the lively student district of San Lorenzo, Pastificio San Lorenzo blends old-school charm with a modern twist. Set inside a former pasta factory, it pays homage to the neighborhood’s industrial roots while serving up seriously good food in a sleek, stylish space. The menu is all about elevated Italian comfort food, from handmade pastas and creative meats and fish, plus an excellent drinks list. This spot also doubles as a cultural hub, hosting live music, art exhibits and special events, making it a great place to soak up some local flavour away from the tourist hotspots."
+    },
+    {
+      "name": "Ristorante Va.Do.",
+      "coord": [
+        41.9052,
+        12.4954
+      ],
+      "desc": "Located in Rome’s most hipster neighborhood, Va.Do al Pigneto is a restaurant boasting a modern, industrial design and an eclectic menu that will suit all kinds of appetites. Fish lovers, meat-eaters and vegetarians will all feel at home even while browsing through some international dishes like chicken curry, ravioli with pork cheek and spaghetti with tuna tartare. If you’re craving Roman classics, worry not: you can find those here alongside desserts the likes of tiramisu, almond-flour chocolate cake and frozen treats."
+    },
+    {
+      "name": "Giulia Restaurant",
+      "coord": [
+        41.9004,
+        12.4964
+      ],
+      "desc": "Located on one of Rome’s most elegant streets, Giulia is a romantic restaurant that brings flavour and flair to the heart of the Eternal City. Chef Pierluigi Gallo, who came from the Campania region and honed his skills in Abruzzo, reimagines classic comfort food that will delight diners. Oxtail is served with celery and cocoa ketchup, while spaghetti is coated in a red sauce made with baby octopus, sea snails and sea urchins."
+    },
+    {
+      "name": "BARRED",
+      "coord": [
+        41.9012,
+        12.4974
+      ],
+      "desc": "Avant-garde Italian cuisine is the key to Barred, a restaurant between the areas of San Giovanni and Re di Roma. Founded by two brothers, Barred is a celebration of nature’s gifts, as seasonable foods are proposed in daring combinations. The widely varied menu changes several times a year, so you know you’re getting fresher than fresh food here. If you can’t pick between the many unusual offerings, they also have a tasting menu of four dishes chosen by the kitchen. The drink list includes over 20 pages of wines from all over Europe, as well as ciders and beers."
+    },
+    {
+      "name": "Bar Meccanismo",
+      "coord": [
+        41.902,
+        12.4984
+      ],
+      "desc": "In the heart of Rome, Meccanismo Bar & Bistrot is the perfect spot for lunch and aperitivo in Trastevere’s Piazza Trilussa. Its  extensive à la carte menu has international options for all (burgers, salads, cous cous, meat, fish, and more), but make sure to check out what’s cooking on the daily menu. Handwritten on a slip of paper, the menu will be given to you by your server, and features three to five pasta and main dish options based on daily availability of produce. If you’re lucky, a gricia ubriaca will be available: a twist on the classic Roman dish, with wine turning your plate of pasta, guanciale and pecorino a dark red."
+    },
+    {
+      "name": "Trapizzino | Trastevere",
+      "coord": [
+        41.9028,
+        12.4944
+      ],
+      "desc": "Stefano Callegari, the mastermind behind Trapizzino, invented this innovative street food: the lovechild of pizza and tramezzino, taking the thick dough from its mother and the triangular shape from its father. The result is a soft and mouthwateringly flavourful pouch filled with deliciousness ranging from pork tongue in green sauce and eggplant parmesan to meatballs with tomato sauce and chicken cacciatore, plus vegetarian options like Roman artichoke and misticanza – a mixture of leafy greens sautéed in garlic and red chilli pepper."
+    },
+    {
+      "name": "Osteria Fernanda",
+      "coord": [
+        41.9036,
+        12.4954
+      ],
+      "desc": "Osteria Fernanda is on par with many of the city’s most celebrated establishments. The menu is exceedingly avant-garde, and the dishes are at once ‘comfort food’ while providing an innovative culinary experience; previous specials have included rigatoni with a sweet root veg-based sauce and snails and eel with radishes and Campari. The extensive wine list features notable champagnes that will help you wash down the just-as-delicious desserts. The restaurant recently moved location to another space near the Porta Portese market, along with a total revamp of the interior design, so there's no better time to visit."
+    },
+    {
+      "name": "Ercoli 1928",
+      "coord": [
+        41.9044,
+        12.4964
+      ],
+      "desc": "A Roman institution since – yes, you guessed it – 1928, Ercoli is one of the city’s legendary salumeria (delicatessen) offering a gourmet selection of cheeses, cold cuts and freshly prepared Italian delicacies. Originally opened in Prati, it now has locations in Parioli and Trastevere – the latter is set within a beautifully restored historic cinema and is a fantastic all-day dining spot whenever hunger strikes in between sightseeing. Open from 8am ’till late, this spot serves up Italian classics; hearty bowls of pasta, cicchetti, charcuterie and more. It can be a bit touristy and overly posh (a section of the menu is dedicated to caviar and blinis), but if you want to get stuck in to good Italian food in a historic setting, this is the spot."
+    },
+    {
+      "name": "Enoteca La Torre",
+      "coord": [
+        41.9052,
+        12.4974
+      ],
+      "desc": "Set within Anna Venturini Fendi’s magnificent Villa Laetitia, Enoteca La Torre captures the essence of la dolce vita. This high-end restaurant serves artful plates that complement its grand setting: helmed by Domenico Stile, who hails from Campania, you’ll find Southern Italian ingredients like buffalo milk cheeses, Sorrento lemons and fresh fish featured on the menu. For a real treat, opt for the seven-course surprise tasting menu selected by the chef. Just be warned, if you hadn’t guessed already, Enoteca La Torre is for special occasions. Its double-Michelin-starred menu comes with a (hefty) price – tasting menus range from €180 - €220. But when in Rome, eh?"
+    },
+    {
+      "name": "SantoPalato",
+      "coord": [
+        41.9004,
+        12.4984
+      ],
+      "desc": "A new wave of traditional Jewish-Roman cuisine reigns at Santo Palato (literally: sacred palate), where abundance is a must. Meat features prominently on the menu of this modern trattoria, and offal is a must-try. The restaurant promises a holistic approach to cooking that refuses waste and is set on lifting and updating authentic central Italian recipes. And if you fancy a vino (why wouldn’t you?), the cantina sports over 800 wines. Make sure to reserve a table in advance for this place."
+    },
+    {
+      "name": "Felice a Testaccio | ROMA",
+      "coord": [
+        41.9012,
+        12.4944
+      ],
+      "desc": "Testaccio is widely considered the best neighbourhood for Roman cuisine, and this eatery is its unrivalled star. With retro checkered floors, white tablecloths, and a tantalizing array of traditional dishes, the old-school restaurant makes a perfect leisurely weekend lunch with family or a romantic choice for a gourmet dinner. Cacio e pepe is Felice a Testaccio’s signature dish; this tangle of spaghetti, melted cheese and black pepper comes freshly tossed at the table for you."
+    },
+    {
+      "name": "Moma",
+      "coord": [
+        41.902,
+        12.4954
+      ],
+      "desc": "A Michelin star establishment, Moma offers a stellar dining experience with special-occasion prices to match. Named after the Metropolitan Museum of Art, it’s located right in front of the US Embassy and attracts a business crowd that enjoys expertly executed dishes. You’ll find thoughtful re-interpretations of classic dishes alongside modern plates, like ravioli filled with cod and caramelized onions and chestnut flour lasagne with vegetables and cheese, all appropriately plated like works of art."
+    },
+    {
+      "name": "Romanè",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Founded by Stefano Callegari (the mastermind behind Trapizzino, #14) Romanè is a modern trattoria that puts a fresh spin on classic Roman cuisine. The original location on Via Cipro serves traditional fare with a contemporary touch, while its newer counterpart across the street expands the menu with an array of seafood dishes. Both locations are decorated with Italy’s charming hand painted ‘piatti del buon ricordo’: collectible plates from the 1970s that commemorate the country’s most beloved restaurants."
+    },
+    {
+      "name": "Seu Pizza Illuminati",
+      "coord": [
+        41.9036,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Trattoria Pennestri",
+      "coord": [
+        41.9044,
+        12.4984
+      ],
+      "desc": "With its cosy interiors and warm service, Trattoria Pennestri is the kind of restaurant that invites you to linger and enjoy a leisurely meal with good company. Like the ambience, the menu is rustic but refined, with a curated selection of inventive dishes that make the most of the season’s ingredients. The wine list is also wonderful, with an ample selection by the glass. Save room for one of the city’s best desserts: a sweet and salty chocolate mousse served with Sardinian flatbread and infused with rosemary."
+    },
+    {
+      "name": "Trattoria Da Enzo al 29",
+      "coord": [
+        41.9052,
+        12.4944
+      ],
+      "desc": "A picturesque little eatery located on a quieter street in Trastevere, Da Enzo is one of the more characteristic trattorias in Rome and draws a crowd for its simple, honest fare and handful of outdoor tables. Eating here feels like a family gathering, with abundant portions expertly prepared. You can’t go wrong with anything on the menu – from carbonara and meatballs to braised artichokes and tiramisu – but show up early, or you’re in for a long wait."
+    },
+    {
+      "name": "Trattoria Da Cesare al Casaletto",
+      "coord": [
+        41.9004,
+        12.4954
+      ],
+      "desc": "Located at the end of the 8 tram that snakes its way through the Trastevere neighbourhood, Cesare al Casaletto’s location outside the city centre hasn’t dampened its popularity among tourists and locals alike. This casual trattoria is the go-to for Rome’s many food writers, bloggers and passionate eaters, thanks to its familial atmosphere and delicious dishes. Order the fried gnocchi served on a melted cacio e pepe sauce, and don’t shy away from the (don’t be afraid) minty Roman tripe and oxtail – it’s near-perfect."
+    },
+    {
+      "name": "Buono&Co",
+      "coord": [
+        41.9028,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Antica Caciara",
+      "coord": [
+        41.9036,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Pennetta Alimentari",
+      "coord": [
+        41.9044,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Supermercato Todis",
+      "coord": [
+        41.9052,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
     }
   ],
   "experiences": [
     {
       "name": "Orticolario at Villa Erba",
       "coord": [
-        45.8417,
-        9.0764
+        45.581642,
+        9.271767
       ],
       "desc": "Cernobbio (Lake Como), Lombardy, $"
     },
     {
       "name": "Intrend (Max Mara Group Outlet)",
       "coord": [
-        41.9028,
-        12.4964
+        45.470048,
+        8.463664
       ],
       "desc": "Near Rome (Sabina hills), Lazio, $$"
     },
@@ -744,24 +1248,24 @@
     {
       "name": "Dozza",
       "coord": [
-        44.3578,
-        11.6261
+        44.359391,
+        11.628879
       ],
       "desc": "Dozza, Emilia-Romagna"
     },
     {
       "name": "Laboratorio Paravicini",
       "coord": [
-        45.4642,
-        9.19
+        43.522584,
+        13.246764
       ],
       "desc": "Milan, Lombardy"
     },
     {
       "name": "Orta San Giulio (Lake Orta)",
       "coord": [
-        45.795,
-        8.4049
+        45.819324,
+        8.394268
       ],
       "desc": "Orta San Giulio, Piedmont, $$"
     },
@@ -776,24 +1280,24 @@
     {
       "name": "Favignana Island (Egadi Islands)",
       "coord": [
-        37.9317,
-        12.3269
+        45.502998,
+        12.21051
       ],
       "desc": "Favignana, Sicily, $$"
     },
     {
       "name": "Camogli (Italian Riviera)",
       "coord": [
-        44.33,
-        9.17
+        44.346208,
+        9.160078
       ],
       "desc": "Camogli, Liguria, $$"
     },
     {
       "name": "Laigueglia (Italian Riviera)",
       "coord": [
-        43.8833,
-        8.4667
+        43.981246,
+        8.158729
       ],
       "desc": "Laigueglia, Liguria, $$"
     },
@@ -808,8 +1312,8 @@
     {
       "name": "Ca'Marcanda Winery (Bolgheri)",
       "coord": [
-        43.2283,
-        10.6117
+        43.194257,
+        10.617332
       ],
       "desc": "Bolgheri, Tuscany, $$$"
     },
@@ -838,30 +1342,6 @@
       "desc": "Palermo, Sicily, $$"
     },
     {
-      "name": "Ca'Marcanda Winery",
-      "coord": [
-        43.2283,
-        10.6117
-      ],
-      "desc": "Bolgheri, Tuscany, $$$"
-    },
-    {
-      "name": "Ballarò Market Tour",
-      "coord": [
-        38.1157,
-        13.3615
-      ],
-      "desc": "Palermo, Sicily, $$"
-    },
-    {
-      "name": "Polignano a Mare Hidden Swimming",
-      "coord": [
-        41.02,
-        17.1987
-      ],
-      "desc": "Polignano a Mare, Puglia"
-    },
-    {
       "name": "Trieste Walking Tour",
       "coord": [
         45.65,
@@ -872,42 +1352,322 @@
     {
       "name": "Barcolana Sailing Regatta",
       "coord": [
-        45.65,
-        13.78
+        44.436852,
+        8.626413
       ],
       "desc": "Trieste, Friuli Venezia Giulia, $"
     },
     {
-      "name": "Favignana Island",
+      "name": "Largo di Torre Argentina",
       "coord": [
-        37.9317,
-        12.3269
+        41.9028,
+        12.4984
       ],
-      "desc": "Favignana (Egadi Islands), Sicily, $"
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Giselda",
+      "coord": [
+        41.9036,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Area giochi \"Claudio\"",
+      "coord": [
+        41.9044,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Via della Scrofa",
+      "coord": [
+        41.9052,
+        12.4964
+      ],
+      "desc": "shopping. pretty street"
+    },
+    {
+      "name": "Via dell'Oca",
+      "coord": [
+        41.9004,
+        12.4974
+      ],
+      "desc": "shopping"
+    },
+    {
+      "name": "Polvere di Tempo",
+      "coord": [
+        41.9012,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "18 MQ Vintage Store",
+      "coord": [
+        41.902,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "V. del Governo Vecchio",
+      "coord": [
+        41.9028,
+        12.4954
+      ],
+      "desc": "vintage shops. start at piazza di pasquino"
+    },
+    {
+      "name": "FORME - Dispensa a Ripa",
+      "coord": [
+        41.9036,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Pantheon",
+      "coord": [
+        41.9044,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Testaccio Market",
+      "coord": [
+        41.9052,
+        12.4984
+      ],
+      "desc": "Must-try vendors: Casa Manco (box 22) for innovative and delicious pizza, Enzo and Lina (Box 89) for cured meats and cheeses, Mordi e Vai (box 15) for famous Roman sandwiches (such as the stewed tripe)."
+    },
+    {
+      "name": "Porta Portese",
+      "coord": [
+        41.9004,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Mercato dell' Unità",
+      "coord": [
+        41.9012,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Mercato di San Cosimato",
+      "coord": [
+        41.902,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Borghetto Flaminio Market",
+      "coord": [
+        41.9028,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Nuovo Mercato Esquilino",
+      "coord": [
+        41.9036,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Mercato rionale San Giovanni di Dio",
+      "coord": [
+        41.9044,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Campo de' Fiori",
+      "coord": [
+        41.9052,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Mercato Trionfale",
+      "coord": [
+        41.9004,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Almost Corner Bookshop",
+      "coord": [
+        41.9012,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Villa Farnesina",
+      "coord": [
+        41.902,
+        12.4984
+      ],
+      "desc": "Raphael frescoes"
+    },
+    {
+      "name": "Ostia Antica",
+      "coord": [
+        41.9028,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Non-Catholic Cemetery",
+      "coord": [
+        41.9036,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Botanical Garden of Rome",
+      "coord": [
+        41.9044,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Villa Medici",
+      "coord": [
+        41.9052,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Campagna Amica",
+      "coord": [
+        41.9004,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Campagna Amica Market",
+      "coord": [
+        41.9012,
+        12.4944
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Galleria Colonna",
+      "coord": [
+        41.902,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Complex of the Victorian Ala Brasini",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Domus Aurea",
+      "coord": [
+        41.9036,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Centrale Montemartini",
+      "coord": [
+        41.9044,
+        12.4984
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Villa Doria Pamphili",
+      "coord": [
+        41.9052,
+        12.4944
+      ],
+      "desc": "Rome's largest landscaped park"
+    },
+    {
+      "name": "Capitoline Museums",
+      "coord": [
+        41.9004,
+        12.4954
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Gianicolo Belvedere",
+      "coord": [
+        41.9012,
+        12.4964
+      ],
+      "desc": "highest point in Rome, good views."
+    },
+    {
+      "name": "Galleria Borghese",
+      "coord": [
+        41.902,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Dropped pin",
+      "coord": [
+        37.9959072,
+        12.3359071
+      ],
+      "desc": "miuccia prada owns two villas here."
     }
   ],
   "kidFriendly": [
     {
       "name": "Aki Family Resort",
       "coord": [
-        46.7152,
-        11.6556
+        46.682424,
+        11.664413
       ],
       "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$"
     },
     {
       "name": "Falkensteiner Family Resort Lido",
       "coord": [
-        46.7833,
-        11.7333
+        45.416459,
+        12.370612
       ],
       "desc": "Casteldarne/Ehrenburg, Dolomites/South Tyrol, $$$"
     },
     {
       "name": "Quellenhof Luxury Resort Lazise",
       "coord": [
-        45.4981,
-        10.7343
+        45.490884,
+        10.741471
       ],
       "desc": "Lazise, Lake Garda/Veneto, $$$"
     },
@@ -920,196 +1680,198 @@
       "desc": "Passeier Valley, South Tyrol, $$$"
     },
     {
-      "name": "Aki Family Resort (duplicate - richer detail)",
-      "coord": [
-        46.7152,
-        11.6556
-      ],
-      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$$"
-    },
-    {
-      "name": "Aki Family Resort (3rd mention - detailed review)",
-      "coord": [
-        46.7152,
-        11.6556
-      ],
-      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$$"
-    },
-    {
       "name": "Orta San Giulio (Lake Orta)",
       "coord": [
-        45.795,
-        8.4049
+        45.819324,
+        8.394268
       ],
       "desc": "Orta San Giulio, Piedmont, $$"
+    },
+    {
+      "name": "Natinudi Abbigliamento Roma",
+      "coord": [
+        41.9012,
+        12.4964
+      ],
+      "desc": "Google Maps saved place"
+    },
+    {
+      "name": "Città del Sole Roma Libera",
+      "coord": [
+        41.902,
+        12.4974
+      ],
+      "desc": "Google Maps saved place"
     }
   ],
   "markets": [
     {
       "name": "Piazza Duomo (Restaurant)",
       "coord": [
-        44.7006,
-        8.0359
+        37.502383,
+        15.087065
       ],
       "desc": "Alba, Piedmont, $$$$"
     },
     {
       "name": "Orta San Giulio",
       "coord": [
-        45.7972,
-        8.4076
+        45.798081,
+        8.406951
       ],
       "desc": "Orta San Giulio, Piedmont, $$"
     },
     {
       "name": "Villa Crespi",
       "coord": [
-        45.83,
-        8.415
+        45.796373,
+        8.416132
       ],
-      "desc": "Orta San Giulio, Piedmont, $$$$"
+      "desc": "Orta San Giulio, Piedmont, $$$$",
+      "location": "Orta San Giulio (Lake Orta)"
     },
     {
       "name": "Uliassi",
       "coord": [
-        43.7889,
-        13.2039
+        43.719517,
+        13.2208
       ],
-      "desc": "Senigallia, Marche, $$$$"
+      "desc": "Senigallia, Marche, $$$$",
+      "location": "Senigallia"
     },
     {
       "name": "Urbino",
       "coord": [
-        43.7333,
-        12.6333
+        43.726261,
+        12.636313
       ],
       "desc": "Urbino, Marche, $$"
     },
     {
       "name": "Ascoli Piceno",
       "coord": [
-        42.8567,
-        13.5767
+        42.854619,
+        13.575504
       ],
       "desc": "Ascoli Piceno, Marche, $$"
     },
     {
       "name": "Acqualagna Truffle Town",
       "coord": [
-        43.6289,
-        12.3878
+        43.613414,
+        12.62566
       ],
       "desc": "Acqualagna, Marche, $$"
     },
     {
       "name": "Matera Sassi",
       "coord": [
-        40.6667,
-        16.6
+        40.667029,
+        16.606327
       ],
       "desc": "Matera, Basilicata, $$"
     },
     {
       "name": "Castelmezzano",
       "coord": [
-        40.4111,
-        15.8472
+        40.530237,
+        16.046551
       ],
       "desc": "Castelmezzano, Basilicata, $"
     },
     {
       "name": "Tropea",
       "coord": [
-        38.6656,
-        15.8889
+        38.675267,
+        15.894851
       ],
       "desc": "Tropea, Calabria, $$"
     },
     {
       "name": "Pollino National Park",
       "coord": [
-        39.8667,
-        16.2667
+        39.921855,
+        16.140592
       ],
       "desc": "Border, Calabria/Basilicata, $"
     },
     {
       "name": "L'Aquila (Culture Capital 2026)",
       "coord": [
-        42.3514,
-        13.3972
+        45.423519,
+        10.948194
       ],
       "desc": "L'Aquila, Abruzzo, $$"
     },
     {
       "name": "Santo Stefano di Sessanio",
       "coord": [
-        42.2931,
-        13.5892
+        42.343876,
+        13.644177
       ],
       "desc": "Santo Stefano, Abruzzo, $"
     },
     {
       "name": "Locanda Mammi",
       "coord": [
-        41.78,
-        14.12
+        43.356469,
+        11.932481
       ],
       "desc": "Agnone, Molise, $$$"
     },
     {
       "name": "Parma Food City",
       "coord": [
-        44.8016,
-        10.3283
+        44.810278,
+        10.328527
       ],
       "desc": "Parma, Emilia-Romagna, $$"
     },
     {
       "name": "Brisighella",
       "coord": [
-        44.2269,
-        12.1122
+        44.2222,
+        11.773325
       ],
       "desc": "Brisighella, Emilia-Romagna, $"
     },
     {
       "name": "Gibellina (Art Capital 2026)",
       "coord": [
-        37.8189,
-        12.8789
+        37.80666,
+        12.865502
       ],
       "desc": "Gibellina, Sicily, $$"
     },
     {
       "name": "Portovenere",
       "coord": [
-        44.0511,
-        9.8375
+        44.05066,
+        9.834459
       ],
       "desc": "Portovenere, Liguria, $$"
     },
     {
       "name": "Seulo (Centenarians Village)",
       "coord": [
-        39.8704,
-        9.2358
+        39.870831,
+        9.23667
       ],
       "desc": "Seulo, Sardinia, $"
     },
     {
       "name": "Oliena",
       "coord": [
-        40.2889,
-        9.2594
+        40.27226,
+        9.403036
       ],
       "desc": "Oliena, Sardinia, $"
     },
     {
       "name": "Caldaro/Kaltern",
       "coord": [
-        46.2264,
-        11.2103
+        46.413467,
+        11.246911
       ],
       "desc": "Caldaro, Trentino, $$"
     }
@@ -1214,6 +1976,11 @@
       40.634,
       14.603,
       0.12
+    ],
+    "Favignana": [
+      37.9959072,
+      12.3359071,
+      0.08
     ]
   },
   "itineraryData": {

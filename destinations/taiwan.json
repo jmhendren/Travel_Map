@@ -1,0 +1,3615 @@
+{
+  "key": "taiwan",
+  "name": "Taiwan Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇹🇼",
+  "defaultCenter": [
+    23.7,
+    120.9
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Capella Taipei",
+      "coord": [
+        25.0489,
+        121.5571
+      ],
+      "desc": "Luxury Hotel, Andre Fu design; Capella Moments cultural experiences"
+    },
+    {
+      "name": "Mandarin Oriental, Taipei",
+      "coord": [
+        25.055669,
+        121.54824
+      ],
+      "desc": "Luxury Hotel, Grand spa; spacious rooms; top service"
+    },
+    {
+      "name": "Regent Taipei",
+      "coord": [
+        25.054121,
+        121.524309
+      ],
+      "desc": "Luxury Hotel, Central base; strong dining scene"
+    },
+    {
+      "name": "Shangri-La Far Eastern, Taipei",
+      "coord": [
+        23.6978,
+        120.9972
+      ],
+      "desc": "Luxury Hotel, High-floor views; pools; full-service luxury"
+    },
+    {
+      "name": "W Taipei",
+      "coord": [
+        25.03752,
+        121.56368
+      ],
+      "desc": "Luxury Hotel, Skyline views; vibrant bar scene"
+    },
+    {
+      "name": "The Okura Prestige Taipei",
+      "coord": [
+        25.052519,
+        121.523383
+      ],
+      "desc": "Luxury Hotel, Japanese hospitality; refined rooms"
+    },
+    {
+      "name": "Kimpton Da An Taipei",
+      "coord": [
+        25.04037,
+        121.545526
+      ],
+      "desc": "Boutique Hotel, Boutique vibe in East District"
+    },
+    {
+      "name": "Hotel Resonance Taipei",
+      "coord": [
+        25.050268,
+        121.545042
+      ],
+      "desc": "Boutique Hotel, Modern boutique; central access"
+    },
+    {
+      "name": "Grand Hyatt Taipei",
+      "coord": [
+        25.035302,
+        121.56262
+      ],
+      "desc": "Luxury Hotel, Walk to Taipei 101; big-hotel amenities"
+    },
+    {
+      "name": "Hoshinoya Guguan",
+      "coord": [
+        24.20577,
+        121.009701
+      ],
+      "desc": "Hot Spring Ryokan, Ryokan-style onsen retreat in mountains"
+    },
+    {
+      "name": "InterContinental Kaohsiung",
+      "coord": [
+        25.0652,
+        121.5265
+      ],
+      "desc": "Luxury Hotel, New luxury base in southern hub"
+    },
+    {
+      "name": "InterContinental Taichung",
+      "coord": [
+        24.199369,
+        120.685019
+      ],
+      "desc": "Luxury Hotel, Modern luxury in central Taiwan"
+    },
+    {
+      "name": "Hotel Indigo Taipei North",
+      "coord": [
+        25.042291,
+        121.529342
+      ],
+      "desc": "Design Hotel, Local-art design; stylish rooms"
+    },
+    {
+      "name": "Hotel Indigo Kaohsiung Central Park",
+      "coord": [
+        22.624418,
+        120.301459
+      ],
+      "desc": "Design Hotel, Steps to Central Park; boutique feel"
+    },
+    {
+      "name": "Hotel Indigo Alishan",
+      "coord": [
+        23.443791,
+        120.672211
+      ],
+      "desc": "Resort Hotel, Gateway stay for Alishan area"
+    },
+    {
+      "name": "voco Chiayi",
+      "coord": [
+        23.474605,
+        120.45219
+      ],
+      "desc": "Upscale Hotel, Good base for Alishan access"
+    },
+    {
+      "name": "Palais de Chine Hotel",
+      "coord": [
+        25.04914,
+        121.516923
+      ],
+      "desc": "Luxury Hotel, Home to Le Palais; European-meets-Asian design"
+    },
+    {
+      "name": "Humble House Taipei",
+      "coord": [
+        25.038606,
+        121.567378
+      ],
+      "desc": "Lifestyle Hotel, Urban-chic base near malls"
+    },
+    {
+      "name": "Volando Urai Spring Spa & Resort",
+      "coord": [
+        24.87001,
+        121.54855
+      ],
+      "desc": "Hot Spring Resort, Private hot spring focus; peaceful valley"
+    },
+    {
+      "name": "Villa 32",
+      "coord": [
+        25.249776,
+        121.465981
+      ],
+      "desc": "Boutique Hot Spring, Spa-led hot spring escape"
+    },
+    {
+      "name": "Hotel Eclat Taipei",
+      "coord": [
+        25.03366,
+        121.54827
+      ],
+      "desc": "Boutique Hotel, Art-filled boutique; strong location"
+    },
+    {
+      "name": "Sheraton Grand Taipei",
+      "coord": [
+        25.044675,
+        121.522555
+      ],
+      "desc": "Luxury Hotel, Classic full-service option near transit"
+    },
+    {
+      "name": "Madison Taipei (Tribute Portfolio)",
+      "coord": [
+        25.03405,
+        121.54938
+      ],
+      "desc": "Boutique Hotel, Stylish rooms; good neighborhood"
+    },
+    {
+      "name": "Suz & Catorze Taipei (Tribute Portfolio)",
+      "coord": [
+        25.0333,
+        121.5682
+      ],
+      "desc": "Boutique Hotel, Newer Tribute Portfolio property"
+    },
+    {
+      "name": "EPISODE Daan Taipei (JDV by Hyatt)",
+      "coord": [
+        23.7017,
+        121.0013
+      ],
+      "desc": "Lifestyle Hotel, JDV vibes; great walkability"
+    },
+    {
+      "name": "EPISODE Hsinchu (JDV by Hyatt)",
+      "coord": [
+        24.804,
+        120.9702
+      ],
+      "desc": "Lifestyle Hotel, Modern base for Hsinchu region"
+    },
+    {
+      "name": "RedDot Hotel",
+      "coord": [
+        24.1478,
+        120.6712
+      ],
+      "desc": "Boutique Hotel, Playful design-forward rooms"
+    },
+    {
+      "name": "OKU Hotel",
+      "coord": [
+        24.1494,
+        120.6713
+      ],
+      "desc": "Boutique Hotel, Modern boutique"
+    },
+    {
+      "name": "Fairfield by Marriott Taichung",
+      "coord": [
+        24.181966,
+        120.636129
+      ],
+      "desc": "Hotel, Reliable chain comfort"
+    },
+    {
+      "name": "Fleur de Chine Hotel",
+      "coord": [
+        23.87119,
+        120.923405
+      ],
+      "desc": "Lake Resort, Lakeside views; hot spring spa"
+    },
+    {
+      "name": "The Lalu Sun Moon Lake",
+      "coord": [
+        23.8512,
+        120.9165
+      ],
+      "desc": "Luxury Resort, Zen design on lake peninsula"
+    },
+    {
+      "name": "Grand Hilai Sun Moon Lake",
+      "coord": [
+        23.8486,
+        120.9168
+      ],
+      "desc": "Lake Resort, Newer lakeside resort option"
+    },
+    {
+      "name": "Silks Place Taroko",
+      "coord": [
+        24.1521,
+        121.623947
+      ],
+      "desc": "Luxury Resort, Only in-park luxury base; rooftop pool"
+    },
+    {
+      "name": "Hualien Farglory Hotel",
+      "coord": [
+        23.99553,
+        121.63306
+      ],
+      "desc": "Resort Hotel, Large resort with sea views"
+    },
+    {
+      "name": "Le Meridien Hualien Resort",
+      "coord": [
+        23.979225,
+        121.609153
+      ],
+      "desc": "Resort Hotel, New resort-style stay"
+    },
+    {
+      "name": "Gloria Manor",
+      "coord": [
+        25.0166,
+        121.4499
+      ],
+      "desc": "Luxury Resort, Boutique hillside hideaway near park"
+    },
+    {
+      "name": "YOHO Bike Hotel",
+      "coord": [
+        21.9447,
+        120.762
+      ],
+      "desc": "Specialty Hotel, Bike-focused stay; easy park access"
+    },
+    {
+      "name": "THE AMNIS, a Luxury Collection Hotel",
+      "coord": [
+        22.6251,
+        120.3013
+      ],
+      "desc": "Luxury Hotel, Luxury Collection property in Kaohsiung"
+    },
+    {
+      "name": "Kaohsiung Marriott Hotel",
+      "coord": [
+        22.655457,
+        120.306432
+      ],
+      "desc": "Luxury Hotel, Large modern hotel with amenities"
+    },
+    {
+      "name": "H2O HOTEL",
+      "coord": [
+        22.6275,
+        120.3024
+      ],
+      "desc": "Boutique Hotel, Rooftop pool; stylish rooms"
+    },
+    {
+      "name": "Hotel Dùa",
+      "coord": [
+        23.981696,
+        121.620405
+      ],
+      "desc": "Design Hotel, Design-led with strong breakfast"
+    },
+    {
+      "name": "Brio Hotel",
+      "coord": [
+        22.626411,
+        120.301999
+      ],
+      "desc": "Boutique Hotel, Compact stylish option"
+    },
+    {
+      "name": "Provintia Hotel Tainan",
+      "coord": [
+        22.990942,
+        120.19732
+      ],
+      "desc": "Boutique Hotel, Central base for old town"
+    },
+    {
+      "name": "U.I.J Hotel & Hostel",
+      "coord": [
+        22.99091,
+        120.199882
+      ],
+      "desc": "Design Hotel, Great design; easy base"
+    },
+    {
+      "name": "Aloft Tainan Anping",
+      "coord": [
+        22.990238,
+        120.160083
+      ],
+      "desc": "Hotel, Good base for Anping sights"
+    },
+    {
+      "name": "Just Sleep Tainan Hushan",
+      "coord": [
+        25.05094,
+        121.52189
+      ],
+      "desc": "Hotel, Comfortable option in Tainan"
+    },
+    {
+      "name": "The One Nanyuan",
+      "coord": [
+        24.8275,
+        121.0731
+      ],
+      "desc": "Nature Retreat, Design-led retreat in nature"
+    },
+    {
+      "name": "The Archipelago",
+      "coord": [
+        25.032718,
+        121.539365
+      ],
+      "desc": "Destination Resort, Cruise-ship inspired resort near Waiao"
+    },
+    {
+      "name": "Deer Chaser",
+      "coord": [
+        21.94455,
+        120.798032
+      ],
+      "desc": "Boutique Stay, Forest/mountain hideaway"
+    },
+    {
+      "name": "Hemma",
+      "coord": [
+        24.0253,
+        121.1318
+      ],
+      "desc": "Boutique Stay, Cingjing-area base for highlands"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Le Palais",
+      "coord": [
+        25.05025,
+        121.517
+      ],
+      "desc": "Cantonese fine dining, 3-star-level destination (reserve far ahead)"
+    },
+    {
+      "name": "Taïrroir",
+      "coord": [
+        25.027,
+        121.5488
+      ],
+      "desc": "Taiwanese contemporary tasting, Ingredient-driven tasting menus"
+    },
+    {
+      "name": "JL STUDIO",
+      "coord": [
+        24.150565,
+        120.628514
+      ],
+      "desc": "Fine dining (modern), Top-tier tasting menus in Taichung"
+    },
+    {
+      "name": "logy",
+      "coord": [
+        25.035635,
+        121.553212
+      ],
+      "desc": "Asian contemporary, Seasonal tasting; polished service"
+    },
+    {
+      "name": "Mume",
+      "coord": [
+        25.036302,
+        121.548041
+      ],
+      "desc": "European contemporary, Modern European with local ingredients"
+    },
+    {
+      "name": "Rong Ju",
+      "coord": [
+        24.05722,
+        120.47556
+      ],
+      "desc": "Cantonese, Upscale Cantonese; elegant setting"
+    },
+    {
+      "name": "Ya Ge",
+      "coord": [
+        24.024172,
+        120.827831
+      ],
+      "desc": "Cantonese, Cantonese dining at Mandarin Oriental"
+    },
+    {
+      "name": "EMBERS",
+      "coord": [
+        25.035889,
+        121.550091
+      ],
+      "desc": "Taiwanese contemporary, Contemporary Taiwanese; special-occasion"
+    },
+    {
+      "name": "Tempura Sugimura",
+      "coord": [
+        25.0315,
+        121.565
+      ],
+      "desc": "Japanese tempura, Omakase tempura; counter seating"
+    },
+    {
+      "name": "Dasuke",
+      "coord": [
+        25.0308,
+        121.5627
+      ],
+      "desc": "Japanese, Refined Japanese; reservation advised"
+    },
+    {
+      "name": "Tutto Bello",
+      "coord": [
+        25.066319,
+        121.525389
+      ],
+      "desc": "Italian contemporary, Upscale Italian; wine list"
+    },
+    {
+      "name": "Sansan Bistro",
+      "coord": [
+        25.0328,
+        121.5645
+      ],
+      "desc": "Sichuan, Modern Sichuan bistro"
+    },
+    {
+      "name": "Yu Yu 1969",
+      "coord": [
+        25.0301,
+        121.5652
+      ],
+      "desc": "Taiwanese, Updated Taiwanese comfort food"
+    },
+    {
+      "name": "Yangming Spring (Shilin)",
+      "coord": [
+        25.09071,
+        121.52259
+      ],
+      "desc": "Vegetarian, Vegetarian tasting in serene setting"
+    },
+    {
+      "name": "Kou Gyu Rou",
+      "coord": [
+        24.25,
+        121.71667
+      ],
+      "desc": "Noodles, Beloved noodle spot (Michelin-listed)"
+    },
+    {
+      "name": "Shih Chia Big Rice Ball",
+      "coord": [
+        25.0358,
+        121.5636
+      ],
+      "desc": "Small eats, Classic Taiwanese fan-tuan breakfast"
+    },
+    {
+      "name": "Yonghe Chia Hsiang Soy Milk",
+      "coord": [
+        23.85755,
+        120.30412
+      ],
+      "desc": "Breakfast, Soy milk & youtiao breakfast institution"
+    },
+    {
+      "name": "Shou Wu",
+      "coord": [
+        22.64806,
+        120.2625
+      ],
+      "desc": "Hakkanese, Hakka flavors; hearty meals"
+    },
+    {
+      "name": "Bar Mood",
+      "coord": [
+        25.0349,
+        121.5638
+      ],
+      "desc": "Cocktail Bar, Asia’s 50 Best Bars-listed; creative cocktails"
+    },
+    {
+      "name": "Under Lab",
+      "coord": [
+        22.66595,
+        120.304012
+      ],
+      "desc": "Cocktail Bar, Asia’s 50 Best Bars list (extended)"
+    },
+    {
+      "name": "Wu (Nothingness)",
+      "coord": [
+        24.20866,
+        120.63695
+      ],
+      "desc": "Cocktail Bar, Asia’s 50 Best Bars list (extended)"
+    },
+    {
+      "name": "Indulge Experimental Bistro",
+      "coord": [
+        25.039142,
+        121.544809
+      ],
+      "desc": "Cocktail Bar/Bistro, Former Asia’s 50 Best Bars top-ranked Taipei bar"
+    },
+    {
+      "name": "Aha Saloon",
+      "coord": [
+        23.97767,
+        121.606684
+      ],
+      "desc": "Cocktail Bar, Previously on Asia’s 50 Best Bars list"
+    },
+    {
+      "name": "SHINEYU",
+      "coord": [
+        24.1486,
+        120.6751
+      ],
+      "desc": "Cantonese, Upscale Cantonese in Taichung"
+    },
+    {
+      "name": "meatGQ",
+      "coord": [
+        24.1459,
+        120.6721
+      ],
+      "desc": "Steakhouse, High-end steakhouse"
+    },
+    {
+      "name": "KR Prime Steak",
+      "coord": [
+        25.040484,
+        121.548388
+      ],
+      "desc": "Steakhouse, Special-occasion steakhouse"
+    },
+    {
+      "name": "YUENJI",
+      "coord": [
+        24.1458,
+        120.6726
+      ],
+      "desc": "Taiwanese, Elevated Taiwanese dining"
+    },
+    {
+      "name": "L'Atelier par Yao",
+      "coord": [
+        24.1453,
+        120.6742
+      ],
+      "desc": "French contemporary, Modern French techniques"
+    },
+    {
+      "name": "Sur-",
+      "coord": [
+        24.1481,
+        120.6763
+      ],
+      "desc": "Taiwanese contemporary, Creative contemporary Taiwanese"
+    },
+    {
+      "name": "Fleur de Sel",
+      "coord": [
+        24.160231,
+        120.63489
+      ],
+      "desc": "French contemporary, Refined French dining"
+    },
+    {
+      "name": "FIRNS",
+      "coord": [
+        24.1491,
+        120.6714
+      ],
+      "desc": "Creative, High-end creative tasting"
+    },
+    {
+      "name": "Master of Mushroom (Xinshe)",
+      "coord": [
+        24.955482,
+        121.241853
+      ],
+      "desc": "Taiwanese, Mushroom-focused local cooking"
+    },
+    {
+      "name": "Dongyin Fisherman",
+      "coord": [
+        24.1448,
+        120.6728
+      ],
+      "desc": "Seafood, Seafood specialist"
+    },
+    {
+      "name": "Oretachi No Nikuya",
+      "coord": [
+        24.157393,
+        120.733599
+      ],
+      "desc": "Barbecue, Japanese-style yakiniku"
+    },
+    {
+      "name": "Ke Kou Beef Noodles",
+      "coord": [
+        24.14476,
+        120.67138
+      ],
+      "desc": "Noodles, Beef noodles (Michelin-listed)"
+    },
+    {
+      "name": "Taichung Meatball",
+      "coord": [
+        24.163162,
+        120.647828
+      ],
+      "desc": "Small eats, Classic Taichung snack"
+    },
+    {
+      "name": "FUKAI",
+      "coord": [
+        22.9987,
+        120.2263
+      ],
+      "desc": "Modern cuisine, Special-occasion modern cooking"
+    },
+    {
+      "name": "Mayu Cocoon",
+      "coord": [
+        22.9971,
+        120.2259
+      ],
+      "desc": "Creative, Creative cooking; reservation recommended"
+    },
+    {
+      "name": "Bistro Alley",
+      "coord": [
+        25.026968,
+        121.568904
+      ],
+      "desc": "European contemporary, Contemporary bistro dining"
+    },
+    {
+      "name": "Liang Liang Table",
+      "coord": [
+        24.134562,
+        120.682746
+      ],
+      "desc": "European contemporary, Modern European plates"
+    },
+    {
+      "name": "L'herbe",
+      "coord": [
+        23.0023,
+        120.2291
+      ],
+      "desc": "European contemporary, Elegant modern dining"
+    },
+    {
+      "name": "Temperature Studio",
+      "coord": [
+        22.8104,
+        120.2601
+      ],
+      "desc": "Innovative, Modern/innovative plates"
+    },
+    {
+      "name": "Small Park Danzai Noodles",
+      "coord": [
+        23.232099,
+        120.193721
+      ],
+      "desc": "Noodles, Tainan danzai noodles classic"
+    },
+    {
+      "name": "A Cun Beef Soup (Baoan Road)",
+      "coord": [
+        23.0,
+        120.2241
+      ],
+      "desc": "Small eats, Tainan-style beef soup"
+    },
+    {
+      "name": "Dayong Street No Name Congee",
+      "coord": [
+        22.9988,
+        120.226
+      ],
+      "desc": "Congee, Congee spot in Michelin selection"
+    },
+    {
+      "name": "Lien Wu Chiao Lamb Soup",
+      "coord": [
+        23.0004,
+        120.2293
+      ],
+      "desc": "Small eats, Late-night lamb soup"
+    },
+    {
+      "name": "Zhu Xin Ju",
+      "coord": [
+        24.721537,
+        120.910614
+      ],
+      "desc": "Taiwanese, Taiwanese classics"
+    },
+    {
+      "name": "Feng No Seafood",
+      "coord": [
+        24.157393,
+        120.733599
+      ],
+      "desc": "Seafood, Local seafood dishes"
+    },
+    {
+      "name": "Good Hunan Cuisine",
+      "coord": [
+        22.626333,
+        120.301573
+      ],
+      "desc": "Hunanese, Spicy Hunan flavors"
+    },
+    {
+      "name": "A Wen Rice Cake",
+      "coord": [
+        22.990467,
+        120.196125
+      ],
+      "desc": "Small eats, Traditional rice cake breakfast"
+    },
+    {
+      "name": "Chuan Tai Hao Milkfish Ball",
+      "coord": [
+        23.0001,
+        120.2276
+      ],
+      "desc": "Small eats, Milkfish ball specialty"
+    },
+    {
+      "name": "No Name Lamb Soup",
+      "coord": [
+        22.9999,
+        120.2266
+      ],
+      "desc": "Small eats, Tainan lamb soup"
+    },
+    {
+      "name": "Yeh San Duck Thick Soup",
+      "coord": [
+        22.9968,
+        120.227
+      ],
+      "desc": "Small eats, Duck thick soup local favorite"
+    },
+    {
+      "name": "Gyu Go Zou",
+      "coord": [
+        22.9995,
+        120.2279
+      ],
+      "desc": "Hotpot, Hotpot option in Michelin selection"
+    },
+    {
+      "name": "J Parc",
+      "coord": [
+        22.6263,
+        120.3001
+      ],
+      "desc": "Creative, Creative menus in Kaohsiung"
+    },
+    {
+      "name": "GEN",
+      "coord": [
+        25.039629,
+        121.559361
+      ],
+      "desc": "Cantonese, High-end Cantonese"
+    },
+    {
+      "name": "CRATAIN",
+      "coord": [
+        22.6291,
+        120.2986
+      ],
+      "desc": "European contemporary, Modern European plates"
+    },
+    {
+      "name": "Li.nu",
+      "coord": [
+        23.306749,
+        120.761784
+      ],
+      "desc": "Creative, Creative tasting"
+    },
+    {
+      "name": "the FRONT HOUSE",
+      "coord": [
+        24.755795,
+        121.756633
+      ],
+      "desc": "Innovative, Innovative dining"
+    },
+    {
+      "name": "HAILI",
+      "coord": [
+        22.625,
+        120.3013
+      ],
+      "desc": "Modern cuisine, Modern cuisine"
+    },
+    {
+      "name": "Cho",
+      "coord": [
+        25.04197,
+        121.50467
+      ],
+      "desc": "Modern cuisine, Modern cuisine"
+    },
+    {
+      "name": "MU",
+      "coord": [
+        22.6297,
+        120.3005
+      ],
+      "desc": "Innovative, Innovative"
+    },
+    {
+      "name": "Sho",
+      "coord": [
+        22.621795,
+        120.286763
+      ],
+      "desc": "Japanese, Japanese dining"
+    },
+    {
+      "name": "Anchovy",
+      "coord": [
+        22.629,
+        120.2985
+      ],
+      "desc": "European contemporary, Modern bistro feel"
+    },
+    {
+      "name": "Kuca Seafood",
+      "coord": [
+        22.666125,
+        121.470305
+      ],
+      "desc": "Seafood, Seafood"
+    },
+    {
+      "name": "Crab's House",
+      "coord": [
+        25.038398,
+        121.572026
+      ],
+      "desc": "Seafood, Crab-focused seafood house"
+    },
+    {
+      "name": "Maltail",
+      "coord": [
+        22.6257,
+        120.2988
+      ],
+      "desc": "Cocktail Bar, Asia’s 50 Best Bars list (extended)"
+    },
+    {
+      "name": "Mountain and Sea House",
+      "coord": [
+        25.0325,
+        121.5664
+      ],
+      "desc": "Taiwanese, Classic Taiwanese banquet style"
+    },
+    {
+      "name": "Golden Formosa",
+      "coord": [
+        23.001744,
+        120.199543
+      ],
+      "desc": "Taiwanese, Taiwanese classics"
+    },
+    {
+      "name": "Sinchao Rice Shoppe",
+      "coord": [
+        25.0349,
+        121.5661
+      ],
+      "desc": "Taiwanese, Updated Taiwanese plates"
+    },
+    {
+      "name": "A Cheng Goose (Zhongshan)",
+      "coord": [
+        25.0345,
+        121.5631
+      ],
+      "desc": "Taiwanese, Goose specialty"
+    },
+    {
+      "name": "Hsiao Cho Chih Chia",
+      "coord": [
+        23.9075,
+        121.53167
+      ],
+      "desc": "Taiwanese, Taiwanese comfort food"
+    },
+    {
+      "name": "Lao Shan Dong Homemade Noodles",
+      "coord": [
+        25.05813,
+        121.512227
+      ],
+      "desc": "Noodles, Handmade noodles (queue-worthy)"
+    },
+    {
+      "name": "Chung Chia Sheng Jian Bao",
+      "coord": [
+        25.089434,
+        121.526332
+      ],
+      "desc": "Street food, Pan-fried buns"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Taipei 101 Observatory",
+      "coord": [
+        25.033525,
+        121.56481
+      ],
+      "desc": "Landmark/View, Cost: $$$. Skyline views; go early for fewer crowds"
+    },
+    {
+      "name": "Elephant Mountain (Xiangshan) hike",
+      "coord": [
+        25.035,
+        121.5676
+      ],
+      "desc": "Hike/View, Cost: Free. Short steep climb with postcard Taipei 101 views"
+    },
+    {
+      "name": "National Palace Museum",
+      "coord": [
+        25.101574,
+        121.548862
+      ],
+      "desc": "Museum, Cost: $$. World-class Chinese art collection"
+    },
+    {
+      "name": "Mengjia Longshan Temple",
+      "coord": [
+        25.037276,
+        121.499881
+      ],
+      "desc": "Temple/Culture, Cost: Free. Atmospheric temple; visit near sunset"
+    },
+    {
+      "name": "Chiang Kai-shek Memorial Hall",
+      "coord": [
+        25.033394,
+        121.517762
+      ],
+      "desc": "Monument/Culture, Cost: Free. Grand plaza + museums + architecture"
+    },
+    {
+      "name": "Ximending Pedestrian Zone",
+      "coord": [
+        25.04485,
+        121.50938
+      ],
+      "desc": "Neighborhood, Cost: Free. Neon streets, pop culture, street food"
+    },
+    {
+      "name": "Dihua Street (Dadaocheng)",
+      "coord": [
+        25.059357,
+        121.509465
+      ],
+      "desc": "Old street/Shopping, Cost: Free. Tea, dried goods, heritage lanes"
+    },
+    {
+      "name": "Huashan 1914 Creative Park",
+      "coord": [
+        25.04367,
+        121.52849
+      ],
+      "desc": "Art/Design, Cost: Free/$$. Design shops, exhibitions, cafés"
+    },
+    {
+      "name": "Songshan Cultural & Creative Park",
+      "coord": [
+        25.0305,
+        121.5664
+      ],
+      "desc": "Art/Design, Cost: Free/$$. Converted factory with galleries & markets"
+    },
+    {
+      "name": "Taipei Fine Arts Museum",
+      "coord": [
+        25.07203,
+        121.524661
+      ],
+      "desc": "Museum, Cost: $$. Modern & contemporary exhibitions"
+    },
+    {
+      "name": "Beitou hot springs day",
+      "coord": [
+        25.1367,
+        121.50927
+      ],
+      "desc": "Wellness/Onsen, Cost: $$$. Easy metro access for hot springs & baths"
+    },
+    {
+      "name": "Maokong Gondola + tea houses",
+      "coord": [
+        24.9857,
+        121.5695
+      ],
+      "desc": "Scenic ride/Food, Cost: $$. Gondola to tea hills; great half-day"
+    },
+    {
+      "name": "Night market food crawl",
+      "coord": [
+        25.0333,
+        121.5656
+      ],
+      "desc": "Food, Cost: $. Pick 1–2 markets; graze small portions"
+    },
+    {
+      "name": "Taipei Zoo",
+      "coord": [
+        24.995355,
+        121.586149
+      ],
+      "desc": "Zoo, Cost: $$. Large zoo; pair with Maokong gondola"
+    },
+    {
+      "name": "Taipei Children's Amusement Park",
+      "coord": [
+        25.09631,
+        121.51449
+      ],
+      "desc": "Amusement Park, Cost: $$. Easy city-day for families"
+    },
+    {
+      "name": "Beitou Hot Spring Museum + Thermal Valley",
+      "coord": [
+        25.1369,
+        121.5007
+      ],
+      "desc": "Museum/Nature, Cost: Free. Quick cultural stop on a hot springs day"
+    },
+    {
+      "name": "Taipei day trip: Jiufen",
+      "coord": [
+        25.111656,
+        121.845069
+      ],
+      "desc": "Day trip/Old town, Cost: $$. Laneways, tea houses, views"
+    },
+    {
+      "name": "Taipei day trip: Shifen & Pingxi Line",
+      "coord": [
+        25.0148,
+        121.4665
+      ],
+      "desc": "Day trip/Nature, Cost: $$. Waterfall + lantern release"
+    },
+    {
+      "name": "Taipei day trip: Yehliu Geopark",
+      "coord": [
+        25.0118,
+        121.4642
+      ],
+      "desc": "Nature/Geology, Cost: $$. Strange rock formations; windy coast"
+    },
+    {
+      "name": "Taipei day trip: Yangmingshan NP",
+      "coord": [
+        25.0345,
+        121.5633
+      ],
+      "desc": "Nature/Hot springs, Cost: $$. Volcanic landscapes close to the city"
+    },
+    {
+      "name": "Taipei day trip: Tamsui Old Street",
+      "coord": [
+        22.751017,
+        120.732749
+      ],
+      "desc": "Old street/Sunset, Cost: $$. Riverfront stroll + sunset ferry views"
+    },
+    {
+      "name": "Taipei day trip: Keelung Miaokou Night Market",
+      "coord": [
+        25.1289,
+        121.7371
+      ],
+      "desc": "Food, Cost: $. Seafood-focused night market"
+    },
+    {
+      "name": "Taipei day trip: Wulai hot springs",
+      "coord": [
+        24.8625,
+        121.548
+      ],
+      "desc": "Wellness/Nature, Cost: $$$. Hot springs in a lush valley"
+    },
+    {
+      "name": "Taroko Gorge",
+      "coord": [
+        24.00911,
+        121.37851
+      ],
+      "desc": "Nature/Hike, Cost: $$. Marble canyon hikes and dramatic scenery"
+    },
+    {
+      "name": "Taroko: Eternal Spring Shrine (Changchun)",
+      "coord": [
+        23.9745,
+        121.6016
+      ],
+      "desc": "Nature/Culture, Cost: Free. Iconic shrine built into cliffside"
+    },
+    {
+      "name": "Hualien: Qingshui Cliffs viewpoint",
+      "coord": [
+        23.978881,
+        121.607614
+      ],
+      "desc": "Scenic drive, Cost: Free. Ocean-meets-cliff views on the east coast"
+    },
+    {
+      "name": "Sun Moon Lake cycling loop (or partial)",
+      "coord": [
+        23.8484,
+        120.9141
+      ],
+      "desc": "Nature/Active, Cost: $$. Easy scenic cycling with lake views"
+    },
+    {
+      "name": "Sun Moon Lake boat ride",
+      "coord": [
+        23.8507,
+        120.9158
+      ],
+      "desc": "Scenic ride, Cost: $$. Boat hop between key piers"
+    },
+    {
+      "name": "Sun Moon Lake: Ci'en Pagoda",
+      "coord": [
+        23.139551,
+        121.396994
+      ],
+      "desc": "Viewpoint, Cost: Free. Short climb for sweeping lake vistas"
+    },
+    {
+      "name": "Taichung National Theatre",
+      "coord": [
+        24.162926,
+        120.640517
+      ],
+      "desc": "Architecture/Arts, Cost: $$. Modern landmark; tours & performances"
+    },
+    {
+      "name": "Taichung: Gaomei Wetlands at sunset",
+      "coord": [
+        24.163162,
+        120.647828
+      ],
+      "desc": "Nature, Cost: Free. Boardwalk over wetlands; sunset glow"
+    },
+    {
+      "name": "Taichung: Calligraphy Greenway",
+      "coord": [
+        24.155491,
+        120.665267
+      ],
+      "desc": "Neighborhood, Cost: Free. Park-like corridor with shops & cafés"
+    },
+    {
+      "name": "Chiayi: Fenqihu Old Street (bento)",
+      "coord": [
+        23.515035,
+        120.809754
+      ],
+      "desc": "Food/Old street, Cost: $$. Classic stop en route to Alishan"
+    },
+    {
+      "name": "Alishan Forest Recreation Area",
+      "coord": [
+        23.53245,
+        120.805053
+      ],
+      "desc": "Nature, Cost: $$. Cedar forests, trails, cool mountain air"
+    },
+    {
+      "name": "Alishan sunrise experience",
+      "coord": [
+        23.51,
+        120.80444
+      ],
+      "desc": "Nature/View, Cost: $$. Sunrise over clouds (weather permitting)"
+    },
+    {
+      "name": "Alishan Forest Railway ride (historic)",
+      "coord": [
+        23.5086,
+        120.8091
+      ],
+      "desc": "Scenic train, Cost: $$. Iconic railway through mountain forests"
+    },
+    {
+      "name": "Tainan Confucius Temple",
+      "coord": [
+        22.990437,
+        120.204222
+      ],
+      "desc": "Temple/Culture, Cost: $$. Historic temple complex in old capital"
+    },
+    {
+      "name": "Tainan: Anping Old Fort area",
+      "coord": [
+        22.9946,
+        120.1643
+      ],
+      "desc": "History, Cost: $$. Dutch-era history + old streets"
+    },
+    {
+      "name": "Tainan: Chihkan Tower",
+      "coord": [
+        22.997274,
+        120.202703
+      ],
+      "desc": "History, Cost: $$. Historic site in city center"
+    },
+    {
+      "name": "Tainan: Temple-hopping day",
+      "coord": [
+        22.9978,
+        120.2286
+      ],
+      "desc": "Culture, Cost: Free/$$. Taiwan’s temple-rich city—take it slow"
+    },
+    {
+      "name": "Kaohsiung: Pier-2 Art Center",
+      "coord": [
+        22.620335,
+        120.312038
+      ],
+      "desc": "Art/District, Cost: Free/$$. Warehouse art zone with shops & installations"
+    },
+    {
+      "name": "Kaohsiung: Dome of Light (Formosa Blvd. Station)",
+      "coord": [
+        22.6257,
+        120.3019
+      ],
+      "desc": "Landmark/Art, Cost: Free. Striking public art in MRT station"
+    },
+    {
+      "name": "Kaohsiung: Lotus Pond + Dragon & Tiger Pagodas",
+      "coord": [
+        22.620335,
+        120.312038
+      ],
+      "desc": "Culture, Cost: Free/$$. Temple-lake loop; iconic photo stop"
+    },
+    {
+      "name": "Kaohsiung: Fo Guang Shan Buddha Museum",
+      "coord": [
+        22.620335,
+        120.312038
+      ],
+      "desc": "Culture, Cost: $$. Taiwan’s largest temple complex; massive Buddha"
+    },
+    {
+      "name": "Kaohsiung: Love River evening stroll/boat",
+      "coord": [
+        22.629212,
+        120.319724
+      ],
+      "desc": "City/Scenic, Cost: $$. River walk; lights at night"
+    },
+    {
+      "name": "Kaohsiung: Cijin Island beach & seafood",
+      "coord": [
+        22.620335,
+        120.312038
+      ],
+      "desc": "Beach/Local, Cost: $$. Ferry over for beach time + seafood"
+    },
+    {
+      "name": "Kenting National Park",
+      "coord": [
+        21.996341,
+        120.824385
+      ],
+      "desc": "Nature/Beach, Cost: $$. Beaches, hikes, coastal viewpoints"
+    },
+    {
+      "name": "Kenting: Eluanbi Lighthouse area",
+      "coord": [
+        21.9463,
+        120.7649
+      ],
+      "desc": "Landmark/Nature, Cost: $$. Southern tip viewpoints"
+    },
+    {
+      "name": "Kenting: Beach day at Nanwan",
+      "coord": [
+        21.95944,
+        120.76639
+      ],
+      "desc": "Beach, Cost: $$. Shallow water & water sports"
+    },
+    {
+      "name": "Tea plantation visit (Pinglin or Alishan)",
+      "coord": [
+        24.499,
+        121.0012
+      ],
+      "desc": "Culture/Food, Cost: $$. Oolong tastings and tea culture"
+    },
+    {
+      "name": "Taiwanese hot springs circuit (Beitou/Jiaoxi/Guguan)",
+      "coord": [
+        24.4984,
+        121.0008
+      ],
+      "desc": "Wellness, Cost: $$$. Pick one hot spring town to avoid rushing"
+    },
+    {
+      "name": "Taipei: Eslite flagship bookstore browse",
+      "coord": [
+        25.0303,
+        121.5658
+      ],
+      "desc": "Shopping/Culture, Cost: Free. Legendary bookstore experience"
+    },
+    {
+      "name": "Taipei: Guang Hua Digital Plaza",
+      "coord": [
+        25.0323,
+        121.5654
+      ],
+      "desc": "Shopping, Cost: Free. Electronics bazaar experience"
+    },
+    {
+      "name": "Taipei: Street photography walk",
+      "coord": [
+        25.0309,
+        121.5677
+      ],
+      "desc": "Culture, Cost: Free. Markets, alleys, neon—great for cameras"
+    },
+    {
+      "name": "Taipei: Dumpling-making class (private)",
+      "coord": [
+        25.058464,
+        121.549514
+      ],
+      "desc": "Food, Cost: $$$. Hands-on cooking; great with kids"
+    },
+    {
+      "name": "Bike ride along Riverside Parks",
+      "coord": [
+        25.0343,
+        121.5656
+      ],
+      "desc": "Active/Outdoors, Cost: Free/$$. Flat, stroller-friendly paths by rivers"
+    },
+    {
+      "name": "Yilan/Jiaoxi hot spring day trip",
+      "coord": [
+        24.7576,
+        121.7556
+      ],
+      "desc": "Wellness, Cost: $$$. Easy escape for a hot-springs soak"
+    },
+    {
+      "name": "Hsinchu: The One Nanyuan retreat day",
+      "coord": [
+        24.8293,
+        121.0742
+      ],
+      "desc": "Wellness/Design, Cost: $$$$. Design-led quiet retreat in nature"
+    },
+    {
+      "name": "Taipei: The Grand Hotel photo stop",
+      "coord": [
+        25.13472,
+        121.50729
+      ],
+      "desc": "Landmark, Cost: Free. Iconic historic hotel architecture"
+    },
+    {
+      "name": "Taipei: Free half-day transit tour (if eligible)",
+      "coord": [
+        25.0353,
+        121.5656
+      ],
+      "desc": "Tour, Cost: Free. Airport-sponsored city highlights for long layov"
+    },
+    {
+      "name": "Taipei: Yongkang Street cafés & desserts",
+      "coord": [
+        23.7015,
+        120.9971
+      ],
+      "desc": "Food/Neighborhood, Cost: $$. Coffee + dessert crawl in walkable area"
+    },
+    {
+      "name": "Kaohsiung: Night market food tour",
+      "coord": [
+        22.6297,
+        120.3002
+      ],
+      "desc": "Food, Cost: $. Ruifeng is a classic; go hungry"
+    },
+    {
+      "name": "Taipei: Temple & market pairing (Longshan + nearby eats)",
+      "coord": [
+        25.069841,
+        121.629687
+      ],
+      "desc": "Culture/Food, Cost: $$. Easy cultural immersion + snacks"
+    },
+    {
+      "name": "Taipei: Hot springs + food pairing (Beitou)",
+      "coord": [
+        25.0317,
+        121.5657
+      ],
+      "desc": "Wellness/Food, Cost: $$$. Soak then dinner nearby"
+    },
+    {
+      "name": "Taichung: Hoshinoya Guguan onsen day",
+      "coord": [
+        24.163162,
+        120.647828
+      ],
+      "desc": "Wellness, Cost: $$$$. Ryokan-style onsen in mountains"
+    },
+    {
+      "name": "Taipei: Explore night markets as culture",
+      "coord": [
+        25.0343,
+        121.5681
+      ],
+      "desc": "Food/Culture, Cost: $. Night markets are central to Taiwanese life"
+    },
+    {
+      "name": "Taiwan rail: High Speed Rail city hop",
+      "coord": [
+        23.6975,
+        121.0023
+      ],
+      "desc": "Transport experience, Cost: $$. HSR makes multi-city itineraries easy"
+    },
+    {
+      "name": "Daan Forest Park",
+      "coord": [
+        25.02997,
+        121.53596
+      ],
+      "desc": "Park, Cost: Free. Big city park for playground time + stroller lap"
+    },
+    {
+      "name": "Taipei Botanical Garden",
+      "coord": [
+        25.03218,
+        121.509592
+      ],
+      "desc": "Garden, Cost: Free. Easy green escape in the city"
+    },
+    {
+      "name": "Snake Alley (Huaxi Street)",
+      "coord": [
+        24.698415,
+        120.895074
+      ],
+      "desc": "Night market/Culture, Cost: $. Old Taipei street scene"
+    },
+    {
+      "name": "Taroko: Shuilian Cave (Water Curtain)",
+      "coord": [
+        23.994588,
+        121.599146
+      ],
+      "desc": "Nature, Cost: $$. Rain jacket worthy—short misty experience"
+    },
+    {
+      "name": "Taroko: River tracing adventure (guided)",
+      "coord": [
+        24.1597,
+        121.4978
+      ],
+      "desc": "Adventure, Cost: $$$$. Canyoning-style way to experience the gorge"
+    },
+    {
+      "name": "Sun Moon Lake: Wenwu Temple",
+      "coord": [
+        23.8512,
+        120.9149
+      ],
+      "desc": "Temple/View, Cost: Free. Temple stop with lake viewpoints"
+    },
+    {
+      "name": "Sun Moon Lake: Ita Thao village stroll",
+      "coord": [
+        23.8479,
+        120.9181
+      ],
+      "desc": "Culture/Food, Cost: $$. Indigenous culture + lakeside snacks"
+    },
+    {
+      "name": "Kaohsiung: Weiwuying National Kaohsiung Center for the Arts",
+      "coord": [
+        22.620335,
+        120.312038
+      ],
+      "desc": "Arts/Architecture, Cost: $$. Modern performing-arts landmark"
+    },
+    {
+      "name": "Kaohsiung: Sizihwan sunset",
+      "coord": [
+        22.62475,
+        120.26487
+      ],
+      "desc": "Viewpoint, Cost: Free. Great sunset spot near harbor"
+    },
+    {
+      "name": "Kenting: Coastal viewpoints drive",
+      "coord": [
+        21.9473,
+        120.765
+      ],
+      "desc": "Scenic drive, Cost: $$. Rent a car/scooter for coastal stops"
+    },
+    {
+      "name": "Kenting: National Museum of Marine Biology & Aquarium",
+      "coord": [
+        22.045753,
+        120.699334
+      ],
+      "desc": "Aquarium, Cost: $$. Rainy-day win; big tanks and exhibits"
+    },
+    {
+      "name": "Taichung: Michelin food tour (self-guided)",
+      "coord": [
+        24.163162,
+        120.647828
+      ],
+      "desc": "Food, Cost: $$. Sample Michelin-listed local classics"
+    },
+    {
+      "name": "Tainan: Michelin street-food crawl",
+      "coord": [
+        23.0022,
+        120.2284
+      ],
+      "desc": "Food, Cost: $. Tainan’s food culture shines in Michelin list"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Taipei Zoo",
+      "coord": [
+        24.995355,
+        121.586149
+      ],
+      "desc": "Zoo, Cost: $$. Go in morning; pair with Maokong for half-day"
+    },
+    {
+      "name": "Maokong Gondola + tea hills",
+      "coord": [
+        25.0337,
+        121.5654
+      ],
+      "desc": "Scenic ride, Cost: $$. Ride earlier to avoid crowds; bring snacks"
+    },
+    {
+      "name": "Taipei Children's Amusement Park",
+      "coord": [
+        25.09631,
+        121.51449
+      ],
+      "desc": "Amusement park, Cost: $$. Easy city outing; combine with nearby museums/park"
+    },
+    {
+      "name": "Daan Forest Park playgrounds",
+      "coord": [
+        25.03403,
+        121.53459
+      ],
+      "desc": "Park/playground, Cost: Free. Stroller loops + playground time"
+    },
+    {
+      "name": "Riverside Parks (bike paths)",
+      "coord": [
+        25.032,
+        121.5634
+      ],
+      "desc": "Park/playground, Cost: Free/$$. Rent bikes/child seat; flat paths"
+    },
+    {
+      "name": "National Palace Museum (short highlights)",
+      "coord": [
+        25.031,
+        121.563
+      ],
+      "desc": "Museum, Cost: $$. Do 60–90 min ‘greatest hits’ visit"
+    },
+    {
+      "name": "Chiang Kai-shek Memorial Hall square",
+      "coord": [
+        25.0338,
+        121.5679
+      ],
+      "desc": "Activity, Cost: Free. Space to run; great photos"
+    },
+    {
+      "name": "Longshan Temple (quick visit)",
+      "coord": [
+        25.0337,
+        121.5632
+      ],
+      "desc": "Temple, Cost: Free. Go at sunset; keep visit brief with toddlers"
+    },
+    {
+      "name": "Ningxia Night Market (early dinner)",
+      "coord": [
+        25.0335,
+        121.5681
+      ],
+      "desc": "Night market, Cost: $. Arrive ~5pm for easier kid logistics"
+    },
+    {
+      "name": "Shilin Night Market (early + stroller plan)",
+      "coord": [
+        25.0323,
+        121.5663
+      ],
+      "desc": "Night market, Cost: $. Go early; pick a ‘base’ spot to regroup"
+    },
+    {
+      "name": "Taipei 101 Observatory",
+      "coord": [
+        25.033525,
+        121.56481
+      ],
+      "desc": "Landmark, Cost: $$$. Book a time slot; elevators are fun for kids"
+    },
+    {
+      "name": "Elephant Mountain viewpoint (older kids)",
+      "coord": [
+        24.82208,
+        120.968501
+      ],
+      "desc": "Activity, Cost: Free. Steep stairs—skip with toddlers"
+    },
+    {
+      "name": "Beitou hot springs (family soak)",
+      "coord": [
+        25.0326,
+        121.5625
+      ],
+      "desc": "Hot springs, Cost: $$$. Choose family-friendly bathhouse / private room"
+    },
+    {
+      "name": "Jiufen day trip",
+      "coord": [
+        25.10957,
+        121.84424
+      ],
+      "desc": "Activity, Cost: $$. Crowded steps; use carrier vs stroller"
+    },
+    {
+      "name": "Shifen Waterfall + lanterns",
+      "coord": [
+        24.35129,
+        120.7902
+      ],
+      "desc": "Activity, Cost: $$. Great for older kids; watch trains & waterfall"
+    },
+    {
+      "name": "Yehliu Geopark",
+      "coord": [
+        25.211347,
+        121.696375
+      ],
+      "desc": "Nature, Cost: $$. Windy coastal walk; hats + layers"
+    },
+    {
+      "name": "Sun Moon Lake boat + lakefront stroll",
+      "coord": [
+        23.139551,
+        121.396994
+      ],
+      "desc": "Nature, Cost: $$. Break into short segments (boat + snacks)"
+    },
+    {
+      "name": "Sun Moon Lake easy cycling (partial)",
+      "coord": [
+        23.9584,
+        120.6823
+      ],
+      "desc": "Nature, Cost: $$. Rent bikes; do a short scenic section"
+    },
+    {
+      "name": "Taroko Gorge scenic stops",
+      "coord": [
+        23.9763,
+        121.6016
+      ],
+      "desc": "Nature, Cost: $$. Use short lookout stops with toddlers"
+    },
+    {
+      "name": "Taroko: Eternal Spring Shrine",
+      "coord": [
+        24.16049,
+        121.60367
+      ],
+      "desc": "Activity, Cost: Free. Quick photo stop; easy access"
+    },
+    {
+      "name": "Taichung National Theatre (architecture)",
+      "coord": [
+        24.1505,
+        120.6708
+      ],
+      "desc": "Arts/architecture, Cost: $$. Look for tours; plenty of open spaces"
+    },
+    {
+      "name": "Gaomei Wetlands boardwalk",
+      "coord": [
+        24.31111,
+        120.56278
+      ],
+      "desc": "Nature, Cost: Free. Sunset stroll; bug spray"
+    },
+    {
+      "name": "Alishan forest walks (choose easiest trails)",
+      "coord": [
+        23.51,
+        120.80444
+      ],
+      "desc": "Nature, Cost: $$. Cool temps; layer up; stroller not ideal"
+    },
+    {
+      "name": "Kaohsiung Pier-2 Art Center",
+      "coord": [
+        22.620335,
+        120.312038
+      ],
+      "desc": "Art district, Cost: Free/$$. Big open spaces + installations for kids"
+    },
+    {
+      "name": "Kaohsiung: Cijin Island",
+      "coord": [
+        22.620335,
+        120.312038
+      ],
+      "desc": "Island/beach, Cost: $$. Ferry + beach + seafood; easy family day"
+    },
+    {
+      "name": "Kenting Aquarium",
+      "coord": [
+        21.93659,
+        120.81778
+      ],
+      "desc": "Aquarium, Cost: $$. Great rainy-day option; plan AC breaks"
+    },
+    {
+      "name": "Fo Guang Shan Buddha Museum",
+      "coord": [
+        22.75487,
+        120.44742
+      ],
+      "desc": "Museum, Cost: $$. Big-scale site; lots of walking—bring stroller"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Ningxia Night Market",
+      "coord": [
+        25.05567,
+        121.515064
+      ],
+      "desc": "Night market, Snacks + easy stroller-friendly loop"
+    },
+    {
+      "name": "Raohe Night Market",
+      "coord": [
+        25.050679,
+        121.575977
+      ],
+      "desc": "Night market, Street-food crawl near Rainbow Bridge"
+    },
+    {
+      "name": "Shilin Night Market",
+      "coord": [
+        25.088389,
+        121.524299
+      ],
+      "desc": "Night market, Iconic, huge; go early for families"
+    },
+    {
+      "name": "Shida Night Market",
+      "coord": [
+        25.024156,
+        121.529142
+      ],
+      "desc": "Night market, Mix of snacks + shopping; lively"
+    },
+    {
+      "name": "Tonghua (Linjiang) Night Market",
+      "coord": [
+        25.02952,
+        121.55406
+      ],
+      "desc": "Night market, Local favorite for quick bites"
+    },
+    {
+      "name": "Nanjichang Night Market",
+      "coord": [
+        25.028512,
+        121.506023
+      ],
+      "desc": "Night market, Local stalls; less touristy"
+    },
+    {
+      "name": "Dihua Street (Dadaocheng)",
+      "coord": [
+        25.059357,
+        121.509465
+      ],
+      "desc": "Old street/market, Tea, dried goods, design shops"
+    },
+    {
+      "name": "Yongkang Street food area",
+      "coord": [
+        22.92864,
+        121.11501
+      ],
+      "desc": "Food street, Coffee, desserts, casual dining"
+    },
+    {
+      "name": "Addiction Aquatic Development",
+      "coord": [
+        25.066694,
+        121.536934
+      ],
+      "desc": "Seafood hall, Seafood market + sushi/standing bars"
+    },
+    {
+      "name": "Ximending street eats",
+      "coord": [
+        25.04485,
+        121.50938
+      ],
+      "desc": "Neighborhood food, Fun neon district; easy evening wander"
+    },
+    {
+      "name": "Fengjia Night Market",
+      "coord": [
+        24.177351,
+        120.6466
+      ],
+      "desc": "Night market, One of Taiwan’s biggest night markets"
+    },
+    {
+      "name": "Taichung Second Market",
+      "coord": [
+        24.163162,
+        120.647828
+      ],
+      "desc": "Market, Classic market eats; morning best"
+    },
+    {
+      "name": "Garden Night Market",
+      "coord": [
+        23.011361,
+        120.200443
+      ],
+      "desc": "Night market, Tainan street-food powerhouse"
+    },
+    {
+      "name": "Anping Old Street",
+      "coord": [
+        23.000671,
+        120.162694
+      ],
+      "desc": "Old street/food, Snack stalls + historic Anping"
+    },
+    {
+      "name": "Ruifeng Night Market",
+      "coord": [
+        22.666245,
+        120.299366
+      ],
+      "desc": "Night market, Big, energetic; ideal for food grazing"
+    },
+    {
+      "name": "Liuhe Tourist Night Market",
+      "coord": [
+        22.632071,
+        120.299051
+      ],
+      "desc": "Night market, Classic night market for visitors"
+    },
+    {
+      "name": "Jiufen Old Street",
+      "coord": [
+        25.108615,
+        121.844426
+      ],
+      "desc": "Old street/food, Day-trip classic; tea houses + snacks"
+    }
+  ],
+  "cityCenters": {
+    "Taipei": [
+      25.05,
+      121.5775,
+      1.5
+    ],
+    "Taichung": [
+      24.1986,
+      121.0,
+      1.5
+    ],
+    "Kaohsiung": [
+      22.6273,
+      120.3014,
+      2.5
+    ],
+    "Chiayi": [
+      23.4697,
+      120.5906,
+      2.0
+    ],
+    "New Taipei": [
+      24.8655,
+      121.5508,
+      1.5
+    ],
+    "Hsinchu": [
+      24.8048,
+      120.9685,
+      2.0
+    ],
+    "Sun Moon Lake": [
+      23.8488,
+      120.9169,
+      2.0
+    ],
+    "Taroko Gorge": [
+      24.1586,
+      121.4948,
+      1.5
+    ],
+    "Hualien": [
+      24.03,
+      121.61,
+      1.5
+    ],
+    "Kenting": [
+      21.9474,
+      120.7629,
+      2.0
+    ],
+    "Tainan": [
+      22.9998,
+      120.2269,
+      2.5
+    ],
+    "Yilan": [
+      24.8762,
+      121.835,
+      2.0
+    ],
+    "Nantou": [
+      23.7477,
+      120.6928,
+      2.0
+    ],
+    "Kaohsiung/Tainan": [
+      22.81,
+      120.26,
+      2.5
+    ],
+    "Keelung": [
+      25.1276,
+      121.7392,
+      2.0
+    ],
+    "Chiayi/Alishan": [
+      23.5096,
+      120.8066,
+      2.0
+    ],
+    "Pingtung": [
+      21.9474,
+      120.7629,
+      2.0
+    ],
+    "New Taipei/Chiayi": [
+      24.5,
+      121.0,
+      2.5
+    ],
+    "North/Central Taiwan": [
+      24.5,
+      121.0,
+      2.0
+    ],
+    "Island-wide": [
+      23.7,
+      121.0,
+      2.0
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Greatest Hits",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Taipei",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Regent Taipei",
+              "coord": [
+                25.056,
+                121.524
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Din Tai Fung",
+              "coord": [
+                25.0335,
+                121.53
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chiang Kai-shek Memorial Hall",
+              "coord": [
+                25.0355,
+                121.5197
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Taipei Icons",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Regent Taipei",
+              "coord": [
+                25.056,
+                121.524
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Yongkang Street",
+              "coord": [
+                23.7021,
+                121.0028
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei 101 Observatory",
+              "coord": [
+                25.0339,
+                121.5645
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Shin Yeh",
+              "coord": [
+                25.0445,
+                121.5159
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elephant Mountain hike",
+              "coord": [
+                25.035,
+                121.5676
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mume",
+              "coord": [
+                25.028,
+                121.544
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Culture Day",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Regent Taipei",
+              "coord": [
+                25.056,
+                121.524
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Palace Museum",
+              "coord": [
+                25.1024,
+                121.5485
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Addiction Aquatic Development",
+              "coord": [
+                25.0602,
+                121.5374
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mengjia Longshan Temple",
+              "coord": [
+                25.0334,
+                121.4972
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ningxia Night Market",
+              "coord": [
+                25.0558,
+                121.5156
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Jiufen & Northeast Coast",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Regent Taipei",
+              "coord": [
+                25.056,
+                121.524
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jiufen Old Street",
+              "coord": [
+                25.1094,
+                121.8441
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jiufen tea house",
+              "coord": [
+                25.1094,
+                121.8441
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei day trip: Shifen & Pingxi Line",
+              "coord": [
+                25.0148,
+                121.4665
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Yehliu Geopark",
+              "coord": [
+                25.2053,
+                121.6908
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Train to Taichung",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "InterContinental Taichung",
+              "coord": [
+                24.1449,
+                120.6738
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Rainbow Village",
+              "coord": [
+                24.1338,
+                120.6082
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Miyahara",
+              "coord": [
+                24.138,
+                120.683
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taichung National Theatre",
+              "coord": [
+                24.1493,
+                120.6729
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Fengjia Night Market",
+              "coord": [
+                24.1622,
+                120.6391
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Sun Moon Lake",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Lalu Sun Moon Lake",
+              "coord": [
+                23.8512,
+                120.9165
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sun Moon Lake cycling loop (or partial)",
+              "coord": [
+                23.8484,
+                120.9141
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sun Moon Lake boat ride",
+              "coord": [
+                23.8507,
+                120.9158
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sun Moon Lake: Wenwu Temple",
+              "coord": [
+                23.8512,
+                120.9149
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Train to Tainan",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Provintia Hotel Tainan",
+              "coord": [
+                22.9984,
+                120.2263
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan: Anping Old Fort area",
+              "coord": [
+                22.9946,
+                120.1643
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "A Cun Beef Soup (Baoan Road)",
+              "coord": [
+                23.0,
+                120.2241
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan: Chihkan Tower",
+              "coord": [
+                23.0009,
+                120.2288
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Anping Old Street",
+              "coord": [
+                22.9979,
+                120.1611
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Tainan Full Day",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Provintia Hotel Tainan",
+              "coord": [
+                22.9984,
+                120.2263
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan Confucius Temple",
+              "coord": [
+                22.9999,
+                120.2286
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Small Park Danzai Noodles",
+              "coord": [
+                23.0027,
+                120.2248
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan: Temple-hopping day",
+              "coord": [
+                22.9978,
+                120.2286
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Garden Night Market",
+              "coord": [
+                22.9992,
+                120.2286
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Kaohsiung",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Kaohsiung Central Park",
+              "coord": [
+                22.628,
+                120.3
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Lotus Pond + Dragon & Tiger Pagodas",
+              "coord": [
+                22.6251,
+                120.3007
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Liuhe Tourist Night Market",
+              "coord": [
+                22.6245,
+                120.3039
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Pier-2 Art Center",
+              "coord": [
+                22.6302,
+                120.302
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Fo Guang Shan Buddha Museum",
+              "coord": [
+                22.628,
+                120.3007
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Kaohsiung Day 2",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Kaohsiung Central Park",
+              "coord": [
+                22.628,
+                120.3
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Cijin Island beach & seafood",
+              "coord": [
+                22.6275,
+                120.3009
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kaohsiung: Cijin Island beach & seafood",
+              "coord": [
+                22.6275,
+                120.3009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Dome of Light (Formosa Blvd. Station)",
+              "coord": [
+                22.6257,
+                120.3019
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ruifeng Night Market",
+              "coord": [
+                22.6891,
+                120.2942
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "HSR back to Taipei, shopping",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "W Taipei",
+              "coord": [
+                25.0367,
+                121.5656
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ximending Pedestrian Zone",
+              "coord": [
+                25.0355,
+                121.4966
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ximending street eats",
+              "coord": [
+                25.0352,
+                121.4957
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dihua Street (Dadaocheng)",
+              "coord": [
+                25.0605,
+                121.5112
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Palais",
+              "coord": [
+                25.0499,
+                121.548
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "W Taipei",
+              "coord": [
+                25.0367,
+                121.5656
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "hotel",
+              "coord": [
+                25.0367,
+                121.5656
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Beitou hot springs day",
+              "coord": [
+                25.1333,
+                121.5032
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hidden Gems & Deep Culture",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Taipei",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Taipei North",
+              "coord": [
+                25.0629,
+                121.5209
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mountain and Sea House",
+              "coord": [
+                25.0325,
+                121.5664
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dihua Street (Dadaocheng)",
+              "coord": [
+                25.0605,
+                121.5112
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Taipei Local Life",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Taipei North",
+              "coord": [
+                25.0629,
+                121.5209
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Yonghe Chia Hsiang Soy Milk",
+              "coord": [
+                25.012,
+                121.4641
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mengjia Longshan Temple",
+              "coord": [
+                25.0334,
+                121.4972
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mountain and Sea House",
+              "coord": [
+                25.0325,
+                121.5664
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Huashan 1914 Creative Park",
+              "coord": [
+                25.0339,
+                121.518
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Palais",
+              "coord": [
+                25.0499,
+                121.548
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Beitou & Yangmingshan",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Villa 32",
+              "coord": [
+                25.1365,
+                121.5065
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beitou Hot Spring Museum + Thermal Valley",
+              "coord": [
+                25.1369,
+                121.5007
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beitou hot springs day",
+              "coord": [
+                25.1333,
+                121.5032
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei day trip: Yangmingshan NP",
+              "coord": [
+                25.0345,
+                121.5633
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Villa 32",
+              "coord": [
+                25.1365,
+                121.5065
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Train to Hsinchu",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "EPISODE Hsinchu (JDV by Hyatt)",
+              "coord": [
+                24.804,
+                120.9702
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hsinchu City God Temple",
+              "coord": [
+                24.8058,
+                120.9665
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hsinchu: The One Nanyuan retreat day",
+              "coord": [
+                24.8293,
+                121.0742
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The One Nanyuan",
+              "coord": [
+                24.8275,
+                121.0731
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Alishan Forest",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Alishan",
+              "coord": [
+                23.522,
+                120.695
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alishan Forest Railway ride (historic)",
+              "coord": [
+                23.5086,
+                120.8091
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Alishan Forest Recreation Area",
+              "coord": [
+                23.5118,
+                120.8054
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alishan Forest Recreation Area",
+              "coord": [
+                23.5118,
+                120.8054
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Alishan sunrise, then Tainan",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Provintia Hotel Tainan",
+              "coord": [
+                22.9984,
+                120.2263
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alishan sunrise experience",
+              "coord": [
+                23.5087,
+                120.8054
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "A Cun Beef Soup (Baoan Road)",
+              "coord": [
+                23.0,
+                120.2241
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan Confucius Temple",
+              "coord": [
+                22.9999,
+                120.2286
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Tainan Deep Dive",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Provintia Hotel Tainan",
+              "coord": [
+                22.9984,
+                120.2263
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan: Temple-hopping day",
+              "coord": [
+                22.9978,
+                120.2286
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Small Park Danzai Noodles",
+              "coord": [
+                23.0027,
+                120.2248
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan: Anping Old Fort area",
+              "coord": [
+                22.9946,
+                120.1643
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Anping Old Street",
+              "coord": [
+                22.9979,
+                120.1611
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Train to Hualien",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Le Meridien Hualien Resort",
+              "coord": [
+                23.9753,
+                121.6015
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hualien: Qingshui Cliffs viewpoint",
+              "coord": [
+                23.9771,
+                121.6044
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Le Meridien Hualien Resort",
+              "coord": [
+                23.9753,
+                121.6015
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Meridien Hualien Resort",
+              "coord": [
+                23.9753,
+                121.6015
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Taroko Gorge",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Silks Place Taroko",
+              "coord": [
+                24.172,
+                121.494
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taroko Gorge",
+              "coord": [
+                24.1586,
+                121.4948
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taroko Gorge",
+              "coord": [
+                24.1586,
+                121.4948
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taroko: Eternal Spring Shrine (Changchun)",
+              "coord": [
+                23.9745,
+                121.6016
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Taroko Day 2 + East Coast",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Silks Place Taroko",
+              "coord": [
+                24.172,
+                121.494
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taroko Gorge",
+              "coord": [
+                24.1586,
+                121.4948
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taroko Gorge",
+              "coord": [
+                24.1586,
+                121.4948
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hualien: Qingshui Cliffs viewpoint",
+              "coord": [
+                23.9771,
+                121.6044
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Hualien: Qingshui Cliffs viewpoint",
+              "coord": [
+                23.9771,
+                121.6044
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Train to Yilan",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Archipelago",
+              "coord": [
+                24.8752,
+                121.8332
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Yilan/Jiaoxi hot spring day trip",
+              "coord": [
+                24.7576,
+                121.7556
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Yilan/Jiaoxi hot spring day trip",
+              "coord": [
+                24.7576,
+                121.7556
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Archipelago",
+              "coord": [
+                24.8752,
+                121.8332
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Back to Taipei via Northeast Coast",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Kimpton Da An Taipei",
+              "coord": [
+                23.6972,
+                121.003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei day trip: Keelung Miaokou Night Market",
+              "coord": [
+                25.1289,
+                121.7371
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taipei day trip: Keelung Miaokou Night Market",
+              "coord": [
+                25.1289,
+                121.7371
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei day trip: Tamsui Old Street",
+              "coord": [
+                25.1716,
+                121.4414
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Taipei Markets & Food",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Kimpton Da An Taipei",
+              "coord": [
+                23.6972,
+                121.003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei: Street photography walk",
+              "coord": [
+                25.0309,
+                121.5677
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taïrroir",
+              "coord": [
+                25.027,
+                121.5488
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Maokong Gondola + tea houses",
+              "coord": [
+                24.9857,
+                121.5695
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Kimpton Da An Taipei",
+              "coord": [
+                23.6972,
+                121.003
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "hotel",
+              "coord": [
+                23.6972,
+                121.003
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Taipei: Eslite flagship bookstore browse",
+              "coord": [
+                25.0303,
+                121.5658
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Slow Family Pace",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Taipei",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grand Hyatt Taipei",
+              "coord": [
+                25.033,
+                121.56
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Din Tai Fung",
+              "coord": [
+                25.0335,
+                121.53
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest",
+              "coord": [
+                25.033,
+                121.56
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Songshan Cultural & Creative Park",
+              "coord": [
+                25.0305,
+                121.5664
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Kid Day Taipei",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grand Hyatt Taipei",
+              "coord": [
+                25.033,
+                121.56
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei Zoo",
+              "coord": [
+                24.9985,
+                121.581
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taipei Zoo",
+              "coord": [
+                24.9985,
+                121.581
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Maokong Gondola + tea houses",
+              "coord": [
+                24.9857,
+                121.5695
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "afternoon rest",
+              "coord": [
+                25.033,
+                121.56
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Culture Lite",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grand Hyatt Taipei",
+              "coord": [
+                25.033,
+                121.56
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chiang Kai-shek Memorial Hall",
+              "coord": [
+                25.0355,
+                121.5197
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Yongkang Street food area",
+              "coord": [
+                23.7021,
+                121.0028
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei Children's Amusement Park",
+              "coord": [
+                25.0909,
+                121.5221
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "afternoon rest",
+              "coord": [
+                25.033,
+                121.56
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Beitou Hot Springs",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Villa 32",
+              "coord": [
+                25.1365,
+                121.5065
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beitou Hot Spring Museum + Thermal Valley",
+              "coord": [
+                25.1369,
+                121.5007
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beitou hot springs day",
+              "coord": [
+                25.1333,
+                121.5032
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beitou Hot Spring Museum + Thermal Valley",
+              "coord": [
+                25.1369,
+                121.5007
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Beitou Hot Spring Museum + Thermal Valley",
+              "coord": [
+                25.1369,
+                121.5007
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Train to Sun Moon Lake",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Fleur de Chine Hotel",
+              "coord": [
+                23.8608,
+                120.9218
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sun Moon Lake boat ride",
+              "coord": [
+                23.8507,
+                120.9158
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sun Moon Lake boat ride",
+              "coord": [
+                23.8507,
+                120.9158
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "afternoon rest at hotel",
+              "coord": [
+                23.8608,
+                120.9218
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Sun Moon Lake Day 2",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Fleur de Chine Hotel",
+              "coord": [
+                23.8608,
+                120.9218
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sun Moon Lake cycling loop (or partial)",
+              "coord": [
+                23.8484,
+                120.9141
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sun Moon Lake: Ita Thao village stroll",
+              "coord": [
+                23.8479,
+                120.9181
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sun Moon Lake: Ci'en Pagoda",
+              "coord": [
+                23.8464,
+                120.917
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Sun Moon Lake: Ci'en Pagoda",
+              "coord": [
+                23.8464,
+                120.917
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Train to Kaohsiung",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Kaohsiung Central Park",
+              "coord": [
+                22.628,
+                120.3
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Lotus Pond + Dragon & Tiger Pagodas",
+              "coord": [
+                22.6251,
+                120.3007
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Liuhe Tourist Night Market",
+              "coord": [
+                22.6245,
+                120.3039
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "afternoon rest",
+              "coord": [
+                22.628,
+                120.3
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Kaohsiung Family Fun",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Kaohsiung Central Park",
+              "coord": [
+                22.628,
+                120.3
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Pier-2 Art Center",
+              "coord": [
+                22.6302,
+                120.302
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ruifeng Night Market",
+              "coord": [
+                22.6891,
+                120.2942
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Pier-2 Art Center",
+              "coord": [
+                22.6302,
+                120.302
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Kaohsiung: Cijin Island beach & seafood",
+              "coord": [
+                22.6275,
+                120.3009
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "HSR back to Taipei",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "W Taipei",
+              "coord": [
+                25.0367,
+                121.5656
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Shilin Night Market",
+              "coord": [
+                25.0878,
+                121.5245
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ximending street eats",
+              "coord": [
+                25.0352,
+                121.4957
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Ximending Pedestrian Zone",
+              "coord": [
+                25.0355,
+                121.4966
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "W Taipei",
+              "coord": [
+                25.0367,
+                121.5656
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "hotel",
+              "coord": [
+                25.0367,
+                121.5656
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Taipei 101 Observatory",
+              "coord": [
+                25.0339,
+                121.5645
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

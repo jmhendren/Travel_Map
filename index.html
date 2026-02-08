@@ -80,18 +80,17 @@
         }
 
         .itin-tab {
-            flex: 0 0 calc(33.333% - 6px);
-            padding: 10px;
-            border: 2px solid #ddd;
-            border-radius: 6px;
-            background: #f9f9f9;
+            flex: 1 1 100%;
+            padding: 10px 14px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            background: #f9fafb;
             cursor: pointer;
-            font-weight: 600;
-            font-size: 13px;
-            text-align: center;
+            font-weight: 500;
+            font-size: 12px;
+            text-align: left;
             transition: all 0.2s;
-            color: #666;
-            text-transform: uppercase;
+            color: #6b7280;
         }
 
         .itin-tab:hover {
@@ -102,7 +101,9 @@
         .itin-tab.active {
             background: white;
             border-color: #333;
-            color: #000;
+            color: #111827;
+            font-weight: 600;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
         }
 
         /* Tab colors */
@@ -419,30 +420,55 @@
                 left: 0;
                 right: 0;
                 width: 100%;
-                max-height: 70vh;
+                max-height: 85vh;
                 border-radius: 16px 16px 0 0;
-                box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+                box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
                 z-index: 100;
-                transform: translateY(0);
+                transition: max-height 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+                overflow: hidden;
+            }
+
+            .sidebar.mobile-collapsed {
+                max-height: 145px;
+            }
+
+            .sidebar.mobile-half {
+                max-height: 50vh;
+            }
+
+            .sidebar.mobile-expanded {
+                max-height: 85vh;
             }
 
             .sidebar.hidden {
                 transform: translateY(100%);
             }
 
+            .sidebar.mobile-collapsed .sidebar-content,
+            .sidebar.mobile-collapsed #categoriesCheckboxes,
+            .sidebar.mobile-collapsed #itineraryTabs,
+            .sidebar.mobile-collapsed #filterChipsRow,
+            .sidebar.mobile-collapsed #regionFilterRow,
+            .sidebar.mobile-collapsed #filterChipsCount,
+            .sidebar.mobile-collapsed #destTitle,
+            .sidebar.mobile-collapsed #destSubtitle {
+                display: none !important;
+            }
+
             .sidebar-drag-handle {
                 width: 100%;
-                padding: 10px 0;
+                padding: 12px 0 8px 0;
                 text-align: center;
-                border-bottom: 1px solid #eee;
                 cursor: grab;
+                touch-action: none;
+                flex-shrink: 0;
             }
 
             .sidebar-drag-handle::before {
                 content: '';
                 display: inline-block;
-                width: 30px;
-                height: 3px;
+                width: 36px;
+                height: 4px;
                 background: #ccc;
                 border-radius: 2px;
             }
@@ -451,8 +477,12 @@
                 cursor: grabbing;
             }
 
+            .sidebar-drag-handle:active::before {
+                background: #999;
+            }
+
             .sidebar-header {
-                padding: 15px;
+                padding: 8px 15px 15px 15px;
             }
 
             .sidebar-title {
@@ -464,9 +494,9 @@
             }
 
             .itin-tab {
-                flex: 0 0 calc(33.333% - 4px);
-                padding: 8px;
-                font-size: 11px;
+                flex: 1 1 100%;
+                padding: 8px 12px;
+                font-size: 10px;
             }
 
             .toggle-btn {
@@ -476,6 +506,7 @@
 
             .sidebar-content {
                 padding: 15px;
+                overflow-y: auto;
             }
 
             .day-card-header {
@@ -507,8 +538,17 @@
                 font-size: 12px;
             }
 
-            .toggle-btn {
-                font-size: 11px;
+            /* Mobile expand hint chevron */
+            .mobile-expand-hint {
+                display: none;
+                text-align: center;
+                padding: 2px 0 6px 0;
+                color: #aaa;
+                font-size: 10px;
+                letter-spacing: 0.5px;
+            }
+            .sidebar.mobile-collapsed .mobile-expand-hint {
+                display: block;
             }
         }
 
@@ -1079,11 +1119,12 @@
 
 @media (max-width: 768px) {
     .chat-fab {
-        bottom: 16px;
+        bottom: 160px;
         right: 16px;
         width: 50px;
         height: 50px;
         font-size: 20px;
+        z-index: 101;
     }
     .chat-panel {
         bottom: 0;
@@ -1636,11 +1677,12 @@
 
 @media (max-width: 768px) {
     .geo-fab {
-        bottom: 76px;
+        bottom: 220px;
         right: 16px;
         width: 44px;
         height: 44px;
         font-size: 18px;
+        z-index: 101;
     }
     .nearby-panel {
         bottom: 0;
@@ -2060,6 +2102,7 @@
         
         <div class="sidebar" id="sidebar">
             <div class="sidebar-drag-handle" id="dragHandle" style="display: none;"></div>
+            <div class="mobile-expand-hint" id="mobileExpandHint">Swipe up for details</div>
             
             <div class="sidebar-header">
                 <!-- Destination Selector (Phase 4) -->
@@ -2081,18 +2124,19 @@
                     <button class="toggle-btn" id="itinerariesViewBtn" onclick="switchView('itineraries')">
                         <i class="fas fa-map-location-dot"></i> Itineraries
                     </button>
+                    <button class="toggle-btn" onclick="showNotesPanel()" title="View all notes" style="flex: 0 0 auto; padding: 8px 12px;">
+                        📝 Notes
+                    </button>
                 </div>
 
                 <!-- Quick Filter Chips (Phase 1c) -->
                 <div class="filter-chips-row" id="filterChipsRow">
-                    <span class="filter-chip" data-filter="hotels" onclick="toggleFilterChip('hotels')">&#x1F3E8; Hotels</span>
-                    <span class="filter-chip" data-filter="dining" onclick="toggleFilterChip('dining')">&#x1F374; Dining</span>
-                    <span class="filter-chip" data-filter="sightseeing" onclick="toggleFilterChip('sightseeing')">&#x1F5FA; Sights</span>
-                    <span class="filter-chip" data-filter="cameras" onclick="toggleFilterChip('cameras')">&#x1F4F7; Cameras</span>
-                    <span class="filter-chip" data-filter="skincare" onclick="toggleFilterChip('skincare')">&#x1F9F4; Skincare</span>
-                    <span class="filter-chip" data-filter="kids" onclick="toggleFilterChip('kids')">&#x1F476; Kids</span>
-                    <span class="filter-chip" data-filter="markets" onclick="toggleFilterChip('markets')">&#x1F6CD; Markets</span>
-                    <button class="filter-chips-clear" id="filterChipsClear" onclick="clearFilterChips()" style="display:none;">Clear</button>
+                    <!-- Filter chips built dynamically by buildFilterChips() -->
+                </div>
+                <div id="regionFilterRow" style="display:none; margin-top: 8px;">
+                    <select id="regionSelect" onchange="filterByRegion(this.value)" style="width:100%; padding:7px 10px; border:1.5px solid #ddd; border-radius:8px; font-size:11px; font-weight:500; color:#555; background:white; cursor:pointer; appearance:auto;">
+                        <option value="">All Regions</option>
+                    </select>
                 </div>
                 <div class="filter-chips-count" id="filterChipsCount"></div>
 
@@ -2133,6 +2177,16 @@
             <button class="swap-panel-close" onclick="closeSwapPanel()">&times;</button>
         </div>
         <div class="swap-panel-body" id="swapPanelBody"></div>
+    </div>
+
+    <!-- Notes Panel -->
+    <div class="swap-overlay" id="notesPanelOverlay" onclick="closeNotesPanel()" style="display:none;"></div>
+    <div class="swap-panel" id="notesPanel" style="display:none;">
+        <div class="swap-panel-header">
+            <h3>📝 My Notes</h3>
+            <button class="swap-panel-close" onclick="closeNotesPanel()">&times;</button>
+        </div>
+        <div class="swap-panel-body" id="notesPanelBody"></div>
     </div>
 
     <!-- City Activity Browser (Phase 1b) -->
@@ -2415,6 +2469,8 @@
             loadCategories();
             switchView('categories');
             buildTabsUI();
+            buildFilterChips();
+            buildRegionFilter();
         }
 
         function addDestination(key, config) {
@@ -2516,6 +2572,7 @@
                 markets: data.markets || [],
                 itineraryData: data.itineraryData,
                 cityCenters: data.cityCenters,
+                regions: data.regions || [],
                 originalItineraryData: JSON.parse(JSON.stringify(data.itineraryData))
             };
             addDestination(data.key, config);
@@ -2860,7 +2917,16 @@
                         weight: 2,
                         opacity: 1,
                         fillOpacity: 0.8
-                    }).bindPopup(`<div class="popup-title">${escapeHtml(hotel.name)}</div><div class="popup-type">Hotel</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(hotel.desc || '')}</div>`);
+                    });
+                    let popupHtml = `<div class="popup-title">${escapeHtml(hotel.name)}</div><div class="popup-type">Hotel</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(hotel.desc || '')}</div>`;
+                    const existingNote = getNote(activeDestination || 'default', hotel.name);
+                    const noteTextareaId = 'note-' + hotel.name.replace(/[^a-zA-Z0-9]/g, '_');
+                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
+                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
+                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
+                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + hotel.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
+                    popupHtml += '</div>';
+                    marker.bindPopup(popupHtml);
                     categoryGroups.hotels.addLayer(marker);
                 }
             });
@@ -2875,7 +2941,16 @@
                         weight: 2,
                         opacity: 1,
                         fillOpacity: 0.8
-                    }).bindPopup(`<div class="popup-title">${escapeHtml(restaurant.name)}</div><div class="popup-type">Restaurant</div>`);
+                    });
+                    let popupHtml = `<div class="popup-title">${escapeHtml(restaurant.name)}</div><div class="popup-type">Restaurant</div>`;
+                    const existingNote = getNote(activeDestination || 'default', restaurant.name);
+                    const noteTextareaId = 'note-' + restaurant.name.replace(/[^a-zA-Z0-9]/g, '_');
+                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
+                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
+                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
+                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + restaurant.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
+                    popupHtml += '</div>';
+                    marker.bindPopup(popupHtml);
                     categoryGroups.restaurants.addLayer(marker);
                 }
             });
@@ -2890,7 +2965,16 @@
                         weight: 2,
                         opacity: 1,
                         fillOpacity: 0.8
-                    }).bindPopup(`<div class="popup-title">${escapeHtml(experience.name)}</div><div class="popup-type">Experience</div>`);
+                    });
+                    let popupHtml = `<div class="popup-title">${escapeHtml(experience.name)}</div><div class="popup-type">Experience</div>`;
+                    const existingNote = getNote(activeDestination || 'default', experience.name);
+                    const noteTextareaId = 'note-' + experience.name.replace(/[^a-zA-Z0-9]/g, '_');
+                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
+                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
+                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
+                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + experience.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
+                    popupHtml += '</div>';
+                    marker.bindPopup(popupHtml);
                     categoryGroups.experiences.addLayer(marker);
                 }
             });
@@ -2905,7 +2989,16 @@
                         weight: 2,
                         opacity: 1,
                         fillOpacity: 0.8
-                    }).bindPopup(`<div class="popup-title">${escapeHtml(place.name)}</div><div class="popup-type">Kid Friendly</div>`);
+                    });
+                    let popupHtml = `<div class="popup-title">${escapeHtml(place.name)}</div><div class="popup-type">Kid Friendly</div>`;
+                    const existingNote = getNote(activeDestination || 'default', place.name);
+                    const noteTextareaId = 'note-' + place.name.replace(/[^a-zA-Z0-9]/g, '_');
+                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
+                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
+                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
+                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + place.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
+                    popupHtml += '</div>';
+                    marker.bindPopup(popupHtml);
                     categoryGroups.kidFriendly.addLayer(marker);
                 }
             });
@@ -2920,7 +3013,16 @@
                         weight: 2,
                         opacity: 1,
                         fillOpacity: 0.8
-                    }).bindPopup(`<div class="popup-title">${escapeHtml(market.name)}</div><div class="popup-type">Market</div>`);
+                    });
+                    let popupHtml = `<div class="popup-title">${escapeHtml(market.name)}</div><div class="popup-type">Market</div>`;
+                    const existingNote = getNote(activeDestination || 'default', market.name);
+                    const noteTextareaId = 'note-' + market.name.replace(/[^a-zA-Z0-9]/g, '_');
+                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
+                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
+                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
+                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + market.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
+                    popupHtml += '</div>';
+                    marker.bindPopup(popupHtml);
                     categoryGroups.markets.addLayer(marker);
                 }
             });
@@ -2979,17 +3081,15 @@
         function buildTabsUI() {
             const container = document.getElementById('tabsContainer');
             container.innerHTML = '';  // Clear existing tabs before rebuilding
-            const colors = { a: '#2563EB', b: '#059669', c: '#D97706', d: '#DC2626', e: '#7C3AED' };
 
             Object.keys(itineraryData).forEach(key => {
                 const itin = itineraryData[key];
+                const itinName = itin.name || itin.title || key.toUpperCase();
                 const btn = document.createElement('button');
                 btn.className = `itin-tab itin-tab-${key}`;
-                btn.textContent = key.toUpperCase();
+                btn.textContent = itinName;
                 btn.onclick = () => selectItinerary(key);
                 btn.id = `tab-${key}`;
-                btn.style.color = colors[key];
-                btn.style.borderColor = colors[key];
                 container.appendChild(btn);
             });
         }
@@ -3551,6 +3651,105 @@
             return text.replace(/[&<>"']/g, m => map[m]);
         }
 
+        // ============================================
+        // NOTES STORAGE FUNCTIONS
+        // ============================================
+
+        function getNoteKey(destKey, poiName) {
+            return 'tripMap_notes_' + destKey + '_' + poiName.replace(/[^a-zA-Z0-9]/g, '_');
+        }
+
+        function getNote(destKey, poiName) {
+            return localStorage.getItem(getNoteKey(destKey, poiName)) || '';
+        }
+
+        function setNote(destKey, poiName, text) {
+            const key = getNoteKey(destKey, poiName);
+            if (text.trim()) {
+                localStorage.setItem(key, text.trim());
+            } else {
+                localStorage.removeItem(key);
+            }
+            updateNoteIndicators();
+        }
+
+        function getAllNotes(destKey) {
+            const notes = [];
+            for (let i = 0; i < localStorage.length; i++) {
+                const key = localStorage.key(i);
+                if (key.startsWith('tripMap_notes_' + destKey + '_')) {
+                    const poiName = key.replace('tripMap_notes_' + destKey + '_', '').replace(/_/g, ' ');
+                    notes.push({ poiName, text: localStorage.getItem(key) });
+                }
+            }
+            return notes;
+        }
+
+        function updateNoteIndicators() {
+            if (activeDestination) {
+                const sidebar = document.getElementById('sidebarContent');
+                if (sidebar) {
+                    const items = sidebar.querySelectorAll('[data-poi-name]');
+                    items.forEach(item => {
+                        const poiName = item.getAttribute('data-poi-name');
+                        const hasNote = getNote(activeDestination, poiName);
+                        const noteIcon = item.querySelector('.note-indicator');
+                        if (hasNote) {
+                            if (!noteIcon) {
+                                const icon = document.createElement('span');
+                                icon.className = 'note-indicator';
+                                icon.textContent = ' 📝';
+                                icon.title = 'Has notes';
+                                item.appendChild(icon);
+                            }
+                        } else {
+                            if (noteIcon) noteIcon.remove();
+                        }
+                    });
+                }
+            }
+        }
+
+        function showNotesPanel() {
+            const notes = getAllNotes(activeDestination);
+            let html = '<div style="padding:16px"><h3 style="margin:0 0 12px;font-size:16px;">📝 My Notes';
+            const destInfo = destinations[activeDestination];
+            if (destInfo) {
+                html += ' — ' + escapeHtml(destInfo.name || activeDestination);
+            }
+            html += '</h3>';
+            if (notes.length === 0) {
+                html += '<p style="color:#9ca3af;font-size:14px;margin:0;">No notes yet. Click on any place to add a note.</p>';
+            } else {
+                notes.forEach(n => {
+                    html += '<div style="margin-bottom:12px;padding:8px;background:#f9fafb;border-radius:6px;border:1px solid #e5e7eb">';
+                    html += '<div style="font-weight:600;font-size:13px;color:#333;margin-bottom:4px;">' + escapeHtml(n.poiName) + '</div>';
+                    html += '<div style="font-size:12px;color:#6b7280;margin:4px 0;white-space:pre-wrap;line-height:1.4;">' + escapeHtml(n.text) + '</div>';
+                    html += '</div>';
+                });
+            }
+            html += '</div>';
+            const panel = document.getElementById('notesPanel');
+            const overlay = document.getElementById('notesPanelOverlay');
+            if (panel) {
+                panel.innerHTML = html;
+                panel.style.display = 'flex';
+            }
+            if (overlay) {
+                overlay.style.display = 'block';
+            }
+        }
+
+        function closeNotesPanel() {
+            const panel = document.getElementById('notesPanel');
+            const overlay = document.getElementById('notesPanelOverlay');
+            if (panel) {
+                panel.style.display = 'none';
+            }
+            if (overlay) {
+                overlay.style.display = 'none';
+            }
+        }
 
         // ============================================
         // QUICK FILTER CHIPS (Phase 1c)
@@ -3558,15 +3757,84 @@
 
         let activeFilterChips = new Set();
 
-        const filterChipConfig = {
+        // Base filter chip config (universal for all destinations)
+        const baseFilterChipConfig = {
             hotels:     { categoryKey: 'hotels',     types: ['hotel'],                      namePattern: null },
             dining:     { categoryKey: 'restaurants', types: ['breakfast', 'lunch', 'dinner'], namePattern: null },
             sightseeing:{ categoryKey: 'experiences', types: ['sightseeing'],                  namePattern: null },
-            cameras:    { categoryKey: null,          types: ['optional'],                     namePattern: /\u{1F4F7}|camera|photo|film|lemon-sha|leica/iu },
-            skincare:   { categoryKey: null,          types: ['optional'],                     namePattern: /\u{1F9F4}|skincare|beauty|shiseido|sk-ii|cosme|yojiya|aesop|makanai|isetan beauty/iu },
-            kids:       { categoryKey: 'kidFriendly', types: ['optional', 'sightseeing'],      namePattern: /\u{1F3AA}|kid|child|play|zoo|aquarium|pokemon|ghibli|toy|asobono/iu },
-            markets:    { categoryKey: 'markets',     types: ['optional', 'sightseeing'],      namePattern: /\u{1F6CD}|market|tsukiji|nishiki|kuromon|omicho/iu }
+            kids:       { categoryKey: 'kidFriendly', types: ['optional', 'sightseeing'],      namePattern: /kid|child|play|zoo|aquarium|toy|family|playground/iu },
+            markets:    { categoryKey: 'markets',     types: ['optional', 'sightseeing'],      namePattern: /market|bazaar|souk|mercado|markt/iu }
         };
+
+        // Destination-specific extra filter chips
+        const destFilterChips = {
+            japan: {
+                cameras:  { emoji: '\u{1F4F7}', label: 'Cameras',  categoryKey: null, types: ['optional'], namePattern: /\u{1F4F7}|camera|photo|film|lemon-sha|leica/iu },
+                skincare: { emoji: '\u{1F9F4}', label: 'Skincare', categoryKey: null, types: ['optional'], namePattern: /\u{1F9F4}|skincare|beauty|shiseido|sk-ii|cosme|yojiya|aesop|makanai|isetan beauty/iu }
+            }
+        };
+
+        // Active config (rebuilt per destination)
+        let filterChipConfig = Object.assign({}, baseFilterChipConfig);
+
+        // Chip definitions for building UI
+        const baseChipDefs = [
+            { key: 'hotels',      emoji: '\u{1F3E8}', label: 'Hotels' },
+            { key: 'dining',      emoji: '\u{1F374}', label: 'Dining' },
+            { key: 'sightseeing', emoji: '\u{1F5FA}', label: 'Sights' },
+            { key: 'kids',        emoji: '\u{1F476}', label: 'Kids' },
+            { key: 'markets',     emoji: '\u{1F6CD}', label: 'Markets' }
+        ];
+
+        function buildFilterChips() {
+            const row = document.getElementById('filterChipsRow');
+            row.innerHTML = '';
+            activeFilterChips.clear();
+
+            // Rebuild filterChipConfig for this destination
+            filterChipConfig = Object.assign({}, baseFilterChipConfig);
+            const extraChips = destFilterChips[activeDestination] || {};
+            Object.assign(filterChipConfig, extraChips);
+
+            // Build chip elements: first 3 base, then extras, then remaining base
+            const chipOrder = [];
+            chipOrder.push(baseChipDefs[0]); // Hotels
+            chipOrder.push(baseChipDefs[1]); // Dining
+            chipOrder.push(baseChipDefs[2]); // Sights
+
+            // Insert destination-specific chips here
+            Object.keys(extraChips).forEach(key => {
+                chipOrder.push({ key: key, emoji: extraChips[key].emoji, label: extraChips[key].label });
+            });
+
+            chipOrder.push(baseChipDefs[3]); // Kids
+            chipOrder.push(baseChipDefs[4]); // Markets
+
+            chipOrder.forEach(chip => {
+                const span = document.createElement('span');
+                span.className = 'filter-chip';
+                span.setAttribute('data-filter', chip.key);
+                span.onclick = function() { toggleFilterChip(chip.key); };
+                span.textContent = chip.emoji + ' ' + chip.label;
+                row.appendChild(span);
+            });
+
+            // Add clear button
+            const clearBtn = document.createElement('button');
+            clearBtn.className = 'filter-chips-clear';
+            clearBtn.id = 'filterChipsClear';
+            clearBtn.onclick = clearFilterChips;
+            clearBtn.style.display = 'none';
+            clearBtn.textContent = 'Clear';
+            row.appendChild(clearBtn);
+
+            // Reset count display
+            const countEl = document.getElementById('filterChipsCount');
+            if (countEl) {
+                countEl.classList.remove('active');
+                countEl.textContent = '';
+            }
+        }
 
         function toggleFilterChip(filter) {
             if (activeFilterChips.has(filter)) {
@@ -3648,8 +3916,8 @@
                 if (config && config.categoryKey) {
                     showCategories.add(config.categoryKey);
                 }
-                // For cameras/skincare that don't map to a single category, show experiences
-                if (filter === 'cameras' || filter === 'skincare') {
+                // For filters without a categoryKey (e.g. cameras, skincare), show experiences
+                if (config && !config.categoryKey) {
                     showCategories.add('experiences');
                 }
             });
@@ -3725,6 +3993,109 @@
 
             countEl.classList.add('active');
             countEl.textContent = matchCount + ' matching marker' + (matchCount !== 1 ? 's' : '') + ' highlighted';
+        }
+
+
+        // ============================================
+        // REGION FILTERING
+        // ============================================
+
+        let activeRegion = null; // {name, bounds: [[minLat, minLng], [maxLat, maxLng]]}
+
+        function buildRegionFilter() {
+            const row = document.getElementById('regionFilterRow');
+            const sel = document.getElementById('regionSelect');
+            activeRegion = null;
+
+            // Check if current destination has regions defined
+            const dest = destinations[activeDestination];
+            if (!dest || !dest.regions || dest.regions.length === 0) {
+                row.style.display = 'none';
+                return;
+            }
+
+            row.style.display = 'block';
+            sel.innerHTML = '<option value="">All Regions</option>';
+            dest.regions.forEach(function(region, idx) {
+                const opt = document.createElement('option');
+                opt.value = idx;
+                opt.textContent = region.name;
+                sel.appendChild(opt);
+            });
+        }
+
+        function filterByRegion(value) {
+            const dest = destinations[activeDestination];
+            if (!dest || !dest.regions) return;
+
+            if (value === '' || value === null) {
+                activeRegion = null;
+            } else {
+                activeRegion = dest.regions[parseInt(value)];
+            }
+
+            // Re-apply to current view
+            if (currentView === 'categories') {
+                applyRegionFilterCategories();
+            }
+        }
+
+        function isInRegion(coord, region) {
+            if (!region || !region.bounds) return true;
+            var lat = coord[0], lng = coord[1];
+            var b = region.bounds;
+            return lat >= b[0][0] && lat <= b[1][0] && lng >= b[0][1] && lng <= b[1][1];
+        }
+
+        function applyRegionFilterCategories() {
+            if (!activeRegion) {
+                // No region filter — reload all categories
+                loadCategories();
+                return;
+            }
+
+            // Filter each category group to only show markers in region
+            var dest = destinations[activeDestination];
+            var catArrays = {
+                hotels: dest.hotels,
+                restaurants: dest.restaurants,
+                experiences: dest.experiences,
+                kidFriendly: dest.kidFriendly,
+                markets: dest.markets
+            };
+
+            Object.keys(categoryGroups).forEach(function(key) {
+                if (map.hasLayer(categoryGroups[key])) categoryGroups[key].removeFrom(map);
+                categoryGroups[key] = L.featureGroup();
+            });
+
+            var totalShown = 0;
+            Object.keys(catArrays).forEach(function(key) {
+                var items = catArrays[key] || [];
+                items.forEach(function(item) {
+                    if (!isInRegion(item.coord, activeRegion)) return;
+                    totalShown++;
+                    var marker = L.circleMarker(item.coord, {
+                        radius: 7,
+                        fillColor: categoryColors[key],
+                        color: '#fff',
+                        weight: 2,
+                        opacity: 1,
+                        fillOpacity: 0.85
+                    });
+                    marker.bindPopup('<strong>' + escapeHtml(item.name) + '</strong><br>' + escapeHtml(item.desc || ''));
+                    categoryGroups[key].addLayer(marker);
+                });
+
+                var checkbox = document.querySelector('input[data-category="' + key + '"]');
+                if (checkbox && checkbox.checked) {
+                    categoryGroups[key].addTo(map);
+                }
+            });
+
+            var countEl = document.getElementById('filterChipsCount');
+            countEl.classList.add('active');
+            countEl.textContent = activeRegion.name + ': ' + totalShown + ' places';
         }
 
 
@@ -4688,24 +5059,117 @@
             initMap();
             loadManifest();  // Load destinations from JSON files
 
-            // Mobile drag handle
+            // Mobile bottom-sheet behavior
             const sidebar = document.getElementById('sidebar');
             const dragHandle = document.getElementById('dragHandle');
-            
+
             if (window.innerWidth <= 768) {
                 dragHandle.style.display = 'block';
-                let startY, startHeight;
-                
+
+                // States: collapsed, half, expanded
+                let mobileState = 'collapsed';
+                const COLLAPSED_PX = 145;
+                const HALF_VH = 50;
+                const EXPANDED_VH = 85;
+
+                function setMobileState(state, animate) {
+                    mobileState = state;
+                    sidebar.classList.remove('mobile-collapsed', 'mobile-half', 'mobile-expanded');
+                    if (!animate) sidebar.style.transition = 'none';
+                    else sidebar.style.transition = '';
+
+                    if (state === 'collapsed') {
+                        sidebar.classList.add('mobile-collapsed');
+                        sidebar.style.maxHeight = COLLAPSED_PX + 'px';
+                    } else if (state === 'half') {
+                        sidebar.classList.add('mobile-half');
+                        sidebar.style.maxHeight = HALF_VH + 'vh';
+                    } else {
+                        sidebar.classList.add('mobile-expanded');
+                        sidebar.style.maxHeight = EXPANDED_VH + 'vh';
+                    }
+                    // Restore transition after frame
+                    if (!animate) requestAnimationFrame(() => { sidebar.style.transition = ''; });
+                }
+
+                // Start collapsed
+                setMobileState('collapsed', false);
+
+                // Drag logic
+                let startY = 0, startH = 0, dragging = false, lastVelocity = 0, lastTime = 0, lastY = 0;
+
                 dragHandle.addEventListener('touchstart', (e) => {
                     startY = e.touches[0].clientY;
-                    startHeight = sidebar.offsetHeight;
-                });
-                
+                    startH = sidebar.offsetHeight;
+                    dragging = true;
+                    lastY = startY;
+                    lastTime = Date.now();
+                    lastVelocity = 0;
+                    sidebar.style.transition = 'none';
+                }, { passive: true });
+
                 dragHandle.addEventListener('touchmove', (e) => {
+                    if (!dragging) return;
                     const currentY = e.touches[0].clientY;
                     const diff = startY - currentY;
-                    const newHeight = Math.min(Math.max(100, startHeight + diff), window.innerHeight * 0.9);
-                    sidebar.style.maxHeight = newHeight + 'px';
+                    const now = Date.now();
+                    const dt = now - lastTime;
+                    if (dt > 0) lastVelocity = (lastY - currentY) / dt;
+                    lastY = currentY;
+                    lastTime = now;
+                    const newH = Math.min(Math.max(COLLAPSED_PX, startH + diff), window.innerHeight * (EXPANDED_VH / 100));
+                    sidebar.style.maxHeight = newH + 'px';
+                    // Toggle hidden content visibility at threshold
+                    if (newH > COLLAPSED_PX + 20) {
+                        sidebar.classList.remove('mobile-collapsed');
+                    } else {
+                        sidebar.classList.add('mobile-collapsed');
+                    }
+                    e.preventDefault();
+                }, { passive: false });
+
+                function snapToNearest() {
+                    if (!dragging) return;
+                    dragging = false;
+                    sidebar.style.transition = '';
+                    const h = sidebar.offsetHeight;
+                    const vh = window.innerHeight;
+                    const halfPx = vh * HALF_VH / 100;
+                    const expandedPx = vh * EXPANDED_VH / 100;
+                    // Use velocity for flick gestures
+                    if (lastVelocity > 0.5) {
+                        // Swiping up fast
+                        if (mobileState === 'collapsed') setMobileState('half', true);
+                        else setMobileState('expanded', true);
+                    } else if (lastVelocity < -0.5) {
+                        // Swiping down fast
+                        if (mobileState === 'expanded') setMobileState('half', true);
+                        else setMobileState('collapsed', true);
+                    } else {
+                        // Snap to closest
+                        const distCollapsed = Math.abs(h - COLLAPSED_PX);
+                        const distHalf = Math.abs(h - halfPx);
+                        const distExpanded = Math.abs(h - expandedPx);
+                        const minDist = Math.min(distCollapsed, distHalf, distExpanded);
+                        if (minDist === distCollapsed) setMobileState('collapsed', true);
+                        else if (minDist === distHalf) setMobileState('half', true);
+                        else setMobileState('expanded', true);
+                    }
+                }
+
+                dragHandle.addEventListener('touchend', snapToNearest, { passive: true });
+                dragHandle.addEventListener('touchcancel', snapToNearest, { passive: true });
+
+                // Tap handle to toggle collapsed <-> half
+                let tapStartY = 0, tapMoved = false;
+                dragHandle.addEventListener('pointerdown', (e) => { tapStartY = e.clientY; tapMoved = false; });
+                dragHandle.addEventListener('pointermove', (e) => {
+                    if (Math.abs(e.clientY - tapStartY) > 8) tapMoved = true;
+                });
+                dragHandle.addEventListener('pointerup', (e) => {
+                    if (tapMoved) return;
+                    if (mobileState === 'collapsed') setMobileState('half', true);
+                    else setMobileState('collapsed', true);
                 });
             }
         });
