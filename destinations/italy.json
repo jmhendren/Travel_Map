@@ -1,0 +1,2839 @@
+{
+  "key": "italy",
+  "name": "Italy Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇮🇹",
+  "defaultCenter": [
+    42.5,
+    12.5
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Aki Family Resort",
+      "coord": [
+        46.7152,
+        11.6556
+      ],
+      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$"
+    },
+    {
+      "name": "Falkensteiner Family Resort Lido",
+      "coord": [
+        46.7833,
+        11.7333
+      ],
+      "desc": "Casteldarne/Ehrenburg, Dolomites/South Tyrol, $$$"
+    },
+    {
+      "name": "Quercia Rubra Villa",
+      "coord": [
+        43.1,
+        11.8
+      ],
+      "desc": "Tuscany (countryside), Tuscany, $$$$"
+    },
+    {
+      "name": "Il San Pietro di Positano",
+      "coord": [
+        40.626,
+        14.4809
+      ],
+      "desc": "Positano, Amalfi Coast/Campania, $$$$"
+    },
+    {
+      "name": "Borgo Santo Pietro",
+      "coord": [
+        43.1547,
+        11.0847
+      ],
+      "desc": "Chiusdino, Tuscany, $$$$"
+    },
+    {
+      "name": "Aman Venice",
+      "coord": [
+        45.4408,
+        12.3155
+      ],
+      "desc": "Venice, Veneto, $$$$"
+    },
+    {
+      "name": "Rosewood Castiglion del Bosco",
+      "coord": [
+        43.0996,
+        11.8432
+      ],
+      "desc": "Montalcino, Tuscany, $$$$"
+    },
+    {
+      "name": "Passalacqua",
+      "coord": [
+        45.853,
+        9.098
+      ],
+      "desc": "Moltrasio (Lake Como), Lombardy, $$$$"
+    },
+    {
+      "name": "JK Place Capri",
+      "coord": [
+        40.553,
+        14.245
+      ],
+      "desc": "Capri, Campania, $$$$"
+    },
+    {
+      "name": "Castello di Reschio",
+      "coord": [
+        43.2333,
+        12.1333
+      ],
+      "desc": "Lisciano Niccone, Umbria, $$$$"
+    },
+    {
+      "name": "Casa Maria Luigia",
+      "coord": [
+        44.6472,
+        10.9252
+      ],
+      "desc": "Modena, Emilia-Romagna, $$$$"
+    },
+    {
+      "name": "Corte della Maestà",
+      "coord": [
+        42.6306,
+        12.1306
+      ],
+      "desc": "Civita di Bagnoregio, Lazio, $$$$"
+    },
+    {
+      "name": "San Domenico Palace Taormina (Four Seasons)",
+      "coord": [
+        37.8516,
+        15.2876
+      ],
+      "desc": "Taormina, Sicily, $$$$"
+    },
+    {
+      "name": "Hotel Cipriani (Belmond)",
+      "coord": [
+        45.4408,
+        12.3155
+      ],
+      "desc": "Venice (Giudecca), Veneto, $$$$"
+    },
+    {
+      "name": "Bulgari Hotel Roma",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Rome, Lazio, $$$$"
+    },
+    {
+      "name": "Four Seasons Hotel Firenze",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $$$$"
+    },
+    {
+      "name": "Private Villa on Salina (via Bellini Travel)",
+      "coord": [
+        38.5608,
+        14.8539
+      ],
+      "desc": "Salina, Aeolian Islands/Sicily, $$$$"
+    },
+    {
+      "name": "Hotel De Len",
+      "coord": [
+        46.5406,
+        12.1275
+      ],
+      "desc": "Cortina d'Ampezzo, Dolomites/Veneto, $$$"
+    },
+    {
+      "name": "Castello di Casole (Belmond)",
+      "coord": [
+        43.3396,
+        11.0465
+      ],
+      "desc": "Casole d'Elsa, Tuscany, $$$$"
+    },
+    {
+      "name": "Quellenhof Luxury Resort Lazise",
+      "coord": [
+        45.4981,
+        10.7343
+      ],
+      "desc": "Lazise, Lake Garda/Veneto, $$$"
+    },
+    {
+      "name": "Quellenhof Luxury Resort Passeier",
+      "coord": [
+        46.7667,
+        11.1833
+      ],
+      "desc": "Passeier Valley, South Tyrol, $$$"
+    },
+    {
+      "name": "Verdura Resort (Rocco Forte)",
+      "coord": [
+        37.5071,
+        13.086
+      ],
+      "desc": "Sciacca, Sicily, $$$$"
+    },
+    {
+      "name": "Luxury Villa on Lake Garda (Nice2Stay)",
+      "coord": [
+        45.55,
+        10.5
+      ],
+      "desc": "Lake Garda (Monte Baldo), Veneto/Lombardy, $$$$"
+    },
+    {
+      "name": "Palazzo Daniele (Casa Lawa Retreat)",
+      "coord": [
+        40.175,
+        18.17
+      ],
+      "desc": "Galatina, Puglia, $$$"
+    },
+    {
+      "name": "Aki Family Resort (duplicate - richer detail)",
+      "coord": [
+        46.7152,
+        11.6556
+      ],
+      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$$"
+    },
+    {
+      "name": "Furore Grand Hotel",
+      "coord": [
+        40.6208,
+        14.5519
+      ],
+      "desc": "Furore, Campania/Amalfi Coast, $$$"
+    },
+    {
+      "name": "Botania Relais & Spa",
+      "coord": [
+        40.7275,
+        13.897
+      ],
+      "desc": "Ischia, Campania, $$$"
+    },
+    {
+      "name": "Villa Igiea (Rocco Forte)",
+      "coord": [
+        38.1157,
+        13.3615
+      ],
+      "desc": "Palermo, Sicily, $$$$"
+    },
+    {
+      "name": "La Fiermontina Palazzo Bozzi Corso",
+      "coord": [
+        40.3569,
+        18.1719
+      ],
+      "desc": "Lecce, Puglia, $$$"
+    },
+    {
+      "name": "Masseria Calderisi",
+      "coord": [
+        40.8337,
+        17.3637
+      ],
+      "desc": "Fasano, Puglia, $$$"
+    },
+    {
+      "name": "Casa Maiora",
+      "coord": [
+        41,
+        16.5
+      ],
+      "desc": "Puglia, Puglia, $$$"
+    },
+    {
+      "name": "Borgo Santandrea (2025 Season Update)",
+      "coord": [
+        40.634,
+        14.6027
+      ],
+      "desc": "Amalfi Coast, Campania/Amalfi Coast, $$$$"
+    },
+    {
+      "name": "Collegio alla Querce (Auberge Collection)",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $$$$"
+    },
+    {
+      "name": "Villa Igiea (duplicate)",
+      "coord": [
+        38.1157,
+        13.3615
+      ],
+      "desc": "Palermo, Sicily, $$$$"
+    },
+    {
+      "name": "Castello di Vicarello",
+      "coord": [
+        43.1,
+        11.8
+      ],
+      "desc": "Tuscany, Tuscany, $$$$"
+    },
+    {
+      "name": "Aki Family Resort (3rd mention - detailed review)",
+      "coord": [
+        46.7152,
+        11.6556
+      ],
+      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$$"
+    },
+    {
+      "name": "Corte della Maestà (Michelin Key 2025)",
+      "coord": [
+        42.6306,
+        12.1306
+      ],
+      "desc": "Civita di Bagnoregio, Lazio, $$$$"
+    },
+    {
+      "name": "Hotel Saltus",
+      "coord": [
+        46.5,
+        11.5
+      ],
+      "desc": "South Tyrol, South Tyrol, $$$"
+    },
+    {
+      "name": "La Réserve Firenze (Opening June 2026)",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $$$$"
+    },
+    {
+      "name": "La Perla (Hotel, Corvara)",
+      "coord": [
+        46.55,
+        11.8667
+      ],
+      "desc": "Corvara, Dolomites/South Tyrol, $$$$"
+    },
+    {
+      "name": "La Badia Hotel (Orvieto - Opening 2027)",
+      "coord": [
+        42.7181,
+        12.1092
+      ],
+      "desc": "Orvieto, Umbria, $$$$"
+    },
+    {
+      "name": "Castel Badia (T Magazine Feature)",
+      "coord": [
+        46.7831,
+        11.9039
+      ],
+      "desc": "San Lorenzo di Sebato, Dolomites/South Tyrol, $$$$"
+    },
+    {
+      "name": "Villa Mabel (Boutique Hotel, Taormina)",
+      "coord": [
+        37.8516,
+        15.2876
+      ],
+      "desc": "Taormina, Sicily, $$"
+    },
+    {
+      "name": "Palazzo Daniele",
+      "coord": [
+        39.8333,
+        18.3667
+      ],
+      "desc": "Gagliano del Capo, Puglia, $$$$"
+    },
+    {
+      "name": "Hotel Ristorante Grotta Palazzese",
+      "coord": [
+        41.02,
+        17.1987
+      ],
+      "desc": "Polignano a Mare, Puglia, $$$$"
+    },
+    {
+      "name": "La Suvera (Pellicano Hotels 5th Property)",
+      "coord": [
+        43.2531,
+        11.1242
+      ],
+      "desc": "Pievescola, Tuscany, $$$$"
+    },
+    {
+      "name": "La Réserve Firenze",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $$$$"
+    },
+    {
+      "name": "Castel Badia",
+      "coord": [
+        46.7831,
+        11.9039
+      ],
+      "desc": "San Lorenzo di Sebato, Dolomites/South Tyrol, $$$$"
+    },
+    {
+      "name": "Ancora Cortina",
+      "coord": [
+        46.5406,
+        12.1275
+      ],
+      "desc": "Cortina d'Ampezzo, Dolomites/Veneto, $$$$"
+    },
+    {
+      "name": "Orient Express La Minerva",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Rome, Lazio, $$$$"
+    },
+    {
+      "name": "Casa Monti",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Rome, Lazio, $$$"
+    },
+    {
+      "name": "Ara Maris",
+      "coord": [
+        40.6263,
+        14.3757
+      ],
+      "desc": "Sorrento, Campania, $$$$"
+    },
+    {
+      "name": "Vista Ostuni",
+      "coord": [
+        40.8353,
+        17.5789
+      ],
+      "desc": "Ostuni, Puglia, $$$$"
+    },
+    {
+      "name": "La Perla",
+      "coord": [
+        46.55,
+        11.8667
+      ],
+      "desc": "Corvara, Dolomites/South Tyrol, $$$$"
+    },
+    {
+      "name": "La Badia Hotel",
+      "coord": [
+        42.7181,
+        12.1092
+      ],
+      "desc": "Orvieto, Umbria, $$$$"
+    },
+    {
+      "name": "Villa Mabel",
+      "coord": [
+        37.8516,
+        15.2876
+      ],
+      "desc": "Taormina, Sicily, $$"
+    },
+    {
+      "name": "La Suvera",
+      "coord": [
+        43.2531,
+        11.1242
+      ],
+      "desc": "Pievescola, Tuscany, $$$$"
+    },
+    {
+      "name": "Grotta Palazzese",
+      "coord": [
+        41.02,
+        17.1987
+      ],
+      "desc": "Polignano a Mare, Puglia, $$$$"
+    },
+    {
+      "name": "Collegio alla Querce",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $$$$"
+    },
+    {
+      "name": "Hotel Il Pellicano",
+      "coord": [
+        42.3942,
+        11.2064
+      ],
+      "desc": "Porto Ercole, Tuscany/Maremma, $$$$"
+    },
+    {
+      "name": "Botania Relais",
+      "coord": [
+        40.7275,
+        13.897
+      ],
+      "desc": "Ischia, Campania, $$$"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Pizzicheria di De Miccoli Bruno (Antonio's Salumeria)",
+      "coord": [
+        43.3195,
+        11.9306
+      ],
+      "desc": "Siena, Tuscany, $"
+    },
+    {
+      "name": "La Reggia degli Etruschi",
+      "coord": [
+        43.7696,
+        11.2558
+      ],
+      "desc": "Fiesole (near Florence), Tuscany, $$$"
+    },
+    {
+      "name": "Ristorante Grassilli",
+      "coord": [
+        44.4949,
+        11.3426
+      ],
+      "desc": "Bologna, Emilia-Romagna, $$"
+    },
+    {
+      "name": "Rifugio Crucolo",
+      "coord": [
+        46.5,
+        11.8
+      ],
+      "desc": "Trentino (Dolomites), Trentino/Dolomites, $$"
+    },
+    {
+      "name": "Luca's Restaurant / Hotel La Gemma",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $$$$"
+    },
+    {
+      "name": "Piero Pompili (Restaurant/Chef)",
+      "coord": [
+        44.4949,
+        11.3426
+      ],
+      "desc": "Bologna, Emilia-Romagna, $$"
+    },
+    {
+      "name": "Where the Chefs Eat: Milan (Macelleria Popolare)",
+      "coord": [
+        45.4642,
+        9.19
+      ],
+      "desc": "Milan, Lombardy, $$"
+    },
+    {
+      "name": "Trattoria Ermes (Modena)",
+      "coord": [
+        44.6472,
+        10.9252
+      ],
+      "desc": "Modena, Emilia-Romagna, $"
+    },
+    {
+      "name": "Trattoria da Ruggero",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $$"
+    },
+    {
+      "name": "Trattoria Sostanza",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $$"
+    },
+    {
+      "name": "La Gelatiera",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $"
+    },
+    {
+      "name": "Da'Vinattieri",
+      "coord": [
+        43.7695,
+        11.2558
+      ],
+      "desc": "Florence, Tuscany, $"
+    },
+    {
+      "name": "Taverna Trilussa",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Rome, Lazio, $$"
+    },
+    {
+      "name": "Roscioli Salumeria",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Rome, Lazio"
+    },
+    {
+      "name": "Giggetto al Portico",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Rome, Lazio, $$"
+    },
+    {
+      "name": "La Palanca",
+      "coord": [
+        45.4408,
+        12.3155
+      ],
+      "desc": "Venice (Giudecca), Veneto, $$"
+    },
+    {
+      "name": "Harry's Bar",
+      "coord": [
+        45.4408,
+        12.3155
+      ],
+      "desc": "Venice, Veneto, $$$$"
+    },
+    {
+      "name": "Do Forni",
+      "coord": [
+        45.4408,
+        12.3155
+      ],
+      "desc": "Venice, Veneto, $$$"
+    },
+    {
+      "name": "Conca del Sogno",
+      "coord": [
+        40.5919,
+        14.345
+      ],
+      "desc": "Nerano, Campania/Amalfi, $$$"
+    },
+    {
+      "name": "Lo Scoglio",
+      "coord": [
+        40.5919,
+        14.345
+      ],
+      "desc": "Nerano, Campania/Amalfi, $$$"
+    },
+    {
+      "name": "Da Adolfo",
+      "coord": [
+        40.626,
+        14.4809
+      ],
+      "desc": "Positano, Campania/Amalfi, $$"
+    },
+    {
+      "name": "Macelleria Popolare",
+      "coord": [
+        45.4642,
+        9.19
+      ],
+      "desc": "Milan, Lombardy, $$"
+    },
+    {
+      "name": "Trattoria Ermes",
+      "coord": [
+        44.6472,
+        10.9252
+      ],
+      "desc": "Modena, Emilia-Romagna, $"
+    },
+    {
+      "name": "Harry's Piccolo",
+      "coord": [
+        45.65,
+        13.78
+      ],
+      "desc": "Trieste, Friuli Venezia Giulia, $$$$"
+    },
+    {
+      "name": "Antica Trattoria Suban",
+      "coord": [
+        45.65,
+        13.78
+      ],
+      "desc": "Trieste, Friuli Venezia Giulia, $$"
+    },
+    {
+      "name": "Caffè degli Specchi",
+      "coord": [
+        45.65,
+        13.78
+      ],
+      "desc": "Trieste, Friuli Venezia Giulia, $$"
+    },
+    {
+      "name": "Piero Pompili",
+      "coord": [
+        44.4949,
+        11.3426
+      ],
+      "desc": "Bologna, Emilia-Romagna, $$"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Orticolario at Villa Erba",
+      "coord": [
+        45.8417,
+        9.0764
+      ],
+      "desc": "Cernobbio (Lake Como), Lombardy, $"
+    },
+    {
+      "name": "Intrend (Max Mara Group Outlet)",
+      "coord": [
+        41.9028,
+        12.4964
+      ],
+      "desc": "Near Rome (Sabina hills), Lazio, $$"
+    },
+    {
+      "name": "Carezza Dolomites Ski Resort",
+      "coord": [
+        46.4167,
+        11.4333
+      ],
+      "desc": "Eggental/Val d'Ega, Dolomites/South Tyrol, $$"
+    },
+    {
+      "name": "Dozza",
+      "coord": [
+        44.3578,
+        11.6261
+      ],
+      "desc": "Dozza, Emilia-Romagna"
+    },
+    {
+      "name": "Laboratorio Paravicini",
+      "coord": [
+        45.4642,
+        9.19
+      ],
+      "desc": "Milan, Lombardy"
+    },
+    {
+      "name": "Orta San Giulio (Lake Orta)",
+      "coord": [
+        45.795,
+        8.4049
+      ],
+      "desc": "Orta San Giulio, Piedmont, $$"
+    },
+    {
+      "name": "Dressage Program in Tuscany",
+      "coord": [
+        43.1,
+        11.8
+      ],
+      "desc": "Tuscany, Tuscany, $$$"
+    },
+    {
+      "name": "Favignana Island (Egadi Islands)",
+      "coord": [
+        37.9317,
+        12.3269
+      ],
+      "desc": "Favignana, Sicily, $$"
+    },
+    {
+      "name": "Camogli (Italian Riviera)",
+      "coord": [
+        44.33,
+        9.17
+      ],
+      "desc": "Camogli, Liguria, $$"
+    },
+    {
+      "name": "Laigueglia (Italian Riviera)",
+      "coord": [
+        43.8833,
+        8.4667
+      ],
+      "desc": "Laigueglia, Liguria, $$"
+    },
+    {
+      "name": "Sellaronda Ski Circuit",
+      "coord": [
+        46.4,
+        11.9
+      ],
+      "desc": "Dolomites, Dolomites, $$$"
+    },
+    {
+      "name": "Ca'Marcanda Winery (Bolgheri)",
+      "coord": [
+        43.2283,
+        10.6117
+      ],
+      "desc": "Bolgheri, Tuscany, $$$"
+    },
+    {
+      "name": "Ferdy Wild Farm (Cows Running)",
+      "coord": [
+        46.5,
+        11.5
+      ],
+      "desc": "Unknown (Italian Alps), Unknown, $"
+    },
+    {
+      "name": "Hidden Swimming Spot, Polignano a Mare",
+      "coord": [
+        41.02,
+        17.1987
+      ],
+      "desc": "Polignano a Mare, Puglia"
+    },
+    {
+      "name": "Ballarò Market Tour (Palermo)",
+      "coord": [
+        38.1157,
+        13.3615
+      ],
+      "desc": "Palermo, Sicily, $$"
+    },
+    {
+      "name": "Ca'Marcanda Winery",
+      "coord": [
+        43.2283,
+        10.6117
+      ],
+      "desc": "Bolgheri, Tuscany, $$$"
+    },
+    {
+      "name": "Ballarò Market Tour",
+      "coord": [
+        38.1157,
+        13.3615
+      ],
+      "desc": "Palermo, Sicily, $$"
+    },
+    {
+      "name": "Polignano a Mare Hidden Swimming",
+      "coord": [
+        41.02,
+        17.1987
+      ],
+      "desc": "Polignano a Mare, Puglia"
+    },
+    {
+      "name": "Trieste Walking Tour",
+      "coord": [
+        45.65,
+        13.78
+      ],
+      "desc": "Trieste, Friuli Venezia Giulia, $$"
+    },
+    {
+      "name": "Barcolana Sailing Regatta",
+      "coord": [
+        45.65,
+        13.78
+      ],
+      "desc": "Trieste, Friuli Venezia Giulia, $"
+    },
+    {
+      "name": "Favignana Island",
+      "coord": [
+        37.9317,
+        12.3269
+      ],
+      "desc": "Favignana (Egadi Islands), Sicily, $"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Aki Family Resort",
+      "coord": [
+        46.7152,
+        11.6556
+      ],
+      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$"
+    },
+    {
+      "name": "Falkensteiner Family Resort Lido",
+      "coord": [
+        46.7833,
+        11.7333
+      ],
+      "desc": "Casteldarne/Ehrenburg, Dolomites/South Tyrol, $$$"
+    },
+    {
+      "name": "Quellenhof Luxury Resort Lazise",
+      "coord": [
+        45.4981,
+        10.7343
+      ],
+      "desc": "Lazise, Lake Garda/Veneto, $$$"
+    },
+    {
+      "name": "Quellenhof Luxury Resort Passeier",
+      "coord": [
+        46.7667,
+        11.1833
+      ],
+      "desc": "Passeier Valley, South Tyrol, $$$"
+    },
+    {
+      "name": "Aki Family Resort (duplicate - richer detail)",
+      "coord": [
+        46.7152,
+        11.6556
+      ],
+      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$$"
+    },
+    {
+      "name": "Aki Family Resort (3rd mention - detailed review)",
+      "coord": [
+        46.7152,
+        11.6556
+      ],
+      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$$"
+    },
+    {
+      "name": "Orta San Giulio (Lake Orta)",
+      "coord": [
+        45.795,
+        8.4049
+      ],
+      "desc": "Orta San Giulio, Piedmont, $$"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Piazza Duomo (Restaurant)",
+      "coord": [
+        44.7006,
+        8.0359
+      ],
+      "desc": "Alba, Piedmont, $$$$"
+    },
+    {
+      "name": "Orta San Giulio",
+      "coord": [
+        45.7972,
+        8.4076
+      ],
+      "desc": "Orta San Giulio, Piedmont, $$"
+    },
+    {
+      "name": "Villa Crespi",
+      "coord": [
+        45.83,
+        8.415
+      ],
+      "desc": "Orta San Giulio, Piedmont, $$$$"
+    },
+    {
+      "name": "Uliassi",
+      "coord": [
+        43.7889,
+        13.2039
+      ],
+      "desc": "Senigallia, Marche, $$$$"
+    },
+    {
+      "name": "Urbino",
+      "coord": [
+        43.7333,
+        12.6333
+      ],
+      "desc": "Urbino, Marche, $$"
+    },
+    {
+      "name": "Ascoli Piceno",
+      "coord": [
+        42.8567,
+        13.5767
+      ],
+      "desc": "Ascoli Piceno, Marche, $$"
+    },
+    {
+      "name": "Acqualagna Truffle Town",
+      "coord": [
+        43.6289,
+        12.3878
+      ],
+      "desc": "Acqualagna, Marche, $$"
+    },
+    {
+      "name": "Matera Sassi",
+      "coord": [
+        40.6667,
+        16.6
+      ],
+      "desc": "Matera, Basilicata, $$"
+    },
+    {
+      "name": "Castelmezzano",
+      "coord": [
+        40.4111,
+        15.8472
+      ],
+      "desc": "Castelmezzano, Basilicata, $"
+    },
+    {
+      "name": "Tropea",
+      "coord": [
+        38.6656,
+        15.8889
+      ],
+      "desc": "Tropea, Calabria, $$"
+    },
+    {
+      "name": "Pollino National Park",
+      "coord": [
+        39.8667,
+        16.2667
+      ],
+      "desc": "Border, Calabria/Basilicata, $"
+    },
+    {
+      "name": "L'Aquila (Culture Capital 2026)",
+      "coord": [
+        42.3514,
+        13.3972
+      ],
+      "desc": "L'Aquila, Abruzzo, $$"
+    },
+    {
+      "name": "Santo Stefano di Sessanio",
+      "coord": [
+        42.2931,
+        13.5892
+      ],
+      "desc": "Santo Stefano, Abruzzo, $"
+    },
+    {
+      "name": "Locanda Mammi",
+      "coord": [
+        41.78,
+        14.12
+      ],
+      "desc": "Agnone, Molise, $$$"
+    },
+    {
+      "name": "Parma Food City",
+      "coord": [
+        44.8016,
+        10.3283
+      ],
+      "desc": "Parma, Emilia-Romagna, $$"
+    },
+    {
+      "name": "Brisighella",
+      "coord": [
+        44.2269,
+        12.1122
+      ],
+      "desc": "Brisighella, Emilia-Romagna, $"
+    },
+    {
+      "name": "Gibellina (Art Capital 2026)",
+      "coord": [
+        37.8189,
+        12.8789
+      ],
+      "desc": "Gibellina, Sicily, $$"
+    },
+    {
+      "name": "Portovenere",
+      "coord": [
+        44.0511,
+        9.8375
+      ],
+      "desc": "Portovenere, Liguria, $$"
+    },
+    {
+      "name": "Seulo (Centenarians Village)",
+      "coord": [
+        39.8704,
+        9.2358
+      ],
+      "desc": "Seulo, Sardinia, $"
+    },
+    {
+      "name": "Oliena",
+      "coord": [
+        40.2889,
+        9.2594
+      ],
+      "desc": "Oliena, Sardinia, $"
+    },
+    {
+      "name": "Caldaro/Kaltern",
+      "coord": [
+        46.2264,
+        11.2103
+      ],
+      "desc": "Caldaro, Trentino, $$"
+    }
+  ],
+  "cityCenters": {
+    "Rome": [
+      41.9028,
+      12.4964,
+      0.15
+    ],
+    "Florence": [
+      43.7696,
+      11.2558,
+      0.12
+    ],
+    "Venice": [
+      45.4408,
+      12.3155,
+      0.12
+    ],
+    "Milan": [
+      45.4642,
+      9.19,
+      0.12
+    ],
+    "Naples": [
+      40.8518,
+      14.2681,
+      0.12
+    ],
+    "Positano": [
+      40.6263,
+      14.4843,
+      0.1
+    ],
+    "Taormina": [
+      37.8516,
+      15.2876,
+      0.1
+    ],
+    "Palermo": [
+      38.1157,
+      13.3615,
+      0.12
+    ],
+    "Bologna": [
+      44.4949,
+      11.3426,
+      0.12
+    ],
+    "Modena": [
+      44.6472,
+      10.9252,
+      0.1
+    ],
+    "Trieste": [
+      45.6495,
+      13.7768,
+      0.1
+    ],
+    "Lake Como": [
+      45.853,
+      9.098,
+      0.12
+    ],
+    "Siena": [
+      43.3188,
+      11.3308,
+      0.1
+    ],
+    "Dolomites": [
+      46.55,
+      11.87,
+      0.15
+    ],
+    "Puglia": [
+      40.83,
+      17.37,
+      0.15
+    ],
+    "Lecce": [
+      40.3569,
+      18.1719,
+      0.1
+    ],
+    "Cortina": [
+      46.5406,
+      12.1275,
+      0.1
+    ],
+    "Tuscany": [
+      43.35,
+      11.35,
+      0.15
+    ],
+    "Sardinia": [
+      40.12,
+      9.01,
+      0.15
+    ],
+    "Amalfi Coast": [
+      40.634,
+      14.603,
+      0.12
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Northern Lakes & Dolomites",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Milan (Arrival)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Passalacqua",
+              "coord": [
+                45.853,
+                9.098
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Laboratorio Paravicini ceramics",
+              "coord": [
+                45.4642,
+                9.19
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Macelleria Popolare",
+              "coord": [
+                45.4642,
+                9.19
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                45.853,
+                9.098
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Lake Como & Bellagio",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Passalacqua",
+              "coord": [
+                45.853,
+                9.098
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Orticolario at Villa Erba",
+              "coord": [
+                45.8417,
+                9.0764
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lakeside dining",
+              "coord": [
+                45.853,
+                9.098
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lake Como scenic cruise",
+              "coord": [
+                45.85,
+                9.1
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bellagio waterfront",
+              "coord": [
+                45.853,
+                9.098
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Lake Orta Escape",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Orta San Giulio",
+              "coord": [
+                45.795,
+                8.4049
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Orta San Giulio pedestrian village",
+              "coord": [
+                45.795,
+                8.4049
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Island San Giulio lunch",
+              "coord": [
+                45.795,
+                8.4049
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lake walks & exploration",
+              "coord": [
+                45.795,
+                8.4049
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Waterfront restaurant",
+              "coord": [
+                45.795,
+                8.4049
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Lake Garda & Lazise",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Quellenhof Luxury Resort Lazise",
+              "coord": [
+                45.4981,
+                10.7343
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lake Garda scenic drive",
+              "coord": [
+                45.55,
+                10.5
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lakeside restaurant",
+              "coord": [
+                45.4981,
+                10.7343
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lake Garda water activities",
+              "coord": [
+                45.4981,
+                10.7343
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort restaurant",
+              "coord": [
+                45.4981,
+                10.7343
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Dolomites Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Aki Family Resort",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dolomites UNESCO landscape drive",
+              "coord": [
+                46.4,
+                11.9
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mountain valley restaurant",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Resort kids club & water world",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort dining",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Dolomites Adventure",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Aki Family Resort",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Carezza Dolomites trails",
+              "coord": [
+                46.4167,
+                11.4333
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Alpine hut lunch",
+              "coord": [
+                46.5,
+                11.8
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dolomites hiking",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort restaurant",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Dolomites Relaxation",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Aki Family Resort",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sellaronda Circuit area",
+              "coord": [
+                46.4,
+                11.9
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Resort restaurant",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kids club, hay sauna",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort dinner",
+              "coord": [
+                46.7152,
+                11.6556
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Cortina d'Ampezzo",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Ancora Cortina",
+              "coord": [
+                46.5406,
+                12.1275
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Olympic town exploration",
+              "coord": [
+                46.5406,
+                12.1275
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cortina dining",
+              "coord": [
+                46.5406,
+                12.1275
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dolomites scenery & shopping",
+              "coord": [
+                46.5406,
+                12.1275
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Fine dining in Cortina",
+              "coord": [
+                46.5406,
+                12.1275
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "South Tyrol & Caldaro Wine",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Caldaro wine village hotel",
+              "coord": [
+                46.2264,
+                11.2103
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "South Tyrol nature walks",
+              "coord": [
+                46.5,
+                11.5
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Caldaro wine region restaurant",
+              "coord": [
+                46.2264,
+                11.2103
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wine tasting & lake views",
+              "coord": [
+                46.2264,
+                11.2103
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Wine dinner",
+              "coord": [
+                46.2264,
+                11.2103
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Castel Badia & Mountain Culture",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Castel Badia",
+              "coord": [
+                46.7831,
+                11.9039
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Historic castle exploration",
+              "coord": [
+                46.7831,
+                11.9039
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Castle restaurant",
+              "coord": [
+                46.7831,
+                11.9039
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alpine valley walks",
+              "coord": [
+                46.7831,
+                11.9039
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Historic castle dining",
+              "coord": [
+                46.7831,
+                11.9039
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Venice Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Aman Venice",
+              "coord": [
+                45.4408,
+                12.3155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Drive to Venice",
+              "coord": [
+                45.4408,
+                12.3155
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Do Forni",
+              "coord": [
+                45.4408,
+                12.3155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Venice Grand Canal walk",
+              "coord": [
+                45.4408,
+                12.3155
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "La Palanca",
+              "coord": [
+                45.4408,
+                12.3155
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Venice & Departure",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "St. Mark's Square & Rialto",
+              "coord": [
+                45.4408,
+                12.3155
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Harry's Bar",
+              "coord": [
+                45.4408,
+                12.3155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Departure",
+              "coord": [
+                45.4408,
+                12.3155
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Rome, Amalfi & South",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Rome Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Bulgari Hotel Roma",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Rome city overview",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Roscioli Salumeria",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Colosseum evening walk",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Taverna Trilussa",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Rome Ancient History",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Bulgari Hotel Roma",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Colosseum & Roman Forum",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Giggetto al Portico",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Pantheon & Trevi Fountain",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                41.9028,
+                12.4964
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Rome to Amalfi",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Ara Maris",
+              "coord": [
+                40.6263,
+                14.3757
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Train to Sorrento",
+              "coord": [
+                40.6263,
+                14.3757
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sorrento waterfront",
+              "coord": [
+                40.6263,
+                14.3757
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sorrento town exploration",
+              "coord": [
+                40.6263,
+                14.3757
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                40.6263,
+                14.3757
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Positano & Amalfi",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Il San Pietro di Positano",
+              "coord": [
+                40.626,
+                14.4809
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Positano cliffside village",
+              "coord": [
+                40.626,
+                14.4809
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Da Adolfo (boat-access beach)",
+              "coord": [
+                40.626,
+                14.4809
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Amalfi town & Cathedral",
+              "coord": [
+                40.634,
+                14.6027
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                40.626,
+                14.4809
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Amalfi Hidden Spots",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Borgo Santandrea",
+              "coord": [
+                40.634,
+                14.6027
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Nerano & Lo Scoglio",
+              "coord": [
+                40.5919,
+                14.345
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Conca del Sogno",
+              "coord": [
+                40.5919,
+                14.345
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Furore village",
+              "coord": [
+                40.6208,
+                14.5519
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Furore Grand Hotel",
+              "coord": [
+                40.6208,
+                14.5519
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Capri Day Trip",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "JK Place Capri",
+              "coord": [
+                40.553,
+                14.245
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Capri",
+              "coord": [
+                40.553,
+                14.245
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Capri harbor dining",
+              "coord": [
+                40.553,
+                14.245
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Capri town & Faraglioni rocks",
+              "coord": [
+                40.553,
+                14.245
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                40.553,
+                14.245
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Ischia Wellness",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Botania Relais & Spa",
+              "coord": [
+                40.7275,
+                13.897
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Ischia",
+              "coord": [
+                40.7275,
+                13.897
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ischia waterfront",
+              "coord": [
+                40.7275,
+                13.897
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ischia hot springs",
+              "coord": [
+                40.7275,
+                13.897
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                40.7275,
+                13.897
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Sicily - Taormina",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "San Domenico Palace (Four Seasons)",
+              "coord": [
+                37.8516,
+                15.2876
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taormina hilltop town",
+              "coord": [
+                37.8516,
+                15.2876
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taormina dining",
+              "coord": [
+                37.8516,
+                15.2876
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Greek Theater & views",
+              "coord": [
+                37.8516,
+                15.2876
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                37.8516,
+                15.2876
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Palermo Food Tour",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Villa Igiea (Rocco Forte)",
+              "coord": [
+                38.1157,
+                13.3615
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ballaro Market Tour",
+              "coord": [
+                38.1157,
+                13.3615
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Market food tastings",
+              "coord": [
+                38.1157,
+                13.3615
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palermo Old Town",
+              "coord": [
+                38.1157,
+                13.3615
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                38.1157,
+                13.3615
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Aeolian Islands - Salina",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Private Villa on Salina",
+              "coord": [
+                38.5608,
+                14.8539
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Aeolian Islands",
+              "coord": [
+                38.5608,
+                14.8539
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Island dining",
+              "coord": [
+                38.5608,
+                14.8539
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Salina island exploration",
+              "coord": [
+                38.5608,
+                14.8539
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Villa dining",
+              "coord": [
+                38.5608,
+                14.8539
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Favignana Island",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Favignana Island (Egadi)",
+              "coord": [
+                37.9317,
+                12.3269
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Favignana",
+              "coord": [
+                37.9317,
+                12.3269
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Island dining",
+              "coord": [
+                37.9317,
+                12.3269
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "E-bike island tour & swimming",
+              "coord": [
+                37.9317,
+                12.3269
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Island restaurant",
+              "coord": [
+                37.9317,
+                12.3269
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Sicily Departure",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Ferry back to mainland",
+              "coord": [
+                37.9317,
+                12.3269
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Departure meal",
+              "coord": [
+                37.8516,
+                15.2876
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Return to airport",
+              "coord": [
+                37.8516,
+                15.2876
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Tuscany, Umbria & Puglia",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Florence Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Firenze",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Florence city overview",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Trattoria da Ruggero",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Uffizi Gallery & Duomo",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Florence Classics",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Firenze",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Accademia & David statue",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Trattoria Sostanza",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ponte Vecchio & Oltrarno",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Da'Vinattieri",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Fiesole & Florence Views",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Firenze",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Fiesole hilltop town",
+              "coord": [
+                43.7696,
+                11.2558
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "La Reggia degli Etruschi",
+              "coord": [
+                43.7696,
+                11.2558
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Florence sunset views",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                43.7695,
+                11.2558
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Tuscan Countryside",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Borgo Santo Pietro",
+              "coord": [
+                43.1547,
+                11.0847
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tuscany countryside drive",
+              "coord": [
+                43.1,
+                11.8
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Countryside trattoria",
+              "coord": [
+                43.1547,
+                11.0847
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Villa grounds exploration",
+              "coord": [
+                43.1547,
+                11.0847
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                43.1547,
+                11.0847
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Montalcino Wine Region",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Rosewood Castiglion del Bosco",
+              "coord": [
+                43.0996,
+                11.8432
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Montalcino wine country",
+              "coord": [
+                43.0996,
+                11.8432
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Wine region restaurant",
+              "coord": [
+                43.0996,
+                11.8432
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Brunello wine tasting",
+              "coord": [
+                43.0996,
+                11.8432
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                43.0996,
+                11.8432
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Bolgheri Super Tuscan",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Il Pellicano",
+              "coord": [
+                42.3942,
+                11.2064
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ca'Marcanda Winery (Angelo Gaja)",
+              "coord": [
+                43.2283,
+                10.6117
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Winery restaurant",
+              "coord": [
+                43.2283,
+                10.6117
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tuscany coastal views",
+              "coord": [
+                42.3942,
+                11.2064
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                42.3942,
+                11.2064
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Umbria - Castello di Reschio",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Castello di Reschio",
+              "coord": [
+                43.2333,
+                12.1333
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Umbrian countryside drive",
+              "coord": [
+                43.2333,
+                12.1333
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Umbrian trattoria",
+              "coord": [
+                43.2333,
+                12.1333
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Medieval village exploration",
+              "coord": [
+                43.2333,
+                12.1333
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                43.2333,
+                12.1333
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Orvieto & Civita",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "La Badia Hotel (Orvieto)",
+              "coord": [
+                42.7181,
+                12.1092
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Orvieto Cathedral & wine",
+              "coord": [
+                42.7181,
+                12.1092
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Orvieto dining",
+              "coord": [
+                42.7181,
+                12.1092
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Civita di Bagnoregio views",
+              "coord": [
+                42.6306,
+                12.1306
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Corte della Maesta",
+              "coord": [
+                42.6306,
+                12.1306
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Bologna & Emilia Region",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Casa Maria Luigia",
+              "coord": [
+                44.6472,
+                10.9252
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bologna food city",
+              "coord": [
+                44.4949,
+                11.3426
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ristorante Grassilli",
+              "coord": [
+                44.4949,
+                11.3426
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Modena visit",
+              "coord": [
+                44.6472,
+                10.9252
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Al Gatto Verde (Casa Maria Luigia)",
+              "coord": [
+                44.6472,
+                10.9252
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Puglia - Polignano a Mare",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grotta Palazzese",
+              "coord": [
+                41.02,
+                17.1987
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Polignano a Mare clifftop town",
+              "coord": [
+                41.02,
+                17.1987
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Restaurant Grotta Palazzese",
+              "coord": [
+                41.02,
+                17.1987
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hidden swimming spots",
+              "coord": [
+                41.02,
+                17.1987
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant (cave-level)",
+              "coord": [
+                41.02,
+                17.1987
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Ostuni & Lecce",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Vista Ostuni",
+              "coord": [
+                40.8353,
+                17.5789
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ostuni whitewashed village",
+              "coord": [
+                40.8353,
+                17.5789
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ostuni dining",
+              "coord": [
+                40.8353,
+                17.5789
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "La Fiermontina (Lecce)",
+              "coord": [
+                40.3569,
+                18.1719
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel restaurant",
+              "coord": [
+                40.8353,
+                17.5789
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Puglia Departure",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Lecce baroque exploration",
+              "coord": [
+                40.3569,
+                18.1719
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lecce dining",
+              "coord": [
+                40.3569,
+                18.1719
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Departure to airport",
+              "coord": [
+                40.8353,
+                17.5789
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

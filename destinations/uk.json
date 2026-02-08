@@ -1,0 +1,3698 @@
+{
+  "key": "uk",
+  "name": "United Kingdom Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇬🇧",
+  "defaultCenter": [
+    52.5,
+    -1.5
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Claridge's",
+      "coord": [
+        51.512,
+        -0.149
+      ],
+      "desc": "Art Deco icon, legendary service, afternoon tea, Mayfair"
+    },
+    {
+      "name": "The Connaught",
+      "coord": [
+        51.5091,
+        -0.1489
+      ],
+      "desc": "Connaught Bar, Michelin-star dining, intimate Mayfair"
+    },
+    {
+      "name": "The Dorchester",
+      "coord": [
+        51.5071,
+        -0.1522
+      ],
+      "desc": "Grand dame, famed afternoon tea, family-friendly, Mayfair"
+    },
+    {
+      "name": "The Savoy",
+      "coord": [
+        51.5101,
+        -0.1205
+      ],
+      "desc": "Classic riverfront, American Bar, steps from West End"
+    },
+    {
+      "name": "The Ritz London",
+      "coord": [
+        51.5072,
+        -0.142
+      ],
+      "desc": "Iconic dining room & tea, gilded heritage, Piccadilly"
+    },
+    {
+      "name": "The Langham, London",
+      "coord": [
+        51.516,
+        -0.1444
+      ],
+      "desc": "Historic grand hotel, strong cocktail program, Marylebone"
+    },
+    {
+      "name": "The Lanesborough",
+      "coord": [
+        51.5027,
+        -0.1527
+      ],
+      "desc": "Regency-style grandeur, butler service, Hyde Park Corner"
+    },
+    {
+      "name": "Brown's Hotel",
+      "coord": [
+        51.5092,
+        -0.1423
+      ],
+      "desc": "Historic Mayfair, classic British hospitality, refined rooms"
+    },
+    {
+      "name": "The Berkeley",
+      "coord": [
+        51.502,
+        -0.1561
+      ],
+      "desc": "Rooftop pool, close to museums/Hyde Park, Knightsbridge"
+    },
+    {
+      "name": "Mandarin Oriental Hyde Park",
+      "coord": [
+        51.5021,
+        -0.1599
+      ],
+      "desc": "Hyde Park location, Michelin-star dining, luxury spa"
+    },
+    {
+      "name": "Four Seasons at Park Lane",
+      "coord": [
+        51.508,
+        -0.1539
+      ],
+      "desc": "Refined rooms, top spa, strong dining, Hyde Park Corner"
+    },
+    {
+      "name": "Bulgari Hotel London",
+      "coord": [
+        51.5018,
+        -0.1583
+      ],
+      "desc": "Sleek design, spa & pool, Knightsbridge"
+    },
+    {
+      "name": "Rosewood London",
+      "coord": [
+        51.5173,
+        -0.1185
+      ],
+      "desc": "Big rooms, central for museums, strong afternoon tea, Holborn"
+    },
+    {
+      "name": "Shangri-La The Shard",
+      "coord": [
+        51.5045,
+        -0.0862
+      ],
+      "desc": "Skyline views, iconic address, high-floor pool & bar"
+    },
+    {
+      "name": "Raffles London at The OWO",
+      "coord": [
+        51.5054,
+        -0.1238
+      ],
+      "desc": "Landmark conversion, ultra-luxe suites, Whitehall"
+    },
+    {
+      "name": "The Peninsula London",
+      "coord": [
+        51.5019,
+        -0.1519
+      ],
+      "desc": "New five-star, excellent dining & bar, Belgravia"
+    },
+    {
+      "name": "The Emory",
+      "coord": [
+        51.5012,
+        -0.1581
+      ],
+      "desc": "All-suite Maybourne newcomer, spa/wellness, Knightsbridge"
+    },
+    {
+      "name": "Corinthia London",
+      "coord": [
+        51.507,
+        -0.1244
+      ],
+      "desc": "ESPA Life spa, elegant rooms, Westminster/Embankment"
+    },
+    {
+      "name": "Hotel Café Royal",
+      "coord": [
+        51.5131,
+        -0.1424
+      ],
+      "desc": "Central, stylish, great for Soho/Covent Garden"
+    },
+    {
+      "name": "NoMad London",
+      "coord": [
+        51.5135,
+        -0.1221
+      ],
+      "desc": "Chic Covent Garden base, destination bar/restaurant"
+    },
+    {
+      "name": "One Aldwych",
+      "coord": [
+        51.5118,
+        -0.1194
+      ],
+      "desc": "Theatre district, families, warm service, Covent Garden"
+    },
+    {
+      "name": "The Beaumont",
+      "coord": [
+        51.5087,
+        -0.1468
+      ],
+      "desc": "Art Deco vibe, tucked off busy streets, near Selfridges"
+    },
+    {
+      "name": "45 Park Lane",
+      "coord": [
+        51.5081,
+        -0.1542
+      ],
+      "desc": "Contemporary luxury, park-side, Dorchester Collection"
+    },
+    {
+      "name": "The Goring",
+      "coord": [
+        51.4975,
+        -0.1465
+      ],
+      "desc": "Belgravia charm, near Buckingham Palace, refined dining"
+    },
+    {
+      "name": "The Stafford London",
+      "coord": [
+        51.5047,
+        -0.143
+      ],
+      "desc": "Historic wine cellar, great for St James's/West End"
+    },
+    {
+      "name": "Flemings Mayfair",
+      "coord": [
+        51.5085,
+        -0.1443
+      ],
+      "desc": "Polished boutique, Mayfair base"
+    },
+    {
+      "name": "Ham Yard Hotel",
+      "coord": [
+        51.516,
+        -0.1312
+      ],
+      "desc": "Firmdale design-forward Soho, family-friendly suites"
+    },
+    {
+      "name": "The Londoner",
+      "coord": [
+        51.5098,
+        -0.1302
+      ],
+      "desc": "Modern luxury, easy for West End, Leicester Square"
+    },
+    {
+      "name": "Broadwick Soho",
+      "coord": [
+        51.5149,
+        -0.1322
+      ],
+      "desc": "Design hotel with rooftop, heart of Soho"
+    },
+    {
+      "name": "The Ned",
+      "coord": [
+        51.5136,
+        -0.0904
+      ],
+      "desc": "Grand banking hall conversion, multiple restaurants, rooftop pool"
+    },
+    {
+      "name": "The London EDITION",
+      "coord": [
+        51.5177,
+        -0.1357
+      ],
+      "desc": "Ian Schrager vibe, great bar scene, Fitzrovia"
+    },
+    {
+      "name": "Chiltern Firehouse",
+      "coord": [
+        51.5202,
+        -0.1616
+      ],
+      "desc": "Celebrity magnet, strong dining, Marylebone"
+    },
+    {
+      "name": "The Hari",
+      "coord": [
+        51.499,
+        -0.15
+      ],
+      "desc": "Discreet Belgravia base, good for museums/Hyde Park"
+    },
+    {
+      "name": "Number Sixteen",
+      "coord": [
+        51.4943,
+        -0.1814
+      ],
+      "desc": "Firmdale townhouse, garden, near V&A/NHM, South Kensington"
+    },
+    {
+      "name": "Knightsbridge Hotel",
+      "coord": [
+        51.4983,
+        -0.1674
+      ],
+      "desc": "Boutique comfort near Harrods and South Ken museums"
+    },
+    {
+      "name": "Beaverbrook Town House",
+      "coord": [
+        51.4862,
+        -0.1643
+      ],
+      "desc": "Stylish suites, Japanese restaurant, Chelsea"
+    },
+    {
+      "name": "11 Cadogan Gardens",
+      "coord": [
+        51.4936,
+        -0.1595
+      ],
+      "desc": "Relais & Châteaux townhouse suites, good for families"
+    },
+    {
+      "name": "The Chelsea Townhouse",
+      "coord": [
+        51.4943,
+        -0.1596
+      ],
+      "desc": "Townhouse style, Cadogan Gardens access, kitchenettes"
+    },
+    {
+      "name": "Batty Langley's",
+      "coord": [
+        51.5174,
+        -0.0746
+      ],
+      "desc": "Georgian character, fireplaces, Spitalfields"
+    },
+    {
+      "name": "The Landmark London",
+      "coord": [
+        51.5218,
+        -0.1627
+      ],
+      "desc": "Grand atrium, indoor pool, family rooms, Marylebone"
+    },
+    {
+      "name": "Cliveden House",
+      "coord": [
+        51.55,
+        -0.809
+      ],
+      "desc": "Historic estate, Thames-side grounds, Berkshire"
+    },
+    {
+      "name": "Coworth Park",
+      "coord": [
+        51.3997,
+        -0.6654
+      ],
+      "desc": "Equestrian country retreat, Dorchester Collection, Ascot"
+    },
+    {
+      "name": "The Grove",
+      "coord": [
+        51.6089,
+        -0.4292
+      ],
+      "desc": "Big grounds, pools, family activities, Hertfordshire"
+    },
+    {
+      "name": "Heckfield Place",
+      "coord": [
+        51.3439,
+        -0.9548
+      ],
+      "desc": "Farm-to-table dining, country-house style, Hampshire"
+    },
+    {
+      "name": "Beaverbrook",
+      "coord": [
+        51.277,
+        -0.3122
+      ],
+      "desc": "Grand estate, wellness, strong dining, Surrey"
+    },
+    {
+      "name": "Lucknam Park",
+      "coord": [
+        51.4278,
+        -2.1906
+      ],
+      "desc": "Stately estate, spa, family cottages, near Bath"
+    },
+    {
+      "name": "The Newt in Somerset",
+      "coord": [
+        51.2453,
+        -2.42
+      ],
+      "desc": "Immersive gardens, farm-to-table dining, Somerset"
+    },
+    {
+      "name": "Soho Farmhouse",
+      "coord": [
+        51.8594,
+        -1.635
+      ],
+      "desc": "Cotswolds-luxe cabins, activities, great for groups"
+    },
+    {
+      "name": "Gleneagles",
+      "coord": [
+        56.2752,
+        -3.7515
+      ],
+      "desc": "Iconic Scottish resort, golf/spa, great for families"
+    },
+    {
+      "name": "The Balmoral",
+      "coord": [
+        55.9517,
+        -3.187
+      ],
+      "desc": "Edinburgh landmark, great base for Old Town"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Alain Ducasse at The Dorchester",
+      "coord": [
+        51.5074,
+        -0.1502
+      ],
+      "desc": "3 Michelin stars, French fine dining, Mayfair"
+    },
+    {
+      "name": "CORE by Clare Smyth",
+      "coord": [
+        51.5095,
+        -0.2007
+      ],
+      "desc": "3 Michelin stars, modern British, Notting Hill"
+    },
+    {
+      "name": "Hélène Darroze at The Connaught",
+      "coord": [
+        51.5087,
+        -0.1475
+      ],
+      "desc": "3 Michelin stars, French fine dining, Mayfair"
+    },
+    {
+      "name": "Restaurant Gordon Ramsay",
+      "coord": [
+        51.4897,
+        -0.1665
+      ],
+      "desc": "3 Michelin stars, French fine dining, Chelsea"
+    },
+    {
+      "name": "Sketch (Lecture Room & Library)",
+      "coord": [
+        51.5125,
+        -0.1416
+      ],
+      "desc": "3 Michelin stars, contemporary French, iconic interiors"
+    },
+    {
+      "name": "The Ledbury",
+      "coord": [
+        51.5081,
+        -0.2013
+      ],
+      "desc": "3 Michelin stars, modern British, Notting Hill"
+    },
+    {
+      "name": "A. Wong",
+      "coord": [
+        51.4915,
+        -0.13
+      ],
+      "desc": "2 Michelin stars, high-craft dim sum, Pimlico"
+    },
+    {
+      "name": "Alex Dilling at Hotel Café Royal",
+      "coord": [
+        51.5153,
+        -0.1324
+      ],
+      "desc": "2 Michelin stars, French, elegant hotel dining"
+    },
+    {
+      "name": "Brooklands by Claude Bosi",
+      "coord": [
+        51.4932,
+        -0.1648
+      ],
+      "desc": "2 Michelin stars, modern French/British, Peninsula London"
+    },
+    {
+      "name": "Da Terra",
+      "coord": [
+        51.5304,
+        -0.0763
+      ],
+      "desc": "2 Michelin stars, inventive tasting menu, Bethnal Green"
+    },
+    {
+      "name": "Dinner by Heston Blumenthal",
+      "coord": [
+        51.5023,
+        -0.1605
+      ],
+      "desc": "2 Michelin stars, historic British dishes reimagined"
+    },
+    {
+      "name": "Gymkhana",
+      "coord": [
+        51.5075,
+        -0.15
+      ],
+      "desc": "2 Michelin stars, iconic Mayfair Indian"
+    },
+    {
+      "name": "Humble Chicken",
+      "coord": [
+        51.5162,
+        -0.1338
+      ],
+      "desc": "2 Michelin stars, Japanese/European counter, Soho"
+    },
+    {
+      "name": "La Dame de Pic London",
+      "coord": [
+        51.5179,
+        -0.0945
+      ],
+      "desc": "2 Michelin stars, French, City of London"
+    },
+    {
+      "name": "The Clove Club",
+      "coord": [
+        51.5282,
+        -0.0754
+      ],
+      "desc": "2 Michelin stars, modern British tasting, Shoreditch"
+    },
+    {
+      "name": "The Ritz Restaurant",
+      "coord": [
+        51.5071,
+        -0.1384
+      ],
+      "desc": "2 Michelin stars, French haute cuisine, Piccadilly"
+    },
+    {
+      "name": "Trivet",
+      "coord": [
+        51.5045,
+        -0.1012
+      ],
+      "desc": "2 Michelin stars, modern European, Fat Duck alumni"
+    },
+    {
+      "name": "1890 by Gordon Ramsay",
+      "coord": [
+        51.513,
+        -0.1199
+      ],
+      "desc": "1 Michelin star, French, inside The Savoy"
+    },
+    {
+      "name": "Akoko",
+      "coord": [
+        51.5182,
+        -0.1346
+      ],
+      "desc": "1 Michelin star, modern West African tasting, Fitzrovia"
+    },
+    {
+      "name": "Brat",
+      "coord": [
+        51.5271,
+        -0.0749
+      ],
+      "desc": "1 Michelin star, Basque-inspired wood-fired, Shoreditch"
+    },
+    {
+      "name": "Ikoyi",
+      "coord": [
+        51.513,
+        -0.1199
+      ],
+      "desc": "Michelin-starred, West African-influenced, World's 50 Best"
+    },
+    {
+      "name": "Kol",
+      "coord": [
+        51.5244,
+        -0.1451
+      ],
+      "desc": "Michelin-starred, Mexican with UK ingredients, Marylebone"
+    },
+    {
+      "name": "St. JOHN",
+      "coord": [
+        51.5206,
+        -0.1088
+      ],
+      "desc": "Michelin-starred, nose-to-tail British classic, Clerkenwell"
+    },
+    {
+      "name": "Sabor",
+      "coord": [
+        51.5094,
+        -0.1449
+      ],
+      "desc": "Michelin-starred, Spanish counter + dining room, Mayfair"
+    },
+    {
+      "name": "Lyle's",
+      "coord": [
+        51.526,
+        -0.076
+      ],
+      "desc": "Michelin-starred, ingredient-led set menu, Shoreditch"
+    },
+    {
+      "name": "The Harwood Arms",
+      "coord": [
+        51.4798,
+        -0.2093
+      ],
+      "desc": "Michelin-starred gastropub, Fulham"
+    },
+    {
+      "name": "River Café",
+      "coord": [
+        51.4887,
+        -0.2278
+      ],
+      "desc": "London classic Italian, terrace when warm, Hammersmith"
+    },
+    {
+      "name": "The Wolseley",
+      "coord": [
+        51.507,
+        -0.1384
+      ],
+      "desc": "All-day grand café, breakfast through late dinner, Piccadilly"
+    },
+    {
+      "name": "Rules",
+      "coord": [
+        51.5137,
+        -0.1233
+      ],
+      "desc": "Historic British cooking, game season favorite, Covent Garden"
+    },
+    {
+      "name": "The Palomar",
+      "coord": [
+        51.515,
+        -0.1309
+      ],
+      "desc": "Lively counter seating, modern Middle Eastern, Soho"
+    },
+    {
+      "name": "Connaught Bar",
+      "coord": [
+        51.5087,
+        -0.1475
+      ],
+      "desc": "World's 50 Best, martini ritual, Mayfair"
+    },
+    {
+      "name": "Tayēr + Elementary",
+      "coord": [
+        51.5232,
+        -0.0876
+      ],
+      "desc": "World's 50 Best cocktails, inventive, Old Street"
+    },
+    {
+      "name": "The American Bar (The Savoy)",
+      "coord": [
+        51.5117,
+        -0.1199
+      ],
+      "desc": "Legendary hotel bar, classic cocktails, live music"
+    },
+    {
+      "name": "Scarfes Bar (Rosewood)",
+      "coord": [
+        51.5184,
+        -0.1186
+      ],
+      "desc": "Illustrated interiors, refined cocktails, Holborn"
+    },
+    {
+      "name": "Dukes Bar",
+      "coord": [
+        51.5047,
+        -0.1291
+      ],
+      "desc": "Old-school martini temple, St James's"
+    },
+    {
+      "name": "Nightjar",
+      "coord": [
+        51.5282,
+        -0.0754
+      ],
+      "desc": "Live jazz + cocktails, book ahead, Shoreditch"
+    },
+    {
+      "name": "The Fat Duck",
+      "coord": [
+        51.4888,
+        -0.6385
+      ],
+      "desc": "3 Michelin stars, theatrical tasting menus, Bray"
+    },
+    {
+      "name": "The Waterside Inn",
+      "coord": [
+        51.4878,
+        -0.6395
+      ],
+      "desc": "3 Michelin stars, classic riverside French, Bray"
+    },
+    {
+      "name": "Le Manoir aux Quat'Saisons",
+      "coord": [
+        51.8341,
+        -1.3167
+      ],
+      "desc": "Belmond country house + 2-star dining, Oxfordshire"
+    },
+    {
+      "name": "Moor Hall",
+      "coord": [
+        53.6505,
+        -2.8186
+      ],
+      "desc": "3 Michelin stars, countryside destination, Lancashire"
+    },
+    {
+      "name": "L'Enclume",
+      "coord": [
+        54.19,
+        -3.164
+      ],
+      "desc": "3 Michelin stars, farm-led tasting menu, Cumbria"
+    },
+    {
+      "name": "Ynyshir",
+      "coord": [
+        52.4226,
+        -3.8873
+      ],
+      "desc": "2 Michelin stars, immersive tasting, Wales"
+    },
+    {
+      "name": "Elystan Street",
+      "coord": [
+        51.4909,
+        -0.1646
+      ],
+      "desc": "1 Michelin star, relaxed refined Chelsea dining"
+    },
+    {
+      "name": "Five Fields",
+      "coord": [
+        51.4916,
+        -0.1649
+      ],
+      "desc": "1 Michelin star, seasonal tasting menus, Chelsea"
+    },
+    {
+      "name": "Frog by Adam Handling",
+      "coord": [
+        51.5157,
+        -0.1234
+      ],
+      "desc": "1 Michelin star, playful tasting menu, Covent Garden"
+    },
+    {
+      "name": "Hide",
+      "coord": [
+        51.506,
+        -0.1378
+      ],
+      "desc": "1 Michelin star, design-forward dining, Green Park"
+    },
+    {
+      "name": "Kitchen Table",
+      "coord": [
+        51.5192,
+        -0.1336
+      ],
+      "desc": "1 Michelin star, intimate chef's table, Fitzrovia"
+    },
+    {
+      "name": "Restaurant Story",
+      "coord": [
+        51.5053,
+        -0.0863
+      ],
+      "desc": "Michelin-starred, narrative tasting menus, London Bridge"
+    },
+    {
+      "name": "Umu",
+      "coord": [
+        51.5104,
+        -0.1421
+      ],
+      "desc": "Michelin-starred, refined Japanese kaiseki, Mayfair"
+    },
+    {
+      "name": "Sushi Kanesaka",
+      "coord": [
+        51.5116,
+        -0.1405
+      ],
+      "desc": "Michelin-starred, ultra-high-end omakase, Mayfair"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "British Museum",
+      "coord": [
+        51.5188,
+        -0.1262
+      ],
+      "desc": "World-class collections, free entry, Bloomsbury"
+    },
+    {
+      "name": "National Gallery",
+      "coord": [
+        51.509,
+        -0.1288
+      ],
+      "desc": "Masterpieces, free entry, Trafalgar Square"
+    },
+    {
+      "name": "Tate Modern",
+      "coord": [
+        51.5076,
+        -0.0995
+      ],
+      "desc": "Modern art with city views, great South Bank pairing"
+    },
+    {
+      "name": "V&A Museum",
+      "coord": [
+        51.4967,
+        -0.1764
+      ],
+      "desc": "Decorative arts, great café courtyard, free, South Kensington"
+    },
+    {
+      "name": "Natural History Museum",
+      "coord": [
+        51.4967,
+        -0.1765
+      ],
+      "desc": "Dinosaurs + blue whale, classic with kids, free"
+    },
+    {
+      "name": "Tower of London",
+      "coord": [
+        51.5085,
+        -0.0761
+      ],
+      "desc": "Crown Jewels, Yeoman Warder tours, book ahead"
+    },
+    {
+      "name": "Tower Bridge Walkway",
+      "coord": [
+        51.5055,
+        -0.0753
+      ],
+      "desc": "Iconic bridge, glass floor views, easy with kids"
+    },
+    {
+      "name": "St Paul's Cathedral",
+      "coord": [
+        51.5139,
+        -0.0984
+      ],
+      "desc": "Dome climb for views, iconic architecture, City"
+    },
+    {
+      "name": "Westminster Abbey",
+      "coord": [
+        51.4994,
+        -0.1275
+      ],
+      "desc": "Royal coronation site, timed entry, Westminster"
+    },
+    {
+      "name": "Buckingham Palace",
+      "coord": [
+        51.5015,
+        -0.1406
+      ],
+      "desc": "State Rooms (seasonal), classic London moment"
+    },
+    {
+      "name": "Changing of the Guard",
+      "coord": [
+        51.5015,
+        -0.1406
+      ],
+      "desc": "Free spectacle, arrive early for best views"
+    },
+    {
+      "name": "London Eye",
+      "coord": [
+        51.5034,
+        -0.1195
+      ],
+      "desc": "Easy skyline views, great first-day orientation"
+    },
+    {
+      "name": "The View from The Shard",
+      "coord": [
+        51.5045,
+        -0.0865
+      ],
+      "desc": "Highest viewpoint in London, best at sunset"
+    },
+    {
+      "name": "Sky Garden",
+      "coord": [
+        51.5113,
+        -0.0837
+      ],
+      "desc": "Free indoor gardens + panoramic views, City"
+    },
+    {
+      "name": "Churchill War Rooms",
+      "coord": [
+        51.5021,
+        -0.1295
+      ],
+      "desc": "Underground wartime HQ, book timed tickets"
+    },
+    {
+      "name": "Greenwich Royal Observatory",
+      "coord": [
+        51.4768,
+        -0.0005
+      ],
+      "desc": "Prime Meridian, great day out with river boat"
+    },
+    {
+      "name": "Cutty Sark",
+      "coord": [
+        51.4829,
+        -0.0097
+      ],
+      "desc": "Climb aboard iconic ship, pairs with Greenwich Market"
+    },
+    {
+      "name": "Hampton Court Palace",
+      "coord": [
+        51.402,
+        -0.3358
+      ],
+      "desc": "Tudor history, gardens, maze great for kids"
+    },
+    {
+      "name": "Kensington Palace",
+      "coord": [
+        51.505,
+        -0.1878
+      ],
+      "desc": "Royal residence + gardens, good stroller walks"
+    },
+    {
+      "name": "Hyde Park & Kensington Gardens",
+      "coord": [
+        51.5086,
+        -0.1634
+      ],
+      "desc": "Playgrounds, seasonal boating, easy stroller time"
+    },
+    {
+      "name": "Regent's Park",
+      "coord": [
+        51.5311,
+        -0.1599
+      ],
+      "desc": "Beautiful gardens, nearby zoo, great picnic spot"
+    },
+    {
+      "name": "Primrose Hill",
+      "coord": [
+        51.5399,
+        -0.1614
+      ],
+      "desc": "Best easy hilltop view, great at golden hour"
+    },
+    {
+      "name": "Hampstead Heath",
+      "coord": [
+        51.5609,
+        -0.1636
+      ],
+      "desc": "Wild-feeling open space, ponds, viewpoints"
+    },
+    {
+      "name": "Richmond Park",
+      "coord": [
+        51.4412,
+        -0.2749
+      ],
+      "desc": "Deer herds, huge green space, great half-day"
+    },
+    {
+      "name": "Kew Gardens",
+      "coord": [
+        51.4783,
+        -0.298
+      ],
+      "desc": "World-class botanic gardens, playgrounds, cafés"
+    },
+    {
+      "name": "Notting Hill & Portobello Road",
+      "coord": [
+        51.5142,
+        -0.2105
+      ],
+      "desc": "Colorful streets, market day browsing, photogenic"
+    },
+    {
+      "name": "Covent Garden Piazza",
+      "coord": [
+        51.5124,
+        -0.1251
+      ],
+      "desc": "Street performers, easy dining, central for theatre"
+    },
+    {
+      "name": "Borough Market Food Crawl",
+      "coord": [
+        51.5054,
+        -0.0912
+      ],
+      "desc": "Iconic gourmet market, grab-and-go lunches"
+    },
+    {
+      "name": "South Bank Riverside Walk",
+      "coord": [
+        51.4944,
+        -0.1231
+      ],
+      "desc": "Stroller-friendly promenade, Tate/Globe/London Eye"
+    },
+    {
+      "name": "Thames Clippers Boat Ride",
+      "coord": [
+        51.5,
+        -0.115
+      ],
+      "desc": "Most scenic public transport, ride past major sights"
+    },
+    {
+      "name": "Shoreditch Street Art",
+      "coord": [
+        51.5235,
+        -0.0745
+      ],
+      "desc": "Street art, cafés, great photo walk"
+    },
+    {
+      "name": "Shakespeare's Globe",
+      "coord": [
+        51.5081,
+        -0.0973
+      ],
+      "desc": "Tour + performances, fun history for older kids"
+    },
+    {
+      "name": "West End Show",
+      "coord": [
+        51.5134,
+        -0.1293
+      ],
+      "desc": "Book ahead; matinees work well for kids"
+    },
+    {
+      "name": "Royal Opera House",
+      "coord": [
+        51.513,
+        -0.1257
+      ],
+      "desc": "World-class performances, backstage tours, Covent Garden"
+    },
+    {
+      "name": "Royal Albert Hall",
+      "coord": [
+        51.5009,
+        -0.1775
+      ],
+      "desc": "Iconic venue, check family concerts, Kensington"
+    },
+    {
+      "name": "Afternoon Tea at The Ritz",
+      "coord": [
+        51.5079,
+        -0.1392
+      ],
+      "desc": "Classic London ritual, reserve far ahead"
+    },
+    {
+      "name": "Afternoon Tea at Claridge's",
+      "coord": [
+        51.5102,
+        -0.15
+      ],
+      "desc": "Iconic tea in glamorous setting, celebration option"
+    },
+    {
+      "name": "Afternoon Tea at The Savoy",
+      "coord": [
+        51.51,
+        -0.1193
+      ],
+      "desc": "Grand setting, pairs well with theatre"
+    },
+    {
+      "name": "Somerset House",
+      "coord": [
+        51.5066,
+        -0.117
+      ],
+      "desc": "Courtyard exhibitions, seasonal events, Strand"
+    },
+    {
+      "name": "Barbican Centre",
+      "coord": [
+        51.5201,
+        -0.0923
+      ],
+      "desc": "Brutalist architecture, art/cinema, great rainy-day option"
+    },
+    {
+      "name": "Little Venice Canal Walk",
+      "coord": [
+        51.5204,
+        -0.1762
+      ],
+      "desc": "Pretty canal area, boat rides to Camden/Regent's Park"
+    },
+    {
+      "name": "Coal Drops Yard (King's Cross)",
+      "coord": [
+        51.5319,
+        -0.1218
+      ],
+      "desc": "Modern retail + food in restored industrial setting"
+    },
+    {
+      "name": "Windsor Castle",
+      "coord": [
+        51.4833,
+        -0.6042
+      ],
+      "desc": "Easy day trip, royal history + castle grounds"
+    },
+    {
+      "name": "Bath: Roman Baths",
+      "coord": [
+        51.3811,
+        -2.3597
+      ],
+      "desc": "Roman Baths + Georgian city, great culture day trip"
+    },
+    {
+      "name": "Oxford Colleges & Museums",
+      "coord": [
+        51.7545,
+        -1.2544
+      ],
+      "desc": "University city, great walking day trip"
+    },
+    {
+      "name": "Cambridge Punting",
+      "coord": [
+        52.2053,
+        0.1218
+      ],
+      "desc": "Punting + colleges, best in warmer months"
+    },
+    {
+      "name": "Brighton Seafront & The Lanes",
+      "coord": [
+        50.8278,
+        -0.1395
+      ],
+      "desc": "Seaside energy + shopping, great summer day trip"
+    },
+    {
+      "name": "Stonehenge",
+      "coord": [
+        51.1789,
+        -1.8262
+      ],
+      "desc": "Prehistoric monument, pair with Salisbury"
+    },
+    {
+      "name": "Cotswolds Villages",
+      "coord": [
+        51.8155,
+        -1.67
+      ],
+      "desc": "Storybook villages (Bibury, Stow), best with a car"
+    },
+    {
+      "name": "Edinburgh Castle & Royal Mile",
+      "coord": [
+        55.9486,
+        -3.2008
+      ],
+      "desc": "Classic Scotland city break anchor"
+    },
+    {
+      "name": "Canterbury Cathedral",
+      "coord": [
+        51.2798,
+        1.0828
+      ],
+      "desc": "Medieval city, cathedral + old streets"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Natural History Museum",
+      "coord": [
+        51.4967,
+        -0.1765
+      ],
+      "desc": "Dinosaurs, blue whale, free entry, South Kensington"
+    },
+    {
+      "name": "Science Museum",
+      "coord": [
+        51.4972,
+        -0.1768
+      ],
+      "desc": "Hands-on galleries, great rainy-day option"
+    },
+    {
+      "name": "Science Museum Wonderlab",
+      "coord": [
+        51.4972,
+        -0.1768
+      ],
+      "desc": "Ticketed hands-on science exhibits, ages 3+"
+    },
+    {
+      "name": "London Transport Museum",
+      "coord": [
+        51.5124,
+        -0.1251
+      ],
+      "desc": "All Aboard play zone for under-7s, Covent Garden"
+    },
+    {
+      "name": "Young V&A",
+      "coord": [
+        51.5281,
+        -0.0635
+      ],
+      "desc": "Purpose-built kid museum, play + design, Bethnal Green"
+    },
+    {
+      "name": "Horniman Museum & Gardens",
+      "coord": [
+        51.441,
+        -0.061
+      ],
+      "desc": "Free museum + gardens, butterfly house, Forest Hill"
+    },
+    {
+      "name": "Diana Memorial Playground",
+      "coord": [
+        51.5092,
+        -0.1883
+      ],
+      "desc": "Outstanding pirate-ship playground, ages 1-8"
+    },
+    {
+      "name": "Coram's Fields",
+      "coord": [
+        51.5247,
+        -0.1197
+      ],
+      "desc": "Huge play spaces, adults only with children, Bloomsbury"
+    },
+    {
+      "name": "ZSL London Zoo",
+      "coord": [
+        51.536,
+        -0.1536
+      ],
+      "desc": "Classic big zoo day, book ahead on weekends"
+    },
+    {
+      "name": "SEA LIFE London Aquarium",
+      "coord": [
+        51.5012,
+        -0.1189
+      ],
+      "desc": "Toddler-friendly, great with South Bank day"
+    },
+    {
+      "name": "Kew Gardens (Kids)",
+      "coord": [
+        51.4783,
+        -0.298
+      ],
+      "desc": "Wide paths for strollers, greenhouses, playgrounds"
+    },
+    {
+      "name": "Hyde Park Playgrounds",
+      "coord": [
+        51.5086,
+        -0.1634
+      ],
+      "desc": "Stroller-friendly loops, playgrounds, pedal boats"
+    },
+    {
+      "name": "Paddington Bear Experience",
+      "coord": [
+        51.5018,
+        -0.1176
+      ],
+      "desc": "Highly interactive story-world, timed tickets, ages 2+"
+    },
+    {
+      "name": "Frameless (Immersive Art)",
+      "coord": [
+        51.5128,
+        -0.1595
+      ],
+      "desc": "Large-scale projections, kids can move freely"
+    },
+    {
+      "name": "Hamleys",
+      "coord": [
+        51.5128,
+        -0.1402
+      ],
+      "desc": "Iconic toy store, best early/weekday, Regent Street"
+    },
+    {
+      "name": "Warner Bros. Studio Tour (Harry Potter)",
+      "coord": [
+        51.6911,
+        -0.4182
+      ],
+      "desc": "Book far ahead, great for older kids/teens, Watford"
+    },
+    {
+      "name": "Battersea Park Children's Zoo",
+      "coord": [
+        51.4791,
+        -0.1568
+      ],
+      "desc": "Small zoo + playground, easy half-day"
+    },
+    {
+      "name": "Greenwich Day Out",
+      "coord": [
+        51.4767,
+        0.0001
+      ],
+      "desc": "Park, market, maritime museums, easy family day"
+    },
+    {
+      "name": "Thames Clippers Boat Ride (Kids)",
+      "coord": [
+        51.5,
+        -0.115
+      ],
+      "desc": "Low-effort sightseeing, fun with toddlers + snacks"
+    },
+    {
+      "name": "West End Matinee",
+      "coord": [
+        51.5134,
+        -0.1293
+      ],
+      "desc": "Choose a matinee, aisle seats help with kids"
+    },
+    {
+      "name": "Cutty Sark (Kids)",
+      "coord": [
+        51.4829,
+        -0.0097
+      ],
+      "desc": "Climb aboard the ship, great imagination fuel, ages 3+"
+    },
+    {
+      "name": "Hampstead Heath",
+      "coord": [
+        51.5609,
+        -0.1636
+      ],
+      "desc": "Great for running around, views and ponds"
+    },
+    {
+      "name": "Design Museum Mudlarks",
+      "coord": [
+        51.4999,
+        -0.2004
+      ],
+      "desc": "Soft-play style activity centre, ages 0-8, Kensington"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Borough Market",
+      "coord": [
+        51.5054,
+        -0.0912
+      ],
+      "desc": "Iconic gourmet market, excellent grab-and-go lunches"
+    },
+    {
+      "name": "Maltby Street Market",
+      "coord": [
+        51.4946,
+        -0.0666
+      ],
+      "desc": "Small high-quality weekend street food + bakeries"
+    },
+    {
+      "name": "Portobello Road Market",
+      "coord": [
+        51.5142,
+        -0.2105
+      ],
+      "desc": "Antiques + food, great neighborhood stroll, Notting Hill"
+    },
+    {
+      "name": "Columbia Road Flower Market",
+      "coord": [
+        51.5331,
+        -0.0666
+      ],
+      "desc": "Sunday flowers + coffee + small shops, Bethnal Green"
+    },
+    {
+      "name": "Broadway Market",
+      "coord": [
+        51.5429,
+        -0.0686
+      ],
+      "desc": "Saturday food stalls + indie shops, Hackney"
+    },
+    {
+      "name": "Spitalfields Market",
+      "coord": [
+        51.5197,
+        -0.0763
+      ],
+      "desc": "Covered market for crafts + food, good in bad weather"
+    },
+    {
+      "name": "Camden Market",
+      "coord": [
+        51.5414,
+        -0.1466
+      ],
+      "desc": "Huge food options, fun vibe for older kids/teens"
+    },
+    {
+      "name": "Leadenhall Market",
+      "coord": [
+        51.5128,
+        -0.0837
+      ],
+      "desc": "Beautiful Victorian arcade, photogenic, City"
+    },
+    {
+      "name": "Fortnum & Mason Food Hall",
+      "coord": [
+        51.5084,
+        -0.1385
+      ],
+      "desc": "Luxury hampers, teas, sweets, Piccadilly"
+    },
+    {
+      "name": "Harrods Food Halls",
+      "coord": [
+        51.4994,
+        -0.1633
+      ],
+      "desc": "Over-the-top food halls, easy lunch, Knightsbridge"
+    },
+    {
+      "name": "Greenwich Market",
+      "coord": [
+        51.4768,
+        -0.0005
+      ],
+      "desc": "Food + crafts, easy with Greenwich sights"
+    },
+    {
+      "name": "Brick Lane Sunday UpMarket",
+      "coord": [
+        51.5219,
+        -0.0697
+      ],
+      "desc": "Global street food + vintage browsing, Sundays"
+    },
+    {
+      "name": "Mercato Mayfair",
+      "coord": [
+        51.5106,
+        -0.1495
+      ],
+      "desc": "Food stalls in converted church setting"
+    },
+    {
+      "name": "Marylebone Farmers' Market",
+      "coord": [
+        51.5162,
+        -0.1544
+      ],
+      "desc": "Top produce & pastries, Sundays, great for park picnic"
+    },
+    {
+      "name": "Selfridges Foodhall",
+      "coord": [
+        51.5142,
+        -0.1518
+      ],
+      "desc": "Strong prepared foods and treats, Oxford Street"
+    }
+  ],
+  "cityCenters": {
+    "Central London": [
+      51.509,
+      -0.135,
+      0.08
+    ],
+    "Westminster": [
+      51.5,
+      -0.13,
+      0.06
+    ],
+    "Mayfair": [
+      51.51,
+      -0.148,
+      0.04
+    ],
+    "Soho": [
+      51.514,
+      -0.132,
+      0.03
+    ],
+    "Covent Garden": [
+      51.512,
+      -0.123,
+      0.03
+    ],
+    "Knightsbridge": [
+      51.5,
+      -0.163,
+      0.04
+    ],
+    "South Kensington": [
+      51.496,
+      -0.178,
+      0.04
+    ],
+    "Chelsea": [
+      51.49,
+      -0.163,
+      0.04
+    ],
+    "Shoreditch": [
+      51.525,
+      -0.076,
+      0.04
+    ],
+    "South Bank": [
+      51.504,
+      -0.115,
+      0.04
+    ],
+    "Greenwich": [
+      51.479,
+      -0.005,
+      0.05
+    ],
+    "Marylebone": [
+      51.52,
+      -0.15,
+      0.04
+    ],
+    "Fitzrovia": [
+      51.518,
+      -0.135,
+      0.03
+    ],
+    "Notting Hill": [
+      51.512,
+      -0.205,
+      0.04
+    ],
+    "City of London": [
+      51.515,
+      -0.09,
+      0.04
+    ],
+    "Belgravia": [
+      51.498,
+      -0.15,
+      0.03
+    ],
+    "Camden": [
+      51.54,
+      -0.145,
+      0.04
+    ],
+    "Hampstead": [
+      51.56,
+      -0.163,
+      0.05
+    ],
+    "Richmond": [
+      51.445,
+      -0.275,
+      0.06
+    ],
+    "Edinburgh": [
+      55.95,
+      -3.195,
+      0.12
+    ],
+    "Bath": [
+      51.381,
+      -2.36,
+      0.08
+    ],
+    "Oxford": [
+      51.755,
+      -1.254,
+      0.08
+    ],
+    "Cambridge": [
+      52.205,
+      0.12,
+      0.08
+    ],
+    "Cotswolds": [
+      51.815,
+      -1.67,
+      0.2
+    ],
+    "Windsor": [
+      51.483,
+      -0.604,
+      0.06
+    ],
+    "Brighton": [
+      50.828,
+      -0.14,
+      0.08
+    ],
+    "Bray": [
+      51.489,
+      -0.638,
+      0.04
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "A: London Greatest Hits + Day Trips",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival & South Kensington",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Natural History Museum",
+              "coord": [
+                51.4967,
+                -0.1765
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "V&A Café (inside museum)",
+              "coord": [
+                51.4967,
+                -0.1764
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hyde Park & Kensington Gardens",
+              "coord": [
+                51.5086,
+                -0.1634
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Dinner by Heston Blumenthal",
+              "coord": [
+                51.5023,
+                -0.1605
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Evening walk through Knightsbridge",
+              "coord": [
+                51.5,
+                -0.163
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Westminster & Royal London",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Changing of the Guard",
+              "coord": [
+                51.5015,
+                -0.1406
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Westminster Abbey",
+              "coord": [
+                51.4994,
+                -0.1275
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "The Wolseley",
+              "coord": [
+                51.507,
+                -0.1384
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Churchill War Rooms",
+              "coord": [
+                51.5021,
+                -0.1295
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "St James's Park",
+              "coord": [
+                51.5025,
+                -0.137
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Ritz Restaurant",
+              "coord": [
+                51.5071,
+                -0.1384
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Connaught Bar cocktails",
+              "coord": [
+                51.5087,
+                -0.1475
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "South Bank & Borough Market",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "London Eye",
+              "coord": [
+                51.5034,
+                -0.1195
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "South Bank Riverside Walk",
+              "coord": [
+                51.4944,
+                -0.1231
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Borough Market Food Crawl",
+              "coord": [
+                51.5054,
+                -0.0912
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tate Modern",
+              "coord": [
+                51.5076,
+                -0.0995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Shakespeare's Globe",
+              "coord": [
+                51.5081,
+                -0.0973
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurant Story",
+              "coord": [
+                51.5053,
+                -0.0863
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "The View from The Shard at sunset",
+              "coord": [
+                51.5045,
+                -0.0865
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Tower & East London",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower of London",
+              "coord": [
+                51.5085,
+                -0.0761
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower Bridge Walkway",
+              "coord": [
+                51.5055,
+                -0.0753
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "St. JOHN",
+              "coord": [
+                51.5206,
+                -0.1088
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Shoreditch Street Art",
+              "coord": [
+                51.5235,
+                -0.0745
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Spitalfields Market",
+              "coord": [
+                51.5197,
+                -0.0763
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Brat",
+              "coord": [
+                51.5271,
+                -0.0749
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Nightjar cocktails",
+              "coord": [
+                51.5282,
+                -0.0754
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Covent Garden, British Museum & West End",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "British Museum",
+              "coord": [
+                51.5188,
+                -0.1262
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Frog by Adam Handling",
+              "coord": [
+                51.5157,
+                -0.1234
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Covent Garden Piazza",
+              "coord": [
+                51.5124,
+                -0.1251
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "London Transport Museum",
+              "coord": [
+                51.5124,
+                -0.1251
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Rules",
+              "coord": [
+                51.5137,
+                -0.1233
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "West End Show",
+              "coord": [
+                51.5134,
+                -0.1293
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Mayfair & Afternoon Tea",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mayfair & Bond Street",
+              "coord": [
+                51.513,
+                -0.1462
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Fortnum & Mason",
+              "coord": [
+                51.5084,
+                -0.1385
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Gymkhana",
+              "coord": [
+                51.5075,
+                -0.15
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Afternoon Tea at Claridge's",
+              "coord": [
+                51.5102,
+                -0.15
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sketch (Lecture Room & Library)",
+              "coord": [
+                51.5125,
+                -0.1416
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Dukes Bar martini",
+              "coord": [
+                51.5047,
+                -0.1291
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Greenwich Day",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thames Clippers Boat Ride",
+              "coord": [
+                51.5,
+                -0.115
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cutty Sark",
+              "coord": [
+                51.4829,
+                -0.0097
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Greenwich Market",
+              "coord": [
+                51.4768,
+                -0.0005
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Greenwich Royal Observatory",
+              "coord": [
+                51.4768,
+                -0.0005
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Greenwich Park",
+              "coord": [
+                51.4767,
+                0.0001
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Palomar",
+              "coord": [
+                51.515,
+                -0.1309
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Day Trip: Windsor & Bray",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Windsor Castle",
+              "coord": [
+                51.4833,
+                -0.6042
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Windsor town lunch",
+              "coord": [
+                51.4833,
+                -0.6042
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Long Walk in Windsor Great Park",
+              "coord": [
+                51.4773,
+                -0.6169
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Fat Duck",
+              "coord": [
+                51.4888,
+                -0.6385
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "The Waterside Inn (alternative)",
+              "coord": [
+                51.4878,
+                -0.6395
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Day Trip: Bath & Roman Baths",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bath: Roman Baths",
+              "coord": [
+                51.3811,
+                -2.3597
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bath city center lunch",
+              "coord": [
+                51.3816,
+                -2.359
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Royal Crescent & Circus walk",
+              "coord": [
+                51.386,
+                -2.366
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Thermae Bath Spa",
+              "coord": [
+                51.3802,
+                -2.3603
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Elystan Street",
+              "coord": [
+                51.4909,
+                -0.1646
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Notting Hill & Kensington",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Notting Hill & Portobello Road",
+              "coord": [
+                51.5142,
+                -0.2105
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "The Ledbury",
+              "coord": [
+                51.5081,
+                -0.2013
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kensington Palace",
+              "coord": [
+                51.505,
+                -0.1878
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Diana Memorial Playground",
+              "coord": [
+                51.5092,
+                -0.1883
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "CORE by Clare Smyth",
+              "coord": [
+                51.5095,
+                -0.2007
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "King's Cross, Camden & Regent's Park",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Coal Drops Yard",
+              "coord": [
+                51.5319,
+                -0.1218
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Regent's Park",
+              "coord": [
+                51.5311,
+                -0.1599
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Camden Market",
+              "coord": [
+                51.5414,
+                -0.1466
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "ZSL London Zoo",
+              "coord": [
+                51.536,
+                -0.1536
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Primrose Hill",
+              "coord": [
+                51.5399,
+                -0.1614
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Kol",
+              "coord": [
+                51.5244,
+                -0.1451
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Farewell & Last Treats",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.502,
+                -0.1561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Harrods",
+              "coord": [
+                51.4994,
+                -0.1633
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Afternoon Tea at The Savoy",
+              "coord": [
+                51.51,
+                -0.1193
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Somerset House",
+              "coord": [
+                51.5066,
+                -0.117
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last shopping at Liberty",
+              "coord": [
+                51.513,
+                -0.1367
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Alain Ducasse at The Dorchester",
+              "coord": [
+                51.5074,
+                -0.1502
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "B: London Deep Dive + Cotswolds & Oxford",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival & Covent Garden",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Covent Garden Piazza",
+              "coord": [
+                51.5124,
+                -0.1251
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Frog by Adam Handling",
+              "coord": [
+                51.5157,
+                -0.1234
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Royal Opera House",
+              "coord": [
+                51.513,
+                -0.1257
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Rules",
+              "coord": [
+                51.5137,
+                -0.1233
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "The American Bar (The Savoy)",
+              "coord": [
+                51.5117,
+                -0.1199
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Westminster & Whitehall",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Westminster Abbey",
+              "coord": [
+                51.4994,
+                -0.1275
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Buckingham Palace",
+              "coord": [
+                51.5015,
+                -0.1406
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "A. Wong",
+              "coord": [
+                51.4915,
+                -0.13
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "St James's Park",
+              "coord": [
+                51.5025,
+                -0.137
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sabor",
+              "coord": [
+                51.5094,
+                -0.1449
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Dukes Bar",
+              "coord": [
+                51.5047,
+                -0.1291
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "South Bank Culture Crawl",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tate Modern",
+              "coord": [
+                51.5076,
+                -0.0995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Shakespeare's Globe",
+              "coord": [
+                51.5081,
+                -0.0973
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Borough Market Food Crawl",
+              "coord": [
+                51.5054,
+                -0.0912
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "London Eye",
+              "coord": [
+                51.5034,
+                -0.1195
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ikoyi",
+              "coord": [
+                51.513,
+                -0.1199
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Lyaness cocktails",
+              "coord": [
+                51.5068,
+                -0.1198
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "East London Food & Art",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Columbia Road Flower Market",
+              "coord": [
+                51.5331,
+                -0.0666
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Brick Lane Sunday UpMarket",
+              "coord": [
+                51.5219,
+                -0.0697
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Shoreditch Street Art",
+              "coord": [
+                51.5235,
+                -0.0745
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lyle's",
+              "coord": [
+                51.526,
+                -0.076
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Young V&A",
+              "coord": [
+                51.5281,
+                -0.0635
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Da Terra",
+              "coord": [
+                51.5304,
+                -0.0763
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Tayēr + Elementary cocktails",
+              "coord": [
+                51.5232,
+                -0.0876
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "British Museum & Bloomsbury",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "British Museum",
+              "coord": [
+                51.5188,
+                -0.1262
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Akoko",
+              "coord": [
+                51.5182,
+                -0.1346
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sir John Soane's Museum",
+              "coord": [
+                51.5166,
+                -0.1216
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Kitchen Table",
+              "coord": [
+                51.5192,
+                -0.1336
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "West End Show",
+              "coord": [
+                51.5134,
+                -0.1293
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Chelsea & South Ken Museums",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "V&A Museum",
+              "coord": [
+                51.4967,
+                -0.1764
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Science Museum Wonderlab",
+              "coord": [
+                51.4972,
+                -0.1768
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Elystan Street",
+              "coord": [
+                51.4909,
+                -0.1646
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hyde Park & Kensington Gardens",
+              "coord": [
+                51.5086,
+                -0.1634
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Five Fields",
+              "coord": [
+                51.4916,
+                -0.1649
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Harrods Food Halls",
+              "coord": [
+                51.4994,
+                -0.1633
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Day Trip: Oxford & Le Manoir",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Oxford Colleges & Museums",
+              "coord": [
+                51.7545,
+                -1.2544
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Oxford covered market lunch",
+              "coord": [
+                51.752,
+                -1.257
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bodleian Library",
+              "coord": [
+                51.7537,
+                -1.2541
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Manoir aux Quat'Saisons",
+              "coord": [
+                51.8341,
+                -1.3167
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Day Trip: Cotswolds",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cotswolds Villages",
+              "coord": [
+                51.8155,
+                -1.67
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cotswolds pub lunch",
+              "coord": [
+                51.832,
+                -1.723
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bibury & Arlington Row",
+              "coord": [
+                51.758,
+                -1.832
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Soho Farmhouse visit",
+              "coord": [
+                51.8594,
+                -1.635
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Harwood Arms",
+              "coord": [
+                51.4798,
+                -0.2093
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Notting Hill & Kensington",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Notting Hill & Portobello Road",
+              "coord": [
+                51.5142,
+                -0.2105
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "The Ledbury",
+              "coord": [
+                51.5081,
+                -0.2013
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Design Museum",
+              "coord": [
+                51.4999,
+                -0.2004
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kensington Palace",
+              "coord": [
+                51.505,
+                -0.1878
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "CORE by Clare Smyth",
+              "coord": [
+                51.5095,
+                -0.2007
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Hampstead & North London",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hampstead Heath",
+              "coord": [
+                51.5609,
+                -0.1636
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Primrose Hill",
+              "coord": [
+                51.5399,
+                -0.1614
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Camden Market",
+              "coord": [
+                51.5414,
+                -0.1466
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Little Venice Canal Walk",
+              "coord": [
+                51.5204,
+                -0.1762
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Kol",
+              "coord": [
+                51.5244,
+                -0.1451
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "City of London & Tower",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower of London",
+              "coord": [
+                51.5085,
+                -0.0761
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower Bridge Walkway",
+              "coord": [
+                51.5055,
+                -0.0753
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Leadenhall Market",
+              "coord": [
+                51.5128,
+                -0.0837
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "St Paul's Cathedral",
+              "coord": [
+                51.5139,
+                -0.0984
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sky Garden",
+              "coord": [
+                51.5113,
+                -0.0837
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurant Gordon Ramsay",
+              "coord": [
+                51.4897,
+                -0.1665
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Farewell: Tea & Treats",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "NoMad London",
+              "coord": [
+                51.5135,
+                -0.1221
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Liberty London",
+              "coord": [
+                51.513,
+                -0.1367
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Afternoon Tea at The Ritz",
+              "coord": [
+                51.5079,
+                -0.1392
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Somerset House",
+              "coord": [
+                51.5066,
+                -0.117
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hélène Darroze at The Connaught",
+              "coord": [
+                51.5087,
+                -0.1475
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Connaught Bar farewell",
+              "coord": [
+                51.5087,
+                -0.1475
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "C: Slow Family Pace + Country Houses",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival & South Kensington Play",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Number Sixteen",
+              "coord": [
+                51.4943,
+                -0.1814
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Natural History Museum",
+              "coord": [
+                51.4967,
+                -0.1765
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "V&A Café",
+              "coord": [
+                51.4967,
+                -0.1764
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Diana Memorial Playground",
+              "coord": [
+                51.5092,
+                -0.1883
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Elystan Street",
+              "coord": [
+                51.4909,
+                -0.1646
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Hyde Park pedal boats",
+              "coord": [
+                51.5053,
+                -0.1621
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Paddington Bear & South Bank",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Number Sixteen",
+              "coord": [
+                51.4943,
+                -0.1814
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Paddington Bear Experience",
+              "coord": [
+                51.5018,
+                -0.1176
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "SEA LIFE London Aquarium",
+              "coord": [
+                51.5012,
+                -0.1189
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Southbank Centre café",
+              "coord": [
+                51.5061,
+                -0.1164
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "London Eye",
+              "coord": [
+                51.5034,
+                -0.1195
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Palomar",
+              "coord": [
+                51.515,
+                -0.1309
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Zoo & Regent's Park",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Number Sixteen",
+              "coord": [
+                51.4943,
+                -0.1814
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "ZSL London Zoo",
+              "coord": [
+                51.536,
+                -0.1536
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Regent's Park picnic",
+              "coord": [
+                51.5311,
+                -0.1599
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Primrose Hill",
+              "coord": [
+                51.5399,
+                -0.1614
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Kol",
+              "coord": [
+                51.5244,
+                -0.1451
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Greenwich Family Day",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Number Sixteen",
+              "coord": [
+                51.4943,
+                -0.1814
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thames Clippers Boat Ride",
+              "coord": [
+                51.5,
+                -0.115
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cutty Sark",
+              "coord": [
+                51.4829,
+                -0.0097
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Greenwich Market",
+              "coord": [
+                51.4768,
+                -0.0005
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Greenwich Royal Observatory",
+              "coord": [
+                51.4768,
+                -0.0005
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "River Café",
+              "coord": [
+                51.4887,
+                -0.2278
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Harry Potter Studio Tour",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Number Sixteen",
+              "coord": [
+                51.4943,
+                -0.1814
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Warner Bros. Studio Tour (Harry Potter)",
+              "coord": [
+                51.6911,
+                -0.4182
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Studio Tour café",
+              "coord": [
+                51.6911,
+                -0.4182
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Wolseley",
+              "coord": [
+                51.507,
+                -0.1384
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Markets, Hamleys & West End Show",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Number Sixteen",
+              "coord": [
+                51.4943,
+                -0.1814
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Covent Garden Piazza",
+              "coord": [
+                51.5124,
+                -0.1251
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "London Transport Museum",
+              "coord": [
+                51.5124,
+                -0.1251
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Borough Market Food Crawl",
+              "coord": [
+                51.5054,
+                -0.0912
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hamleys",
+              "coord": [
+                51.5128,
+                -0.1402
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Early dinner near West End",
+              "coord": [
+                51.513,
+                -0.128
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "West End Matinee or Evening Show",
+              "coord": [
+                51.5134,
+                -0.1293
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Country Escape: The Grove",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Grove",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Drive to The Grove",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "The Grove restaurant",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Pool, gardens & family activities",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Grove dining",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Country Day & Relaxation",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Grove",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Morning pool/spa/games",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Countryside walk or bike ride",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Afternoon Tea at The Grove",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Grove restaurant",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Day Trip: Windsor Castle",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Grove",
+              "coord": [
+                51.6089,
+                -0.4292
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Windsor Castle",
+              "coord": [
+                51.4833,
+                -0.6042
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Windsor lunch",
+              "coord": [
+                51.4833,
+                -0.6042
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Windsor Great Park",
+              "coord": [
+                51.4773,
+                -0.6169
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Fat Duck",
+              "coord": [
+                51.4888,
+                -0.6385
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Return to London: Kew & Richmond",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "11 Cadogan Gardens",
+              "coord": [
+                51.4936,
+                -0.1595
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kew Gardens",
+              "coord": [
+                51.4783,
+                -0.298
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kew Gardens café",
+              "coord": [
+                51.4783,
+                -0.298
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Richmond Park",
+              "coord": [
+                51.4412,
+                -0.2749
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Dinner by Heston Blumenthal",
+              "coord": [
+                51.5023,
+                -0.1605
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Last London Sights",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "11 Cadogan Gardens",
+              "coord": [
+                51.4936,
+                -0.1595
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Changing of the Guard",
+              "coord": [
+                51.5015,
+                -0.1406
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Afternoon Tea at Claridge's",
+              "coord": [
+                51.5102,
+                -0.15
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Fortnum & Mason",
+              "coord": [
+                51.5084,
+                -0.1385
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurant Gordon Ramsay",
+              "coord": [
+                51.4897,
+                -0.1665
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Farewell: Battersea & Chelsea",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "11 Cadogan Gardens",
+              "coord": [
+                51.4936,
+                -0.1595
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Battersea Park",
+              "coord": [
+                51.4791,
+                -0.1568
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Battersea Park Children's Zoo",
+              "coord": [
+                51.4791,
+                -0.1568
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Harrods Food Halls",
+              "coord": [
+                51.4994,
+                -0.1633
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last stroll through Chelsea",
+              "coord": [
+                51.49,
+                -0.163
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Harwood Arms",
+              "coord": [
+                51.4798,
+                -0.2093
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

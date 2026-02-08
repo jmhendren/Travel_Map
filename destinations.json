@@ -1,0 +1,29 @@
+{
+  "default": "japan",
+  "destinations": [
+    {
+      "key": "japan",
+      "name": "Japan Family Adventure",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "file": "destinations/japan.json"
+    },
+    {
+      "key": "italy",
+      "name": "Italy Family Adventure",
+      "flag": "\ud83c\uddee\ud83c\uddf9",
+      "file": "destinations/italy.json"
+    },
+    {
+      "key": "greece",
+      "name": "Greece Family Adventure",
+      "flag": "\ud83c\uddec\ud83c\uddf7",
+      "file": "destinations/greece.json"
+    },
+    {
+      "key": "uk",
+      "name": "United Kingdom Family Adventure",
+      "flag": "\ud83c\uddec\ud83c\udde7",
+      "file": "destinations/uk.json"
+    }
+  ]
+}
