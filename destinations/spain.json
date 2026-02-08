@@ -1,0 +1,3985 @@
+{
+  "key": "spain",
+  "name": "Spain Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇪🇸",
+  "defaultCenter": [
+    40.0,
+    -3.7
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Four Seasons Hotel Madrid",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Landmark address near Puerta del Sol; polished service, spa, destination dini..."
+    },
+    {
+      "name": "Mandarin Oriental Ritz, Madrid",
+      "coord": [
+        40.4152,
+        -3.6935
+      ],
+      "desc": "Belle Époque grand dame beside the Prado Triangle; refined rooms and dining, ..."
+    },
+    {
+      "name": "Rosewood Villa Magna",
+      "coord": [
+        40.3833,
+        -3.6667
+      ],
+      "desc": "Salamanca district base with standout F&B and spa; easy access to boutiques, ..."
+    },
+    {
+      "name": "Gran Hotel Inglés",
+      "coord": [
+        40.415,
+        -3.6981
+      ],
+      "desc": "Art Deco-inspired boutique in Barrio de las Letras; strong breakfast and serv..."
+    },
+    {
+      "name": "The Madrid EDITION",
+      "coord": [
+        40.4177,
+        -3.6987
+      ],
+      "desc": "Contemporary rooms, buzzy bars and restaurants; stylish scene, Foodies, night..."
+    },
+    {
+      "name": "Hotel Palacio de los Duques Gran Meliá",
+      "coord": [
+        40.4217,
+        -3.7054
+      ],
+      "desc": "Near Royal Palace; historic-meets-modern design and rooftop pool, Families, o..."
+    },
+    {
+      "name": "Santo Mauro, a Luxury Collection Hotel",
+      "coord": [
+        40.4344,
+        -3.6923
+      ],
+      "desc": "Former palace feel with gardens; serene counterpoint to the city, Romance, qu..."
+    },
+    {
+      "name": "Hotel Único Madrid",
+      "coord": [
+        40.4286,
+        -3.6884
+      ],
+      "desc": "Elegant boutique with strong dining; walkable to Retiro and shopping, Couples..."
+    },
+    {
+      "name": "Thompson Madrid",
+      "coord": [
+        40.4289,
+        -3.6951
+      ],
+      "desc": "Rooftop pool/bar, modern rooms; lively location near Gran Vía, Groups, roofto..."
+    },
+    {
+      "name": "JW Marriott Hotel Madrid",
+      "coord": [
+        40.4289,
+        -3.6806
+      ],
+      "desc": "Polished, contemporary base near landmarks; dependable service, Business + le..."
+    },
+    {
+      "name": "BLESS Hotel Madrid",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Fashion-forward Salamanca stay; rooftop pool and strong cocktail program, Nig..."
+    },
+    {
+      "name": "URSO Hotel & Spa",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Belle Époque building with spa; calm rooms near Chamberí sights, Wellness, we..."
+    },
+    {
+      "name": "Mandarin Oriental, Barcelona",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Prime shopping street base; rooftop terrace and spa, Design lovers, Paseo de ..."
+    },
+    {
+      "name": "Hotel Arts Barcelona",
+      "coord": [
+        41.3865,
+        2.1905
+      ],
+      "desc": "High-rise luxury with sea views; pool terraces and strong dining, Families, b..."
+    },
+    {
+      "name": "Majestic Hotel & Spa Barcelona",
+      "coord": [
+        41.392,
+        2.165
+      ],
+      "desc": "Grand Paseo de Gràcia address; rooftop pool and refined service, Classic luxu..."
+    },
+    {
+      "name": "W Barcelona",
+      "coord": [
+        41.3862,
+        2.19
+      ],
+      "desc": "Iconic waterfront tower with pools and sunset-facing bars, Views, beach scene..."
+    },
+    {
+      "name": "The Barcelona EDITION",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Stylish rooms near El Born; lively bars and strong design, Foodies, nightlife..."
+    },
+    {
+      "name": "Hotel Casa Fuster",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Modernista landmark with rooftop drinks and central location, Architecture lo..."
+    },
+    {
+      "name": "Cotton House Hotel",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Chic former cotton guild HQ; warm service and calm courtyard feel, Couples, b..."
+    },
+    {
+      "name": "Almanac Barcelona",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Contemporary five-star with rooftop pool; walkable to Gaudí sights, Couples, ..."
+    },
+    {
+      "name": "The Serras Barcelona",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Intimate waterfront-edge base; strong F&B and service, Old Town explorers, Lu..."
+    },
+    {
+      "name": "Hotel Neri Relais & Châteaux",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Atmospheric, design-led hideaway in the old city, Romance, Gothic Quarter, Lu..."
+    },
+    {
+      "name": "Kimpton Vividora Hotel",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Playful design; close to Las Ramblas and Gothic Quarter, Families, city break..."
+    },
+    {
+      "name": "Hotel Seventy Barcelona",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Spa-forward modern hotel in Eixample; excellent breakfast, Wellness, longer s..."
+    },
+    {
+      "name": "Only YOU Hotel Valencia",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Design-driven stay in the old Astoria Palace building; great food scene acces..."
+    },
+    {
+      "name": "Caro Hotel Valencia",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Monument-hotel in the old town blending archaeological layers with modern des..."
+    },
+    {
+      "name": "Hotel Alfonso XIII, a Luxury Collection Hotel",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Iconic Seville grand hotel; lush courtyards and Moorish-inspired details, Cla..."
+    },
+    {
+      "name": "Mercer Hotel Sevilla",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Refined, small-scale luxury in historic center; excellent service, Couples, b..."
+    },
+    {
+      "name": "Corral del Rey",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Intimate townhouse hotel in Barrio Santa Cruz; rooftop plunge pool, Romance, ..."
+    },
+    {
+      "name": "CoolRooms Palacio de Villapanés",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Restored palace with generous rooms; quiet but central, Families, heritage lo..."
+    },
+    {
+      "name": "Hotel Colón Gran Meliá",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Bold design near key sights; strong restaurants and bar scene, Foodies, centr..."
+    },
+    {
+      "name": "Hotel Alhambra Palace",
+      "coord": [
+        37.176,
+        -3.5881
+      ],
+      "desc": "Belle Époque icon near the Alhambra with panoramic terraces, Views, history, ..."
+    },
+    {
+      "name": "Parador de Granada",
+      "coord": [
+        37.1896,
+        -3.5871
+      ],
+      "desc": "Former convent within the Alhambra grounds; unbeatable setting, Once-in-a-lif..."
+    },
+    {
+      "name": "Gran Hotel Miramar GL",
+      "coord": [
+        36.7213,
+        -4.4185
+      ],
+      "desc": "Restored 1920s grand hotel by the sea; strong spa and pool scene, Beach + cul..."
+    },
+    {
+      "name": "Marbella Club Hotel",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Legendary Costa del Sol resort with gardens, kids program, wellness, Families..."
+    },
+    {
+      "name": "Puente Romano Beach Resort",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Village-like resort packed with restaurants and nightlife; steps from the sea..."
+    },
+    {
+      "name": "Finca Cortesin Hotel Golf & Spa",
+      "coord": [
+        36.7169,
+        -4.2908
+      ],
+      "desc": "Polished resort with big pools and top-tier service; destination feel, Golf, ..."
+    },
+    {
+      "name": "OKU Andalusia",
+      "coord": [
+        36.7169,
+        -4.2908
+      ],
+      "desc": "New resort-style stay with multiple pools and a kids’ club, Families, sun + p..."
+    },
+    {
+      "name": "Hotel María Cristina",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Belle Époque icon by the river; best for a pintxos-focused weekend, Classic l..."
+    },
+    {
+      "name": "Lasala Plaza Hotel",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Sleek boutique near the Old Town and waterfront, Design lovers, La Concha wal..."
+    },
+    {
+      "name": "Gran Hotel Domine Bilbao",
+      "coord": [
+        43.2631,
+        -2.9263
+      ],
+      "desc": "Across from Guggenheim; design-led rooms and rooftop bar, Art + architecture,..."
+    },
+    {
+      "name": "Hotel Marqués de Riscal",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Iconic winery stay with spa and tastings; Gehry-designed statement, Wine love..."
+    },
+    {
+      "name": "Abadía Retuerta LeDomaine",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Converted monastery with top dining and vineyard setting, Quiet luxury, wine ..."
+    },
+    {
+      "name": "Parador Hostal dos Reis Católicos",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "One of Spain’s most storied historic stays beside the cathedral, Pilgrimage f..."
+    },
+    {
+      "name": "La Residencia, A Belmond Hotel, Mallorca",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Tramuntana mountain setting; art gallery and gardens, Romance, artsy escapes,..."
+    },
+    {
+      "name": "Cap Rocat",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Former fortress turned ultra-luxury; dramatic cliffside setting, Seclusion, d..."
+    },
+    {
+      "name": "Four Seasons Resort Mallorca at Formentor",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Legendary Formentor location reborn as a high-luxury resort, Families, beach ..."
+    },
+    {
+      "name": "Castell Son Claret",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Grand estate feel near Palma; superb service and gardens, Quiet countryside, ..."
+    },
+    {
+      "name": "Nobu Hotel Ibiza Bay",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Beachfront stay with Nobu dining and spa; easy to Ibiza Town, Wellness + beac..."
+    },
+    {
+      "name": "Six Senses Ibiza",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "High-end eco-luxe resort with wellness programming and sea views, Wellness, n..."
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Disfrutar",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Foodies, special occasion, Tasting menu (modern), $$$$"
+    },
+    {
+      "name": "Lasarte",
+      "coord": [
+        41.3936,
+        2.1647
+      ],
+      "desc": "Anniversary dinners, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "ABaC",
+      "coord": [
+        41.4006,
+        2.159
+      ],
+      "desc": "Luxury tasting menu, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "Cocina Hermanos Torres",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Show-kitchen experience, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "Enigma",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Adventurous eaters, Modern tasting menu, $$$$"
+    },
+    {
+      "name": "Alkimia",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Modern Catalan, Modern Catalan, $$$$"
+    },
+    {
+      "name": "Cinc Sentits",
+      "coord": [
+        41.3997,
+        2.1664
+      ],
+      "desc": "Tasting menus, Fine dining, $$$$"
+    },
+    {
+      "name": "Via Veneto",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Old-school luxury, Classic fine dining, $$$$"
+    },
+    {
+      "name": "Besta",
+      "coord": [
+        41.3879,
+        2.1656
+      ],
+      "desc": "Foodie couples, Seafood-forward, $$$"
+    },
+    {
+      "name": "Gresca",
+      "coord": [
+        41.385,
+        2.175
+      ],
+      "desc": "Casual fine dining, Modern bistro, $$$"
+    },
+    {
+      "name": "Can Solé",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Paella and seafood, Seafood (rice dishes), $$$"
+    },
+    {
+      "name": "7 Portes",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Tradition seekers, Catalan classic, $$$"
+    },
+    {
+      "name": "Bar del Pla",
+      "coord": [
+        41.388,
+        2.1697
+      ],
+      "desc": "Tapas crawl, Tapas bar, $$$"
+    },
+    {
+      "name": "Cal Pep",
+      "coord": [
+        41.3876,
+        2.1743
+      ],
+      "desc": "Seafood tapas, Tapas bar, $$$"
+    },
+    {
+      "name": "Els Quatre Gats",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Architecture + history, Historic café, $$$"
+    },
+    {
+      "name": "Bodega 1900 (vermut & tapas)",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Aperitivo culture, Vermutería, $$$"
+    },
+    {
+      "name": "Tickets-style innovation: Suculent",
+      "coord": [
+        41.3818,
+        2.1646
+      ],
+      "desc": "Foodies, Modern small plates, $$$"
+    },
+    {
+      "name": "La Paradeta Born",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Families, quick seafood, Seafood market-restaurant, $$"
+    },
+    {
+      "name": "Sips",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Cocktail obsessives, Cocktail bar, $$$"
+    },
+    {
+      "name": "Paradiso",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Cocktail obsessives, Cocktail bar (speakeasy), $$$"
+    },
+    {
+      "name": "Two Schmucks",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Hip bar-hopping, Cocktail bar, $$"
+    },
+    {
+      "name": "Dr. Stravinsky",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Cocktail geeks, Cocktail bar, $$"
+    },
+    {
+      "name": "Boadas Cocktails",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Classic cocktails, Classic cocktail bar, $$$"
+    },
+    {
+      "name": "Monk",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Natural wine, Wine bar, $$"
+    },
+    {
+      "name": "DiverXO",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Once-in-a-lifetime, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "Coque",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Luxury tasting menu, Fine dining, $$$$"
+    },
+    {
+      "name": "DSTAgE",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Modern tasting, Modern tasting menu, $$$$"
+    },
+    {
+      "name": "Botín",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Tradition seekers, Historic restaurant, $$$"
+    },
+    {
+      "name": "Casa Lucio",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Classic Madrid, Spanish classic, $$$"
+    },
+    {
+      "name": "La Tasquería",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Adventurous eaters, Modern offal, $$$"
+    },
+    {
+      "name": "StreetXO",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "High-energy bites, Creative casual, $$$"
+    },
+    {
+      "name": "Sala de Despiece",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Groups, sharing plates, Modern tapas, $$$"
+    },
+    {
+      "name": "Sacha",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Insider pick, Bistronomy, $$$"
+    },
+    {
+      "name": "La Bola",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Comfort food, Traditional cocido, $$"
+    },
+    {
+      "name": "Casa Dani (tortilla)",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Quick bites, Casual, $$"
+    },
+    {
+      "name": "Lhardy",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "History + bites, Historic café/restaurant, $$$"
+    },
+    {
+      "name": "Taberna El Sur",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Tapas, Tapas, $$"
+    },
+    {
+      "name": "Bodega de la Ardosa",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Aperitivo, Vermouth + tapas, $$"
+    },
+    {
+      "name": "Angelita Madrid",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Wine lovers, Wine bar, $$$"
+    },
+    {
+      "name": "Sala Alcalá 39 (cocktail)",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Cocktail lovers, Cocktail bar, $$$"
+    },
+    {
+      "name": "Chocolatería San Ginés",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Families, late-night snack, Churros + chocolate, $"
+    },
+    {
+      "name": "Tostado Café Club",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Coffee break, Coffee, $$"
+    },
+    {
+      "name": "Salmon Guru",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Cocktail obsessives, Cocktail bar, $$$"
+    },
+    {
+      "name": "1862 Dry Bar",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Classic cocktails, Cocktail bar, $$$"
+    },
+    {
+      "name": "Del Diego",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Classic cocktails, Classic cocktail bar, $$"
+    },
+    {
+      "name": "Bad Company 1920",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Night out, Speakeasy cocktail bar, $$$"
+    },
+    {
+      "name": "La Venencia",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Aperitivo, Sherry bar, $$"
+    },
+    {
+      "name": "Pensión Mimosas",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Date night, Cocktail bar, $$$"
+    },
+    {
+      "name": "Asador Etxebarri",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Food pilgrims, Grilling (world-class), $$$$"
+    },
+    {
+      "name": "El Celler de Can Roca",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Food pilgrims, Fine dining (best-of-the-best), $$$$"
+    },
+    {
+      "name": "Martín Berasategui",
+      "coord": [
+        43.3186,
+        -1.9878
+      ],
+      "desc": "Celebration meal, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "Arzak",
+      "coord": [
+        43.32,
+        -1.9753
+      ],
+      "desc": "Foodies, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "Akelarre",
+      "coord": [
+        43.317,
+        -1.8002
+      ],
+      "desc": "Views + tasting menu, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "Mugaritz",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Adventurous eaters, Avant-garde tasting, $$$$"
+    },
+    {
+      "name": "Elkano",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Seafood lovers, Seafood grill, $$$$"
+    },
+    {
+      "name": "Borda Berri",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Pintxos crawl, Pintxos bar, $$"
+    },
+    {
+      "name": "La Viña",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Families, cheesecake, Dessert stop, $"
+    },
+    {
+      "name": "Ganbara",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Pintxos crawl, Pintxos bar, $$"
+    },
+    {
+      "name": "Bar Néstor",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Pintxos crawl, Pintxos bar, $$"
+    },
+    {
+      "name": "Casa Urola",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Groups, Basque grill, $$$"
+    },
+    {
+      "name": "Atari Gastroteka",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Quick stop, Pintxos bar, $$"
+    },
+    {
+      "name": "Azurmendi",
+      "coord": [
+        43.2631,
+        -2.9263
+      ],
+      "desc": "Foodies, design, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "Nerua Guggenheim Bilbao",
+      "coord": [
+        43.3089,
+        -2.9349
+      ],
+      "desc": "Art + dining, Fine dining, $$$$"
+    },
+    {
+      "name": "La Graine",
+      "coord": [
+        43.2631,
+        -2.9263
+      ],
+      "desc": "Casual fine dining, Bistro, $$$"
+    },
+    {
+      "name": "Cañabota",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Seafood lovers, Seafood-focused fine dining, $$$$"
+    },
+    {
+      "name": "Abantal",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Tasting menus, Fine dining (Michelin-starred), $$$$"
+    },
+    {
+      "name": "El Rinconcillo",
+      "coord": [
+        37.3956,
+        -5.9847
+      ],
+      "desc": "Tapas + tradition, Historic tapas bar, $$"
+    },
+    {
+      "name": "La Brunilda Tapas",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Tapas crawl, Tapas bar, $$$"
+    },
+    {
+      "name": "Eslava",
+      "coord": [
+        37.3917,
+        -5.9852
+      ],
+      "desc": "Tapas crawl, Tapas bar, $$$"
+    },
+    {
+      "name": "Aponiente",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Food pilgrims, Fine dining (Michelin 3*), $$$$"
+    },
+    {
+      "name": "Ricard Camarena Restaurant",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Tasting menu, Fine dining (Michelin-starred), $$$$"
+    },
+    {
+      "name": "Quique Dacosta",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Food pilgrims, Fine dining (world-ranked), $$$$"
+    },
+    {
+      "name": "Marc Fosh",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Date night, Fine dining, $$$$"
+    },
+    {
+      "name": "Casa Jondal",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Long lunches, Seafood + beach club dining, $$$$"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Visit La Sagrada Família",
+      "coord": [
+        41.4036,
+        2.1744
+      ],
+      "desc": "Gaudí’s unfinished masterpiece—book timed tickets, Architecture lovers, Landm..."
+    },
+    {
+      "name": "Stroll Park Güell",
+      "coord": [
+        41.4145,
+        2.1527
+      ],
+      "desc": "Whimsical mosaics + city views; go early, Families, Gaudí fans, Landmarks & A..."
+    },
+    {
+      "name": "Casa Batlló (Gaudí)",
+      "coord": [
+        41.3915,
+        2.1649
+      ],
+      "desc": "Immersive Modernisme interiors; great audio guides, Design lovers, Landmarks ..."
+    },
+    {
+      "name": "La Pedrera (Casa Milà)",
+      "coord": [
+        41.396,
+        2.1628
+      ],
+      "desc": "Rooftop chimneys + museum of Gaudí’s ideas, Architecture lovers, Landmarks & ..."
+    },
+    {
+      "name": "Gothic Quarter wander + tapas stop",
+      "coord": [
+        41.3851,
+        2.1776
+      ],
+      "desc": "Medieval lanes, plazas, easy bar-hopping, First-timers, Neighborhoods & Culture"
+    },
+    {
+      "name": "Picasso Museum",
+      "coord": [
+        41.3838,
+        2.1737
+      ],
+      "desc": "Essential early Picasso collection in El Born, Art lovers, Museums & Culture"
+    },
+    {
+      "name": "Montjuïc: cable car + castle views",
+      "coord": [
+        41.3729,
+        2.1628
+      ],
+      "desc": "Easy panoramic city views with stroller-friendly segments, Families, Outdoors..."
+    },
+    {
+      "name": "Barceloneta promenade + beach time",
+      "coord": [
+        41.387,
+        2.193
+      ],
+      "desc": "Low-stakes beach day close to the city, Families, Beaches"
+    },
+    {
+      "name": "Food market browsing at La Boqueria",
+      "coord": [
+        41.3817,
+        2.1699
+      ],
+      "desc": "Taste-and-go market snacks (go early), Foodies, Food & Drink"
+    },
+    {
+      "name": "Tibidabo amusement park",
+      "coord": [
+        41.422,
+        2.1136
+      ],
+      "desc": "Old-school rides and sweeping views, Kids 3+, Family Fun"
+    },
+    {
+      "name": "CosmoCaixa science museum",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Hands-on science (great for rainy days), Kids 2+, Family Fun"
+    },
+    {
+      "name": "Barcelona Aquarium",
+      "coord": [
+        41.386,
+        2.1912
+      ],
+      "desc": "Walk-through shark tunnel + sea-life exhibits, Kids 0+, Family Fun"
+    },
+    {
+      "name": "Museo del Prado",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Masterworks from Velázquez to Goya; go early, Art lovers, Museums & Culture"
+    },
+    {
+      "name": "Reina Sofía Museum",
+      "coord": [
+        40.4062,
+        -3.6913
+      ],
+      "desc": "Picasso’s Guernica and strong modern collection, Modern art fans, Museums & C..."
+    },
+    {
+      "name": "Thyssen-Bornemisza Museum",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Bridges gaps between Prado and Reina Sofía, Art lovers, Museums & Culture"
+    },
+    {
+      "name": "Royal Palace of Madrid",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Opulent state rooms + armory, First-timers, Landmarks & Architecture"
+    },
+    {
+      "name": "Retiro Park rowboats + playgrounds",
+      "coord": [
+        40.4119,
+        -3.6836
+      ],
+      "desc": "Perfect mid-day break; boats on the lake, Families, Outdoors & Nature"
+    },
+    {
+      "name": "Gran Vía evening stroll",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Neon-lit boulevard, theaters, rooftop views, All ages, Neighborhoods & Culture"
+    },
+    {
+      "name": "Mercado de San Miguel tapas sampling",
+      "coord": [
+        40.4151,
+        -3.7045
+      ],
+      "desc": "Tapas stalls in a historic market hall, Foodies, Food & Drink"
+    },
+    {
+      "name": "Churros at San Ginés",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Classic sweet stop (great for jet lag), Families, Food & Drink"
+    },
+    {
+      "name": "Santiago Bernabéu tour",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Stadium tour that thrills older kids + adults, Sports fans, Family Fun"
+    },
+    {
+      "name": "Rooftop sunset drinks (Gran Vía area)",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Skyline views—reserve ahead in peak season, Couples, Nightlife & Events"
+    },
+    {
+      "name": "Flamenco show (Madrid)",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Pick an early show for kids; book seats, All ages, Culture & Performance"
+    },
+    {
+      "name": "Day trip by AVE: Toledo or Segovia",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "UNESCO towns close enough for a full day, First-timers, Day Trips"
+    },
+    {
+      "name": "Real Alcázar of Seville",
+      "coord": [
+        37.3828,
+        -5.9798
+      ],
+      "desc": "Moorish palace gardens—reserve timed entry, History lovers, Landmarks & Archi..."
+    },
+    {
+      "name": "Seville Cathedral + Giralda",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Climb for skyline views; go early in heat, First-timers, Landmarks & Architec..."
+    },
+    {
+      "name": "Plaza de España (sunset)",
+      "coord": [
+        37.3763,
+        -5.9874
+      ],
+      "desc": "Photogenic square; boats and bridges, All ages, Landmarks & Architecture"
+    },
+    {
+      "name": "Maria Luisa Park stroll",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Shaded park ideal with toddlers, Families, Outdoors & Nature"
+    },
+    {
+      "name": "Metropol Parasol (Las Setas) viewpoint",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Modern landmark with sunset-walkway views, First-timers, Views"
+    },
+    {
+      "name": "Triana neighborhood walk",
+      "coord": [
+        37.395,
+        -5.9945
+      ],
+      "desc": "Ceramics shops + tapas by the river, Foodies, Neighborhoods & Culture"
+    },
+    {
+      "name": "Flamenco at a traditional tablao",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Book a shorter show (early seatings for families), Couples, culture, Culture ..."
+    },
+    {
+      "name": "Tapas crawl: Santa Cruz to Centro",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Go small-and-many; stop when you’re happy, Foodies, Food & Drink"
+    },
+    {
+      "name": "Day trip to Córdoba (Mezquita)",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "World-class Islamic/Christian architecture, History lovers, Day Trips"
+    },
+    {
+      "name": "White villages + Ronda viewpoints",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Dramatic gorge bridge + hill towns, Scenery seekers, Day Trips"
+    },
+    {
+      "name": "Explore the Alhambra complex",
+      "coord": [
+        37.176,
+        -3.5881
+      ],
+      "desc": "Palaces + gardens; tickets sell out—book ahead, History lovers, Landmarks & A..."
+    },
+    {
+      "name": "Generalife gardens",
+      "coord": [
+        37.1896,
+        -3.5871
+      ],
+      "desc": "Cooling gardens and fountains—best in morning, All ages, Landmarks & Architec..."
+    },
+    {
+      "name": "Albaicín neighborhood wander",
+      "coord": [
+        37.1896,
+        -3.5871
+      ],
+      "desc": "Whitewashed lanes and viewpoints, First-timers, Neighborhoods & Culture"
+    },
+    {
+      "name": "Mirador de San Nicolás at sunset",
+      "coord": [
+        37.1896,
+        -3.5871
+      ],
+      "desc": "Classic Alhambra panorama with Sierra Nevada backdrop, Couples, Views"
+    },
+    {
+      "name": "Hammam Al Ándalus baths",
+      "coord": [
+        37.1896,
+        -3.5871
+      ],
+      "desc": "Arab baths-inspired reset after sightseeing, Couples, Wellness"
+    },
+    {
+      "name": "Sacromonte cave flamenco",
+      "coord": [
+        37.1896,
+        -3.5871
+      ],
+      "desc": "Shorter shows work for families with older kids, Night out, Culture & Perform..."
+    },
+    {
+      "name": "Pintxos bar-hopping in Parte Vieja",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Small bites + txakoli—pace yourself, Foodies, Food & Drink"
+    },
+    {
+      "name": "La Concha Beach promenade",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Crescent bay with a beautiful walk, All ages, Beaches"
+    },
+    {
+      "name": "Monte Urgull hike",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Short hike to viewpoints and history, Active travelers, Outdoors & Views"
+    },
+    {
+      "name": "San Telmo Museum",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Basque history and art in a former convent, Culture seekers, Museums & Culture"
+    },
+    {
+      "name": "Surf lesson at Zurriola Beach",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Beach known for surf culture, Teens + adults, Outdoors & Nature"
+    },
+    {
+      "name": "Guggenheim Museum Bilbao",
+      "coord": [
+        43.2631,
+        -2.9263
+      ],
+      "desc": "Iconic contemporary museum and riverfront stroll, Art + design fans, Museums ..."
+    },
+    {
+      "name": "Old Town Bilbao pintxos crawl",
+      "coord": [
+        43.2631,
+        -2.9263
+      ],
+      "desc": "Great pintxos without San Sebastián crowds, Foodies, Food & Drink"
+    },
+    {
+      "name": "Getaria seafood + coastal views",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Fishing town and grilled seafood stops, Foodies, Outdoors & Food"
+    },
+    {
+      "name": "City of Arts and Sciences complex",
+      "coord": [
+        39.4596,
+        -0.3568
+      ],
+      "desc": "Futuristic Calatrava buildings + museums, Families, architecture fans, Landma..."
+    },
+    {
+      "name": "Oceanogràfic (aquarium)",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "One of Europe’s standout aquariums within the complex, Kids 0+, Family Fun"
+    },
+    {
+      "name": "Turia Gardens bike ride",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Long green park in the old riverbed—great with kids, Families, Outdoors & Nature"
+    },
+    {
+      "name": "Central Market browse + snack",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Paella ingredients, citrus, and market bites, Foodies, Food & Drink"
+    },
+    {
+      "name": "Albufera lagoon sunset boat ride",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Easy nature escape; perfect golden-hour photos, Couples, families, Outdoors &..."
+    },
+    {
+      "name": "Paella Valenciana lunch by the beach",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Go where the locals go for wood-fired paella, Foodies, Food & Drink"
+    },
+    {
+      "name": "Malvarrosa beach day",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Easy sandy beach close to the city, Families, Beaches"
+    },
+    {
+      "name": "Drive the Serra de Tramuntana (scenic)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Mountain roads, viewpoints, stone villages, Scenery seekers, Outdoors & Nature"
+    },
+    {
+      "name": "Deià village wander",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Artsy hill town and sea views, Couples, Neighborhoods & Culture"
+    },
+    {
+      "name": "Palma Cathedral (La Seu)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Gothic cathedral anchoring Palma’s old town, First-timers, Landmarks & Archit..."
+    },
+    {
+      "name": "Boat to calas (coves)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Short boat trips reach clear-water coves, Families, Beaches"
+    },
+    {
+      "name": "Beach day at Formentor",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Classic pine-lined beach near the peninsula, Families, Beaches"
+    },
+    {
+      "name": "Dalt Vila (Ibiza Old Town)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "UNESCO old town ramparts and views, History lovers, Neighborhoods & Culture"
+    },
+    {
+      "name": "Cala Comte sunset",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Golden-hour swim + sunset views, All ages, Beaches"
+    },
+    {
+      "name": "Ses Salines beach + nature park",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "White sand and a lively beach scene, Adults, Beaches"
+    },
+    {
+      "name": "Family-friendly beach morning (Cala Llonga / Talamanca)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Calmer waters and easier logistics with kids, Families, Beaches"
+    },
+    {
+      "name": "Boat to Formentera (day trip)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Short ferry to stunning beaches and cycling, Families, Beaches"
+    },
+    {
+      "name": "Teide National Park viewpoints",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Spain’s highest peak landscapes; layer up, Outdoorsy families, Outdoors & Nature"
+    },
+    {
+      "name": "Teide cable car ride (Teleférico)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Big payoff views with minimal effort, Families, Outdoors & Views"
+    },
+    {
+      "name": "Whale and dolphin watching",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Popular boat trips from the south coast, Families, Outdoors & Nature"
+    },
+    {
+      "name": "Siam Park water park",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Top-tier slides and pools (check height rules), Kids 6+, Family Fun"
+    },
+    {
+      "name": "Loro Parque",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "All-day zoo/aquarium-style attraction, Kids 2+, Family Fun"
+    },
+    {
+      "name": "Camino de Santiago (family-friendly stages)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Pick shorter daily walks; create a ‘stamp’ passport game, Active families, Ou..."
+    },
+    {
+      "name": "Santiago de Compostela Cathedral",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Pilgrimage endpoint with powerful atmosphere, History lovers, Landmarks & Arc..."
+    },
+    {
+      "name": "Rioja winery day (Marqués de Riscal area)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Architectural wineries + tastings, Wine lovers, Food & Drink"
+    },
+    {
+      "name": "Penedès cava tasting",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Sparkling wine country within day-trip range, Wine lovers, Food & Drink"
+    },
+    {
+      "name": "Toledo old town wander",
+      "coord": [
+        39.8562,
+        -4.0273
+      ],
+      "desc": "UNESCO hill city of cathedrals and viewpoints, History lovers, Day Trips"
+    },
+    {
+      "name": "Segovia aqueduct + Alcázar",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Roman aqueduct + fairy-tale castle, Families, Day Trips"
+    },
+    {
+      "name": "Córdoba Mezquita-Catedral",
+      "coord": [
+        37.8757,
+        -4.7768
+      ],
+      "desc": "One of Spain’s most extraordinary interiors, Architecture lovers, Landmarks &..."
+    },
+    {
+      "name": "Ronda Puente Nuevo gorge views",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Dramatic bridge and canyon town, Scenery seekers, Outdoors & Views"
+    },
+    {
+      "name": "Flamenco in Andalusia (Seville/Granada)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Most immersive in Andalucía; choose shorter shows with kids, Culture lovers, ..."
+    },
+    {
+      "name": "Contemporary art + architecture in Málaga",
+      "coord": [
+        36.7213,
+        -4.4185
+      ],
+      "desc": "Museum scene and seaside strolls, Culture seekers, Culture & Design"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Barcelona Aquarium",
+      "coord": [
+        41.386,
+        2.1912
+      ],
+      "desc": "Go at opening for calmer crowds, 0+, Shark tunnel + bite-size exhibits"
+    },
+    {
+      "name": "CosmoCaixa (science museum)",
+      "coord": [
+        41.4063,
+        2.1319
+      ],
+      "desc": "Pack snacks; plan 2–3 hours, 2+, Hands-on science + indoor rainy-day win"
+    },
+    {
+      "name": "Parc de la Ciutadella playground + boat lake",
+      "coord": [
+        41.3879,
+        2.1835
+      ],
+      "desc": "Perfect for toddler nap resets, 0+, Big park with space to run, playgrounds, ..."
+    },
+    {
+      "name": "Park Güell (short route)",
+      "coord": [
+        41.4145,
+        2.1527
+      ],
+      "desc": "Book timed entry and keep it short with little ones, 2+, Mosaics + views"
+    },
+    {
+      "name": "Montjuïc cable car (views without walking)",
+      "coord": [
+        41.3729,
+        2.1628
+      ],
+      "desc": "Use for stroller-friendly sightseeing breaks, 2+, Easy panorama with minimal ..."
+    },
+    {
+      "name": "Tibidabo amusement park",
+      "coord": [
+        41.422,
+        2.1136
+      ],
+      "desc": "Check height minimums; go early, 3+, Old-school rides + lookout views"
+    },
+    {
+      "name": "Beach morning at Barceloneta / Nova Icaria",
+      "coord": [
+        41.387,
+        2.193
+      ],
+      "desc": "Go early; bring shade, 0+, Sand play + calm waters (choose a calmer beach)"
+    },
+    {
+      "name": "Poble Espanyol (open-air ‘village’)",
+      "coord": [
+        41.3879,
+        2.1587
+      ],
+      "desc": "Good low-pressure culture for kids, All ages, Open spaces, crafts, easy stroll"
+    },
+    {
+      "name": "Retiro Park (playgrounds + pond boats)",
+      "coord": [
+        40.4119,
+        -3.6836
+      ],
+      "desc": "Best mid-day break in heat, 0+, Shade, playgrounds, rowboats"
+    },
+    {
+      "name": "Madrid Río park + playgrounds",
+      "coord": [
+        40.4035,
+        -3.7286
+      ],
+      "desc": "Great for scooter time, 0+, Riverside paths and big play areas"
+    },
+    {
+      "name": "Royal Palace (short highlights tour)",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Go early; keep expectations short, 5+, Grand rooms and armor"
+    },
+    {
+      "name": "Prado ‘highlights’ visit (30–60 min)",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Aim for the top hits; don’t overdo it, 8+, Masterworks in a short loop"
+    },
+    {
+      "name": "Santiago Bernabéu tour",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Book timed slots; bring ear protection for little kids if needed, 6+, Stadium..."
+    },
+    {
+      "name": "Churros at San Ginés",
+      "coord": [
+        40.4168,
+        -3.7038
+      ],
+      "desc": "Use as a kid-friendly ‘treat stop’ between sights, All ages, Classic sweet snack"
+    },
+    {
+      "name": "City of Arts and Sciences (science museum + IMAX)",
+      "coord": [
+        39.4596,
+        -0.3568
+      ],
+      "desc": "Bundle tickets for museum + aquarium, 2+, Futuristic complex with kid-appeal"
+    },
+    {
+      "name": "Oceanogràfic (aquarium)",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Arrive at opening; plan 3–4 hours, 0+, Huge aquarium inside the complex"
+    },
+    {
+      "name": "Turia Gardens (Gulliver Park area)",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Perfect stroller walk during nap time, 0+, Massive park in old riverbed with ..."
+    },
+    {
+      "name": "Central Market snack crawl",
+      "coord": [
+        39.4679,
+        -0.3595
+      ],
+      "desc": "Go early and keep it snack-sized, All ages, Easy tasting bites + colorful stalls"
+    },
+    {
+      "name": "Plaza de España + Maria Luisa Park",
+      "coord": [
+        37.3763,
+        -5.9874
+      ],
+      "desc": "Morning or sunset is best in summer, 0+, Big open spaces and shade"
+    },
+    {
+      "name": "Metropol Parasol (Las Setas) walkway",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Go at golden hour; watch wind and strollers, All ages, Stroller-friendly skyl..."
+    },
+    {
+      "name": "Flamenco Museum (short films)",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Pick the museum first, then an early show, 6+, Good intro before a show"
+    },
+    {
+      "name": "Alhambra gardens (kid-paced route)",
+      "coord": [
+        37.176,
+        -3.5881
+      ],
+      "desc": "Book tickets in advance; bring water, 5+, Palaces, fountains, and gardens fee..."
+    },
+    {
+      "name": "Hammam-style baths (adults; swap-in babysitting)",
+      "coord": [
+        37.1896,
+        -3.5871
+      ],
+      "desc": "If traveling with another adult, take turns for a spa reset, Adults, Recharge..."
+    },
+    {
+      "name": "Palma old town + Cathedral",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Go early; shaded breaks, All ages, Easy strolls, plazas, and ice-cream stops"
+    },
+    {
+      "name": "Boat to calm coves (short cruise)",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Choose short routes for kids, All ages, Clear-water swim without long drives"
+    },
+    {
+      "name": "Teide National Park viewpoints",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Layer up; weather changes fast, All ages, Big landscapes with minimal walking..."
+    },
+    {
+      "name": "Whale-watching boat trip",
+      "coord": [
+        40.0,
+        -3.7
+      ],
+      "desc": "Choose shorter trips and calm seas days, 3+, High-likelihood dolphin/whale si..."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mercado de San Miguel",
+      "coord": [
+        40.4151,
+        -3.7045
+      ],
+      "desc": "Jamón ibérico, oysters, croquetas, Gourmet market, Go for a ‘tapas tasting’ u..."
+    },
+    {
+      "name": "Mercado de San Antón",
+      "coord": [
+        40.4252,
+        -3.694
+      ],
+      "desc": "Seafood, tapas, produce, Food market + rooftops, Multiple levels (market + ea..."
+    },
+    {
+      "name": "Mercado de la Paz",
+      "coord": [
+        40.4232,
+        -3.6768
+      ],
+      "desc": "Cheese, charcuterie, olives, Traditional market, Great for picnic supplies ne..."
+    },
+    {
+      "name": "Mercado de Antón Martín",
+      "coord": [
+        40.4095,
+        -3.6959
+      ],
+      "desc": "Vermouth, tapas, international stalls, Neighborhood market, Pair with a walki..."
+    },
+    {
+      "name": "La Boqueria",
+      "coord": [
+        41.3817,
+        2.1699
+      ],
+      "desc": "Fresh fruit, seafood, jamón, Iconic food market, Go early for peak produce an..."
+    },
+    {
+      "name": "Mercat de Santa Caterina",
+      "coord": [
+        41.3893,
+        2.1797
+      ],
+      "desc": "Seafood, Catalan staples, Covered market, Worth a look for the famous mosaic ..."
+    },
+    {
+      "name": "Mercat de Sant Antoni",
+      "coord": [
+        41.3778,
+        2.1624
+      ],
+      "desc": "Produce + weekend book market, Market hall, Weekend mornings: books/antiques ..."
+    },
+    {
+      "name": "Mercat del Ninot",
+      "coord": [
+        41.4032,
+        2.1495
+      ],
+      "desc": "Seafood + tapas counters, Neighborhood market, Great alternative when Boqueri..."
+    },
+    {
+      "name": "Mercado Central",
+      "coord": [
+        39.4725,
+        -0.3749
+      ],
+      "desc": "Local citrus, jamón, seafood, Historic market, One of Europe’s standout produ..."
+    },
+    {
+      "name": "Mercado de Colón",
+      "coord": [
+        41.3942,
+        2.1668
+      ],
+      "desc": "Coffee, tapas, pastries, Food hall (modernist), More ‘food hall’ than produce..."
+    },
+    {
+      "name": "Mercado de Triana",
+      "coord": [
+        36.7213,
+        -4.4187
+      ],
+      "desc": "Fried fish, olives, produce, Market, Pair with a Triana neighborhood stroll. ..."
+    },
+    {
+      "name": "Mercado de la Encarnación (Las Setas area)",
+      "coord": [
+        37.3892,
+        -5.9812
+      ],
+      "desc": "Tapas, local sweets, Food + neighborhood scene, Combine with Metropol Parasol..."
+    },
+    {
+      "name": "Mercado Central de Atarazanas",
+      "coord": [
+        39.4725,
+        -0.3749
+      ],
+      "desc": "Seafood, local produce, Market, Ideal for a casual seafood snack while sights..."
+    },
+    {
+      "name": "Mercado de la Bretxa",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Seafood, Basque produce, Market, Chefs shop here—go downstairs for fish/seafo..."
+    },
+    {
+      "name": "La Bretxa (seafood level)",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Anchovies, cod, shellfish, Seafood market, Arrive in the morning for best sel..."
+    },
+    {
+      "name": "Mercado de la Ribera",
+      "coord": [
+        43.2631,
+        -2.9263
+      ],
+      "desc": "Pintxos + produce, Market, One of Europe’s largest covered markets; good for ..."
+    },
+    {
+      "name": "Mercado de San Martín",
+      "coord": [
+        43.3184,
+        -1.9831
+      ],
+      "desc": "Pintxos, deli items, Food hall + market, Good stop near the beach for quick b..."
+    }
+  ],
+  "cityCenters": {
+    "Madrid": [
+      40.4168,
+      -3.7038,
+      0.1
+    ],
+    "Barcelona": [
+      41.3879,
+      2.1587,
+      0.1
+    ],
+    "San Sebastián": [
+      43.3184,
+      -1.9831,
+      0.08
+    ],
+    "Seville": [
+      37.3892,
+      -5.9812,
+      0.08
+    ],
+    "Málaga": [
+      36.7213,
+      -4.4185,
+      0.08
+    ],
+    "Valencia": [
+      39.4679,
+      -0.3595,
+      0.08
+    ],
+    "Toledo": [
+      39.8562,
+      -4.0273,
+      0.05
+    ],
+    "Bilbao": [
+      43.2631,
+      -2.9263,
+      0.08
+    ],
+    "Córdoba": [
+      37.8757,
+      -4.7768,
+      0.06
+    ],
+    "Granada": [
+      37.1896,
+      -3.5871,
+      0.06
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "title": "Greatest Hits",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Madrid, City Overview",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Hotel Madrid",
+              "coord": [
+                40.4168,
+                -3.7038
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Royal Palace Madrid",
+              "coord": [
+                40.4174,
+                -3.7141
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mercado de San Miguel",
+              "coord": [
+                40.4151,
+                -3.7045
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Madrid Masterpieces",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.4168,
+                -3.7038
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Prado Museum",
+              "coord": [
+                40.4135,
+                -3.6926
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bodega Santa Cruz",
+              "coord": [
+                37.3878,
+                -5.9801
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Retiro Park",
+              "coord": [
+                40.4119,
+                -3.6836
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Eslava",
+              "coord": [
+                37.3917,
+                -5.9852
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day Trip: Toledo",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.4168,
+                -3.7038
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Toledo Cathedral",
+              "coord": [
+                39.8562,
+                -4.0273
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "El Greco Museum",
+              "coord": [
+                39.8562,
+                -4.0273
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Plaza Mayor Toledo",
+              "coord": [
+                39.8562,
+                -4.0273
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Travel to Barcelona",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.4168,
+                -3.7038
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Madrid Río park",
+              "coord": [
+                40.4035,
+                -3.7286
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental Barcelona",
+              "coord": [
+                41.3904,
+                2.1688
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Cervecería Catalana",
+              "coord": [
+                41.3928,
+                2.1649
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Gaudí's Barcelona",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3904,
+                2.1688
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "La Sagrada Família",
+              "coord": [
+                41.4036,
+                2.1744
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cal Pep",
+              "coord": [
+                41.3876,
+                2.1743
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Park Güell",
+              "coord": [
+                41.4145,
+                2.1527
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Disfrutar",
+              "coord": [
+                41.3879,
+                2.1587
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Modernist Barcelona",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3904,
+                2.1688
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Casa Batlló",
+              "coord": [
+                41.3915,
+                2.1649
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "La Pedrera",
+              "coord": [
+                41.396,
+                2.1628
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "El Xampanyet",
+              "coord": [
+                41.3851,
+                2.1872
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Picasso Museum",
+              "coord": [
+                41.3838,
+                2.1737
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Tickets",
+              "coord": [
+                41.3818,
+                2.1646
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Montjuïc & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3904,
+                2.1688
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "La Boqueria",
+              "coord": [
+                41.3817,
+                2.1699
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mercat de Santa Caterina",
+              "coord": [
+                41.3893,
+                2.1797
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Montjuïc",
+              "coord": [
+                41.3729,
+                2.1628
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lasarte",
+              "coord": [
+                41.3936,
+                2.1647
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Beach & Gothic Quarter",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3904,
+                2.1688
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gothic Quarter",
+              "coord": [
+                41.3851,
+                2.1776
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Can Culleretes",
+              "coord": [
+                41.3843,
+                2.175
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Barceloneta",
+              "coord": [
+                41.387,
+                2.193
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Can Tosca",
+              "coord": [
+                41.392,
+                2.16
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Travel to San Sebastián",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3904,
+                2.1688
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Parc de la Ciutadella",
+              "coord": [
+                41.3879,
+                2.1835
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hotel Akelarre",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "La Cuchara de San Telmo",
+              "coord": [
+                43.3184,
+                -1.9831
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Culinary San Sebastián",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Playa de la Concha",
+              "coord": [
+                43.3192,
+                -1.9846
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Gandarias",
+              "coord": [
+                43.3213,
+                -1.9845
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "San Telmo Museum",
+              "coord": [
+                43.3184,
+                -1.9831
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Akelarre",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Travel to Seville",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Abades Triana",
+              "coord": [
+                37.395,
+                -5.9945
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Triana neighborhood",
+              "coord": [
+                37.395,
+                -5.9945
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Eslava",
+              "coord": [
+                37.3917,
+                -5.9852
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Seville Landmarks",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                37.395,
+                -5.9945
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cathedral of Seville",
+              "coord": [
+                37.3862,
+                -5.9847
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "El Rinconcillo",
+              "coord": [
+                37.3956,
+                -5.9847
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Real Alcázar",
+              "coord": [
+                37.3828,
+                -5.9798
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Plaza de España",
+              "coord": [
+                37.3763,
+                -5.9874
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casa Morales",
+              "coord": [
+                37.39,
+                -5.992
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Travel to Málaga",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                37.395,
+                -5.9945
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Parador de Málaga Golf",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alcazaba",
+              "coord": [
+                36.7213,
+                -4.4187
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "El Tintero",
+              "coord": [
+                36.7169,
+                -4.2908
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Costa del Sol Relaxation",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Nerja Caves",
+              "coord": [
+                36.7595,
+                -3.8674
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Triana",
+              "coord": [
+                36.7213,
+                -4.4187
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Puerto Banús",
+              "coord": [
+                36.6167,
+                -4.9167
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Beach time",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "title": "Hidden Gems & Deep Culture",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Madrid: Art & Neighborhoods",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Gran Hotel Inglés",
+              "coord": [
+                40.415,
+                -3.6981
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Reina Sofía Museum",
+              "coord": [
+                40.4062,
+                -3.6913
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mercado de Antón Martín",
+              "coord": [
+                40.4095,
+                -3.6959
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bar Europa",
+              "coord": [
+                37.3892,
+                -5.9812
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Madrid: Hidden Gems",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.415,
+                -3.6981
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado de San Antón",
+              "coord": [
+                40.4252,
+                -3.694
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "La Paz neighborhood market",
+              "coord": [
+                40.4232,
+                -3.6768
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Madrid Río park",
+              "coord": [
+                40.4035,
+                -3.7286
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casa Morales",
+              "coord": [
+                37.39,
+                -5.992
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day Trip: Segovia & Ávila",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.415,
+                -3.6981
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Segovia Cathedral",
+              "coord": [
+                40.9521,
+                -4.1169
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cochinillo de Segovia",
+              "coord": [
+                40.9521,
+                -4.1169
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ávila Walls",
+              "coord": [
+                40.6563,
+                -4.6963
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Travel to Barcelona: El Born",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.415,
+                -3.6981
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Pulitzer Barcelona",
+              "coord": [
+                41.3926,
+                2.1654
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Santa Maria del Mar",
+              "coord": [
+                41.3851,
+                2.1872
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bar del Pla",
+              "coord": [
+                41.388,
+                2.1697
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Barcelona: Street Art & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3926,
+                2.1654
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercat de Sant Antoni",
+              "coord": [
+                41.3778,
+                2.1624
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cervecería Catalana",
+              "coord": [
+                41.3928,
+                2.1649
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Raval neighborhood",
+              "coord": [
+                41.3823,
+                2.1608
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Besta",
+              "coord": [
+                41.3879,
+                2.1656
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Barcelona: Modernist Secrets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3926,
+                2.1654
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hospital de Sant Pau",
+              "coord": [
+                41.4062,
+                2.1706
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "El Xampanyet",
+              "coord": [
+                41.3851,
+                2.1872
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercat de Santa Caterina",
+              "coord": [
+                41.3893,
+                2.1797
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "ABaC",
+              "coord": [
+                41.4006,
+                2.159
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Barcelona: Art & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3926,
+                2.1654
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "MNAC Museum",
+              "coord": [
+                41.3683,
+                2.1637
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "La Boqueria",
+              "coord": [
+                41.3817,
+                2.1699
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Fundació Joan Miró",
+              "coord": [
+                41.3727,
+                2.1622
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Gresca",
+              "coord": [
+                41.385,
+                2.175
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Travel to Bilbao",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3926,
+                2.1654
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Gran Hotel Via",
+              "coord": [
+                43.2631,
+                -2.9263
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Guggenheim Bilbao",
+              "coord": [
+                43.3089,
+                -2.9349
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurante Ama Lur",
+              "coord": [
+                43.2631,
+                -2.9263
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Bilbao: Art & Design",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.2631,
+                -2.9263
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bilbao Fine Arts Museum",
+              "coord": [
+                43.2657,
+                -2.9345
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Casco Viejo",
+              "coord": [
+                43.2568,
+                -2.9298
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Azkuna Zentroa",
+              "coord": [
+                43.2669,
+                -2.9439
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "El Perro Chico",
+              "coord": [
+                43.2645,
+                -2.9305
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Travel to San Sebastián",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.2631,
+                -2.9263
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Martín Berasategui",
+              "coord": [
+                43.3186,
+                -1.9878
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Peine del Viento",
+              "coord": [
+                43.3224,
+                -1.9876
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Martín Berasategui",
+              "coord": [
+                43.3186,
+                -1.9878
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "San Sebastián: Food Capital",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.3186,
+                -1.9878
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kokotxas",
+              "coord": [
+                43.3185,
+                -1.9845
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Playa Ondarreta",
+              "coord": [
+                43.314,
+                -1.975
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Arzak",
+              "coord": [
+                43.32,
+                -1.9753
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Travel to Granada & Córdoba",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.3186,
+                -1.9878
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Riad Maktoub Granada",
+              "coord": [
+                37.1896,
+                -3.5871
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Albaicín",
+              "coord": [
+                37.1896,
+                -3.5871
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casa Julio",
+              "coord": [
+                37.1896,
+                -3.5871
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Granada & Córdoba",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                37.1896,
+                -3.5871
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alhambra",
+              "coord": [
+                37.176,
+                -3.5881
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sacromonte Abbey",
+              "coord": [
+                37.1903,
+                -3.5881
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mezquita Córdoba",
+              "coord": [
+                37.8757,
+                -4.7768
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bodegas Mezquita",
+              "coord": [
+                37.8757,
+                -4.7768
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Return & Reflection",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                37.1896,
+                -3.5871
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Granada Cathedral",
+              "coord": [
+                37.1896,
+                -3.5871
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Plaza Nueva",
+              "coord": [
+                37.1901,
+                -3.5962
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Departure preparations",
+              "coord": [
+                37.1896,
+                -3.5871
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "title": "Slow Family Pace",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Madrid, Settle In",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Room Mate Mario",
+              "coord": [
+                40.4162,
+                -3.698
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Café in plaza",
+              "coord": [
+                40.4151,
+                -3.7045
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest from travel",
+              "coord": [
+                40.4162,
+                -3.698
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Plaza Mayor stroll",
+              "coord": [
+                40.4151,
+                -3.7045
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mercado de San Miguel",
+              "coord": [
+                40.4151,
+                -3.7045
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Madrid: Easy Pace",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.4162,
+                -3.698
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Retiro Park",
+              "coord": [
+                40.4119,
+                -3.6836
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Retiro café",
+              "coord": [
+                40.4119,
+                -3.6836
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Park rest",
+              "coord": [
+                40.4119,
+                -3.6836
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Prado Museum",
+              "coord": [
+                40.4135,
+                -3.6926
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Nearby restaurant",
+              "coord": [
+                40.4135,
+                -3.6926
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Madrid: Parks & Playgrounds",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.4162,
+                -3.698
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Madrid Río park",
+              "coord": [
+                40.4035,
+                -3.7286
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Riverside café",
+              "coord": [
+                40.4035,
+                -3.7286
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Children's play areas",
+              "coord": [
+                40.4035,
+                -3.7286
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family-friendly spot",
+              "coord": [
+                40.4162,
+                -3.698
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Travel to Barcelona",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                40.4162,
+                -3.698
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Last Madrid sight",
+              "coord": [
+                40.4174,
+                -3.7141
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Alma Barcelona",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hotel lunch",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Easy dinner",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Barcelona: Beach Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Barceloneta Beach",
+              "coord": [
+                41.387,
+                2.193
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach restaurant",
+              "coord": [
+                41.387,
+                2.193
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Beach rest",
+              "coord": [
+                41.387,
+                2.193
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach evening walk",
+              "coord": [
+                41.387,
+                2.193
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beachside dinner",
+              "coord": [
+                41.387,
+                2.193
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Barcelona: Kid-Friendly Activities",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Barcelona Aquarium",
+              "coord": [
+                41.386,
+                2.1912
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Aquarium café",
+              "coord": [
+                41.386,
+                2.1912
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Parc de la Ciutadella",
+              "coord": [
+                41.3879,
+                2.1835
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Can Culleretes",
+              "coord": [
+                41.3843,
+                2.175
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Barcelona: Gaudí Light Touch",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Park Güell short route",
+              "coord": [
+                41.4145,
+                2.1527
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Park café",
+              "coord": [
+                41.4145,
+                2.1527
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Casa Batlló exterior",
+              "coord": [
+                41.3915,
+                2.1649
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mercat de Santa Caterina",
+              "coord": [
+                41.3893,
+                2.1797
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Barcelona: Markets & Neighborhoods",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "La Boqueria",
+              "coord": [
+                41.3817,
+                2.1699
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Market lunch",
+              "coord": [
+                41.3817,
+                2.1699
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gothic Quarter wander",
+              "coord": [
+                41.3851,
+                2.1776
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "El Xampanyet",
+              "coord": [
+                41.3851,
+                2.1872
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Travel to San Sebastián",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                41.3925,
+                2.1662
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hotel Akelarre",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hotel lunch",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Playa de la Concha",
+              "coord": [
+                43.3192,
+                -1.9846
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Easy family dinner",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "San Sebastián: Beach & Play",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Playa Ondarreta",
+              "coord": [
+                43.314,
+                -1.975
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach lunch",
+              "coord": [
+                43.314,
+                -1.975
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Beach rest",
+              "coord": [
+                43.314,
+                -1.975
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Afternoon beach time",
+              "coord": [
+                43.314,
+                -1.975
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "La Cuchara de San Telmo",
+              "coord": [
+                43.3184,
+                -1.9831
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "San Sebastián: Easy Pace",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Txoko Kaika",
+              "coord": [
+                43.323,
+                -1.9823
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Long afternoon rest",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Evening coastal walk",
+              "coord": [
+                43.3192,
+                -1.9846
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Simple dinner",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Travel to Málaga",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                43.317,
+                -1.8002
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Parador de Málaga Golf",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hotel lunch",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Travel rest",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach walk",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Easy dinner",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Málaga: Relax & Explore",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alcazaba",
+              "coord": [
+                36.7213,
+                -4.4187
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Alcazaba café",
+              "coord": [
+                36.7213,
+                -4.4187
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Long beach rest",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach time with kids",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "El Tintero",
+              "coord": [
+                36.7169,
+                -4.2908
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Final Beach Day & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Morning beach walk",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Last lunch",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Final rest",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Departure preparations",
+              "coord": [
+                36.6833,
+                -4.3167
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

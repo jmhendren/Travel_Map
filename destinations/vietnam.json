@@ -1,0 +1,3741 @@
+{
+  "key": "vietnam",
+  "name": "Vietnam Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇻🇳",
+  "defaultCenter": [
+    16.0,
+    107.0
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Capella Hanoi",
+      "coord": [
+        21.0252,
+        105.8542
+      ],
+      "desc": "Bill Bensley opera-house glam; central; standout dining incl. Koki/Hibana; Design ..."
+    },
+    {
+      "name": "Sofitel Legend Metropole Hanoi",
+      "coord": [
+        21.0248,
+        105.856
+      ],
+      "desc": "1901 grand dame; French Quarter; iconic bars/restaurants; History buffs; classic-l..."
+    },
+    {
+      "name": "The Legend Hanoi Hotel",
+      "coord": [
+        21.0265,
+        105.845
+      ],
+      "desc": "Modern luxury, strong location near key sights; Central stay; business & leisure"
+    },
+    {
+      "name": "Peridot Grand Luxury Boutique Hotel",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Rooftop pool/bar; walkable Old Quarter base; Boutique lovers; couples"
+    },
+    {
+      "name": "Lotte Hotel Hanoi",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Skyscraper views; multiple restaurants; big gym/spa; Views; amenities; families"
+    },
+    {
+      "name": "Chi Hotel",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Stylish boutique base; rooftop bar; Value + style"
+    },
+    {
+      "name": "Hotel de l'Opera Hanoi - MGallery",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Belle Époque interiors; central near opera house; Art/design lovers"
+    },
+    {
+      "name": "Mövenpick Hotel Hanoi (French Quarter)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Refreshed design; strong F&B; Comfort & convenience"
+    },
+    {
+      "name": "Pan Pacific Hanoi",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "West Lake setting; indoor pool; great views; Lake views; families"
+    },
+    {
+      "name": "InterContinental Hanoi Westlake",
+      "coord": [
+        21.0867,
+        105.8239
+      ],
+      "desc": "Overwater rooms; lake + pagoda views; Relaxed lake stay"
+    },
+    {
+      "name": "Aira Hanoi Hotel & Spa",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Sky bar views; spa; Old Quarter base; Couples; quick city break"
+    },
+    {
+      "name": "Meritel Hanoi",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Central boutique base with modern comforts; Boutique seekers"
+    },
+    {
+      "name": "Grand Hotel du Lac Hanoi",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Boutique charm; Old Quarter access; Style + location"
+    },
+    {
+      "name": "The Reverie Saigon",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Opulent Italian-palazzo styling; top-notch spa & dining; Ultra-luxury; couples"
+    },
+    {
+      "name": "Park Hyatt Saigon",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Colonial-era elegance; central; strong dining; Classic city luxury"
+    },
+    {
+      "name": "Hôtel des Arts Saigon – MGallery Collection",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Art-deco vibe; rooftop pool/bar; Design lovers"
+    },
+    {
+      "name": "Mia Saigon",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Riverside setting; boutique feel; Quieter base; families"
+    },
+    {
+      "name": "Mai House Saigon",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Polished modern classic; great service; Comfort + value"
+    },
+    {
+      "name": "Sheraton Saigon Grand Opera Hotel",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Prime location; skyline views; Central stay"
+    },
+    {
+      "name": "Vinpearl Landmark 81, Autograph Collection",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "In Landmark 81 tower; panoramic city views; Views; modern luxury"
+    },
+    {
+      "name": "An Lam Retreats Saigon River",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Riverside seclusion close to city; villa-style stays; Nature break; couples"
+    },
+    {
+      "name": "La Siesta Premium Saigon",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Central boutique option with polished rooms; Boutique + location"
+    },
+    {
+      "name": "InterContinental Danang Sun Peninsula Resort",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bill Bensley design; private beach; destination dining; Iconic splurge; families"
+    },
+    {
+      "name": "Banyan Tree Lang Co",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Villas with pools; lagoon & sea scenery; Beach + villas; families"
+    },
+    {
+      "name": "Anantara Hoi An Resort",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Riverside resort close to UNESCO old town; Old Town access; families"
+    },
+    {
+      "name": "Four Seasons Resort The Nam Hai",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Beachfront villas; strong wellness & dining; Families; wellness; beach"
+    },
+    {
+      "name": "TIA Wellness Resort",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Pool villas; strong spa + wellbeing programming; Wellness-first stay"
+    },
+    {
+      "name": "Namia River Retreat",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Boutique river retreat with spa focus; Wellness + design; families"
+    },
+    {
+      "name": "Boutique Hoi An Resort",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Beachfront resort with easy access to Hoi An; Families; relaxed beach base"
+    },
+    {
+      "name": "Azerai La Residence, Hue",
+      "coord": [
+        16.4637,
+        107.5909
+      ],
+      "desc": "Perfume River setting; Art Deco/colonial feel; Culture base; couples"
+    },
+    {
+      "name": "Jiva Hoa Lu Retreat",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Set in karst landscapes near Trang An; boutique hideaway; Nature + culture; wellness"
+    },
+    {
+      "name": "Anantara Quy Nhon Villas",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "All-villa resort; butler service; dramatic bays; Secluded beach escape"
+    },
+    {
+      "name": "Six Senses Ninh Van Bay",
+      "coord": [
+        12.2383,
+        109.1967
+      ],
+      "desc": "Secluded bay villas; wellness + nature; Eco-luxury; families"
+    },
+    {
+      "name": "Amanoi",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Aman serenity in Nui Chua NP; epic views; strong experiences; Wellness; splurge; f..."
+    },
+    {
+      "name": "Zannier Hotels Bãi San Hô",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Villas inspired by local styles; big beach + estate feel; Families; design lovers"
+    },
+    {
+      "name": "Six Senses Con Dao",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Remote archipelago; conservation-minded; villa stays; Nature; beach; families"
+    },
+    {
+      "name": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Whimsical Bill Bensley design; beachfront resort; Design lovers; families"
+    },
+    {
+      "name": "Regent Phu Quoc",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Large suites/villas; refined service; long-stay comfort; Beach luxury; families"
+    },
+    {
+      "name": "La Veranda Resort Phu Quoc - MGallery",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Colonial-style boutique on beach; Couples; charm"
+    },
+    {
+      "name": "The Westin Resort & Spa Cam Ranh",
+      "coord": [
+        12.2383,
+        109.1967
+      ],
+      "desc": "Big resort comforts; beach access; Families; beach"
+    },
+    {
+      "name": "Villa Le Corail, a Gran Meliá Hotel",
+      "coord": [
+        12.2383,
+        109.1967
+      ],
+      "desc": "High-end coastal stay; strong dining; Gastronomy + beach"
+    },
+    {
+      "name": "The Anam Cam Ranh",
+      "coord": [
+        12.2383,
+        109.1967
+      ],
+      "desc": "Beachfront resort with Indochine styling; Families; classic resort vibe"
+    },
+    {
+      "name": "The Anam Mui Ne",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Indochine styling; access to dunes + ruins; Families; weekend escape"
+    },
+    {
+      "name": "Azerai Ke Ga Bay",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Adrian Zecha’s minimalist escape on coast; Design lovers; couples"
+    },
+    {
+      "name": "Avana Retreat",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Mountain valley retreat with villas; outdoorsy calm; Nature; families"
+    },
+    {
+      "name": "Mia Resort Nha Trang",
+      "coord": [
+        12.2383,
+        109.1967
+      ],
+      "desc": "Design-led beachfront resort; Beach + design"
+    },
+    {
+      "name": "InterContinental Halong Bay Resort",
+      "coord": [
+        20.9101,
+        107.1839
+      ],
+      "desc": "Modern luxury base for bay cruises; Gateway to Ha Long; families"
+    },
+    {
+      "name": "Azerai Can Tho",
+      "coord": [
+        10.0379,
+        105.787
+      ],
+      "desc": "Jungle-islet retreat; easy floating-market access; Mekong base; couples"
+    },
+    {
+      "name": "Heritage Line – Ginger (Lan Ha Bay cruise)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Boutique overnight cruise through karst seascapes; Families; photographers"
+    },
+    {
+      "name": "Chen Sea Resort & Spa Phu Quoc",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Beachfront villas; boutique feel on Phu Quoc; Couples; quieter beach stay"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Gia",
+      "coord": [
+        21.0252,
+        105.8542
+      ],
+      "desc": "1* MICHELIN — seasonal 12-course Vietnamese contemporary tasting; Vietnamese Conte..."
+    },
+    {
+      "name": "Hibana by Koki",
+      "coord": [
+        21.0252,
+        105.8542
+      ],
+      "desc": "1* MICHELIN — intimate teppanyaki counter in Capella Hanoi; Teppanyaki"
+    },
+    {
+      "name": "Tầm Vị",
+      "coord": [
+        21.031,
+        105.852
+      ],
+      "desc": "1* MICHELIN — classic Vietnamese cooking in a house setting; Vietnamese"
+    },
+    {
+      "name": "Ănăn Saigon",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "1* MICHELIN — modern Vietnamese in a market-tower setting; Vietnamese Contemporary"
+    },
+    {
+      "name": "Long Trieu",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "1* MICHELIN — refined Cantonese at The Reverie Saigon; Cantonese"
+    },
+    {
+      "name": "Coco Dining",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "1* MICHELIN — inventive tasting menus (NEW in 2025); Innovative"
+    },
+    {
+      "name": "Akuna",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "1* MICHELIN — modern, technique-driven menus; Innovative"
+    },
+    {
+      "name": "CieL",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "1* MICHELIN — chef’s table experience (NEW in 2025); Innovative"
+    },
+    {
+      "name": "La Maison 1888",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "1* MICHELIN — elegant French contemporary at InterContinental Danang; French Conte..."
+    },
+    {
+      "name": "Lamai Garden",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "MICHELIN Green Star — farm-to-table, zero-waste focus (NEW in 2025); Vietnamese Co..."
+    },
+    {
+      "name": "Nén Danang",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "MICHELIN Green Star — seasonal, local ingredients, farm-to-table; Vietnamese Conte..."
+    },
+    {
+      "name": "Phở Khôi Hói",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Ngọc Chi",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Bà Đông",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Phở Bò Lâm",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Bánh Xèo 76",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Bún Bò Huế Bà Thương",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Miến Lươn Đông Thịnh",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Bò Kho Gánh",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Bánh Xèo Tôm Nhảy Cô Ba",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Bún Chả Cá 109",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Ăn Thôi",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Quán Nhân",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Bún Chả Cá Hờn",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Phở Miến Gà Kỳ Đồng",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Thìa Gỗ",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Nhà Tú",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Bánh Xèo 46A",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Mặn Mòi (Thu Duc City)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Chào Bạn",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Phở Phượng",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Bun Cha Ta (Nguyen Huu Huan St.)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Phở Hương Bình",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Phở Lệ (District 5)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Bún Chả Chan",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "The East",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Chay Garden (District 3)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vegan"
+    },
+    {
+      "name": "Phở Gia Truyền (Hoan Kiem)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Ưu Đàm",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vegetarian"
+    },
+    {
+      "name": "Cô Chủ Nhỏ",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Shamballa",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vegetarian"
+    },
+    {
+      "name": "Miến Lươn Chân Cầm (Hoan Kiem)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Hà Thành Mansion",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Quê Xưa",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Bún Bò Bà Rơi (Hai Chau)",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Bé Ni 2",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Seafood"
+    },
+    {
+      "name": "Bún Bò Huế 14B",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Phở Gà Nguyệt",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Bánh Xèo Tôm Nhảy Năm Hiền (Phan Thanh St.)",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Vị Quê Kitchen",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vegan"
+    },
+    {
+      "name": "1946 Cua Bac",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Tuyết Bún Chả 34",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Bếp Mẹ ỉn (Le Thanh Ton St.)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Phở Bò Ấu Triệu",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Hồng Phát (District 3)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Habakuk",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; European Conte..."
+    },
+    {
+      "name": "Luk Lak",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Tiệm Cơm Thố Chuyên Ký",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Cantonese"
+    },
+    {
+      "name": "Mr Bảy Miền Tây",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Phú Hồng",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Rang",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Indian"
+    },
+    {
+      "name": "Mỳ Quảng Sứa Hồng Vân",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Indian Aroma",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Indian"
+    },
+    {
+      "name": "Mậu Dịch Số 37",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Xới Cơm",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Phở Minh",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Phở Hoàng (Nguyen Tri Phuong St.)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Cơm Tấm Ba Ghiền",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Street Food"
+    },
+    {
+      "name": "Hum Garden",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vegetarian"
+    },
+    {
+      "name": "Chả Cá Thăng Long (6B Duong Thanh St.)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Cục Gạch Quán",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Vietnamese"
+    },
+    {
+      "name": "Phở Chào",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Phở 10 Lý Quốc Sư (Hoan Kiem)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Noodles"
+    },
+    {
+      "name": "Sol Kitchen & Bar (District 1)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Bib Gourmand (MICHELIN Guide) — inspectors’ pick for quality/value; Latin American"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Vietage Scenic Train (Da Nang ↔ Quy Nhon)",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Old-world luxury carriage with à la carte dining and spa-style touches; Couples; f..."
+    },
+    {
+      "name": "Hanoi Street Eats After Dark (guided)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Evening street-food crawl through Old Quarter classics; Foodies; first-timers"
+    },
+    {
+      "name": "Hidden Hanoi by Cyclo & Vintage Vespa",
+      "coord": [
+        21.033,
+        105.85
+      ],
+      "desc": "Slow cyclo + Vespa route through hidden lanes and landmarks; Families; culture lovers"
+    },
+    {
+      "name": "Thăng Long Water Puppet Show",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Traditional Northern Vietnamese water puppetry; Families; all ages"
+    },
+    {
+      "name": "Saigon Street Food Tour by Vespa",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Back-of-Vespa bites across districts after dark; Foodies; groups"
+    },
+    {
+      "name": "Four Seasons Nam Hai Cooking Academy",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Hands-on Vietnamese cooking with resort chefs; Families; foodies"
+    },
+    {
+      "name": "Hoi An Countryside Adventure on Vintage Vespas",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Ride rural lanes, crafts villages and Cam Kim Island, plus riverside lunch; Famili..."
+    },
+    {
+      "name": "Hoi An Street Food with a Local Expert",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Beyond-Old-Town food walk with insider stops; Foodies"
+    },
+    {
+      "name": "A Day in Cái Bè (Mekong Delta)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Waterways, orchards, local industries and a traditional-house lunch; Families; cul..."
+    },
+    {
+      "name": "Hanoi Evening Vespa Tour + Live Jazz",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Night ride, street eats, finish at a jazz club; Couples; music lovers"
+    },
+    {
+      "name": "Old Quarter walking loop + Hoàn Kiếm Lake",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Easy stroll for street life, temples, cafés and lake views; First-timers; families"
+    },
+    {
+      "name": "Temple of Literature (Văn Miếu)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Vietnam’s historic university complex and courtyards; History buffs; families"
+    },
+    {
+      "name": "Hỏa Lò Prison (\"Hanoi Hilton\")",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Thought-provoking museum on colonial-era prison history; History buffs"
+    },
+    {
+      "name": "Ho Chi Minh Mausoleum complex",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Iconic site with strict etiquette; pair with nearby sights; History buffs; familie..."
+    },
+    {
+      "name": "Vietnam Museum of Ethnology",
+      "coord": [
+        21.0583,
+        105.8067
+      ],
+      "desc": "Great for kids: outdoor traditional houses + exhibits; Families; culture lovers"
+    },
+    {
+      "name": "West Lake (Tây Hồ) cycling at sunset",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Flat loop, cafés, and calm water views; Families; active travelers"
+    },
+    {
+      "name": "Egg coffee + café crawl",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Sample Hanoi’s signature coffee culture; Foodies"
+    },
+    {
+      "name": "Daytime cyclo ride (short)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Gentle intro to the Old Quarter—good for toddlers with shade; Families; easy pace"
+    },
+    {
+      "name": "Tràng An scenic boat ride",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Rowboat through karst landscapes and caves; Families; photographers"
+    },
+    {
+      "name": "Tam Cốc sampan ride",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Rice paddies + limestone cliffs from the river; Families; couples"
+    },
+    {
+      "name": "Hang Múa viewpoint climb",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Short steep climb to signature panorama; Active travelers"
+    },
+    {
+      "name": "Countryside cycling between karsts",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Easy rural biking, villages and paddies; Families (older kids); active"
+    },
+    {
+      "name": "Luxury overnight cruise in Ha Long Bay",
+      "coord": [
+        20.9101,
+        107.1839
+      ],
+      "desc": "Classic limestone seascape—sunrise, caves, kayaking; Couples; families"
+    },
+    {
+      "name": "Lan Ha Bay cruise (quieter alternative)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Softer crowds; kayaking and beaches near Cat Ba; Couples; families"
+    },
+    {
+      "name": "Kayak among karsts and lagoons",
+      "coord": [
+        20.9101,
+        107.1839
+      ],
+      "desc": "Close-up exploration of caves and coves; Families (older kids); active"
+    },
+    {
+      "name": "Cat Ba Island hike",
+      "coord": [
+        20.72,
+        107.03
+      ],
+      "desc": "Jungle trails and viewpoints above the bay; Active travelers"
+    },
+    {
+      "name": "Imperial City (Citadel)",
+      "coord": [
+        16.4637,
+        107.5909
+      ],
+      "desc": "Nguyễn-era palace complex and gates; History buffs; families"
+    },
+    {
+      "name": "Royal tombs by private car/boat",
+      "coord": [
+        16.4637,
+        107.5909
+      ],
+      "desc": "Atmospheric tombs set in gardens and hills; History buffs; photographers"
+    },
+    {
+      "name": "Perfume River dragon-boat cruise (short)",
+      "coord": [
+        16.4637,
+        107.5909
+      ],
+      "desc": "Low-effort way to see river life and temples; Families"
+    },
+    {
+      "name": "Thien Mu Pagoda",
+      "coord": [
+        16.485,
+        107.578
+      ],
+      "desc": "Riverside pagoda and gardens; Families; culture lovers"
+    },
+    {
+      "name": "Hoi An Ancient Town at dusk",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Lantern-lit lanes; riverside cafés; easy stroll; Couples; families"
+    },
+    {
+      "name": "Lantern-making workshop",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Hands-on, packable souvenir; great rainy-day activity; Families; all ages"
+    },
+    {
+      "name": "Tailor-made clothing fitting",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Fast, custom tailoring—plan time for fittings; Style lovers"
+    },
+    {
+      "name": "Tra Que Vegetable Village by bike",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Cycle and meet farmers; simple, hands-on activities; Families; foodies"
+    },
+    {
+      "name": "Cam Thanh coconut forest basket boat ride",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Fun circular boats through palms; splashy and short; Families"
+    },
+    {
+      "name": "An Bang Beach day",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Easy beach reset between sightseeing; Families; downtime"
+    },
+    {
+      "name": "Marble Mountains",
+      "coord": [
+        16.0147,
+        107.1748
+      ],
+      "desc": "Caves, pagodas, viewpoints (stairs involved); Families (older kids)"
+    },
+    {
+      "name": "Bà Nà Hills + Golden Bridge",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Iconic 'giant hands' bridge and mountain park; Families; photographers"
+    },
+    {
+      "name": "Son Tra Peninsula (Lady Buddha)",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Coastal views and pagoda stop; Families"
+    },
+    {
+      "name": "War Remnants Museum",
+      "coord": [
+        10.7895,
+        106.684
+      ],
+      "desc": "Powerful modern-history museum; allow decompression time; History buffs"
+    },
+    {
+      "name": "Reunification Palace",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Key Vietnam War-era site; quick, easy visit; Families; history buffs"
+    },
+    {
+      "name": "Central Post Office + colonial landmarks",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "French-era architecture cluster in District 1; First-timers"
+    },
+    {
+      "name": "Nguyễn Huệ walking street at night",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Light, safe-feeling evening stroll with people-watching; Families"
+    },
+    {
+      "name": "Chợ Lớn (Chinatown) temples",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Temples, markets, food—great with a guide; Families (older kids)"
+    },
+    {
+      "name": "Rooftop cocktail (choose family-friendly early hour)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Skyline views—go at sunset before late crowds; Couples; parents’ date night"
+    },
+    {
+      "name": "Saigon river sunset cruise (short)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Low-effort sightseeing from the water; Families"
+    },
+    {
+      "name": "Cu Chi Tunnels day trip (by private car)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Famous wartime tunnels; choose shorter routes; Older kids/teens; history buffs"
+    },
+    {
+      "name": "Coffee workshop / tasting flight",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Vietnam’s coffee culture beyond egg coffee; Foodies"
+    },
+    {
+      "name": "Cái Răng floating market at sunrise",
+      "coord": [
+        10.0379,
+        105.787
+      ],
+      "desc": "Boat ride among wholesale sellers and breakfast boats; Families; photographers"
+    },
+    {
+      "name": "Sampan through narrow canals",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Quiet backwaters, palms, village life; Families"
+    },
+    {
+      "name": "Fruit orchards + tasting",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Seasonal tropical fruit tasting with local hosts; Families"
+    },
+    {
+      "name": "Bike small islands between ferries",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Flat routes through villages and rice fields; Active families"
+    },
+    {
+      "name": "Sapa rice-terrace trek with local guide",
+      "coord": [
+        22.3402,
+        103.8443
+      ],
+      "desc": "Classic highland trek + minority villages; Active travelers; older kids"
+    },
+    {
+      "name": "Overnight village homestay (curated)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Meaningful cultural exchange—go via vetted operators; Families (older kids); cultu..."
+    },
+    {
+      "name": "Fansipan cable car (weather permitting)",
+      "coord": [
+        22.3402,
+        103.8443
+      ],
+      "desc": "Big views with minimal effort; pack layers; Families"
+    },
+    {
+      "name": "Highland market visit (timing-dependent)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Textiles and crafts (check weekly schedule); Families; shoppers"
+    },
+    {
+      "name": "Ha Giang Loop (driver-led, curated)",
+      "coord": [
+        21.0252,
+        105.8542
+      ],
+      "desc": "Epic mountain roads—best with private driver for comfort; Adventure travelers"
+    },
+    {
+      "name": "Phong Nha-Kẻ Bàng cave boat tour",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Underground rivers and cave chambers; Families (older kids)"
+    },
+    {
+      "name": "Paradise Cave walk",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Easy boardwalk through huge stalactite chambers; Families"
+    },
+    {
+      "name": "Son Doong expedition (limited permits)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "World’s largest cave—bucket-list multi-day trek; Hardcore adventurers"
+    },
+    {
+      "name": "Phu Quoc beach day + resort pool time",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Easy tropical reset; pick calmer beaches; Families; downtime"
+    },
+    {
+      "name": "Hon Thom cable car (Phu Quoc)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Long sea cable car—great with kids who like rides; Families"
+    },
+    {
+      "name": "Island-hopping snorkel day (private boat)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Snorkeling + beach stops—go private for flexibility; Families (older kids)"
+    },
+    {
+      "name": "Con Dao nature & beaches",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Remote islands for quiet beaches and nature focus; Couples; nature lovers"
+    },
+    {
+      "name": "Dalat coffee farm tasting",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Highland coffee culture and tastings; Foodies"
+    },
+    {
+      "name": "Dalat waterfalls day (easy loop)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Short scenic stops and forest air; Families"
+    },
+    {
+      "name": "Amanoi water sports (kayak/catamaran/snorkel)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Signature Amanoi bay exploration options; Families; couples"
+    },
+    {
+      "name": "Wellness retreat programming (TIA / Amanoi / Nam Hai)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Spa-led schedules, yoga/meditation and cultural workshops; Parents; couples"
+    },
+    {
+      "name": "Hanoi train street café stop (timing varies)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Photo-worthy railside coffee—follow local rules; Adults; older kids"
+    },
+    {
+      "name": "French Quarter architecture wander",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Colonial-era avenues + cafes; Couples; photographers"
+    },
+    {
+      "name": "Hanoi Fine Arts Museum",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Vietnamese art overview in a calm space; Art lovers; families (short visit)"
+    },
+    {
+      "name": "Street photography session (private)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Guided route to markets, lanes and lake light; Photographers"
+    },
+    {
+      "name": "Cooking class in Hanoi (market-to-table)",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Shop a market then cook Northern dishes; Families; foodies"
+    },
+    {
+      "name": "Bãi Đính Pagoda complex",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Grand pagoda complex—best early/late for heat; Families"
+    },
+    {
+      "name": "Bích Động Pagoda",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Cave pagoda and karst scenery; Families"
+    },
+    {
+      "name": "Luxury picnic in countryside (curated)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Private set-up with views—operator arranged; Couples"
+    },
+    {
+      "name": "Hue royal cuisine tasting",
+      "coord": [
+        16.4637,
+        107.5909
+      ],
+      "desc": "Sample imperial-style dishes with a guide; Foodies"
+    },
+    {
+      "name": "Hoi An sunrise fish market visit",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Early-morning market energy and river boats; Photographers"
+    },
+    {
+      "name": "My Son Sanctuary half-day trip",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Champa-era temple ruins; go early for heat; History buffs; families (older kids)"
+    },
+    {
+      "name": "Da Nang Dragon Bridge weekend show",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Weekend fire/water show (schedule varies); Families"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Thăng Long Water Puppet Show",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Short cultural show; easy seated entertainment; All ages (best 2+)"
+    },
+    {
+      "name": "Cyclo ride (short loop)",
+      "coord": [
+        21.033,
+        105.85
+      ],
+      "desc": "Low-effort sightseeing; choose quieter hours; 2+"
+    },
+    {
+      "name": "Vietnam Museum of Ethnology",
+      "coord": [
+        21.0583,
+        105.8067
+      ],
+      "desc": "Outdoor traditional houses + space to roam; All ages"
+    },
+    {
+      "name": "West Lake stroll + playground stop",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Flat lakeside walk; cafés nearby; All ages"
+    },
+    {
+      "name": "Tràng An boat ride",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Gentle rowboat through caves and karsts (bring hat/sunscreen); All ages"
+    },
+    {
+      "name": "Countryside cycling (child seat/trailer)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Flat lanes and rice paddies; flexible pace; 2+"
+    },
+    {
+      "name": "Hang Múa viewpoint (optional)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Steep steps; great reward view for older kids; 8+"
+    },
+    {
+      "name": "Overnight cruise in Ha Long / Lan Ha Bay",
+      "coord": [
+        20.9101,
+        107.1839
+      ],
+      "desc": "Boat-based adventure; swimming/kayaking for older kids; All ages (choose family ca..."
+    },
+    {
+      "name": "Kayaking in calm lagoons",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Great for adventurous kids; go guided and calm weather; 8+"
+    },
+    {
+      "name": "Hoi An lantern-making workshop",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Hands-on craft + take-home souvenir; All ages"
+    },
+    {
+      "name": "Hoi An Ancient Town early evening stroll",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Lanterns and pedestrian-friendly lanes (go before bedtime crowds); All ages"
+    },
+    {
+      "name": "Basket boat ride in coconut forest",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Fun, short, splashy ride; bring change of clothes; All ages (best 3+)"
+    },
+    {
+      "name": "Tra Que vegetable village (hands-on garden)",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Meet farmers; light activities; good with toddlers; All ages"
+    },
+    {
+      "name": "An Bang Beach day",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Easy sandy beach; shade + snacks; All ages"
+    },
+    {
+      "name": "Bà Nà Hills & Golden Bridge",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Cable car, cool air; iconic bridge photos; All ages"
+    },
+    {
+      "name": "Marble Mountains (short route)",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Stairs/caves; choose easier paths; 6+"
+    },
+    {
+      "name": "Dragon Bridge weekend show",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Fun spectacle; arrive early for a spot; All ages"
+    },
+    {
+      "name": "Saigon Street Food Tour by Vespa (early family version)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Older kids love the ride; younger kids: do a shorter private tour; 8+ (or parents ..."
+    },
+    {
+      "name": "Nguyễn Huệ walking street",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Evening promenade; lots of people-watching; All ages"
+    },
+    {
+      "name": "Saigon river sunset cruise (short)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Easy sightseeing without lots of walking; All ages"
+    },
+    {
+      "name": "Reunification Palace (quick visit)",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Big rooms + tanks/grounds can keep kids engaged briefly; 6+"
+    },
+    {
+      "name": "Cái Răng floating market sunrise boat",
+      "coord": [
+        10.0379,
+        105.787
+      ],
+      "desc": "Breakfast boats; lively river scene; All ages (early start)"
+    },
+    {
+      "name": "Fruit orchard tasting stop",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Low-effort snack stop; seasonal fruits; All ages"
+    },
+    {
+      "name": "Phu Quoc beach & resort pool day",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Simplest kid win: sand + pool + early dinners; All ages"
+    },
+    {
+      "name": "Hon Thom sea cable car (Phu Quoc)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Big views; fun 'ride' for kids; All ages"
+    },
+    {
+      "name": "Amanoi family-friendly activities (crafts, sports)",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Resort-led workshops and gentle water sports; All ages"
+    },
+    {
+      "name": "Four Seasons Nam Hai cultural workshops",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Lanterns, cooking academy, crafts—great on hot afternoons; All ages"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Đồng Xuân Market",
+      "coord": [
+        21.0372,
+        105.8494
+      ],
+      "desc": "Big indoor market for clothing, souvenirs, snacks; Market"
+    },
+    {
+      "name": "Hanoi Old Quarter Weekend Night Market",
+      "coord": [
+        21.033,
+        105.85
+      ],
+      "desc": "Streetside shopping + snacks; lively weekend atmosphere; Night Market"
+    },
+    {
+      "name": "Quảng Bá Flower Market",
+      "coord": [
+        21.065,
+        105.821
+      ],
+      "desc": "Late-night/early-morning flowers; great photos; Flower Market"
+    },
+    {
+      "name": "Long Biên Market",
+      "coord": [
+        21.0285,
+        105.8542
+      ],
+      "desc": "Wholesale produce/flowers; very local; Wholesale Market"
+    },
+    {
+      "name": "Bến Thành Market",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Iconic central market; souvenirs + quick bites; Market"
+    },
+    {
+      "name": "Bình Tây Market",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Chinatown’s main market; herbs, textiles, dry goods; Market"
+    },
+    {
+      "name": "An Đông Market",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Fashion & fabrics; multi-story indoor market; Market"
+    },
+    {
+      "name": "Hồ Thị Kỷ Flower Market",
+      "coord": [
+        10.7769,
+        106.7009
+      ],
+      "desc": "Colorful flower stalls + nearby street-food lanes; Flower Market"
+    },
+    {
+      "name": "Hội An Central Market",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Fresh produce + food stalls; riverfront; Market"
+    },
+    {
+      "name": "Hội An Night Market (Nguyễn Hoàng)",
+      "coord": [
+        15.8801,
+        108.3189
+      ],
+      "desc": "Lanterns, handicrafts, street snacks; Night Market"
+    },
+    {
+      "name": "Đà Nẵng Hàn Market",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Central market for local snacks + souvenirs; Market"
+    },
+    {
+      "name": "Đà Nẵng Cồn Market",
+      "coord": [
+        16.0471,
+        107.0843
+      ],
+      "desc": "Bustling local market with strong street-food scene; Market/Food Hall"
+    },
+    {
+      "name": "Dương Đông Night Market",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "Seafood grills + souvenir stalls; Night Market"
+    },
+    {
+      "name": "Cái Răng Floating Market",
+      "coord": [
+        10.0379,
+        105.787
+      ],
+      "desc": "Classic Mekong floating market at sunrise; Floating Market"
+    },
+    {
+      "name": "Cái Bè Market Area",
+      "coord": [
+        16.0,
+        107.0
+      ],
+      "desc": "River commerce + local crafts stops; Market/Boat Stops"
+    },
+    {
+      "name": "Sapa Love Market / Weekend Market (area)",
+      "coord": [
+        22.3402,
+        103.8443
+      ],
+      "desc": "Highland crafts & textiles (seasonal/weekend); Market"
+    },
+    {
+      "name": "Chợ Đêm Nha Trang (Night Market)",
+      "coord": [
+        12.2383,
+        109.1967
+      ],
+      "desc": "Beach-town browsing + snacks; Night Market"
+    }
+  ],
+  "cityCenters": {
+    "Hanoi": [
+      21.0285,
+      105.8542,
+      15
+    ],
+    "Ho Chi Minh City": [
+      10.7769,
+      106.7009,
+      15
+    ],
+    "Da Nang": [
+      16.0471,
+      107.0843,
+      10
+    ],
+    "Hoi An": [
+      15.8801,
+      108.3189,
+      5
+    ],
+    "Hue": [
+      16.4637,
+      107.5909,
+      8
+    ],
+    "Nha Trang": [
+      12.2383,
+      109.1967,
+      8
+    ],
+    "Sa Pa": [
+      22.3402,
+      103.8443,
+      5
+    ],
+    "Ha Long": [
+      20.9101,
+      107.1839,
+      10
+    ],
+    "Haiphong": [
+      20.8448,
+      106.6835,
+      8
+    ],
+    "Can Tho": [
+      10.0379,
+      105.787,
+      8
+    ],
+    "Hoi An Ancient Town": [
+      15.8801,
+      108.3189,
+      5
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "title": "Greatest Hits",
+      "color": "#2563EB",
+      "duration": "12 days",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Hanoi - Old Quarter Exploration",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Capella Hanoi",
+              "coord": [
+                21.0252,
+                105.8542
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hanoi Old Quarter",
+              "coord": [
+                21.033,
+                105.85
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Gia",
+              "coord": [
+                21.0252,
+                105.8542
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Hanoi Heritage & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hanoian Café",
+              "coord": [
+                21.0312,
+                105.8488
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hoan Kiem Lake",
+              "coord": [
+                21.0294,
+                105.85
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Temple of Literature",
+              "coord": [
+                21.0263,
+                105.8356
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Quan An Ngon",
+              "coord": [
+                21.0261,
+                105.8381
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thăng Long Water Puppet Theatre",
+              "coord": [
+                21.0314,
+                105.8532
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hibana by Koki",
+              "coord": [
+                21.0252,
+                105.8542
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day Trip: Ha Long Bay",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Ha Long Bay",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cruise Lunch",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Cruise Dinner",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Ha Long Bay Continuation",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Cruise Breakfast",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cat Ba Island",
+              "coord": [
+                20.72,
+                107.03
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Island Lunch",
+              "coord": [
+                20.72,
+                107.03
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Sofitel Legend Metropole Hanoi",
+              "coord": [
+                21.0248,
+                105.856
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Fly to Da Nang - Beaches & Mountains",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hanoi Breakfast",
+              "coord": [
+                21.0285,
+                105.8542
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Da Nang",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Da Nang",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Da Nang Hotel",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "My Khe Beach",
+              "coord": [
+                16.0715,
+                107.2329
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Ba Na Hills Adventure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ba Na Hills",
+              "coord": [
+                15.9931,
+                107.3858
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ba Na Restaurant",
+              "coord": [
+                15.9931,
+                107.3858
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Golden Bridge",
+              "coord": [
+                15.9931,
+                107.3858
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Da Nang Dinner",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Drive to Hoi An - Ancient Town",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Da Nang Breakfast",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hoi An Ancient Town",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Ancient House Village",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hoi An Local",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Japanese Covered Bridge",
+              "coord": [
+                15.8795,
+                108.32
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hoi An Dinner",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Hoi An Markets & Waterways",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hoi An Night Market",
+              "coord": [
+                15.88,
+                108.3185
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Market Lunch",
+              "coord": [
+                15.88,
+                108.3185
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cam Thanh Coconut Forest",
+              "coord": [
+                15.892,
+                108.34
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "River Dinner",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Travel to Ho Chi Minh City",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hoi An Breakfast",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to HCMC",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Saigon Hotel",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "HCMC Welcome",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ben Thanh Market",
+              "coord": [
+                10.772,
+                106.699
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Ho Chi Minh City History",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "War Remnants Museum",
+              "coord": [
+                10.7895,
+                106.684
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "District 1 Lunch",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Independence Palace",
+              "coord": [
+                10.8018,
+                106.6927
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Central Post Office",
+              "coord": [
+                10.7799,
+                106.6971
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Saigon Dinner",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Mekong Delta Day Trip",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mekong Delta",
+              "coord": [
+                10.0379,
+                105.787
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Delta Lunch",
+              "coord": [
+                10.0379,
+                105.787
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Can Tho",
+              "coord": [
+                10.0379,
+                105.787
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "HCMC Return",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Last minute shopping",
+              "coord": [
+                10.772,
+                106.699
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Airport Transfer",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "title": "Hidden Gems & Deep Culture",
+      "color": "#059669",
+      "duration": "14 days",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Hanoi - Street Food Tour",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Essence Hanoi Hotel",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hanoi Street Eats After Dark",
+              "coord": [
+                21.033,
+                105.85
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Artisan Crafts & Hidden Neighborhoods",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Local Café",
+              "coord": [
+                21.0312,
+                105.8488
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bat Trang Pottery Village",
+              "coord": [
+                20.995,
+                105.915
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Village Lunch",
+              "coord": [
+                20.995,
+                105.915
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thanh Ha Silk Village Market",
+              "coord": [
+                20.985,
+                105.845
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Old Town Dinner",
+              "coord": [
+                21.031,
+                105.85
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "French Quarter & Museum Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "French Quarter Walking Tour",
+              "coord": [
+                21.028,
+                105.854
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Colonial Lunch",
+              "coord": [
+                21.028,
+                105.854
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Vietnam Museum of Ethnology",
+              "coord": [
+                21.0583,
+                105.8067
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Restaurant",
+              "coord": [
+                21.0285,
+                105.8542
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Ha Long Bay Luxury Cruise",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ha Long Bay",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cruise Lunch",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Floating Villages",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Cruise Dinner",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Ha Long Bay Night Experience",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Cruise Breakfast",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Midnight Kayaking",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Onboard Lunch",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Pearl Farm Visit",
+              "coord": [
+                20.9101,
+                107.1839
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Return to Hanoi",
+              "coord": [
+                21.0285,
+                105.8542
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Fly to Hue - Imperial Capital",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hanoi Breakfast",
+              "coord": [
+                21.0285,
+                105.8542
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Hue",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hue Hotel",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Hue",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Citadel",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Royal Tombs & Perfume River",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Perfume River",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "River Lunch",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thien Mu Pagoda",
+              "coord": [
+                16.485,
+                107.578
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hue Dinner",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Drive to Hoi An - Ancient Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                16.4637,
+                107.5909
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Drive to Hoi An",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hoi An Riverside Resort",
+              "coord": [
+                15.882,
+                108.322
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Specialty",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ancient Town Evening",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Cooking Class & Local Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                15.882,
+                108.322
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Vietnamese Cooking Class",
+              "coord": [
+                21.0285,
+                105.8542
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Class Lunch",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hoi An Night Market",
+              "coord": [
+                15.88,
+                108.3185
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Market Dinner",
+              "coord": [
+                15.88,
+                108.3185
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Beach & Coconut Forest Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                15.882,
+                108.322
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "My An Beach",
+              "coord": [
+                15.92,
+                108.36
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach Lunch",
+              "coord": [
+                15.92,
+                108.36
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cam Thanh Coconut Forest",
+              "coord": [
+                15.892,
+                108.34
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hoi An Dinner",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Fly to Ho Chi Minh - Urban Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                15.882,
+                108.322
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to HCMC",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "District 1 Hotel",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "HCMC Lunch",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dong Khoi Street",
+              "coord": [
+                10.78,
+                106.7
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "War History & Street Food Scene",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "War Remnants Museum",
+              "coord": [
+                10.7895,
+                106.684
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Noodles",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Nguyen Hue Walking Street",
+              "coord": [
+                10.779,
+                106.703
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Street Food Tour",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Cu Chi Tunnels or Floating Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Floating Markets Tour",
+              "coord": [
+                10.0379,
+                105.787
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Delta Lunch",
+              "coord": [
+                10.0379,
+                105.787
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Local Village",
+              "coord": [
+                10.0379,
+                105.787
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "HCMC Return Dinner",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Departure - Last Minute Shopping",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ben Thanh Market Shopping",
+              "coord": [
+                10.772,
+                106.699
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Bitexco Sky Bar",
+              "coord": [
+                10.7615,
+                106.7018
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Airport Transfer",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "title": "Slow Family Pace",
+      "color": "#D97706",
+      "duration": "10 days",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Hanoi - Settle In",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hanoi La Siesta Hotel & Spa",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Welcome Lunch",
+              "coord": [
+                21.0285,
+                105.8542
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest from Travel",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Light Dinner",
+              "coord": [
+                21.031,
+                105.85
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Easy Hanoi - Lakes & Temples",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hoan Kiem Lake",
+              "coord": [
+                21.0294,
+                105.85
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lakeside Lunch",
+              "coord": [
+                21.0294,
+                105.85
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Rest",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Temple of Literature",
+              "coord": [
+                21.0263,
+                105.8356
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Relaxed Dinner",
+              "coord": [
+                21.031,
+                105.85
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Old Quarter Gentle Stroll",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hanoi Old Quarter Walking",
+              "coord": [
+                21.033,
+                105.85
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Street Food Lunch",
+              "coord": [
+                21.033,
+                105.85
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Nap",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thăng Long Water Puppet Theatre",
+              "coord": [
+                21.0314,
+                105.8532
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casual Dinner",
+              "coord": [
+                21.031,
+                105.85
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Fly to Da Nang - Beach Relax",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                21.0315,
+                105.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Da Nang",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Da Nang Beach Hotel",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Arrival Lunch",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "My Khe Beach Sunset",
+              "coord": [
+                16.0715,
+                107.2329
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Beach Days & Marble Mountains",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "My Khe Beach Morning",
+              "coord": [
+                16.0715,
+                107.2329
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beachfront Lunch",
+              "coord": [
+                16.0715,
+                107.2329
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Long Rest",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marble Mountains",
+              "coord": [
+                16.0147,
+                107.1748
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sunset Dinner",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Drive to Hoi An - Slow Pace",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                16.0471,
+                107.0843
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Leisurely Drive to Hoi An",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hoi An Historic Hotel",
+              "coord": [
+                15.8805,
+                108.3195
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Arrival Lunch",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest",
+              "coord": [
+                15.8805,
+                108.3195
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gentle Ancient Town Walk",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Hoi An River & Lanterns",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                15.8805,
+                108.3195
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thu Bon River Stroll",
+              "coord": [
+                15.885,
+                108.31
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Riverside Lunch",
+              "coord": [
+                15.885,
+                108.31
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Rest",
+              "coord": [
+                15.8805,
+                108.3195
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Japanese Bridge Evening",
+              "coord": [
+                15.8795,
+                108.32
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lantern Night Dinner",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Hoi An Markets & Relaxation",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                15.8805,
+                108.3195
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hoi An Night Market",
+              "coord": [
+                15.88,
+                108.3185
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Market Lunch",
+              "coord": [
+                15.88,
+                108.3185
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Long Rest",
+              "coord": [
+                15.8805,
+                108.3195
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Spa Afternoon",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Relaxed Dinner",
+              "coord": [
+                15.8801,
+                108.3189
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Fly to Ho Chi Minh - Final Days",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                15.8805,
+                108.3195
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to HCMC",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "HCMC Luxury Hotel",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "HCMC Lunch",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Settling Rest",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ben Thanh Market Evening",
+              "coord": [
+                10.772,
+                106.699
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Departure & Memories",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Light Shopping",
+              "coord": [
+                10.772,
+                106.699
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Leisurely Lunch",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Bitexco View",
+              "coord": [
+                10.7615,
+                106.7018
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Airport Transfer",
+              "coord": [
+                10.7769,
+                106.7009
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

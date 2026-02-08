@@ -1,0 +1,3462 @@
+{
+  "key": "portugal",
+  "name": "Portugal Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇵🇹",
+  "defaultCenter": [
+    39.5,
+    -8.0
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Vila Vita Parc Resort & Spa",
+      "coord": [
+        37.105,
+        -8.388
+      ],
+      "desc": "Clifftop setting; private beach; gardens & multiple pools; 12 restaurants inc..."
+    },
+    {
+      "name": "Penha Longa Resort",
+      "coord": [
+        38.82,
+        -9.47
+      ],
+      "desc": "Set in Sintra-Cascais Nature Reserve; big pools; family programming; on-site ..."
+    },
+    {
+      "name": "Vila Joya",
+      "coord": [
+        37.08,
+        -8.35
+      ],
+      "desc": "Iconic cliffside stay; 2★ dining; intimate rooms; easy access to beaches"
+    },
+    {
+      "name": "Les Suites at The Cliff Bay - PortoBay",
+      "coord": [
+        32.75,
+        -17.0
+      ],
+      "desc": "Oceanfront suites; refined service; access to PortoBay facilities; ideal base..."
+    },
+    {
+      "name": "Reid's Palace, A Belmond Hotel, Madeira",
+      "coord": [
+        32.635,
+        -16.98
+      ],
+      "desc": "Historic Belmond property; lush gardens; sea views; strong family service"
+    },
+    {
+      "name": "The Reserve Hotel",
+      "coord": [
+        38.8,
+        -9.42
+      ],
+      "desc": "Top floors with panoramic views; modern luxury; concierge-led experiences"
+    },
+    {
+      "name": "Six Senses Douro Valley",
+      "coord": [
+        41.155,
+        -7.505
+      ],
+      "desc": "Vineyard valley setting; standout spa; curated tastings; family-friendly expe..."
+    },
+    {
+      "name": "Four Seasons Hotel Ritz Lisbon",
+      "coord": [
+        38.723,
+        -9.155
+      ],
+      "desc": "Classic 5★ service; rooftop running track; large rooms; central for sights"
+    },
+    {
+      "name": "Vermelho Melides",
+      "coord": [
+        38.26,
+        -8.795
+      ],
+      "desc": "Christian Louboutin-designed; art-and-tile maximalism; small scale; close to ..."
+    },
+    {
+      "name": "Torre de Palma Wine Hotel",
+      "coord": [
+        38.48,
+        -7.92
+      ],
+      "desc": "Vineyard estate; tastings & horseback riding; suites for families; relaxed lu..."
+    },
+    {
+      "name": "Bela Vista Hotel & Spa",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Historic pink palace; direct beach access; 1★ Vista restaurant; intimate spa"
+    },
+    {
+      "name": "Vidago Palace",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Gilded-era palace; thermal spa; golf; great stop between Porto & Douro/Gerês"
+    },
+    {
+      "name": "Quinta do Paral",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Vineyard modernism; tastings & cellar visits; calm, rural setting"
+    },
+    {
+      "name": "The Lince Santa Clara",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Historic monastery setting; easy Porto access; serene courtyards; great for a..."
+    },
+    {
+      "name": "Vinha Boutique Hotel",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Stylish interiors; by-the-river setting; 1★ Vinha restaurant on-site"
+    },
+    {
+      "name": "Areias do Seixo Hotel",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Sustainable architecture; dramatic dunes; fireplaces & spa"
+    },
+    {
+      "name": "Herdade da Malhadinha Nova",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Vineyard stays; pool; estate dining; family-friendly activities"
+    },
+    {
+      "name": "Quinta São Jose do Barrilario Douro Wine Hotel e Spa",
+      "coord": [
+        41.155,
+        -7.505
+      ],
+      "desc": "Douro panoramas; spa; tastings; ideal for slow days"
+    },
+    {
+      "name": "Sublime Comporta",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Pine forest setting; spa; beach access nearby; stylish villas"
+    },
+    {
+      "name": "Aethos Ericeira",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Clifftop views; easy surf access; relaxed, modern design"
+    },
+    {
+      "name": "3HB Faro",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Rooftop pool; walkable old town; good for early flights"
+    },
+    {
+      "name": "Salvaterra Country House & SPA",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Off-the-beaten-path spa; tranquil grounds; easy access from Lisbon"
+    },
+    {
+      "name": "Quinta da Casa Branca",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Lush subtropical gardens; peaceful; close to town"
+    },
+    {
+      "name": "Savoy Palace",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Large resort-style amenities; strong sea views; kids welcome"
+    },
+    {
+      "name": "Spatia Comporta",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Apartment/villa layouts; pools; easy for kids & naps"
+    },
+    {
+      "name": "The Wine House Hotel - Quinta da Pacheca",
+      "coord": [
+        41.155,
+        -7.505
+      ],
+      "desc": "Vineyard activities; iconic barrel suites; tastings"
+    },
+    {
+      "name": "Art Legacy Hotel Baixa-Chiado",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Central for sightseeing; small luxury feel"
+    },
+    {
+      "name": "Bairro Alto Hotel",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Prime location; rooftop views; polished contemporary classic"
+    },
+    {
+      "name": "Brown's Avenue Hotel",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Stylish rooms; central boulevard location"
+    },
+    {
+      "name": "Palácio Ludovice Wine Experience Hotel",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Historic palace; wine spa; near Príncipe Real"
+    },
+    {
+      "name": "Santiago de Alfama - Boutique Hotel",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Old-town atmosphere; great for wandering Alfama"
+    },
+    {
+      "name": "Sublime Lisboa",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Intimate scale; refined service; walkable"
+    },
+    {
+      "name": "The One Palácio da Anunciada",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Palatial interiors; garden pool; central transport links"
+    },
+    {
+      "name": "Pousada de Lisboa, Praça do Comércio",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Unbeatable location; grand public spaces; easy access to riverfront"
+    },
+    {
+      "name": "Casa das Penhas Douradas",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Fireplaces; forest trails; great in cooler months"
+    },
+    {
+      "name": "Casa de São Lourenço",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Dramatic valley views; modern rooms; trail access"
+    },
+    {
+      "name": "Quinta de São Bernardo Winery & Farmhouse",
+      "coord": [
+        41.155,
+        -7.505
+      ],
+      "desc": "Boutique vineyard stay; tastings; relaxed pool"
+    },
+    {
+      "name": "São Lourenço do Barrocal",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Working estate; bikes & stables; huge skies; close to Monsaraz"
+    },
+    {
+      "name": "Torel Quinta da Vacaria - Douro Valley",
+      "coord": [
+        41.155,
+        -7.505
+      ],
+      "desc": "Douro terraces; refined service; special-occasion feel"
+    },
+    {
+      "name": "White Exclusive Suite & Villas",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Oceanfront pool; private villas; great island base"
+    },
+    {
+      "name": "GA Palace Hotel & Spa",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Restored townhouse; spa; central but calm"
+    },
+    {
+      "name": "Hotel Torel Avantgarde",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Art-led interiors; great vistas; good for food & wine trips"
+    },
+    {
+      "name": "Maison Albar - Le Monumental Palace",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Belle Époque glamour; spa; walk to São Bento & Ribeira"
+    },
+    {
+      "name": "PortoBay Flores",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Historic building; pool/spa; very central"
+    },
+    {
+      "name": "Torel 1884",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Riverside location; stylish rooms"
+    },
+    {
+      "name": "Torel Palace Porto",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Historic details; stylish common spaces"
+    },
+    {
+      "name": "Vila Foz Hotel & SPA",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Oceanfront; spa; easy tram into center"
+    },
+    {
+      "name": "Quinta de Silvalde",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Rural calm; elegant rooms; good for northern road trips"
+    },
+    {
+      "name": "Casas da Lapa, Nature & Spa Hotel",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Small-scale; spa; mountain hikes nearby"
+    },
+    {
+      "name": "The Yeatman",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Iconic views over Porto; renowned wine program; 2★ restaurant"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Belcanto",
+      "coord": [
+        38.71,
+        -9.14
+      ],
+      "desc": "Flagship tasting menu by José Avillez; book well ahead"
+    },
+    {
+      "name": "Alma (Henrique Sá Pessoa)",
+      "coord": [
+        38.705,
+        -9.138
+      ],
+      "desc": "Elegant, inventive Portuguese cuisine; tasting menus; strong service"
+    },
+    {
+      "name": "Ocean",
+      "coord": [
+        37.105,
+        -8.388
+      ],
+      "desc": "Destination dining at Vila Vita Parc; seafood-forward tasting"
+    },
+    {
+      "name": "Vila Joya (Restaurant)",
+      "coord": [
+        37.08,
+        -8.35
+      ],
+      "desc": "Legendary coastal fine dining; special-occasion menus"
+    },
+    {
+      "name": "The Yeatman Gastronomic Restaurant",
+      "coord": [
+        41.145,
+        -8.615
+      ],
+      "desc": "Douro panoramas + wine program; book sunset tables"
+    },
+    {
+      "name": "Antiqvvm",
+      "coord": [
+        38.915,
+        -9.505
+      ],
+      "desc": "Contemporary tasting in a villa above the Douro; garden terrace"
+    },
+    {
+      "name": "Casa de Chá da Boa Nova",
+      "coord": [
+        41.128,
+        -8.665
+      ],
+      "desc": "Iconic cliffside tea house by Siza Vieira; Atlantic views"
+    },
+    {
+      "name": "Il Gallo d'Oro",
+      "coord": [
+        32.635,
+        -16.98
+      ],
+      "desc": "Madeira’s top table; polished tasting menus"
+    },
+    {
+      "name": "Palatial",
+      "coord": [
+        38.71,
+        -9.135
+      ],
+      "desc": "Modern tasting menus; refined service"
+    },
+    {
+      "name": "YŌSO",
+      "coord": [
+        41.138,
+        -8.628
+      ],
+      "desc": "Sushi/omakase-style experience; sleek setting"
+    },
+    {
+      "name": "Vila Foz",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Ocean-facing fine dining at Vila Foz Hotel & Spa"
+    },
+    {
+      "name": "Al Sud",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Contemporary Algarve flavors; elegant tasting"
+    },
+    {
+      "name": "EPUR",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Michelin-star dining with terrace; modern techniques"
+    },
+    {
+      "name": "Vista",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Sea views + refined tasting at Bela Vista Hotel & Spa"
+    },
+    {
+      "name": "Fifty Seconds",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "High-rise dining with city views; special-occasion menus"
+    },
+    {
+      "name": "A Ver Tavira",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Seasonal Algarve ingredients; intimate room"
+    },
+    {
+      "name": "Midori",
+      "coord": [
+        38.8004,
+        -9.389
+      ],
+      "desc": "Sintra destination; Japanese fine dining at Penha Longa"
+    },
+    {
+      "name": "Eleven",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Polished tasting menus; excellent wine pairing"
+    },
+    {
+      "name": "G Pousada",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Destination tasting in the northeast; local inspiration"
+    },
+    {
+      "name": "Kanazawa",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Sushi-focused; book ahead"
+    },
+    {
+      "name": "William",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Elegant Madeira dining at Reid’s Palace"
+    },
+    {
+      "name": "Loco",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Chef Alexandre Silva’s creative tasting; intimate vibe"
+    },
+    {
+      "name": "Herdade do Esporão",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Estate-to-table at a leading winery; great lunch stop"
+    },
+    {
+      "name": "Desarma",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Refined contemporary plates; standout service"
+    },
+    {
+      "name": "Vinha",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "On-site at Vinha Boutique Hotel; modern Portuguese"
+    },
+    {
+      "name": "Blind",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Tasting-menu theatre; reservations essential"
+    },
+    {
+      "name": "Grenache",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Elegant French-led tasting; strong cellar"
+    },
+    {
+      "name": "Ó Balcão",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Counter-style small plates; great value"
+    },
+    {
+      "name": "SÁLA de João Sá",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Chef João Sá’s seasonal tasting; intimate room"
+    },
+    {
+      "name": "Lab by Sergi Arola",
+      "coord": [
+        38.8004,
+        -9.389
+      ],
+      "desc": "Penha Longa fine dining; celebratory menus"
+    },
+    {
+      "name": "Oculto",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Modern tasting in a monastery setting"
+    },
+    {
+      "name": "Gusto by Heinz Beck",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Fine dining at Conrad Algarve; polished tasting"
+    },
+    {
+      "name": "Euskalduna Studio",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Chef Vasco Coelho Santos; inventive tasting"
+    },
+    {
+      "name": "Pedro Lemos",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Seasonal tasting; relaxed yet refined"
+    },
+    {
+      "name": "Feitoria",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Signature tasting in Belém at Altis Belém"
+    },
+    {
+      "name": "Fortaleza do Guincho",
+      "coord": [
+        38.6847,
+        -9.42
+      ],
+      "desc": "Atlantic-front fortress; pair with coastal drive"
+    },
+    {
+      "name": "A Cozinha",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Smart tasting menus in a historic city"
+    },
+    {
+      "name": "CURA",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Fine dining at Four Seasons Ritz; excellent pairings"
+    },
+    {
+      "name": "Mesa de Lemos",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Architectural winery dining; destination detour"
+    },
+    {
+      "name": "Le Monument",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Glamorous room at Le Monumental Palace; tasting menus"
+    },
+    {
+      "name": "Bon Bon",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Destination fine dining near Carvoeiro"
+    },
+    {
+      "name": "Marlene",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Chef-led tasting; contemporary setting"
+    },
+    {
+      "name": "Kabuki Lisboa",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Elegant Japanese/ibérico influences; book ahead"
+    },
+    {
+      "name": "2Monkeys",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Small counter-style fine dining; limited seats"
+    },
+    {
+      "name": "Encanto",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Plant-forward tasting by José Avillez; seasonal"
+    },
+    {
+      "name": "Canalha",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Seasonal small plates; lively room"
+    },
+    {
+      "name": "Machado",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Classic Portuguese cooking; great value"
+    },
+    {
+      "name": "Marquês de Marialva",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Regional classics; strong value"
+    },
+    {
+      "name": "Flora",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Modern plates with local ingredients"
+    },
+    {
+      "name": "Pátio 44",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Petiscos & classics; budget-friendly"
+    },
+    {
+      "name": "PODA",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Alentejo comfort food; local products"
+    },
+    {
+      "name": "OMA",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Modern bistro cooking; easy reservation"
+    },
+    {
+      "name": "Terruja",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Inventive cooking; worth a detour"
+    },
+    {
+      "name": "Camelo",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Northern Portuguese specialties"
+    },
+    {
+      "name": "Tasquinha da Linda",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Fresh seafood; local favorite"
+    },
+    {
+      "name": "Solar do Forcado",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Hearty regional dishes; great for families"
+    },
+    {
+      "name": "O Típico",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Classic Portuguese; strong value"
+    },
+    {
+      "name": "Dóri",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Seafood-focused; easy coastal pairing"
+    },
+    {
+      "name": "Casal da Penha",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Madeiran classics; consistent quality"
+    },
+    {
+      "name": "O Javali",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Wild-game & regional dishes"
+    },
+    {
+      "name": "Contradição",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Regional classics; good wine list"
+    },
+    {
+      "name": "Solar do Bacalhau",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Bacalhau-focused menu; casual"
+    },
+    {
+      "name": "Xtoria",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Modern cooking; great with coastal day trip"
+    },
+    {
+      "name": "Casa Chef Victor Felisberto",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Meat-led cooking; hearty portions"
+    },
+    {
+      "name": "3 Pipos",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Regional cuisine; good local wines"
+    },
+    {
+      "name": "Pigmeu",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Modern petiscos; good for groups"
+    },
+    {
+      "name": "Inato Bistrô",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Modern bistro; good value"
+    },
+    {
+      "name": "Olaias",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Coastal Portuguese cooking; relaxed"
+    },
+    {
+      "name": "Carnal",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Modern Mexican; lively scene"
+    },
+    {
+      "name": "Norma",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Creative bistro; easy pairing with sightseeing"
+    },
+    {
+      "name": "Zunzum Gastrobar",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Gastrobar energy; cocktails + plates"
+    },
+    {
+      "name": "Ofício - Wine & Dining Room",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Classic cooking with a strong wine focus"
+    },
+    {
+      "name": "Prado",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Seasonal local ingredients; book ahead"
+    },
+    {
+      "name": "Cervejaria Ramiro",
+      "coord": [
+        38.815,
+        -9.105
+      ],
+      "desc": "Legendary shellfish spot; go early or expect a line"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Ride Tram 28 + hop off at miradouros",
+      "coord": [
+        38.725,
+        -9.133
+      ],
+      "desc": "Classic route through historic neighborhoods; use as transport + viewpoints"
+    },
+    {
+      "name": "São Jorge Castle",
+      "coord": [
+        38.7139,
+        -9.1334
+      ],
+      "desc": "Ramparts, peacocks, big city views; go early for fewer crowds"
+    },
+    {
+      "name": "Alfama stroll + Fado (early show)",
+      "coord": [
+        38.722,
+        -9.125
+      ],
+      "desc": "Alfama lanes; choose an early show for easier bedtime with kids"
+    },
+    {
+      "name": "Belém: Jerónimos Monastery",
+      "coord": [
+        38.698,
+        -9.208
+      ],
+      "desc": "Masterpiece of Manueline architecture; pair with riverside walk"
+    },
+    {
+      "name": "Belém: Torre de Belém riverside visit",
+      "coord": [
+        38.692,
+        -9.216
+      ],
+      "desc": "Iconic riverside tower; best light late afternoon"
+    },
+    {
+      "name": "MAAT (Museum of Art, Architecture and Technology)",
+      "coord": [
+        38.6925,
+        -9.205
+      ],
+      "desc": "Striking building + waterfront; good with stroller"
+    },
+    {
+      "name": "Museu Nacional do Azulejo (Tile Museum)",
+      "coord": [
+        38.77,
+        -9.098
+      ],
+      "desc": "Portugal’s tile history; easy, colorful for kids; consider a tile workshop"
+    },
+    {
+      "name": "Calouste Gulbenkian Museum & gardens",
+      "coord": [
+        38.735,
+        -9.145
+      ],
+      "desc": "World-class collection; calm gardens for toddler breaks"
+    },
+    {
+      "name": "LX Factory browsing + lunch",
+      "coord": [
+        38.722,
+        -9.138
+      ],
+      "desc": "Creative complex with cafés, shops, bookstores"
+    },
+    {
+      "name": "Sunset at Miradouro da Senhora do Monte",
+      "coord": [
+        38.728,
+        -9.12
+      ],
+      "desc": "One of the best sunset viewpoints; bring snacks"
+    },
+    {
+      "name": "Tagus River sunset sail or private boat",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Golden-hour views of bridges and waterfront; private options available"
+    },
+    {
+      "name": "Oceanário de Lisboa",
+      "coord": [
+        38.6618,
+        -9.0857
+      ],
+      "desc": "Massive central tank; easy stroller day; indoor option"
+    },
+    {
+      "name": "Pavilhão do Conhecimento (science museum)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Interactive exhibits; great rainy-day family activity"
+    },
+    {
+      "name": "Lisbon Zoo",
+      "coord": [
+        38.765,
+        -9.105
+      ],
+      "desc": "Shady paths; easy half-day with little ones"
+    },
+    {
+      "name": "Tram ride to Estrela + Jardim da Estrela playground",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Excellent playground + lawn for picnics and naps"
+    },
+    {
+      "name": "Convento do Carmo & lift viewpoint",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Open-air Gothic ruins; pair with nearby viewpoints"
+    },
+    {
+      "name": "Time Out Market tasting circuit",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "One-stop dining with multiple counters; easiest with kids"
+    },
+    {
+      "name": "Pastel de nata crawl (Belém + Manteigaria)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Compare iconic custard tarts; kid-friendly snack stops"
+    },
+    {
+      "name": "Day trip: Sintra palaces (Pena + Quinta da Regaleira)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Fairytale palaces and gardens; start early; consider driver for naps"
+    },
+    {
+      "name": "Day trip: Cascais seaside + Boca do Inferno",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Easy train ride; beaches, promenade, dramatic cliffs"
+    },
+    {
+      "name": "Day trip: Cabo da Roca + Sintra coast drive",
+      "coord": [
+        38.8004,
+        -9.389
+      ],
+      "desc": "Westernmost point; dramatic cliffs; pair with lunch in Colares"
+    },
+    {
+      "name": "Day trip: Arrábida beaches + Setúbal seafood",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Calm coves; fresh fish; best with car/driver"
+    },
+    {
+      "name": "Day trip: Évora (UNESCO)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Roman Temple, cathedral, whitewashed lanes; good for older kids"
+    },
+    {
+      "name": "Private food tour of petiscos + wine",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Guided tastings; helpful for navigating reservations and neighborhoods"
+    },
+    {
+      "name": "Ribeira waterfront stroll",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Colorful riverfront; great at golden hour; easy with stroller"
+    },
+    {
+      "name": "Livraria Lello (timed entry)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Iconic interiors; book tickets in advance"
+    },
+    {
+      "name": "Clérigos Tower climb",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Best panoramic city views; avoid mid-day crowds"
+    },
+    {
+      "name": "São Bento Station azulejo panels",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Quick stop for tile murals; easy for kids"
+    },
+    {
+      "name": "Port wine lodge tour + tasting",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Choose a top lodge; daytime tastings are calmer"
+    },
+    {
+      "name": "Douro River 6-bridge cruise (short)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Easy 50-minute cruise; good for toddlers"
+    },
+    {
+      "name": "Serralves Museum & park",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Modern art museum with huge park and treetop walk vibes"
+    },
+    {
+      "name": "Foz do Douro seaside tram + beach time",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Tram to the ocean; cafés; stroller-friendly promenade"
+    },
+    {
+      "name": "Bolhão Market visit",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Classic market for snacks and gifts; go morning"
+    },
+    {
+      "name": "World of Discoveries (interactive museum)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Hands-on exploration theme; great rainy-day option"
+    },
+    {
+      "name": "Day trip: Douro Valley winery day",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Quintas, tastings, river views; private driver best"
+    },
+    {
+      "name": "Day trip: Braga & Bom Jesus do Monte",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Funicular + gardens; easy with older kids"
+    },
+    {
+      "name": "Day trip: Guimarães historic center",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Medieval streets + castle; compact and walkable"
+    },
+    {
+      "name": "Day trip: Aveiro canals + Costa Nova stripes",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Canal boats; colorful houses; beach air"
+    },
+    {
+      "name": "Casa da Música tour or concert",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Iconic contemporary building; check concert calendar"
+    },
+    {
+      "name": "Francesinha tasting (classic Porto dish)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Go hungry; pair with local beer; kid portions possible"
+    },
+    {
+      "name": "Surf lesson in Matosinhos",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Easy access surf beach; good coaching options"
+    },
+    {
+      "name": "Coastal drive: Costa Verde beaches",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Wide beaches and seafood stops; flexible pacing"
+    },
+    {
+      "name": "Peneda-Gerês National Park day hike",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Waterfalls and trails; choose easy routes for kids"
+    },
+    {
+      "name": "Porto street-art walk (guided)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Modern side of Porto; great for slower afternoons"
+    },
+    {
+      "name": "Douro Line scenic train ride",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "One of Europe’s prettiest rail routes; perfect low-effort views"
+    },
+    {
+      "name": "Gaia cable car to Jardim do Morro sunset",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Easy cable car; postcard views over Porto at sunset"
+    },
+    {
+      "name": "Palácio da Bolsa (Stock Exchange Palace)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Lavish rooms; book a guided visit"
+    },
+    {
+      "name": "Casa do Infante museum",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Compact museum in Ribeira; easy add-on"
+    },
+    {
+      "name": "Benagil sea cave boat/kayak (weather-dependent)",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Iconic sea cave; go early; choose reputable operator"
+    },
+    {
+      "name": "Ponta da Piedade cliffs",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Dramatic cliffs and boardwalks; stroller sections possible"
+    },
+    {
+      "name": "Algarve beach day: Praia da Marinha",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "One of Portugal’s most beautiful beaches; pack snacks"
+    },
+    {
+      "name": "Zoomarine Algarve (theme park + shows)",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Big family day with pools and shows; book in peak season"
+    },
+    {
+      "name": "Ria Formosa boat trip",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Lagoon islands and wildlife; gentle boat ride"
+    },
+    {
+      "name": "Alentejo: Évora UNESCO walking day",
+      "coord": [
+        38.6649,
+        -7.902
+      ],
+      "desc": "Cathedral + Roman temple + local dining; great shoulder season"
+    },
+    {
+      "name": "Monsaraz hilltop village at sunset",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Whitewashed village + Alqueva lake views; magical at golden hour"
+    },
+    {
+      "name": "Alqueva Dark Sky stargazing",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "One of Europe’s best dark-sky zones; book guided stargazing"
+    },
+    {
+      "name": "Comporta beach + rice fields",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Low-key beaches; relaxed dining; easy day trip or overnight"
+    },
+    {
+      "name": "Melides design detour (Vermelho + village)",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Boutique village + design-forward hotel scene"
+    },
+    {
+      "name": "Cork forest visit / workshop",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Learn how cork is harvested and used; kid-friendly curiosity"
+    },
+    {
+      "name": "Portuguese cooking class (petiscos or seafood)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Hands-on class; good for rainy day; choose central studios"
+    },
+    {
+      "name": "Surf day in Ericeira",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "World Surf Reserve vibe; lessons + cafés"
+    },
+    {
+      "name": "Horseback riding in Alentejo",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Gentle rides through countryside; book private for kids"
+    },
+    {
+      "name": "Drive the Vicentina Coast + Fishermen’s Trail sections",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Clifftop trails and wild beaches; pick short segments"
+    },
+    {
+      "name": "Madeira cable car to Monte + toboggan ride",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Cable car views; classic wicker toboggan ride (older kids best)"
+    },
+    {
+      "name": "Levada walk (easy, guided)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Choose flatter levadas for kids; guided hikes simplify logistics"
+    },
+    {
+      "name": "Madeira botanical gardens",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Easy half-day; colorful plants; stroller-friendly areas"
+    },
+    {
+      "name": "Azores whale watching",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Prime Atlantic whale/dolphin waters; pick reputable operators"
+    },
+    {
+      "name": "Sete Cidades crater lakes viewpoints",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Miradouros and short walks; easy by rental car"
+    },
+    {
+      "name": "Furnas hot springs & geothermal cooking",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Hot springs soak; try cozido cooked in geothermal soil"
+    },
+    {
+      "name": "Pico island: vineyard landscape (UNESCO)",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Volcanic stone-walled vineyards; unique terroir"
+    },
+    {
+      "name": "Madeira day: coastal viewpoints + poncha tasting",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Dramatic viewpoints; local drink; flexible itinerary"
+    },
+    {
+      "name": "Porto Santo beach day (from Madeira)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Long sandy beach; calmer water; ferry day trip"
+    },
+    {
+      "name": "Dolphin/boat day on the Tagus (private)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Private cruise options; keep it short for toddlers"
+    },
+    {
+      "name": "Day trip: Óbidos medieval walled town",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Walk the ramparts; try ginjinha in a chocolate cup (adults)"
+    },
+    {
+      "name": "Day trip: Nazaré cliffs + beach (seasonal big waves)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Funicular + viewpoints; winter wave season is dramatic"
+    },
+    {
+      "name": "Day trip: Tomar & Convent of Christ (UNESCO)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Templar history; stunning cloisters; manageable as a day trip"
+    },
+    {
+      "name": "Coimbra University & Joanina Library (timed entry)",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Historic university complex; book timed slots for the library"
+    },
+    {
+      "name": "Lisbon Doll Hospital (Hospital de Bonecas)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Charming stop for little ones; short and sweet"
+    },
+    {
+      "name": "Museu da Marioneta (Puppet Museum)",
+      "coord": [
+        38.715,
+        -9.132
+      ],
+      "desc": "Puppets and theatrical history; good for toddlers and older kids"
+    },
+    {
+      "name": "Coasteering / sea cliffs adventure",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Swim, scramble and jump into coves (age limits apply)"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Oceanário de Lisboa",
+      "coord": [
+        38.6618,
+        -9.0857
+      ],
+      "desc": "Huge central tank; stroller-friendly; easy half-day"
+    },
+    {
+      "name": "Pavilhão do Conhecimento",
+      "coord": [
+        38.7608,
+        -9.0915
+      ],
+      "desc": "Interactive exhibits; great rainy-day plan"
+    },
+    {
+      "name": "Jardim da Estrela playground",
+      "coord": [
+        38.722,
+        -9.148
+      ],
+      "desc": "Great playground + lawns for picnics and downtime"
+    },
+    {
+      "name": "Lisbon Zoo",
+      "coord": [
+        38.765,
+        -9.105
+      ],
+      "desc": "Shady paths; easy to pace around nap times"
+    },
+    {
+      "name": "Tagus River short cruise",
+      "coord": [
+        38.7068,
+        -9.1453
+      ],
+      "desc": "Low-effort sightseeing; choose 45–60 min for toddlers"
+    },
+    {
+      "name": "Tram ride (short hop, not full loop)",
+      "coord": [
+        38.725,
+        -9.133
+      ],
+      "desc": "Pick 2–3 stops for the ‘fun ride’ without meltdowns"
+    },
+    {
+      "name": "Museu Nacional do Azulejo (tile museum)",
+      "coord": [
+        38.7223,
+        -9.1393
+      ],
+      "desc": "Colorful tiles; calm galleries; possible workshops"
+    },
+    {
+      "name": "Hospital de Bonecas (Doll Hospital)",
+      "coord": [
+        38.718,
+        -9.13
+      ],
+      "desc": "Quick, charming stop; easy for short attention spans"
+    },
+    {
+      "name": "Museu da Marioneta (Puppet Museum)",
+      "coord": [
+        38.715,
+        -9.132
+      ],
+      "desc": "Puppets + theatre history; short visit works well"
+    },
+    {
+      "name": "Belém riverside bike/scooter time",
+      "coord": [
+        38.695,
+        -9.205
+      ],
+      "desc": "Flat riverside path; rent bikes/child seats; playground stops"
+    },
+    {
+      "name": "Sintra: Pena Palace gardens focus",
+      "coord": [
+        38.8004,
+        -9.389
+      ],
+      "desc": "Colorful palace + gardens; plan a shorter route for little legs"
+    },
+    {
+      "name": "Cascais beach + promenade",
+      "coord": [
+        38.6847,
+        -9.42
+      ],
+      "desc": "Easy train; calm beach time and gelato breaks"
+    },
+    {
+      "name": "Porto: World of Discoveries",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Exploration-themed exhibits; great rainy-day activity"
+    },
+    {
+      "name": "Porto: Serralves Park",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Big green space; room to run; pair with museum if older"
+    },
+    {
+      "name": "Porto: Douro short cruise (6 bridges)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Easy 50-min cruise; low-effort sightseeing"
+    },
+    {
+      "name": "Porto: Foz do Douro tram + seaside",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Tram ride + seaside cafés; stroller-friendly promenade"
+    },
+    {
+      "name": "Douro Valley: scenic train ride",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Views without effort; snacks + window seats"
+    },
+    {
+      "name": "Braga: Bom Jesus funicular + gardens",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Funicular ride; gardens and steps (stroller possible in parts)"
+    },
+    {
+      "name": "Aveiro: canal boat ride",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Short boat ride; colorful houses; easy with kids"
+    },
+    {
+      "name": "Algarve: Zoomarine",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Full family day; pools/shows; plan sun protection"
+    },
+    {
+      "name": "Algarve: Benagil cave by boat (calm day)",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Spectacular cave; choose larger boats for stability"
+    },
+    {
+      "name": "Algarve: Praia da Marinha beach day",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Beautiful cove; pack shade + snacks"
+    },
+    {
+      "name": "Ria Formosa lagoon islands",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Gentle boat ride; beach/island hopping"
+    },
+    {
+      "name": "Madeira: cable car to Monte",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Big views; easy family outing"
+    },
+    {
+      "name": "Madeira: easy levada walk (guided)",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Choose flatter routes; guides handle logistics"
+    },
+    {
+      "name": "Azores: whale/dolphin watching",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Unforgettable nature; pick reputable operators and calm seas"
+    },
+    {
+      "name": "Azores: Furnas hot springs",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Warm thermal pools; go early; bring towels/robes"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Time Out Market / Mercado da Ribeira",
+      "coord": [
+        38.7068,
+        -9.1453
+      ],
+      "desc": "Top chefs and classic stalls under one roof; easy variety for groups"
+    },
+    {
+      "name": "Mercado de Campo de Ourique",
+      "coord": [
+        38.7188,
+        -9.168
+      ],
+      "desc": "Local market with excellent counters; more local feel than Time Out"
+    },
+    {
+      "name": "Feira da Ladra (Santa Clara)",
+      "coord": [
+        38.728,
+        -9.108
+      ],
+      "desc": "Vintage finds + snacks; fun wander with older kids"
+    },
+    {
+      "name": "LX Factory",
+      "coord": [
+        38.722,
+        -9.138
+      ],
+      "desc": "Indoor/outdoor dining, boutiques, bookshop vibe"
+    },
+    {
+      "name": "Pastéis de Belém",
+      "coord": [
+        38.6975,
+        -9.2055
+      ],
+      "desc": "The original pastel de nata pilgrimage"
+    },
+    {
+      "name": "Manteigaria",
+      "coord": [
+        38.708,
+        -9.145
+      ],
+      "desc": "Hot-from-the-oven pastéis with cinnamon"
+    },
+    {
+      "name": "Conserveira de Lisboa",
+      "coord": [
+        38.81,
+        -9.13
+      ],
+      "desc": "Beautiful tins for gifts; quick gourmet picnic supplies"
+    },
+    {
+      "name": "A Vida Portuguesa",
+      "coord": [
+        38.71,
+        -9.135
+      ],
+      "desc": "Beautifully curated Portuguese products (soaps, ceramics, pantry)"
+    },
+    {
+      "name": "Garrafeira Nacional",
+      "coord": [
+        38.808,
+        -9.128
+      ],
+      "desc": "Excellent Portuguese wine selection"
+    },
+    {
+      "name": "Mercado do Bolhão",
+      "coord": [
+        41.145,
+        -8.62
+      ],
+      "desc": "Renovated historic market hall; produce + snacks"
+    },
+    {
+      "name": "Mercado Bom Sucesso",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Easy lunch spot; lots of choice for groups"
+    },
+    {
+      "name": "Casa Guedes",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Famous pork-sandwich institution (great for quick meals)"
+    },
+    {
+      "name": "Confeitaria do Bolhão",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Classic Portuguese pastries + coffee"
+    },
+    {
+      "name": "Graham's Lodge Shop & Tasting",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Port tastings with views over Porto"
+    },
+    {
+      "name": "Adega Regional de Colares",
+      "coord": [
+        38.8004,
+        -9.389
+      ],
+      "desc": "Unique Colares wines; great stop on Sintra coast"
+    },
+    {
+      "name": "Mercado Municipal de Loulé",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Regional produce + crafts; lively Saturday energy"
+    },
+    {
+      "name": "Mercado de Tavira",
+      "coord": [
+        37.0891,
+        -8.2344
+      ],
+      "desc": "Local produce and casual eateries"
+    },
+    {
+      "name": "Funchal Mercado dos Lavradores",
+      "coord": [
+        41.1579,
+        -8.6291
+      ],
+      "desc": "Tropical fruit + flowers; lively atmosphere"
+    },
+    {
+      "name": "Ponta Delgada Mercado da Graça",
+      "coord": [
+        38.8,
+        -9.0
+      ],
+      "desc": "Local cheese, fruit and pantry goods for island picnics"
+    }
+  ],
+  "cityCenters": {
+    "Lisbon": [
+      38.7223,
+      -9.1393,
+      15
+    ],
+    "Porto": [
+      41.1579,
+      -8.6291,
+      12
+    ],
+    "Algarve": [
+      37.0891,
+      -8.2344,
+      50
+    ],
+    "Sintra": [
+      38.8004,
+      -9.389,
+      8
+    ],
+    "Cascais": [
+      38.6847,
+      -9.42,
+      8
+    ],
+    "Évora": [
+      38.6649,
+      -7.902,
+      10
+    ],
+    "Douro Valley": [
+      41.155,
+      -7.505,
+      30
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "id": "a",
+      "title": "Greatest Hits",
+      "color": "#2563EB",
+      "duration": 12,
+      "days": [
+        {
+          "day": 1,
+          "title": "Lisbon Arrival & Orientation",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ride Tram 28 + hop off at miradouros",
+              "coord": [
+                38.725,
+                -9.133
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Belcanto",
+              "coord": [
+                38.71,
+                -9.14
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Lisbon Old Town & Fado",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pastéis de Belém",
+              "coord": [
+                38.6975,
+                -9.2055
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alfama stroll + Fado (early show)",
+              "coord": [
+                38.722,
+                -9.125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "São Jorge Castle",
+              "coord": [
+                38.7139,
+                -9.1334
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Time Out Market / Mercado da Ribeira",
+              "coord": [
+                38.7068,
+                -9.1453
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Alma (Henrique Sá Pessoa)",
+              "coord": [
+                38.705,
+                -9.138
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Belém & Museums",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Belém: Jerónimos Monastery",
+              "coord": [
+                38.698,
+                -9.208
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Belém: Torre de Belém riverside visit",
+              "coord": [
+                38.692,
+                -9.216
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Manteigaria",
+              "coord": [
+                38.708,
+                -9.145
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "MAAT (Museum of Art, Architecture and Technology)",
+              "coord": [
+                38.6925,
+                -9.205
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day Trip: Sintra",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sintra: Pena Palace",
+              "coord": [
+                38.787,
+                -9.39
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sintra: Quinta da Regaleira",
+              "coord": [
+                38.805,
+                -9.388
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Penha Longa Resort",
+              "coord": [
+                38.82,
+                -9.47
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Cascais & Coastal Views",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cascais: Boca do Inferno",
+              "coord": [
+                38.685,
+                -9.43
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cabo da Roca",
+              "coord": [
+                38.713,
+                -9.494
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Antiqvvm",
+              "coord": [
+                38.915,
+                -9.505
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Martinhal Cascais",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Algarve Transfer & Beach",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Martinhal Cascais",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cascais: Boca do Inferno",
+              "coord": [
+                38.685,
+                -9.43
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Vila Vita Parc Resort & Spa",
+              "coord": [
+                37.105,
+                -8.388
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ocean",
+              "coord": [
+                37.105,
+                -8.388
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Algarve Beaches & Villages",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Vila Vita Parc Resort & Spa",
+              "coord": [
+                37.105,
+                -8.388
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach time at Algarve",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Vila Joya (Restaurant)",
+              "coord": [
+                37.08,
+                -8.35
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Explore Albufeira",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Algarve Relaxation",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Vila Vita Parc Resort & Spa",
+              "coord": [
+                37.105,
+                -8.388
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach time",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                37.105,
+                -8.388
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ocean",
+              "coord": [
+                37.105,
+                -8.388
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Porto Transfer & Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Vila Vita Parc Resort & Spa",
+              "coord": [
+                37.105,
+                -8.388
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Yeatman Gastronomic Restaurant",
+              "coord": [
+                41.145,
+                -8.615
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Porto riverside walk",
+              "coord": [
+                41.1579,
+                -8.6291
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Porto & Wine",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Taberna Moderna",
+              "coord": [
+                41.158,
+                -8.63
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado do Bolhão",
+              "coord": [
+                41.145,
+                -8.62
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Casa de Chá da Boa Nova",
+              "coord": [
+                41.128,
+                -8.665
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wine tasting in Porto",
+              "coord": [
+                41.1579,
+                -8.6291
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Douro Valley Day Trip",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Taberna Moderna",
+              "coord": [
+                41.158,
+                -8.63
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Six Senses Douro Valley",
+              "coord": [
+                41.155,
+                -7.505
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Douro Valley terraces",
+              "coord": [
+                41.155,
+                -7.505
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Return to Lisbon",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Six Senses Douro Valley",
+              "coord": [
+                41.155,
+                -7.505
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Final views",
+              "coord": [
+                41.155,
+                -7.505
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "id": "b",
+      "title": "Hidden Gems & Deep Culture",
+      "color": "#059669",
+      "duration": 13,
+      "days": [
+        {
+          "day": 1,
+          "title": "Lisbon Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Memmo Alfama Hotel",
+              "coord": [
+                38.718,
+                -9.125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alfama neighborhood",
+              "coord": [
+                38.722,
+                -9.125
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Old Lisbon & Tiles",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Manteigaria",
+              "coord": [
+                38.708,
+                -9.145
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museu Nacional do Azulejo (Tile Museum)",
+              "coord": [
+                38.77,
+                -9.098
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Time Out Market / Mercado da Ribeira",
+              "coord": [
+                38.7068,
+                -9.1453
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Viúva Lamego (tile shop)",
+              "coord": [
+                38.725,
+                -9.13
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Markets & Local Life",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Manteigaria",
+              "coord": [
+                38.708,
+                -9.145
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Feira da Ladra (Santa Clara)",
+              "coord": [
+                38.728,
+                -9.108
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mercado de Campo de Ourique",
+              "coord": [
+                38.7188,
+                -9.168
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "LX Factory browsing + lunch",
+              "coord": [
+                38.722,
+                -9.138
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day Trip: Évora & Ancient Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Memmo Alfama Hotel",
+              "coord": [
+                38.718,
+                -9.125
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Torre de Palma Wine Hotel",
+              "coord": [
+                38.48,
+                -7.92
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Évora: Temple of Diana",
+              "coord": [
+                38.665,
+                -7.902
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Évora & Wine",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Torre de Palma Wine Hotel",
+              "coord": [
+                38.48,
+                -7.92
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local market in Évora",
+              "coord": [
+                38.665,
+                -7.902
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wine tasting at Torre de Palma",
+              "coord": [
+                38.48,
+                -7.92
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Sintra Mysticism",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Torre de Palma Wine Hotel",
+              "coord": [
+                38.48,
+                -7.92
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Penha Longa Resort",
+              "coord": [
+                38.82,
+                -9.47
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sintra: Quinta da Regaleira",
+              "coord": [
+                38.805,
+                -9.388
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Penha Longa Resort",
+              "coord": [
+                38.82,
+                -9.47
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Sintra Deep Dive",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Penha Longa Resort",
+              "coord": [
+                38.82,
+                -9.47
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sintra: Pena Palace",
+              "coord": [
+                38.787,
+                -9.39
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Penha Longa Resort",
+              "coord": [
+                38.82,
+                -9.47
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sintra gardens",
+              "coord": [
+                38.8004,
+                -9.389
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Cascais & Artistic Vibes",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Martinhal Cascais",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cascais town exploration",
+              "coord": [
+                38.6847,
+                -9.42
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "O Talho",
+              "coord": [
+                38.91,
+                -9.503
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Coastal Scenic Drive",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Martinhal Cascais",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cabo da Roca",
+              "coord": [
+                38.713,
+                -9.494
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cascais: Boca do Inferno",
+              "coord": [
+                38.685,
+                -9.43
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Antiqvvm",
+              "coord": [
+                38.915,
+                -9.505
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Return to Lisbon",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Memmo Alfama Hotel",
+              "coord": [
+                38.718,
+                -9.125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sunset at Miradouro da Senhora do Monte",
+              "coord": [
+                38.728,
+                -9.12
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Museums & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Manteigaria",
+              "coord": [
+                38.708,
+                -9.145
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Calouste Gulbenkian Museum & gardens",
+              "coord": [
+                38.735,
+                -9.145
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mercado de Campo de Ourique",
+              "coord": [
+                38.7188,
+                -9.168
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Final Exploration",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Local neighborhoods walk",
+              "coord": [
+                38.7223,
+                -9.1393
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Time Out Market / Mercado da Ribeira",
+              "coord": [
+                38.7068,
+                -9.1453
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Memmo Alfama Hotel",
+              "coord": [
+                38.718,
+                -9.125
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "id": "c",
+      "title": "Slow Family & Beach Pace",
+      "color": "#D97706",
+      "duration": 14,
+      "days": [
+        {
+          "day": 1,
+          "title": "Lisbon with Kids",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tram ride (short hop, not full loop)",
+              "coord": [
+                38.725,
+                -9.133
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Time Out Market / Mercado da Ribeira",
+              "coord": [
+                38.7068,
+                -9.1453
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jardim da Estrela playground",
+              "coord": [
+                38.722,
+                -9.148
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Kids' Lisbon Adventures",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Oceanário de Lisboa",
+              "coord": [
+                38.6618,
+                -9.0857
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Manteigaria",
+              "coord": [
+                38.708,
+                -9.145
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Pavilhão do Conhecimento",
+              "coord": [
+                38.7608,
+                -9.0915
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Belém for Families",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pastéis de Belém",
+              "coord": [
+                38.6975,
+                -9.2055
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Belém: Torre de Belém riverside visit",
+              "coord": [
+                38.692,
+                -9.216
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Manteigaria",
+              "coord": [
+                38.708,
+                -9.145
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Belém riverside bike/scooter time",
+              "coord": [
+                38.695,
+                -9.205
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time at hotel",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Easy Museums & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museu da Marioneta (Puppet Museum)",
+              "coord": [
+                38.715,
+                -9.132
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "LX Factory browsing + lunch",
+              "coord": [
+                38.722,
+                -9.138
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hospital de Bonecas (Doll Hospital)",
+              "coord": [
+                38.718,
+                -9.13
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Sintra Easy Day Trip",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sintra: Pena Palace",
+              "coord": [
+                38.787,
+                -9.39
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Penha Longa Resort",
+              "coord": [
+                38.82,
+                -9.47
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Early rest for evening",
+              "coord": [
+                38.723,
+                -9.155
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Cascais Coastal Relaxation",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Martinhal Cascais",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Manteigaria",
+              "coord": [
+                38.708,
+                -9.145
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cascais beach time",
+              "coord": [
+                38.6847,
+                -9.42
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Cascais Beach Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Martinhal Cascais",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach time with kids",
+              "coord": [
+                38.6847,
+                -9.42
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local café",
+              "coord": [
+                38.6847,
+                -9.42
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Long nap",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "O Talho",
+              "coord": [
+                38.91,
+                -9.503
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Algarve Transfer",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Martinhal Cascais",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Pestana Algarve",
+              "coord": [
+                37.12,
+                -8.25
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach time",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                37.12,
+                -8.25
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Algarve Beach Days",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pestana Algarve",
+              "coord": [
+                37.12,
+                -8.25
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach time",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local beach café",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Long rest",
+              "coord": [
+                37.12,
+                -8.25
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Gentle walk",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Slow Beach Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pestana Algarve",
+              "coord": [
+                37.12,
+                -8.25
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Swimming & play",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beachside lunch",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Beach nap",
+              "coord": [
+                37.12,
+                -8.25
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "More Beach Time",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pestana Algarve",
+              "coord": [
+                37.12,
+                -8.25
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach exploration",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Café time",
+              "coord": [
+                37.0891,
+                -8.2344
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Quiet time",
+              "coord": [
+                37.12,
+                -8.25
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Porto Gentle Introduction",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Martinhal Cascais",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Porto riverside walk",
+              "coord": [
+                41.1579,
+                -8.6291
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taberna Moderna",
+              "coord": [
+                41.158,
+                -8.63
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Porto Kid-Friendly",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Taberna Moderna",
+              "coord": [
+                41.158,
+                -8.63
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado do Bolhão",
+              "coord": [
+                41.145,
+                -8.62
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Café time",
+              "coord": [
+                41.1579,
+                -8.6291
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest",
+              "coord": [
+                38.685,
+                -9.42
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Return & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Taberna Moderna",
+              "coord": [
+                41.158,
+                -8.63
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Final views",
+              "coord": [
+                41.1579,
+                -8.6291
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3385 @@
+{
+  "key": "thailand",
+  "name": "Thailand Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇹🇭",
+  "defaultCenter": [
+    13.75,
+    100.5
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Capella Bangkok",
+      "coord": [
+        13.7068,
+        100.5138
+      ],
+      "desc": "Luxury Hotel; Business / couples; Riverfront villas + suites, top-tier dining..."
+    },
+    {
+      "name": "Mandarin Oriental, Bangkok",
+      "coord": [
+        13.7236,
+        100.5155
+      ],
+      "desc": "Luxury Hotel; Classic luxury; Heritage riverside icon; suites + legendary ser..."
+    },
+    {
+      "name": "Four Seasons Hotel Bangkok at Chao Phraya River",
+      "coord": [
+        13.7245,
+        100.5158
+      ],
+      "desc": "Luxury Hotel; Design + nightlife; Riverfront setting; acclaimed bar program; ..."
+    },
+    {
+      "name": "The Siam Hotel Bangkok",
+      "coord": [
+        13.7496,
+        100.5281
+      ],
+      "desc": "Boutique Luxury; Romance / design lovers; Art-filled suites & villas; quiet r..."
+    },
+    {
+      "name": "Sindhorn Kempinski Hotel Bangkok",
+      "coord": [
+        13.7455,
+        100.5592
+      ],
+      "desc": "Luxury Hotel; Wellness + city base; Green, calm gardens; big rooms; spa focus"
+    },
+    {
+      "name": "Dusit Thani Bangkok",
+      "coord": [
+        13.7293,
+        100.546
+      ],
+      "desc": "Luxury Hotel; Iconic Thai hospitality; New flagship revival; central park access"
+    },
+    {
+      "name": "Rosewood Bangkok",
+      "coord": [
+        13.7488,
+        100.5644
+      ],
+      "desc": "Luxury Hotel; Modern luxury; Striking tower design; standout dining; family t..."
+    },
+    {
+      "name": "Park Hyatt Bangkok",
+      "coord": [
+        13.7571,
+        100.5769
+      ],
+      "desc": "Luxury Hotel; Groups / urban luxury; Skyline views; polished design; great ro..."
+    },
+    {
+      "name": "The Ritz-Carlton, Bangkok",
+      "coord": [
+        13.766,
+        100.585
+      ],
+      "desc": "Luxury Hotel; Luxury with easy access; New flagship in One Bangkok; lounge + ..."
+    },
+    {
+      "name": "137 Pillars Suites & Residences Bangkok",
+      "coord": [
+        13.7263,
+        100.5831
+      ],
+      "desc": "Luxury Hotel; Service + long stays; 24h rooftop infinity pool; butler-style s..."
+    },
+    {
+      "name": "Siam Kempinski Hotel Bangkok",
+      "coord": [
+        13.7464,
+        100.5398
+      ],
+      "desc": "Luxury Hotel; Families + shopping; Walk to Siam malls; pool-access rooms"
+    },
+    {
+      "name": "The Peninsula Bangkok",
+      "coord": [
+        13.7219,
+        100.4924
+      ],
+      "desc": "Luxury Hotel; Riverside classic; Big pool + river views; grand service"
+    },
+    {
+      "name": "Anantara Siam Bangkok Hotel",
+      "coord": [
+        13.7532,
+        100.5259
+      ],
+      "desc": "Luxury Hotel; Families; Resort-like gardens/pool in the city"
+    },
+    {
+      "name": "Bangkok Publishing Residence",
+      "coord": [
+        13.7536,
+        100.5085
+      ],
+      "desc": "Boutique Hotel; Boutique charm; Converted printing house; eight-room literary..."
+    },
+    {
+      "name": "Mustang Blu",
+      "coord": [
+        13.7622,
+        100.5038
+      ],
+      "desc": "Boutique Hotel; Unique stay; Moody heritage design; steps to Yaowarat"
+    },
+    {
+      "name": "SALA Rattanakosin",
+      "coord": [
+        13.7505,
+        100.4927
+      ],
+      "desc": "Boutique Hotel; Views + Old Town; Wat Arun views; walkable to major temples"
+    },
+    {
+      "name": "Amdaeng Riverside Hotel",
+      "coord": [
+        13.7254,
+        100.4892
+      ],
+      "desc": "Boutique Hotel; Quiet recharge; Canal-side boutique; romantic, away from bustle"
+    },
+    {
+      "name": "Kimpton Maa-Lai Bangkok",
+      "coord": [
+        13.746,
+        100.5584
+      ],
+      "desc": "Lifestyle Luxury; Families + parks; Big rooms; pet-friendly vibe; near Lumphini"
+    },
+    {
+      "name": "InterContinental Khao Yai Resort",
+      "coord": [
+        14.4289,
+        101.3559
+      ],
+      "desc": "Design Resort; Design + nature; Bill Bensley rail-inspired resort near nation..."
+    },
+    {
+      "name": "Four Seasons Resort Chiang Mai",
+      "coord": [
+        18.8083,
+        98.9214
+      ],
+      "desc": "Luxury Resort; Resort escape; Rice paddy views; cooking school; family activi..."
+    },
+    {
+      "name": "137 Pillars House Chiang Mai",
+      "coord": [
+        18.7768,
+        98.9758
+      ],
+      "desc": "Boutique Luxury; Boutique heritage; Colonial-era compound; intimate pool suites"
+    },
+    {
+      "name": "Raya Heritage",
+      "coord": [
+        18.8289,
+        98.9269
+      ],
+      "desc": "Boutique Luxury; Slow Chiang Mai; Lanna-inspired design; quieter countryside ..."
+    },
+    {
+      "name": "Aleenta Retreat Chiang Mai",
+      "coord": [
+        18.8167,
+        98.9333
+      ],
+      "desc": "Boutique Wellness; Wellness + city access; Wellness-led retreat in the north"
+    },
+    {
+      "name": "Four Seasons Tented Camp Golden Triangle",
+      "coord": [
+        20.3683,
+        100.8114
+      ],
+      "desc": "Tented Camp; Once-in-a-lifetime; Luxury safari-style camp; elephants; river v..."
+    },
+    {
+      "name": "Chiva-Som Hua Hin",
+      "coord": [
+        12.5667,
+        99.95
+      ],
+      "desc": "Wellness Resort; Wellness; Medical-grade testing + traditional healing programs"
+    },
+    {
+      "name": "Aleenta Hua Hin Resort & Spa",
+      "coord": [
+        12.6,
+        99.95
+      ],
+      "desc": "Boutique Resort; Beach + wellness; Beachfront villas; wellness programs"
+    },
+    {
+      "name": "Amanpuri",
+      "coord": [
+        8.175,
+        98.2975
+      ],
+      "desc": "Ultra-Luxury Resort; Bucket-list luxury; Aman original; pavilions/villas on c..."
+    },
+    {
+      "name": "Anantara Layan Phuket Resort",
+      "coord": [
+        8.2833,
+        98.2667
+      ],
+      "desc": "Luxury Resort; Beach resort; Sandy beach + hills; family-friendly resort faci..."
+    },
+    {
+      "name": "Keemala",
+      "coord": [
+        8.3333,
+        98.35
+      ],
+      "desc": "Design Resort; Design lovers; Iconic bird’s-nest pool villas in rainforest se..."
+    },
+    {
+      "name": "Trisara",
+      "coord": [
+        8.25,
+        98.3
+      ],
+      "desc": "Ultra-Luxury Resort; Beach access + privacy; Private villas with pools; accla..."
+    },
+    {
+      "name": "Rosewood Phuket",
+      "coord": [
+        8.2833,
+        98.3
+      ],
+      "desc": "Luxury Resort; Families; Strong kids’ club; wellness-focused Asaya"
+    },
+    {
+      "name": "Sri Panwa",
+      "coord": [
+        8.0833,
+        98.3
+      ],
+      "desc": "Luxury Resort; Sunset views; Dramatic sea views; luxury villas"
+    },
+    {
+      "name": "The Surin",
+      "coord": [
+        8.175,
+        98.2975
+      ],
+      "desc": "Luxury Resort; Classic beach stay; Longtime favorite; gorgeous beach setting"
+    },
+    {
+      "name": "Twinpalms Bangtao Phuket Tented Resort",
+      "coord": [
+        8.25,
+        98.2667
+      ],
+      "desc": "Luxury Tented Resort; Glamping; Tented villas with butler service; lagoon set..."
+    },
+    {
+      "name": "Six Senses Koh Yao Noi",
+      "coord": [
+        8.5333,
+        98.7667
+      ],
+      "desc": "Luxury Eco-Resort; Eco-luxe; Private pool villas; sustainability; island escape"
+    },
+    {
+      "name": "Anantara Mai Khao Phuket Villas",
+      "coord": [
+        8.45,
+        98.3167
+      ],
+      "desc": "Luxury Resort; Privacy; Walled pool villas; close to airport; long beach"
+    },
+    {
+      "name": "COMO Point Yamu",
+      "coord": [
+        8.2333,
+        98.3
+      ],
+      "desc": "Luxury Resort; Wellness + views; Wellness focus; big views over Phang Nga Bay"
+    },
+    {
+      "name": "Banyan Tree Phuket",
+      "coord": [
+        8.25,
+        98.2667
+      ],
+      "desc": "Luxury Resort; Couples; Private pool villas; spa-focused options"
+    },
+    {
+      "name": "SALA Phuket Mai Khao Beach Resort",
+      "coord": [
+        8.4667,
+        98.3
+      ],
+      "desc": "Boutique Resort; Quiet beach; Pool villas; one of the prettiest (and quieter)..."
+    },
+    {
+      "name": "Aleenta Phuket Resort & Spa",
+      "coord": [
+        8.4167,
+        98.3667
+      ],
+      "desc": "Luxury Resort; Crowd-free beach; Palm-fringed quiet beach; small kids’ club"
+    },
+    {
+      "name": "Four Seasons Resort Koh Samui",
+      "coord": [
+        8.95,
+        100.45
+      ],
+      "desc": "Ultra-Luxury Resort; Beach luxury; Hillside villas; top-notch dining; small k..."
+    },
+    {
+      "name": "Six Senses Samui",
+      "coord": [
+        8.85,
+        100.35
+      ],
+      "desc": "Luxury Eco-Resort; Sustainable luxury; Luxe treehouse vibe; farm; family-frie..."
+    },
+    {
+      "name": "The Ritz-Carlton, Koh Samui",
+      "coord": [
+        9.0167,
+        100.4667
+      ],
+      "desc": "Luxury Resort; Families; Huge kids club + splash park; big resort facilities"
+    },
+    {
+      "name": "Kamalaya Wellness Sanctuary & Holistic Spa",
+      "coord": [
+        8.7333,
+        100.3
+      ],
+      "desc": "Wellness Retreat; Wellness; Programs for detox, stress, mind-body; meditation..."
+    },
+    {
+      "name": "Cape Fahn Hotel",
+      "coord": [
+        9.0833,
+        100.5
+      ],
+      "desc": "Luxury Resort; Romance / seclusion; Private island villas; pools; standout di..."
+    },
+    {
+      "name": "Kimpton Kitalay Samui",
+      "coord": [
+        8.9667,
+        100.4167
+      ],
+      "desc": "Lifestyle Luxury; Families; Buzzy beach resort; splash park + kids club"
+    },
+    {
+      "name": "Anantara Lawana Koh Samui Resort",
+      "coord": [
+        8.95,
+        100.4667
+      ],
+      "desc": "Luxury Resort; Couples + families; Treehouse-style dining; kids club; close t..."
+    },
+    {
+      "name": "Garrya Tongsai Bay Samui",
+      "coord": [
+        8.9333,
+        100.4167
+      ],
+      "desc": "Luxury Resort; Beach hideaway; Private-access bay; classic 5-star legacy"
+    },
+    {
+      "name": "Samujana Villas",
+      "coord": [
+        8.8833,
+        100.35
+      ],
+      "desc": "Luxury Villas; Large groups; Serviced villas with hotel-like staff; huge views"
+    },
+    {
+      "name": "Silavadee Pool Spa Resort",
+      "coord": [
+        9.0,
+        100.5
+      ],
+      "desc": "Boutique Resort; Honeymoon / quiet; Oceanfront pool villas; snorkeling off qu..."
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Sorn",
+      "coord": [
+        13.7174,
+        100.5717
+      ],
+      "desc": "Southern Thai (fine dining); Special occasion"
+    },
+    {
+      "name": "Sühring",
+      "coord": [
+        13.7308,
+        100.5418
+      ],
+      "desc": "Modern German; Date night"
+    },
+    {
+      "name": "Le Du",
+      "coord": [
+        13.7267,
+        100.5367
+      ],
+      "desc": "Thai contemporary; Foodies"
+    },
+    {
+      "name": "Nusara",
+      "coord": [
+        13.7536,
+        100.5048
+      ],
+      "desc": "Thai (fine dining); Special occasion"
+    },
+    {
+      "name": "Restaurant Potong",
+      "coord": [
+        13.76,
+        100.5048
+      ],
+      "desc": "Thai-Chinese (fine dining); Foodies"
+    },
+    {
+      "name": "R-Haan",
+      "coord": [
+        13.7288,
+        100.5356
+      ],
+      "desc": "Royal Thai; Thai classics elevated"
+    },
+    {
+      "name": "Gaa",
+      "coord": [
+        13.7435,
+        100.5606
+      ],
+      "desc": "Indian-influenced contemporary; Foodies"
+    },
+    {
+      "name": "Baan Tepa",
+      "coord": [
+        13.7383,
+        100.5658
+      ],
+      "desc": "Thai (farm-to-table); Foodies"
+    },
+    {
+      "name": "Blue by Alain Ducasse",
+      "coord": [
+        13.7154,
+        100.5231
+      ],
+      "desc": "French (fine dining); Special occasion"
+    },
+    {
+      "name": "Chef's Table (lebua)",
+      "coord": [
+        13.7267,
+        100.5294
+      ],
+      "desc": "French (fine dining); Celebrations"
+    },
+    {
+      "name": "Mezzaluna (lebua)",
+      "coord": [
+        13.7267,
+        100.5294
+      ],
+      "desc": "French/Japanese (fine dining); Celebrations"
+    },
+    {
+      "name": "Côte by Mauro Colagreco",
+      "coord": [
+        13.7356,
+        100.5412
+      ],
+      "desc": "French Riviera; Special occasion"
+    },
+    {
+      "name": "Cadence by Dan Bark",
+      "coord": [
+        13.7475,
+        100.5556
+      ],
+      "desc": "Contemporary; Foodies"
+    },
+    {
+      "name": "Coda Bangkok",
+      "coord": [
+        13.7474,
+        100.5567
+      ],
+      "desc": "Contemporary; Foodies"
+    },
+    {
+      "name": "Cross",
+      "coord": [
+        13.7345,
+        100.5632
+      ],
+      "desc": "Contemporary; Foodies"
+    },
+    {
+      "name": "Inddee",
+      "coord": [
+        13.7288,
+        100.5514
+      ],
+      "desc": "Indian (fine dining); Foodies"
+    },
+    {
+      "name": "Khaan",
+      "coord": [
+        13.7267,
+        100.534
+      ],
+      "desc": "Thai (fine dining); Thai-focused tasting"
+    },
+    {
+      "name": "Sra Bua by Kiin Kiin",
+      "coord": [
+        13.7464,
+        100.5398
+      ],
+      "desc": "Modern Thai; Foodies"
+    },
+    {
+      "name": "Gaggan at Louis Vuitton",
+      "coord": [
+        13.7534,
+        100.5562
+      ],
+      "desc": "Avant-garde; Once-in-a-lifetime"
+    },
+    {
+      "name": "Nahm",
+      "coord": [
+        13.7229,
+        100.5336
+      ],
+      "desc": "Thai (fine dining); Classic Thai flavors"
+    },
+    {
+      "name": "Issaya Siamese Club",
+      "coord": [
+        13.736,
+        100.5558
+      ],
+      "desc": "Thai (modern); Groups"
+    },
+    {
+      "name": "Supanniga Eating Room",
+      "coord": [
+        13.7546,
+        100.4998
+      ],
+      "desc": "Thai (regional); Casual but excellent"
+    },
+    {
+      "name": "Err",
+      "coord": [
+        13.7588,
+        100.5063
+      ],
+      "desc": "Thai drinking food; Casual"
+    },
+    {
+      "name": "Nai Mong Hoi Thod",
+      "coord": [
+        13.7633,
+        100.5073
+      ],
+      "desc": "Street food (oyster omelet); Street food lovers"
+    },
+    {
+      "name": "Guay Jub Ouan Pochana",
+      "coord": [
+        13.7633,
+        100.5073
+      ],
+      "desc": "Street food (rolled noodle soup); Late-night eats"
+    },
+    {
+      "name": "Eat Me",
+      "coord": [
+        13.7275,
+        100.5383
+      ],
+      "desc": "Modern international; Late dinner"
+    },
+    {
+      "name": "Le Normandie",
+      "coord": [
+        13.7236,
+        100.5155
+      ],
+      "desc": "French (fine dining); Special occasion"
+    },
+    {
+      "name": "Prachak Pet Yang",
+      "coord": [
+        13.7633,
+        100.5103
+      ],
+      "desc": "Cantonese roast duck; Local institution"
+    },
+    {
+      "name": "Raan Jay Fai",
+      "coord": [
+        13.7546,
+        100.5063
+      ],
+      "desc": "Street food (crab omelet); Bucket-list street food"
+    },
+    {
+      "name": "Thipsamai Pad Thai",
+      "coord": [
+        13.759,
+        100.5078
+      ],
+      "desc": "Street food (pad thai); Classic Bangkok bite"
+    },
+    {
+      "name": "Som Tam Jay So",
+      "coord": [
+        13.7275,
+        100.5383
+      ],
+      "desc": "Isaan street food; Spice lovers"
+    },
+    {
+      "name": "Mae Varee Fruit Shop",
+      "coord": [
+        13.7356,
+        100.5728
+      ],
+      "desc": "Dessert (mango sticky rice); Dessert"
+    },
+    {
+      "name": "Jae Aun Bua Loy Nam Khing",
+      "coord": [
+        13.7633,
+        100.5073
+      ],
+      "desc": "Dessert (ginger dumplings); Dessert"
+    },
+    {
+      "name": "Doy Kuay Teow Reua",
+      "coord": [
+        13.7667,
+        100.545
+      ],
+      "desc": "Boat noodles; Quick meal"
+    },
+    {
+      "name": "Octave Rooftop Lounge & Bar",
+      "coord": [
+        13.7356,
+        100.5728
+      ],
+      "desc": "Rooftop bar; Sunset cocktails"
+    },
+    {
+      "name": "Banthat Thong Road (street food stretch)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Street food hub; Casual grazing"
+    },
+    {
+      "name": "Bar Us",
+      "coord": [
+        13.7337,
+        100.5533
+      ],
+      "desc": "Cocktail bar; Cocktail lovers"
+    },
+    {
+      "name": "Dry Wave Cocktail Studio",
+      "coord": [
+        13.736,
+        100.56
+      ],
+      "desc": "Cocktail bar; Cocktail lovers"
+    },
+    {
+      "name": "BKK Social Club",
+      "coord": [
+        13.7245,
+        100.5158
+      ],
+      "desc": "Hotel bar (cocktails); Classic cocktails"
+    },
+    {
+      "name": "Vesper",
+      "coord": [
+        13.7413,
+        100.55
+      ],
+      "desc": "Cocktail bar; Cocktail lovers"
+    },
+    {
+      "name": "G.O.D",
+      "coord": [
+        13.735,
+        100.55
+      ],
+      "desc": "Cocktail bar; Cocktail lovers"
+    },
+    {
+      "name": "Opium",
+      "coord": [
+        13.7633,
+        100.5073
+      ],
+      "desc": "Cocktail bar; Late night"
+    },
+    {
+      "name": "Bar Sathorn",
+      "coord": [
+        13.7267,
+        100.5367
+      ],
+      "desc": "Cocktail bar; Cocktail lovers"
+    },
+    {
+      "name": "PRU",
+      "coord": [
+        8.125,
+        98.4
+      ],
+      "desc": "Contemporary (fine dining); Special occasion"
+    },
+    {
+      "name": "Jampa",
+      "coord": [
+        8.2,
+        98.35
+      ],
+      "desc": "Farm-to-table (fine dining); Foodies"
+    },
+    {
+      "name": "Hom",
+      "coord": [
+        8.15,
+        98.35
+      ],
+      "desc": "Fine dining; Special occasion"
+    },
+    {
+      "name": "Heh",
+      "coord": [
+        8.1667,
+        98.3667
+      ],
+      "desc": "Fine dining; Foodies"
+    },
+    {
+      "name": "Khao (Four Seasons Resort Chiang Mai)",
+      "coord": [
+        18.8083,
+        98.9214
+      ],
+      "desc": "Northern Thai; Resort dinner"
+    },
+    {
+      "name": "North by Four Seasons (FS Chiang Mai)",
+      "coord": [
+        18.8083,
+        98.9214
+      ],
+      "desc": "Wood-fired grill; Resort dinner"
+    },
+    {
+      "name": "Meena Rice Based Cuisine",
+      "coord": [
+        18.7683,
+        98.9758
+      ],
+      "desc": "Thai (rice-centric); Lunch stop"
+    },
+    {
+      "name": "Huen Jai Yong",
+      "coord": [
+        18.7875,
+        98.9875
+      ],
+      "desc": "Northern Thai; Local flavors"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Grand Palace & Wat Phra Kaew (Emerald Buddha)",
+      "coord": [
+        13.75,
+        100.4914
+      ],
+      "desc": "Temple/Palace; First-timers; 2–3 hours"
+    },
+    {
+      "name": "Wat Pho (Reclining Buddha + massage school)",
+      "coord": [
+        13.7466,
+        100.4932
+      ],
+      "desc": "Temple; Culture; 1–2 hours"
+    },
+    {
+      "name": "Wat Arun (Temple of Dawn) via sunset boat view",
+      "coord": [
+        13.7431,
+        100.4851
+      ],
+      "desc": "Temple / viewpoint; Photo ops; 1–2 hours"
+    },
+    {
+      "name": "Chao Phraya River ferry hop",
+      "coord": [
+        13.745,
+        100.5
+      ],
+      "desc": "Transport / sightseeing; Budget-friendly sightseeing; 2–4 hours"
+    },
+    {
+      "name": "Canal (khlong) tour",
+      "coord": [
+        13.745,
+        100.5
+      ],
+      "desc": "Boat tour; Families; 1–2 hours"
+    },
+    {
+      "name": "Jim Thompson House Museum",
+      "coord": [
+        13.7338,
+        100.5454
+      ],
+      "desc": "Museum; Culture; 1–2 hours"
+    },
+    {
+      "name": "Chinatown (Yaowarat) food crawl",
+      "coord": [
+        13.7633,
+        100.5073
+      ],
+      "desc": "Neighborhood; Foodies; 2–4 hours"
+    },
+    {
+      "name": "Tingly Thai Cooking School",
+      "coord": [
+        13.745,
+        100.51
+      ],
+      "desc": "Cooking class; All ages; Half day"
+    },
+    {
+      "name": "Blue Elephant Cooking School",
+      "coord": [
+        13.7267,
+        100.5367
+      ],
+      "desc": "Cooking class; Beginners to confident cooks; Half day"
+    },
+    {
+      "name": "Benjakitti Park skywalk (Green Mile)",
+      "coord": [
+        13.7344,
+        100.5619
+      ],
+      "desc": "Park; Families; 1–2 hours"
+    },
+    {
+      "name": "Pak Khlong Talat flower market",
+      "coord": [
+        13.7546,
+        100.4998
+      ],
+      "desc": "Market; Photo ops; 1–2 hours"
+    },
+    {
+      "name": "Chatuchak Weekend Market",
+      "coord": [
+        13.8,
+        100.55
+      ],
+      "desc": "Market; Shopping; 2–4 hours"
+    },
+    {
+      "name": "Bang Krachao ‘Green Lung’ bike ride",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Cycling; Active travelers; 2–4 hours"
+    },
+    {
+      "name": "Foot massage stop",
+      "coord": [
+        13.74,
+        100.54
+      ],
+      "desc": "Wellness; Everyone; 1 hour"
+    },
+    {
+      "name": "Central Park Bangkok + Urban Sky Park",
+      "coord": [
+        13.71,
+        100.54
+      ],
+      "desc": "Modern attraction; Families; 2–3 hours"
+    },
+    {
+      "name": "Octave rooftop drinks",
+      "coord": [
+        13.7356,
+        100.5728
+      ],
+      "desc": "Rooftop bar; Couples; 1–2 hours"
+    },
+    {
+      "name": "Ayutthaya ruins (UNESCO) day trip",
+      "coord": [
+        14.3667,
+        100.5833
+      ],
+      "desc": "Historic site; History; Full day"
+    },
+    {
+      "name": "Anantara Cruises – Ayutthaya Thousand Golden Temples Cruise",
+      "coord": [
+        13.745,
+        100.5
+      ],
+      "desc": "Luxury river cruise; Special occasion; 2 nights"
+    },
+    {
+      "name": "Khao Yai National Park",
+      "coord": [
+        14.4289,
+        101.3559
+      ],
+      "desc": "National park; Nature lovers; Full day / overnight"
+    },
+    {
+      "name": "PB Valley Khao Yai Winery",
+      "coord": [
+        14.4483,
+        101.1581
+      ],
+      "desc": "Winery; Adults; 2–3 hours"
+    },
+    {
+      "name": "Kanchanaburi + Erawan Falls",
+      "coord": [
+        14.3889,
+        99.2078
+      ],
+      "desc": "Nature / waterfall; Families (older kids); Full day"
+    },
+    {
+      "name": "Elephant Haven Thailand (no riding)",
+      "coord": [
+        14.1089,
+        99.3303
+      ],
+      "desc": "Ethical elephant experience; Families; Full day"
+    },
+    {
+      "name": "Doi Suthep Temple",
+      "coord": [
+        18.8083,
+        98.9214
+      ],
+      "desc": "Temple / viewpoint; First-timers; 2–3 hours"
+    },
+    {
+      "name": "Chiang Mai Old City temple walk",
+      "coord": [
+        18.7875,
+        98.9875
+      ],
+      "desc": "Sightseeing; Culture; Half day"
+    },
+    {
+      "name": "Night markets (Chiang Mai)",
+      "coord": [
+        18.7875,
+        98.9875
+      ],
+      "desc": "Market; Families; 2–4 hours"
+    },
+    {
+      "name": "Phuket Old Town (heritage stroll)",
+      "coord": [
+        8.1233,
+        98.3867
+      ],
+      "desc": "Neighborhood; All ages; 2–4 hours"
+    },
+    {
+      "name": "Wat Chalong",
+      "coord": [
+        8.08,
+        98.3933
+      ],
+      "desc": "Temple; Culture; 1–2 hours"
+    },
+    {
+      "name": "Big Buddha viewpoint",
+      "coord": [
+        8.07,
+        98.31
+      ],
+      "desc": "Viewpoint; Photo ops; 1–2 hours"
+    },
+    {
+      "name": "Nai Harn Beach",
+      "coord": [
+        8.05,
+        98.3167
+      ],
+      "desc": "Beach; Families; Half day"
+    },
+    {
+      "name": "Kata Beach",
+      "coord": [
+        8.1667,
+        98.3167
+      ],
+      "desc": "Beach; Families; Half day"
+    },
+    {
+      "name": "Ethical elephant visit (Phuket)",
+      "coord": [
+        8.25,
+        98.35
+      ],
+      "desc": "Wildlife/ethical; Families; Half day"
+    },
+    {
+      "name": "Ang Thong National Marine Park day trip",
+      "coord": [
+        8.6667,
+        100.4
+      ],
+      "desc": "Boat day trip; Snorkeling + hikes; Full day"
+    },
+    {
+      "name": "Island-hopping (Thailand’s beaches)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Boat tour; Beach lovers; Full day"
+    },
+    {
+      "name": "100 Tonson Foundation (contemporary art)",
+      "coord": [
+        13.7487,
+        100.5667
+      ],
+      "desc": "Gallery; Art lovers; 1–2 hours"
+    },
+    {
+      "name": "Bangkok rooftop bars (general)",
+      "coord": [
+        13.74,
+        100.54
+      ],
+      "desc": "Nightlife; Adults; 1–3 hours"
+    },
+    {
+      "name": "Bar.Yard rooftop",
+      "coord": [
+        13.746,
+        100.5584
+      ],
+      "desc": "Rooftop bar; Adults; 1–2 hours"
+    },
+    {
+      "name": "Nobu Bangkok rooftop",
+      "coord": [
+        13.735,
+        100.55
+      ],
+      "desc": "Rooftop dining/bar; Adults; 2–3 hours"
+    },
+    {
+      "name": "Erawan Museum",
+      "coord": [
+        13.3667,
+        100.7833
+      ],
+      "desc": "Museum/temple-like; Families; 2–3 hours"
+    },
+    {
+      "name": "Old Town temple cluster (self-guided)",
+      "coord": [
+        13.75,
+        100.495
+      ],
+      "desc": "Walking tour; First-timers; Half day"
+    },
+    {
+      "name": "Tuk-tuk evening tour (street food + highlights)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Guided tour; Families (older kids); 3–4 hours"
+    },
+    {
+      "name": "Taling Chan Floating Market (half-day)",
+      "coord": [
+        13.7733,
+        100.4867
+      ],
+      "desc": "Market/food; Families; 2–4 hours"
+    },
+    {
+      "name": "Wang Lang Market grazing",
+      "coord": [
+        13.7633,
+        100.4867
+      ],
+      "desc": "Market/food; Foodies; 1–2 hours"
+    },
+    {
+      "name": "Nang Loeng Market snack crawl",
+      "coord": [
+        13.7667,
+        100.5267
+      ],
+      "desc": "Market/food; Foodies; 1–2 hours"
+    },
+    {
+      "name": "Grasshopper Adventures – Bike Historic Ayutthaya Tour",
+      "coord": [
+        14.3667,
+        100.5833
+      ],
+      "desc": "Cycling tour; Active travelers; Full day"
+    },
+    {
+      "name": "Khao Yai and Beyond (guided nature tours)",
+      "coord": [
+        14.4289,
+        101.3559
+      ],
+      "desc": "Guided trek; Nature lovers; Full day / overnight"
+    },
+    {
+      "name": "Chiang Mai Sunday Walking Street",
+      "coord": [
+        18.7875,
+        98.9875
+      ],
+      "desc": "Night market; Families; 2–4 hours"
+    },
+    {
+      "name": "Phuket Walking Street Market (Old Town)",
+      "coord": [
+        8.1233,
+        98.3867
+      ],
+      "desc": "Night market; All ages; 2–3 hours"
+    },
+    {
+      "name": "Beach club day (Phuket)",
+      "coord": [
+        8.25,
+        98.35
+      ],
+      "desc": "Beach club; Adults / older kids; Half day"
+    },
+    {
+      "name": "Khao Sok National Park stay (Rainforest Camp)",
+      "coord": [
+        8.7167,
+        98.55
+      ],
+      "desc": "Jungle lodge experience; Families; 1–3 nights"
+    },
+    {
+      "name": "Elephant Hills (ethical safari-style camp)",
+      "coord": [
+        8.7167,
+        98.55
+      ],
+      "desc": "Ethical wildlife + camp; Families; 2–3 days"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Benjakitti Park (Green Mile skywalk)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Park; Toddler+; Shade, paths, lotus ponds, skywalk; great stroller walk early..."
+    },
+    {
+      "name": "Pak Khlong Talat (Flower Market)",
+      "coord": [
+        13.7546,
+        100.4998
+      ],
+      "desc": "Market / photo stop; Toddler+; Colorful flowers; sensory-friendly early evening"
+    },
+    {
+      "name": "Chatuchak Weekend Market",
+      "coord": [
+        13.8,
+        100.55
+      ],
+      "desc": "Market; Toddler+; Giant market; shop crafts; snacks; go early for cooler temps"
+    },
+    {
+      "name": "Chao Phraya River ferry ride",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Boat ride; Toddler+; Low-cost boat ‘adventure’ between sights; great views"
+    },
+    {
+      "name": "Canal (khlong) tour",
+      "coord": [
+        13.745,
+        100.5
+      ],
+      "desc": "Boat tour; Toddler+; See stilt houses + canals; keep a hat/sunscreen on kids"
+    },
+    {
+      "name": "Jim Thompson House",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Museum / garden; 5+; Short guided tours; shady garden; good mid-day option"
+    },
+    {
+      "name": "Grand Palace & Wat Phra Kaew",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Temple/Palace; 6+; Iconic must-see; go early to avoid heat/crowds"
+    },
+    {
+      "name": "Wat Pho (Reclining Buddha)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Temple; Toddler+; Big ‘wow’ statue; relatively quick visit"
+    },
+    {
+      "name": "Wat Arun (sunset boat view)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Temple/viewpoint; Toddler+; Easier to admire from boat at sunset vs climbing"
+    },
+    {
+      "name": "Taling Chan Floating Market",
+      "coord": [
+        13.7733,
+        100.4867
+      ],
+      "desc": "Floating market; Toddler+; Fun boats + seafood; weekend morning outing"
+    },
+    {
+      "name": "Wang Lang Market (snack crawl)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Market; Toddler+; Try small bites; keep kids close in crowds"
+    },
+    {
+      "name": "Raan Jay Fai (watch the wok action)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Food experience; 8+; Iconic street-food spectacle (lines are long)"
+    },
+    {
+      "name": "Ayutthaya ruins day trip",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Historic site; 6+; Temple ruins + biking (older kids) or tuk-tuk"
+    },
+    {
+      "name": "Khao Yai National Park day trip",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Nature; 6+; Wildlife spotting + shorter hikes with a guide"
+    },
+    {
+      "name": "Erawan Falls (Kanchanaburi)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Waterfall; 6+; Swim + walk between waterfall tiers (watch footing)"
+    },
+    {
+      "name": "Elephant Haven Thailand (no riding)",
+      "coord": [
+        14.1089,
+        99.3303
+      ],
+      "desc": "Ethical elephant experience; 6+; Feeding/bathing + forest walk; explicitly no..."
+    },
+    {
+      "name": "Doi Suthep Temple",
+      "coord": [
+        18.8083,
+        98.9214
+      ],
+      "desc": "Temple/viewpoint; 6+; Great views; go at sunset; easy taxi up/down"
+    },
+    {
+      "name": "Chiang Mai Old City stroll",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Walking; Toddler+; Moat + temples; choose short loops and morning shade"
+    },
+    {
+      "name": "Chiang Mai night markets",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Market; Toddler+; Crafts + easy street-food sampling; lively atmosphere"
+    },
+    {
+      "name": "Phuket Old Town heritage walk",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Neighborhood; Toddler+; Colorful buildings + cafés; easiest in early evening"
+    },
+    {
+      "name": "Phuket Walking Street Market",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Night market; Toddler+; Food + crafts; stroller-friendly early hours"
+    },
+    {
+      "name": "Kata Beach",
+      "coord": [
+        8.1667,
+        98.3167
+      ],
+      "desc": "Beach; Toddler+; Family-friendly beach day; arrive early for calmer water"
+    },
+    {
+      "name": "Nai Harn Beach",
+      "coord": [
+        8.05,
+        98.3167
+      ],
+      "desc": "Beach; Toddler+; Relaxed beach vibe; good for families"
+    },
+    {
+      "name": "The Ritz-Carlton, Koh Samui",
+      "coord": [
+        9.0167,
+        100.4667
+      ],
+      "desc": "Resort; Toddler+; Big kids club + playground/splash elements; family villas"
+    },
+    {
+      "name": "Kimpton Kitalay Samui",
+      "coord": [
+        8.9667,
+        100.4167
+      ],
+      "desc": "Resort; Toddler+; Splash park + kids club; beach base"
+    },
+    {
+      "name": "Elephant Hills (ethical camp)",
+      "coord": [
+        13.75,
+        100.5
+      ],
+      "desc": "Adventure camp; 6+; No-riding elephant program + jungle activities"
+    },
+    {
+      "name": "Ang Thong National Marine Park day trip",
+      "coord": [
+        8.6667,
+        100.4
+      ],
+      "desc": "Boat day trip; 8+; Snorkeling + island viewpoint hike (strong swimmers)"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Pak Khlong Talat (Flower Market)",
+      "coord": [
+        13.7546,
+        100.4998
+      ],
+      "desc": "Market (flowers); Late night / early morning; Fresh flowers; orchids; garlands"
+    },
+    {
+      "name": "Floral Café at Napasorn",
+      "coord": [
+        13.7546,
+        100.4998
+      ],
+      "desc": "Café; Morning; Coffee + cake"
+    },
+    {
+      "name": "Chatuchak Weekend Market",
+      "coord": [
+        13.8,
+        100.55
+      ],
+      "desc": "Market (weekend); Weekend daytime; Souvenirs, clothes, crafts, snacks"
+    },
+    {
+      "name": "Chinatown (Yaowarat)",
+      "coord": [
+        13.7633,
+        100.5073
+      ],
+      "desc": "Food district / night market streets; Evening; Thai-Chinese street food; dess..."
+    },
+    {
+      "name": "Banthat Thong Road",
+      "coord": [
+        13.7513,
+        100.5128
+      ],
+      "desc": "Street food strip; Evening; Thai + fusion street food; desserts"
+    },
+    {
+      "name": "Taling Chan Floating Market",
+      "coord": [
+        13.7733,
+        100.4867
+      ],
+      "desc": "Floating market; Weekend mornings; Grilled seafood; whole salt-crusted fish"
+    },
+    {
+      "name": "Wang Lang Market",
+      "coord": [
+        13.7633,
+        100.4867
+      ],
+      "desc": "Market (street food + shopping); Late morning / afternoon; Skewers, sweets, s..."
+    },
+    {
+      "name": "Nang Loeng Market",
+      "coord": [
+        13.7667,
+        100.5267
+      ],
+      "desc": "Historic market; Morning / lunch; Classic Thai snacks + sweets"
+    },
+    {
+      "name": "Or Tor Kor Market",
+      "coord": [
+        13.8,
+        100.54
+      ],
+      "desc": "Premium produce market; Morning; Seasonal fruit, prepared foods"
+    },
+    {
+      "name": "Central Park Bangkok (food & Michelin-recommended center)",
+      "coord": [
+        13.71,
+        100.54
+      ],
+      "desc": "Mall + food hall; Afternoon / evening; Street-food + MICHELIN-recommended opt..."
+    },
+    {
+      "name": "Bang Rak Market (via cooking classes)",
+      "coord": [
+        13.7633,
+        100.5103
+      ],
+      "desc": "Wet market; Morning; Fresh produce + ingredients"
+    },
+    {
+      "name": "Eiah-Sae",
+      "coord": [
+        13.7633,
+        100.5073
+      ],
+      "desc": "Old-school coffee shop; Morning; Thai coffee + snacks"
+    },
+    {
+      "name": "Raan Jay Fai",
+      "coord": [
+        13.7546,
+        100.5063
+      ],
+      "desc": "Street food (queue-heavy); Lunch / dinner; Crab omelet; drunken noodles"
+    },
+    {
+      "name": "Thipsamai Pad Thai",
+      "coord": [
+        13.759,
+        100.5078
+      ],
+      "desc": "Street food; Evening; Pad Thai"
+    },
+    {
+      "name": "Mae Varee Fruit Shop",
+      "coord": [
+        13.7356,
+        100.5728
+      ],
+      "desc": "Dessert shop; Afternoon / evening; Mango sticky rice"
+    },
+    {
+      "name": "Prachak Pet Yang",
+      "coord": [
+        13.7633,
+        100.5103
+      ],
+      "desc": "Roast duck shop; Lunch / dinner; Cantonese-style roast duck"
+    },
+    {
+      "name": "Doy Kuay Teow Reua",
+      "coord": [
+        13.7667,
+        100.545
+      ],
+      "desc": "Noodle spot; Lunch; Boat noodles (pork or beef)"
+    }
+  ],
+  "cityCenters": {
+    "Bangkok": [
+      13.7563,
+      100.5018,
+      8
+    ],
+    "Chiang Mai": [
+      18.7883,
+      98.9853,
+      6
+    ],
+    "Phuket": [
+      8.1847,
+      98.3948,
+      8
+    ],
+    "Koh Samui": [
+      8.95,
+      100.45,
+      5
+    ],
+    "Ayutthaya": [
+      14.3667,
+      100.5833,
+      4
+    ],
+    "Khao Yai": [
+      14.4289,
+      101.3559,
+      5
+    ],
+    "Kanchanaburi": [
+      14.3333,
+      99.5333,
+      4
+    ],
+    "Hua Hin": [
+      12.5667,
+      99.95,
+      4
+    ],
+    "Chiang Rai": [
+      19.9097,
+      100.181,
+      4
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "color": "#2563EB",
+      "title": "Greatest Hits",
+      "subtitle": "Classic Thailand: Ancient Temples & Beach Paradise",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Bangkok - Old Town Icons",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental, Bangkok",
+              "coord": [
+                13.7236,
+                100.5155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Grand Palace & Wat Phra Kaew",
+              "coord": [
+                13.75,
+                100.4914
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Issaya Siamese Club",
+              "coord": [
+                13.736,
+                100.5558
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Bangkok Temples & Waterways",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Floral Café at Napasorn",
+              "coord": [
+                13.7546,
+                100.4998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wat Pho (Reclining Buddha)",
+              "coord": [
+                13.7466,
+                100.4932
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wat Arun (Temple of Dawn)",
+              "coord": [
+                13.7431,
+                100.4851
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Supanniga Eating Room",
+              "coord": [
+                13.7546,
+                100.4998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Canal (khlong) tour",
+              "coord": [
+                13.745,
+                100.5
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Normandie",
+              "coord": [
+                13.7236,
+                100.5155
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Markets & Street Food",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pak Khlong Talat flower market",
+              "coord": [
+                13.7546,
+                100.4998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chatuchak Weekend Market",
+              "coord": [
+                13.8,
+                100.55
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Err",
+              "coord": [
+                13.7588,
+                100.5063
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown (Yaowarat) food crawl",
+              "coord": [
+                13.7633,
+                100.5073
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sorn",
+              "coord": [
+                13.7174,
+                100.5717
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bangkok Fine Dining & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Jim Thompson House Museum",
+              "coord": [
+                13.7338,
+                100.5454
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Raan Jay Fai",
+              "coord": [
+                13.7546,
+                100.5063
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "100 Tonson Foundation",
+              "coord": [
+                13.7487,
+                100.5667
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Du",
+              "coord": [
+                13.7267,
+                100.5367
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Day Trip: Ayutthaya",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Bangkok hotel",
+              "coord": [
+                13.7236,
+                100.5155
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ayutthaya ruins (UNESCO)",
+              "coord": [
+                14.3667,
+                100.5833
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ayutthaya local restaurant",
+              "coord": [
+                14.3667,
+                100.5833
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Temple cycling tour",
+              "coord": [
+                14.3667,
+                100.5833
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bangkok restaurant",
+              "coord": [
+                13.7267,
+                100.5367
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Bangkok to Chiang Mai",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chatuchak market",
+              "coord": [
+                13.8,
+                100.55
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Four Seasons Resort Chiang Mai",
+              "coord": [
+                18.8083,
+                98.9214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Meena Rice Based Cuisine",
+              "coord": [
+                18.7683,
+                98.9758
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Doi Suthep Temple",
+              "coord": [
+                18.8083,
+                98.9214
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Khao (Four Seasons)",
+              "coord": [
+                18.8083,
+                98.9214
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Chiang Mai Old City & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Chiang Mai",
+              "coord": [
+                18.8083,
+                98.9214
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chiang Mai Old City temple walk",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Huen Jai Yong",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Night markets (Chiang Mai)",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "North by Four Seasons",
+              "coord": [
+                18.8083,
+                98.9214
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Chiang Mai to Phuket",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chiang Mai hotel",
+              "coord": [
+                18.8083,
+                98.9214
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Amanpuri",
+              "coord": [
+                8.175,
+                98.2975
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "PRU",
+              "coord": [
+                8.125,
+                98.4
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach relaxation",
+              "coord": [
+                8.175,
+                98.2975
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Trisara resort dining",
+              "coord": [
+                8.25,
+                98.3
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Phuket Old Town & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Amanpuri",
+              "coord": [
+                8.175,
+                98.2975
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Phuket Old Town",
+              "coord": [
+                8.1233,
+                98.3867
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Phuket Old Town cafés",
+              "coord": [
+                8.1233,
+                98.3867
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wat Chalong",
+              "coord": [
+                8.08,
+                98.3933
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Jampa",
+              "coord": [
+                8.2,
+                98.35
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Phuket Beaches & Island Hopping",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Amanpuri",
+              "coord": [
+                8.175,
+                98.2975
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kata Beach",
+              "coord": [
+                8.1667,
+                98.3167
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kata Beach restaurants",
+              "coord": [
+                8.1667,
+                98.3167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Nai Harn Beach",
+              "coord": [
+                8.05,
+                98.3167
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hom",
+              "coord": [
+                8.15,
+                98.35
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Phuket to Koh Samui",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Amanpuri",
+              "coord": [
+                8.175,
+                98.2975
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Four Seasons Resort Koh Samui",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Koh Samui restaurant",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach relaxation",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Four Seasons Koh Samui",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Koh Samui Island Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Koh Samui",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach club day",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach club",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sunset at the beach",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort dining",
+              "coord": [
+                8.95,
+                100.45
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "color": "#059669",
+      "title": "Hidden Gems & Deep Culture",
+      "subtitle": "Off-the-Beaten Path: Forests, Artisans & Local Life",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Bangkok - Local Neighborhoods",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "SALA Rattanakosin",
+              "coord": [
+                13.7505,
+                100.4927
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Old Town temple cluster",
+              "coord": [
+                13.75,
+                100.495
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Nang Loeng Market snack crawl",
+              "coord": [
+                13.7667,
+                100.5267
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wang Lang Market grazing",
+              "coord": [
+                13.7633,
+                100.4867
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Baan Tepa",
+              "coord": [
+                13.7383,
+                100.5658
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Bangkok Canals & Artisan Workshops",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SALA Rattanakosin",
+              "coord": [
+                13.7505,
+                100.4927
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Canal (khlong) tour",
+              "coord": [
+                13.745,
+                100.5
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local floating market food",
+              "coord": [
+                13.7733,
+                100.4867
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jim Thompson House Museum",
+              "coord": [
+                13.7338,
+                100.5454
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Blue Elephant Cooking School",
+              "coord": [
+                13.7267,
+                100.5367
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day Trip: Khao Yai National Park",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Bangkok hotel",
+              "coord": [
+                13.7505,
+                100.4927
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Khao Yai National Park",
+              "coord": [
+                14.4289,
+                101.3559
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Park restaurant",
+              "coord": [
+                14.4289,
+                101.3559
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Guided nature walks",
+              "coord": [
+                14.4289,
+                101.3559
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bangkok restaurant",
+              "coord": [
+                13.7383,
+                100.5658
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bangkok Contemporary Art & Dining",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SALA Rattanakosin",
+              "coord": [
+                13.7505,
+                100.4927
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "100 Tonson Foundation",
+              "coord": [
+                13.7487,
+                100.5667
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cadence by Dan Bark",
+              "coord": [
+                13.7475,
+                100.5556
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bang Krachao bike ride",
+              "coord": [
+                13.6056,
+                100.5819
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Gaa",
+              "coord": [
+                13.7435,
+                100.5606
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Bangkok to Chiang Mai",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Tingly Thai Cooking School",
+              "coord": [
+                13.745,
+                100.51
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "137 Pillars House Chiang Mai",
+              "coord": [
+                18.7768,
+                98.9758
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Meena Rice Based Cuisine",
+              "coord": [
+                18.7683,
+                98.9758
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chiang Mai Old City walk",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Huen Jai Yong",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Chiang Mai Temples & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "137 Pillars House",
+              "coord": [
+                18.7768,
+                98.9758
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Doi Suthep Temple",
+              "coord": [
+                18.8083,
+                98.9214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant",
+              "coord": [
+                18.8083,
+                98.9214
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chiang Mai Sunday Walking Street",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Chiang Mai local dining",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Chiang Mai Artisan & Nature",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "137 Pillars House",
+              "coord": [
+                18.7768,
+                98.9758
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Local craft workshops",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Rural restaurant",
+              "coord": [
+                18.7683,
+                98.9758
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Night markets",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Culinary experience",
+              "coord": [
+                18.7875,
+                98.9875
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Chiang Mai to Khao Sok",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chiang Mai hotel",
+              "coord": [
+                18.7768,
+                98.9758
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Elephant Hills (ethical camp)",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Khao Sok restaurant",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jungle walk",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Camp dining",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Khao Sok Nature & Ethical Wildlife",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Elephant Hills",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elephant Hills ethical program",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Camp restaurant",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Rainforest lake activities",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Camp dining",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Khao Sok to Phuket",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Elephant Hills",
+              "coord": [
+                8.7167,
+                98.55
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Keemala",
+              "coord": [
+                8.3333,
+                98.35
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Heh",
+              "coord": [
+                8.1667,
+                98.3667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach relaxation",
+              "coord": [
+                8.3333,
+                98.35
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Keemala dining",
+              "coord": [
+                8.3333,
+                98.35
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Phuket Culture & Quiet Beaches",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Keemala",
+              "coord": [
+                8.3333,
+                98.35
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Phuket Old Town heritage walk",
+              "coord": [
+                8.1233,
+                98.3867
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Phuket Old Town cafés",
+              "coord": [
+                8.1233,
+                98.3867
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Nai Harn Beach",
+              "coord": [
+                8.05,
+                98.3167
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Jampa",
+              "coord": [
+                8.2,
+                98.35
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Phuket Ethical Experiences",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Keemala",
+              "coord": [
+                8.3333,
+                98.35
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ethical elephant visit",
+              "coord": [
+                8.25,
+                98.35
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant",
+              "coord": [
+                8.25,
+                98.35
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sunset beach walk",
+              "coord": [
+                8.05,
+                98.3167
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Fine dining",
+              "coord": [
+                8.2,
+                98.35
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "color": "#D97706",
+      "title": "Slow Family & Beach Pace",
+      "subtitle": "Relaxed Journey: Pools, Beaches & Family Time",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrive Bangkok - Rest & Explore",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Siam Kempinski Hotel Bangkok",
+              "coord": [
+                13.7464,
+                100.5398
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Central Park Bangkok",
+              "coord": [
+                13.71,
+                100.54
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Central Park food hall",
+              "coord": [
+                13.71,
+                100.54
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Benjakitti Park",
+              "coord": [
+                13.7344,
+                100.5619
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "R-Haan",
+              "coord": [
+                13.7288,
+                100.5356
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Bangkok Kid-Friendly Sights",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Siam Kempinski",
+              "coord": [
+                13.7464,
+                100.5398
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Grand Palace & Wat Phra Kaew",
+              "coord": [
+                13.75,
+                100.4914
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bangkok restaurant",
+              "coord": [
+                13.75,
+                100.5
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taling Chan Floating Market",
+              "coord": [
+                13.7733,
+                100.4867
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Nahm",
+              "coord": [
+                13.7229,
+                100.5336
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Temples & Markets at Pace",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pak Khlong Talat",
+              "coord": [
+                13.7546,
+                100.4998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wat Pho",
+              "coord": [
+                13.7466,
+                100.4932
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Supanniga Eating Room",
+              "coord": [
+                13.7546,
+                100.4998
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest time",
+              "coord": [
+                13.7464,
+                100.5398
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wang Lang Market",
+              "coord": [
+                13.7633,
+                100.4867
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Issaya Siamese Club",
+              "coord": [
+                13.736,
+                100.5558
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day Trip: Elephant Haven & Nature",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Siam Kempinski",
+              "coord": [
+                13.7464,
+                100.5398
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elephant Haven Thailand",
+              "coord": [
+                14.1089,
+                99.3303
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant",
+              "coord": [
+                14.1089,
+                99.3303
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Erawan Falls",
+              "coord": [
+                14.3889,
+                99.2078
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bangkok restaurant",
+              "coord": [
+                13.7288,
+                100.5356
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Bangkok to Hua Hin",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Siam Kempinski",
+              "coord": [
+                13.7464,
+                100.5398
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Chiva-Som Hua Hin",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Chiva-Som restaurant",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach relaxation",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort dining",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Hua Hin Wellness & Beach",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chiva-Som",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach morning swim",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Chiva-Som",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Spa time",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach walk",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort restaurant",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Hua Hin Slow Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chiva-Som",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach & pool day",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beachside",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sunset beach walk",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort dining",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Hua Hin to Phuket",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chiva-Som",
+              "coord": [
+                12.5667,
+                99.95
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Anantara Layan Phuket Resort",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Resort restaurant",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach exploration",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort dining",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Phuket Family Beaches",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Anantara Layan",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kata Beach",
+              "coord": [
+                8.1667,
+                98.3167
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kata Beach restaurants",
+              "coord": [
+                8.1667,
+                98.3167
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Nai Harn Beach",
+              "coord": [
+                8.05,
+                98.3167
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort dining",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Phuket Old Town & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Anantara Layan",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Phuket Old Town",
+              "coord": [
+                8.1233,
+                98.3867
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Old Town cafés",
+              "coord": [
+                8.1233,
+                98.3867
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Phuket Walking Street Market",
+              "coord": [
+                8.1233,
+                98.3867
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "PRU",
+              "coord": [
+                8.125,
+                98.4
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Phuket to Koh Samui",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Anantara Layan",
+              "coord": [
+                8.2833,
+                98.2667
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Ritz-Carlton, Koh Samui",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Resort restaurant",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Splash park & beach",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort dining",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Koh Samui Family Paradise",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Ritz-Carlton Koh Samui",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kids club & beach day",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Resort",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon pool time",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Family beach time",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort restaurants",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Last Day in Paradise",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Ritz-Carlton Koh Samui",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Final beach morning",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Resort restaurant",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Packing & relaxation",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sunset celebration",
+              "coord": [
+                9.0167,
+                100.4667
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

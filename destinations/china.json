@@ -1,0 +1,3994 @@
+{
+  "key": "china",
+  "name": "China Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇨🇳",
+  "defaultCenter": [
+    30.0,
+    114.0
+  ],
+  "defaultZoom": 5,
+  "hotels": [
+    {
+      "name": "Regent Hong Kong",
+      "coord": [
+        22.2951,
+        114.1721
+      ],
+      "desc": "Reimagined Kowloon landmark; Victoria Harbour view rooms; destination dining ..."
+    },
+    {
+      "name": "The Upper House",
+      "coord": [
+        22.279,
+        114.1654
+      ],
+      "desc": "Large rooms by André Fu; serene service; walkable to Central/SoHo"
+    },
+    {
+      "name": "Four Seasons Hotel Hong Kong",
+      "coord": [
+        22.2945,
+        114.1737
+      ],
+      "desc": "Harbour views; renowned spa; Michelin-star dining at Caprice & Lung King Heen"
+    },
+    {
+      "name": "The Peninsula Hong Kong",
+      "coord": [
+        22.2937,
+        114.1717
+      ],
+      "desc": "Legendary service; afternoon tea; spa + skyline pool; classic harbour frontage"
+    },
+    {
+      "name": "Island Shangri-La, Hong Kong",
+      "coord": [
+        22.2803,
+        114.1751
+      ],
+      "desc": "Family Suites with playful themes; easy access to Central; big pool/spa"
+    },
+    {
+      "name": "Rosewood Hong Kong",
+      "coord": [
+        22.302,
+        114.1676
+      ],
+      "desc": "Sky-high rooms & suites; direct access to K11 MUSEA; acclaimed bars & dining"
+    },
+    {
+      "name": "The Ritz-Carlton, Hong Kong",
+      "coord": [
+        22.3072,
+        114.1645
+      ],
+      "desc": "One of the world’s highest hotels; panoramic harbour views; spa/pool in the c..."
+    },
+    {
+      "name": "Mandarin Oriental, Hong Kong",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Historic address; standout spa; classic bars; walkable to shopping/dining"
+    },
+    {
+      "name": "The Landmark Mandarin Oriental, Hong Kong",
+      "coord": [
+        22.2849,
+        114.1744
+      ],
+      "desc": "Superb urban spa; sleek rooms; steps from Landmark luxury shopping"
+    },
+    {
+      "name": "The Murray, Hong Kong",
+      "coord": [
+        22.2868,
+        114.1748
+      ],
+      "desc": "Adaptive-reuse landmark; rooftop views; easy access to Peak Tram & parks"
+    },
+    {
+      "name": "The St. Regis Hong Kong",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Spacious rooms; butler service; close to HK Convention Centre & restaurants"
+    },
+    {
+      "name": "The Hari Hong Kong",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Fashion-forward design; great restaurants; good base for HK Island exploring"
+    },
+    {
+      "name": "Kerry Hotel, Hong Kong",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Big rooms; harbourfront pool deck; near Star Ferry/Harbourfront walks"
+    },
+    {
+      "name": "Hotel ICON",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Great pool; harbour views; easy Kowloon base near museums"
+    },
+    {
+      "name": "The Fullerton Ocean Park Hotel Hong Kong",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Coastal views; kid-friendly facilities; close to Ocean Park"
+    },
+    {
+      "name": "Tai O Heritage Hotel",
+      "coord": [
+        22.275,
+        113.885
+      ],
+      "desc": "Converted colonial police station; charming village stay; great with a day tr..."
+    },
+    {
+      "name": "Four Seasons Hotel Shenzhen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "High-rise views; excellent service; central Futian location"
+    },
+    {
+      "name": "The Langham, Shenzhen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Spacious rooms; strong dining; central to Futian shopping"
+    },
+    {
+      "name": "Mandarin Oriental, Shenzhen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Skyline views; signature MO service; destination spa"
+    },
+    {
+      "name": "The Ritz-Carlton, Shenzhen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Polished rooms; strong club lounge; walkable to COCO Park area"
+    },
+    {
+      "name": "The St. Regis Shenzhen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Occupies top floors of KK100; butler service; easy base for Luohu"
+    },
+    {
+      "name": "The St. Regis Shenzhen Bao'an",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern luxury in Bao'an district; convenient for west Shenzhen"
+    },
+    {
+      "name": "Rosewood Guangzhou",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Occupies top floors; skyline views; strong dining + pool/spa"
+    },
+    {
+      "name": "Four Seasons Hotel Guangzhou",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "High-rise elegance; top-notch service; convenient Tianhe location"
+    },
+    {
+      "name": "The Ritz-Carlton, Guangzhou",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Club lounge; polished rooms; Pearl River views nearby"
+    },
+    {
+      "name": "Mandarin Oriental, Guangzhou",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Excellent spa; MO service; easy access to shopping malls"
+    },
+    {
+      "name": "Conrad Guangzhou",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Understated rooms; strong breakfast; central business district"
+    },
+    {
+      "name": "White Swan Hotel",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Classic riverfront address; great base for old Guangzhou & Shamian strolls"
+    },
+    {
+      "name": "Amanyangyun",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Aman-style sanctuary; villas; easy city escape"
+    },
+    {
+      "name": "Bvlgari Hotel Shanghai",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Bvlgari aesthetic; Bund proximity; standout dining/spa"
+    },
+    {
+      "name": "Capella Shanghai, Jian Ye Li",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Shikumen lane-house villas; impeccable service; quiet luxury"
+    },
+    {
+      "name": "The PuLi Hotel and Spa",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Sleek urban retreat; excellent spa; walkable Jing'an"
+    },
+    {
+      "name": "The Peninsula Shanghai",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Art deco vibe; Bund views; spa/pool; great for first-timers"
+    },
+    {
+      "name": "Mandarin Oriental Pudong, Shanghai",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Spacious rooms; strong spa; convenient Pudong base"
+    },
+    {
+      "name": "The Ritz-Carlton Shanghai, Pudong",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "High floors; Bund-facing views; noted family-friendly perks"
+    },
+    {
+      "name": "The Shanghai EDITION",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Boutique-lux vibe; great nightlife; close to Bund & Nanjing Rd"
+    },
+    {
+      "name": "Park Hyatt Shanghai",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Minimalist rooms; iconic tower location; excellent views"
+    },
+    {
+      "name": "Fairmont Peace Hotel",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Jazz-age icon; Bund location; classic public rooms"
+    },
+    {
+      "name": "J Hotel Shanghai Tower",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Ultra-high floors; panoramic skyline; landmark address"
+    },
+    {
+      "name": "Mandarin Oriental Qianmen, Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Low-rise luxury among historic lanes; serene spa"
+    },
+    {
+      "name": "Mandarin Oriental Wangfujing, Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Refined modern rooms; close to Forbidden City area"
+    },
+    {
+      "name": "The Peninsula Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "All-suite style rooms; excellent service; central location"
+    },
+    {
+      "name": "Rosewood Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Chic rooms; destination dining; strong spa"
+    },
+    {
+      "name": "The PuXuan Hotel and Spa",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Design-forward; excellent spa; near historic core"
+    },
+    {
+      "name": "Waldorf Astoria Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Prime shopping district; refined rooms; easy sightseeing base"
+    },
+    {
+      "name": "The St. Regis Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Grand old-school feel; strong service; convenient to embassy area"
+    },
+    {
+      "name": "Regent Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Central, comfortable; good for families needing space"
+    },
+    {
+      "name": "The Ritz-Carlton, Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Urban sophistication; great club lounge"
+    },
+    {
+      "name": "The Ritz-Carlton Beijing, Financial Street",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Quiet, polished; good for West Beijing"
+    },
+    {
+      "name": "Kerry Hotel, Beijing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Indoor play facilities; connected to mall; easy transit"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Ta Vie",
+      "coord": [
+        22.276,
+        114.1815
+      ],
+      "desc": "Tasting menus blending French/Japanese techniques; special-occasion dining"
+    },
+    {
+      "name": "Caprice",
+      "coord": [
+        22.2945,
+        114.1737
+      ],
+      "desc": "Harbour views + classic French luxury dining"
+    },
+    {
+      "name": "T'ang Court",
+      "coord": [
+        22.281,
+        114.179
+      ],
+      "desc": "Elegant Cantonese in a grand setting"
+    },
+    {
+      "name": "Sushi Shikon",
+      "coord": [
+        22.284,
+        114.179
+      ],
+      "desc": "Intimate, high-end Edo-style sushi counter"
+    },
+    {
+      "name": "8 1/2 Otto e Mezzo - Bombana",
+      "coord": [
+        22.28,
+        114.1745
+      ],
+      "desc": "White-truffle season icon; flagship of Umberto Bombana"
+    },
+    {
+      "name": "Forum",
+      "coord": [
+        22.2742,
+        114.1788
+      ],
+      "desc": "Celebrated abalone-focused Cantonese fine dining"
+    },
+    {
+      "name": "Amber",
+      "coord": [
+        22.2849,
+        114.1744
+      ],
+      "desc": "Produce-forward fine dining; standout wine program"
+    },
+    {
+      "name": "Arbor",
+      "coord": [
+        22.281,
+        114.175
+      ],
+      "desc": "Chef-driven tasting menus with skyline views"
+    },
+    {
+      "name": "Lai Ching Heen",
+      "coord": [
+        22.2872,
+        114.1758
+      ],
+      "desc": "Refined Cantonese in an iconic harbourfront hotel"
+    },
+    {
+      "name": "Lung King Heen",
+      "coord": [
+        22.2945,
+        114.1737
+      ],
+      "desc": "Legendary dim sum + Cantonese; a classic splurge"
+    },
+    {
+      "name": "Tate",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern Chinese through a fine-dining lens"
+    },
+    {
+      "name": "Tin Lung Heen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Sky-high Cantonese with views"
+    },
+    {
+      "name": "Ying Jee Club",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Opulent Cantonese banquet-style dining"
+    },
+    {
+      "name": "The Chairman",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Ingredient-driven Cantonese; famous for seasonal seafood"
+    },
+    {
+      "name": "Wing",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern Cantonese tasting led by Vicky Cheng"
+    },
+    {
+      "name": "Ho Lee Fook",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Playful modern Chinese; great vibe"
+    },
+    {
+      "name": "Vea",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Tasting menus pairing Chinese techniques with French structure"
+    },
+    {
+      "name": "Neighborhood",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Hyper-seasonal chef’s menu; cult favorite"
+    },
+    {
+      "name": "Louise",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern French in a historic landmark setting"
+    },
+    {
+      "name": "Roganic",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Sustainable cooking; elegant tasting menus"
+    },
+    {
+      "name": "Duddell's",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Upscale dim sum + art-filled interiors"
+    },
+    {
+      "name": "Arcane",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Contemporary plates; strong lunch/dinner tasting options"
+    },
+    {
+      "name": "Chaat",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "High-energy Indian small plates (reserve ahead)"
+    },
+    {
+      "name": "Épure",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Beautiful dining room; polished French-leaning tasting menus"
+    },
+    {
+      "name": "Petrus",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Classic French fine dining + wine cellar"
+    },
+    {
+      "name": "Yardbird",
+      "coord": [
+        22.285,
+        114.167
+      ],
+      "desc": "Iconic yakitori + cocktails; lively"
+    },
+    {
+      "name": "Bar Leone",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Italian-inspired neighborhood bar; world-class drinks"
+    },
+    {
+      "name": "Argo",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Glam bar known for inventive ingredient-led cocktails"
+    },
+    {
+      "name": "Coa",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "One of the world’s best agave bars; extensive mezcal/tequila"
+    },
+    {
+      "name": "Penicillin",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Zero-waste-ish cocktail program; creative seasonal menus"
+    },
+    {
+      "name": "The Savory Project",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Savory cocktails + chef-y bar snacks"
+    },
+    {
+      "name": "Gokan",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Japanese-style cocktails with precision service"
+    },
+    {
+      "name": "Robuchon au Dôme",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Signature Robuchon experience; wine list splurge"
+    },
+    {
+      "name": "Jade Dragon",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Luxury Cantonese fine dining"
+    },
+    {
+      "name": "Alain Ducasse at Morpheus",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Ducasse’s Macau flagship in a statement hotel"
+    },
+    {
+      "name": "The Eight",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Dim sum + Cantonese in an opulent setting"
+    },
+    {
+      "name": "Wing Lei",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Elegant Cantonese in a luxury resort"
+    },
+    {
+      "name": "The Huaiyang Garden",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Refined Jiangsu/Huaiyang cuisine"
+    },
+    {
+      "name": "Chef Tam's Seasons",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Acclaimed Cantonese tasting; consistently lauded"
+    },
+    {
+      "name": "Zi Yat Heen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Elegant Cantonese in a classic luxury property"
+    },
+    {
+      "name": "Jiang by Chef Fei",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "High-end Cantonese with modern polish"
+    },
+    {
+      "name": "Imperial Treasure Fine Chinese Cuisine",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Luxury Cantonese; known for roast meats & seafood"
+    },
+    {
+      "name": "Taian Table",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Chef’s counter tasting; modern techniques"
+    },
+    {
+      "name": "Yu Garden",
+      "coord": [
+        31.2298,
+        121.4948
+      ],
+      "desc": "Refined Cantonese; strong banquet options"
+    },
+    {
+      "name": "BingSheng Private Kitchen (Tianhe East Road)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Upmarket Cantonese; famous locally (reserve)"
+    },
+    {
+      "name": "Imperial Treasure Fine Teochew Cuisine",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Elegant Chaozhou seafood-focused dining"
+    },
+    {
+      "name": "Chōwa",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "High-end Japanese with seasonal omakase"
+    },
+    {
+      "name": "Song",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Contemporary Cantonese fine dining"
+    },
+    {
+      "name": "Stiller",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern European tasting menus; intimate setting"
+    },
+    {
+      "name": "Yong",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Sustainability-minded fine dining; seasonal tasting"
+    },
+    {
+      "name": "Lai Heen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Hotel fine dining; polished Cantonese classics"
+    },
+    {
+      "name": "Hope & Sesame",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Speakeasy-style cocktails in an old building"
+    },
+    {
+      "name": "MO Bar Shenzhen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Glossy hotel bar with serious cocktails"
+    },
+    {
+      "name": "Obsidian Bar",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Stylish Shenzhen cocktail spot (ranked in extended list)"
+    },
+    {
+      "name": "Taian Table",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Chef’s counter tasting; high-concept modern cuisine"
+    },
+    {
+      "name": "8 ½ Otto e Mezzo Bombana",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Bombana’s Shanghai outpost; truffle season favorite"
+    },
+    {
+      "name": "102 House",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Cantonese haute cuisine; frequently top-ranked"
+    },
+    {
+      "name": "Da Vittorio",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Italian fine dining from the famed family group"
+    },
+    {
+      "name": "Bao Li Xuan",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Cantonese luxury dining (hotel setting)"
+    },
+    {
+      "name": "Imperial Treasure Fine Chinese Cuisine",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Premium Cantonese & roast meats"
+    },
+    {
+      "name": "Meet the Bund",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Sophisticated Chinese dining with Bund energy"
+    },
+    {
+      "name": "Fu He Hui",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Elegant vegetarian tasting with tea pairings"
+    },
+    {
+      "name": "Ling Long",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern fine dining; creative tasting menus"
+    },
+    {
+      "name": "YongFoo Élite",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Classic Shanghainese in a historic villa"
+    },
+    {
+      "name": "Phénix",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Polished French fine dining"
+    },
+    {
+      "name": "Epic",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "High-energy cocktail bar; strong drinks program"
+    },
+    {
+      "name": "King's Joy",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Temple-adjacent vegetarian tasting; serene atmosphere"
+    },
+    {
+      "name": "Lamdre",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern tasting menus; acclaimed Beijing fine dining"
+    },
+    {
+      "name": "Jingji",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Elevated Beijing cooking in a refined setting"
+    },
+    {
+      "name": "Blackswan",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Romantic French tasting menus; special occasion spot"
+    },
+    {
+      "name": "TRB Hutong",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Atmospheric hutong courtyard fine dining"
+    },
+    {
+      "name": "The Georg",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Polished modern European in the historic core"
+    },
+    {
+      "name": "Mansion Cuisine by Jingyan",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Creative Chinese tasting; high-touch service"
+    },
+    {
+      "name": "Xin Rong Ji (Xinyuan South Road)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Seafood-centric Taizhou; power-dinner favorite"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Victoria Peak / Peak Tram",
+      "coord": [
+        22.2759,
+        114.1455
+      ],
+      "desc": "Classic skyline viewpoint; go early for fewer crowds"
+    },
+    {
+      "name": "Star Ferry (Central↔Tsim Sha Tsui)",
+      "coord": [
+        22.2933,
+        114.1688
+      ],
+      "desc": "Short, cheap harbour ride; sunset is magic"
+    },
+    {
+      "name": "Symphony of Lights / Harbourfront promenade",
+      "coord": [
+        22.2856,
+        114.1784
+      ],
+      "desc": "Evening light show + waterfront stroll"
+    },
+    {
+      "name": "M+ Museum",
+      "coord": [
+        22.301,
+        114.1601
+      ],
+      "desc": "Top contemporary visual culture museum in the arts district"
+    },
+    {
+      "name": "Hong Kong Palace Museum",
+      "coord": [
+        22.3015,
+        114.1626
+      ],
+      "desc": "Imperial-art exhibitions; great AC break"
+    },
+    {
+      "name": "Tai Kwun Centre for Heritage & Arts",
+      "coord": [
+        22.2872,
+        114.1697
+      ],
+      "desc": "Revitalized former police compound with galleries + cafes"
+    },
+    {
+      "name": "PMQ",
+      "coord": [
+        22.2857,
+        114.1674
+      ],
+      "desc": "Local designer shops + pop-ups; good souvenir stop"
+    },
+    {
+      "name": "Central–Mid-Levels Escalator & SoHo walk",
+      "coord": [
+        22.287,
+        114.1718
+      ],
+      "desc": "Easy way to explore Central’s lanes, cafes, bars"
+    },
+    {
+      "name": "Man Mo Temple",
+      "coord": [
+        22.2837,
+        114.1626
+      ],
+      "desc": "Atmospheric temple with incense coils"
+    },
+    {
+      "name": "Wong Tai Sin Temple",
+      "coord": [
+        22.3375,
+        114.1925
+      ],
+      "desc": "Colorful complex; easy MTR access"
+    },
+    {
+      "name": "Chi Lin Nunnery + Nan Lian Garden",
+      "coord": [
+        22.342,
+        114.2126
+      ],
+      "desc": "Serene gardens; great sensory break"
+    },
+    {
+      "name": "Hong Kong Tramways (ding ding)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Double-decker tram ride across neighborhoods"
+    },
+    {
+      "name": "Big Buddha (Tian Tan Buddha) + Po Lin Monastery",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Cable car views + iconic statue; combine with lunch"
+    },
+    {
+      "name": "Ngong Ping 360 Cable Car",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "25-min cable car ride; crystal cabin option"
+    },
+    {
+      "name": "Dragon’s Back hike",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "One of HK’s best hikes with sea views"
+    },
+    {
+      "name": "Repulse Bay",
+      "coord": [
+        22.248,
+        114.178
+      ],
+      "desc": "Easy beach day; kid-friendly sand + promenade"
+    },
+    {
+      "name": "Tai O fishing village",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Stilt houses, dried seafood, boat rides"
+    },
+    {
+      "name": "Lamma Island day trip",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Easy ferry; seafood lunch + flat walks"
+    },
+    {
+      "name": "Sai Kung (town + boat trips)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Seafood town + access to beaches/geopark"
+    },
+    {
+      "name": "Hong Kong Geopark (boat tour)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Dramatic sea arches/columns (best in good weather)"
+    },
+    {
+      "name": "Temple Street Night Market",
+      "coord": [
+        22.3064,
+        114.171
+      ],
+      "desc": "Classic night-market energy; snacks + souvenirs"
+    },
+    {
+      "name": "Hong Kong Disneyland",
+      "coord": [
+        22.3137,
+        113.9423
+      ],
+      "desc": "Classic Disney day; easiest with stroller + breaks"
+    },
+    {
+      "name": "Ocean Park Hong Kong",
+      "coord": [
+        22.2456,
+        114.1783
+      ],
+      "desc": "Animals + rides + ocean views"
+    },
+    {
+      "name": "OCT-LOFT Creative Culture Park",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Galleries, cafes, creative shops in a converted industrial area"
+    },
+    {
+      "name": "Window of the World",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Mini-landmarks theme park; easy family day"
+    },
+    {
+      "name": "Splendid China Folk Village",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Cultural performances + miniature villages"
+    },
+    {
+      "name": "Dafen Oil Painting Village",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Studios + art shopping; fun to browse"
+    },
+    {
+      "name": "Shenzhen Bay Park",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Long bayfront promenade; great stroller walk"
+    },
+    {
+      "name": "MO Bar Shenzhen",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Ranked on Asia’s 50 Best Bars list; polished hotel bar"
+    },
+    {
+      "name": "Canton Tower",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Observation decks + skyline views; night lighting"
+    },
+    {
+      "name": "Shamian Island",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Leafy colonial-era streets; stroller-friendly"
+    },
+    {
+      "name": "Chen Clan Ancestral Hall",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Classic Lingnan architecture + carvings"
+    },
+    {
+      "name": "Guangdong Museum",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern museum in Zhujiang New Town"
+    },
+    {
+      "name": "Pearl River night cruise",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "City lights from the water; easy evening activity"
+    },
+    {
+      "name": "Chimelong Safari Park",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "One of China’s top family attractions; safari + shows"
+    },
+    {
+      "name": "Hope & Sesame",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Top-ranked Asia’s 50 Best Bars entry"
+    },
+    {
+      "name": "The Bund",
+      "coord": [
+        31.2409,
+        121.499
+      ],
+      "desc": "Historic waterfront promenade; skyline photo spot"
+    },
+    {
+      "name": "Yu Garden (Yuyuan)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Classical garden + tea houses; pair with Old City snacks"
+    },
+    {
+      "name": "Shanghai Tower observation deck",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Sky-high views over the city (go near sunset)"
+    },
+    {
+      "name": "French Concession stroll",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Tree-lined lanes, cafes, architecture"
+    },
+    {
+      "name": "Xintiandi",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Stylish pedestrian area in restored shikumen buildings"
+    },
+    {
+      "name": "Tianzifang",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Labyrinth of boutiques + cafes; fun browsing"
+    },
+    {
+      "name": "West Bund art district",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Galleries + riverside walks; modern Shanghai vibe"
+    },
+    {
+      "name": "Power Station of Art",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Contemporary art museum in a repurposed power station"
+    },
+    {
+      "name": "Shanghai Museum",
+      "coord": [
+        31.2308,
+        121.4737
+      ],
+      "desc": "Chinese art & artifacts; good for short, focused visit"
+    },
+    {
+      "name": "Nanjing Road",
+      "coord": [
+        31.23,
+        121.46
+      ],
+      "desc": "Classic shopping street; fun at night"
+    },
+    {
+      "name": "Shanghai Disneyland",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "World-class Disney park; plan for a full day"
+    },
+    {
+      "name": "Shanghai Ocean Aquarium",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Tunnels + marine life; good rainy-day option"
+    },
+    {
+      "name": "Shanghai Natural History Museum",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Great exhibits; strong for families"
+    },
+    {
+      "name": "Shanghai Circus World (acrobats)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "High-energy acrobatics show"
+    },
+    {
+      "name": "Jade Buddha Temple",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Calm temple visit in the city"
+    },
+    {
+      "name": "Zhujiajiao Water Town",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Canals + bridges; easy day out"
+    },
+    {
+      "name": "Suzhou Classical Gardens",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "UNESCO gardens + canals; beautiful seasonal visit"
+    },
+    {
+      "name": "Hangzhou West Lake",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Boat rides + gardens + tea culture"
+    },
+    {
+      "name": "Amanyangyun day escape",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Spend the day at Aman-style retreat (spa/grounds/dining)"
+    },
+    {
+      "name": "Shanghai Astronomy Museum",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "One of the world’s largest astronomy museums; great exhibits"
+    },
+    {
+      "name": "Fuxing Park playground stop",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Green break in the city; good for stroller-friendly downtime"
+    },
+    {
+      "name": "Long Museum (West Bund)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Major contemporary art museum; pair with riverside walk"
+    },
+    {
+      "name": "Tea tasting in the Former French Concession",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Try premium teas + pastries; relaxing afternoon"
+    },
+    {
+      "name": "Spa ritual at a top hotel (e.g., Bvlgari/MO)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Signature treatments; jetlag reset"
+    },
+    {
+      "name": "Forbidden City (Palace Museum)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Must-see imperial palace; book tickets ahead"
+    },
+    {
+      "name": "Tiananmen Square",
+      "coord": [
+        39.9075,
+        116.3972
+      ],
+      "desc": "Historic square; pair with nearby museums"
+    },
+    {
+      "name": "Temple of Heaven Park",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Iconic temple + park stroll; morning is lively"
+    },
+    {
+      "name": "Summer Palace",
+      "coord": [
+        39.9975,
+        116.2741
+      ],
+      "desc": "Lakeside palace grounds; boat rides in season"
+    },
+    {
+      "name": "Great Wall at Mutianyu",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Family-friendly Great Wall section; stunning views"
+    },
+    {
+      "name": "Great Wall at Jinshanling",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "More rugged Wall hiking; fewer crowds than Badaling"
+    },
+    {
+      "name": "Hutong walk (Nanluoguxiang / Shichahai)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Old-lane vibe; lakeside cafes; great photos"
+    },
+    {
+      "name": "Yonghe Temple (Lama Temple)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Incense-filled Tibetan Buddhist temple complex"
+    },
+    {
+      "name": "798 Art District",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Galleries + design shops in former factories"
+    },
+    {
+      "name": "National Museum of China",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Huge national collections; go with a focus"
+    },
+    {
+      "name": "Jingshan Park",
+      "coord": [
+        39.9239,
+        116.4006
+      ],
+      "desc": "Best quick view over the Forbidden City (sunset)"
+    },
+    {
+      "name": "Beijing Olympic Park (Bird’s Nest/Water Cube)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Modern icons; best at night for lighting"
+    },
+    {
+      "name": "Universal Beijing Resort",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Big-ticket theme park day; plan early entry"
+    },
+    {
+      "name": "Capital Museum",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Well-curated Beijing history; good alternative to mega museums"
+    },
+    {
+      "name": "Prince Gong’s Mansion",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Gardened courtyard mansion; calm oasis"
+    },
+    {
+      "name": "Beijing Zoo (giant pandas)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Pandas are the main event; go early"
+    },
+    {
+      "name": "Peking duck night (fine-dining version)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Book an iconic duck dinner (Michelin options exist)"
+    },
+    {
+      "name": "Spa reset at a top hotel (MO/Rosewood)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Jetlag recovery; excellent treatments"
+    },
+    {
+      "name": "Day trip to Chengde Mountain Resort",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "UNESCO imperial resort with temples and huge grounds"
+    },
+    {
+      "name": "Evening at a top cocktail bar (Bar Leone-level craft, local picks)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Curate via top lists + hotel bars"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Hong Kong Disneyland",
+      "coord": [
+        22.3137,
+        113.9423
+      ],
+      "desc": "Disney classics; great for toddlers with stroller + nap breaks"
+    },
+    {
+      "name": "Ocean Park Hong Kong",
+      "coord": [
+        22.2456,
+        114.1783
+      ],
+      "desc": "Animals + aquarium + rides; stroller-friendly routes"
+    },
+    {
+      "name": "Hong Kong Science Museum",
+      "coord": [
+        22.2945,
+        114.176
+      ],
+      "desc": "Hands-on exhibits; great rainy-day stop"
+    },
+    {
+      "name": "Hong Kong Space Museum",
+      "coord": [
+        22.2948,
+        114.1717
+      ],
+      "desc": "Planetarium shows; pair with harbourfront stroll"
+    },
+    {
+      "name": "Hong Kong Park",
+      "coord": [
+        22.2803,
+        114.1751
+      ],
+      "desc": "Playground + aviary; easy mid-day break"
+    },
+    {
+      "name": "Star Ferry ride",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Quick harbour ride; fun ‘boat’ activity for toddlers"
+    },
+    {
+      "name": "Peak Tram + Victoria Peak",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Tram ride is the attraction; skyline payoff"
+    },
+    {
+      "name": "Ngong Ping 360 + Big Buddha",
+      "coord": [
+        22.2504,
+        113.9101
+      ],
+      "desc": "Cable car views; easy half-day with breaks"
+    },
+    {
+      "name": "Chi Lin Nunnery + Nan Lian Garden",
+      "coord": [
+        22.342,
+        114.2126
+      ],
+      "desc": "Calm, stroller-friendly gardens; good sensory reset"
+    },
+    {
+      "name": "Kowloon Park playground",
+      "coord": [
+        22.2975,
+        114.1706
+      ],
+      "desc": "Big playground + open space; good between museums"
+    },
+    {
+      "name": "Window of the World",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Mini world landmarks; lots of walking so plan breaks"
+    },
+    {
+      "name": "Splendid China Folk Village",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Shows + miniature villages; good family day"
+    },
+    {
+      "name": "Shenzhen Bay Park",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Long promenade; scooter-friendly for older kids"
+    },
+    {
+      "name": "Shenzhen Museum",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Good intro to the city; combine with nearby parks"
+    },
+    {
+      "name": "Chimelong Safari Park",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Signature family attraction; easy full-day plan"
+    },
+    {
+      "name": "Chimelong Paradise",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Big rides + family areas"
+    },
+    {
+      "name": "Canton Tower",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Skyline views; quick ‘wow’ activity"
+    },
+    {
+      "name": "Shamian Island",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Wide sidewalks + trees; easy stroller stroll"
+    },
+    {
+      "name": "Shanghai Disneyland",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Flagship family day; plan for crowd management"
+    },
+    {
+      "name": "Shanghai Ocean Aquarium",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Tunnels + marine life; great rainy day"
+    },
+    {
+      "name": "Shanghai Natural History Museum",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Dinosaurs + science exhibits; family-friendly"
+    },
+    {
+      "name": "Shanghai Astronomy Museum",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Spectacular exhibits; worth a half-day if kids love space"
+    },
+    {
+      "name": "Century Park",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Huge city park; boat rides + open lawns"
+    },
+    {
+      "name": "Universal Beijing Resort",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Top-tier theme park; best for older kids/teens"
+    },
+    {
+      "name": "China Science and Technology Museum",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Hands-on exhibits; great rainy-day backup"
+    },
+    {
+      "name": "Beijing Zoo (giant pandas)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Pandas are a highlight; go early"
+    },
+    {
+      "name": "Temple of Heaven Park",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Big park for running around; iconic temple"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Temple Street Night Market",
+      "coord": [
+        22.3064,
+        114.171
+      ],
+      "desc": "Street food + souvenirs; neon HK vibe"
+    },
+    {
+      "name": "Ladies' Market (Tung Choi Street)",
+      "coord": [
+        22.3204,
+        114.1674
+      ],
+      "desc": "Bargain shopping; fun for quick strolls"
+    },
+    {
+      "name": "Graham Street Market",
+      "coord": [
+        22.2849,
+        114.174
+      ],
+      "desc": "Local produce & snacks; great photo walk"
+    },
+    {
+      "name": "Flower Market Road",
+      "coord": [
+        22.3173,
+        114.165
+      ],
+      "desc": "Flowers + birds; colorful sensory stop"
+    },
+    {
+      "name": "Jade Market",
+      "coord": [
+        22.3063,
+        114.171
+      ],
+      "desc": "Jade jewelry + trinkets"
+    },
+    {
+      "name": "Stanley Market",
+      "coord": [
+        22.2126,
+        114.213
+      ],
+      "desc": "Souvenirs + beach-town energy"
+    },
+    {
+      "name": "Cat Street (Upper Lascar Row)",
+      "coord": [
+        22.2824,
+        114.1651
+      ],
+      "desc": "Vintage curios + kitsch antiques"
+    },
+    {
+      "name": "PMQ",
+      "coord": [
+        22.2857,
+        114.1674
+      ],
+      "desc": "Local designers, pop-ups, gifts"
+    },
+    {
+      "name": "K11 MUSEA / Victoria Dockside",
+      "coord": [
+        22.302,
+        114.1676
+      ],
+      "desc": "High-end shopping + art installations"
+    },
+    {
+      "name": "Sham Shui Po Fabric & gadget streets",
+      "coord": [
+        22.3262,
+        114.1597
+      ],
+      "desc": "Electronics, fabrics, street snacks"
+    },
+    {
+      "name": "Yuyuan Bazaar (Old City)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Snacks + souvenirs around Yu Garden"
+    },
+    {
+      "name": "Tianzifang",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Art studios, cafes, boutiques"
+    },
+    {
+      "name": "Nanjing Road Pedestrian Street",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Classic Shanghai retail + people-watching"
+    },
+    {
+      "name": "Panjiayuan (Dirt Market)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Antiques, art, curios; big weekend market"
+    },
+    {
+      "name": "Silk Market (Xiushui)",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Clothes, gifts, tailoring"
+    },
+    {
+      "name": "Beijing Road Pedestrian Street",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Food + shops in the city center"
+    },
+    {
+      "name": "Shangxiajiu Pedestrian Street",
+      "coord": [
+        22.2859,
+        114.1755
+      ],
+      "desc": "Old Guangzhou streetscape + snacks"
+    }
+  ],
+  "cityCenters": {
+    "Central": [
+      22.2859,
+      114.1755,
+      1.0
+    ],
+    "Tsim Sha Tsui": [
+      22.2933,
+      114.1688,
+      1.0
+    ],
+    "Mong Kok": [
+      22.3204,
+      114.1674,
+      0.8
+    ],
+    "Causeway Bay": [
+      22.276,
+      114.185,
+      0.8
+    ],
+    "Lantau": [
+      22.3137,
+      113.9423,
+      2.0
+    ],
+    "Stanley": [
+      22.2126,
+      114.213,
+      1.0
+    ],
+    "Beijing": [
+      39.9042,
+      116.4074,
+      4.0
+    ],
+    "Shanghai": [
+      31.2304,
+      121.4737,
+      4.0
+    ],
+    "Macau": [
+      22.1987,
+      113.5439,
+      2.0
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "title": "Greatest Hits",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival in Hong Kong - Peak & Harbour",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Regent Hong Kong",
+              "coord": [
+                22.2951,
+                114.1721
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Star Ferry",
+              "coord": [
+                22.2933,
+                114.1688
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ta Vie",
+              "coord": [
+                22.276,
+                114.1815
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Victoria Peak & Central Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Tai Cheong Bakery",
+              "coord": [
+                22.2867,
+                114.1691
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Victoria Peak / Peak Tram",
+              "coord": [
+                22.2759,
+                114.1455
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Din Tai Fung",
+              "coord": [
+                22.284,
+                114.175
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Central–Mid-Levels Escalator & SoHo walk",
+              "coord": [
+                22.287,
+                114.1718
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Caprice",
+              "coord": [
+                22.2945,
+                114.1737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Markets & Temples",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mak's Noodle",
+              "coord": [
+                22.2855,
+                114.175
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Temple Street Night Market",
+              "coord": [
+                22.3064,
+                114.171
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Man Mo Temple",
+              "coord": [
+                22.2837,
+                114.1626
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Luk Yu Tea House",
+              "coord": [
+                22.287,
+                114.1705
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "K11 MUSEA / Victoria Dockside",
+              "coord": [
+                22.302,
+                114.1676
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lung King Heen",
+              "coord": [
+                22.2945,
+                114.1737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Hong Kong Disneyland - Full Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hong Kong Disneyland Hotel",
+              "coord": [
+                22.3137,
+                113.9423
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hong Kong Disneyland",
+              "coord": [
+                22.3137,
+                113.9423
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                22.3137,
+                113.9423
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Disneyland Resort",
+              "coord": [
+                22.3137,
+                113.9423
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Big Buddha & Lantau Scenic Route",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                22.2951,
+                114.1721
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ngong Ping 360 + Big Buddha",
+              "coord": [
+                22.2504,
+                113.9101
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tai O Heritage Hotel",
+              "coord": [
+                22.275,
+                113.885
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Lantau Island Monastery",
+              "coord": [
+                22.25,
+                113.91
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mandarin Oriental, Hong Kong",
+              "coord": [
+                22.2859,
+                114.1755
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Museums & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Tai Cheong Bakery",
+              "coord": [
+                22.2867,
+                114.1691
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "M+ Museum",
+              "coord": [
+                22.301,
+                114.1601
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "K11 MUSEA Dining",
+              "coord": [
+                22.302,
+                114.1676
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hong Kong Palace Museum",
+              "coord": [
+                22.3015,
+                114.1626
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Tai Kwun Centre for Heritage & Arts",
+              "coord": [
+                22.2872,
+                114.1697
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Amber",
+              "coord": [
+                22.2849,
+                114.1744
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Flight to Beijing",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                22.2951,
+                114.1721
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Beijing Hotel",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Duck",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Forbidden City & Tiananmen",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Forbidden City",
+              "coord": [
+                39.9163,
+                116.3972
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beijing Restaurant",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tiananmen Square",
+              "coord": [
+                39.9075,
+                116.3972
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Beijing Cuisine",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Great Wall Adventure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Great Wall (Mutianyu)",
+              "coord": [
+                40.4319,
+                116.5704
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Wall-side Restaurant",
+              "coord": [
+                40.4319,
+                116.5704
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Ming Tombs",
+              "coord": [
+                40.2564,
+                116.2306
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Restaurant",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Summer Palace & Parks",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Summer Palace",
+              "coord": [
+                39.9975,
+                116.2741
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Summer Palace Restaurant",
+              "coord": [
+                39.9975,
+                116.2741
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jingshan Park",
+              "coord": [
+                39.9239,
+                116.4006
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Restaurant",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Flight to Shanghai",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Shanghai Hotel",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shanghai Cuisine",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "The Bund & Yu Garden",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Bund",
+              "coord": [
+                31.2409,
+                121.499
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Shanghai Restaurant",
+              "coord": [
+                31.2409,
+                121.499
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Yu Garden",
+              "coord": [
+                31.2298,
+                121.4948
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Oriental Pearl Tower",
+              "coord": [
+                31.2394,
+                121.5045
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Fine Dining Shanghai",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "French Concession & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "French Concession",
+              "coord": [
+                31.22,
+                121.45
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "French Restaurant",
+              "coord": [
+                31.22,
+                121.45
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Shanghai Museum",
+              "coord": [
+                31.2308,
+                121.4737
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Jing'an Temple",
+              "coord": [
+                31.2276,
+                121.4553
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shanghai Cuisine",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last-minute Shopping",
+              "coord": [
+                31.23,
+                121.46
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "title": "Hidden Gems & Deep Culture",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival - Explore Sheung Wan Old Town",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Murray, Hong Kong",
+              "coord": [
+                22.2868,
+                114.1748
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Man Mo Temple",
+              "coord": [
+                22.2837,
+                114.1626
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tai Cheong Bakery",
+              "coord": [
+                22.2867,
+                114.1691
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cat Street (Upper Lascar Row)",
+              "coord": [
+                22.2824,
+                114.1651
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Yardbird",
+              "coord": [
+                22.285,
+                114.167
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Hidden Temples & Peak Hiking",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Luk Yu Tea House",
+              "coord": [
+                22.287,
+                114.1705
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Wong Tai Sin Temple",
+              "coord": [
+                22.3375,
+                114.1925
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dragon Back Hike",
+              "coord": [
+                22.22,
+                114.19
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                22.22,
+                114.19
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Carbone",
+              "coord": [
+                22.287,
+                114.17
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Street Life & Local Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mak's Noodle",
+              "coord": [
+                22.2855,
+                114.175
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Graham Street Market",
+              "coord": [
+                22.2849,
+                114.174
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flower Market Road",
+              "coord": [
+                22.3173,
+                114.165
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Noodles",
+              "coord": [
+                22.285,
+                114.175
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ladies' Market (Tung Choi Street)",
+              "coord": [
+                22.3204,
+                114.1674
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Joy Hing Roasted Meat Restaurant",
+              "coord": [
+                22.2833,
+                114.1744
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Stanley Beach & Coastal Beauty",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                22.2868,
+                114.1748
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Stanley Beach & Promenade",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Stanley Market",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Stanley Beachfront",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Repulse Bay",
+              "coord": [
+                22.248,
+                114.178
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Seafood Restaurant",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Tai Long Wan Beach Trek",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                22.2868,
+                114.1748
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tai Long Wan Beach",
+              "coord": [
+                22.27,
+                114.29
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach Picnic",
+              "coord": [
+                22.27,
+                114.29
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Beach Rest",
+              "coord": [
+                22.27,
+                114.29
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Seafood",
+              "coord": [
+                22.27,
+                114.29
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Art & Design - PMQ & Museums",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Tai Cheong Bakery",
+              "coord": [
+                22.2867,
+                114.1691
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "PMQ",
+              "coord": [
+                22.2857,
+                114.1674
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "PMQ Cafes",
+              "coord": [
+                22.2857,
+                114.1674
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tai Kwun Centre for Heritage & Arts",
+              "coord": [
+                22.2872,
+                114.1697
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "M+ Museum",
+              "coord": [
+                22.301,
+                114.1601
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Zumo",
+              "coord": [
+                22.282,
+                114.175
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Flight to Beijing",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                22.2868,
+                114.1748
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Beijing Courtyard Hotel",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Beijing Dining",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Hidden Beijing - Hutongs & Local Life",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hutong Neighborhoods",
+              "coord": [
+                39.915,
+                116.4
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hutong Restaurant",
+              "coord": [
+                39.915,
+                116.4
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Beihai Park",
+              "coord": [
+                39.9328,
+                116.4018
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Cuisine",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Great Wall Remote Section",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Great Wall (Mutianyu)",
+              "coord": [
+                40.4319,
+                116.5704
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Wall-side Restaurant",
+              "coord": [
+                40.4319,
+                116.5704
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                40.4319,
+                116.5704
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Restaurant",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Temple of Heaven & Parks",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Temple of Heaven",
+              "coord": [
+                39.8853,
+                116.4074
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Restaurant",
+              "coord": [
+                39.8853,
+                116.4074
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Summer Palace",
+              "coord": [
+                39.9975,
+                116.2741
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Cuisine",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Flight to Shanghai",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Shanghai Boutique Hotel",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shanghai Fine Dining",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "French Concession Deep Dive",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "French Concession",
+              "coord": [
+                31.22,
+                121.45
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "French Concession Cafe",
+              "coord": [
+                31.22,
+                121.45
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Jing'an Temple",
+              "coord": [
+                31.2276,
+                121.4553
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shanghai Restaurants",
+              "coord": [
+                31.22,
+                121.45
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Water Towns & Local Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Water Town Day Trip",
+              "coord": [
+                31.1,
+                121.1
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Water Town Restaurant",
+              "coord": [
+                31.1,
+                121.1
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                31.1,
+                121.1
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shanghai Cuisine",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last-minute Exploration",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "title": "Slow Family Pace",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival & Family Settling",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Island Shangri-La, Hong Kong",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hong Kong Park",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Nap",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hotel Dining",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Hong Kong Disneyland - Full Day Adventure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Early Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hong Kong Disneyland",
+              "coord": [
+                22.3137,
+                113.9423
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Break",
+              "coord": [
+                22.3137,
+                113.9423
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Disneyland Restaurant",
+              "coord": [
+                22.3137,
+                113.9423
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Ocean Park & Water Adventures",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ocean Park Hong Kong",
+              "coord": [
+                22.2456,
+                114.1783
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Park Restaurant",
+              "coord": [
+                22.2456,
+                114.1783
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Rest",
+              "coord": [
+                22.2456,
+                114.1783
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family Restaurant",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Peak Tram & Star Ferry Experience",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Peak Tram + Victoria Peak",
+              "coord": [
+                22.2759,
+                114.1455
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Peak Restaurant",
+              "coord": [
+                22.2759,
+                114.1455
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Star Ferry ride",
+              "coord": [
+                22.2933,
+                114.1688
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Harbourfront Dining",
+              "coord": [
+                22.2933,
+                114.1688
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Museum & Indoor Fun Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hong Kong Space Museum",
+              "coord": [
+                22.2948,
+                114.1717
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Museum Cafe",
+              "coord": [
+                22.2948,
+                114.1717
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hong Kong Science Museum",
+              "coord": [
+                22.2945,
+                114.176
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Rest",
+              "coord": [
+                22.2945,
+                114.176
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family Restaurant",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Big Buddha & Lantau Cable Car",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ngong Ping 360 + Big Buddha",
+              "coord": [
+                22.2504,
+                113.9101
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lantau Restaurant",
+              "coord": [
+                22.2504,
+                113.9101
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                22.2504,
+                113.9101
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Tai O Village",
+              "coord": [
+                22.275,
+                113.885
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lantau Dining",
+              "coord": [
+                22.275,
+                113.885
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Beach Day at Stanley",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Stanley Beach & Promenade",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Stanley Beachfront",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Beach Rest",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Stanley Market",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Seafood Restaurant",
+              "coord": [
+                22.2126,
+                114.213
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Slow Market Walk & Temple",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flower Market Road",
+              "coord": [
+                22.3173,
+                114.165
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Cafe",
+              "coord": [
+                22.3173,
+                114.165
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chi Lin Nunnery + Nan Lian Garden",
+              "coord": [
+                22.342,
+                114.2126
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Rest",
+              "coord": [
+                22.342,
+                114.2126
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family Restaurant",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Flight to Beijing",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                22.2803,
+                114.1751
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Family-Friendly Beijing Hotel",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beijing Restaurant",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest from Travel",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Duck Dinner",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Forbidden City at Slow Pace",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Forbidden City",
+              "coord": [
+                39.9163,
+                116.3972
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Restaurant",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Rest",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Tiananmen Square",
+              "coord": [
+                39.9075,
+                116.3972
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Cuisine",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Great Wall - Easy Access & Scenic",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Great Wall (Badaling)",
+              "coord": [
+                40.356,
+                115.9886
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Wall Restaurant",
+              "coord": [
+                40.356,
+                115.9886
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                40.356,
+                115.9886
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Restaurant",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Parks & Temples Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Summer Palace",
+              "coord": [
+                39.9975,
+                116.2741
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Summer Palace Restaurant",
+              "coord": [
+                39.9975,
+                116.2741
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Rest",
+              "coord": [
+                39.9975,
+                116.2741
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Jingshan Park",
+              "coord": [
+                39.9239,
+                116.4006
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beijing Cuisine",
+              "coord": [
+                39.9,
+                116.407
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Flight to Shanghai",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                39.9042,
+                116.4074
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Family Shanghai Hotel",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Shanghai Restaurant",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest from Travel",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shanghai Fine Dining",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Shanghai - Bund & Gardens",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Bund",
+              "coord": [
+                31.2409,
+                121.499
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bund Restaurant",
+              "coord": [
+                31.2409,
+                121.499
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon Rest",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Yu Garden",
+              "coord": [
+                31.2298,
+                121.4948
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shanghai Cuisine",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Breakfast",
+              "coord": [
+                31.2304,
+                121.4737
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last Minute Shopping",
+              "coord": [
+                31.23,
+                121.46
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
