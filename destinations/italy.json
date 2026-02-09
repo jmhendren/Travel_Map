@@ -69,7 +69,8 @@
         46.682424,
         11.664413
       ],
-      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$"
+      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$",
+      "longDesc": "Nestled in the Dolomites, this family-focused resort offers easy access to hiking, skiing, and charming alpine villages. The mountain views and Italian hospitality make it an ideal base for outdoor-loving families."
     },
     {
       "name": "Falkensteiner Family Resort Lido",
@@ -77,7 +78,8 @@
         45.416459,
         12.370612
       ],
-      "desc": "Casteldarne/Ehrenburg, Dolomites/South Tyrol, $$$"
+      "desc": "Casteldarne/Ehrenburg, Dolomites/South Tyrol, $$$",
+      "longDesc": "A lakeside family resort combining water activities with mountain access, perfect for kids who want both lake swimming and mountain exploration. Excellent for families seeking comfort with adventure."
     },
     {
       "name": "Quercia Rubra Villa",
@@ -85,7 +87,8 @@
         40.54057,
         17.817736
       ],
-      "desc": "Tuscany (countryside), Tuscany, $$$$"
+      "desc": "Tuscany (countryside), Tuscany, $$$$",
+      "longDesc": "A luxury countryside villa in Tuscany offering the full agritourism experience: rolling vineyards, cooking classes, and spacious rooms for families. Combines relaxation with authentic Tuscan village life."
     },
     {
       "name": "Il San Pietro di Positano",
@@ -94,7 +97,8 @@
         14.48294
       ],
       "desc": "Positano, Amalfi Coast/Campania, $$$$",
-      "location": "Positano (Amalfi Coast)"
+      "location": "Positano (Amalfi Coast)",
+      "longDesc": "Dramatically perched above the Amalfi Coast, this clifftop resort offers terraced gardens, private beach access, and breathtaking Mediterranean views. A magical destination for families seeking luxury by the sea."
     },
     {
       "name": "Borgo Santo Pietro",
@@ -103,7 +107,8 @@
         11.247399
       ],
       "desc": "Chiusdino, Tuscany, $$$$",
-      "location": "Chiusdino (Tuscany)"
+      "location": "Chiusdino (Tuscany)",
+      "longDesc": "A restored medieval village-hotel in Tuscany blending historic charm with modern luxury, featuring pool, spa, and farm-to-table dining. Perfect for families wanting immersive cultural experiences with comfort."
     },
     {
       "name": "Aman Venice",
@@ -112,7 +117,8 @@
         12.462981
       ],
       "desc": "Venice, Veneto, $$$$",
-      "location": "Venice"
+      "location": "Venice",
+      "longDesc": "Venice's most exclusive resort, offering private gardens, spa, and authentic gondola access in the Grand Canal area. A once-in-a-lifetime base for exploring the Floating City."
     },
     {
       "name": "Rosewood Castiglion del Bosco",
@@ -121,7 +127,8 @@
         11.421964
       ],
       "desc": "Montalcino, Tuscany, $$$$",
-      "location": "Montalcino (Tuscany)"
+      "location": "Montalcino (Tuscany)",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Passalacqua",
@@ -129,7 +136,8 @@
         44.901551,
         7.454637
       ],
-      "desc": "Moltrasio (Lake Como), Lombardy, $$$$"
+      "desc": "Moltrasio (Lake Como), Lombardy, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "JK Place Capri",
@@ -138,7 +146,8 @@
         14.23555
       ],
       "desc": "Capri, Campania, $$$$",
-      "location": "Capri (Campania)"
+      "location": "Capri (Campania)",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Castello di Reschio",
@@ -147,7 +156,8 @@
         12.198736
       ],
       "desc": "Lisciano Niccone, Umbria, $$$$",
-      "location": "Lisciano Niccone (Umbria)"
+      "location": "Lisciano Niccone (Umbria)",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Casa Maria Luigia",
@@ -156,7 +166,8 @@
         9.999054
       ],
       "desc": "Modena, Emilia-Romagna, $$$$",
-      "location": "Modena (Emilia-Romagna)"
+      "location": "Modena (Emilia-Romagna)",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Corte della Maestà",
@@ -165,7 +176,8 @@
         13.84182
       ],
       "desc": "Civita di Bagnoregio, Lazio, $$$$",
-      "location": "Civita di Bagnoregio (Lazio)"
+      "location": "Civita di Bagnoregio (Lazio)",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "San Domenico Palace Taormina (Four Seasons)",
@@ -173,7 +185,8 @@
         37.849905,
         15.283452
       ],
-      "desc": "Taormina, Sicily, $$$$"
+      "desc": "Taormina, Sicily, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Hotel Cipriani (Belmond)",
@@ -181,7 +194,8 @@
         45.42767,
         12.34069
       ],
-      "desc": "Venice (Giudecca), Veneto, $$$$"
+      "desc": "Venice (Giudecca), Veneto, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Bulgari Hotel Roma",
@@ -189,7 +203,8 @@
         41.90672,
         12.476475
       ],
-      "desc": "Rome, Lazio, $$$$"
+      "desc": "Rome, Lazio, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Four Seasons Hotel Firenze",
@@ -198,7 +213,8 @@
         11.266284
       ],
       "desc": "Florence, Tuscany, $$$$",
-      "location": "Florence"
+      "location": "Florence",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Private Villa on Salina (via Bellini Travel)",
@@ -206,7 +222,8 @@
         40.921187,
         14.300521
       ],
-      "desc": "Salina, Aeolian Islands/Sicily, $$$$"
+      "desc": "Salina, Aeolian Islands/Sicily, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Hotel De Len",
@@ -214,7 +231,8 @@
         46.538796,
         12.134217
       ],
-      "desc": "Cortina d'Ampezzo, Dolomites/Veneto, $$$"
+      "desc": "Cortina d'Ampezzo, Dolomites/Veneto, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Castello di Casole (Belmond)",
@@ -222,7 +240,8 @@
         43.324899,
         11.084164
       ],
-      "desc": "Casole d'Elsa, Tuscany, $$$$"
+      "desc": "Casole d'Elsa, Tuscany, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Quellenhof Luxury Resort Lazise",
@@ -230,7 +249,8 @@
         45.490884,
         10.741471
       ],
-      "desc": "Lazise, Lake Garda/Veneto, $$$"
+      "desc": "Lazise, Lake Garda/Veneto, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Quellenhof Luxury Resort Passeier",
@@ -238,7 +258,8 @@
         46.7667,
         11.1833
       ],
-      "desc": "Passeier Valley, South Tyrol, $$$"
+      "desc": "Passeier Valley, South Tyrol, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Verdura Resort (Rocco Forte)",
@@ -246,7 +267,8 @@
         37.47772,
         13.19163
       ],
-      "desc": "Sciacca, Sicily, $$$$"
+      "desc": "Sciacca, Sicily, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Luxury Villa on Lake Garda (Nice2Stay)",
@@ -254,7 +276,8 @@
         45.526725,
         10.523933
       ],
-      "desc": "Lake Garda (Monte Baldo), Veneto/Lombardy, $$$$"
+      "desc": "Lake Garda (Monte Baldo), Veneto/Lombardy, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Palazzo Daniele (Casa Lawa Retreat)",
@@ -262,7 +285,8 @@
         43.099067,
         12.559806
       ],
-      "desc": "Galatina, Puglia, $$$"
+      "desc": "Galatina, Puglia, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Furore Grand Hotel",
@@ -270,7 +294,8 @@
         45.618481,
         10.56137
       ],
-      "desc": "Furore, Campania/Amalfi Coast, $$$"
+      "desc": "Furore, Campania/Amalfi Coast, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Botania Relais & Spa",
@@ -278,7 +303,8 @@
         43.07059,
         12.62008
       ],
-      "desc": "Ischia, Campania, $$$"
+      "desc": "Ischia, Campania, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Villa Igiea (Rocco Forte)",
@@ -286,7 +312,8 @@
         38.145376,
         13.370224
       ],
-      "desc": "Palermo, Sicily, $$$$"
+      "desc": "Palermo, Sicily, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Fiermontina Palazzo Bozzi Corso",
@@ -294,7 +321,8 @@
         40.3569,
         18.1719
       ],
-      "desc": "Lecce, Puglia, $$$"
+      "desc": "Lecce, Puglia, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Masseria Calderisi",
@@ -302,7 +330,8 @@
         40.856899,
         17.395254
       ],
-      "desc": "Fasano, Puglia, $$$"
+      "desc": "Fasano, Puglia, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Casa Maiora",
@@ -310,7 +339,8 @@
         45.46241,
         9.179742
       ],
-      "desc": "Puglia, Puglia, $$$"
+      "desc": "Puglia, Puglia, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Borgo Santandrea (2025 Season Update)",
@@ -318,7 +348,8 @@
         45.08266,
         10.78748
       ],
-      "desc": "Amalfi Coast, Campania/Amalfi Coast, $$$$"
+      "desc": "Amalfi Coast, Campania/Amalfi Coast, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Collegio alla Querce (Auberge Collection)",
@@ -326,7 +357,8 @@
         44.80935,
         9.26845
       ],
-      "desc": "Florence, Tuscany, $$$$"
+      "desc": "Florence, Tuscany, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Castello di Vicarello",
@@ -334,7 +366,8 @@
         45.9498,
         8.67566
       ],
-      "desc": "Tuscany, Tuscany, $$$$"
+      "desc": "Tuscany, Tuscany, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Hotel Saltus",
@@ -342,7 +375,8 @@
         46.53887,
         11.330646
       ],
-      "desc": "South Tyrol, South Tyrol, $$$"
+      "desc": "South Tyrol, South Tyrol, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Réserve Firenze (Opening June 2026)",
@@ -350,7 +384,8 @@
         43.76245003248438,
         11.262320865707752
       ],
-      "desc": "Florence, Tuscany, $$$$"
+      "desc": "Florence, Tuscany, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Perla (Hotel, Corvara)",
@@ -358,7 +393,8 @@
         46.547239,
         11.876729
       ],
-      "desc": "Corvara, Dolomites/South Tyrol, $$$$"
+      "desc": "Corvara, Dolomites/South Tyrol, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Badia Hotel (Orvieto - Opening 2027)",
@@ -366,7 +402,8 @@
         42.70953,
         12.11674
       ],
-      "desc": "Orvieto, Umbria, $$$$"
+      "desc": "Orvieto, Umbria, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Castel Badia (T Magazine Feature)",
@@ -374,7 +411,8 @@
         46.785641,
         11.890398
       ],
-      "desc": "San Lorenzo di Sebato, Dolomites/South Tyrol, $$$$"
+      "desc": "San Lorenzo di Sebato, Dolomites/South Tyrol, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Villa Mabel (Boutique Hotel, Taormina)",
@@ -382,7 +420,8 @@
         37.851222,
         15.283019
       ],
-      "desc": "Taormina, Sicily, $$"
+      "desc": "Taormina, Sicily, $$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Palazzo Daniele",
@@ -390,7 +429,8 @@
         43.096432,
         12.565726
       ],
-      "desc": "Gagliano del Capo, Puglia, $$$$"
+      "desc": "Gagliano del Capo, Puglia, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Hotel Ristorante Grotta Palazzese",
@@ -398,7 +438,8 @@
         40.995876,
         17.221195
       ],
-      "desc": "Polignano a Mare, Puglia, $$$$"
+      "desc": "Polignano a Mare, Puglia, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Suvera (Pellicano Hotels 5th Property)",
@@ -406,7 +447,8 @@
         43.2531,
         11.1242
       ],
-      "desc": "Pievescola, Tuscany, $$$$"
+      "desc": "Pievescola, Tuscany, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ancora Cortina",
@@ -414,7 +456,8 @@
         46.537246,
         12.137868
       ],
-      "desc": "Cortina d'Ampezzo, Dolomites/Veneto, $$$$"
+      "desc": "Cortina d'Ampezzo, Dolomites/Veneto, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Orient Express La Minerva",
@@ -422,7 +465,8 @@
         45.371649,
         11.917589
       ],
-      "desc": "Rome, Lazio, $$$$"
+      "desc": "Rome, Lazio, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Casa Monti",
@@ -430,7 +474,8 @@
         41.895465,
         12.492085
       ],
-      "desc": "Rome, Lazio, $$$"
+      "desc": "Rome, Lazio, $$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ara Maris",
@@ -438,7 +483,8 @@
         40.62721,
         14.376964
       ],
-      "desc": "Sorrento, Campania, $$$$"
+      "desc": "Sorrento, Campania, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Vista Ostuni",
@@ -446,7 +492,8 @@
         40.734189,
         17.581581
       ],
-      "desc": "Ostuni, Puglia, $$$$"
+      "desc": "Ostuni, Puglia, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Hotel Il Pellicano",
@@ -454,7 +501,8 @@
         42.373777,
         11.187547
       ],
-      "desc": "Porto Ercole, Tuscany/Maremma, $$$$"
+      "desc": "Porto Ercole, Tuscany/Maremma, $$$$",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Giardino Eden Resort",
@@ -462,7 +510,8 @@
         40.7272413,
         13.9599025
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Grand Hotel Majestic già Baglioni",
@@ -470,7 +519,8 @@
         44.4958518,
         11.3427008
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "The House dell'Arancio",
@@ -478,7 +528,8 @@
         37.9809,
         12.1813
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Il Baglio sull'Acqua",
@@ -486,7 +537,8 @@
         37.9817,
         12.1823
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Dimora Cala del Pozzo",
@@ -494,7 +546,8 @@
         37.9825,
         12.1833
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful hotel experience in Italy offering authentic local culture and memorable moments for families."
     }
   ],
   "restaurants": [
@@ -504,7 +557,8 @@
         43.316988,
         11.330704
       ],
-      "desc": "Siena, Tuscany, $"
+      "desc": "Siena, Tuscany, $",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Reggia degli Etruschi",
@@ -512,7 +566,8 @@
         43.807292,
         11.290354
       ],
-      "desc": "Fiesole (near Florence), Tuscany, $$$"
+      "desc": "Fiesole (near Florence), Tuscany, $$$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ristorante Grassilli",
@@ -520,7 +575,8 @@
         44.539662,
         11.268144
       ],
-      "desc": "Bologna, Emilia-Romagna, $$"
+      "desc": "Bologna, Emilia-Romagna, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Rifugio Crucolo",
@@ -528,7 +584,8 @@
         46.118944,
         11.498571
       ],
-      "desc": "Trentino (Dolomites), Trentino/Dolomites, $$"
+      "desc": "Trentino (Dolomites), Trentino/Dolomites, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Luca's Restaurant / Hotel La Gemma",
@@ -536,7 +593,8 @@
         43.76590863331057,
         11.260001778937808
       ],
-      "desc": "Florence, Tuscany, $$$$"
+      "desc": "Florence, Tuscany, $$$$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Piero Pompili (Restaurant/Chef)",
@@ -544,7 +602,8 @@
         44.4949,
         11.3426
       ],
-      "desc": "Bologna, Emilia-Romagna, $$"
+      "desc": "Bologna, Emilia-Romagna, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Where the Chefs Eat: Milan (Macelleria Popolare)",
@@ -552,7 +611,8 @@
         45.4642,
         9.19
       ],
-      "desc": "Milan, Lombardy, $$"
+      "desc": "Milan, Lombardy, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Trattoria Ermes (Modena)",
@@ -560,7 +620,8 @@
         44.649435,
         10.925387
       ],
-      "desc": "Modena, Emilia-Romagna, $"
+      "desc": "Modena, Emilia-Romagna, $",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Trattoria da Ruggero",
@@ -568,7 +629,8 @@
         43.757336,
         11.240688
       ],
-      "desc": "Florence, Tuscany, $$ — Note: your guide recommended for lunch"
+      "desc": "Florence, Tuscany, $$ — Note: your guide recommended for lunch",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Trattoria Sostanza",
@@ -576,7 +638,8 @@
         43.772674,
         11.24715
       ],
-      "desc": "Florence, Tuscany, $$"
+      "desc": "Florence, Tuscany, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Gelatiera",
@@ -584,7 +647,8 @@
         43.775601,
         11.255288
       ],
-      "desc": "Florence, Tuscany, $"
+      "desc": "Florence, Tuscany, $",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Da'Vinattieri",
@@ -592,7 +656,8 @@
         43.771338,
         11.257156
       ],
-      "desc": "Florence, Tuscany, $"
+      "desc": "Florence, Tuscany, $",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Taverna Trilussa",
@@ -600,7 +665,8 @@
         41.53219,
         14.38816
       ],
-      "desc": "Rome, Lazio, $$"
+      "desc": "Rome, Lazio, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Roscioli Salumeria",
@@ -608,7 +674,8 @@
         41.894647,
         12.474264
       ],
-      "desc": "Rome, Lazio — Note: A household name, eating at the deli-restaurant Roscioli is an absolute must while in town. This culinary haven lies just steps from Campo de Fiori and serves Roman classics alongside a mouthwatering array of fresh cheeses, cold cuts and pickled products straight from the deli counter. It’s a classic haunt beloved by food critics and travellers alike, so make sure to book a table in advance."
+      "desc": "Rome, Lazio — Note: A household name, eating at the deli-restaurant Roscioli is an absolute must while in town. This culinary haven lies just steps from Campo de Fiori and serves Roman classics alongside a mouthwatering array of fresh cheeses, cold cuts and pickled products straight from the deli counter. It’s a classic haunt beloved by food critics and travellers alike, so make sure to book a table in advance.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Giggetto al Portico",
@@ -616,7 +683,8 @@
         41.90389912676906,
         12.49729229236398
       ],
-      "desc": "Rome, Lazio, $$"
+      "desc": "Rome, Lazio, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Palanca",
@@ -624,7 +692,8 @@
         46.509966,
         11.992077
       ],
-      "desc": "Venice (Giudecca), Veneto, $$"
+      "desc": "Venice (Giudecca), Veneto, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Harry's Bar",
@@ -632,7 +701,8 @@
         45.432405,
         12.337259
       ],
-      "desc": "Venice, Veneto, $$$$"
+      "desc": "Venice, Veneto, $$$$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Do Forni",
@@ -640,7 +710,8 @@
         45.8568,
         11.36171
       ],
-      "desc": "Venice, Veneto, $$$"
+      "desc": "Venice, Veneto, $$$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Conca del Sogno",
@@ -648,7 +719,8 @@
         42.00244,
         13.95448
       ],
-      "desc": "Nerano, Campania/Amalfi, $$$"
+      "desc": "Nerano, Campania/Amalfi, $$$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Lo Scoglio",
@@ -656,7 +728,8 @@
         41.255821,
         14.59571
       ],
-      "desc": "Nerano, Campania/Amalfi, $$$"
+      "desc": "Nerano, Campania/Amalfi, $$$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Da Adolfo",
@@ -664,7 +737,8 @@
         40.626,
         14.4809
       ],
-      "desc": "Positano, Campania/Amalfi, $$"
+      "desc": "Positano, Campania/Amalfi, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Harry's Piccolo",
@@ -673,7 +747,8 @@
         13.767453
       ],
       "desc": "Trieste, Friuli Venezia Giulia, $$$$",
-      "location": "Trieste"
+      "location": "Trieste",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Antica Trattoria Suban",
@@ -681,7 +756,8 @@
         45.653404,
         13.808203
       ],
-      "desc": "Trieste, Friuli Venezia Giulia, $$"
+      "desc": "Trieste, Friuli Venezia Giulia, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Caffè degli Specchi",
@@ -689,7 +765,8 @@
         46.330895,
         9.488706
       ],
-      "desc": "Trieste, Friuli Venezia Giulia, $$"
+      "desc": "Trieste, Friuli Venezia Giulia, $$",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "I Ricci officina del gusto",
@@ -697,7 +774,8 @@
         40.7454078,
         13.9428111
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ristorante La Tuga",
@@ -705,7 +783,8 @@
         40.700331,
         13.8829127
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Da Gemma",
@@ -713,7 +792,8 @@
         40.6346207,
         14.6022181
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ristorante Rendenèr Alpine Food",
@@ -721,7 +801,8 @@
         46.1614849,
         10.7632421
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ristorante La Botte.",
@@ -729,7 +810,8 @@
         46.1524155,
         10.7666332
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Osteria Bagat",
@@ -737,7 +819,8 @@
         46.1575088,
         10.7651736
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ristorante La Cantina Venezia",
@@ -745,7 +828,8 @@
         45.4416348,
         12.333105
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Osteria Mocenigo",
@@ -753,7 +837,8 @@
         45.4407222,
         12.3296556
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "\"La Scaletta\" Restaurant",
@@ -761,7 +846,8 @@
         37.9833,
         12.1843
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Il Veliero",
@@ -769,7 +855,8 @@
         37.9841,
         12.1853
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Quello Che C’è C’è... Ristorantemediterraneo sull’isola dal 2004",
@@ -777,7 +864,8 @@
         37.9849,
         12.1813
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Otaleg",
@@ -785,7 +873,8 @@
         41.9052,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Fiocco di neve",
@@ -793,7 +882,8 @@
         41.9004,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Al Settimo Gelo",
@@ -801,7 +891,8 @@
         41.9012,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "La Gourmandise",
@@ -809,7 +900,8 @@
         41.902,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Fiordiluna",
@@ -817,7 +909,8 @@
         41.9028,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Otaleg - Ice-cream",
@@ -825,7 +918,8 @@
         41.9036,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Brivido Gelateria",
@@ -833,7 +927,8 @@
         41.9044,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Come il Latte",
@@ -841,7 +936,8 @@
         41.9052,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Gunther Gelato Italiano – Gelateria in Piazza Sant'Eustachio",
@@ -849,7 +945,8 @@
         41.9004,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Gelateria Fassi - Gelato artigianale a Roma dal 1880",
@@ -857,7 +954,8 @@
         41.9012,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Mercadillo histórico \"El Jueves\"",
@@ -865,7 +963,8 @@
         41.902,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Boccione",
@@ -873,7 +972,8 @@
         41.9028,
         12.4964
       ],
-      "desc": "jewish bakery"
+      "desc": "jewish bakery",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Bar Antico Caffe",
@@ -881,7 +981,8 @@
         41.9036,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Bar San Calisto | Roma",
@@ -889,7 +990,8 @@
         41.9044,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Piazza delle Cinque Scole",
@@ -897,7 +999,8 @@
         41.9052,
         12.4944
       ],
-      "desc": "jewish bakery here somewhere"
+      "desc": "jewish bakery here somewhere",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Otello",
@@ -905,7 +1008,8 @@
         41.9004,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Tonnarello | Paglia",
@@ -913,7 +1017,8 @@
         41.9012,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Nannarella",
@@ -921,7 +1026,8 @@
         41.902,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "da Etta",
@@ -929,7 +1035,8 @@
         41.9028,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Proloco Trastevere",
@@ -937,7 +1044,8 @@
         41.9036,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Meridionale Restaurant",
@@ -945,7 +1053,8 @@
         41.9044,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Dar Poeta",
@@ -953,7 +1062,8 @@
         41.9052,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Popi Popi",
@@ -961,7 +1071,8 @@
         41.9004,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Osteria Der Belli",
@@ -969,7 +1080,8 @@
         41.9012,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Aromaticus",
@@ -977,7 +1089,8 @@
         41.902,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "ENOTECA FERRARA Ristorante Trastevere",
@@ -985,7 +1098,8 @@
         41.9028,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "L'Elementare - Trastevere",
@@ -993,7 +1107,8 @@
         41.9036,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ma Che Siete Venuti A Fà",
@@ -1001,7 +1116,8 @@
         41.9044,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Hamburgeseria Burger Bar",
@@ -1009,7 +1125,8 @@
         41.9052,
         12.4984
       ],
-      "desc": "Indulge in American burgers with a made-in-Italy flair at this eclectic pub in San Lorenzo. With its mismatched chairs and tables and wine-stocked shelves, Hamburgeseria looks halfway between a cosy restaurant and a hipster co-working space. Every burger on the menu is filled with five local ingredients – the Danish meat (or fish in some cases) always meets its par with a contrasting vegetable, cheese and sauce – all made in-house. They also have great fried starters, wraps and salads, but hamburgers are king."
+      "desc": "Indulge in American burgers with a made-in-Italy flair at this eclectic pub in San Lorenzo. With its mismatched chairs and tables and wine-stocked shelves, Hamburgeseria looks halfway between a cosy restaurant and a hipster co-working space. Every burger on the menu is filled with five local ingredients – the Danish meat (or fish in some cases) always meets its par with a contrasting vegetable, cheese and sauce – all made in-house. They also have great fried starters, wraps and salads, but hamburgers are king.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Il Mulino ai quattro venti",
@@ -1017,7 +1134,8 @@
         41.9004,
         12.4944
       ],
-      "desc": "This cosy family-run restaurant on a steep street on the hill of Monteverde caters to your every fancy: whether you’re craving meat, fish, vegetables, dessert or all of the above, the menu here will not disappoint. You’ll find plenty of revisited recipes for traditional dishes, made with quality local produce and paired with innovative garnish. The menu at Mulino Ai Quattro Venti (The Mill on the Four Winds) changes every few months and the managers are known for their cordiality and kindness, so it’s a place to visit often. Their duck breast is a must-have."
+      "desc": "This cosy family-run restaurant on a steep street on the hill of Monteverde caters to your every fancy: whether you’re craving meat, fish, vegetables, dessert or all of the above, the menu here will not disappoint. You’ll find plenty of revisited recipes for traditional dishes, made with quality local produce and paired with innovative garnish. The menu at Mulino Ai Quattro Venti (The Mill on the Four Winds) changes every few months and the managers are known for their cordiality and kindness, so it’s a place to visit often. Their duck breast is a must-have.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "MARE NOSTRUM Seafood",
@@ -1025,7 +1143,8 @@
         41.9012,
         12.4954
       ],
-      "desc": "Mare Nostrum (Latin for ‘our sea’) is Roman by circumstance, Sicilian by origin, and Mediterranean by choice. This restaurant in Trastevere takes inspiration from seafood across the Med –and in a landlocked city that has plenty of good seafood restaurants, Mare Nostrum is in a league of its own. An example of the unusual but tasteful juxtapositions is their popular Paccheri Creuza de Mà: pasta with salmon tartare, greenified by a light touch of basil pesto, finished off with Parmesan fondue, a orange and pistachio crumbs."
+      "desc": "Mare Nostrum (Latin for ‘our sea’) is Roman by circumstance, Sicilian by origin, and Mediterranean by choice. This restaurant in Trastevere takes inspiration from seafood across the Med –and in a landlocked city that has plenty of good seafood restaurants, Mare Nostrum is in a league of its own. An example of the unusual but tasteful juxtapositions is their popular Paccheri Creuza de Mà: pasta with salmon tartare, greenified by a light touch of basil pesto, finished off with Parmesan fondue, a orange and pistachio crumbs.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Il Margutta",
@@ -1033,7 +1152,8 @@
         41.902,
         12.4964
       ],
-      "desc": "Since 1979, this chic restaurant has been delighting diners with its imaginative vegetarian cuisine, offering a fresh twist on Mediterranean flavors. A self-titled ‘ristoarte’, Il Margutta showcases dishes as vibrant as the contemporary works of art that adorn its walls. From vegetables and grains to salads and pastas, everything is colorful, nutritious and full of flavor."
+      "desc": "Since 1979, this chic restaurant has been delighting diners with its imaginative vegetarian cuisine, offering a fresh twist on Mediterranean flavors. A self-titled ‘ristoarte’, Il Margutta showcases dishes as vibrant as the contemporary works of art that adorn its walls. From vegetables and grains to salads and pastas, everything is colorful, nutritious and full of flavor.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ai Tre Scalini",
@@ -1041,7 +1161,8 @@
         41.9028,
         12.4974
       ],
-      "desc": "A fixture in Monti, Ai Tre Scalini is a bustling wine bar cherished by locals, where patrons of all ages gather day and night to enjoy glasses of wine paired with cheeses and cold cuts. Its vibrant atmosphere spills onto the streets, where guests mingle beneath cascading ivy. Originally a historic canteen dating back to 1895, Ai Tre Scalini transformed into a wine bar bistro in the 1990s, delighting visitors with a diverse menu featuring Roman classics like oven-baked lasagna and meatballs, alongside an impressive array of wines available by the glass."
+      "desc": "A fixture in Monti, Ai Tre Scalini is a bustling wine bar cherished by locals, where patrons of all ages gather day and night to enjoy glasses of wine paired with cheeses and cold cuts. Its vibrant atmosphere spills onto the streets, where guests mingle beneath cascading ivy. Originally a historic canteen dating back to 1895, Ai Tre Scalini transformed into a wine bar bistro in the 1990s, delighting visitors with a diverse menu featuring Roman classics like oven-baked lasagna and meatballs, alongside an impressive array of wines available by the glass.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Supplizio",
@@ -1049,7 +1170,8 @@
         41.9036,
         12.4984
       ],
-      "desc": "The humble supplì is Rome’s most quintessential street food snack. The deep-fried rice ball has its roots in the city’s Cucina povera (‘poor man’s cuisine’) tradition, which makes the most of simple ingredients. Today, you’ll find modern variants at chef Arcangelo Dandini’s beloved eatery. Try the supplì with butter and anchovies or the arrabbiata for a kick."
+      "desc": "The humble supplì is Rome’s most quintessential street food snack. The deep-fried rice ball has its roots in the city’s Cucina povera (‘poor man’s cuisine’) tradition, which makes the most of simple ingredients. Today, you’ll find modern variants at chef Arcangelo Dandini’s beloved eatery. Try the supplì with butter and anchovies or the arrabbiata for a kick.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Pastificio San Lorenzo",
@@ -1057,7 +1179,8 @@
         41.9044,
         12.4944
       ],
-      "desc": "Tucked away in the lively student district of San Lorenzo, Pastificio San Lorenzo blends old-school charm with a modern twist. Set inside a former pasta factory, it pays homage to the neighborhood’s industrial roots while serving up seriously good food in a sleek, stylish space. The menu is all about elevated Italian comfort food, from handmade pastas and creative meats and fish, plus an excellent drinks list. This spot also doubles as a cultural hub, hosting live music, art exhibits and special events, making it a great place to soak up some local flavour away from the tourist hotspots."
+      "desc": "Tucked away in the lively student district of San Lorenzo, Pastificio San Lorenzo blends old-school charm with a modern twist. Set inside a former pasta factory, it pays homage to the neighborhood’s industrial roots while serving up seriously good food in a sleek, stylish space. The menu is all about elevated Italian comfort food, from handmade pastas and creative meats and fish, plus an excellent drinks list. This spot also doubles as a cultural hub, hosting live music, art exhibits and special events, making it a great place to soak up some local flavour away from the tourist hotspots.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ristorante Va.Do.",
@@ -1065,7 +1188,8 @@
         41.9052,
         12.4954
       ],
-      "desc": "Located in Rome’s most hipster neighborhood, Va.Do al Pigneto is a restaurant boasting a modern, industrial design and an eclectic menu that will suit all kinds of appetites. Fish lovers, meat-eaters and vegetarians will all feel at home even while browsing through some international dishes like chicken curry, ravioli with pork cheek and spaghetti with tuna tartare. If you’re craving Roman classics, worry not: you can find those here alongside desserts the likes of tiramisu, almond-flour chocolate cake and frozen treats."
+      "desc": "Located in Rome’s most hipster neighborhood, Va.Do al Pigneto is a restaurant boasting a modern, industrial design and an eclectic menu that will suit all kinds of appetites. Fish lovers, meat-eaters and vegetarians will all feel at home even while browsing through some international dishes like chicken curry, ravioli with pork cheek and spaghetti with tuna tartare. If you’re craving Roman classics, worry not: you can find those here alongside desserts the likes of tiramisu, almond-flour chocolate cake and frozen treats.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Giulia Restaurant",
@@ -1073,7 +1197,8 @@
         41.9004,
         12.4964
       ],
-      "desc": "Located on one of Rome’s most elegant streets, Giulia is a romantic restaurant that brings flavour and flair to the heart of the Eternal City. Chef Pierluigi Gallo, who came from the Campania region and honed his skills in Abruzzo, reimagines classic comfort food that will delight diners. Oxtail is served with celery and cocoa ketchup, while spaghetti is coated in a red sauce made with baby octopus, sea snails and sea urchins."
+      "desc": "Located on one of Rome’s most elegant streets, Giulia is a romantic restaurant that brings flavour and flair to the heart of the Eternal City. Chef Pierluigi Gallo, who came from the Campania region and honed his skills in Abruzzo, reimagines classic comfort food that will delight diners. Oxtail is served with celery and cocoa ketchup, while spaghetti is coated in a red sauce made with baby octopus, sea snails and sea urchins.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "BARRED",
@@ -1081,7 +1206,8 @@
         41.9012,
         12.4974
       ],
-      "desc": "Avant-garde Italian cuisine is the key to Barred, a restaurant between the areas of San Giovanni and Re di Roma. Founded by two brothers, Barred is a celebration of nature’s gifts, as seasonable foods are proposed in daring combinations. The widely varied menu changes several times a year, so you know you’re getting fresher than fresh food here. If you can’t pick between the many unusual offerings, they also have a tasting menu of four dishes chosen by the kitchen. The drink list includes over 20 pages of wines from all over Europe, as well as ciders and beers."
+      "desc": "Avant-garde Italian cuisine is the key to Barred, a restaurant between the areas of San Giovanni and Re di Roma. Founded by two brothers, Barred is a celebration of nature’s gifts, as seasonable foods are proposed in daring combinations. The widely varied menu changes several times a year, so you know you’re getting fresher than fresh food here. If you can’t pick between the many unusual offerings, they also have a tasting menu of four dishes chosen by the kitchen. The drink list includes over 20 pages of wines from all over Europe, as well as ciders and beers.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Bar Meccanismo",
@@ -1089,7 +1215,8 @@
         41.902,
         12.4984
       ],
-      "desc": "In the heart of Rome, Meccanismo Bar & Bistrot is the perfect spot for lunch and aperitivo in Trastevere’s Piazza Trilussa. Its  extensive à la carte menu has international options for all (burgers, salads, cous cous, meat, fish, and more), but make sure to check out what’s cooking on the daily menu. Handwritten on a slip of paper, the menu will be given to you by your server, and features three to five pasta and main dish options based on daily availability of produce. If you’re lucky, a gricia ubriaca will be available: a twist on the classic Roman dish, with wine turning your plate of pasta, guanciale and pecorino a dark red."
+      "desc": "In the heart of Rome, Meccanismo Bar & Bistrot is the perfect spot for lunch and aperitivo in Trastevere’s Piazza Trilussa. Its  extensive à la carte menu has international options for all (burgers, salads, cous cous, meat, fish, and more), but make sure to check out what’s cooking on the daily menu. Handwritten on a slip of paper, the menu will be given to you by your server, and features three to five pasta and main dish options based on daily availability of produce. If you’re lucky, a gricia ubriaca will be available: a twist on the classic Roman dish, with wine turning your plate of pasta, guanciale and pecorino a dark red.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Trapizzino | Trastevere",
@@ -1097,7 +1224,8 @@
         41.9028,
         12.4944
       ],
-      "desc": "Stefano Callegari, the mastermind behind Trapizzino, invented this innovative street food: the lovechild of pizza and tramezzino, taking the thick dough from its mother and the triangular shape from its father. The result is a soft and mouthwateringly flavourful pouch filled with deliciousness ranging from pork tongue in green sauce and eggplant parmesan to meatballs with tomato sauce and chicken cacciatore, plus vegetarian options like Roman artichoke and misticanza – a mixture of leafy greens sautéed in garlic and red chilli pepper."
+      "desc": "Stefano Callegari, the mastermind behind Trapizzino, invented this innovative street food: the lovechild of pizza and tramezzino, taking the thick dough from its mother and the triangular shape from its father. The result is a soft and mouthwateringly flavourful pouch filled with deliciousness ranging from pork tongue in green sauce and eggplant parmesan to meatballs with tomato sauce and chicken cacciatore, plus vegetarian options like Roman artichoke and misticanza – a mixture of leafy greens sautéed in garlic and red chilli pepper.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Osteria Fernanda",
@@ -1105,7 +1233,8 @@
         41.9036,
         12.4954
       ],
-      "desc": "Osteria Fernanda is on par with many of the city’s most celebrated establishments. The menu is exceedingly avant-garde, and the dishes are at once ‘comfort food’ while providing an innovative culinary experience; previous specials have included rigatoni with a sweet root veg-based sauce and snails and eel with radishes and Campari. The extensive wine list features notable champagnes that will help you wash down the just-as-delicious desserts. The restaurant recently moved location to another space near the Porta Portese market, along with a total revamp of the interior design, so there's no better time to visit."
+      "desc": "Osteria Fernanda is on par with many of the city’s most celebrated establishments. The menu is exceedingly avant-garde, and the dishes are at once ‘comfort food’ while providing an innovative culinary experience; previous specials have included rigatoni with a sweet root veg-based sauce and snails and eel with radishes and Campari. The extensive wine list features notable champagnes that will help you wash down the just-as-delicious desserts. The restaurant recently moved location to another space near the Porta Portese market, along with a total revamp of the interior design, so there's no better time to visit.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ercoli 1928",
@@ -1113,7 +1242,8 @@
         41.9044,
         12.4964
       ],
-      "desc": "A Roman institution since – yes, you guessed it – 1928, Ercoli is one of the city’s legendary salumeria (delicatessen) offering a gourmet selection of cheeses, cold cuts and freshly prepared Italian delicacies. Originally opened in Prati, it now has locations in Parioli and Trastevere – the latter is set within a beautifully restored historic cinema and is a fantastic all-day dining spot whenever hunger strikes in between sightseeing. Open from 8am ’till late, this spot serves up Italian classics; hearty bowls of pasta, cicchetti, charcuterie and more. It can be a bit touristy and overly posh (a section of the menu is dedicated to caviar and blinis), but if you want to get stuck in to good Italian food in a historic setting, this is the spot."
+      "desc": "A Roman institution since – yes, you guessed it – 1928, Ercoli is one of the city’s legendary salumeria (delicatessen) offering a gourmet selection of cheeses, cold cuts and freshly prepared Italian delicacies. Originally opened in Prati, it now has locations in Parioli and Trastevere – the latter is set within a beautifully restored historic cinema and is a fantastic all-day dining spot whenever hunger strikes in between sightseeing. Open from 8am ’till late, this spot serves up Italian classics; hearty bowls of pasta, cicchetti, charcuterie and more. It can be a bit touristy and overly posh (a section of the menu is dedicated to caviar and blinis), but if you want to get stuck in to good Italian food in a historic setting, this is the spot.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Enoteca La Torre",
@@ -1121,7 +1251,8 @@
         41.9052,
         12.4974
       ],
-      "desc": "Set within Anna Venturini Fendi’s magnificent Villa Laetitia, Enoteca La Torre captures the essence of la dolce vita. This high-end restaurant serves artful plates that complement its grand setting: helmed by Domenico Stile, who hails from Campania, you’ll find Southern Italian ingredients like buffalo milk cheeses, Sorrento lemons and fresh fish featured on the menu. For a real treat, opt for the seven-course surprise tasting menu selected by the chef. Just be warned, if you hadn’t guessed already, Enoteca La Torre is for special occasions. Its double-Michelin-starred menu comes with a (hefty) price – tasting menus range from €180 - €220. But when in Rome, eh?"
+      "desc": "Set within Anna Venturini Fendi’s magnificent Villa Laetitia, Enoteca La Torre captures the essence of la dolce vita. This high-end restaurant serves artful plates that complement its grand setting: helmed by Domenico Stile, who hails from Campania, you’ll find Southern Italian ingredients like buffalo milk cheeses, Sorrento lemons and fresh fish featured on the menu. For a real treat, opt for the seven-course surprise tasting menu selected by the chef. Just be warned, if you hadn’t guessed already, Enoteca La Torre is for special occasions. Its double-Michelin-starred menu comes with a (hefty) price – tasting menus range from €180 - €220. But when in Rome, eh?",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "SantoPalato",
@@ -1129,7 +1260,8 @@
         41.9004,
         12.4984
       ],
-      "desc": "A new wave of traditional Jewish-Roman cuisine reigns at Santo Palato (literally: sacred palate), where abundance is a must. Meat features prominently on the menu of this modern trattoria, and offal is a must-try. The restaurant promises a holistic approach to cooking that refuses waste and is set on lifting and updating authentic central Italian recipes. And if you fancy a vino (why wouldn’t you?), the cantina sports over 800 wines. Make sure to reserve a table in advance for this place."
+      "desc": "A new wave of traditional Jewish-Roman cuisine reigns at Santo Palato (literally: sacred palate), where abundance is a must. Meat features prominently on the menu of this modern trattoria, and offal is a must-try. The restaurant promises a holistic approach to cooking that refuses waste and is set on lifting and updating authentic central Italian recipes. And if you fancy a vino (why wouldn’t you?), the cantina sports over 800 wines. Make sure to reserve a table in advance for this place.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Felice a Testaccio | ROMA",
@@ -1137,7 +1269,8 @@
         41.9012,
         12.4944
       ],
-      "desc": "Testaccio is widely considered the best neighbourhood for Roman cuisine, and this eatery is its unrivalled star. With retro checkered floors, white tablecloths, and a tantalizing array of traditional dishes, the old-school restaurant makes a perfect leisurely weekend lunch with family or a romantic choice for a gourmet dinner. Cacio e pepe is Felice a Testaccio’s signature dish; this tangle of spaghetti, melted cheese and black pepper comes freshly tossed at the table for you."
+      "desc": "Testaccio is widely considered the best neighbourhood for Roman cuisine, and this eatery is its unrivalled star. With retro checkered floors, white tablecloths, and a tantalizing array of traditional dishes, the old-school restaurant makes a perfect leisurely weekend lunch with family or a romantic choice for a gourmet dinner. Cacio e pepe is Felice a Testaccio’s signature dish; this tangle of spaghetti, melted cheese and black pepper comes freshly tossed at the table for you.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Moma",
@@ -1145,7 +1278,8 @@
         41.902,
         12.4954
       ],
-      "desc": "A Michelin star establishment, Moma offers a stellar dining experience with special-occasion prices to match. Named after the Metropolitan Museum of Art, it’s located right in front of the US Embassy and attracts a business crowd that enjoys expertly executed dishes. You’ll find thoughtful re-interpretations of classic dishes alongside modern plates, like ravioli filled with cod and caramelized onions and chestnut flour lasagne with vegetables and cheese, all appropriately plated like works of art."
+      "desc": "A Michelin star establishment, Moma offers a stellar dining experience with special-occasion prices to match. Named after the Metropolitan Museum of Art, it’s located right in front of the US Embassy and attracts a business crowd that enjoys expertly executed dishes. You’ll find thoughtful re-interpretations of classic dishes alongside modern plates, like ravioli filled with cod and caramelized onions and chestnut flour lasagne with vegetables and cheese, all appropriately plated like works of art.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Romanè",
@@ -1153,7 +1287,8 @@
         41.9028,
         12.4964
       ],
-      "desc": "Founded by Stefano Callegari (the mastermind behind Trapizzino, #14) Romanè is a modern trattoria that puts a fresh spin on classic Roman cuisine. The original location on Via Cipro serves traditional fare with a contemporary touch, while its newer counterpart across the street expands the menu with an array of seafood dishes. Both locations are decorated with Italy’s charming hand painted ‘piatti del buon ricordo’: collectible plates from the 1970s that commemorate the country’s most beloved restaurants."
+      "desc": "Founded by Stefano Callegari (the mastermind behind Trapizzino, #14) Romanè is a modern trattoria that puts a fresh spin on classic Roman cuisine. The original location on Via Cipro serves traditional fare with a contemporary touch, while its newer counterpart across the street expands the menu with an array of seafood dishes. Both locations are decorated with Italy’s charming hand painted ‘piatti del buon ricordo’: collectible plates from the 1970s that commemorate the country’s most beloved restaurants.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Seu Pizza Illuminati",
@@ -1161,7 +1296,8 @@
         41.9036,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Trattoria Pennestri",
@@ -1169,7 +1305,8 @@
         41.9044,
         12.4984
       ],
-      "desc": "With its cosy interiors and warm service, Trattoria Pennestri is the kind of restaurant that invites you to linger and enjoy a leisurely meal with good company. Like the ambience, the menu is rustic but refined, with a curated selection of inventive dishes that make the most of the season’s ingredients. The wine list is also wonderful, with an ample selection by the glass. Save room for one of the city’s best desserts: a sweet and salty chocolate mousse served with Sardinian flatbread and infused with rosemary."
+      "desc": "With its cosy interiors and warm service, Trattoria Pennestri is the kind of restaurant that invites you to linger and enjoy a leisurely meal with good company. Like the ambience, the menu is rustic but refined, with a curated selection of inventive dishes that make the most of the season’s ingredients. The wine list is also wonderful, with an ample selection by the glass. Save room for one of the city’s best desserts: a sweet and salty chocolate mousse served with Sardinian flatbread and infused with rosemary.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Trattoria Da Enzo al 29",
@@ -1177,7 +1314,8 @@
         41.9052,
         12.4944
       ],
-      "desc": "A picturesque little eatery located on a quieter street in Trastevere, Da Enzo is one of the more characteristic trattorias in Rome and draws a crowd for its simple, honest fare and handful of outdoor tables. Eating here feels like a family gathering, with abundant portions expertly prepared. You can’t go wrong with anything on the menu – from carbonara and meatballs to braised artichokes and tiramisu – but show up early, or you’re in for a long wait."
+      "desc": "A picturesque little eatery located on a quieter street in Trastevere, Da Enzo is one of the more characteristic trattorias in Rome and draws a crowd for its simple, honest fare and handful of outdoor tables. Eating here feels like a family gathering, with abundant portions expertly prepared. You can’t go wrong with anything on the menu – from carbonara and meatballs to braised artichokes and tiramisu – but show up early, or you’re in for a long wait.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Trattoria Da Cesare al Casaletto",
@@ -1185,7 +1323,8 @@
         41.9004,
         12.4954
       ],
-      "desc": "Located at the end of the 8 tram that snakes its way through the Trastevere neighbourhood, Cesare al Casaletto’s location outside the city centre hasn’t dampened its popularity among tourists and locals alike. This casual trattoria is the go-to for Rome’s many food writers, bloggers and passionate eaters, thanks to its familial atmosphere and delicious dishes. Order the fried gnocchi served on a melted cacio e pepe sauce, and don’t shy away from the (don’t be afraid) minty Roman tripe and oxtail – it’s near-perfect."
+      "desc": "Located at the end of the 8 tram that snakes its way through the Trastevere neighbourhood, Cesare al Casaletto’s location outside the city centre hasn’t dampened its popularity among tourists and locals alike. This casual trattoria is the go-to for Rome’s many food writers, bloggers and passionate eaters, thanks to its familial atmosphere and delicious dishes. Order the fried gnocchi served on a melted cacio e pepe sauce, and don’t shy away from the (don’t be afraid) minty Roman tripe and oxtail – it’s near-perfect.",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Buono&Co",
@@ -1193,7 +1332,8 @@
         41.9028,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Antica Caciara",
@@ -1201,7 +1341,8 @@
         41.9036,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Pennetta Alimentari",
@@ -1209,7 +1350,8 @@
         41.9044,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Supermercato Todis",
@@ -1217,7 +1359,8 @@
         41.9052,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful restaurant experience in Italy offering authentic local culture and memorable moments for families."
     }
   ],
   "experiences": [
@@ -1227,7 +1370,8 @@
         45.581642,
         9.271767
       ],
-      "desc": "Cernobbio (Lake Como), Lombardy, $"
+      "desc": "Cernobbio (Lake Como), Lombardy, $",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Intrend (Max Mara Group Outlet)",
@@ -1235,7 +1379,8 @@
         45.470048,
         8.463664
       ],
-      "desc": "Near Rome (Sabina hills), Lazio, $$"
+      "desc": "Near Rome (Sabina hills), Lazio, $$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Carezza Dolomites Ski Resort",
@@ -1243,7 +1388,8 @@
         46.4167,
         11.4333
       ],
-      "desc": "Eggental/Val d'Ega, Dolomites/South Tyrol, $$"
+      "desc": "Eggental/Val d'Ega, Dolomites/South Tyrol, $$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Dozza",
@@ -1251,7 +1397,8 @@
         44.359391,
         11.628879
       ],
-      "desc": "Dozza, Emilia-Romagna"
+      "desc": "Dozza, Emilia-Romagna",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Laboratorio Paravicini",
@@ -1259,7 +1406,8 @@
         43.522584,
         13.246764
       ],
-      "desc": "Milan, Lombardy"
+      "desc": "Milan, Lombardy",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Orta San Giulio (Lake Orta)",
@@ -1267,7 +1415,8 @@
         45.819324,
         8.394268
       ],
-      "desc": "Orta San Giulio, Piedmont, $$"
+      "desc": "Orta San Giulio, Piedmont, $$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Dressage Program in Tuscany",
@@ -1275,7 +1424,8 @@
         43.1,
         11.8
       ],
-      "desc": "Tuscany, Tuscany, $$$"
+      "desc": "Tuscany, Tuscany, $$$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Favignana Island (Egadi Islands)",
@@ -1283,7 +1433,8 @@
         45.502998,
         12.21051
       ],
-      "desc": "Favignana, Sicily, $$"
+      "desc": "Favignana, Sicily, $$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Camogli (Italian Riviera)",
@@ -1291,7 +1442,8 @@
         44.346208,
         9.160078
       ],
-      "desc": "Camogli, Liguria, $$"
+      "desc": "Camogli, Liguria, $$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Laigueglia (Italian Riviera)",
@@ -1299,7 +1451,8 @@
         43.981246,
         8.158729
       ],
-      "desc": "Laigueglia, Liguria, $$"
+      "desc": "Laigueglia, Liguria, $$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Sellaronda Ski Circuit",
@@ -1307,7 +1460,8 @@
         46.4,
         11.9
       ],
-      "desc": "Dolomites, Dolomites, $$$"
+      "desc": "Dolomites, Dolomites, $$$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ca'Marcanda Winery (Bolgheri)",
@@ -1315,7 +1469,8 @@
         43.194257,
         10.617332
       ],
-      "desc": "Bolgheri, Tuscany, $$$"
+      "desc": "Bolgheri, Tuscany, $$$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ferdy Wild Farm (Cows Running)",
@@ -1323,7 +1478,8 @@
         46.5,
         11.5
       ],
-      "desc": "Unknown (Italian Alps), Unknown, $"
+      "desc": "Unknown (Italian Alps), Unknown, $",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Hidden Swimming Spot, Polignano a Mare",
@@ -1331,7 +1487,8 @@
         41.02,
         17.1987
       ],
-      "desc": "Polignano a Mare, Puglia"
+      "desc": "Polignano a Mare, Puglia",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ballarò Market Tour (Palermo)",
@@ -1339,7 +1496,8 @@
         38.1157,
         13.3615
       ],
-      "desc": "Palermo, Sicily, $$"
+      "desc": "Palermo, Sicily, $$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Trieste Walking Tour",
@@ -1347,7 +1505,8 @@
         45.65,
         13.78
       ],
-      "desc": "Trieste, Friuli Venezia Giulia, $$"
+      "desc": "Trieste, Friuli Venezia Giulia, $$",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Barcolana Sailing Regatta",
@@ -1355,7 +1514,8 @@
         44.436852,
         8.626413
       ],
-      "desc": "Trieste, Friuli Venezia Giulia, $"
+      "desc": "Trieste, Friuli Venezia Giulia, $",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Largo di Torre Argentina",
@@ -1363,7 +1523,8 @@
         41.9028,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Giselda",
@@ -1371,7 +1532,8 @@
         41.9036,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Area giochi \"Claudio\"",
@@ -1379,7 +1541,8 @@
         41.9044,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Via della Scrofa",
@@ -1387,7 +1550,8 @@
         41.9052,
         12.4964
       ],
-      "desc": "shopping. pretty street"
+      "desc": "shopping. pretty street",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Via dell'Oca",
@@ -1395,7 +1559,8 @@
         41.9004,
         12.4974
       ],
-      "desc": "shopping"
+      "desc": "shopping",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Polvere di Tempo",
@@ -1403,7 +1568,8 @@
         41.9012,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "18 MQ Vintage Store",
@@ -1411,7 +1577,8 @@
         41.902,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "V. del Governo Vecchio",
@@ -1419,7 +1586,8 @@
         41.9028,
         12.4954
       ],
-      "desc": "vintage shops. start at piazza di pasquino"
+      "desc": "vintage shops. start at piazza di pasquino",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "FORME - Dispensa a Ripa",
@@ -1427,7 +1595,8 @@
         41.9036,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Pantheon",
@@ -1435,7 +1604,8 @@
         41.9044,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Testaccio Market",
@@ -1443,7 +1613,8 @@
         41.9052,
         12.4984
       ],
-      "desc": "Must-try vendors: Casa Manco (box 22) for innovative and delicious pizza, Enzo and Lina (Box 89) for cured meats and cheeses, Mordi e Vai (box 15) for famous Roman sandwiches (such as the stewed tripe)."
+      "desc": "Must-try vendors: Casa Manco (box 22) for innovative and delicious pizza, Enzo and Lina (Box 89) for cured meats and cheeses, Mordi e Vai (box 15) for famous Roman sandwiches (such as the stewed tripe).",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Porta Portese",
@@ -1451,7 +1622,8 @@
         41.9004,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Mercato dell' Unità",
@@ -1459,7 +1631,8 @@
         41.9012,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Mercato di San Cosimato",
@@ -1467,7 +1640,8 @@
         41.902,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Borghetto Flaminio Market",
@@ -1475,7 +1649,8 @@
         41.9028,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Nuovo Mercato Esquilino",
@@ -1483,7 +1658,8 @@
         41.9036,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Mercato rionale San Giovanni di Dio",
@@ -1491,7 +1667,8 @@
         41.9044,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Campo de' Fiori",
@@ -1499,7 +1676,8 @@
         41.9052,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Mercato Trionfale",
@@ -1507,7 +1685,8 @@
         41.9004,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Almost Corner Bookshop",
@@ -1515,7 +1694,8 @@
         41.9012,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Villa Farnesina",
@@ -1523,7 +1703,8 @@
         41.902,
         12.4984
       ],
-      "desc": "Raphael frescoes"
+      "desc": "Raphael frescoes",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ostia Antica",
@@ -1531,7 +1712,8 @@
         41.9028,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Non-Catholic Cemetery",
@@ -1539,7 +1721,8 @@
         41.9036,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Botanical Garden of Rome",
@@ -1547,7 +1730,8 @@
         41.9044,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Villa Medici",
@@ -1555,7 +1739,8 @@
         41.9052,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Campagna Amica",
@@ -1563,7 +1748,8 @@
         41.9004,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Campagna Amica Market",
@@ -1571,7 +1757,8 @@
         41.9012,
         12.4944
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Galleria Colonna",
@@ -1579,7 +1766,8 @@
         41.902,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Complex of the Victorian Ala Brasini",
@@ -1587,7 +1775,8 @@
         41.9028,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Domus Aurea",
@@ -1595,7 +1784,8 @@
         41.9036,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Centrale Montemartini",
@@ -1603,7 +1793,8 @@
         41.9044,
         12.4984
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Villa Doria Pamphili",
@@ -1611,7 +1802,8 @@
         41.9052,
         12.4944
       ],
-      "desc": "Rome's largest landscaped park"
+      "desc": "Rome's largest landscaped park",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Capitoline Museums",
@@ -1619,7 +1811,8 @@
         41.9004,
         12.4954
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Gianicolo Belvedere",
@@ -1627,7 +1820,8 @@
         41.9012,
         12.4964
       ],
-      "desc": "highest point in Rome, good views."
+      "desc": "highest point in Rome, good views.",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Galleria Borghese",
@@ -1635,7 +1829,8 @@
         41.902,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Dropped pin",
@@ -1643,7 +1838,8 @@
         37.9959072,
         12.3359071
       ],
-      "desc": "miuccia prada owns two villas here."
+      "desc": "miuccia prada owns two villas here.",
+      "longDesc": "A wonderful experience experience in Italy offering authentic local culture and memorable moments for families."
     }
   ],
   "kidFriendly": [
@@ -1653,7 +1849,8 @@
         46.682424,
         11.664413
       ],
-      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$"
+      "desc": "Bressanone/Brixen, Dolomites/South Tyrol, $$$",
+      "longDesc": "Nestled in the Dolomites, this family-focused resort offers easy access to hiking, skiing, and charming alpine villages. The mountain views and Italian hospitality make it an ideal base for outdoor-loving families."
     },
     {
       "name": "Falkensteiner Family Resort Lido",
@@ -1661,7 +1858,8 @@
         45.416459,
         12.370612
       ],
-      "desc": "Casteldarne/Ehrenburg, Dolomites/South Tyrol, $$$"
+      "desc": "Casteldarne/Ehrenburg, Dolomites/South Tyrol, $$$",
+      "longDesc": "A lakeside family resort combining water activities with mountain access, perfect for kids who want both lake swimming and mountain exploration. Excellent for families seeking comfort with adventure."
     },
     {
       "name": "Quellenhof Luxury Resort Lazise",
@@ -1669,7 +1867,8 @@
         45.490884,
         10.741471
       ],
-      "desc": "Lazise, Lake Garda/Veneto, $$$"
+      "desc": "Lazise, Lake Garda/Veneto, $$$",
+      "longDesc": "A wonderful kidfriendl experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Quellenhof Luxury Resort Passeier",
@@ -1677,7 +1876,8 @@
         46.7667,
         11.1833
       ],
-      "desc": "Passeier Valley, South Tyrol, $$$"
+      "desc": "Passeier Valley, South Tyrol, $$$",
+      "longDesc": "A wonderful kidfriendl experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Orta San Giulio (Lake Orta)",
@@ -1685,7 +1885,8 @@
         45.819324,
         8.394268
       ],
-      "desc": "Orta San Giulio, Piedmont, $$"
+      "desc": "Orta San Giulio, Piedmont, $$",
+      "longDesc": "A wonderful kidfriendl experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Natinudi Abbigliamento Roma",
@@ -1693,7 +1894,8 @@
         41.9012,
         12.4964
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful kidfriendl experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Città del Sole Roma Libera",
@@ -1701,7 +1903,8 @@
         41.902,
         12.4974
       ],
-      "desc": "Google Maps saved place"
+      "desc": "Google Maps saved place",
+      "longDesc": "A wonderful kidfriendl experience in Italy offering authentic local culture and memorable moments for families."
     }
   ],
   "markets": [
@@ -1711,7 +1914,8 @@
         37.502383,
         15.087065
       ],
-      "desc": "Alba, Piedmont, $$$$"
+      "desc": "Alba, Piedmont, $$$$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Orta San Giulio",
@@ -1719,7 +1923,8 @@
         45.798081,
         8.406951
       ],
-      "desc": "Orta San Giulio, Piedmont, $$"
+      "desc": "Orta San Giulio, Piedmont, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Villa Crespi",
@@ -1728,7 +1933,8 @@
         8.416132
       ],
       "desc": "Orta San Giulio, Piedmont, $$$$",
-      "location": "Orta San Giulio (Lake Orta)"
+      "location": "Orta San Giulio (Lake Orta)",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Uliassi",
@@ -1737,7 +1943,8 @@
         13.2208
       ],
       "desc": "Senigallia, Marche, $$$$",
-      "location": "Senigallia"
+      "location": "Senigallia",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Urbino",
@@ -1745,7 +1952,8 @@
         43.726261,
         12.636313
       ],
-      "desc": "Urbino, Marche, $$"
+      "desc": "Urbino, Marche, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Ascoli Piceno",
@@ -1753,7 +1961,8 @@
         42.854619,
         13.575504
       ],
-      "desc": "Ascoli Piceno, Marche, $$"
+      "desc": "Ascoli Piceno, Marche, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Acqualagna Truffle Town",
@@ -1761,7 +1970,8 @@
         43.613414,
         12.62566
       ],
-      "desc": "Acqualagna, Marche, $$"
+      "desc": "Acqualagna, Marche, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Matera Sassi",
@@ -1769,7 +1979,8 @@
         40.667029,
         16.606327
       ],
-      "desc": "Matera, Basilicata, $$"
+      "desc": "Matera, Basilicata, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Castelmezzano",
@@ -1777,7 +1988,8 @@
         40.530237,
         16.046551
       ],
-      "desc": "Castelmezzano, Basilicata, $"
+      "desc": "Castelmezzano, Basilicata, $",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Tropea",
@@ -1785,7 +1997,8 @@
         38.675267,
         15.894851
       ],
-      "desc": "Tropea, Calabria, $$"
+      "desc": "Tropea, Calabria, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Pollino National Park",
@@ -1793,7 +2006,8 @@
         39.921855,
         16.140592
       ],
-      "desc": "Border, Calabria/Basilicata, $"
+      "desc": "Border, Calabria/Basilicata, $",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "L'Aquila (Culture Capital 2026)",
@@ -1801,7 +2015,8 @@
         45.423519,
         10.948194
       ],
-      "desc": "L'Aquila, Abruzzo, $$"
+      "desc": "L'Aquila, Abruzzo, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Santo Stefano di Sessanio",
@@ -1809,7 +2024,8 @@
         42.343876,
         13.644177
       ],
-      "desc": "Santo Stefano, Abruzzo, $"
+      "desc": "Santo Stefano, Abruzzo, $",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Locanda Mammi",
@@ -1817,7 +2033,8 @@
         43.356469,
         11.932481
       ],
-      "desc": "Agnone, Molise, $$$"
+      "desc": "Agnone, Molise, $$$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Parma Food City",
@@ -1825,7 +2042,8 @@
         44.810278,
         10.328527
       ],
-      "desc": "Parma, Emilia-Romagna, $$"
+      "desc": "Parma, Emilia-Romagna, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Brisighella",
@@ -1833,7 +2051,8 @@
         44.2222,
         11.773325
       ],
-      "desc": "Brisighella, Emilia-Romagna, $"
+      "desc": "Brisighella, Emilia-Romagna, $",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Gibellina (Art Capital 2026)",
@@ -1841,7 +2060,8 @@
         37.80666,
         12.865502
       ],
-      "desc": "Gibellina, Sicily, $$"
+      "desc": "Gibellina, Sicily, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Portovenere",
@@ -1849,7 +2069,8 @@
         44.05066,
         9.834459
       ],
-      "desc": "Portovenere, Liguria, $$"
+      "desc": "Portovenere, Liguria, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Seulo (Centenarians Village)",
@@ -1857,7 +2078,8 @@
         39.870831,
         9.23667
       ],
-      "desc": "Seulo, Sardinia, $"
+      "desc": "Seulo, Sardinia, $",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Oliena",
@@ -1865,7 +2087,8 @@
         40.27226,
         9.403036
       ],
-      "desc": "Oliena, Sardinia, $"
+      "desc": "Oliena, Sardinia, $",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     },
     {
       "name": "Caldaro/Kaltern",
@@ -1873,7 +2096,8 @@
         46.413467,
         11.246911
       ],
-      "desc": "Caldaro, Trentino, $$"
+      "desc": "Caldaro, Trentino, $$",
+      "longDesc": "A wonderful market experience in Italy offering authentic local culture and memorable moments for families."
     }
   ],
   "cityCenters": {

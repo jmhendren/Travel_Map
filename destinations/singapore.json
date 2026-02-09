@@ -3,197 +3,324 @@
   "name": "Singapore Family Adventure",
   "subtitle": "Interactive Trip Map",
   "flag": "🇸🇬",
-  "defaultCenter": [1.3521, 103.8198],
+  "defaultCenter": [
+    1.3521,
+    103.8198
+  ],
   "defaultZoom": 12,
   "hotels": [
     {
       "name": "The Fullerton Hotel Singapore",
-      "coord": [1.2863532, 103.8530671],
+      "coord": [
+        1.2863532,
+        103.8530671
+      ],
       "city": "Marina Bay",
-      "desc": "Historic luxury hotel on waterfront, heritage building"
+      "desc": "Historic luxury hotel on waterfront, heritage building",
+      "longDesc": "This iconic waterfront landmark blends historic charm with luxury, offering stunning Marina Bay views and easy access to cultural attractions."
     },
     {
       "name": "Orchard Hotel",
-      "coord": [1.3048, 103.8318],
+      "coord": [
+        1.3048,
+        103.8318
+      ],
       "city": "Orchard",
-      "desc": "Central location near shopping district, rooftop bar"
+      "desc": "Central location near shopping district, rooftop bar",
+      "longDesc": "Centrally positioned in Singapore's premier shopping district, this hotel offers modern comfort and rooftop dining with city skyline views."
     }
   ],
   "restaurants": [
     {
       "name": "Food Opera",
-      "coord": [1.3040, 103.8320],
+      "coord": [
+        1.304,
+        103.832
+      ],
       "city": "Orchard",
       "cuisine": "Hawker/Diverse",
-      "desc": "Food court atop ION Orchard, hawker favorites with a view"
+      "desc": "Food court atop ION Orchard, hawker favorites with a view",
+      "longDesc": "A modern hawker concept perched atop ION Orchard, serving authentic street food favorites with an elegant setting and panoramic city views."
     },
     {
       "name": "Napoleon Wine Bistro",
-      "coord": [1.2812, 103.8508],
+      "coord": [
+        1.2812,
+        103.8508
+      ],
       "city": "Telok Ayer",
       "cuisine": "French",
-      "desc": "French-inspired wine bar, Telok Ayer conservation shophouse"
+      "desc": "French-inspired wine bar, Telok Ayer conservation shophouse",
+      "longDesc": "Housed in a beautifully restored conservation shophouse, this French bistro offers fine wines and classic cuisine in an intimate, historic setting."
     },
     {
       "name": "Caveau Bar",
-      "coord": [1.2853, 103.8528],
+      "coord": [
+        1.2853,
+        103.8528
+      ],
       "city": "Club Street",
       "cuisine": "Cocktails",
-      "desc": "Upscale cocktail bar, Club Street"
+      "desc": "Upscale cocktail bar, Club Street",
+      "longDesc": "An upscale cocktail destination in the heart of Club Street, known for expertly crafted drinks and sophisticated ambiance in Singapore's heritage quarter."
     },
     {
       "name": "Empress",
-      "coord": [1.2876, 103.8516],
+      "coord": [
+        1.2876,
+        103.8516
+      ],
       "city": "Marina Bay",
       "cuisine": "Modern Chinese",
-      "desc": "Modern Chinese at Asian Civilisations Museum, riverside setting"
+      "desc": "Modern Chinese at Asian Civilisations Museum, riverside setting",
+      "longDesc": "Modern Chinese cuisine in an elegant riverside setting at the Asian Civilisations Museum, celebrating contemporary takes on regional flavors."
     },
     {
       "name": "Mitzo Restaurant & Bar",
-      "coord": [1.3050, 103.8310],
+      "coord": [
+        1.305,
+        103.831
+      ],
       "city": "Orchard",
       "cuisine": "Cantonese",
-      "desc": "Cantonese fine dining at Grand Park Orchard, stylish decor"
+      "desc": "Cantonese fine dining at Grand Park Orchard, stylish decor",
+      "longDesc": "Cantonese fine dining at Grand Park Orchard with sophisticated decor and refined dim sum that families can enjoy together."
     },
     {
       "name": "Restaurant Labyrinth",
-      "coord": [1.2818, 103.8468],
+      "coord": [
+        1.2818,
+        103.8468
+      ],
       "city": "Chinatown",
       "cuisine": "Modern Singaporean",
-      "desc": "Modern Singaporean fine dining, Michelin-starred, playful"
+      "desc": "Modern Singaporean fine dining, Michelin-starred, playful",
+      "longDesc": "A playful Michelin-starred establishment serving modern Singaporean cuisine with inventive presentations in an intimate Chinatown setting."
     },
     {
       "name": "Smoke & Mirrors",
-      "coord": [1.2908, 103.8519],
+      "coord": [
+        1.2908,
+        103.8519
+      ],
       "city": "National Gallery",
       "cuisine": "Cocktails/Bar",
-      "desc": "Rooftop bar at National Gallery, skyline views, craft cocktails"
+      "desc": "Rooftop bar at National Gallery, skyline views, craft cocktails",
+      "longDesc": "Perched atop the National Gallery, this rooftop bar offers craft cocktails and panoramic city skyline views—perfect for sunset drinks."
     },
     {
       "name": "Jumbo Seafood",
-      "coord": [1.2821, 103.8507],
+      "coord": [
+        1.2821,
+        103.8507
+      ],
       "city": "Clarke Quay",
       "cuisine": "Seafood",
-      "desc": "Famous chili crab, Clarke Quay riverside, tourist-friendly"
+      "desc": "Famous chili crab, Clarke Quay riverside, tourist-friendly",
+      "longDesc": "Famous for its signature chili crab, this riverside Clarke Quay institution delivers iconic Singapore flavors in a lively, family-welcoming atmosphere."
     },
     {
       "name": "National Kitchen by Violet Oon",
-      "coord": [1.2873, 103.8512],
+      "coord": [
+        1.2873,
+        103.8512
+      ],
       "city": "Marina Bay",
       "cuisine": "Peranakan",
-      "desc": "Heritage Peranakan cuisine, National Gallery"
+      "desc": "Heritage Peranakan cuisine, National Gallery",
+      "longDesc": "Heritage Peranakan cuisine served with pride in the National Gallery, celebrating the rich culinary traditions of Singapore's diverse cultures."
     },
     {
       "name": "Burnt Ends",
-      "coord": [1.2815, 103.8437],
+      "coord": [
+        1.2815,
+        103.8437
+      ],
       "city": "Chinatown",
       "cuisine": "Barbecue",
-      "desc": "Michelin-starred, open-fire modern barbecue, Chinatown"
+      "desc": "Michelin-starred, open-fire modern barbecue, Chinatown",
+      "longDesc": "A Michelin-starred barbecue destination in Chinatown, featuring open-fire cooking and innovative meat preparations in a dynamic, casual setting."
     },
     {
       "name": "Hawker Chan",
-      "coord": [1.2830, 103.8453],
+      "coord": [
+        1.283,
+        103.8453
+      ],
       "city": "Chinatown",
       "cuisine": "Chinese",
-      "desc": "World's cheapest Michelin meal, soy sauce chicken rice"
+      "desc": "World's cheapest Michelin meal, soy sauce chicken rice",
+      "longDesc": "The world's most affordable Michelin-starred meal, serving legendary soy sauce chicken rice—a must-try authenticity check for food lovers."
     },
     {
       "name": "Candlenut",
-      "coord": [1.2812, 103.7970],
+      "coord": [
+        1.2812,
+        103.797
+      ],
       "city": "Dempsey Hill",
       "cuisine": "Peranakan",
-      "desc": "Michelin-starred Peranakan, Dempsey Hill"
+      "desc": "Michelin-starred Peranakan, Dempsey Hill",
+      "longDesc": "Michelin-starred Peranakan cuisine on charming Dempsey Hill, offering refined takes on ancestral recipes in a warm, sophisticated environment."
     }
   ],
   "experiences": [
     {
       "name": "Marina Bay Sands",
-      "coord": [1.2841, 103.8602],
+      "coord": [
+        1.2841,
+        103.8602
+      ],
       "city": "Marina Bay",
-      "desc": "Iconic hotel with observation deck and rooftop pool"
+      "desc": "Iconic hotel with observation deck and rooftop pool",
+      "longDesc": "Singapore's most recognizable icon features a spectacular observation deck and infinity pool overlooking the entire bay—unforgettable architecture and views."
     },
     {
       "name": "Gardens by the Bay",
-      "coord": [1.2816, 103.8636],
+      "coord": [
+        1.2816,
+        103.8636
+      ],
       "city": "Marina Bay",
-      "desc": "Futuristic gardens with Supertrees and conservatories"
+      "desc": "Futuristic gardens with Supertrees and conservatories",
+      "longDesc": "This botanical wonderland showcases iconic Supertrees, immersive conservatories, and nightly light shows—a perfect blend of nature and innovation."
     },
     {
       "name": "National Museum Singapore",
-      "coord": [1.2908, 103.8447],
+      "coord": [
+        1.2908,
+        103.8447
+      ],
       "city": "Museum District",
-      "desc": "Singapore's history and culture through interactive exhibits"
+      "desc": "Singapore's history and culture through interactive exhibits",
+      "longDesc": "Engaging interactive exhibits bring Singapore's rich history and multicultural heritage to life, offering context for the city-state's remarkable transformation."
     },
     {
       "name": "Singapore Botanic Gardens",
-      "coord": [1.3145, 103.8161],
+      "coord": [
+        1.3145,
+        103.8161
+      ],
       "city": "Orchard",
-      "desc": "UNESCO heritage site, peaceful gardens and lakes"
+      "desc": "UNESCO heritage site, peaceful gardens and lakes",
+      "longDesc": "A UNESCO heritage site offering 160 acres of serene landscape, manicured gardens, and peaceful lakeside walks—a green sanctuary in the city."
     },
     {
       "name": "ArtScience Museum",
-      "coord": [1.2857, 103.8603],
+      "coord": [
+        1.2857,
+        103.8603
+      ],
       "city": "Marina Bay",
-      "desc": "Unique lotus-shaped building with art and science exhibits"
+      "desc": "Unique lotus-shaped building with art and science exhibits",
+      "longDesc": "The distinctive lotus-shaped building houses inventive exhibits blending art and science, ideal for curious families seeking creative inspiration."
     }
   ],
   "kidFriendly": [
     {
       "name": "Singapore Zoo",
-      "coord": [1.4043, 103.7938],
+      "coord": [
+        1.4043,
+        103.7938
+      ],
       "city": "North Singapore",
-      "desc": "World-class zoo with diverse wildlife and interactive shows"
+      "desc": "World-class zoo with diverse wildlife and interactive shows",
+      "longDesc": "One of the world's finest open-concept zoos, home to diverse wildlife and engaging shows that educate and entertain children of all ages."
     },
     {
       "name": "Universal Studios Singapore",
-      "coord": [1.2556, 103.8240],
+      "coord": [
+        1.2556,
+        103.824
+      ],
       "city": "Sentosa Island",
-      "desc": "Theme park with rides, shows, and attractions for families"
+      "desc": "Theme park with rides, shows, and attractions for families",
+      "longDesc": "A theme park packed with thrilling rides, live shows, and family attractions based on blockbuster films—pure entertainment for the whole family."
     },
     {
       "name": "S.E.A. Aquarium",
-      "coord": [1.2513, 103.8197],
+      "coord": [
+        1.2513,
+        103.8197
+      ],
       "city": "Sentosa Island",
-      "desc": "One of world's largest aquariums with interactive touch pools"
+      "desc": "One of world's largest aquariums with interactive touch pools",
+      "longDesc": "The world's largest aquarium by water volume, featuring interactive touch pools and mesmerizing marine life encounters that captivate young explorers."
     },
     {
       "name": "Sentosa Island Beaches",
-      "coord": [1.2485, 103.8295],
+      "coord": [
+        1.2485,
+        103.8295
+      ],
       "city": "Sentosa",
-      "desc": "Family-friendly beaches with water sports and activities"
+      "desc": "Family-friendly beaches with water sports and activities",
+      "longDesc": "Family-friendly sandy shores with calm waters, water sports rentals, and nearby attractions creating the perfect tropical day-trip escape."
     }
   ],
   "markets": [
     {
       "name": "Chinatown Heritage Centre",
-      "coord": [1.2848, 103.8444],
+      "coord": [
+        1.2848,
+        103.8444
+      ],
       "city": "Chinatown",
-      "desc": "Traditional shophouses, wet market, and cultural heritage"
+      "desc": "Traditional shophouses, wet market, and cultural heritage",
+      "longDesc": "A living museum of shophouses, bustling wet markets, and cultural heritage where families can taste, touch, and experience authentic Chinatown life."
     },
     {
       "name": "Tekka Centre Market",
-      "coord": [1.3017, 103.8567],
+      "coord": [
+        1.3017,
+        103.8567
+      ],
       "city": "Little India",
-      "desc": "Bustling multi-level wet market in Little India"
+      "desc": "Bustling multi-level wet market in Little India",
+      "longDesc": "This vibrant multi-level wet market in Little India overwhelms the senses with exotic spices, fresh produce, and the rhythmic energy of local commerce."
     },
     {
       "name": "Bugis Street Market",
-      "coord": [1.3011, 103.8565],
+      "coord": [
+        1.3011,
+        103.8565
+      ],
       "city": "Bugis",
-      "desc": "Vibrant street market with clothing, trinkets, and street food"
+      "desc": "Vibrant street market with clothing, trinkets, and street food",
+      "longDesc": "A beloved street market bursting with street food stalls, trendy clothing, and handmade trinkets—a sensory adventure and local favorite."
     },
     {
       "name": "Arab Street Bazaar",
-      "coord": [1.2994, 103.8570],
+      "coord": [
+        1.2994,
+        103.857
+      ],
       "city": "Arab Quarter",
-      "desc": "Colorful bazaar with textiles, fragrances, and spices"
+      "desc": "Colorful bazaar with textiles, fragrances, and spices",
+      "longDesc": "Colorful, fragrant bazaar filled with exotic textiles, perfumes, and spices, reflecting the rich culture and trade heritage of Singapore's Arab Quarter."
     }
   ],
   "cityCenters": {
-    "Singapore": [1.3521, 103.8198, 0.03],
-    "Marina Bay": [1.2814, 103.8636, 0.01],
-    "Orchard": [1.3048, 103.8318, 0.01],
-    "Chinatown": [1.2833, 103.8441, 0.01]
+    "Singapore": [
+      1.3521,
+      103.8198,
+      0.03
+    ],
+    "Marina Bay": [
+      1.2814,
+      103.8636,
+      0.01
+    ],
+    "Orchard": [
+      1.3048,
+      103.8318,
+      0.01
+    ],
+    "Chinatown": [
+      1.2833,
+      103.8441,
+      0.01
+    ]
   },
   "itineraryData": {
     "a": {
@@ -210,7 +337,16 @@
             "Visit Gardens by the Bay at dusk to see Supertrees",
             "Dinner with views at Marina Bay restaurant"
           ],
-          "locations": [[1.2841, 103.8602], [1.2816, 103.8636]]
+          "locations": [
+            [
+              1.2841,
+              103.8602
+            ],
+            [
+              1.2816,
+              103.8636
+            ]
+          ]
         },
         {
           "day": 2,
@@ -222,7 +358,20 @@
             "Visit Chinese temples and heritage centre",
             "Dinner at Hawker Chan for iconic meal"
           ],
-          "locations": [[1.2908, 103.8447], [1.2848, 103.8444], [1.2830, 103.8453]]
+          "locations": [
+            [
+              1.2908,
+              103.8447
+            ],
+            [
+              1.2848,
+              103.8444
+            ],
+            [
+              1.283,
+              103.8453
+            ]
+          ]
         },
         {
           "day": 3,
@@ -234,7 +383,24 @@
             "Evening cocktails at Smoke & Mirrors rooftop bar",
             "Dinner experience at a Michelin-starred restaurant"
           ],
-          "locations": [[1.2857, 103.8603], [1.2815, 103.8437], [1.3145, 103.8161], [1.2908, 103.8519]]
+          "locations": [
+            [
+              1.2857,
+              103.8603
+            ],
+            [
+              1.2815,
+              103.8437
+            ],
+            [
+              1.3145,
+              103.8161
+            ],
+            [
+              1.2908,
+              103.8519
+            ]
+          ]
         },
         {
           "day": 4,
@@ -246,7 +412,20 @@
             "Visit local markets (Bugis or Arab Street)",
             "Final dinner and exploration of Singapore's neighborhoods"
           ],
-          "locations": [[1.3040, 103.8320], [1.3050, 103.8310], [1.3011, 103.8565]]
+          "locations": [
+            [
+              1.304,
+              103.832
+            ],
+            [
+              1.305,
+              103.831
+            ],
+            [
+              1.3011,
+              103.8565
+            ]
+          ]
         }
       ]
     },
@@ -264,7 +443,16 @@
             "Explore Chinatown streets and heritage buildings",
             "Dinner tour of hidden hawker stalls in different neighborhoods"
           ],
-          "locations": [[1.2830, 103.8453], [1.2848, 103.8444]]
+          "locations": [
+            [
+              1.283,
+              103.8453
+            ],
+            [
+              1.2848,
+              103.8444
+            ]
+          ]
         },
         {
           "day": 2,
@@ -277,7 +465,28 @@
             "Discover local bars and wine bistros (Napoleon Wine Bistro)",
             "Casual dinner at neighborhood restaurant"
           ],
-          "locations": [[1.3017, 103.8567], [1.2812, 103.7970], [1.2994, 103.8570], [1.3011, 103.8565], [1.2812, 103.8508]]
+          "locations": [
+            [
+              1.3017,
+              103.8567
+            ],
+            [
+              1.2812,
+              103.797
+            ],
+            [
+              1.2994,
+              103.857
+            ],
+            [
+              1.3011,
+              103.8565
+            ],
+            [
+              1.2812,
+              103.8508
+            ]
+          ]
         },
         {
           "day": 3,
@@ -290,7 +499,20 @@
             "Farewell dinner at a neighborhood gem restaurant",
             "Final exploration of Singapore's street life"
           ],
-          "locations": [[1.2994, 103.8570], [1.3145, 103.8161], [1.3040, 103.8320]]
+          "locations": [
+            [
+              1.2994,
+              103.857
+            ],
+            [
+              1.3145,
+              103.8161
+            ],
+            [
+              1.304,
+              103.832
+            ]
+          ]
         }
       ]
     }

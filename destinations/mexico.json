@@ -3,128 +3,207 @@
   "name": "Mexico Family Adventure",
   "subtitle": "Interactive Trip Map",
   "flag": "🇲🇽",
-  "defaultCenter": [20.5, -99.0],
+  "defaultCenter": [
+    20.5,
+    -99.0
+  ],
   "defaultZoom": 6,
   "hotels": [
     {
       "name": "Casa Campos",
-      "coord": [19.4300, -99.1350],
+      "coord": [
+        19.43,
+        -99.135
+      ],
       "city": "Mexico City",
-      "desc": "Charming boutique hotel in Roma Norte with rooftop terrace"
+      "desc": "Charming boutique hotel in Roma Norte with rooftop terrace",
+      "longDesc": "This Roma Norte gem combines colonial charm with modern comfort, perfect for families wanting to explore Mexico City's most vibrant culinary and cultural neighborhood from a stylish home base."
     },
     {
       "name": "La Posada Tulum",
-      "coord": [20.2110, -87.4630],
+      "coord": [
+        20.211,
+        -87.463
+      ],
       "city": "Tulum",
-      "desc": "Beachfront eco-friendly resort with jungle access"
+      "desc": "Beachfront eco-friendly resort with jungle access",
+      "longDesc": "An eco-conscious beachfront retreat that bridges jungle and sand, ideal for families seeking a balance of relaxation, adventure, and sustainability in Tulum's bohemian setting."
     }
   ],
   "restaurants": [
     {
       "name": "Restaurante Rosetta",
-      "coord": [19.4298, -99.1587],
+      "coord": [
+        19.4298,
+        -99.1587
+      ],
       "city": "Mexico City",
       "cuisine": "Modern Mexican-Italian",
-      "desc": "Celebrated modern Mexican-Italian in Roma Norte, gorgeous courtyard"
+      "desc": "Celebrated modern Mexican-Italian in Roma Norte, gorgeous courtyard",
+      "longDesc": "This award-winning Roma Norte favorite showcases creative Mexican-Italian fusion in an enchanting courtyard, offering refined dining that family travelers will find both elegant and welcoming."
     },
     {
       "name": "Máximo",
-      "coord": [19.4324, -99.1587],
+      "coord": [
+        19.4324,
+        -99.1587
+      ],
       "city": "Mexico City",
       "cuisine": "Mexican",
-      "desc": "Chef Eduardo García, refined Mexican cuisine, Roma Norte favorite"
+      "desc": "Chef Eduardo García, refined Mexican cuisine, Roma Norte favorite",
+      "longDesc": "Chef Eduardo García's masterful take on Mexican cuisine celebrates fresh ingredients and traditional techniques, making this intimate Roma Norte restaurant a must-visit for serious food-loving families."
     },
     {
       "name": "ULTRAMARINOS DEMAR",
-      "coord": [19.4314, -99.1602],
+      "coord": [
+        19.4314,
+        -99.1602
+      ],
       "city": "Mexico City",
       "cuisine": "Seafood",
-      "desc": "Contemporary seafood bar, Roma Norte"
+      "desc": "Contemporary seafood bar, Roma Norte",
+      "longDesc": "A sleek, contemporary seafood bar in the heart of Roma Norte that brings fresh coastal flavors to the capital, perfect for families who want quality seafood without stuffy formality."
     },
     {
       "name": "Ki'bok Coffee Tulum",
-      "coord": [20.2115, -87.4610],
+      "coord": [
+        20.2115,
+        -87.461
+      ],
       "city": "Tulum",
       "cuisine": "Cafe",
-      "desc": "Specialty coffee roaster, bohemian Tulum vibe"
+      "desc": "Specialty coffee roaster, bohemian Tulum vibe",
+      "longDesc": "This specialty coffee roastery captures Tulum's laid-back, bohemian spirit while serving expertly crafted coffee, making it a morning ritual worth building your day around."
     },
     {
       "name": "Restaurante Bar El Capitán",
-      "coord": [20.2102, -87.4624],
+      "coord": [
+        20.2102,
+        -87.4624
+      ],
       "city": "Tulum",
       "cuisine": "Seafood",
-      "desc": "Local Tulum seafood, casual beachside dining"
+      "desc": "Local Tulum seafood, casual beachside dining",
+      "longDesc": "Casual beachside dining with fresh-caught seafood and stunning ocean views, this local favorite offers authentic Tulum flavor without pretension—exactly what families need after beach time."
     }
   ],
   "experiences": [
     {
       "name": "Templo Mayor",
-      "coord": [19.4383, -99.1367],
+      "coord": [
+        19.4383,
+        -99.1367
+      ],
       "city": "Mexico City",
-      "desc": "Archaeological site of Aztec temple complex in historic center"
+      "desc": "Archaeological site of Aztec temple complex in historic center",
+      "longDesc": "This remarkable Aztec temple complex, discovered beneath Mexico City, reveals layers of pre-Hispanic history and artistry that bring ancient civilizations vividly to life for curious visitors of all ages."
     },
     {
       "name": "Frida Kahlo Museum",
-      "coord": [19.4159, -99.1461],
+      "coord": [
+        19.4159,
+        -99.1461
+      ],
       "city": "Mexico City",
-      "desc": "Casa Azul, the iconic blue house and museum"
+      "desc": "Casa Azul, the iconic blue house and museum",
+      "longDesc": "Casa Azul's vivid blue walls and intimate rooms showcase the artist's iconic paintings, personal artifacts, and bohemian spirit, creating an unforgettable window into Mexican culture and creativity."
     },
     {
       "name": "Chichén Itzá",
-      "coord": [20.6829, -87.5479],
+      "coord": [
+        20.6829,
+        -87.5479
+      ],
       "city": "Yucatán",
-      "desc": "Iconic Maya ruins with El Castillo pyramid"
+      "desc": "Iconic Maya ruins with El Castillo pyramid",
+      "longDesc": "One of the New World's most impressive Maya archaeological sites, featuring the iconic stepped pyramid El Castillo, this destination combines stunning architecture with profound historical significance."
     },
     {
       "name": "Cenote Swimming",
-      "coord": [20.2100, -87.4600],
+      "coord": [
+        20.21,
+        -87.46
+      ],
       "city": "Tulum",
-      "desc": "Swimming in crystal-clear underground cenote pools"
+      "desc": "Swimming in crystal-clear underground cenote pools",
+      "longDesc": "These natural limestone sinkholes with crystal-clear underground waters offer a uniquely refreshing and magical experience—part swimming hole, part geological wonder—that kids and adults equally adore."
     }
   ],
   "kidFriendly": [
     {
       "name": "Chapultepec Park",
-      "coord": [19.4265, -99.1865],
+      "coord": [
+        19.4265,
+        -99.1865
+      ],
       "city": "Mexico City",
-      "desc": "Large urban park with museums, zoo, and playgrounds"
+      "desc": "Large urban park with museums, zoo, and playgrounds",
+      "longDesc": "This sprawling Mexico City oasis combines world-class museums, an interactive zoo, historic castles, and playgrounds, providing endless discovery and play for families in one magnificent urban park."
     },
     {
       "name": "Xel-Há Water Park",
-      "coord": [20.3514, -87.3214],
+      "coord": [
+        20.3514,
+        -87.3214
+      ],
       "city": "Riviera Maya",
-      "desc": "All-inclusive eco-adventure park with snorkeling and wildlife"
+      "desc": "All-inclusive eco-adventure park with snorkeling and wildlife",
+      "longDesc": "An all-inclusive eco-adventure park where families can snorkel among tropical fish, zip-line through cenotes, and encounter wildlife in a stunning riverside setting designed for fun and conservation."
     },
     {
       "name": "Playa del Carmen Beach",
-      "coord": [20.6296, -87.0739],
+      "coord": [
+        20.6296,
+        -87.0739
+      ],
       "city": "Riviera Maya",
-      "desc": "Family-friendly beach with water activities"
+      "desc": "Family-friendly beach with water activities",
+      "longDesc": "This spacious, family-friendly Caribbean beach offers calm waters perfect for young swimmers, plus plenty of resorts, restaurants, and water activities to keep all ages happily entertained."
     }
   ],
   "markets": [
     {
       "name": "Mercado de la Merced",
-      "coord": [19.4333, -99.1222],
+      "coord": [
+        19.4333,
+        -99.1222
+      ],
       "city": "Mexico City",
-      "desc": "One of world's largest open-air markets with produce and crafts"
+      "desc": "One of world's largest open-air markets with produce and crafts",
+      "longDesc": "One of the world's largest open-air markets sprawls across entire blocks, overflowing with vibrant produce, regional crafts, and local energy—a sensory feast and cultural immersion for the whole family."
     },
     {
       "name": "La Lagunilla Market",
-      "coord": [19.4416, -99.1416],
+      "coord": [
+        19.4416,
+        -99.1416
+      ],
       "city": "Mexico City",
-      "desc": "Historic weekend market with antiques and crafts"
+      "desc": "Historic weekend market with antiques and crafts",
+      "longDesc": "This historic weekend market in a charming neighborhood is packed with vintage finds, handcrafted goods, and local character, making it perfect for families seeking authentic souvenirs and cultural discovery."
     },
     {
       "name": "Tulum Artisan Market",
-      "coord": [20.2180, -87.4400],
+      "coord": [
+        20.218,
+        -87.44
+      ],
       "city": "Tulum",
-      "desc": "Local crafts and souvenirs from Tulum vendors"
+      "desc": "Local crafts and souvenirs from Tulum vendors",
+      "longDesc": "A curated collection of locally made crafts and souvenirs from Tulum artisans offers families the chance to support local makers while finding beautiful, meaningful pieces to remember the trip."
     }
   ],
   "cityCenters": {
-    "Mexico City": [19.4326, -99.1332, 0.04],
-    "Tulum": [20.2115, -87.4654, 0.02]
+    "Mexico City": [
+      19.4326,
+      -99.1332,
+      0.04
+    ],
+    "Tulum": [
+      20.2115,
+      -87.4654,
+      0.02
+    ]
   },
   "itineraryData": {
     "a": {
@@ -141,7 +220,12 @@
             "Afternoon stroll through Roma Norte neighborhood",
             "Dinner at Restaurante Rosetta - gorgeous courtyard"
           ],
-          "locations": [[19.4310, -99.1350]]
+          "locations": [
+            [
+              19.431,
+              -99.135
+            ]
+          ]
         },
         {
           "day": 2,
@@ -152,7 +236,20 @@
             "Afternoon exploring Frida Kahlo Museum",
             "Evening at La Lagunilla Market for local crafts"
           ],
-          "locations": [[19.4333, -99.1222], [19.4314, -99.1602], [19.4159, -99.1461]]
+          "locations": [
+            [
+              19.4333,
+              -99.1222
+            ],
+            [
+              19.4314,
+              -99.1602
+            ],
+            [
+              19.4159,
+              -99.1461
+            ]
+          ]
         },
         {
           "day": 3,
@@ -163,7 +260,12 @@
             "Afternoon shopping in historic center",
             "Departure from Mexico City"
           ],
-          "locations": [[19.4383, -99.1367]]
+          "locations": [
+            [
+              19.4383,
+              -99.1367
+            ]
+          ]
         }
       ]
     },
@@ -181,7 +283,16 @@
             "Sunset beach walk on Tulum's white sand",
             "Dinner at Restaurante Bar El Capitán - casual beachside"
           ],
-          "locations": [[20.2115, -87.4630], [20.2100, -87.4600]]
+          "locations": [
+            [
+              20.2115,
+              -87.463
+            ],
+            [
+              20.21,
+              -87.46
+            ]
+          ]
         },
         {
           "day": 2,
@@ -193,7 +304,20 @@
             "Afternoon exploring Tulum Artisan Market",
             "Evening meditation and relaxation"
           ],
-          "locations": [[20.2120, -87.4590], [20.2115, -87.4610], [20.2180, -87.4400]]
+          "locations": [
+            [
+              20.212,
+              -87.459
+            ],
+            [
+              20.2115,
+              -87.461
+            ],
+            [
+              20.218,
+              -87.44
+            ]
+          ]
         },
         {
           "day": 3,
@@ -205,7 +329,12 @@
             "Farewell dinner at favorite restaurant",
             "Departure preparation"
           ],
-          "locations": [[20.6829, -87.5479]]
+          "locations": [
+            [
+              20.6829,
+              -87.5479
+            ]
+          ]
         }
       ]
     }

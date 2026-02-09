@@ -3,307 +3,550 @@
   "name": "Belgium Family Adventure",
   "subtitle": "Interactive Trip Map",
   "flag": "🇧🇪",
-  "defaultCenter": [50.85, 4.35],
+  "defaultCenter": [
+    50.85,
+    4.35
+  ],
   "defaultZoom": 8,
   "hotels": [
     {
       "name": "Botanic Sanctuary Antwerp",
-      "coord": [51.2131, 4.4148],
-      "desc": "Modern luxury spa hotel in Antwerp's botanical district"
+      "coord": [
+        51.2131,
+        4.4148
+      ],
+      "desc": "Modern luxury spa hotel in Antwerp's botanical district",
+      "longDesc": "A serene wellness retreat near Antwerp's botanical gardens, perfect for families seeking relaxation and spa treatments in a tranquil setting with contemporary luxury."
     },
     {
       "name": "Hotel Dukes' Palace Bruges",
-      "coord": [51.2082, 3.2218],
-      "desc": "Luxury 5-star palace hotel in historic Bruges center"
+      "coord": [
+        51.2082,
+        3.2218
+      ],
+      "desc": "Luxury 5-star palace hotel in historic Bruges center",
+      "longDesc": "A sumptuous 5-star palace hotel occupying a historic mansion in Bruges' heart, offering period elegance and impeccable service steps from medieval squares and canal-side dining."
     },
     {
       "name": "Hotel Julien Antwerp",
-      "coord": [51.2202, 4.4020],
-      "desc": "Boutique luxury hotel in Antwerp's diamond district"
+      "coord": [
+        51.2202,
+        4.402
+      ],
+      "desc": "Boutique luxury hotel in Antwerp's diamond district",
+      "longDesc": "This intimate boutique hotel in the glittering diamond district combines historic charm with modern luxury, ideal for families exploring Antwerp's galleries and design shops."
     },
     {
       "name": "Hotel Pilar Antwerp",
-      "coord": [51.2195, 4.3988],
-      "desc": "Charming historic hotel in central Antwerp"
+      "coord": [
+        51.2195,
+        4.3988
+      ],
+      "desc": "Charming historic hotel in central Antwerp",
+      "longDesc": "A characterful historic hotel blending old-world Belgian hospitality with contemporary comfort, located in central Antwerp near restaurants, shops, and cultural attractions."
     }
   ],
   "restaurants": [
     {
       "name": "Ciro's",
-      "coord": [51.217, 4.4005],
-      "desc": "Classic brasserie with traditional Belgian comfort food"
+      "coord": [
+        51.217,
+        4.4005
+      ],
+      "desc": "Classic brasserie with traditional Belgian comfort food",
+      "longDesc": "A classic Antwerp brasserie celebrating Belgian comfort food tradition, where families enjoy hearty moules, frites, and local specialties in a warm, unpretentious atmosphere."
     },
     {
       "name": "De Bomma",
-      "coord": [51.2178, 4.4015],
-      "desc": "Traditional Flemish cuisine in an intimate setting"
+      "coord": [
+        51.2178,
+        4.4015
+      ],
+      "desc": "Traditional Flemish cuisine in an intimate setting",
+      "longDesc": "Intimate Flemish dining in a cozy setting, showcasing traditional regional recipes and local ingredients that make Belgian cuisine a true comfort."
     },
     {
       "name": "Dôme sur Mer",
-      "coord": [51.2186, 4.4025],
-      "desc": "Fresh seafood and elegant dining in Antwerp"
+      "coord": [
+        51.2186,
+        4.4025
+      ],
+      "desc": "Fresh seafood and elegant dining in Antwerp",
+      "longDesc": "Elegant seafood dining in Antwerp with fresh catches prepared with sophisticated technique, offering a refined family meal with excellent river views."
     },
     {
       "name": "Nebo",
-      "coord": [51.2194, 4.4035],
-      "desc": "Fine dining with contemporary European cuisine"
+      "coord": [
+        51.2194,
+        4.4035
+      ],
+      "desc": "Fine dining with contemporary European cuisine",
+      "longDesc": "Contemporary European fine dining with creative plating and seasonal ingredients, delivering memorable meals for special family occasions in Antwerp."
     },
     {
       "name": "Kommilfoo",
-      "coord": [51.2202, 4.4045],
-      "desc": "Acclaimed fine dining in Antwerp's food scene"
+      "coord": [
+        51.2202,
+        4.4045
+      ],
+      "desc": "Acclaimed fine dining in Antwerp's food scene",
+      "longDesc": "An acclaimed fine dining establishment representing Antwerp's modern culinary excellence, known for innovative dishes and impeccable presentation."
     },
     {
       "name": "Bistrot Du Nord",
-      "coord": [51.2221, 4.4048],
-      "desc": "Cozy bistro with traditional Belgian flavors"
+      "coord": [
+        51.2221,
+        4.4048
+      ],
+      "desc": "Cozy bistro with traditional Belgian flavors",
+      "longDesc": "A cozy neighborhood bistro where families savor traditional Belgian flavors and hearty portions in relaxed, friendly surroundings."
     },
     {
       "name": "DIM Dining",
-      "coord": [51.2169, 4.4014],
-      "desc": "Contemporary fine dining in central Antwerp"
+      "coord": [
+        51.2169,
+        4.4014
+      ],
+      "desc": "Contemporary fine dining in central Antwerp",
+      "longDesc": "Contemporary fine dining in central Antwerp with sophisticated cuisine and attentive service, perfect for elevated family celebrations."
     },
     {
       "name": "'t Fornuis",
-      "coord": [51.2188, 4.4005],
-      "desc": "Acclaimed fine dining, Michelin-starred, Antwerp's top table"
+      "coord": [
+        51.2188,
+        4.4005
+      ],
+      "desc": "Acclaimed fine dining, Michelin-starred, Antwerp's top table",
+      "longDesc": "Michelin-starred excellence showcasing Belgian and French traditions in an intimate setting, representing Antwerp's pinnacle of fine dining achievement."
     },
     {
       "name": "The Jane",
-      "coord": [51.2071, 4.3946],
-      "desc": "Michelin-starred restaurant with seasonal cuisine"
+      "coord": [
+        51.2071,
+        4.3946
+      ],
+      "desc": "Michelin-starred restaurant with seasonal cuisine",
+      "longDesc": "An exceptional Michelin-starred restaurant celebrating seasonal ingredients and creative technique, offering unforgettable culinary experiences in elegant surroundings."
     },
     {
       "name": "Fiskebar",
-      "coord": [51.2120, 4.4007],
-      "desc": "Contemporary seafood and fish specialties"
+      "coord": [
+        51.212,
+        4.4007
+      ],
+      "desc": "Contemporary seafood and fish specialties",
+      "longDesc": "Fresh fish and contemporary seafood preparations in casual-elegant settings, where families enjoy market-driven menus and expert recommendations."
     },
     {
       "name": "Restaurant Nathan",
-      "coord": [51.2104, 4.4132],
-      "desc": "Casual fine dining with European cuisine"
+      "coord": [
+        51.2104,
+        4.4132
+      ],
+      "desc": "Casual fine dining with European cuisine",
+      "longDesc": "Casual fine dining with approachable European cuisine and warm service, bridging the gap between comfort and sophistication for family meals."
     },
     {
       "name": "Lux",
-      "coord": [51.2105, 4.4148],
-      "desc": "Modern restaurant with creative international menu"
+      "coord": [
+        51.2105,
+        4.4148
+      ],
+      "desc": "Modern restaurant with creative international menu",
+      "longDesc": "Modern restaurant with creative international menu drawing inspiration from global flavors, presented with contemporary presentation and attentive hospitality."
     },
     {
       "name": "RAS",
-      "coord": [51.2279, 4.4039],
-      "desc": "Rooftop dining at MAS museum with city views"
+      "coord": [
+        51.2279,
+        4.4039
+      ],
+      "desc": "Rooftop dining at MAS museum with city views",
+      "longDesc": "Rooftop dining at the MAS museum combines artistic surroundings with panoramic city views and quality cuisine for memorable family gatherings."
     },
     {
       "name": "Balls & Glory",
-      "coord": [51.2186, 4.3997],
-      "desc": "Italian-inspired casual dining, meatballs and pasta"
+      "coord": [
+        51.2186,
+        4.3997
+      ],
+      "desc": "Italian-inspired casual dining, meatballs and pasta",
+      "longDesc": "Playful Italian-inspired casual dining celebrating meatballs and housemade pasta, bringing infectious enthusiasm and delicious comfort food to Antwerp."
     },
     {
       "name": "MASA",
-      "coord": [51.2162, 4.4030],
-      "desc": "Contemporary fusion cuisine in Antwerp"
+      "coord": [
+        51.2162,
+        4.403
+      ],
+      "desc": "Contemporary fusion cuisine in Antwerp",
+      "longDesc": "Contemporary fusion cuisine blending global influences with refined execution, offering adventurous families creative dishes in welcoming settings."
     },
     {
       "name": "Elfde Gebod",
-      "coord": [51.2206, 4.3994],
-      "desc": "Traditional Belgian bar with local atmosphere"
+      "coord": [
+        51.2206,
+        4.3994
+      ],
+      "desc": "Traditional Belgian bar with local atmosphere",
+      "longDesc": "A traditional Belgian bar oozing character with quirky decor and local atmosphere, perfect for families sampling Belgian beers and hearty local food."
     },
     {
       "name": "Bar Burbure",
-      "coord": [51.2193, 4.4063],
-      "desc": "Classic Belgian cafe and restaurant"
+      "coord": [
+        51.2193,
+        4.4063
+      ],
+      "desc": "Classic Belgian cafe and restaurant",
+      "longDesc": "Classic Belgian cafe and restaurant embodying unpretentious local hospitality, serving traditional dishes in a convivial family-friendly environment."
     },
     {
       "name": "Pelgrom",
-      "coord": [51.2194, 4.3977],
-      "desc": "Traditional Belgian cuisine in historic quarter"
+      "coord": [
+        51.2194,
+        4.3977
+      ],
+      "desc": "Traditional Belgian cuisine in historic quarter",
+      "longDesc": "Traditional Belgian cuisine in a historic quarter setting, celebrating regional flavors and time-honored recipes in atmospheric medieval surroundings."
     },
     {
       "name": "Bourla",
-      "coord": [51.2167, 4.4054],
-      "desc": "Fine dining near historic Bourla Theatre"
+      "coord": [
+        51.2167,
+        4.4054
+      ],
+      "desc": "Fine dining near historic Bourla Theatre",
+      "longDesc": "Fine dining with cultural cache near Antwerp's renowned Bourla Theatre, offering refined meals enriched by proximity to arts and architecture."
     },
     {
       "name": "Falafel Samy",
-      "coord": [51.2217, 4.4061],
-      "desc": "Middle Eastern fast casual dining in Antwerp"
+      "coord": [
+        51.2217,
+        4.4061
+      ],
+      "desc": "Middle Eastern fast casual dining in Antwerp",
+      "longDesc": "Vibrant Middle Eastern fast-casual spot bringing diversity and fresh flavors to Antwerp's food scene, perfect for families seeking quick quality meals."
     },
     {
       "name": "Grand Café De Rooden Hoed",
-      "coord": [51.2203, 4.3996],
-      "desc": "Authentic Belgian moules frites and seafood"
+      "coord": [
+        51.2203,
+        4.3996
+      ],
+      "desc": "Authentic Belgian moules frites and seafood",
+      "longDesc": "Authentic moules frites and fresh seafood in a historic setting, where families experience classic Belgian coastal cuisine traditions."
     },
     {
       "name": "Brasserie Appelmans",
-      "coord": [51.2180, 4.4016],
-      "desc": "Traditional brasserie with moules frites specialties"
+      "coord": [
+        51.218,
+        4.4016
+      ],
+      "desc": "Traditional brasserie with moules frites specialties",
+      "longDesc": "A traditional brasserie specializing in perfectly prepared moules frites, celebrating this iconic Belgian dish with quality ingredients and technique."
     },
     {
       "name": "'t Hofke",
-      "coord": [51.2192, 4.4056],
-      "desc": "Casual Belgian dining with hearty portions"
+      "coord": [
+        51.2192,
+        4.4056
+      ],
+      "desc": "Casual Belgian dining with hearty portions",
+      "longDesc": "Casual Belgian dining delivering generous, honest portions of traditional comfort food in a welcoming neighborhood atmosphere."
     },
     {
       "name": "Moules et Frites",
-      "coord": [51.2194, 4.4033],
-      "desc": "Authentic Belgian moules frites restaurant"
+      "coord": [
+        51.2194,
+        4.4033
+      ],
+      "desc": "Authentic Belgian moules frites restaurant",
+      "longDesc": "An institution dedicated to perfecting Belgium's most famous dish, serving fresh mussels and crispy fries with various accompaniments and sauces."
     },
     {
       "name": "Sans Cravate",
-      "coord": [51.2065, 3.2283],
-      "desc": "Michelin-starred fine dining in Bruges historic center"
+      "coord": [
+        51.2065,
+        3.2283
+      ],
+      "desc": "Michelin-starred fine dining in Bruges historic center",
+      "longDesc": "Michelin-starred fine dining in Bruges historic center showcasing refined Belgian and French cuisine in an intimate, sophisticated setting."
     },
     {
       "name": "De Jonkman",
-      "coord": [51.1932, 3.2123],
-      "desc": "Michelin-starred traditional Belgian cuisine"
+      "coord": [
+        51.1932,
+        3.2123
+      ],
+      "desc": "Michelin-starred traditional Belgian cuisine",
+      "longDesc": "Traditional Michelin-starred Belgian cuisine celebrating local products and time-honored techniques in a charming historic Bruges location."
     },
     {
       "name": "Rock Fort",
-      "coord": [51.2063, 3.2272],
-      "desc": "Contemporary Belgian dining in charming Bruges"
+      "coord": [
+        51.2063,
+        3.2272
+      ],
+      "desc": "Contemporary Belgian dining in charming Bruges",
+      "longDesc": "Contemporary Belgian dining in atmospheric Bruges surroundings, where inventive cooking respects tradition while embracing modern techniques."
     },
     {
       "name": "Den Gouden Harynck",
-      "coord": [51.2035, 3.2312],
-      "desc": "Michelin-starred restaurant with Flemish specialties"
+      "coord": [
+        51.2035,
+        3.2312
+      ],
+      "desc": "Michelin-starred restaurant with Flemish specialties",
+      "longDesc": "Michelin-starred excellence featuring Flemish specialties and refined cuisine, representing Bruges' finest culinary achievements."
     },
     {
       "name": "De Stove",
-      "coord": [51.2075, 3.2274],
-      "desc": "Cozy traditional Belgian restaurant in Bruges"
+      "coord": [
+        51.2075,
+        3.2274
+      ],
+      "desc": "Cozy traditional Belgian restaurant in Bruges",
+      "longDesc": "Cozy traditional Belgian restaurant capturing hometown flavors and warmth, perfect for families seeking authentic comfort in medieval Bruges."
     },
     {
       "name": "Assiette Blanche",
-      "coord": [51.2088, 3.2238],
-      "desc": "Contemporary French-Belgian cuisine in Bruges"
+      "coord": [
+        51.2088,
+        3.2238
+      ],
+      "desc": "Contemporary French-Belgian cuisine in Bruges",
+      "longDesc": "Contemporary French-Belgian fusion celebrating seasonal ingredients, bridging two culinary traditions with refined execution and elegant presentation."
     },
     {
       "name": "Bhavani",
-      "coord": [51.2072, 3.2295],
-      "desc": "Authentic Indian cuisine in medieval Bruges"
+      "coord": [
+        51.2072,
+        3.2295
+      ],
+      "desc": "Authentic Indian cuisine in medieval Bruges",
+      "longDesc": "Authentic Indian cuisine bringing warmth and vibrant spices to medieval Bruges, offering families adventurous flavors in a charming historic setting."
     },
     {
       "name": "De Gastro",
-      "coord": [51.2082, 3.2270],
-      "desc": "Modern bistro with seasonal Belgian ingredients"
+      "coord": [
+        51.2082,
+        3.227
+      ],
+      "desc": "Modern bistro with seasonal Belgian ingredients",
+      "longDesc": "Modern bistro showcasing seasonal Belgian ingredients prepared with contemporary sensibility, connecting families to local food traditions."
     },
     {
       "name": "Den Amand",
-      "coord": [51.2078, 3.2252],
-      "desc": "Cozy restaurant with traditional Flemish fare"
+      "coord": [
+        51.2078,
+        3.2252
+      ],
+      "desc": "Cozy restaurant with traditional Flemish fare",
+      "longDesc": "Cozy restaurant capturing traditional Flemish fare in intimate surroundings, perfect for families seeking authentic regional home cooking."
     },
     {
       "name": "Books and Brunch",
-      "coord": [51.2080, 3.2270],
-      "desc": "Casual brunch spot with literary atmosphere"
+      "coord": [
+        51.208,
+        3.227
+      ],
+      "desc": "Casual brunch spot with literary atmosphere",
+      "longDesc": "Literary-themed casual brunch spot where families enjoy fresh morning fare surrounded by shelves of books in artistic Bruges atmosphere."
     },
     {
       "name": "Café Vlissinghe",
-      "coord": [51.2118, 3.2281],
-      "desc": "Historic beer cafe with traditional Belgian ambiance"
+      "coord": [
+        51.2118,
+        3.2281
+      ],
+      "desc": "Historic beer cafe with traditional Belgian ambiance",
+      "longDesc": "Historic beer cafe preserving centuries of Belgian brewing tradition and ambiance, where families experience authentic local beer culture and food."
     },
     {
       "name": "That's Toast",
-      "coord": [51.2059, 3.2227],
-      "desc": "Casual cafe with fresh sandwiches and pastries"
+      "coord": [
+        51.2059,
+        3.2227
+      ],
+      "desc": "Casual cafe with fresh sandwiches and pastries",
+      "longDesc": "Casual cafe with fresh sandwiches and pastries, offering quick quality meals perfect for families exploring medieval Bruges streets."
     },
     {
       "name": "Breydel De Coninc",
-      "coord": [51.2085, 3.2267],
-      "desc": "Authentic moules frites in medieval Bruges setting"
+      "coord": [
+        51.2085,
+        3.2267
+      ],
+      "desc": "Authentic moules frites in medieval Bruges setting",
+      "longDesc": "Authentic moules frites in a medieval Bruges setting, where historic building architecture enhances the experience of classic Belgian dining."
     },
     {
       "name": "'t Huidevettershuis",
-      "coord": [51.2069, 3.2266],
-      "desc": "Traditional Belgian moules frites on canal square"
+      "coord": [
+        51.2069,
+        3.2266
+      ],
+      "desc": "Traditional Belgian moules frites on canal square",
+      "longDesc": "Traditional moules frites on a picturesque canal square, combining perfect Belgian mussels with enchanting medieval Bruges surroundings."
     }
   ],
   "experiences": [
     {
       "name": "Antwerp Historic Quarter",
-      "coord": [51.2194, 4.4025],
-      "desc": "Medieval streets, diamond district, art galleries"
+      "coord": [
+        51.2194,
+        4.4025
+      ],
+      "desc": "Medieval streets, diamond district, art galleries",
+      "longDesc": "Medieval streets leading through galleries, boutiques, and heritage buildings showcase why Antwerp captivates with art, design, and diamonds."
     },
     {
       "name": "Bruges Medieval Center",
-      "coord": [51.2093, 3.2247],
-      "desc": "UNESCO world heritage canals and cobblestone streets"
+      "coord": [
+        51.2093,
+        3.2247
+      ],
+      "desc": "UNESCO world heritage canals and cobblestone streets",
+      "longDesc": "UNESCO-protected canals, cobblestone squares, and fairytale architecture create a living museum where families step into European heritage preserved for centuries."
     },
     {
       "name": "Brussels Grand Place",
-      "coord": [50.8503, 4.3517],
-      "desc": "Stunning baroque square, heart of Brussels"
+      "coord": [
+        50.8503,
+        4.3517
+      ],
+      "desc": "Stunning baroque square, heart of Brussels",
+      "longDesc": "Stunning baroque square surrounded by ornate guild halls represents Brussels' magnificent heart and is UNESCO-listed for architectural splendor."
     },
     {
       "name": "Atomium",
-      "coord": [50.8945, 4.3361],
-      "desc": "Iconic 1958 Brussels landmark with panoramic views"
+      "coord": [
+        50.8945,
+        4.3361
+      ],
+      "desc": "Iconic 1958 Brussels landmark with panoramic views",
+      "longDesc": "Iconic 1958 Brussels landmark offering panoramic city views from its spheres, representing post-war Belgian optimism and 20th-century architectural vision."
     },
     {
       "name": "Belgian Beer Experience",
-      "coord": [50.8520, 4.3495],
-      "desc": "Explore Belgium's world-famous beer culture"
+      "coord": [
+        50.852,
+        4.3495
+      ],
+      "desc": "Explore Belgium's world-famous beer culture",
+      "longDesc": "Explore the world's most diverse beer culture where Belgian craftsmanship ranges from Trappist monks to modern microbreweries across regional styles."
     }
   ],
   "kidFriendly": [
     {
       "name": "Sebrechtspark",
-      "coord": [51.2070, 3.2160],
-      "desc": "Beautiful park in Bruges with playgrounds for kids"
+      "coord": [
+        51.207,
+        3.216
+      ],
+      "desc": "Beautiful park in Bruges with playgrounds for kids",
+      "longDesc": "Beautiful green space in Bruges with dedicated playgrounds and walking paths, offering families peaceful respite among historic surroundings."
     },
     {
       "name": "Minnewater Park",
-      "coord": [51.2002, 3.2273],
-      "desc": "Historic park with swans and romantic lake setting"
+      "coord": [
+        51.2002,
+        3.2273
+      ],
+      "desc": "Historic park with swans and romantic lake setting",
+      "longDesc": "Historic park enchanting families with swans gliding on romantic lake waters, surrounded by medieval ramparts and picturesque Bruges architecture."
     },
     {
       "name": "Koningin Astridpark",
-      "coord": [51.2065, 3.2310],
-      "desc": "Large park in Bruges with walking paths and green space"
+      "coord": [
+        51.2065,
+        3.231
+      ],
+      "desc": "Large park in Bruges with walking paths and green space",
+      "longDesc": "Large Bruges park with extensive walking paths and verdant green space, perfect for families seeking outdoor adventures and nature exploration."
     },
     {
       "name": "Sue's Corner",
-      "coord": [51.2185, 4.4030],
-      "desc": "Toy store and kids' play area in Antwerp"
+      "coord": [
+        51.2185,
+        4.403
+      ],
+      "desc": "Toy store and kids' play area in Antwerp",
+      "longDesc": "Toy store and kids' play area combining shopping delight with recreational activities, ensuring younger travelers stay entertained in Antwerp."
     },
     {
       "name": "Antwerp Zoo",
-      "coord": [51.2158, 4.4123],
-      "desc": "Historic zoo with diverse animal collection"
+      "coord": [
+        51.2158,
+        4.4123
+      ],
+      "desc": "Historic zoo with diverse animal collection",
+      "longDesc": "Historic zoo housing diverse animal collection from around the world, engaging children with wildlife encounters in a well-established cultural institution."
     }
   ],
   "markets": [
     {
       "name": "Laurent Gerbaud Chocolatier",
-      "coord": [50.8450, 4.3545],
-      "desc": "Award-winning chocolate shop in Brussels"
+      "coord": [
+        50.845,
+        4.3545
+      ],
+      "desc": "Award-winning chocolate shop in Brussels",
+      "longDesc": "Award-winning Brussels chocolate shop where artisanal craftsmanship creates exquisite pralines that delight families seeking authentic Belgian sweets."
     },
     {
       "name": "The Chocolate Line",
-      "coord": [51.2079, 3.2274],
-      "desc": "Famous chocolate boutique in Bruges, Dominique Persoone"
+      "coord": [
+        51.2079,
+        3.2274
+      ],
+      "desc": "Famous chocolate boutique in Bruges, Dominique Persoone",
+      "longDesc": "Famous Bruges chocolate boutique created by legendary chocolatier Dominique Persoone, offering innovative flavor combinations and artistic presentations."
     },
     {
       "name": "Chez Albert Waffles",
-      "coord": [51.2093, 3.2242],
-      "desc": "Traditional Belgian waffles in the heart of Bruges"
+      "coord": [
+        51.2093,
+        3.2242
+      ],
+      "desc": "Traditional Belgian waffles in the heart of Bruges",
+      "longDesc": "Traditional Belgian waffles in heart of Bruges, where families enjoy hot, crispy creations topped with chocolate, fruit, or whipped cream."
     },
     {
       "name": "Bruges Lace Market",
-      "coord": [51.2088, 3.2255],
-      "desc": "Historic lace and traditional crafts in Bruges"
+      "coord": [
+        51.2088,
+        3.2255
+      ],
+      "desc": "Historic lace and traditional crafts in Bruges",
+      "longDesc": "Historic market celebrating centuries of Belgian lace tradition and craftsmanship, offering authentic handmade products reflecting regional cultural heritage."
     },
     {
       "name": "Antwerp Diamond Quarter",
-      "coord": [51.2167, 4.4025],
-      "desc": "World-famous diamond trading and jewelry district"
+      "coord": [
+        51.2167,
+        4.4025
+      ],
+      "desc": "World-famous diamond trading and jewelry district",
+      "longDesc": "World-renowned diamond trading district where families glimpse the glamorous gemstone industry that shaped Antwerp's prosperity."
     }
   ],
   "cityCenters": {
-    "Antwerp": [51.2194, 4.4025, 0.02],
-    "Bruges": [51.2093, 3.2247, 0.02],
-    "Brussels": [50.8503, 4.3517, 0.03]
+    "Antwerp": [
+      51.2194,
+      4.4025,
+      0.02
+    ],
+    "Bruges": [
+      51.2093,
+      3.2247,
+      0.02
+    ],
+    "Brussels": [
+      50.8503,
+      4.3517,
+      0.03
+    ]
   },
   "itineraryData": {
     "a": {
@@ -318,17 +561,26 @@
             {
               "type": "hotel",
               "name": "Hotel Julien Antwerp",
-              "coord": [51.2202, 4.4020]
+              "coord": [
+                51.2202,
+                4.402
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Antwerp Historic Quarter",
-              "coord": [51.2194, 4.4025]
+              "coord": [
+                51.2194,
+                4.4025
+              ]
             },
             {
               "type": "dinner",
               "name": "Ciro's",
-              "coord": [51.217, 4.4005]
+              "coord": [
+                51.217,
+                4.4005
+              ]
             }
           ]
         },
@@ -339,27 +591,42 @@
             {
               "type": "breakfast",
               "name": "Hotel Julien Antwerp",
-              "coord": [51.2202, 4.4020]
+              "coord": [
+                51.2202,
+                4.402
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Antwerp Diamond Quarter",
-              "coord": [51.2167, 4.4025]
+              "coord": [
+                51.2167,
+                4.4025
+              ]
             },
             {
               "type": "lunch",
               "name": "Grand Café De Rooden Hoed",
-              "coord": [51.2203, 4.3996]
+              "coord": [
+                51.2203,
+                4.3996
+              ]
             },
             {
               "type": "sightseeing",
               "name": "RAS Museum Rooftop",
-              "coord": [51.2279, 4.4039]
+              "coord": [
+                51.2279,
+                4.4039
+              ]
             },
             {
               "type": "dinner",
               "name": "'t Fornuis",
-              "coord": [51.2188, 4.4005]
+              "coord": [
+                51.2188,
+                4.4005
+              ]
             }
           ]
         },
@@ -370,27 +637,42 @@
             {
               "type": "breakfast",
               "name": "Hotel Julien Antwerp",
-              "coord": [51.2202, 4.4020]
+              "coord": [
+                51.2202,
+                4.402
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Antwerp Art Galleries",
-              "coord": [51.2194, 4.4025]
+              "coord": [
+                51.2194,
+                4.4025
+              ]
             },
             {
               "type": "lunch",
               "name": "Balls & Glory",
-              "coord": [51.2186, 4.3997]
+              "coord": [
+                51.2186,
+                4.3997
+              ]
             },
             {
               "type": "optional",
               "name": "Shopping District",
-              "coord": [51.2194, 4.4025]
+              "coord": [
+                51.2194,
+                4.4025
+              ]
             },
             {
               "type": "dinner",
               "name": "Kommilfoo",
-              "coord": [51.2202, 4.4045]
+              "coord": [
+                51.2202,
+                4.4045
+              ]
             }
           ]
         },
@@ -401,27 +683,42 @@
             {
               "type": "hotel",
               "name": "Hotel Dukes' Palace Bruges",
-              "coord": [51.2082, 3.2218]
+              "coord": [
+                51.2082,
+                3.2218
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Bruges Medieval Center",
-              "coord": [51.2093, 3.2247]
+              "coord": [
+                51.2093,
+                3.2247
+              ]
             },
             {
               "type": "lunch",
               "name": "That's Toast",
-              "coord": [51.2059, 3.2227]
+              "coord": [
+                51.2059,
+                3.2227
+              ]
             },
             {
               "type": "optional",
               "name": "Minnewater Park",
-              "coord": [51.2002, 3.2273]
+              "coord": [
+                51.2002,
+                3.2273
+              ]
             },
             {
               "type": "dinner",
               "name": "De Stove",
-              "coord": [51.2075, 3.2274]
+              "coord": [
+                51.2075,
+                3.2274
+              ]
             }
           ]
         },
@@ -432,27 +729,42 @@
             {
               "type": "breakfast",
               "name": "Chez Albert Waffles",
-              "coord": [51.2093, 3.2242]
+              "coord": [
+                51.2093,
+                3.2242
+              ]
             },
             {
               "type": "sightseeing",
               "name": "The Chocolate Line",
-              "coord": [51.2079, 3.2274]
+              "coord": [
+                51.2079,
+                3.2274
+              ]
             },
             {
               "type": "lunch",
               "name": "Breydel De Coninc",
-              "coord": [51.2085, 3.2267]
+              "coord": [
+                51.2085,
+                3.2267
+              ]
             },
             {
               "type": "optional",
               "name": "Bruges Lace Market",
-              "coord": [51.2088, 3.2255]
+              "coord": [
+                51.2088,
+                3.2255
+              ]
             },
             {
               "type": "dinner",
               "name": "Sans Cravate",
-              "coord": [51.2065, 3.2283]
+              "coord": [
+                51.2065,
+                3.2283
+              ]
             }
           ]
         }
@@ -470,27 +782,42 @@
             {
               "type": "hotel",
               "name": "Hotel Pilar Antwerp",
-              "coord": [51.2195, 4.3988]
+              "coord": [
+                51.2195,
+                4.3988
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Belgian Beer Culture",
-              "coord": [51.2194, 4.4025]
+              "coord": [
+                51.2194,
+                4.4025
+              ]
             },
             {
               "type": "lunch",
               "name": "De Bomma",
-              "coord": [51.2178, 4.4015]
+              "coord": [
+                51.2178,
+                4.4015
+              ]
             },
             {
               "type": "optional",
               "name": "Bar Burbure",
-              "coord": [51.2193, 4.4063]
+              "coord": [
+                51.2193,
+                4.4063
+              ]
             },
             {
               "type": "dinner",
               "name": "Dôme sur Mer",
-              "coord": [51.2186, 4.4025]
+              "coord": [
+                51.2186,
+                4.4025
+              ]
             }
           ]
         },
@@ -501,27 +828,42 @@
             {
               "type": "breakfast",
               "name": "Hotel Pilar Antwerp",
-              "coord": [51.2195, 4.3988]
+              "coord": [
+                51.2195,
+                4.3988
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Antwerp Food Markets",
-              "coord": [51.2194, 4.4025]
+              "coord": [
+                51.2194,
+                4.4025
+              ]
             },
             {
               "type": "lunch",
               "name": "Brasserie Appelmans",
-              "coord": [51.2180, 4.4016]
+              "coord": [
+                51.218,
+                4.4016
+              ]
             },
             {
               "type": "optional",
               "name": "Falafel Samy",
-              "coord": [51.2217, 4.4061]
+              "coord": [
+                51.2217,
+                4.4061
+              ]
             },
             {
               "type": "dinner",
               "name": "Nebo",
-              "coord": [51.2194, 4.4035]
+              "coord": [
+                51.2194,
+                4.4035
+              ]
             }
           ]
         },
@@ -532,32 +874,50 @@
             {
               "type": "hotel",
               "name": "Hotel Dukes' Palace Bruges",
-              "coord": [51.2082, 3.2218]
+              "coord": [
+                51.2082,
+                3.2218
+              ]
             },
             {
               "type": "breakfast",
               "name": "Chez Albert Waffles",
-              "coord": [51.2093, 3.2242]
+              "coord": [
+                51.2093,
+                3.2242
+              ]
             },
             {
               "type": "sightseeing",
               "name": "The Chocolate Line",
-              "coord": [51.2079, 3.2274]
+              "coord": [
+                51.2079,
+                3.2274
+              ]
             },
             {
               "type": "lunch",
               "name": "Assiette Blanche",
-              "coord": [51.2088, 3.2238]
+              "coord": [
+                51.2088,
+                3.2238
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Bruges Medieval Center",
-              "coord": [51.2093, 3.2247]
+              "coord": [
+                51.2093,
+                3.2247
+              ]
             },
             {
               "type": "dinner",
               "name": "Rock Fort",
-              "coord": [51.2063, 3.2272]
+              "coord": [
+                51.2063,
+                3.2272
+              ]
             }
           ]
         },
@@ -568,27 +928,42 @@
             {
               "type": "breakfast",
               "name": "Books and Brunch",
-              "coord": [51.2080, 3.2270]
+              "coord": [
+                51.208,
+                3.227
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Café Vlissinghe Historic Bar",
-              "coord": [51.2118, 3.2281]
+              "coord": [
+                51.2118,
+                3.2281
+              ]
             },
             {
               "type": "lunch",
               "name": "'t Huidevettershuis",
-              "coord": [51.2069, 3.2266]
+              "coord": [
+                51.2069,
+                3.2266
+              ]
             },
             {
               "type": "optional",
               "name": "Bruges Lace Market",
-              "coord": [51.2088, 3.2255]
+              "coord": [
+                51.2088,
+                3.2255
+              ]
             },
             {
               "type": "dinner",
               "name": "Den Gouden Harynck",
-              "coord": [51.2035, 3.2312]
+              "coord": [
+                51.2035,
+                3.2312
+              ]
             }
           ]
         }
@@ -606,27 +981,42 @@
             {
               "type": "hotel",
               "name": "Botanic Sanctuary Antwerp",
-              "coord": [51.2131, 4.4148]
+              "coord": [
+                51.2131,
+                4.4148
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Antwerp Historic Quarter",
-              "coord": [51.2194, 4.4025]
+              "coord": [
+                51.2194,
+                4.4025
+              ]
             },
             {
               "type": "lunch",
               "name": "Balls & Glory",
-              "coord": [51.2186, 4.3997]
+              "coord": [
+                51.2186,
+                4.3997
+              ]
             },
             {
               "type": "optional",
               "name": "Sue's Corner",
-              "coord": [51.2185, 4.4030]
+              "coord": [
+                51.2185,
+                4.403
+              ]
             },
             {
               "type": "dinner",
               "name": "Ciro's",
-              "coord": [51.217, 4.4005]
+              "coord": [
+                51.217,
+                4.4005
+              ]
             }
           ]
         },
@@ -637,27 +1027,42 @@
             {
               "type": "breakfast",
               "name": "Hotel Pilar Antwerp",
-              "coord": [51.2195, 4.3988]
+              "coord": [
+                51.2195,
+                4.3988
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Antwerp Zoo",
-              "coord": [51.2158, 4.4123]
+              "coord": [
+                51.2158,
+                4.4123
+              ]
             },
             {
               "type": "lunch",
               "name": "Moules et Frites",
-              "coord": [51.2194, 4.4033]
+              "coord": [
+                51.2194,
+                4.4033
+              ]
             },
             {
               "type": "optional",
               "name": "Diamond Quarter Kid Tour",
-              "coord": [51.2167, 4.4025]
+              "coord": [
+                51.2167,
+                4.4025
+              ]
             },
             {
               "type": "dinner",
               "name": "De Bomma",
-              "coord": [51.2178, 4.4015]
+              "coord": [
+                51.2178,
+                4.4015
+              ]
             }
           ]
         },
@@ -668,32 +1073,50 @@
             {
               "type": "hotel",
               "name": "Hotel Dukes' Palace Bruges",
-              "coord": [51.2082, 3.2218]
+              "coord": [
+                51.2082,
+                3.2218
+              ]
             },
             {
               "type": "breakfast",
               "name": "Chez Albert Waffles",
-              "coord": [51.2093, 3.2242]
+              "coord": [
+                51.2093,
+                3.2242
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Sebrechtspark",
-              "coord": [51.2070, 3.2160]
+              "coord": [
+                51.207,
+                3.216
+              ]
             },
             {
               "type": "lunch",
               "name": "That's Toast",
-              "coord": [51.2059, 3.2227]
+              "coord": [
+                51.2059,
+                3.2227
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Minnewater Park",
-              "coord": [51.2002, 3.2273]
+              "coord": [
+                51.2002,
+                3.2273
+              ]
             },
             {
               "type": "dinner",
               "name": "De Stove",
-              "coord": [51.2075, 3.2274]
+              "coord": [
+                51.2075,
+                3.2274
+              ]
             }
           ]
         },
@@ -704,32 +1127,50 @@
             {
               "type": "breakfast",
               "name": "Books and Brunch",
-              "coord": [51.2080, 3.2270]
+              "coord": [
+                51.208,
+                3.227
+              ]
             },
             {
               "type": "sightseeing",
               "name": "The Chocolate Line",
-              "coord": [51.2079, 3.2274]
+              "coord": [
+                51.2079,
+                3.2274
+              ]
             },
             {
               "type": "lunch",
               "name": "Bhavani",
-              "coord": [51.2072, 3.2295]
+              "coord": [
+                51.2072,
+                3.2295
+              ]
             },
             {
               "type": "sightseeing",
               "name": "Koningin Astridpark",
-              "coord": [51.2065, 3.2310]
+              "coord": [
+                51.2065,
+                3.231
+              ]
             },
             {
               "type": "optional",
               "name": "Bruges Medieval Streets Tour",
-              "coord": [51.2093, 3.2247]
+              "coord": [
+                51.2093,
+                3.2247
+              ]
             },
             {
               "type": "dinner",
               "name": "Rock Fort",
-              "coord": [51.2063, 3.2272]
+              "coord": [
+                51.2063,
+                3.2272
+              ]
             }
           ]
         }

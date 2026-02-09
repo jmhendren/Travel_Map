@@ -17,7 +17,8 @@
       ],
       "desc": "Truffle specialties, fine French cuisine",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A refined sanctuary celebrating one of France's most luxurious ingredients, Maison de la Truffe offers truffle-based fine dining that introduces families to gourmet flavors in an elegant setting."
     }
   ],
   "restaurants": [
@@ -29,7 +30,8 @@
       ],
       "desc": "Traditional bistro, hearty classics",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "This beloved Marais bistro serves classic hearty French fare in a timeless setting, perfect for families seeking authentic Parisian charm and traditional cooking."
     },
     {
       "name": "Brasserie Bellanger",
@@ -39,7 +41,8 @@
       ],
       "desc": "Grand brasserie, Belle Époque style",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A stunning Belle Époque brasserie with ornate mirrors and art nouveau details, offering classic French dishes in a spectacular historic venue that delights both eyes and palate."
     },
     {
       "name": "L'Ardoise",
@@ -49,7 +52,8 @@
       ],
       "desc": "Contemporary French, seasonal ingredients",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A contemporary French bistro celebrating seasonal ingredients with care, this is where local foodies come for creative takes on French classics in an intimate, unpretentious space."
     },
     {
       "name": "À L'Épi d'Or",
@@ -59,7 +63,8 @@
       ],
       "desc": "Classic bistro, traditional cooking",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "Hidden on a quiet Paris street, this classic bistro preserves traditional French cooking techniques and warm hospitality that families treasure as their secret neighborhood find."
     },
     {
       "name": "Philippe Excoffier",
@@ -69,7 +74,8 @@
       ],
       "desc": "Gourmet French, intimate dining",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "An intimate gourmet destination where Chef Excoffier showcases refined French cuisine with impeccable technique and artistic plating in a sophisticated, welcoming atmosphere."
     },
     {
       "name": "La Diva des Prés",
@@ -79,7 +85,8 @@
       ],
       "desc": "Italian, refined atmosphere",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "This refined Italian gem on the Left Bank brings warm Mediterranean sophistication to Paris, offering a sophisticated dining experience that surprises and delights."
     },
     {
       "name": "Les Climats",
@@ -89,7 +96,8 @@
       ],
       "desc": "Burgundy wines, classic French dishes",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A wine lover's paradise featuring Burgundy's finest, Les Climats pairs exceptional regional wines with classic French dishes in a storied, romantic setting."
     },
     {
       "name": "Au Bistro",
@@ -99,7 +107,8 @@
       ],
       "desc": "Authentic Parisian bistro, locals favorite",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A genuinely Parisian bistro where locals gather for honest, flavorful cooking and genuine hospitality—the kind of place that feels like discovering a family secret."
     },
     {
       "name": "Le Bougainville",
@@ -109,7 +118,8 @@
       ],
       "desc": "French cuisine, elegant setting",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "Elegant French cuisine served in a refined setting that balances sophistication with approachability, ideal for families wanting to celebrate a special meal together."
     },
     {
       "name": "L'heure gourmande",
@@ -119,7 +129,8 @@
       ],
       "desc": "Pastry and tea, charming café",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A charming tearoom where pastries and tea take center stage, perfect for families seeking an afternoon break with exquisite French pastries and homemade charm."
     },
     {
       "name": "L'Oseille",
@@ -129,7 +140,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A curated dining destination showcasing French culinary artistry with care and precision, offering memorable flavors in an intimate neighborhood atmosphere."
     },
     {
       "name": "CoCo",
@@ -139,7 +151,8 @@
       ],
       "desc": "Contemporary French, chef-driven",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "Chef-driven contemporary French cuisine that respects tradition while exploring modern techniques, creating dynamic, flavorful dishes that excite curious palates."
     },
     {
       "name": "Abri",
@@ -149,7 +162,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A destination restaurant where the chef's creativity shines through in each thoughtfully composed dish, offering an adventurous dining experience rooted in French techniques."
     },
     {
       "name": "Quinsou",
@@ -159,7 +173,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A sophisticated table showcasing refined cuisine with artistic presentation, where each dish tells a story of culinary craftsmanship and seasonal inspiration."
     },
     {
       "name": "Restaurant ES",
@@ -169,7 +184,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A thoughtfully executed dining concept celebrating French ingredients and techniques with modern sensibility and genuine hospitality."
     },
     {
       "name": "TOWA Restaurant",
@@ -179,7 +195,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A culinary destination bringing refined cooking and artistic vision to Paris dining, where each meal is crafted with meticulous attention to detail."
     },
     {
       "name": "Restaurant David Toutain",
@@ -189,7 +206,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "Chef David Toutain's signature restaurant pushes culinary boundaries with artistic plating and surprising flavor combinations that challenge and delight."
     },
     {
       "name": "L’Ami Jean",
@@ -199,7 +217,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "L’Ami Jean is a dining destination worth exploring during your Paris visit."
     },
     {
       "name": "Comice",
@@ -209,7 +228,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A modern French restaurant celebrating quality ingredients and thoughtful cooking, offering refined yet approachable cuisine in a relaxed atmosphere."
     },
     {
       "name": "Septime",
@@ -219,7 +239,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A dynamic restaurant where seasonal ingredients inspire creative French cooking in an unpretentious setting that appeals to adventurous family diners."
     },
     {
       "name": "La Scène",
@@ -229,7 +250,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "Refined French cuisine presented with artistic flair in a sophisticated setting, where each plate reflects the chef's passion for flavor and technique."
     },
     {
       "name": "Joséphine Chez Dumonet",
@@ -239,7 +261,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)"
+      "source_list": "Saved Places (GeoJSON)",
+      "longDesc": "A beloved Left Bank bistro serving soul-satisfying classic French dishes in a cozy, authentic setting that families return to again and again."
     },
     {
       "name": "Patrick Roger",
@@ -249,7 +272,8 @@
       ],
       "desc": "Master chocolatier, artistic creations",
       "category": "restaurants",
-      "source_list": "Paris Chocolate.csv"
+      "source_list": "Paris Chocolate.csv",
+      "longDesc": "A master chocolatier whose artistic creations are almost too beautiful to eat, offering sculptural chocolates that showcase technical mastery and poetic imagination."
     },
     {
       "name": "Pierre Hermé",
@@ -259,7 +283,8 @@
       ],
       "desc": "Famous pastry chef, macarons and desserts",
       "category": "restaurants",
-      "source_list": "Paris Chocolate.csv"
+      "source_list": "Paris Chocolate.csv",
+      "longDesc": "The legendary pastry chef's empire offers exquisite macarons and desserts that are tiny works of art, each flavor combination surprising and utterly delicious."
     },
     {
       "name": "NHOME",
@@ -269,7 +294,8 @@
       ],
       "desc": "Michelin-starred French cuisine, intimate setting",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A Michelin-starred gem offering intimate French cuisine in a carefully curated setting where attention to detail and quality ingredients create unforgettable meals."
     },
     {
       "name": "ACCENTS table bourse",
@@ -279,7 +305,8 @@
       ],
       "desc": "Contemporary French, seasonal specialties",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Contemporary French cuisine highlighting seasonal specialties, this restaurant celebrates French ingredients and traditions with modern refinement and creativity."
     },
     {
       "name": "Accents",
@@ -289,7 +316,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A thoughtfully executed dining concept focusing on quality French cooking with seasonal awareness, delivered with genuine hospitality and artistic plating."
     },
     {
       "name": "SUGO",
@@ -299,7 +327,8 @@
       ],
       "desc": "Italian pasta, elegant ambiance",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Elegant Italian pasta from a chef with serious credentials, SUGO brings refined technique to traditional pasta-making, creating dishes that sing with flavor."
     },
     {
       "name": "AO Izakaya",
@@ -309,7 +338,8 @@
       ],
       "desc": "Japanese izakaya, contemporary Tokyo style",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Contemporary Tokyo-style Japanese cooking brings vibrant flavors and interactive dining to Paris, offering families a chance to experience refined Asian cuisine."
     },
     {
       "name": "Les 110 de Taillevent",
@@ -319,7 +349,8 @@
       ],
       "desc": "Fine dining, wine-focused menu",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A wine-focused fine dining experience where an impressive selection of affordable wines pairs beautifully with refined French cuisine."
     },
     {
       "name": "Caviar Kaspia",
@@ -329,7 +360,8 @@
       ],
       "desc": "Luxury caviar, oysters, champagne bar",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A luxury temple to the finest caviar, oysters, and champagne, perfect for families celebrating special occasions or wanting to explore gourmet indulgence."
     },
     {
       "name": "Angelina",
@@ -339,7 +371,8 @@
       ],
       "desc": "Iconic hot chocolate, pastries since 1903",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "An iconic Paris institution since 1903, Angelina serves legendary hot chocolate so rich and velvety it's almost a spiritual experience, with pastries to match."
     },
     {
       "name": "L'Avenue",
@@ -349,7 +382,8 @@
       ],
       "desc": "Parisian brasserie, classic dishes",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A timeless Parisian brasserie where classic dishes maintain their elegance and flavor, in a setting that captures the spirit of the golden age of dining."
     },
     {
       "name": "Brasserie Lazare Paris",
@@ -359,7 +393,8 @@
       ],
       "desc": "Google Maps saved place",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A contemporary brasserie serving refined comfort food in a lively atmosphere, ideal for families wanting classic French cooking in a modern setting."
     },
     {
       "name": "Bar Vendôme",
@@ -369,7 +404,8 @@
       ],
       "desc": "Ritz Hotel bar, elegant cocktails",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Within the legendary Ritz, this bar serves impeccably crafted cocktails in an elegant setting that embodies Parisian luxury and timeless sophistication."
     },
     {
       "name": "Café Jeanne - Park Hyatt Paris-Vendôme",
@@ -379,7 +415,8 @@
       ],
       "desc": "Park Hyatt café, modern French",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Modern French cuisine with five-star service in a contemporary setting, offering families a memorable meal with polished hospitality."
     },
     {
       "name": "Brasserie Flottes",
@@ -389,7 +426,8 @@
       ],
       "desc": "Traditional brasserie, comfort food",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Traditional brasserie cooking with comforting dishes served in a convivial atmosphere, perfect for families seeking honest, satisfying French food."
     },
     {
       "name": "Bistrot Vivienne",
@@ -399,7 +437,8 @@
       ],
       "desc": "Parisian bistro, authentic atmosphere",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "An authentic Parisian bistro with genuine atmosphere where locals and visitors alike enjoy traditional cooking in timeless surroundings."
     },
     {
       "name": "Loulou",
@@ -409,7 +448,8 @@
       ],
       "desc": "Mediterranean cuisine, chic lounge",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Mediterranean cuisine served in a chic lounge setting, offering lighter, vibrant flavors that welcome families seeking a sophisticated yet relaxed meal."
     },
     {
       "name": "Grand Café Capucines",
@@ -419,7 +459,8 @@
       ],
       "desc": "Belle époque décor, classic fare",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A Belle époque masterpiece where ornate décor and classic French fare transport you to elegant Paris, perfect for families wanting grandeur and tradition."
     },
     {
       "name": "Café Lapérouse Concorde",
@@ -429,7 +470,8 @@
       ],
       "desc": "Historic café near Concorde",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A historic café with views of iconic Paris, offering a connection to literary Paris and classic French hospitality in an elegant setting."
     },
     {
       "name": "Drouant",
@@ -439,7 +481,8 @@
       ],
       "desc": "Classic French brasserie, literary history",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "A legendary brasserie with literary heritage, Drouant serves classic French cooking in a storied setting where history and tradition matter deeply."
     },
     {
       "name": "Café de la Paix",
@@ -449,7 +492,8 @@
       ],
       "desc": "Iconic café, views of Opéra Garnier",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Perhaps Paris's most iconic café, Café de la Paix offers unbeatable views of Opéra Garnier with classic French cuisine in a legendary setting."
     },
     {
       "name": "La Rôtisserie d'Argent",
@@ -459,7 +503,8 @@
       ],
       "desc": "Roasted meats, traditional French",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "Specializing in perfectly roasted meats prepared with traditional French technique, this restaurant celebrates the art of slow cooking and flavor."
     },
     {
       "name": "Brasserie Brunet",
@@ -469,7 +514,8 @@
       ],
       "desc": "Alpine restaurant, local specialties",
       "category": "restaurants",
-      "source_list": "Saved Places (CSV)"
+      "source_list": "Saved Places (CSV)",
+      "longDesc": "This alpine restaurant celebrates local Val d'Isère specialties with hearty, warming mountain cuisine perfect for families after a day of skiing."
     },
     {
       "name": "Restaurant L'Alpin Val d'isère",
@@ -479,7 +525,8 @@
       ],
       "desc": "Mountain cuisine, ski resort dining",
       "category": "restaurants",
-      "source_list": "Saved Places (CSV)"
+      "source_list": "Saved Places (CSV)",
+      "longDesc": "Mountain cuisine reimagined for ski resort dining, combining traditional alpine flavors with contemporary style in a cozy Val d'Isère setting."
     },
     {
       "name": "Restaurant l'Edelweiss",
@@ -489,7 +536,8 @@
       ],
       "desc": "Alpine restaurant, traditional dishes",
       "category": "restaurants",
-      "source_list": "Saved Places (CSV)"
+      "source_list": "Saved Places (CSV)",
+      "longDesc": "An alpine classic serving traditional mountain dishes that warm the body and soul, with the hospitality and coziness that define alpine dining."
     },
     {
       "name": "La Folie Douce Val d'Isère",
@@ -499,7 +547,8 @@
       ],
       "desc": "Apres-ski venue, entertainment and dining",
       "category": "restaurants",
-      "source_list": "Saved Places (CSV)"
+      "source_list": "Saved Places (CSV)",
+      "longDesc": "The legendary apres-ski destination blends entertainment and dining with high-altitude energy, creating memorable moments on the mountain."
     },
     {
       "name": "Le Panoramic",
@@ -509,7 +558,8 @@
       ],
       "desc": "Mountaintop restaurant, panoramic views",
       "category": "restaurants",
-      "source_list": "Saved Places (CSV)"
+      "source_list": "Saved Places (CSV)",
+      "longDesc": "Mountaintop dining with show-stopping panoramic views of the Val d'Isère landscape, where culinary skill meets spectacular alpine scenery."
     },
     {
       "name": "L'Etincelle",
@@ -519,7 +569,8 @@
       ],
       "desc": "Contemporary alpine cuisine",
       "category": "restaurants",
-      "source_list": "Saved Places (CSV)"
+      "source_list": "Saved Places (CSV)",
+      "longDesc": "Contemporary alpine cuisine that respects traditional mountain flavors while bringing modern technique and creativity to Val d'Isère dining."
     },
     {
       "name": "La Peau De Vache",
@@ -529,7 +580,8 @@
       ],
       "desc": "Alpine steakhouse, cozy atmosphere",
       "category": "restaurants",
-      "source_list": "Saved Places (CSV)"
+      "source_list": "Saved Places (CSV)",
+      "longDesc": "A cozy alpine steakhouse celebrating premium meats with simple, perfect technique—the ideal place for families to enjoy hearty mountain fare."
     }
   ],
   "experiences": [
@@ -541,7 +593,8 @@
       ],
       "desc": "Historic 18th-century palace, museum, exhibits",
       "category": "restaurants",
-      "source_list": "Paris Food.csv"
+      "source_list": "Paris Food.csv",
+      "longDesc": "This magnificent 18th-century palace showcases French design heritage through curated exhibits and architecture, offering cultural richness for curious families."
     }
   ],
   "kidFriendly": [],
