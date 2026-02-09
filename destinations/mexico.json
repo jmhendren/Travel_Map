@@ -12,172 +12,206 @@
     {
       "name": "Four Seasons Mexico City",
       "coord": [
-        19.431,
-        -99.1898
+        19.4232659,
+        -99.17437129999999
       ],
       "desc": "Luxury tower overlooking Paseo de la Reforma, fine dining, spa",
       "longDesc": "This iconic high-rise hotel commands views of Mexico City's skyline and historic landmarks while offering world-class service, a Michelin-starred restaurant, and spa facilities perfect for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Mexico%20City&center=19.431,-99.1898"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Mexico%20City&center=19.4232659,-99.17437129999999",
+      "placeId": "ChIJAWi27E7_0YURT_5T_lCrv2A",
+      "address": "Av. P.º de la Reforma 500, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "St. Regis Mexico City",
       "coord": [
-        19.4365,
-        -99.1847
+        19.4256338,
+        -99.1720892
       ],
       "desc": "Historic luxury hotel in Paseo de la Reforma with butler service",
       "longDesc": "A storied luxury beacon featuring butler service, refined dining, and impeccable craftsmanship—ideal for families seeking timeless elegance and attentive care in Mexico City's premier location.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Regis%20Mexico%20City&center=19.4365,-99.1847"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Regis%20Mexico%20City&center=19.4256338,-99.1720892",
+      "placeId": "ChIJrR704kv_0YURl2pvM1WTF-c",
+      "address": "Av. P.º de la Reforma 439, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Condesa DF",
       "coord": [
-        19.4342,
-        -99.1698
+        19.4149803,
+        -99.17744619999999
       ],
       "desc": "Ultra-hip rooftop hotel in Roma-Condesa with panoramic views",
       "longDesc": "This cutting-edge design hotel in trendy Roma-Condesa offers a rooftop bar with sweeping city views, modern amenities, and proximity to the neighborhood's best restaurants—perfect for style-conscious families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Condesa%20DF&center=19.4342,-99.1698"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Condesa%20DF&center=19.4149803,-99.17744619999999",
+      "placeId": "ChIJ4zXmiUT_0YUR57jJi24HHO0",
+      "address": "La Condesa, 06140 Mexico City, CDMX, Mexico"
     },
     {
       "name": "Downtown Mexico City",
       "coord": [
-        19.4326,
-        -99.1332
+        19.4357068,
+        -99.131757
       ],
       "desc": "Art Deco masterpiece converted to boutique hotel, historic center",
       "longDesc": "Set in a restored Art Deco building in the historic center, this intimate boutique hotel blends pre-Hispanic design elements with colonial architecture—an authentic cultural immersion in Mexico City's heart.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Downtown%20Mexico%20City&center=19.4326,-99.1332"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Downtown%20Mexico%20City&center=19.4357068,-99.131757",
+      "placeId": "ChIJvU0OLi350YURPYnEQKd0VZA",
+      "address": "Historic center of Mexico City, Centro, Mexico City, CDMX, Mexico"
     },
     {
       "name": "Casa Campos",
       "coord": [
-        19.4335,
-        -99.135
+        19.4332852,
+        -99.13554579999999
       ],
       "desc": "Charming boutique hotel in Roma Norte with rooftop terrace",
       "longDesc": "This Roma Norte gem combines colonial charm with modern comfort, perfect for families wanting to explore Mexico City's most vibrant culinary and cultural neighborhood from a stylish home base.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Campos&center=19.4335,-99.135"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Campos&center=19.4332852,-99.13554579999999",
+      "placeId": "ChIJlzZqstL-0YURIpMkquPLwPo",
+      "address": "Av Francisco I. Madero 55, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Centro, CDMX, Mexico"
     },
     {
       "name": "La Posada Tulum",
       "coord": [
-        20.2112,
-        -87.463
+        20.1775071,
+        -87.4464081
       ],
       "desc": "Beachfront eco-friendly resort with jungle access, cenotes",
       "longDesc": "An eco-conscious beachfront retreat that bridges jungle and sand, ideal for families seeking a balance of relaxation, adventure, and sustainability in Tulum's bohemian setting.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Posada%20Tulum&center=20.2112,-87.463"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Posada%20Tulum&center=20.1775071,-87.4464081",
+      "placeId": "ChIJOaQygybRT48Rq65Ky9tn_RA",
+      "address": "5 S Carretera, Tulum Beach, 77780 Tulum, Q.R., Mexico"
     },
     {
       "name": "Habitas Oaxaca",
       "coord": [
-        17.0646,
-        -96.7263
+        17.0986217,
+        -96.6941499
       ],
       "desc": "Luxury sustainable retreat near Oaxaca with farm, yoga, spa",
       "longDesc": "This boutique eco-luxury property near Oaxaca offers farm-to-table dining, yoga classes, and wellness programs—perfect for families wanting slow travel and authentic cultural immersion.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Habitas%20Oaxaca&center=17.0646,-96.7263"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Habitas%20Oaxaca&center=17.0986217,-96.6941499",
+      "placeId": "ChIJRXZvrm0hx4UR8OJ1eIGu1qg",
+      "address": "Camino Real a San Luis Beltrán 515, San Luis Beltrán, 68020 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Azulik Tulum",
       "coord": [
-        20.233,
-        -87.389
+        20.179156,
+        -87.4456393
       ],
       "desc": "Avant-garde jungle resort with art installations, cenote access",
       "longDesc": "This visionary eco-resort merges art, ecology, and luxury in an immersive jungle setting, offering cenote access, holistic wellness, and a dining experience unlike any other—pure magic for adventurous families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Azulik%20Tulum&center=20.233,-87.389"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Azulik%20Tulum&center=20.179156,-87.4456393",
+      "placeId": "ChIJ6QoQx1P-zYURehYSNToLc90",
+      "address": "Carretera Tulum - Punta Allen KM 5 Zona Hotelera, Tulum Beach, 77780 Tulum, Q.R., Mexico"
     },
     {
       "name": "Rosewood Mayakoba",
       "coord": [
-        20.698,
-        -87.289
+        20.6879277,
+        -87.0201301
       ],
       "desc": "Ultra-luxury beachfront resort in Riviera Maya with lagoons",
       "longDesc": "Set within a 1,600-acre nature reserve, this ultra-luxury resort features pristine beaches, mangrove lagoons, championship golf, and impeccable service—the ultimate Riviera Maya indulgence for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosewood%20Mayakoba&center=20.698,-87.289"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosewood%20Mayakoba&center=20.6879277,-87.0201301",
+      "placeId": "ChIJq6qq2oFnTo8R9K9YLrZaX_8",
+      "address": "Ctra. Federal Cancún-Playa del Carmen Km 298, 77710 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Las Ventanas al Paraíso",
       "coord": [
-        23.633,
-        -109.975
+        22.9788095,
+        -109.76988279999999
       ],
       "desc": "All-suite ultra-luxury resort in Los Cabos with private beach",
       "longDesc": "This all-suite masterpiece in Los Cabos features oceanfront suites with private infinity pools, world-class dining, and access to pristine beaches—a bucket-list destination for luxury-seeking families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Las%20Ventanas%20al%20Para%C3%ADso&center=23.633,-109.975"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Las%20Ventanas%20al%20Para%C3%ADso&center=22.9788095,-109.76988279999999",
+      "placeId": "ChIJB2OaS2Jar4YRBfY2bc9HeNI",
+      "address": "Carretera Transpeninsular Highway Km. 19.5 Cabo Real, Tourist Corridor, 23400 San José del Cabo, B.C.S., Mexico"
     },
     {
       "name": "Palmaia The House of Aix",
       "coord": [
-        20.589,
-        -87.123
+        20.5974512,
+        -87.0962334
       ],
       "desc": "Holistic luxury resort in Riviera Maya with holistic wellness",
       "longDesc": "This wellness-focused luxury sanctuary blends healing therapies, gourmet cuisine, yoga, and education—a transformative retreat for families seeking rejuvenation in paradise.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmaia%20The%20House%20of%20Aix&center=20.589,-87.123"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmaia%20The%20House%20of%20Aix&center=20.5974512,-87.0962334",
+      "placeId": "ChIJiYGTGO5DTo8RmYv72l7NPcw",
+      "address": "P.º Xaman - Ha, Playacar, 77710 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Mahekal Beach Resort",
       "coord": [
-        20.1996,
-        -87.461
+        20.633880599999998,
+        -87.0637747
       ],
       "desc": "Bohemian beachfront bungalows in Tulum with hammocks, yoga",
       "longDesc": "This laid-back beachfront property combines bohemian charm with comfort, offering thatched bungalows, hammocks strung over sand, and morning yoga—authentic Tulum vibes for wandering families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mahekal%20Beach%20Resort&center=20.1996,-87.461"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mahekal%20Beach%20Resort&center=20.633880599999998,-87.0637747",
+      "placeId": "ChIJNboTT6Hi0YURg9hkWsel7Mo",
+      "address": "Calle 38 entre 5ta Avenida Y Zona Federal Maritima, Centro, 77710 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Papaya Playa Project",
       "coord": [
-        20.2051,
-        -87.459
+        20.181702899999998,
+        -87.44466059999999
       ],
       "desc": "Eco-chic beachfront hotel in Tulum with rooftop bar, nightlife",
       "longDesc": "This eco-conscious beachfront hotel blends sustainability with vibrant nightlife, offering a rooftop bar, swimming pool, and proximity to Tulum's bohemian scene—perfect for young families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Papaya%20Playa%20Project&center=20.2051,-87.459"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Papaya%20Playa%20Project&center=20.181702899999998,-87.44466059999999",
+      "placeId": "ChIJ6c8lMEvXT48RE0bKA7BKweA",
+      "address": "Carr. Tulum-Boca Paila Km 4.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R., Mexico"
     },
     {
       "name": "Belmond Casa de Sierra Nevada",
       "coord": [
-        20.9138,
-        -100.7508
+        20.9127691,
+        -100.74231789999999
       ],
       "desc": "Colonial luxury villa in San Miguel de Allende with courtyards",
       "longDesc": "This iconic 18th-century colonial property in San Miguel de Allende features intimate courtyards, fine dining, and art-filled salons—a romantic base for exploring Mexico's most charming artistic town.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belmond%20Casa%20de%20Sierra%20Nevada&center=20.9138,-100.7508"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belmond%20Casa%20de%20Sierra%20Nevada&center=20.9127691,-100.74231789999999",
+      "placeId": "ChIJxYhdQrpRK4QRLAGCS0Qsqss",
+      "address": "Hospicio 35, Zona Centro, 37700 San Miguel de Allende, Gto., Mexico"
     },
     {
       "name": "Casa Angel Inn",
       "coord": [
-        20.914,
-        -100.7515
+        20.9111482,
+        -100.7427165
       ],
       "desc": "Intimate colonial-style inn in San Miguel de Allende",
       "longDesc": "This charming inn in San Miguel's historic center offers authentic colonial architecture, personalized service, and easy access to galleries, markets, and cultural attractions beloved by artistic families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Angel%20Inn&center=20.914,-100.7515"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Angel%20Inn&center=20.9111482,-100.7427165",
+      "placeId": "ChIJE4pBfwBRK4QRAxrWYAhIrDM",
+      "address": "Terraplén 12, Zona Centro, 37700 San Miguel de Allende, Gto., Mexico"
     },
     {
       "name": "Misión Guanajuato",
       "coord": [
-        21.0154,
-        -101.2567
+        21.0094623,
+        -101.273056
       ],
       "desc": "Luxury resort overlooking Guanajuato's colorful city center",
       "longDesc": "Perched above Guanajuato's UNESCO-listed historic center, this luxury resort offers sunset views, fine dining, and proximity to silver mining heritage and vibrant cultural festivals for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Misi%C3%B3n%20Guanajuato&center=21.0154,-101.2567"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Misi%C3%B3n%20Guanajuato&center=21.0094623,-101.273056",
+      "placeId": "ChIJAxUuLYN2K4QRCz6h2rzOLgE",
+      "address": "Camino Antiguo, A Marfil km 2.5, Noria Alta, 36050 Guanajuato, Gto., Mexico"
     },
     {
       "name": "Hotel Boutique Suites Playa del Carmen",
       "coord": [
-        20.6296,
-        -87.0739
+        20.6327152,
+        -87.0688148
       ],
       "desc": "Modern beachfront suites in Playa del Carmen, family-friendly",
       "longDesc": "This stylish beachfront hotel in Playa del Carmen combines modern design with family amenities, offering direct beach access and proximity to restaurants, water sports, and family attractions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Boutique%20Suites%20Playa%20del%20Carmen&center=20.6296,-87.0739"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Boutique%20Suites%20Playa%20del%20Carmen&center=20.6327152,-87.0688148",
+      "placeId": "ChIJEdj89dBDTo8ReQ2xasTd_0E",
+      "address": "Calle 28 Nte 132, entre 5ta avenida y avenida 10, Gonzalo Guerrero, 77710 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "El Conquistador Resort",
@@ -187,127 +221,153 @@
       ],
       "desc": "All-inclusive family resort in Riviera Maya with beach club",
       "longDesc": "This comprehensive all-inclusive resort offers unlimited dining, water sports, beach clubs, and kids' activities—a one-stop family paradise in the heart of the Riviera Maya.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Conquistador%20Resort&center=20.3756,-87.2704"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Conquistador%20Resort&center=20.3756,-87.2704",
+      "placeId": "ChIJ9xJQsBmXBIwRDK1TVXeQdNw",
+      "address": "1000 Avenida El Conquistador, Fajardo, 00738, Puerto Rico"
     },
     {
       "name": "Barceló Maya Tropical",
       "coord": [
-        20.45,
-        -87.18
+        20.4912419,
+        -87.2426301
       ],
       "desc": "All-inclusive beachfront resort with water sports and entertainment",
       "longDesc": "This sprawling all-inclusive resort caters to families with diverse dining, animation programs, water sports, and direct beach access—ideal for families seeking all-in-one convenience.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Barcel%C3%B3%20Maya%20Tropical&center=20.45,-87.18"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Barcel%C3%B3%20Maya%20Tropical&center=20.4912419,-87.2426301",
+      "placeId": "ChIJe30ht_I3To8RDxinKpCTdpE",
+      "address": "Carretera Tulum - Cancún Carretera Chetumal Puerto Juárez Km.266,3 Xpu-Há, 77750 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Grand Palladium Riviera Maya",
       "coord": [
-        20.695,
-        -87.288
+        20.4424255,
+        -87.2879425
       ],
       "desc": "Mega all-inclusive resort with multiple hotels, beach, golf",
       "longDesc": "This expansive all-inclusive complex offers choice of hotel styles, championship golf, water sports, entertainment, and unlimited dining—a comprehensive family playground in paradise.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Palladium%20Riviera%20Maya&center=20.695,-87.288"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Palladium%20Riviera%20Maya&center=20.4424255,-87.2879425",
+      "placeId": "ChIJGaRAMts2To8RLN6wFjNSD2k",
+      "address": "77734 Grand Palladium, Q.R., Mexico"
     },
     {
       "name": "Paradise Village",
       "coord": [
-        23.7,
-        -110.3
+        20.690488,
+        -105.2950631
       ],
       "desc": "Beachfront timeshare resort in Mazatlán with all-inclusive options",
       "longDesc": "This sprawling beachfront complex in Mazatlán offers ocean views, multiple dining venues, and recreational activities—affordable luxury for families seeking Pacific coast experiences.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradise%20Village&center=23.7,-110.3"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradise%20Village&center=20.690488,-105.2950631",
+      "placeId": "ChIJ60B4TLhGIYQRYROtLoYkqZ0",
+      "address": "Av. Paseo de los Cocoteros 1 Nuevo Vallarta, 63735 Riviera Nayarit, Nay., Mexico"
     },
     {
       "name": "Solmar V Cruise Ship Hotel",
       "coord": [
-        23.633,
-        -109.975
+        22.876555999999997,
+        -109.9035334
       ],
       "desc": "Luxury cruise hotel in Los Cabos, intimate small-ship experience",
       "longDesc": "This small-ship luxury hotel offers intimate ocean voyages and beachfront stays in Los Cabos, combining sea adventures with land-based luxury for adventurous families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Solmar%20V%20Cruise%20Ship%20Hotel&center=23.633,-109.975"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Solmar%20V%20Cruise%20Ship%20Hotel&center=22.876555999999997,-109.9035334",
+      "placeId": "ChIJib15d-BKr4YRvyVpandr7k0",
+      "address": "Av Solmar #1, Centro, 23453 Cabo San Lucas, B.C.S., Mexico"
     },
     {
       "name": "Hotel Secreto",
       "coord": [
-        20.2005,
-        -87.4595
+        21.2604298,
+        -86.7480418
       ],
       "desc": "Intimate beachfront boutique hotel in Tulum with only 12 rooms",
       "longDesc": "This ultra-exclusive 12-room beachfront boutique hotel in Tulum offers personalized service, privacy, and direct beach access—perfect for families seeking intimate luxury away from crowds.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Secreto&center=20.2005,-87.4595"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Secreto&center=21.2604298,-86.7480418",
+      "placeId": "ChIJac4nO-crTI8RA8SMRNP7ICE",
+      "address": "Seccion Rocas Lote 11, Centro - Supmza. 001, 77400 Isla Mujeres, Q.R., Mexico"
     },
     {
       "name": "La Zebra Tulum",
       "coord": [
-        20.197,
-        -87.4625
+        20.145754999999998,
+        -87.45998399999999
       ],
       "desc": "Chic beachfront hotel in Tulum with casita-style rooms",
       "longDesc": "This stylish beachfront property features casita-style rooms, bohemian design, and a lively beach club—a perfect blend of relaxation and vibrant Tulum energy for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Zebra%20Tulum&center=20.197,-87.4625"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Zebra%20Tulum&center=20.145754999999998,-87.45998399999999",
+      "placeId": "ChIJv2GoULXQT48RSQG69AxwRw4",
+      "address": "Carr. Tulum-Boca Paila 800, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R., Mexico"
     },
     {
       "name": "Fusion Hotel Puerto Morelos",
       "coord": [
-        20.864,
-        -86.887
+        20.8571624,
+        -86.8717669
       ],
       "desc": "Yoga-focused wellness resort near Riviera Maya with holistic programs",
       "longDesc": "This wellness-dedicated hotel near Puerto Morelos offers yoga classes, holistic therapies, and plant-based cuisine—ideal for families seeking mindfulness and health-focused travel experiences.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fusion%20Hotel%20Puerto%20Morelos&center=20.864,-86.887"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fusion%20Hotel%20Puerto%20Morelos&center=20.8571624,-86.8717669",
+      "placeId": "ChIJM9SIpqiJTo8RFs01rCz5U3k",
+      "address": "Av. Javier Rojo Gomez Nte. SM-02 MZ-25 LOTE-01 Centro, 77580 Puerto Morelos, Q.R., Mexico"
     },
     {
       "name": "Casa Pescador Tulum",
       "coord": [
-        20.202,
-        -87.4635
+        20.205891299999998,
+        -87.4319512
       ],
       "desc": "Charming beachfront cabana hotel in Tulum with rustic charm",
       "longDesc": "This intimate beachfront property features rustic-chic cabanas, bohemian vibes, and direct beach access—authentic Tulum hospitality for families seeking laid-back, artsy escapes.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Pescador%20Tulum&center=20.202,-87.4635"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Pescador%20Tulum&center=20.205891299999998,-87.4319512",
+      "placeId": "ChIJcSXcb2XRT48RZ_QiV86jaQw",
+      "address": "Carretera Tulum Ruinas a, Av. Boca Paila Km.0.5, Zona Hotelera Tulum, 77780 Tulum, Q.R., Mexico"
     },
     {
       "name": "Moon Palace Cancun",
       "coord": [
-        21.175,
-        -86.853
+        20.9886511,
+        -86.826701
       ],
       "desc": "Mega all-inclusive family resort in Cancun with multiple pools",
       "longDesc": "This sprawling all-inclusive family mega-resort offers countless pools, dining options, nightlife, and kid clubs—a self-contained vacation paradise perfect for families seeking endless entertainment.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Moon%20Palace%20Cancun&center=21.175,-86.853"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Moon%20Palace%20Cancun&center=20.9886511,-86.826701",
+      "placeId": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
+      "address": "Carretera Cancun-Chetumal Km 340, Riviera Maya, 77500 Cancún, Q.R., Mexico"
     },
     {
       "name": "Iberostar Selection Cancun",
       "coord": [
-        21.163,
-        -86.849
+        21.0671078,
+        -86.7784818
       ],
       "desc": "All-inclusive family resort in Cancun with water sports programs",
       "longDesc": "This family-oriented all-inclusive resort offers supervised kid clubs, water sports, multiple dining venues, and organized family activities—ideal for multigenerational Mexico vacations.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Iberostar%20Selection%20Cancun&center=21.163,-86.849"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Iberostar%20Selection%20Cancun&center=21.0671078,-86.7784818",
+      "placeId": "ChIJTamj-l8oTI8RNQFPU-HIrFc",
+      "address": "km 17, Blvd. Kukulcan, Zona Hotelera, 77500 Cancún, Q.R., Mexico"
     },
     {
       "name": "Temozón House",
       "coord": [
-        20.25,
-        -87.9
+        21.0659916,
+        -89.59566769999999
       ],
       "desc": "Luxury boutique colonial hotel in Valladolid, near cenotes",
       "longDesc": "This beautifully restored colonial mansion in the charming town of Valladolid offers intimate charm, cultural authenticity, and proximity to cenotes and Mayan ruins for exploratory families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Temoz%C3%B3n%20House&center=20.25,-87.9"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Temoz%C3%B3n%20House&center=21.0659916,-89.59566769999999",
+      "placeId": "ChIJm27ZYiB3Vo8R86PX9wsoNOA",
+      "address": "Calle 20, Carr Temozón - Chablekal Número 117, entre calle 19 y calle 17, Temozon Norte, 97302 Mérida, Yuc., Mexico"
     },
     {
       "name": "Merida Jim's House",
       "coord": [
-        20.9674,
-        -89.6237
+        20.9773659,
+        -89.6329444
       ],
       "desc": "Intimate bed and breakfast in Mérida with personal service",
       "longDesc": "This family-run B&B in Mérida's historic center offers warm hospitality, cultural insights, and easy access to Yucatán's colonial architecture, markets, and culinary traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Merida%20Jim%27s%20House&center=20.9674,-89.6237"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Merida%20Jim%27s%20House&center=20.9773659,-89.6329444",
+      "placeId": "ChIJSd-WwMtzVo8RK0E09RF9DXg",
+      "address": "Calle 47 553A, Centro, 97000 Centro, Yuc., Mexico"
     },
     {
       "name": "Ho'okah Boutique Hotel",
@@ -317,37 +377,45 @@
       ],
       "desc": "Eco-luxury hotel in Oaxaca with organic gardens and wellness",
       "longDesc": "This eco-conscious boutique hotel in Oaxaca features organic gardens, holistic spa, and artisan-inspired design—perfect for families seeking cultural immersion and sustainable luxury.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%27okah%20Boutique%20Hotel&center=17.0628,-96.7265"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%27okah%20Boutique%20Hotel&center=17.0628,-96.7265",
+      "placeId": "ChIJ4fQdC7bpWxMRJJGd91Zt-HY",
+      "address": "Char. Trikoupi 40, Ioannina 453 33, Greece"
     },
     {
       "name": "Casa Crespo",
       "coord": [
-        17.0614,
-        -96.7288
+        17.069992799999998,
+        -96.7210015
       ],
       "desc": "Historic colonial house hotel in Oaxaca, rooftop dining",
       "longDesc": "This restored colonial mansion in Oaxaca's historic center offers authentic cultural experience, rooftop dining with city views, and access to indigenous markets and traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Crespo&center=17.0614,-96.7288"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Crespo&center=17.069992799999998,-96.7210015",
+      "placeId": "ChIJx9_2Czsix4UR-FvzxY9MUI0",
+      "address": "Reforma 808, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Coyote Nativo Oaxaca",
       "coord": [
-        17.0643,
-        -96.7278
+        17.067392899999998,
+        -96.71750929999999
       ],
       "desc": "Relaxed boutique hotel in Oaxaca with mezcal bar",
       "longDesc": "This laid-back boutique hotel in Oaxaca features artisan design, a curated mezcal bar, and proximity to food markets—ideal for families exploring Mexico's foodie heartland.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coyote%20Nativo%20Oaxaca&center=17.0643,-96.7278"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coyote%20Nativo%20Oaxaca&center=17.067392899999998,-96.71750929999999",
+      "placeId": "ChIJ8fDE-qQjx4UR8i5Gr-hnT9w",
+      "address": "Miguel Hidalgo 100, Barrio de Jalatlaco, 68080 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Casa Cinnamon",
       "coord": [
-        17.0672,
-        -96.7234
+        17.068796799999998,
+        -96.71785229999999
       ],
       "desc": "Intimate colonial hotel in Oaxaca with cooking classes",
       "longDesc": "This charming colonial property in Oaxaca offers hands-on cooking classes, cultural workshops, and direct engagement with local food traditions—transformative for food-loving families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Cinnamon&center=17.0672,-96.7234"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Cinnamon&center=17.068796799999998,-96.71785229999999",
+      "placeId": "ChIJ1aW3irsjx4URzlDZ4bYtLTo",
+      "address": "Narciso Mendoza, Calz. de la República 810 esquina, Barrio de Jalatlaco, 68080 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Palacio Belmonte Oaxaca",
@@ -357,249 +425,299 @@
       ],
       "desc": "Luxury boutique hotel in Oaxaca with modern interior design",
       "longDesc": "This upscale boutique hotel in Oaxaca blends contemporary design with colonial architecture, offering refined dining and cultural experiences in the heart of artisan traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20Belmonte%20Oaxaca&center=17.0648,-96.7276"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20Belmonte%20Oaxaca&center=17.0648,-96.7276",
+      "placeId": "ChIJ78S8c4traA0REwn9lfnBjuQ",
+      "address": "C. Infante Don Juan Manuel, 2, 16640 Belmonte, Cuenca, Spain"
     },
     {
       "name": "Hotel San Felipe",
       "coord": [
-        17.062,
-        -96.729
+        17.096103,
+        -96.71244139999999
       ],
       "desc": "Traditional colonial hotel in Oaxaca, historic charm",
       "longDesc": "This historic colonial property in Oaxaca's center preserves authentic architecture and local character, offering families immersion in indigenous culture and traditional crafts.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20San%20Felipe&center=17.062,-96.729"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20San%20Felipe&center=17.096103,-96.71244139999999",
+      "placeId": "ChIJh5S7P-ghx4URQY0IjwAJA_A",
+      "address": "Jacarandas Segunda Privada 103 San Felipe del Agua, San FELIPE, La Paz San Felipe, 68026 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Casa Ámbar",
       "coord": [
-        17.0655,
-        -96.7245
+        17.059919,
+        -96.7174352
       ],
       "desc": "Boutique eco-hotel in Oaxaca with textiles, folk art",
       "longDesc": "This artisan-focused boutique hotel in Oaxaca celebrates indigenous textiles, traditional crafts, and sustainable practices—ideal for families supporting local artisans.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20%C3%81mbar&center=17.0655,-96.7245"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20%C3%81mbar&center=17.059919,-96.7174352",
+      "placeId": "ChIJTZGTdykjx4URo8xZifrdZeE",
+      "address": "Santos Degollado 108, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "La Noria",
       "coord": [
-        17.0662,
-        -96.7255
+        17.0051954,
+        -96.747722
       ],
       "desc": "Intimate hacienda hotel in Oaxaca, colonial gardens",
       "longDesc": "This intimate hacienda-style property features colonial gardens, peaceful courtyards, and authentic regional design—a serene base for cultural exploration in Oaxaca.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Noria&center=17.0662,-96.7255"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Noria&center=17.0051954,-96.747722",
+      "placeId": "ChIJU1h-EKcix4URBAnDNuMqYh0",
+      "address": "La Noria, 71232 Oax., Mexico"
     },
     {
       "name": "Las Golondrinas",
       "coord": [
-        17.0638,
-        -96.727
+        17.0657229,
+        -96.72692130000001
       ],
       "desc": "Charming guesthouse in Oaxaca, rooftop terrace, local artworks",
       "longDesc": "This locally owned guesthouse in Oaxaca features rooftop views, local artworks, and personalized hospitality—authentic cultural connection for families seeking genuine engagement.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Las%20Golondrinas&center=17.0638,-96.727"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Las%20Golondrinas&center=17.0657229,-96.72692130000001",
+      "placeId": "ChIJy2E0Ej4ix4URlEqtwF1sUcc",
+      "address": "Calle de Tinoco y Palacios 411, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Casa del Sotano",
       "coord": [
-        17.063,
-        -96.7282
+        17.0658335,
+        -96.7266765
       ],
       "desc": "Historic colonial wine and art hotel in Oaxaca",
       "longDesc": "This distinctive colonial property showcases local wines, contemporary art, and cultural artifacts—perfect for families seeking sophistication and local cultural celebration.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20del%20Sotano&center=17.063,-96.7282"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20del%20Sotano&center=17.0658335,-96.7266765",
+      "placeId": "ChIJ5xO7Ez4ix4URMiPm4_Y5n-8",
+      "address": "Calle de Tinoco y Palacios 414, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Puebla Boutique Hotel",
       "coord": [
-        19.0352,
-        -98.2077
+        19.0402155,
+        -98.1994062
       ],
       "desc": "Colonial luxury hotel in Puebla, talavera tile design",
       "longDesc": "This upscale boutique hotel in Puebla's historic center features stunning talavera tilework, colonial architecture, and proximity to culinary and artisan traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Puebla%20Boutique%20Hotel&center=19.0352,-98.2077"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Puebla%20Boutique%20Hotel&center=19.0402155,-98.1994062",
+      "placeId": "ChIJSxa4HujAz4URcfmciVQfXDE",
+      "address": "C. 2 Sur 907, Centro, 72000 Heroica Puebla de Zaragoza, Pue., Mexico"
     },
     {
       "name": "Hotel Royalty Puebla",
       "coord": [
-        19.0327,
-        -98.2062
+        19.044289,
+        -98.1981065
       ],
       "desc": "Historic colonial hotel in Puebla, central plaza location",
       "longDesc": "This established colonial property in Puebla's heart offers authentic charm, traditional Mexican hospitality, and access to baroque churches and food markets families love.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Royalty%20Puebla&center=19.0327,-98.2062"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Royalty%20Puebla&center=19.044289,-98.1981065",
+      "placeId": "ChIJZ6FkAw5WxYURJMZPFcHRPSU",
+      "address": "Portal Hidalgo, Av. Don Juan de Palafox y. Mendoza 8, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza, Pue., Mexico"
     },
     {
       "name": "Verana Yelapa",
       "coord": [
-        20.444,
-        -105.623
+        20.4925546,
+        -105.4562176
       ],
       "desc": "Intimate luxury retreat in Yelapa near Puerto Vallarta",
       "longDesc": "This exclusive eco-luxury retreat in the bohemian beach village of Yelapa offers privacy, artistry, and jungle-to-ocean views—transformative for adventurous families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Verana%20Yelapa&center=20.444,-105.623"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Verana%20Yelapa&center=20.4925546,-105.4562176",
+      "placeId": "ChIJJcgGztVmIYQRov2KFROGfMo",
+      "address": "Calle Zaragoza, Centro, 48304 Puerto Vallarta, Jal., Mexico"
     },
     {
       "name": "Bungalows de Cocos",
       "coord": [
-        16.35,
-        -93.258
+        20.664054999999998,
+        -87.03201469999999
       ],
       "desc": "Oceanfront eco-bungalows in Oaxaca coast, rustic charm",
       "longDesc": "This simple, rustic oceanfront property on Oaxaca's Pacific coast offers authentic beach village experience, fresh seafood, and unspoiled nature for adventurous families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bungalows%20de%20Cocos&center=16.35,-93.258"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bungalows%20de%20Cocos&center=20.664054999999998,-87.03201469999999",
+      "placeId": "ChIJzW4nVm1dTo8RcJP8kLTG7CE",
+      "address": "Xcalacoco, La Gloria Lote 2, 77710 Playa del Carmen, Q.R., Mexico"
     }
   ],
   "restaurants": [
     {
       "name": "Pujol",
       "coord": [
-        19.436,
-        -99.185
+        19.432376299999998,
+        -99.1948132
       ],
       "desc": "Mexico City fine dining, Enrique Olvera, world-renowned",
       "longDesc": "Chef Enrique Olvera's iconic restaurant consistently ranks among world's best, showcasing Mexico's culinary heritage through innovative techniques and deeply flavored cuisine.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pujol&center=19.436,-99.185"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pujol&center=19.432376299999998,-99.1948132",
+      "placeId": "ChIJWZ2zdav40YURFvsU_rU3uaE",
+      "address": "Tennyson 133, Polanco, Polanco IV Secc, Miguel Hidalgo, 11570 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Quintonil",
       "coord": [
-        19.4342,
-        -99.1672
+        19.4308408,
+        -99.1917115
       ],
       "desc": "Contemporary Mexican cuisine, chef Jorge Vallejo, Roma",
       "longDesc": "Chef Jorge Vallejo's intimate tasting-menu restaurant celebrates Mexican ingredients and techniques with artistic presentation—a transcendent dining experience for food-serious families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Quintonil&center=19.4342,-99.1672"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Quintonil&center=19.4308408,-99.1917115",
+      "placeId": "ChIJbS8EZf8B0oURwwD8B0MpqK0",
+      "address": "Av. Isaac Newton 55, Polanco, Polanco IV Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Contramar",
       "coord": [
-        19.345,
-        -99.215
+        19.4195793,
+        -99.1671526
       ],
       "desc": "Legendary seafood restaurant on Mexico City beach, open kitchen",
       "longDesc": "This iconic beachfront restaurant in San Ángel serves exceptional grilled fish and seafood prepared before your eyes—a Mexico City institution beloved by locals and travelers alike.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Contramar&center=19.345,-99.215"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Contramar&center=19.4195793,-99.1671526",
+      "placeId": "ChIJez8vvy__0YURP0rx5WhEig4",
+      "address": "Durango 200, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Rosetta",
       "coord": [
-        19.4298,
-        -99.1587
+        19.4197758,
+        -99.1598009
       ],
       "desc": "Modern Mexican-Italian, Roma Norte, award-winning courtyard",
       "longDesc": "This award-winning Roma Norte favorite showcases creative Mexican-Italian fusion in an enchanting courtyard, offering refined dining that families find both elegant and welcoming.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosetta&center=19.4298,-99.1587"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosetta&center=19.4197758,-99.1598009",
+      "placeId": "ChIJdSGAWgP_0YURwNtY7rftf2E",
+      "address": "Colima 166, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Máximo Bistrot",
       "coord": [
-        19.4324,
-        -99.1587
+        19.4189482,
+        -99.1580841
       ],
       "desc": "Chef Eduardo García, refined Mexican cuisine, Roma favorite",
       "longDesc": "Chef Eduardo García's masterful take on Mexican cuisine celebrates fresh ingredients and traditional techniques, making this intimate Roma restaurant must-visit for serious food lovers.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=M%C3%A1ximo%20Bistrot&center=19.4324,-99.1587"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=M%C3%A1ximo%20Bistrot&center=19.4189482,-99.1580841",
+      "placeId": "ChIJdw0B4zv_0YURK8xSHYwyp2E",
+      "address": "Av. Álvaro Obregón 65 Bis, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Sud 777",
       "coord": [
-        19.428,
-        -99.164
+        19.3090281,
+        -99.2093428
       ],
       "desc": "Contemporary Mexican, chef Rodolfo Guzmán, rooftop dining",
       "longDesc": "This innovative restaurant in Roma features rooftop dining with city views and a menu celebrating Mexico's regional ingredients—sophisticated yet approachable for adventurous families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sud%20777&center=19.428,-99.164"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sud%20777&center=19.3090281,-99.2093428",
+      "placeId": "ChIJNTreqsH_zYUR82jk2MVoXMM",
+      "address": "Blvrd de la Luz 777, Jardines del Pedregal, Álvaro Obregón, 01900 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Mientras Tanto",
       "coord": [
-        19.431,
-        -99.17
+        19.4155721,
+        -99.1618859
       ],
       "desc": "Chef Alejandro Vera, Mediterranean-Mexican fusion, Roma",
       "longDesc": "This intimate neighborhood bistro blends Mediterranean and Mexican traditions with seasonal ingredients—a cozy gathering place for families seeking authentic, flavorful dining.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mientras%20Tanto&center=19.431,-99.17"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mientras%20Tanto&center=19.4155721,-99.1618859",
+      "placeId": "ChIJExLFBpb_0YUR-XBAR4hLC3Y",
+      "address": "Tonalá 132, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Biko",
       "coord": [
-        19.4366,
-        -99.1945
+        19.6231898,
+        -99.1598647
       ],
       "desc": "Michelin-starred contemporary cuisine, chef Rodolfo Guzmán",
       "longDesc": "Chef Rodolfo Guzmán's tasting-menu restaurant pushes culinary boundaries with artistic presentations and unexpected flavor combinations—transformative for adventurous foodies.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Biko&center=19.4366,-99.1945"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Biko&center=19.6231898,-99.1598647",
+      "placeId": "ChIJD902-tj10YURR9j3cImdmyk",
+      "address": "Av. José López Portillo 203, Lázaro Cárdenas, 54916 Tultitlán de Mariano Escobedo, Méx., Mexico"
     },
     {
       "name": "Merotoro",
       "coord": [
-        19.4345,
-        -99.165
+        19.4096588,
+        -99.1698509
       ],
       "desc": "Contemporary Mexican small plates, chef Jair Tellez",
       "longDesc": "Chef Jair Tellez's innovative small-plates restaurant celebrates Mexican ingredients with creative techniques—perfect for families who enjoy exploring bold, unexpected flavors.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Merotoro&center=19.4345,-99.165"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Merotoro&center=19.4096588,-99.1698509",
+      "placeId": "ChIJzdbHQUD_0YUR1Vqx8mGkQsk",
+      "address": "Ámsterdam 204, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Mono",
       "coord": [
-        19.4298,
-        -99.1605
+        19.4707819,
+        -99.12592219999999
       ],
       "desc": "Chef Rodolfo Díaz, contemporary Mexican, Roma dining",
       "longDesc": "This acclaimed Roma restaurant showcases thoughtful Mexican cuisine with artistic presentation—a sophisticated yet accessible destination for families seeking culinary excellence.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mono&center=19.4298,-99.1605"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mono&center=19.4707819,-99.12592219999999",
+      "placeId": "ChIJe36PRwD50YURaTOA37rUxeI",
+      "address": "Av Huasteca 72, Industrial, Gustavo A. Madero, 07800 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Ultramarinos DeMAR",
       "coord": [
-        19.4314,
-        -99.1602
+        19.423471499999998,
+        -99.1586808
       ],
       "desc": "Contemporary seafood bar in Roma Norte, fresh preparations",
       "longDesc": "This sleek, contemporary seafood bar in Roma Norte brings fresh coastal flavors to the capital—perfect for families who want quality seafood without stuffy formality.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ultramarinos%20DeMAR&center=19.4314,-99.1602"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ultramarinos%20DeMAR&center=19.423471499999998,-99.1586808",
+      "placeId": "ChIJ6861PAD_0YURBCIy7ssSy54",
+      "address": "Merida 21, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Blanco Colima",
       "coord": [
-        19.4295,
-        -99.1613
+        19.419712399999998,
+        -99.15989359999999
       ],
       "desc": "Upscale Mexican cuisine, chef Edgar Núñez, Roma location",
       "longDesc": "This sophisticated Roma restaurant celebrates Mexican flavors with refined technique and beautiful plating—ideal for families seeking elevated traditional cooking.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Blanco%20Colima&center=19.4295,-99.1613"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Blanco%20Colima&center=19.419712399999998,-99.15989359999999",
+      "placeId": "ChIJiyiWezr_0YURETdOKp2oBrc",
+      "address": "Colima 168, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Tamayo",
       "coord": [
-        19.4332,
-        -99.1728
+        19.4607762,
+        -99.1423348
       ],
       "desc": "Chef Francisco Pellegrin, French-Mexican cuisine, Roma",
       "longDesc": "This elegant bistro blends French technique with Mexican ingredients, featuring seasonal menus in a charming Roma setting—sophisticated comfort food for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tamayo&center=19.4332,-99.1728"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tamayo&center=19.4607762,-99.1423348",
+      "placeId": "ChIJu3Vz8h750YURS4pD20HBvso",
+      "address": "Tamayo, San Simón Tolnahuac, 06920 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Punto MX",
       "coord": [
-        19.4295,
-        -99.1635
+        19.4305803,
+        -99.1376657
       ],
       "desc": "Chef Rodolfo Díaz, modern Mexican small plates and cocktails",
       "longDesc": "This acclaimed restaurant features innovative small plates and expertly crafted cocktails celebrating Mexican ingredients—perfect for adventurous families enjoying creative cuisine.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Punto%20MX&center=19.4295,-99.1635"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Punto%20MX&center=19.4305803,-99.1376657",
+      "placeId": "ChIJYQ-EXVH_0YURqlU3TEYqDgg",
+      "address": "República de Uruguay 47, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Xoco",
       "coord": [
-        19.431,
-        -99.167
+        19.359955900000003,
+        -99.16252999999999
       ],
       "desc": "Chef Enrique Olvera's casual sandwich shop, local favorite",
       "longDesc": "Chef Enrique Olvera's more casual concept focuses on elevated sandwiches and simple preparations—perfect for families seeking delicious, approachable meals from a world-class kitchen.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xoco&center=19.431,-99.167"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xoco&center=19.359955900000003,-99.16252999999999",
+      "placeId": "ChIJr-bqZOv_0YURG4d2V12n9Yk",
+      "address": "Av. México Coyoacán S/N esq, Bruno Traven, Gral Anaya, Benito Juárez, 03340 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Dezeen",
@@ -609,147 +727,177 @@
       ],
       "desc": "Contemporary Mexican, chef Mariana Velázquez, natural wines",
       "longDesc": "This wine-focused restaurant pairs exceptional natural wines with innovative Mexican dishes—ideal for families who enjoy discovering regional flavors with adventurous pairings.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dezeen&center=19.4318,-99.1645"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dezeen&center=19.4318,-99.1645",
+      "placeId": "ChIJDxXZifwUEkMRfpgV1NzODOI",
+      "address": "Via Giuseppe Botti, 20, 00119 Roma RM, Italy"
     },
     {
       "name": "La Docena",
       "coord": [
-        19.4338,
-        -99.1658
+        19.4192386,
+        -99.1560365
       ],
       "desc": "Seafood-focused restaurant, oyster bar, Condesa location",
       "longDesc": "This lively seafood spot in Condesa features fresh oysters, ceviche, and coastal preparations—perfect casual dining for families who love ocean flavors.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Docena&center=19.4338,-99.1658"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Docena&center=19.4192386,-99.1560365",
+      "placeId": "ChIJ-U2ISCX_0YURnsbcbq9uqgg",
+      "address": "Av. Álvaro Obregón 31, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Perico",
       "coord": [
-        19.4312,
-        -99.1683
+        19.3897397,
+        -99.15959319999999
       ],
       "desc": "Chef Ignacio Solares, Mexican comfort food, rooftop views",
       "longDesc": "This chef-driven restaurant celebrates Mexican comfort food traditions with refined technique and rooftop views—satisfying and sophisticated for families seeking soul-warming meals.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Perico&center=19.4312,-99.1683"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Perico&center=19.3897397,-99.15959319999999",
+      "placeId": "ChIJV6fDIAn_0YUR4A3m7TOrWfg",
+      "address": "Enrique Rébsamen 701-A, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Brindis",
       "coord": [
-        19.433,
-        -99.1665
+        19.4866436,
+        -99.1264406
       ],
       "desc": "Spanish-inspired tapas, Mexican ingredients, Condesa",
       "longDesc": "This tapas-style restaurant blends Spanish and Mexican culinary traditions—perfect for families enjoying shared small plates and wine in a lively Condesa setting.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brindis&center=19.433,-99.1665"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brindis&center=19.4866436,-99.1264406",
+      "placeId": "ChIJ4xPI1JX50YURs3NCZEPYS9c",
+      "address": "Montiel 223, Lindavista, Gustavo A. Madero, 07300 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Donají",
       "coord": [
-        17.065,
-        -96.726
+        17.0564781,
+        -96.72985829999999
       ],
       "desc": "Indigenous Oaxacan cuisine, traditional recipes, market-fresh",
       "longDesc": "This restaurant celebrates indigenous Oaxacan recipes using market-fresh ingredients and traditional cooking methods—transformative for families seeking authentic culinary traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Donaj%C3%AD&center=17.065,-96.726"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Donaj%C3%AD&center=17.0564781,-96.72985829999999",
+      "placeId": "ChIJqZVv7gEjx4URf927VG1jMq0",
+      "address": "Díaz Ordaz 712-Interior, Zona Lunes Feb 09, Centro, 68090 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Casa Oaxaca",
       "coord": [
-        17.0625,
-        -96.7275
+        17.065218299999998,
+        -96.7222793
       ],
       "desc": "Contemporary Oaxacan cuisine, chef Rodolfo Morín",
       "longDesc": "Chef Rodolfo Morín's intimate restaurant showcases refined Oaxacan dishes in a charming colonial setting—perfect for families exploring Mexico's most flavorful regional cuisine.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Oaxaca&center=17.0625,-96.7275"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Oaxaca&center=17.065218299999998,-96.7222793",
+      "placeId": "ChIJj62kjD4ix4URQKcxtWEy0-s",
+      "address": "Constitución 104-A, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Casa Crespo Restaurant",
       "coord": [
-        17.0614,
-        -96.7288
+        17.069992799999998,
+        -96.7210015
       ],
       "desc": "Rooftop Oaxacan dining with city views, traditional recipes",
       "longDesc": "This rooftop restaurant in a colonial mansion serves traditional Oaxacan recipes with stunning views—romantic and immersive for families discovering local food culture.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Crespo%20Restaurant&center=17.0614,-96.7288"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Crespo%20Restaurant&center=17.069992799999998,-96.7210015",
+      "placeId": "ChIJx9_2Czsix4UR-FvzxY9MUI0",
+      "address": "Reforma 808, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Abacus Oaxaca",
       "coord": [
-        17.0635,
-        -96.727
+        17.0647238,
+        -96.7248565
       ],
       "desc": "Chef Tomás Delgado, contemporary Oaxacan, seven moles",
       "longDesc": "This small restaurant celebrates Oaxaca's seven mole traditions with contemporary technique—a flavor journey for families serious about understanding regional culinary heritage.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Abacus%20Oaxaca&center=17.0635,-96.727"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Abacus%20Oaxaca&center=17.0647238,-96.7248565",
+      "placeId": "ChIJN-QXp2cjx4URdkHkD6EWFvc",
+      "address": "Manuel, C. de Manuel García Vigil 306 C, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Mezcaleria Zig-Zag",
       "coord": [
-        17.0645,
-        -96.7265
+        17.0622837,
+        -96.72198490000001
       ],
       "desc": "Mezcal-focused restaurant in Oaxaca, traditional appetizers",
       "longDesc": "This mezcal sanctuary pairs premium spirits with traditional Oaxacan appetizers—ideal for families learning about Mexico's heritage spirit and artisanal food traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mezcaleria%20Zig-Zag&center=17.0645,-96.7265"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mezcaleria%20Zig-Zag&center=17.0622837,-96.72198490000001",
+      "placeId": "ChIJbYPLq_8jx4UR7TF42trSElY",
+      "address": "Av. José María Morelos 1006, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Hidalgo",
       "coord": [
-        17.0658,
-        -96.725
+        17.051425599999998,
+        -96.7268204
       ],
       "desc": "Chef Julio López, innovative Oaxacan cuisine, contemporary plating",
       "longDesc": "This intimate chef's restaurant showcases innovative Oaxacan cooking with refined presentation—a sophisticated experience for families exploring cutting-edge regional cuisine.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hidalgo&center=17.0658,-96.725"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hidalgo&center=17.051425599999998,-96.7268204",
+      "placeId": "ChIJo2lajEIix4URxJTheDw1c20",
+      "address": "C. de Carlos María Bustamante No. 822-Local 2, OAX_RE_BENITO JUAREZ, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Guelaguetza",
       "coord": [
-        17.067,
-        -96.7255
+        17.0686803,
+        -96.73102
       ],
       "desc": "Traditional Oaxacan recipes, indigenous ingredients, lively atmosphere",
       "longDesc": "This lively family-run restaurant celebrates Oaxacan cooking heritage with authentic recipes and indigenous ingredients—fun and immersive for families seeking genuine regional flavors.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Guelaguetza&center=17.067,-96.7255"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Guelaguetza&center=17.0686803,-96.73102",
+      "placeId": "ChIJMz4V9xYix4URe1Q7xjIyrzo",
+      "address": "Carr. Internacional, Area sin Asignacion de Nombre de Colonia, 68070 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Ki'bok Coffee Tulum",
       "coord": [
-        20.2115,
-        -87.461
+        20.207486300000003,
+        -87.4735795
       ],
       "desc": "Specialty coffee roaster, bohemian Tulum vibe, quality brew",
       "longDesc": "This specialty coffee roastery captures Tulum's laid-back, bohemian spirit while serving expertly crafted coffee—a morning ritual worth building your day around.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ki%27bok%20Coffee%20Tulum&center=20.2115,-87.461"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ki%27bok%20Coffee%20Tulum&center=20.207486300000003,-87.4735795",
+      "placeId": "ChIJwf9KolTRT48RvVkLb5fO8eg",
+      "address": "Avenida Zamna, Calle 12 Sur, La Veleta, 77760 Tulum, Q.R., Mexico"
     },
     {
       "name": "Hartwood",
       "coord": [
-        20.2098,
-        -87.4635
+        20.149875599999998,
+        -87.459374
       ],
       "desc": "Farm-to-table, wood-fire cooking, bohemian Tulum beach dining",
       "longDesc": "This celebrated farm-to-table restaurant on Tulum's beach features wood-fire cooking and daily-changing menus—rustic sophistication families love for special dinners.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hartwood&center=20.2098,-87.4635"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hartwood&center=20.149875599999998,-87.459374",
+      "placeId": "ChIJlVcVFcvQT48Rdbm9qF4Emow",
+      "address": "Carr. Tulum-Boca Paila 7-6Km, Tulum Beach, 77780 Tulum, Q.R., Mexico"
     },
     {
       "name": "Los Tacos de Pablo",
       "coord": [
-        20.2105,
-        -87.4625
+        20.7273276,
+        -103.39314279999999
       ],
       "desc": "Authentic street tacos in Tulum, beloved local favorite",
       "longDesc": "This simple street-side taquería serves authentic, delicious tacos that locals queue for daily—perfect introduction to Tulum's casual, flavorful food culture.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Tacos%20de%20Pablo&center=20.2105,-87.4625"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Tacos%20de%20Pablo&center=20.7273276,-103.39314279999999",
+      "placeId": "ChIJy3cxsryvKIQRKvKesBmoJAQ",
+      "address": "C. Moctezuma 404-A, El Vigía, 45140 Zapopan, Jal., Mexico"
     },
     {
       "name": "Restaurante Bar El Capitán",
       "coord": [
-        20.2102,
-        -87.4624
+        20.210382199999998,
+        -87.4520433
       ],
       "desc": "Local Tulum seafood, casual beachside dining, ocean views",
       "longDesc": "Casual beachside dining with fresh-caught seafood and stunning ocean views—this local favorite offers authentic Tulum flavor without pretension.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Bar%20El%20Capit%C3%A1n&center=20.2102,-87.4624"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Bar%20El%20Capit%C3%A1n&center=20.210382199999998,-87.4520433",
+      "placeId": "ChIJU1dHw1DRT48R_WZGWNVC9n0",
+      "address": "Av. Coba entre asteroides y mercurio, Tulum Centro, Col Huracanes, 77760 Tulum, Q.R., Mexico"
     },
     {
       "name": "Taco Stand Paradise",
@@ -759,7 +907,9 @@
       ],
       "desc": "Gourmet street tacos, slow-cooked meats, Tulum",
       "longDesc": "This elevated taco stand serves slow-cooked meats prepared with care—authentically delicious and affordable for families discovering Tulum's taco traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Stand%20Paradise&center=20.212,-87.46"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Stand%20Paradise&center=20.212,-87.46",
+      "placeId": "ChIJYUfqRUIrg4ARdqMgi5uqJGo",
+      "address": "052-250-114-000, 5610 Skyway, Paradise, CA 95969, USA"
     },
     {
       "name": "Astrid y Gastón Oaxaca",
@@ -774,52 +924,62 @@
     {
       "name": "Mezcal Casa Oaxaca",
       "coord": [
-        17.064,
-        -96.7285
+        17.0588203,
+        -96.7261719
       ],
       "desc": "Mezcal bar and restaurant, distillery tours, tasting menus",
       "longDesc": "This comprehensive mezcal experience includes tastings, distillery knowledge, and food pairings—educational and delicious for families learning about Mexico's spirit heritage.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mezcal%20Casa%20Oaxaca&center=17.064,-96.7285"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mezcal%20Casa%20Oaxaca&center=17.0588203,-96.7261719",
+      "placeId": "ChIJF8H5REAix4URRurXA-8OvUQ",
+      "address": "Flores Magón # 209, OAX_RE_BENITO JUAREZ, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Museo Gastronómico Oaxaca",
       "coord": [
-        17.0668,
-        -96.7248
+        17.0681566,
+        -96.72425940000001
       ],
       "desc": "Food museum and restaurant, educational cooking experiences",
       "longDesc": "This unique museum-restaurant hybrid offers educational cooking classes and regional tastings—ideal for families wanting to deeply understand Oaxacan food culture.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Gastron%C3%B3mico%20Oaxaca&center=17.0668,-96.7248"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Gastron%C3%B3mico%20Oaxaca&center=17.0681566,-96.72425940000001",
+      "placeId": "ChIJjcNoaiIjx4URAyxOA-WbYiI",
+      "address": "C. de Manuel García Vigil 610, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Cafetería Brújula",
       "coord": [
-        17.0628,
-        -96.728
+        17.0625852,
+        -96.72436710000001
       ],
       "desc": "Café, pastries, breakfast spot in Oaxaca center",
       "longDesc": "This charming café serves excellent pastries and coffee in Oaxaca's historic center—a perfect morning gathering spot for families before exploring markets.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafeter%C3%ADa%20Br%C3%BAjula&center=17.0628,-96.728"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafeter%C3%ADa%20Br%C3%BAjula&center=17.0625852,-96.72436710000001",
+      "placeId": "ChIJL_oOjD4ix4URsskfKHKVlMo",
+      "address": "C. Macedonio Alcalá 104, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Mercadito",
       "coord": [
-        19.0325,
-        -98.207
+        19.0334778,
+        -98.2011598
       ],
       "desc": "Chef Jair Téllez, Mexican street food elevated, Puebla",
       "longDesc": "This casual yet chef-driven restaurant celebrates Mexican street food traditions with refined technique—accessible sophistication for families in Puebla.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercadito&center=19.0325,-98.207"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercadito&center=19.0334778,-98.2011598",
+      "placeId": "ChIJ903du8HAz4URPOOFV0G1i8A",
+      "address": "C. 4 Sur 2502, El Carmen, 72530 Heroica Puebla de Zaragoza, Pue., Mexico"
     },
     {
       "name": "El Mole Pipián",
       "coord": [
-        19.034,
-        -98.2055
+        19.0521945,
+        -98.20036429999999
       ],
       "desc": "Traditional Puebla cuisine, mole specialties, family recipes",
       "longDesc": "This traditional restaurant celebrates Puebla's mole heritage with family recipes passed through generations—authentic and deeply flavorful for culinary-curious families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Mole%20Pipi%C3%A1n&center=19.034,-98.2055"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Mole%20Pipi%C3%A1n&center=19.0521945,-98.20036429999999",
+      "placeId": "ChIJXyFf7t_Az4UR8OHlnJ4nP9Y",
+      "address": "Av 14 Pte 703-C, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza, Pue., Mexico"
     },
     {
       "name": "Revistazo",
@@ -834,72 +994,86 @@
     {
       "name": "La Pasita",
       "coord": [
-        19.033,
-        -98.2065
+        19.043311,
+        -98.201166
       ],
       "desc": "Traditional Puebla sweets and drinks, colonial setting",
       "longDesc": "This historic sweet shop serves traditional Puebla beverages and pastries in a colonial setting—charming for families seeking authentic local treats.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Pasita&center=19.033,-98.2065"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Pasita&center=19.043311,-98.201166",
+      "placeId": "ChIJH8WeEd3Az4URrJio8xGWLpc",
+      "address": "Calle 3 Sur 504-B, Centro, 72000 Heroica Puebla de Zaragoza, Pue., Mexico"
     },
     {
       "name": "Casa Santo Domingo",
       "coord": [
-        19.0345,
-        -98.208
+        14.5585993,
+        -90.7279093
       ],
       "desc": "Fine dining in historic convent, Puebla culinary tradition",
       "longDesc": "This upscale restaurant in a converted convent showcases Puebla's culinary heritage in a stunning historic setting—sophisticated and culturally rich for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Santo%20Domingo&center=19.0345,-98.208"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Santo%20Domingo&center=14.5585993,-90.7279093",
+      "placeId": "ChIJQ0KQuyqiiYUR8HRwxyjziHY",
+      "address": "3a Calle Oriente 28 A, Antigua Guatemala, Guatemala"
     },
     {
       "name": "Restaurante Merida 60",
       "coord": [
-        20.9674,
-        -89.6237
+        20.9730944,
+        -89.62204419999999
       ],
       "desc": "Contemporary Yucatán cuisine, regional specialties",
       "longDesc": "This modern restaurant celebrates Yucatán's distinctive culinary traditions with regional ingredients and techniques—perfect introduction to peninsula food culture.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Merida%2060&center=20.9674,-89.6237"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Merida%2060&center=20.9730944,-89.62204419999999",
+      "placeId": "ChIJ4x1VCNBxVo8Rmfrc0jbr7tk",
+      "address": "Calle 60 #453 - A Por 49 Y Esquina 51, Centro, 97000 Centro, Yuc Centro, Parque Santa Lucia, Centro, 97000 Mérida, Yuc., Mexico"
     },
     {
       "name": "Casa Kin",
       "coord": [
-        20.968,
-        -89.6245
+        20.9606457,
+        -89.62725590000001
       ],
       "desc": "Chef Luis Lozano, Yucatán traditional cooking, casual",
       "longDesc": "Chef Luis Lozano's casual restaurant serves authentic Yucatán recipes including cochinita pibil and ceviche—flavorful and welcoming for curious food-loving families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Kin&center=20.968,-89.6245"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Kin&center=20.9606457,-89.62725590000001",
+      "placeId": "ChIJAZn6oddzVo8ReZPtjUJbFmo",
+      "address": "C. 64 556, Centro, 97000 Mérida, Yuc., Mexico"
     },
     {
       "name": "La Chaya Maya",
       "coord": [
-        20.969,
-        -89.625
+        20.9699203,
+        -89.62389189999999
       ],
       "desc": "Yucatán regional dishes, traditional market ingredients",
       "longDesc": "This family-run restaurant celebrates Yucatán's distinctive flavors with traditional recipes and market-fresh ingredients—authentic and fun for cultural food explorers.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Chaya%20Maya&center=20.969,-89.625"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Chaya%20Maya&center=20.9699203,-89.62389189999999",
+      "placeId": "ChIJtzCcrGFxVo8RZLu9elke5cE",
+      "address": "C. 57 x 62, Parque Santa Lucia, Centro, 97000 Mérida, Yuc., Mexico"
     },
     {
       "name": "Tacos de Cochinita Pibil",
       "coord": [
-        20.9685,
-        -89.624
+        20.9637367,
+        -89.6209197
       ],
       "desc": "Iconic Yucatán tacos, slow-roasted pork, locals' favorite",
       "longDesc": "This simple spot serves Mérida's signature dish—slow-roasted pork tacos with traditional preparation—beloved by locals and transformative for taco-loving families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tacos%20de%20Cochinita%20Pibil&center=20.9685,-89.624"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tacos%20de%20Cochinita%20Pibil&center=20.9637367,-89.6209197",
+      "placeId": "ChIJ18K-yDhxVo8RN6fHyY2HDms",
+      "address": "C. 65A, Centro, 97000 Mérida, Yuc., Mexico"
     },
     {
       "name": "Casa Lucia",
       "coord": [
-        20.967,
-        -89.626
+        20.9713665,
+        -89.6220932
       ],
       "desc": "Chef Lucia López, Yucatán cooking school and restaurant",
       "longDesc": "This chef-run restaurant and cooking school offers both meals and hands-on classes—ideal for families wanting to learn authentic Yucatán techniques.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Lucia&center=20.967,-89.626"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Lucia&center=20.9713665,-89.6220932",
+      "placeId": "ChIJLZYg5WBxVo8RSLZ9el1MT9M",
+      "address": "Calle 60 474 A, 53, C. 55 Col, Parque Santa Lucia, Centro, 97000 Mérida, Yuc., Mexico"
     },
     {
       "name": "Guacamole Grill",
@@ -909,47 +1083,57 @@
       ],
       "desc": "Seafood-focused restaurant in Los Cabos, ceviche, fresh fish",
       "longDesc": "This beachfront restaurant in Los Cabos celebrates local seafood with creative preparations—perfect for families enjoying fresh ocean flavors in sunset settings.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Guacamole%20Grill&center=23.634,-109.976"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Guacamole%20Grill&center=23.634,-109.976",
+      "placeId": "ChIJ5XkFJJ6V4YcRzMnuvBUxS1Q",
+      "address": "506 Knox Square Dr, Galesburg, IL 61401, USA"
     },
     {
       "name": "Flora Farms",
       "coord": [
-        23.62,
-        -109.985
+        23.079463,
+        -109.676935
       ],
       "desc": "Farm-to-table restaurant in Los Cabos, garden-fresh ingredients",
       "longDesc": "This sustainable farm-to-table restaurant in Los Cabos showcases locally grown vegetables and prepared foods—healthy and flavorful for families seeking fresh cuisine.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Flora%20Farms&center=23.62,-109.985"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Flora%20Farms&center=23.079463,-109.676935",
+      "placeId": "ChIJc_W4ixBar4YRpHYZnKFhVtY",
+      "address": "Carretera Transpeninsular San José del Cabo Km. 30 Las Ánimas Bajas, 23407 San José del Cabo, B.C.S., Mexico"
     },
     {
       "name": "Cabo Pulmo National Park Restaurant",
       "coord": [
-        23.37,
-        -109.42
+        23.4363627,
+        -109.4296296
       ],
       "desc": "Seafood restaurant near Cabo Pulmo marine reserve",
       "longDesc": "This simple beachfront spot near Cabo Pulmo marine reserve serves super-fresh caught fish—authentic fishing village dining for adventure-seeking families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabo%20Pulmo%20National%20Park%20Restaurant&center=23.37,-109.42"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabo%20Pulmo%20National%20Park%20Restaurant&center=23.4363627,-109.4296296",
+      "placeId": "ChIJu-lBqguPpYYRKFQRZdFAnxo",
+      "address": "23574 Cabo Pulmo, BCS, Mexico"
     },
     {
       "name": "Mi Cocina",
       "coord": [
-        20.915,
-        -100.75
+        20.920625,
+        -100.7563105
       ],
       "desc": "Contemporary Mexican in San Miguel de Allende, Chef Javier",
       "longDesc": "This elegant restaurant in San Miguel showcases creative Mexican cuisine in an artistic setting—perfect for families exploring this cultural heartland.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mi%20Cocina&center=20.915,-100.75"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mi%20Cocina&center=20.920625,-100.7563105",
+      "placeId": "ChIJ7ZMWITZRK4QRD8nJ00D_2SY",
+      "address": "Abraham González 18B, Santa Julia, 37736 San Miguel de Allende, Gto., Mexico"
     },
     {
       "name": "Café Santa Ana",
       "coord": [
-        20.9145,
-        -100.752
+        20.916864399999998,
+        -100.7431936
       ],
       "desc": "Casual café in San Miguel de Allende, breakfast favorite",
       "longDesc": "This friendly café in San Miguel's center serves excellent breakfasts and coffee—a gathering place for families starting their days of exploring.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Santa%20Ana&center=20.9145,-100.752"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Santa%20Ana&center=20.916864399999998,-100.7431936",
+      "placeId": "ChIJEzvZ2blRK4QRlRs0PeY3N3M",
+      "address": "Relox 50-A, Zona Centro, 37700 San Miguel de Allende, Gto., Mexico"
     },
     {
       "name": "El Pegote",
@@ -959,651 +1143,781 @@
       ],
       "desc": "Intimate restaurant in San Miguel, chef's tasting menu",
       "longDesc": "This cozy restaurant features intimate chef's tasting menus with creative preparations—sophisticated yet approachable for adventurous families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Pegote&center=20.916,-100.748"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Pegote&center=20.916,-100.748",
+      "placeId": "ChIJcSiRV2mmvJURvPF1aGaEXtM",
+      "address": "Arroyo Reyes 1670, 1648 Tigre, Provincia de Buenos Aires, Argentina"
     },
     {
       "name": "Coni",
       "coord": [
-        20.9155,
-        -100.751
+        21.080014400000003,
+        -101.6504303
       ],
       "desc": "Contemporary Mexican street food, San Miguel",
       "longDesc": "This casual street food spot elevates traditional Mexican snacks—affordable and delicious for families seeking authentic, quick meals.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coni&center=20.9155,-100.751"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coni&center=21.080014400000003,-101.6504303",
+      "placeId": "ChIJQSPeZC--K4QR0x_zFH6boV0",
+      "address": "Crucifixión 614, El Granjeno Iveg, 37536 León de los Aldama, Gto., Mexico"
     },
     {
       "name": "Luna Café",
       "coord": [
-        20.914,
-        -100.7505
+        20.9183563,
+        -100.74922649999999
       ],
       "desc": "Bohemian café in San Miguel, art community gathering spot",
       "longDesc": "This charming café in San Miguel's artistic center serves great coffee and attracts creative types—culturally immersive for families appreciating local arts.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Luna%20Caf%C3%A9&center=20.914,-100.7505"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Luna%20Caf%C3%A9&center=20.9183563,-100.74922649999999",
+      "placeId": "ChIJa0MEQgBRK4QRebqJDT-TgiU",
+      "address": "Av. Guadalupe, San Rafael, 37730 San Miguel de Allende, Gto., Mexico"
     },
     {
       "name": "Restaurante Guanajuato",
       "coord": [
-        21.016,
-        -101.256
+        21.0159928,
+        -101.2513498
       ],
       "desc": "Contemporary Mexican cuisine, views of colorful city",
       "longDesc": "This restaurant overlooking Guanajuato's iconic hillside cityscape serves refined Mexican cooking—romantic dinner setting for families celebrating special moments.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Guanajuato&center=21.016,-101.256"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Guanajuato&center=21.0159928,-101.2513498",
+      "placeId": "ChIJOe35ckNzK4QRYIxhlPDkq_Q",
+      "address": "De La Taza 23, Zona Centro, 36000 Guanajuato, Gto., Mexico"
     },
     {
       "name": "Casa del Conde",
       "coord": [
-        21.0155,
-        -101.2565
+        21.017076799999998,
+        -101.2543807
       ],
       "desc": "Colonial building restaurant in Guanajuato historic center",
       "longDesc": "This restaurant in a restored colonial building offers authentic atmosphere and regional cuisine—culturally rich dining for families exploring Guanajuato.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20del%20Conde&center=21.0155,-101.2565"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20del%20Conde&center=21.017076799999998,-101.2543807",
+      "placeId": "ChIJmS0Pegh0K4QRxPGaGJHPIs8",
+      "address": "Av. Benito Juárez 8, Zona Centro, 36000 Guanajuato, Gto., Mexico"
     },
     {
       "name": "Taco Taco Cafe",
       "coord": [
-        21.015,
-        -101.257
+        21.017309299999997,
+        -101.2570968
       ],
       "desc": "Casual taco shop in Guanajuato, local favorite",
       "longDesc": "This unpretentious taquería serves authentic, delicious tacos—perfect casual meal for families exploring Guanajuato's hillside streets.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Taco%20Cafe&center=21.015,-101.257"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Taco%20Cafe&center=21.017309299999997,-101.2570968",
+      "placeId": "ChIJFShnY291K4QR2QS2wKYbuaU",
+      "address": "Av. Benito Juárez 124, Centro, 36000 Guanajuato, Gto., Mexico"
     },
     {
       "name": "Playa Blanca",
       "coord": [
-        20.6296,
-        -87.0739
+        20.6641055,
+        -87.0702449
       ],
       "desc": "Beachfront restaurant in Playa del Carmen, fresh seafood",
       "longDesc": "This beachfront restaurant in Playa del Carmen serves fresh seafood with Caribbean flair—casual sophistication for families enjoying beach dining.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa%20Blanca&center=20.6296,-87.0739"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa%20Blanca&center=20.6641055,-87.0702449",
+      "placeId": "ChIJXwJQ1clCTo8RXgTXhQE-CYA",
+      "address": "Playa Blanca, 77725 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Señor Frogs",
       "coord": [
-        20.631,
-        -87.075
+        20.6309263,
+        -87.0691616
       ],
       "desc": "Fun beachfront bar and restaurant, live music, families welcome",
       "longDesc": "This lively beachfront spot features live music, fun atmosphere, and Caribbean-Mexican cuisine—entertaining family dining in the heart of Playa del Carmen.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Se%C3%B1or%20Frogs&center=20.631,-87.075"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Se%C3%B1or%20Frogs&center=20.6309263,-87.0691616",
+      "placeId": "ChIJTwiSHQBDTo8RRVEFr3TalL4",
+      "address": "Quinta Avenida 5, Gonzalo Guerrero, 77720 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "The Taco Spot",
       "coord": [
-        20.63,
-        -87.0745
+        20.6275227,
+        -87.0708963
       ],
       "desc": "Elevated street tacos in Playa del Carmen, local favorite",
       "longDesc": "This casual spot serves gourmet street tacos with quality ingredients—affordable yet delicious for families exploring Playa del Carmen.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Taco%20Spot&center=20.63,-87.0745"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Taco%20Spot&center=20.6275227,-87.0708963",
+      "placeId": "ChIJnapkul1DTo8RKZ2WD0B9GCU",
+      "address": "1 Av. nte 234, Gonzalo Guerrero, 77720 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Casa de la Frontera",
       "coord": [
-        17.0615,
-        -96.7295
+        17.0695992,
+        -96.72160339999999
       ],
       "desc": "Border-inspired cuisine, Oaxaca-Chiapas traditions",
       "longDesc": "This unique restaurant celebrates the culinary traditions where Oaxaca and Chiapas meet—exotic and flavorful for families seeking regional fusion.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20de%20la%20Frontera&center=17.0615,-96.7295"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20de%20la%20Frontera&center=17.0695992,-96.72160339999999",
+      "placeId": "ChIJzZJ6njsix4UR7QG63ofDNEk",
+      "address": "RUTA INDEPENDENCIA, Centro, 68000 Oaxaca, Mexico"
     },
     {
       "name": "Los Danzantes Oaxaca",
       "coord": [
-        17.066,
-        -96.725
+        17.0652024,
+        -96.7239883
       ],
       "desc": "Mezcal-focused restaurant with food pairings, Oaxaca",
       "longDesc": "This mezcal bar and restaurant offers expert pairings of premium spirits with small plates—sophisticated for families learning about regional traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Danzantes%20Oaxaca&center=17.066,-96.725"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Danzantes%20Oaxaca&center=17.0652024,-96.7239883",
+      "placeId": "ChIJpYomwD4ix4UR8Ao0DNgeIX4",
+      "address": "C. Macedonio Alcalá 403-interior 4, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     }
   ],
   "experiences": [
     {
       "name": "Templo Mayor",
       "coord": [
-        19.4383,
-        -99.1367
+        19.434603799999998,
+        -99.13188099999999
       ],
       "desc": "Aztec temple complex in historic center, archaeological museum",
       "longDesc": "This remarkable Aztec temple complex, discovered beneath Mexico City, reveals layers of pre-Hispanic history and artistry that bring ancient civilizations vividly to life.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Templo%20Mayor&center=19.4383,-99.1367"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Templo%20Mayor&center=19.434603799999998,-99.13188099999999",
+      "placeId": "ChIJ3dGBci350YURsDYUZcq-kIw",
+      "address": "Seminario 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Frida Kahlo Museum (Casa Azul)",
       "coord": [
-        19.4159,
-        -99.1461
+        19.3551806,
+        -99.1624636
       ],
       "desc": "Iconic blue house and museum, Frida's life and paintings",
       "longDesc": "Casa Azul's vivid blue walls and intimate rooms showcase Frida's iconic paintings, personal artifacts, and bohemian spirit—an unforgettable window into Mexican creativity.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frida%20Kahlo%20Museum%20%28Casa%20Azul%29&center=19.4159,-99.1461"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frida%20Kahlo%20Museum%20%28Casa%20Azul%29&center=19.3551806,-99.1624636",
+      "placeId": "ChIJOz-6AMT_0YURofTM9_ekAWI",
+      "address": "Londres 247, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Museo de Antropología",
       "coord": [
-        19.4283,
-        -99.1882
+        19.426003200000004,
+        -99.1862786
       ],
       "desc": "World-class anthropology museum, pre-Hispanic artifacts, Aztec sun stone",
       "longDesc": "This magnificent museum houses Mexico's most important pre-Hispanic artifacts, including the iconic Aztec sun stone—essential for understanding ancient Mesoamerican civilizations.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Antropolog%C3%ADa&center=19.4283,-99.1882"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Antropolog%C3%ADa&center=19.426003200000004,-99.1862786",
+      "placeId": "ChIJScjIILQB0oURJMVub-MaI4Q",
+      "address": "Av. P.º de la Reforma s/n, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Palacio Nacional",
       "coord": [
-        19.4326,
-        -99.1333
+        19.4328868,
+        -99.1313531
       ],
       "desc": "Historic government building, Diego Rivera murals, architectural significance",
       "longDesc": "This iconic palace features stunning Diego Rivera murals depicting Mexican history and showcases colonial architecture—culturally essential for understanding modern Mexico.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20Nacional&center=19.4326,-99.1333"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20Nacional&center=19.4328868,-99.1313531",
+      "placeId": "ChIJ8ZWV2cz-0YUR_dZtPvUaOPc",
+      "address": "P.za de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06066 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Chichén Itzá",
       "coord": [
-        20.6829,
-        -87.5479
+        20.684284899999998,
+        -88.5677826
       ],
       "desc": "Iconic Maya ruins, El Castillo pyramid, sacred cenote",
       "longDesc": "One of the New World's most impressive Maya archaeological sites, featuring the iconic stepped pyramid El Castillo, combines stunning architecture with profound historical significance.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chich%C3%A9n%20Itz%C3%A1&center=20.6829,-87.5479"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chich%C3%A9n%20Itz%C3%A1&center=20.684284899999998,-88.5677826",
+      "placeId": "ChIJ58CR48Y4UY8Rmk2ZaKGgHnw",
+      "address": "97751 Yucatan, Mexico"
     },
     {
       "name": "Tulum Ruins",
       "coord": [
-        20.2113,
-        -87.4142
+        20.2149504,
+        -87.4294212
       ],
       "desc": "Clifftop Maya ruins overlooking Caribbean, walled city",
       "longDesc": "These dramatic Maya ruins perched on cliffs above turquoise Caribbean waters showcase pre-Hispanic architecture and engineering—unforgettable for history-loving families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tulum%20Ruins&center=20.2113,-87.4142"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tulum%20Ruins&center=20.2149504,-87.4294212",
+      "placeId": "ChIJZTIpFn3RT48RY8mSpPzWaP8",
+      "address": "Zona Hotelera Tulum, 77765 Tulum, Quintana Roo, Mexico"
     },
     {
       "name": "Cenote Swimming (Tulum)",
       "coord": [
-        20.21,
-        -87.46
+        20.246581799999998,
+        -87.464201
       ],
       "desc": "Crystal-clear underground cenote pools, geological wonder",
       "longDesc": "These natural limestone sinkholes with crystal-clear underground waters offer a uniquely refreshing and magical swimming experience—part geological wonder, part pure joy.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cenote%20Swimming%20%28Tulum%29&center=20.21,-87.46"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cenote%20Swimming%20%28Tulum%29&center=20.246581799999998,-87.464201",
+      "placeId": "ChIJ_xjkInTUT48Rit_t2yqp8M4",
+      "address": "77796 Quintana Roo, Mexico"
     },
     {
       "name": "Teotihuacán",
       "coord": [
-        19.69,
-        -98.844
+        19.6860799,
+        -98.87163609999999
       ],
       "desc": "Pre-Aztec pyramid complex, Pyramid of the Sun, Avenue of the Dead",
       "longDesc": "This pre-Aztec ceremonial complex features massive pyramids and sacred architecture that dominated Mesoamerica—spiritually powerful for families seeking ancient mysteries.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Teotihuac%C3%A1n&center=19.69,-98.844"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Teotihuac%C3%A1n&center=19.6860799,-98.87163609999999",
+      "placeId": "ChIJyd0BTvnq0YUR2mRxFCPVfsc",
+      "address": "San Juan Teotihuacán, State of Mexico, Mexico"
     },
     {
       "name": "Museo de Frida Kahlo",
       "coord": [
-        19.4159,
-        -99.1461
+        19.3551806,
+        -99.1624636
       ],
       "desc": "Casa Azul, artist's personal collection, biographical exhibitions",
       "longDesc": "This intimate museum in Frida's former home showcases her personal collection, artwork, and biographical materials—deeply moving for families appreciating artistic genius.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Frida%20Kahlo&center=19.4159,-99.1461"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Frida%20Kahlo&center=19.3551806,-99.1624636",
+      "placeId": "ChIJOz-6AMT_0YURofTM9_ekAWI",
+      "address": "Londres 247, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Castillo de Chapultepec",
       "coord": [
-        19.4265,
-        -99.1865
+        19.4204397,
+        -99.181935
       ],
       "desc": "Historic castle in Chapultepec Park, national museum",
       "longDesc": "This historic hilltop castle overlooks Mexico City and houses important museum collections—offering both history and panoramic views families cherish.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Castillo%20de%20Chapultepec&center=19.4265,-99.1865"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Castillo%20de%20Chapultepec&center=19.4204397,-99.181935",
+      "placeId": "ChIJI4_tR83-0YURMouBJIUA4KY",
+      "address": "Av. Heroico Colegio Militar 172, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Palenque",
       "coord": [
-        17.4845,
-        -92.0456
+        17.484769699999998,
+        -92.0458949
       ],
       "desc": "Maya ruins in jungle, elaborate stone carvings, mystical setting",
       "longDesc": "This mystical Maya city deep in Chiapas jungle showcases elaborate architecture and intricate stonework—profoundly spiritual for adventurous families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palenque&center=17.4845,-92.0456"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palenque&center=17.484769699999998,-92.0458949",
+      "placeId": "ChIJ3du9d8dE8oUR8dxdmXHqu24",
+      "address": "Carretera a Palenque- Zona Archaeologica Km. 8, 29960 Palenque, Chiapas, Mexico"
     },
     {
       "name": "Oaxaca Archaeological Sites",
       "coord": [
-        17.068,
-        -96.721
+        17.046592699999998,
+        -96.76588439999999
       ],
       "desc": "Monte Albán, Mitla, pre-Hispanic cultures",
       "longDesc": "Oaxaca's surrounding archaeological zones reveal sophisticated pre-Hispanic cultures with distinctive architecture and artistic traditions—educational for curious families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oaxaca%20Archaeological%20Sites&center=17.068,-96.721"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oaxaca%20Archaeological%20Sites&center=17.046592699999998,-96.76588439999999",
+      "placeId": "ChIJye-MvYkYx4URytLQj24Grqc",
+      "address": "Ignacio Bernal S/N, 71233 San Pedro Ixtlahuaca, Oax., Mexico"
     },
     {
       "name": "Monte Albán",
       "coord": [
-        17.068,
-        -96.721
+        17.046592699999998,
+        -96.76588439999999
       ],
       "desc": "Pre-Hispanic Zapotec city ruins, hilltop location, terraced architecture",
       "longDesc": "This ancient Zapotec city on a flattened mountain showcases sophisticated pre-Hispanic architecture and urban planning—dramatically situated for exploring ancient wisdom.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Monte%20Alb%C3%A1n&center=17.068,-96.721"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Monte%20Alb%C3%A1n&center=17.046592699999998,-96.76588439999999",
+      "placeId": "ChIJye-MvYkYx4URytLQj24Grqc",
+      "address": "Ignacio Bernal S/N, 71233 San Pedro Ixtlahuaca, Oax., Mexico"
     },
     {
       "name": "Xochimilco",
       "coord": [
-        19.2756,
-        -99.097
+        19.2572314,
+        -99.1029664
       ],
       "desc": "Aztec floating gardens, colorful boats, island gardens",
       "longDesc": "These ancient Aztec floating gardens feature colorful traditional boats, island gardens, and waterways—magical and enchanting for families enjoying Mexico City day trips.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xochimilco&center=19.2756,-99.097"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xochimilco&center=19.2572314,-99.1029664",
+      "placeId": "ChIJo97obYwDzoURhFO92h_3eZs",
+      "address": "Xochimilco, CDMX, Mexico"
     },
     {
       "name": "Mercado de Artesanías (Anthropology Museum Shop)",
       "coord": [
-        19.4283,
-        -99.1882
+        19.424610899999998,
+        -99.1656045
       ],
       "desc": "Artisan crafts market, indigenous art, folk traditions",
       "longDesc": "This museum-affiliated market showcases authentic indigenous crafts and folk art traditions—perfect for families supporting artisans while discovering regional talents.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20Artesan%C3%ADas%20%28Anthropology%20Museum%20Shop%29&center=19.4283,-99.1882"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20Artesan%C3%ADas%20%28Anthropology%20Museum%20Shop%29&center=19.424610899999998,-99.1656045",
+      "placeId": "ChIJke8daDb_0YUR9T-ueTlHy_8",
+      "address": "Londres 154, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Mezcal Distillery Tours (Oaxaca)",
       "coord": [
-        17.065,
-        -96.726
+        17.0625309,
+        -96.7106202
       ],
       "desc": "Artisanal mezcal production, distillery visits, tastings",
       "longDesc": "Oaxaca's mezcal distilleries offer fascinating production tours and tastings of Mexico's heritage spirit—educational for families learning about cultural traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mezcal%20Distillery%20Tours%20%28Oaxaca%29&center=17.065,-96.726"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mezcal%20Distillery%20Tours%20%28Oaxaca%29&center=17.0625309,-96.7106202",
+      "placeId": "ChIJ_7zi7x0jx4URmaSarxibkKI",
+      "address": "Unidad Modelo 30, Unidad Modelo, 68100 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Museo Tamayo",
       "coord": [
-        19.4308,
-        -99.1828
+        19.42572,
+        -99.181716
       ],
       "desc": "Contemporary art museum, rotating exhibitions",
       "longDesc": "This modern art museum showcases contemporary works by established and emerging artists—inspiring for families appreciating cutting-edge creative expression.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Tamayo&center=19.4308,-99.1828"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Tamayo&center=19.42572,-99.181716",
+      "placeId": "ChIJS0th0lP_0YURUhbp0wYZ1Cw",
+      "address": "Av. P.º de la Reforma 51, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Museo de Arte Popular",
       "coord": [
-        19.4265,
-        -99.17
+        19.433735199999997,
+        -99.1462978
       ],
       "desc": "Folk art museum, traditional Mexican crafts, textiles",
       "longDesc": "This vibrant museum celebrates Mexican folk art traditions including textiles, ceramics, and crafts—colorful and inspiring for artistically-curious families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Popular&center=19.4265,-99.17"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Popular&center=19.433735199999997,-99.1462978",
+      "placeId": "ChIJnb61RNX40YURjLOqxoI9oh0",
+      "address": "Revillagigedo 11, Colonia Centro, Centro, Cuauhtémoc, 06050 Cuauhtémoc, CDMX, Mexico"
     },
     {
       "name": "Tlatelolco (Three Cultures)",
       "coord": [
-        19.4513,
-        -99.137
+        19.4516547,
+        -99.1362473
       ],
       "desc": "Archaeological site with Aztec, Spanish colonial, and modern Mexico layers",
       "longDesc": "This complex site layers pre-Hispanic Aztec ruins, Spanish colonial church, and modern plaza—visually representing Mexico's rich historical integration.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tlatelolco%20%28Three%20Cultures%29&center=19.4513,-99.137"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tlatelolco%20%28Three%20Cultures%29&center=19.4516547,-99.1362473",
+      "placeId": "ChIJc4bqHiL50YURh_KFUYgcIYs",
+      "address": "Eje Central Lázaro Cárdenas S/N, Tlatelolco, Cuauhtémoc, 06900 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Mirador Pico de Orizaba",
       "coord": [
-        19.0341,
-        -97.2676
+        18.845654600000003,
+        -97.11574859999999
       ],
       "desc": "Mexico's highest volcano, hiking, mountain views",
       "longDesc": "This towering volcano offers dramatic mountain hiking and panoramic views across central Mexico—inspiring for active families seeking natural grandeur.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador%20Pico%20de%20Orizaba&center=19.0341,-97.2676"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador%20Pico%20de%20Orizaba&center=18.845654600000003,-97.11574859999999",
+      "placeId": "ChIJQwqfOMcCxYURWwdANXiL9xE",
+      "address": "Alvaro Obregon, 94350 Orizaba, Ver., Mexico"
     },
     {
       "name": "Cenote Route (Riviera Maya)",
       "coord": [
-        20.21,
-        -87.46
+        20.488169,
+        -87.2510202
       ],
       "desc": "Multiple cenotes, swimming, snorkeling, cave exploration",
       "longDesc": "The Riviera Maya's cenote route offers multiple opportunities for swimming, snorkeling, and exploring caves—magical natural experiences children absolutely adore.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cenote%20Route%20%28Riviera%20Maya%29&center=20.21,-87.46"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cenote%20Route%20%28Riviera%20Maya%29&center=20.488169,-87.2510202",
+      "placeId": "ChIJOwStV4U3To8RqmN9lJ2o114",
+      "address": "Riviera Maya, Carr. Cancún - Tulum Km 266, 77734 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Xcaret Park",
       "coord": [
-        20.64,
-        -87.06
+        20.5809134,
+        -87.119698
       ],
       "desc": "Eco-adventure park with beach, snorkeling, ziplining, cenotes",
       "longDesc": "This comprehensive eco-adventure park combines beach, snorkeling, adventure activities, and cenote exploration—comprehensive family fun in one destination.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xcaret%20Park&center=20.64,-87.06"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xcaret%20Park&center=20.5809134,-87.119698",
+      "placeId": "ChIJU3DYrW1ETo8RpQkYkh7oQoA",
+      "address": "Carretera Chetumal, Puerto Juarez km 282-Int B, Colonia Rancho Xcaret, Juárez, 77580 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Isla Mujeres Day Trip",
       "coord": [
-        21.23,
-        -86.73
+        21.2574209,
+        -86.74806629999999
       ],
       "desc": "Island getaway from Cancun, beaches, snorkeling, Caribbean vibe",
       "longDesc": "This charming island off Cancun offers pristine beaches, excellent snorkeling, and laid-back Caribbean atmosphere—perfect day trip for beach-loving families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Isla%20Mujeres%20Day%20Trip&center=21.23,-86.73"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Isla%20Mujeres%20Day%20Trip&center=21.2574209,-86.74806629999999",
+      "placeId": "ChIJX0vBxgMwTI8R-myOrU_l0_E",
+      "address": "Miguel Hidalgo 89, Centro - Supmza. 001, 77400 Isla Mujeres, Q.R., Mexico"
     },
     {
       "name": "Cozumel Diving & Snorkeling",
       "coord": [
-        20.505,
-        -87.075
+        20.467689999999997,
+        -86.9788464
       ],
       "desc": "World-class diving destination, reef systems, marine life",
       "longDesc": "This world-renowned diving hub features spectacular coral reefs and abundant marine life—transformative for families wanting to explore underwater Mexico.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cozumel%20Diving%20%26%20Snorkeling&center=20.505,-87.075"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cozumel%20Diving%20%26%20Snorkeling&center=20.467689999999997,-86.9788464",
+      "placeId": "ChIJFVKky4tZTo8RyYeR8oBOwhY",
+      "address": "Marina Cozumel ASIPONA, 77600 Q.R., Mexico"
     },
     {
       "name": "Garibaldi Plaza (Mariachi Music)",
       "coord": [
-        19.4406,
-        -99.1335
+        19.4406739,
+        -99.1391089
       ],
       "desc": "Historic plaza, live mariachi bands, traditional music",
       "longDesc": "This lively plaza is where authentic mariachi musicians perform—a quintessential Mexican experience that families find musically enchanting and culturally enriching.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Garibaldi%20Plaza%20%28Mariachi%20Music%29&center=19.4406,-99.1335"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Garibaldi%20Plaza%20%28Mariachi%20Music%29&center=19.4406739,-99.1391089",
+      "placeId": "ChIJH3x1xy750YUR90qP2ipcKeQ",
+      "address": "Eje Central Lázaro Cárdenas 43, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Museo Nacional de Historia",
       "coord": [
-        19.4265,
-        -99.1865
+        19.409833,
+        -99.20151899999999
       ],
       "desc": "Mexican history museum in Chapultepec Castle",
       "longDesc": "This comprehensive history museum chronicles Mexico from pre-Hispanic times through modern era—essential for families wanting deep historical understanding.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Historia&center=19.4265,-99.1865"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Historia&center=19.409833,-99.20151899999999",
+      "placeId": "ChIJAQAAMLMB0oURD_4FLwX5JUs",
+      "address": "Av. de los Compositores, Bosque de Chapultepec II Secc, Miguel Hidalgo, 11100 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Museo de Arte Moderno",
       "coord": [
-        19.4258,
-        -99.187
+        19.423004199999998,
+        -99.179689
       ],
       "desc": "Modern art museum, contemporary Mexican artists",
       "longDesc": "This museum showcases contemporary Mexican artistic expression—inspiring for families appreciating modern creative vision and cultural perspectives.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Moderno&center=19.4258,-99.187"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Moderno&center=19.423004199999998,-99.179689",
+      "placeId": "ChIJTQGqdSv50YURJKLN5Eu1o3U",
+      "address": "Av. P.º de la Reforma s/n, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Lucha Libre (Wrestling)",
       "coord": [
-        19.43,
-        -99.15
+        19.4247054,
+        -99.1516884
       ],
       "desc": "Traditional masked wrestling matches, historic arena",
       "longDesc": "Mexico's iconic masked wrestling tradition combines athleticism, theater, and spectacle—entertainment that fascinates kids and adults alike.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucha%20Libre%20%28Wrestling%29&center=19.43,-99.15"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucha%20Libre%20%28Wrestling%29&center=19.4247054,-99.1516884",
+      "placeId": "ChIJxa1_2i7_0YURgd4u9aNEAiY",
+      "address": "Dr. Lavista 189, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Bellas Artes Palace",
       "coord": [
-        19.4359,
-        -99.1369
+        19.4352,
+        -99.1412
       ],
       "desc": "Ornate cultural palace, performing arts, architectural marvel",
       "longDesc": "This stunning Art Deco palace showcases performing arts and architecture—cultural centerpiece that impresses families with its grandeur and significance.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bellas%20Artes%20Palace&center=19.4359,-99.1369"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bellas%20Artes%20Palace&center=19.4352,-99.1412",
+      "placeId": "ChIJTQGqdSv50YURz-imDdIQ2Bc",
+      "address": "Av. Juarez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Playa Maya Beach (Riviera Maya)",
       "coord": [
-        20.6296,
-        -87.0739
+        20.6251334,
+        -87.07214189999999
       ],
       "desc": "Family-friendly Caribbean beach, water sports, resorts",
       "longDesc": "This expansive Caribbean beach offers calm waters, water sports, and family facilities—perfect base for Riviera Maya beach vacation relaxation.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa%20Maya%20Beach%20%28Riviera%20Maya%29&center=20.6296,-87.0739"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa%20Maya%20Beach%20%28Riviera%20Maya%29&center=20.6251334,-87.07214189999999",
+      "placeId": "ChIJ5Q2WgDBDTo8Ro_6eynxQvho",
+      "address": "77710, Calle 8 Nte 876, Gonzalo Guerrero, 77710 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Laguna Bacalar",
       "coord": [
-        18.6858,
-        -87.692
+        18.7671365,
+        -88.30688169999999
       ],
       "desc": "Seven-colored lagoon, cenote, kayaking, snorkeling",
       "longDesc": "This stunning lagoon features seven distinct colors, cenotes, and clear water perfect for kayaking—natural wonder that captivates everyone.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Laguna%20Bacalar&center=18.6858,-87.692"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Laguna%20Bacalar&center=18.7671365,-88.30688169999999",
+      "placeId": "ChIJ1ZGLV5etW48R5whXdG-ckjM",
+      "address": "Bacalar Lagoon, Quintana Roo, Mexico"
     },
     {
       "name": "Kohunlich Maya Ruins",
       "coord": [
-        18.7433,
-        -87.8656
+        18.4192634,
+        -88.79089909999999
       ],
       "desc": "Remote Maya ruins, jungle setting, pre-Hispanic agriculture",
       "longDesc": "These remote jungle ruins reveal sophisticated pre-Hispanic agricultural engineering and ceremonial architecture—mysterious and adventurous for exploratory families seeking genuine archaeological wonders.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kohunlich%20Maya%20Ruins&center=18.7433,-87.8656"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kohunlich%20Maya%20Ruins&center=18.4192634,-88.79089909999999",
+      "placeId": "ChIJw4-t6f5fWY8RNIH70eFy9nY",
+      "address": "Carretera Federal 186 (Chetumal-Escárcega, 77981 Q.R., Mexico"
     },
     {
       "name": "Sian Ka'an Biosphere Reserve",
       "coord": [
-        20.3,
-        -87.45
+        19.8509509,
+        -87.63934309999999
       ],
       "desc": "Protected biosphere, mangrove ecosystems, wildlife, boat tours",
       "longDesc": "This vast biosphere reserve protects unique ecosystems and wildlife—pristine nature experiences for environmentally-conscious adventuring families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sian%20Ka%27an%20Biosphere%20Reserve&center=20.3,-87.45"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sian%20Ka%27an%20Biosphere%20Reserve&center=19.8509509,-87.63934309999999",
+      "placeId": "ChIJRbIUlxYJUI8RLuVQChePHQQ",
+      "address": "Quintana Roo, Mexico"
     },
     {
       "name": "Aktun Chen Cave",
       "coord": [
-        20.4,
-        -87.27
+        20.3607561,
+        -87.3418209
       ],
       "desc": "Stalactite cave, cenote, nature trail, guided tours",
       "longDesc": "This impressive cave system features dramatic stalactites, underground pools, and nature trails—geological wonder families find utterly fascinating.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aktun%20Chen%20Cave&center=20.4,-87.27"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aktun%20Chen%20Cave&center=20.3607561,-87.3418209",
+      "placeId": "ChIJ3TxBdTkyTo8Rlf0qFSemjz0",
+      "address": "Carr. Cancún - Tulum Km 107, 77780 Akumal, Q.R., Mexico"
     },
     {
       "name": "Puerto Morelos Reef",
       "coord": [
-        20.864,
-        -86.887
+        20.850154099999997,
+        -86.87458219999999
       ],
       "desc": "Protected reef system, snorkeling, marine sanctuary",
       "longDesc": "This protected reef offers excellent snorkeling and marine biodiversity—perfect for families wanting authentic reef encounters away from crowds.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Puerto%20Morelos%20Reef&center=20.864,-86.887"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Puerto%20Morelos%20Reef&center=20.850154099999997,-86.87458219999999",
+      "placeId": "ChIJOxWNh0KITo8RxlP7-yTk4Vs",
+      "address": "Rafael E. Melgar 1, 77580 Puerto Morelos, Q.R., Mexico"
     },
     {
       "name": "Cenote Ik Kil",
       "coord": [
-        20.847,
-        -87.6
+        20.6610138,
+        -88.550438
       ],
       "desc": "Sacred Maya cenote, collapsed sinkhole, swimming, cultural significance",
       "longDesc": "This sacred cenote with dramatic collapsed sinkhole offers swimming and spiritual significance—profound for families interested in Maya traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cenote%20Ik%20Kil&center=20.847,-87.6"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cenote%20Ik%20Kil&center=20.6610138,-88.550438",
+      "placeId": "ChIJl11soik_UY8RSO0deqb8H8w",
+      "address": "Ik Kil, 97756 Yucatan, Mexico"
     },
     {
       "name": "Xcel-Há Eco-Park",
       "coord": [
-        20.3514,
-        -87.3214
+        20.3193587,
+        -87.3578124
       ],
       "desc": "All-inclusive eco-adventure park, lagoons, cenotes, zip-lining",
       "longDesc": "This comprehensive eco-park combines swimming, snorkeling, zip-lining, cenotes, and cultural shows—complete family adventure in one destination.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xcel-H%C3%A1%20Eco-Park&center=20.3514,-87.3214"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xcel-H%C3%A1%20Eco-Park&center=20.3193587,-87.3578124",
+      "placeId": "ChIJwf__P8kyTo8RlnFHVjYm4w8",
+      "address": "Carretera Chetumal Puerto Juárez Km 240, locales 1 & 2, módulo B, 77780 Q.R., Mexico"
     },
     {
       "name": "Yucatan Cenote Pools",
       "coord": [
-        20.4,
-        -87.35
+        20.7394882,
+        -89.2972197
       ],
       "desc": "Multiple cenotes, variety of swimming experiences",
       "longDesc": "The Yucatán's cenote system offers dozens of swimming opportunities from crystal pools to jungle caves—endlessly enchanting for water-loving families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yucatan%20Cenote%20Pools&center=20.4,-87.35"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yucatan%20Cenote%20Pools&center=20.7394882,-89.2972197",
+      "placeId": "ChIJK1Vd7WCNVo8RExaaz-BxF60",
+      "address": "97580 Homún, Yucatan, Mexico"
     },
     {
       "name": "Calakmul",
       "coord": [
-        18.2156,
-        -89.7794
+        18.427369799999997,
+        -89.70042149999999
       ],
       "desc": "Remote Maya city, jungle pyramids, wildlife reserve",
       "longDesc": "This remote jungle city reveals sophisticated Maya civilization hidden within pristine forest—adventure and mystery for intrepid archaeological families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Calakmul&center=18.2156,-89.7794"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Calakmul&center=18.427369799999997,-89.70042149999999",
+      "placeId": "ChIJjzL66jzrWI8RXvGIKrbyT_Q",
+      "address": "Calakmul Municipality, Campeche, Mexico"
     }
   ],
   "kidFriendly": [
     {
       "name": "Chapultepec Park",
       "coord": [
-        19.4265,
-        -99.1865
+        19.4194815,
+        -99.18945579999999
       ],
       "desc": "Massive urban park with museums, zoo, castle, playgrounds",
       "longDesc": "This sprawling Mexico City oasis combines world-class museums, an interactive zoo, historic castles, and playgrounds—endless discovery and play for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapultepec%20Park&center=19.4265,-99.1865"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapultepec%20Park&center=19.4194815,-99.18945579999999",
+      "placeId": "ChIJP1dJRVf_0YURr8MZosHl4kI",
+      "address": "Miguel Hidalgo, Mexico City, CDMX, Mexico"
     },
     {
       "name": "Xel-Há Water Park",
       "coord": [
-        20.3514,
-        -87.3214
+        20.3193587,
+        -87.3578124
       ],
       "desc": "All-inclusive eco-adventure park with snorkeling, zip-lines, wildlife",
       "longDesc": "This all-inclusive eco-adventure park lets families snorkel among tropical fish, zip-line through cenotes, and encounter wildlife—thrilling adventure for all ages.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xel-H%C3%A1%20Water%20Park&center=20.3514,-87.3214"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xel-H%C3%A1%20Water%20Park&center=20.3193587,-87.3578124",
+      "placeId": "ChIJwf__P8kyTo8RlnFHVjYm4w8",
+      "address": "Carretera Chetumal Puerto Juárez Km 240, locales 1 & 2, módulo B, 77780 Q.R., Mexico"
     },
     {
       "name": "Xcaret Park",
       "coord": [
-        20.64,
-        -87.06
+        20.5809134,
+        -87.119698
       ],
       "desc": "Eco-adventure park with beach, snorkeling, ziplining, cenotes",
       "longDesc": "This comprehensive eco-adventure park combines beach, snorkeling, adventure activities, cenotes, and cultural shows—complete family fun in one destination.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xcaret%20Park&center=20.64,-87.06"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xcaret%20Park&center=20.5809134,-87.119698",
+      "placeId": "ChIJU3DYrW1ETo8RpQkYkh7oQoA",
+      "address": "Carretera Chetumal, Puerto Juarez km 282-Int B, Colonia Rancho Xcaret, Juárez, 77580 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Playa del Carmen Beach",
       "coord": [
-        20.6296,
-        -87.0739
+        20.644589099999997,
+        -87.05553929999999
       ],
       "desc": "Family-friendly Caribbean beach with calm waters, activities",
       "longDesc": "This spacious, family-friendly Caribbean beach offers calm waters perfect for young swimmers, plus resorts, restaurants, and water activities.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa%20del%20Carmen%20Beach&center=20.6296,-87.0739"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa%20del%20Carmen%20Beach&center=20.644589099999997,-87.05553929999999",
+      "placeId": "ChIJPQbUJCldTo8RUwaDVt6_rwQ",
+      "address": "77728 Playa del Carmen, Quintana Roo, Mexico"
     },
     {
       "name": "Xplor Park",
       "coord": [
-        20.625,
-        -87.12
+        20.5934505,
+        -87.1255111
       ],
       "desc": "Adventure park with zip-lines, jeeps, cenote swimming",
       "longDesc": "This thrilling adventure park combines zip-lining, underground vehicle adventures, and cenote swimming—pure excitement for active families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xplor%20Park&center=20.625,-87.12"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xplor%20Park&center=20.5934505,-87.1255111",
+      "placeId": "ChIJ44qsfvVDTo8Rs89AYspFfVY",
+      "address": "Carretera Chetumal, Puerto Juarez Km 282, 77710 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Aquarium Interactive Cancun",
       "coord": [
-        21.16,
-        -86.85
+        21.1094311,
+        -86.7643231
       ],
       "desc": "Interactive aquarium with touch pools, sea life, education",
       "longDesc": "This hands-on aquarium lets kids interact with sea creatures, learn about marine ecosystems, and enjoy interactive exhibits—science comes alive for curious minds.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aquarium%20Interactive%20Cancun&center=21.16,-86.85"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aquarium%20Interactive%20Cancun&center=21.1094311,-86.7643231",
+      "placeId": "ChIJO-Mtd_UoTI8R8K1pr3kzjHc",
+      "address": "Blvd. Kukulcan 12.5, La Isla, Zona Hotelera, 77500 Cancún, Q.R., Mexico"
     },
     {
       "name": "Xcaret Eco Park (Kid Focus)",
       "coord": [
-        20.64,
-        -87.06
+        20.5809134,
+        -87.119698
       ],
       "desc": "Water activities, animal encounters, cultural shows for families",
       "longDesc": "This kid-optimized eco-park section features gentler water activities, animal encounters, and cultural performances—perfect for younger adventure-seekers.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xcaret%20Eco%20Park%20%28Kid%20Focus%29&center=20.64,-87.06"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xcaret%20Eco%20Park%20%28Kid%20Focus%29&center=20.5809134,-87.119698",
+      "placeId": "ChIJU3DYrW1ETo8RpQkYkh7oQoA",
+      "address": "Carretera Chetumal, Puerto Juarez km 282-Int B, Colonia Rancho Xcaret, Juárez, 77580 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Isla Mujeres Beach",
       "coord": [
-        21.23,
-        -86.73
+        21.261035099999997,
+        -86.75088099999999
       ],
       "desc": "Peaceful island beach, calm waters, snorkeling for kids",
       "longDesc": "This tranquil island beach offers calm waters perfect for young swimmers and beginner snorkelers—relaxed family beach time at its best.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Isla%20Mujeres%20Beach&center=21.23,-86.73"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Isla%20Mujeres%20Beach&center=21.261035099999997,-86.75088099999999",
+      "placeId": "ChIJRTrNNgMwTI8R_uGrRh86_GY",
+      "address": "Rueda Medina 130, SM 001, Centro, 77506 Isla Mujeres, Q.R., Mexico"
     },
     {
       "name": "Laguna Bacalar",
       "coord": [
-        18.6858,
-        -87.692
+        18.7671365,
+        -88.30688169999999
       ],
       "desc": "Seven-colored lagoon, kayaking, swimming, nature",
       "longDesc": "This stunning natural lagoon offers safe swimming, gentle kayaking, and nature exploration—pristine family water time in paradise.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Laguna%20Bacalar&center=18.6858,-87.692"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Laguna%20Bacalar&center=18.7671365,-88.30688169999999",
+      "placeId": "ChIJ1ZGLV5etW48R5whXdG-ckjM",
+      "address": "Bacalar Lagoon, Quintana Roo, Mexico"
     },
     {
       "name": "Cenote Ik Kil",
       "coord": [
-        20.847,
-        -87.6
+        20.6610138,
+        -88.550438
       ],
       "desc": "Sacred cenote with collapsed sinkhole, swimming, cultural significance",
       "longDesc": "This dramatic cenote with 40-meter walls offers swimming and spiritual significance—unforgettable natural wonder for curious young minds.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cenote%20Ik%20Kil&center=20.847,-87.6"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cenote%20Ik%20Kil&center=20.6610138,-88.550438",
+      "placeId": "ChIJl11soik_UY8RSO0deqb8H8w",
+      "address": "Ik Kil, 97756 Yucatan, Mexico"
     },
     {
       "name": "Zoo of Mexico City",
       "coord": [
-        19.4265,
-        -99.1865
+        19.423208499999998,
+        -99.1895256
       ],
       "desc": "Free zoo in Chapultepec Park, endangered species programs",
       "longDesc": "This excellent zoo within Chapultepec focuses on Mexican and endangered species education—conservation-focused learning for environmentally-conscious kids.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zoo%20of%20Mexico%20City&center=19.4265,-99.1865"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zoo%20of%20Mexico%20City&center=19.423208499999998,-99.1895256",
+      "placeId": "ChIJwXColAIC0oURBKBWFzsqhkI",
+      "address": "Calz. Chivatito s/n, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Museo Tamayo (Kid Programs)",
       "coord": [
-        19.4308,
-        -99.1828
+        19.42572,
+        -99.181716
       ],
       "desc": "Contemporary art museum with children's programming",
       "longDesc": "This modern art museum offers engaging children's programs, interactive exhibits, and family-friendly exhibitions—inspiring young minds to appreciate cutting-edge creative expression and contemporary artistic vision.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Tamayo%20%28Kid%20Programs%29&center=19.4308,-99.1828"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Tamayo%20%28Kid%20Programs%29&center=19.42572,-99.181716",
+      "placeId": "ChIJS0th0lP_0YURUhbp0wYZ1Cw",
+      "address": "Av. P.º de la Reforma 51, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Museo de Arte Popular",
       "coord": [
-        19.4265,
-        -99.17
+        19.433735199999997,
+        -99.1462978
       ],
       "desc": "Folk art museum with colorful textiles, crafts, workshops",
       "longDesc": "This vibrant museum offers interactive craft workshops and colorful folk art exhibitions—hands-on creativity for artistic kids.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Popular&center=19.4265,-99.17"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Popular&center=19.433735199999997,-99.1462978",
+      "placeId": "ChIJnb61RNX40YURjLOqxoI9oh0",
+      "address": "Revillagigedo 11, Colonia Centro, Centro, Cuauhtémoc, 06050 Cuauhtémoc, CDMX, Mexico"
     },
     {
       "name": "Teotihuacán Pyramid Climbing",
       "coord": [
-        19.69,
-        -98.844
+        19.692395599999998,
+        -98.84360919999999
       ],
       "desc": "Ancient pyramids, hiking trails, archaeological learning",
       "longDesc": "Climbing Teotihuacán's massive pyramids combines physical adventure with ancient history—thrilling for adventurous kids and educational for curious minds.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Teotihuac%C3%A1n%20Pyramid%20Climbing&center=19.69,-98.844"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Teotihuac%C3%A1n%20Pyramid%20Climbing&center=19.692395599999998,-98.84360919999999",
+      "placeId": "ChIJ-Q-zXoTq0YUROAxtvosnhK0",
+      "address": "55800 San Juan Teotihuacán, State of Mexico, Mexico"
     },
     {
       "name": "Frida Kahlo Museum (Kid Tours)",
       "coord": [
-        19.4159,
-        -99.1461
+        19.3551806,
+        -99.1624636
       ],
       "desc": "Kid-friendly museum tours, artist biography, art appreciation",
       "longDesc": "This museum offers age-appropriate tours of Frida's life and work—inspiring young minds to appreciate artistic expression and personal courage.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frida%20Kahlo%20Museum%20%28Kid%20Tours%29&center=19.4159,-99.1461"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frida%20Kahlo%20Museum%20%28Kid%20Tours%29&center=19.3551806,-99.1624636",
+      "placeId": "ChIJOz-6AMT_0YURofTM9_ekAWI",
+      "address": "Londres 247, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Ghibli Museum (Temporary Mexico Exhibits)",
@@ -1613,339 +1927,407 @@
       ],
       "desc": "Animation museum experiences, interactive art installations",
       "longDesc": "This museum celebrates animation and interactive art—immersive creative experiences that enchant kids and inspire artistic interest.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%20%28Temporary%20Mexico%20Exhibits%29&center=19.428,-99.15"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%20%28Temporary%20Mexico%20Exhibits%29&center=19.428,-99.15",
+      "placeId": "ChIJLYwD5TTuGGARBZKEP5BV4U0",
+      "address": "1-chōme-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan"
     },
     {
       "name": "Xochimilco Boat Tours",
       "coord": [
-        19.2756,
-        -99.097
+        19.2646808,
+        -99.1079586
       ],
       "desc": "Floating gardens, colorful boats, island exploration",
       "longDesc": "These Aztec floating gardens offer colorful boat tours through island gardens and waterways—magical and enchanting for adventurous young explorers.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xochimilco%20Boat%20Tours&center=19.2756,-99.097"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Xochimilco%20Boat%20Tours&center=19.2646808,-99.1079586",
+      "placeId": "ChIJYb2NdPIDzoUR2SRfA8TiQ38",
+      "address": "Av. Guadalupe I. Ramírez s/n, San Juan, Xochimilco, 16000 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Bioluminescent Bay (Puerto Escondido)",
       "coord": [
-        15.8667,
-        -97.0667
+        15.9384005,
+        -97.1585391
       ],
       "desc": "Glowing water phenomenon, kayaking, natural wonder",
       "longDesc": "This magical bioluminescent bay glows with living light when disturbed—a mystical natural experience kids find absolutely enchanting.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bioluminescent%20Bay%20%28Puerto%20Escondido%29&center=15.8667,-97.0667"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bioluminescent%20Bay%20%28Puerto%20Escondido%29&center=15.9384005,-97.1585391",
+      "placeId": "ChIJEzdMHkNZuIURXUpiUsI3iVs",
+      "address": "71996, Aguaje el zapote, 71996 Puerto Escondido, Oax., Mexico"
     },
     {
       "name": "Palenque with Kid-Friendly Trails",
       "coord": [
-        17.4845,
-        -92.0456
+        17.4869725,
+        -92.0502806
       ],
       "desc": "Maya ruins with accessible jungle trails, family exploration",
       "longDesc": "Palenque's accessible trails through jungle ruins offer adventure, archaeology, and nature exploration—perfect for active, curious kids.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palenque%20with%20Kid-Friendly%20Trails&center=17.4845,-92.0456"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palenque%20with%20Kid-Friendly%20Trails&center=17.4869725,-92.0502806",
+      "placeId": "ChIJmxN4zL5E8oURjIDGxs5n0nQ",
+      "address": "Ruinas-Palenque, 29960 Chis., Mexico"
     },
     {
       "name": "Cooking Classes for Kids (Oaxaca)",
       "coord": [
-        17.065,
-        -96.726
+        17.0672359,
+        -96.7329154
       ],
       "desc": "Hands-on Oaxacan cooking workshops for children",
       "longDesc": "These interactive cooking workshops teach kids traditional Oaxacan recipes and techniques—delicious learning for food-curious families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cooking%20Classes%20for%20Kids%20%28Oaxaca%29&center=17.065,-96.726"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cooking%20Classes%20for%20Kids%20%28Oaxaca%29&center=17.0672359,-96.7329154",
+      "placeId": "ChIJAzZ6zAcix4URatuke--685Q",
+      "address": "Panorámica del Fortín, Faldas del Fortin, 68140 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Butterfly Sanctuary (Oaxaca)",
       "coord": [
-        17.05,
-        -96.75
+        19.5882391,
+        -100.2674864
       ],
       "desc": "Monarch butterfly habitat, seasonal migration, nature walks",
       "longDesc": "Oaxaca's butterfly sanctuaries showcase the stunning monarch migration phenomenon—a natural wonder that captivates every young naturalist and teaches children about ecological importance and transformation.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Butterfly%20Sanctuary%20%28Oaxaca%29&center=17.05,-96.75"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Butterfly%20Sanctuary%20%28Oaxaca%29&center=19.5882391,-100.2674864",
+      "placeId": "ChIJv0_vriO-0oURwNekR5n86ak",
+      "address": "61467 Manzana Rancho Escondido, 61467 Mineral de Angangueo, Mich., Mexico"
     },
     {
       "name": "Cable Car rides (Guanajuato)",
       "coord": [
-        21.0154,
-        -101.2567
+        21.0148895,
+        -101.253171
       ],
       "desc": "Historic cable cars over colorful cityscape, scenic views",
       "longDesc": "Guanajuato's cable car rides offer thrilling views over the iconic colorful city—exciting ride and panoramic sightseeing for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cable%20Car%20rides%20%28Guanajuato%29&center=21.0154,-101.2567"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cable%20Car%20rides%20%28Guanajuato%29&center=21.0148895,-101.253171",
+      "placeId": "ChIJxZslkgd0K4QRxHnojWEzoIQ",
+      "address": "De La Constancia 17, Zona Centro, 36000 Guanajuato, Gto., Mexico"
     },
     {
       "name": "Mineral Museum (Guanajuato)",
       "coord": [
-        21.016,
-        -101.256
+        21.0271786,
+        -101.26124349999999
       ],
       "desc": "Geological specimens, mining heritage, interactive exhibits",
       "longDesc": "This mineral museum showcases geological wonders and mining heritage—educational and visually stunning for geology-curious kids.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mineral%20Museum%20%28Guanajuato%29&center=21.016,-101.256"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mineral%20Museum%20%28Guanajuato%29&center=21.0271786,-101.26124349999999",
+      "placeId": "ChIJ6_xsIw10K4QR3wznSAY5Q3c",
+      "address": "36400, Panorámica San Matías, San Javier, 36000 Guanajuato, Gto., Mexico"
     },
     {
       "name": "Silver Crafting Workshops (Taxco)",
       "coord": [
-        18.5667,
-        -99.6167
+        18.557118799999998,
+        -99.60571379999999
       ],
       "desc": "Watch silversmiths at work, purchase handcrafted jewelry",
       "longDesc": "Taxco's silversmith workshops let families observe and purchase handcrafted jewelry—cultural education combined with souvenir shopping.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Silver%20Crafting%20Workshops%20%28Taxco%29&center=18.5667,-99.6167"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Silver%20Crafting%20Workshops%20%28Taxco%29&center=18.557118799999998,-99.60571379999999",
+      "placeId": "ChIJdSRDVTlLzIURjf7Q2azwEbk",
+      "address": "Guillermo Spratling, Centro, 40250 Taxco de Alarcón, Gro., Mexico"
     }
   ],
   "markets": [
     {
       "name": "Mercado de la Merced",
       "coord": [
-        19.4333,
-        -99.1222
+        19.426112399999997,
+        -99.1251527
       ],
       "desc": "World's largest open-air market, produce, crafts, chaos",
       "longDesc": "One of the world's largest open-air markets sprawls across entire blocks—overflowing with vibrant produce and local energy, a sensory feast for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20la%20Merced&center=19.4333,-99.1222"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20la%20Merced&center=19.426112399999997,-99.1251527",
+      "placeId": "ChIJb8brj_n_0YURP6P7j8_u4J0",
+      "address": "Circunvalación, La Merced, Zona Centro, Venustiano Carranza, 15100 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "La Lagunilla Market",
       "coord": [
-        19.4416,
-        -99.1416
+        19.4432808,
+        -99.1361326
       ],
       "desc": "Historic weekend market, antiques, crafts, vintage finds",
       "longDesc": "This historic weekend market is packed with vintage finds, handcrafted goods, and local character—perfect for families seeking authentic souvenirs and discovery.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Lagunilla%20Market&center=19.4416,-99.1416"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Lagunilla%20Market&center=19.4432808,-99.1361326",
+      "placeId": "ChIJaXfBfPz60YURskrT48VwQKo",
+      "address": "López Rayón 46 lote 1 Y, Saliendo Del Metro Lagunilla Garibaldi, C. Allende local 979 y 980, entre entrada 4 y 5, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Tulum Artisan Market",
       "coord": [
-        20.218,
-        -87.44
+        20.217935,
+        -87.436258
       ],
       "desc": "Local crafts and souvenirs from Tulum artisans",
       "longDesc": "This curated collection of locally made crafts offers families the chance to support local makers while finding beautiful, meaningful pieces to remember trips.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tulum%20Artisan%20Market&center=20.218,-87.44"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tulum%20Artisan%20Market&center=20.217935,-87.436258",
+      "placeId": "ChIJCcSIRd_TT48R3KbWsx-425E",
+      "address": "Carr. Tulum - Cancún 307, Crucero Zona Arqueologica, 77780 Tulum, Q.R., Mexico"
     },
     {
       "name": "Mercado Benito Juárez (Oaxaca)",
       "coord": [
-        17.0675,
-        -96.7245
+        17.0589907,
+        -96.7266697
       ],
       "desc": "Historic market in Oaxaca, textiles, crafts, regional foods",
       "longDesc": "This vibrant market in Oaxaca's center showcases textiles, regional foods, and crafts—authentic cultural marketplace for families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Benito%20Ju%C3%A1rez%20%28Oaxaca%29&center=17.0675,-96.7245"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Benito%20Ju%C3%A1rez%20%28Oaxaca%29&center=17.0589907,-96.7266697",
+      "placeId": "ChIJo-u0OEAix4UR0FQr12-LaHE",
+      "address": "Las Casas S/N, OAX_RE_BENITO JUAREZ, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Central de Abastos (Oaxaca)",
       "coord": [
-        17.07,
-        -96.72
+        17.0594267,
+        -96.7342711
       ],
       "desc": "Enormous traditional market, mole, mezcal, indigenous crafts",
       "longDesc": "Oaxaca's massive market showcases regional ingredients, mole pastes, mezcal, and indigenous crafts—overwhelming sensory and cultural immersion.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20de%20Abastos%20%28Oaxaca%29&center=17.07,-96.72"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20de%20Abastos%20%28Oaxaca%29&center=17.0594267,-96.7342711",
+      "placeId": "ChIJg4Uygmwix4URG_t6zCQPr8k",
+      "address": "Juárez Maza, Central de Abasto, 68090 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Mercado Benito Juárez (San Miguel de Allende)",
       "coord": [
-        20.915,
-        -100.75
+        20.908673699999998,
+        -100.7428814
       ],
       "desc": "Artisan market in San Miguel, local crafts, arts community",
       "longDesc": "This artist-community market showcases local crafts and art—perfect for families supporting San Miguel's creative community.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Benito%20Ju%C3%A1rez%20%28San%20Miguel%20de%20Allende%29&center=20.915,-100.75"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Benito%20Ju%C3%A1rez%20%28San%20Miguel%20de%20Allende%29&center=20.908673699999998,-100.7428814",
+      "placeId": "ChIJzbWsUqVRK4QRU9_bhc17hWk",
+      "address": "Cañadita de los Aguacates 75, Zona Centro, 37700 San Miguel de Allende, Gto., Mexico"
     },
     {
       "name": "Mercado del Carmen (Puebla)",
       "coord": [
-        19.034,
-        -98.2075
+        19.0356859,
+        -98.2011297
       ],
       "desc": "Historic market in colonial Puebla, regional foods, crafts",
       "longDesc": "This colonial-era market showcases Puebla's regional foods, traditional crafts, and historic atmosphere—cultural centerpiece for curious families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20del%20Carmen%20%28Puebla%29&center=19.034,-98.2075"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20del%20Carmen%20%28Puebla%29&center=19.0356859,-98.2011297",
+      "placeId": "ChIJdV0jcO3Bz4URv_bp01UEKXs",
+      "address": "Av. 21 Ote. 201-215, El Carmen, 72530 Heroica Puebla de Zaragoza, Pue., Mexico"
     },
     {
       "name": "Mercado Lucas de Galvez (Mérida)",
       "coord": [
-        20.969,
-        -89.625
+        20.9638942,
+        -89.6212077
       ],
       "desc": "Historic market in Mérida, Yucatán foods, textiles",
       "longDesc": "This historic market showcases Yucatán's unique foods, textiles, and crafts—essential for understanding the peninsula's distinct culture.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Lucas%20de%20Galvez%20%28M%C3%A9rida%29&center=20.969,-89.625"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Lucas%20de%20Galvez%20%28M%C3%A9rida%29&center=20.9638942,-89.6212077",
+      "placeId": "ChIJa7scaWNxVo8RI2wUOOLzGQ4",
+      "address": "Mercado Lucas De Galvéz, C. 65A, Centro, 97000 Mérida, Yuc., Mexico"
     },
     {
       "name": "Mercado 20 de Noviembre (Oaxaca)",
       "coord": [
-        17.067,
-        -96.726
+        17.058032700000002,
+        -96.72708519999999
       ],
       "desc": "Traditional market with mole makers, chocolate, regional crafts",
       "longDesc": "This market features artisans making mole from scratch, chocolate, and traditional crafts—working cultural heritage families can witness.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%2020%20de%20Noviembre%20%28Oaxaca%29&center=17.067,-96.726"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%2020%20de%20Noviembre%20%28Oaxaca%29&center=17.058032700000002,-96.72708519999999",
+      "placeId": "ChIJMQzuIkAix4URds0rimieBR0",
+      "address": "20 de Noviembre 512, OAX_RE_BENITO JUAREZ, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Mercado Chapultepec (Mexico City)",
       "coord": [
-        19.429,
-        -99.1885
+        19.410681699999998,
+        -99.1904983
       ],
       "desc": "Food market near Chapultepec, fresh produce, street food",
       "longDesc": "This neighborhood market showcases fresh produce and authentic street food—perfect for families exploring Mexico City's casual food culture.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Chapultepec%20%28Mexico%20City%29&center=19.429,-99.1885"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Chapultepec%20%28Mexico%20City%29&center=19.410681699999998,-99.1904983",
+      "placeId": "ChIJhfjp2uEB0oURAlR4rf8pu40",
+      "address": "Gobernador Melchor Muzquiz S/N, San Miguel Chapultepec I Secc, Miguel Hidalgo, 11840 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Mercado Roma",
       "coord": [
-        19.431,
-        -99.165
+        19.414186,
+        -99.16455470000001
       ],
       "desc": "Modern artisan market in Roma neighborhood, foods, crafts",
       "longDesc": "This contemporary market celebrates artisanal foods and crafts from across Mexico—modern take on traditional markets for cultural exploration.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Roma&center=19.431,-99.165"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Roma&center=19.414186,-99.16455470000001",
+      "placeId": "ChIJ0Z9P0z7_0YURVqrnz-OpFms",
+      "address": "C. Querétaro 225, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico"
     },
     {
       "name": "Bazar del Sábado (San Miguel de Allende)",
       "coord": [
-        20.91,
-        -100.76
+        20.9090614,
+        -100.74729800000001
       ],
       "desc": "Saturday artisan market, local artists, live music",
       "longDesc": "This weekend artisan market features local artists, crafts, and live music—authentic cultural gathering for adventurous shopping families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bazar%20del%20S%C3%A1bado%20%28San%20Miguel%20de%20Allende%29&center=20.91,-100.76"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bazar%20del%20S%C3%A1bado%20%28San%20Miguel%20de%20Allende%29&center=20.9090614,-100.74729800000001",
+      "placeId": "ChIJRZBruHNRK4QRxU7mICIJHY4",
+      "address": "Ancha de San Antonio 11, Zona Centro, 37700 San Miguel de Allende, Gto., Mexico"
     },
     {
       "name": "Mercado de Abastos (Tlaxcala)",
       "coord": [
-        19.3167,
-        -98.2333
+        18.871332499999998,
+        -98.45141860000001
       ],
       "desc": "Traditional market with pulque, mole, regional specialties",
       "longDesc": "This traditional market showcases Tlaxcala's unique foods and pulque tradition—cultural gateway to understanding central Mexico's heritage.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20Abastos%20%28Tlaxcala%29&center=19.3167,-98.2333"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20Abastos%20%28Tlaxcala%29&center=18.871332499999998,-98.45141860000001",
+      "placeId": "ChIJG7NCl-yzz4URVMbQGSZd2kc",
+      "address": "Blvrd Ferrocarriles, La Trinidad Tepango, 74365 Atlixco, Pue., Mexico"
     },
     {
       "name": "Mercado Morelos (Cuernavaca)",
       "coord": [
-        18.9229,
-        -99.2421
+        18.925977600000003,
+        -99.2337902
       ],
       "desc": "Colorful market in Cuernavaca, flowers, fruits, crafts",
       "longDesc": "This vibrant Cuernavaca market displays colorful flowers, fresh fruits, and artisan crafts—charming for families exploring colonial towns.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Morelos%20%28Cuernavaca%29&center=18.9229,-99.2421"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Morelos%20%28Cuernavaca%29&center=18.925977600000003,-99.2337902",
+      "placeId": "ChIJ6QM7hrPfzYURL0boRoyPSmE",
+      "address": "Mercado, Av. Adolfo López Mateos, Cuernavaca Centro, Centro, 62000 Cuernavaca, Mor., Mexico"
     },
     {
       "name": "Plaza de las Flores (Cancun)",
       "coord": [
-        21.16,
-        -86.85
+        21.1620751,
+        -86.9102676
       ],
       "desc": "Artisan market near Cancun, local crafts, souvenirs",
       "longDesc": "This tourist-friendly artisan market showcases local crafts at reasonable prices—convenient souvenir shopping for Riviera Maya families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza%20de%20las%20Flores%20%28Cancun%29&center=21.16,-86.85"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza%20de%20las%20Flores%20%28Cancun%29&center=21.1620751,-86.9102676",
+      "placeId": "ChIJW_HhzVfTTY8R2wMVAjPPYok",
+      "address": "Sergio Flores Supermanzana 203, 77539 Cancún, Q.R., Mexico"
     },
     {
       "name": "Mercado Municipal (Playa del Carmen)",
       "coord": [
-        20.63,
-        -87.075
+        20.6261741,
+        -87.074912
       ],
       "desc": "Local market with fresh foods, regional products",
       "longDesc": "This authentic local market showcases fresh foods and regional products—genuine shopping experience for families avoiding tourist traps.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Municipal%20%28Playa%20del%20Carmen%29&center=20.63,-87.075"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Municipal%20%28Playa%20del%20Carmen%29&center=20.6261741,-87.074912",
+      "placeId": "ChIJqSJ-S7ZDTo8RAqkmkptUHF8",
+      "address": "Centro, 77710 Playa del Carmen, Q.R., Mexico"
     },
     {
       "name": "Teotihuacán Artisan Market",
       "coord": [
-        19.69,
-        -98.844
+        19.690459,
+        -98.851507
       ],
       "desc": "Market outside pyramid ruins, local crafts, obsidian jewelry",
       "longDesc": "This market just outside Teotihuacán showcases local obsidian jewelry and crafts—convenient souvenir shopping after archaeological exploration.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Teotihuac%C3%A1n%20Artisan%20Market&center=19.69,-98.844"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Teotihuac%C3%A1n%20Artisan%20Market&center=19.690459,-98.851507",
+      "placeId": "ChIJT16G57br0YURM5XyZFaygXs",
+      "address": "México 132 101, Purificacion, 55800 Teotihuacán de Arista, Méx., Mexico"
     },
     {
       "name": "Mercado de Dulces (Oaxaca)",
       "coord": [
-        17.066,
-        -96.725
+        17.068666399999998,
+        -96.7257308
       ],
       "desc": "Traditional sweets market, chocolate, candies, pan de muerto",
       "longDesc": "This sweet shop market showcases Oaxaca's famous candy and chocolate traditions—delicious cultural experience families adore.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20Dulces%20%28Oaxaca%29&center=17.066,-96.725"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20Dulces%20%28Oaxaca%29&center=17.068666399999998,-96.7257308",
+      "placeId": "ChIJg3CttD0ix4URTQkFSicU6rI",
+      "address": "Calle Porfirio Díaz, Calle de Tinoco y Palacios 719, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Mercado Junín (Guanajuato)",
       "coord": [
-        21.016,
-        -101.256
+        21.017469,
+        -101.25813079999999
       ],
       "desc": "Food market in Guanajuato, regional foods, local specialties",
       "longDesc": "This Guanajuato market showcases regional foods, local specialties, and artisan crafts—cultural introduction to central Mexican gastronomy and culinary traditions for adventurous food-loving families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Jun%C3%ADn%20%28Guanajuato%29&center=21.016,-101.256"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Jun%C3%ADn%20%28Guanajuato%29&center=21.017469,-101.25813079999999",
+      "placeId": "ChIJjQ2UmiZ1K4QR5PxTzOrPqvU",
+      "address": "Av. Benito Juárez Mercado, Hidalgo, 36000 Guanajuato, Gto., Mexico"
     },
     {
       "name": "Mercado 5 de Mayo (Puerto Vallarta)",
       "coord": [
-        20.62,
-        -105.26
+        20.620021899999998,
+        -105.22522130000002
       ],
       "desc": "Beachfront market with fresh seafood, crafts, artwork",
       "longDesc": "This Puerto Vallarta market combines fresh seafood and local artwork—cultural hub for Pacific coast exploring families.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%205%20de%20Mayo%20%28Puerto%20Vallarta%29&center=20.62,-105.26"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%205%20de%20Mayo%20%28Puerto%20Vallarta%29&center=20.620021899999998,-105.22522130000002",
+      "placeId": "ChIJv2EPoF5FIYQRMqjechvQZo0",
+      "address": "San Salvador s/n, 5 de Diciembre, 48350 Puerto Vallarta, Jal., Mexico"
     },
     {
       "name": "Boutique Mezcal Shops (Oaxaca)",
       "coord": [
-        17.065,
-        -96.726
+        17.0643685,
+        -96.72602239999999
       ],
       "desc": "Artisanal mezcal vendors, tasting, distillery selection",
       "longDesc": "Oaxaca's mezcal shops offer tastings and education about Mexico's heritage spirit—perfect for families learning about regional traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Boutique%20Mezcal%20Shops%20%28Oaxaca%29&center=17.065,-96.726"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Boutique%20Mezcal%20Shops%20%28Oaxaca%29&center=17.0643685,-96.72602239999999",
+      "placeId": "ChIJ-RqVhc0jx4URJ31GDeA7dRE",
+      "address": "Mariano Matamoros 203, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Chocolate Workshops (Oaxaca)",
       "coord": [
-        17.064,
-        -96.728
+        17.0633941,
+        -96.7232181
       ],
       "desc": "Hands-on chocolate making workshops, traditional methods",
       "longDesc": "These chocolate workshops teach traditional Oaxacan chocolate-making techniques using indigenous cacao and heritage methods—delicious hands-on learning for families passionate about culinary arts and cultural traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chocolate%20Workshops%20%28Oaxaca%29&center=17.064,-96.728"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chocolate%20Workshops%20%28Oaxaca%29&center=17.0633941,-96.7232181",
+      "placeId": "ChIJMTUMs7Ejx4URS03PUVxsHkw",
+      "address": "5 de Mayo 210, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
     },
     {
       "name": "Mercado de Abastos (Merida)",
       "coord": [
-        20.969,
-        -89.625
+        20.986214699999998,
+        -89.6641358
       ],
       "desc": "Large traditional market, Yucatán specialty foods",
       "longDesc": "This Mérida market showcases Yucatán's distinctive foods, regional products, and artisan crafts—essential for understanding the peninsula's unique culture and culinary heritage through authentic marketplace discovery.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20Abastos%20%28Merida%29&center=20.969,-89.625"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20Abastos%20%28Merida%29&center=20.986214699999998,-89.6641358",
+      "placeId": "ChIJuY5XIHhzVo8R3XYG5Q-9gIg",
+      "address": "Calle 128A No. 261, Yucalpetén, 97238 Mérida, Yuc., Mexico"
     },
     {
       "name": "Artisan Textile Markets (San Cristóbal)",
       "coord": [
-        16.7282,
-        -92.6376
+        16.7406385,
+        -92.6377986
       ],
       "desc": "Indigenous textile markets, colorful weaving, traditional crafts",
       "longDesc": "San Cristóbal's markets showcase indigenous textiles, traditional weaving techniques, and vibrant handcrafted goods—cultural immersion supporting local artisan communities and preserving indigenous artistic traditions.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Artisan%20Textile%20Markets%20%28San%20Crist%C3%B3bal%29&center=16.7282,-92.6376"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Artisan%20Textile%20Markets%20%28San%20Crist%C3%B3bal%29&center=16.7406385,-92.6377986",
+      "placeId": "ChIJWQC4QD1F7YURTyUsymprXPE",
+      "address": "29240, C. Escuadrón 201 6B, Barrio de Mexicanos, 29220 San Cristóbal de las Casas, Chis., Mexico"
     },
     {
       "name": "Papier-Mâché Workshops (Mexico City)",
       "coord": [
-        19.43,
-        -99.15
+        19.429593099999998,
+        -99.13089370000002
       ],
       "desc": "Folk art workshops, colorful papier-mâché crafts",
       "longDesc": "These workshops teach traditional Mexican papier-mâché crafts—hands-on cultural learning families enjoy and take home as treasured souvenirs.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Papier-M%C3%A2ch%C3%A9%20Workshops%20%28Mexico%20City%29&center=19.43,-99.15"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Papier-M%C3%A2ch%C3%A9%20Workshops%20%28Mexico%20City%29&center=19.429593099999998,-99.13089370000002",
+      "placeId": "ChIJE0xSRMz-0YURc28PMWdxw-c",
+      "address": "República de Uruguay 127, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, Mexico"
     }
   ],
   "cityCenters": {
@@ -2028,40 +2410,40 @@
               "type": "hotel",
               "name": "Four Seasons Mexico City",
               "coord": [
-                19.431,
-                -99.1898
+                19.4232659,
+                -99.17437129999999
               ]
             },
             {
               "type": "lunch",
               "name": "Pujol",
               "coord": [
-                19.436,
-                -99.185
+                19.432376299999998,
+                -99.1948132
               ]
             },
             {
               "type": "sightseeing",
               "name": "Templo Mayor",
               "coord": [
-                19.4383,
-                -99.1367
+                19.434603799999998,
+                -99.13188099999999
               ]
             },
             {
               "type": "sightseeing",
               "name": "Palacio Nacional",
               "coord": [
-                19.4326,
-                -99.1333
+                19.4328868,
+                -99.1313531
               ]
             },
             {
               "type": "dinner",
               "name": "Quintonil",
               "coord": [
-                19.4342,
-                -99.1672
+                19.4308408,
+                -99.1917115
               ]
             }
           ]
@@ -2074,32 +2456,32 @@
               "type": "breakfast",
               "name": "Casa Campos",
               "coord": [
-                19.4335,
-                -99.135
+                19.4332852,
+                -99.13554579999999
               ]
             },
             {
               "type": "sightseeing",
               "name": "Museo de Antropología",
               "coord": [
-                19.4283,
-                -99.1882
+                19.426003200000004,
+                -99.1862786
               ]
             },
             {
               "type": "sightseeing",
               "name": "Chapultepec Park",
               "coord": [
-                19.4265,
-                -99.1865
+                19.4194815,
+                -99.18945579999999
               ]
             },
             {
               "type": "lunch",
               "name": "Contramar",
               "coord": [
-                19.345,
-                -99.215
+                19.4195793,
+                -99.1671526
               ]
             },
             {
@@ -2114,8 +2496,8 @@
               "type": "dinner",
               "name": "Sud 777",
               "coord": [
-                19.428,
-                -99.164
+                19.3090281,
+                -99.2093428
               ]
             }
           ]
@@ -2128,16 +2510,16 @@
               "type": "breakfast",
               "name": "Four Seasons Mexico City",
               "coord": [
-                19.431,
-                -99.1898
+                19.4232659,
+                -99.17437129999999
               ]
             },
             {
               "type": "sightseeing",
               "name": "Teotihuacán",
               "coord": [
-                19.69,
-                -98.844
+                19.6860799,
+                -98.87163609999999
               ]
             },
             {
@@ -2160,8 +2542,8 @@
               "type": "dinner",
               "name": "Rosetta",
               "coord": [
-                19.4298,
-                -99.1587
+                19.4197758,
+                -99.1598009
               ]
             }
           ]
@@ -2174,24 +2556,24 @@
               "type": "hotel",
               "name": "Casa Cinnamon",
               "coord": [
-                17.0672,
-                -96.7234
+                17.068796799999998,
+                -96.71785229999999
               ]
             },
             {
               "type": "lunch",
               "name": "Casa Oaxaca",
               "coord": [
-                17.0625,
-                -96.7275
+                17.065218299999998,
+                -96.7222793
               ]
             },
             {
               "type": "sightseeing",
               "name": "Monte Albán",
               "coord": [
-                17.068,
-                -96.721
+                17.046592699999998,
+                -96.76588439999999
               ]
             },
             {
@@ -2206,8 +2588,8 @@
               "type": "dinner",
               "name": "Donají",
               "coord": [
-                17.065,
-                -96.726
+                17.0564781,
+                -96.72985829999999
               ]
             }
           ]
@@ -2220,8 +2602,8 @@
               "type": "breakfast",
               "name": "Cafetería Brújula",
               "coord": [
-                17.0628,
-                -96.728
+                17.0625852,
+                -96.72436710000001
               ]
             },
             {
@@ -2236,8 +2618,8 @@
               "type": "lunch",
               "name": "Abacus Oaxaca",
               "coord": [
-                17.0635,
-                -96.727
+                17.0647238,
+                -96.7248565
               ]
             },
             {
@@ -2252,8 +2634,8 @@
               "type": "dinner",
               "name": "Guelaguetza",
               "coord": [
-                17.067,
-                -96.7255
+                17.0686803,
+                -96.73102
               ]
             }
           ]
@@ -2266,24 +2648,24 @@
               "type": "hotel",
               "name": "Azulik Tulum",
               "coord": [
-                20.233,
-                -87.389
+                20.179156,
+                -87.4456393
               ]
             },
             {
               "type": "lunch",
               "name": "Hartwood",
               "coord": [
-                20.2098,
-                -87.4635
+                20.149875599999998,
+                -87.459374
               ]
             },
             {
               "type": "sightseeing",
               "name": "Tulum Ruins",
               "coord": [
-                20.2113,
-                -87.4142
+                20.2149504,
+                -87.4294212
               ]
             },
             {
@@ -2298,8 +2680,8 @@
               "type": "dinner",
               "name": "Los Tacos de Pablo",
               "coord": [
-                20.2105,
-                -87.4625
+                20.7273276,
+                -103.39314279999999
               ]
             }
           ]
@@ -2312,32 +2694,32 @@
               "type": "breakfast",
               "name": "Azulik Tulum",
               "coord": [
-                20.233,
-                -87.389
+                20.179156,
+                -87.4456393
               ]
             },
             {
               "type": "optional",
               "name": "Xcaret Park",
               "coord": [
-                20.64,
-                -87.06
+                20.5809134,
+                -87.119698
               ]
             },
             {
               "type": "lunch",
               "name": "Playa Blanca",
               "coord": [
-                20.6296,
-                -87.0739
+                20.6641055,
+                -87.0702449
               ]
             },
             {
               "type": "sightseeing",
               "name": "Chichén Itzá",
               "coord": [
-                20.6829,
-                -87.5479
+                20.684284899999998,
+                -88.5677826
               ]
             },
             {
@@ -2352,8 +2734,8 @@
               "type": "dinner",
               "name": "Restaurante Bar El Capitán",
               "coord": [
-                20.2102,
-                -87.4624
+                20.210382199999998,
+                -87.4520433
               ]
             }
           ]
@@ -2372,16 +2754,16 @@
               "type": "hotel",
               "name": "Belmond Casa de Sierra Nevada",
               "coord": [
-                20.9138,
-                -100.7508
+                20.9127691,
+                -100.74231789999999
               ]
             },
             {
               "type": "lunch",
               "name": "Café Santa Ana",
               "coord": [
-                20.9145,
-                -100.752
+                20.916864399999998,
+                -100.7431936
               ]
             },
             {
@@ -2396,8 +2778,8 @@
               "type": "dinner",
               "name": "Mi Cocina",
               "coord": [
-                20.915,
-                -100.75
+                20.920625,
+                -100.7563105
               ]
             }
           ]
@@ -2410,8 +2792,8 @@
               "type": "breakfast",
               "name": "Luna Café",
               "coord": [
-                20.914,
-                -100.7505
+                20.9183563,
+                -100.74922649999999
               ]
             },
             {
@@ -2426,8 +2808,8 @@
               "type": "lunch",
               "name": "Coni",
               "coord": [
-                20.9155,
-                -100.751
+                21.080014400000003,
+                -101.6504303
               ]
             },
             {
@@ -2442,8 +2824,8 @@
               "type": "dinner",
               "name": "El Pegote",
               "coord": [
-                20.916,
-                -100.748
+                -34.3798963,
+                -58.5832368
               ]
             }
           ]
@@ -2456,16 +2838,16 @@
               "type": "hotel",
               "name": "Misión Guanajuato",
               "coord": [
-                21.0154,
-                -101.2567
+                21.0094623,
+                -101.273056
               ]
             },
             {
               "type": "lunch",
               "name": "Casa del Conde",
               "coord": [
-                21.0155,
-                -101.2565
+                21.017076799999998,
+                -101.2543807
               ]
             },
             {
@@ -2488,8 +2870,8 @@
               "type": "dinner",
               "name": "Restaurante Guanajuato",
               "coord": [
-                21.016,
-                -101.256
+                21.0159928,
+                -101.2513498
               ]
             }
           ]
@@ -2502,8 +2884,8 @@
               "type": "breakfast",
               "name": "Taco Taco Cafe",
               "coord": [
-                21.015,
-                -101.257
+                21.017309299999997,
+                -101.2570968
               ]
             },
             {
@@ -2518,8 +2900,8 @@
               "type": "lunch",
               "name": "Casa del Conde",
               "coord": [
-                21.0155,
-                -101.2565
+                21.017076799999998,
+                -101.2543807
               ]
             },
             {
@@ -2534,8 +2916,8 @@
               "type": "dinner",
               "name": "Restaurante Guanajuato",
               "coord": [
-                21.016,
-                -101.256
+                21.0159928,
+                -101.2513498
               ]
             }
           ]
@@ -2548,16 +2930,16 @@
               "type": "hotel",
               "name": "Coyote Nativo Oaxaca",
               "coord": [
-                17.0643,
-                -96.7278
+                17.067392899999998,
+                -96.71750929999999
               ]
             },
             {
               "type": "lunch",
               "name": "Casa Crespo Restaurant",
               "coord": [
-                17.0614,
-                -96.7288
+                17.069992799999998,
+                -96.7210015
               ]
             },
             {
@@ -2572,8 +2954,8 @@
               "type": "dinner",
               "name": "Hidalgo",
               "coord": [
-                17.0658,
-                -96.725
+                17.051425599999998,
+                -96.7268204
               ]
             }
           ]
@@ -2586,8 +2968,8 @@
               "type": "breakfast",
               "name": "Cafetería Brújula",
               "coord": [
-                17.0628,
-                -96.728
+                17.0625852,
+                -96.72436710000001
               ]
             },
             {
@@ -2602,8 +2984,8 @@
               "type": "lunch",
               "name": "Mezcaleria Zig-Zag",
               "coord": [
-                17.0645,
-                -96.7265
+                17.0622837,
+                -96.72198490000001
               ]
             },
             {
@@ -2618,8 +3000,8 @@
               "type": "dinner",
               "name": "Abacus Oaxaca",
               "coord": [
-                17.0635,
-                -96.727
+                17.0647238,
+                -96.7248565
               ]
             }
           ]
@@ -2632,8 +3014,8 @@
               "type": "breakfast",
               "name": "Ho'okah Boutique Hotel",
               "coord": [
-                17.0628,
-                -96.7265
+                39.6646962,
+                20.848853599999998
               ]
             },
             {
@@ -2648,8 +3030,8 @@
               "type": "lunch",
               "name": "Casa Oaxaca",
               "coord": [
-                17.0625,
-                -96.7275
+                17.065218299999998,
+                -96.7222793
               ]
             },
             {
@@ -2684,24 +3066,24 @@
               "type": "hotel",
               "name": "Four Seasons Mexico City",
               "coord": [
-                19.431,
-                -99.1898
+                19.4232659,
+                -99.17437129999999
               ]
             },
             {
               "type": "lunch",
               "name": "Rosetta",
               "coord": [
-                19.4298,
-                -99.1587
+                19.4197758,
+                -99.1598009
               ]
             },
             {
               "type": "sightseeing",
               "name": "Chapultepec Park",
               "coord": [
-                19.4265,
-                -99.1865
+                19.4194815,
+                -99.18945579999999
               ]
             },
             {
@@ -2730,32 +3112,32 @@
               "type": "breakfast",
               "name": "Four Seasons Mexico City",
               "coord": [
-                19.431,
-                -99.1898
+                19.4232659,
+                -99.17437129999999
               ]
             },
             {
               "type": "sightseeing",
               "name": "Zoo of Mexico City",
               "coord": [
-                19.4265,
-                -99.1865
+                19.423208499999998,
+                -99.1895256
               ]
             },
             {
               "type": "lunch",
               "name": "Mercado Roma",
               "coord": [
-                19.431,
-                -99.165
+                19.414186,
+                -99.16455470000001
               ]
             },
             {
               "type": "sightseeing",
               "name": "Museo de Arte Popular",
               "coord": [
-                19.4265,
-                -99.17
+                19.433735199999997,
+                -99.1462978
               ]
             },
             {
@@ -2770,8 +3152,8 @@
               "type": "dinner",
               "name": "Blanco Colima",
               "coord": [
-                19.4295,
-                -99.1613
+                19.419712399999998,
+                -99.15989359999999
               ]
             }
           ]
@@ -2784,8 +3166,8 @@
               "type": "breakfast",
               "name": "Four Seasons Mexico City",
               "coord": [
-                19.431,
-                -99.1898
+                19.4232659,
+                -99.17437129999999
               ]
             },
             {
@@ -2800,16 +3182,16 @@
               "type": "lunch",
               "name": "Tamayo",
               "coord": [
-                19.4332,
-                -99.1728
+                19.4607762,
+                -99.1423348
               ]
             },
             {
               "type": "sightseeing",
               "name": "Xochimilco Boat Tours",
               "coord": [
-                19.2756,
-                -99.097
+                19.2646808,
+                -99.1079586
               ]
             },
             {
@@ -2838,16 +3220,16 @@
               "type": "breakfast",
               "name": "Four Seasons Mexico City",
               "coord": [
-                19.431,
-                -99.1898
+                19.4232659,
+                -99.17437129999999
               ]
             },
             {
               "type": "sightseeing",
               "name": "Teotihuacán",
               "coord": [
-                19.69,
-                -98.844
+                19.6860799,
+                -98.87163609999999
               ]
             },
             {
@@ -2878,8 +3260,8 @@
               "type": "dinner",
               "name": "Perico",
               "coord": [
-                19.4312,
-                -99.1683
+                19.3897397,
+                -99.15959319999999
               ]
             }
           ]
@@ -2892,24 +3274,24 @@
               "type": "breakfast",
               "name": "Four Seasons Mexico City",
               "coord": [
-                19.431,
-                -99.1898
+                19.4232659,
+                -99.17437129999999
               ]
             },
             {
               "type": "hotel",
               "name": "Mahekal Beach Resort",
               "coord": [
-                20.1996,
-                -87.461
+                20.633880599999998,
+                -87.0637747
               ]
             },
             {
               "type": "lunch",
               "name": "Taco Stand Paradise",
               "coord": [
-                20.212,
-                -87.46
+                39.7493829,
+                -121.6326759
               ]
             },
             {
@@ -2932,8 +3314,8 @@
               "type": "dinner",
               "name": "Restaurante Bar El Capitán",
               "coord": [
-                20.2102,
-                -87.4624
+                20.210382199999998,
+                -87.4520433
               ]
             }
           ]
@@ -2946,24 +3328,24 @@
               "type": "breakfast",
               "name": "Mahekal Beach Resort",
               "coord": [
-                20.1996,
-                -87.461
+                20.633880599999998,
+                -87.0637747
               ]
             },
             {
               "type": "sightseeing",
               "name": "Tulum Ruins",
               "coord": [
-                20.2113,
-                -87.4142
+                20.2149504,
+                -87.4294212
               ]
             },
             {
               "type": "lunch",
               "name": "Los Tacos de Pablo",
               "coord": [
-                20.2105,
-                -87.4625
+                20.7273276,
+                -103.39314279999999
               ]
             },
             {
@@ -2986,8 +3368,8 @@
               "type": "dinner",
               "name": "Hartwood",
               "coord": [
-                20.2098,
-                -87.4635
+                20.149875599999998,
+                -87.459374
               ]
             }
           ]
@@ -3000,16 +3382,16 @@
               "type": "breakfast",
               "name": "Mahekal Beach Resort",
               "coord": [
-                20.1996,
-                -87.461
+                20.633880599999998,
+                -87.0637747
               ]
             },
             {
               "type": "sightseeing",
               "name": "Xcaret Park",
               "coord": [
-                20.64,
-                -87.06
+                20.5809134,
+                -87.119698
               ]
             },
             {
@@ -3040,8 +3422,8 @@
               "type": "dinner",
               "name": "Playa Blanca",
               "coord": [
-                20.6296,
-                -87.0739
+                20.6641055,
+                -87.0702449
               ]
             }
           ]
@@ -3054,16 +3436,16 @@
               "type": "breakfast",
               "name": "Mahekal Beach Resort",
               "coord": [
-                20.1996,
-                -87.461
+                20.633880599999998,
+                -87.0637747
               ]
             },
             {
               "type": "sightseeing",
               "name": "Chichén Itzá",
               "coord": [
-                20.6829,
-                -87.5479
+                20.684284899999998,
+                -88.5677826
               ]
             },
             {
@@ -3108,16 +3490,16 @@
               "type": "breakfast",
               "name": "Mahekal Beach Resort",
               "coord": [
-                20.1996,
-                -87.461
+                20.633880599999998,
+                -87.0637747
               ]
             },
             {
               "type": "sightseeing",
               "name": "Xel-Há Water Park",
               "coord": [
-                20.3514,
-                -87.3214
+                20.3193587,
+                -87.3578124
               ]
             },
             {
@@ -3162,8 +3544,8 @@
               "type": "breakfast",
               "name": "Mahekal Beach Resort",
               "coord": [
-                20.1996,
-                -87.461
+                20.633880599999998,
+                -87.0637747
               ]
             },
             {
@@ -3222,32 +3604,32 @@
               "type": "hotel",
               "name": "Condesa DF",
               "coord": [
-                19.4342,
-                -99.1698
+                19.4149803,
+                -99.17744619999999
               ]
             },
             {
               "type": "lunch",
               "name": "Rosetta",
               "coord": [
-                19.4298,
-                -99.1587
+                19.4197758,
+                -99.1598009
               ]
             },
             {
               "type": "sightseeing",
               "name": "Mercado de la Merced",
               "coord": [
-                19.4333,
-                -99.1222
+                19.426112399999997,
+                -99.1251527
               ]
             },
             {
               "type": "dinner",
               "name": "Pujol",
               "coord": [
-                19.436,
-                -99.185
+                19.432376299999998,
+                -99.1948132
               ]
             }
           ]
@@ -3268,32 +3650,32 @@
               "type": "sightseeing",
               "name": "Mercado Roma",
               "coord": [
-                19.431,
-                -99.165
+                19.414186,
+                -99.16455470000001
               ]
             },
             {
               "type": "lunch",
               "name": "Quintonil",
               "coord": [
-                19.4342,
-                -99.1672
+                19.4308408,
+                -99.1917115
               ]
             },
             {
               "type": "sightseeing",
               "name": "La Lagunilla Market",
               "coord": [
-                19.4416,
-                -99.1416
+                19.4432808,
+                -99.1361326
               ]
             },
             {
               "type": "dinner",
               "name": "Sud 777",
               "coord": [
-                19.428,
-                -99.164
+                19.3090281,
+                -99.2093428
               ]
             }
           ]
@@ -3314,8 +3696,8 @@
               "type": "lunch",
               "name": "Contramar",
               "coord": [
-                19.345,
-                -99.215
+                19.4195793,
+                -99.1671526
               ]
             },
             {
@@ -3330,8 +3712,8 @@
               "type": "dinner",
               "name": "Máximo Bistrot",
               "coord": [
-                19.4324,
-                -99.1587
+                19.4189482,
+                -99.1580841
               ]
             }
           ]
@@ -3344,32 +3726,32 @@
               "type": "breakfast",
               "name": "Condesa DF",
               "coord": [
-                19.4342,
-                -99.1698
+                19.4149803,
+                -99.17744619999999
               ]
             },
             {
               "type": "lunch",
               "name": "Merotoro",
               "coord": [
-                19.4345,
-                -99.165
+                19.4096588,
+                -99.1698509
               ]
             },
             {
               "type": "sightseeing",
               "name": "Museo de Antropología",
               "coord": [
-                19.4283,
-                -99.1882
+                19.426003200000004,
+                -99.1862786
               ]
             },
             {
               "type": "dinner",
               "name": "Biko",
               "coord": [
-                19.4366,
-                -99.1945
+                19.6231898,
+                -99.1598647
               ]
             }
           ]
@@ -3382,16 +3764,16 @@
               "type": "hotel",
               "name": "Casa Cinnamon",
               "coord": [
-                17.0672,
-                -96.7234
+                17.068796799999998,
+                -96.71785229999999
               ]
             },
             {
               "type": "lunch",
               "name": "Donají",
               "coord": [
-                17.065,
-                -96.726
+                17.0564781,
+                -96.72985829999999
               ]
             },
             {
@@ -3406,8 +3788,8 @@
               "type": "dinner",
               "name": "Casa Oaxaca",
               "coord": [
-                17.0625,
-                -96.7275
+                17.065218299999998,
+                -96.7222793
               ]
             }
           ]
@@ -3420,8 +3802,8 @@
               "type": "breakfast",
               "name": "Cafetería Brújula",
               "coord": [
-                17.0628,
-                -96.728
+                17.0625852,
+                -96.72436710000001
               ]
             },
             {
@@ -3436,8 +3818,8 @@
               "type": "lunch",
               "name": "Abacus Oaxaca",
               "coord": [
-                17.0635,
-                -96.727
+                17.0647238,
+                -96.7248565
               ]
             },
             {
@@ -3452,8 +3834,8 @@
               "type": "dinner",
               "name": "Hidalgo",
               "coord": [
-                17.0658,
-                -96.725
+                17.051425599999998,
+                -96.7268204
               ]
             }
           ]
@@ -3466,16 +3848,16 @@
               "type": "hotel",
               "name": "Hotel Royalty Puebla",
               "coord": [
-                19.0327,
-                -98.2062
+                19.044289,
+                -98.1981065
               ]
             },
             {
               "type": "lunch",
               "name": "El Mole Pipián",
               "coord": [
-                19.034,
-                -98.2055
+                19.0521945,
+                -98.20036429999999
               ]
             },
             {
@@ -3490,8 +3872,8 @@
               "type": "dinner",
               "name": "Casa Santo Domingo",
               "coord": [
-                19.0345,
-                -98.208
+                14.5585993,
+                -90.7279093
               ]
             }
           ]
@@ -3504,8 +3886,8 @@
               "type": "breakfast",
               "name": "Hotel Royalty Puebla",
               "coord": [
-                19.0327,
-                -98.2062
+                19.044289,
+                -98.1981065
               ]
             },
             {
@@ -3528,16 +3910,16 @@
               "type": "sightseeing",
               "name": "Mercado 20 de Noviembre (Oaxaca)",
               "coord": [
-                17.067,
-                -96.726
+                17.058032700000002,
+                -96.72708519999999
               ]
             },
             {
               "type": "dinner",
               "name": "Mercadito",
               "coord": [
-                19.0325,
-                -98.207
+                19.0334778,
+                -98.2011598
               ]
             }
           ]
@@ -3550,16 +3932,16 @@
               "type": "hotel",
               "name": "Merida Jim's House",
               "coord": [
-                20.9674,
-                -89.6237
+                20.9773659,
+                -89.6329444
               ]
             },
             {
               "type": "lunch",
               "name": "La Chaya Maya",
               "coord": [
-                20.969,
-                -89.625
+                20.9699203,
+                -89.62389189999999
               ]
             },
             {
@@ -3574,8 +3956,8 @@
               "type": "dinner",
               "name": "Casa Kin",
               "coord": [
-                20.968,
-                -89.6245
+                20.9606457,
+                -89.62725590000001
               ]
             }
           ]
@@ -3588,16 +3970,16 @@
               "type": "breakfast",
               "name": "Merida Jim's House",
               "coord": [
-                20.9674,
-                -89.6237
+                20.9773659,
+                -89.6329444
               ]
             },
             {
               "type": "lunch",
               "name": "Tacos de Cochinita Pibil",
               "coord": [
-                20.9685,
-                -89.624
+                20.9637367,
+                -89.6209197
               ]
             },
             {
@@ -3612,8 +3994,8 @@
               "type": "dinner",
               "name": "Restaurante Merida 60",
               "coord": [
-                20.9674,
-                -89.6237
+                20.9730944,
+                -89.62204419999999
               ]
             }
           ]
@@ -3632,40 +4014,40 @@
               "type": "hotel",
               "name": "St. Regis Mexico City",
               "coord": [
-                19.4365,
-                -99.1847
+                19.4256338,
+                -99.1720892
               ]
             },
             {
               "type": "lunch",
               "name": "Pujol",
               "coord": [
-                19.436,
-                -99.185
+                19.432376299999998,
+                -99.1948132
               ]
             },
             {
               "type": "sightseeing",
               "name": "Templo Mayor",
               "coord": [
-                19.4383,
-                -99.1367
+                19.434603799999998,
+                -99.13188099999999
               ]
             },
             {
               "type": "sightseeing",
               "name": "Palacio Nacional",
               "coord": [
-                19.4326,
-                -99.1333
+                19.4328868,
+                -99.1313531
               ]
             },
             {
               "type": "dinner",
               "name": "Quintonil",
               "coord": [
-                19.4342,
-                -99.1672
+                19.4308408,
+                -99.1917115
               ]
             }
           ]
@@ -3678,24 +4060,24 @@
               "type": "breakfast",
               "name": "St. Regis Mexico City",
               "coord": [
-                19.4365,
-                -99.1847
+                19.4256338,
+                -99.1720892
               ]
             },
             {
               "type": "sightseeing",
               "name": "Museo de Antropología",
               "coord": [
-                19.4283,
-                -99.1882
+                19.426003200000004,
+                -99.1862786
               ]
             },
             {
               "type": "lunch",
               "name": "Contramar",
               "coord": [
-                19.345,
-                -99.215
+                19.4195793,
+                -99.1671526
               ]
             },
             {
@@ -3710,8 +4092,8 @@
               "type": "dinner",
               "name": "Sud 777",
               "coord": [
-                19.428,
-                -99.164
+                19.3090281,
+                -99.2093428
               ]
             }
           ]
@@ -3724,16 +4106,16 @@
               "type": "breakfast",
               "name": "St. Regis Mexico City",
               "coord": [
-                19.4365,
-                -99.1847
+                19.4256338,
+                -99.1720892
               ]
             },
             {
               "type": "sightseeing",
               "name": "Teotihuacán",
               "coord": [
-                19.69,
-                -98.844
+                19.6860799,
+                -98.87163609999999
               ]
             },
             {
@@ -3756,8 +4138,8 @@
               "type": "dinner",
               "name": "Rosetta",
               "coord": [
-                19.4298,
-                -99.1587
+                19.4197758,
+                -99.1598009
               ]
             }
           ]
@@ -3770,24 +4152,24 @@
               "type": "hotel",
               "name": "Casa Cinnamon",
               "coord": [
-                17.0672,
-                -96.7234
+                17.068796799999998,
+                -96.71785229999999
               ]
             },
             {
               "type": "lunch",
               "name": "Donají",
               "coord": [
-                17.065,
-                -96.726
+                17.0564781,
+                -96.72985829999999
               ]
             },
             {
               "type": "sightseeing",
               "name": "Monte Albán",
               "coord": [
-                17.068,
-                -96.721
+                17.046592699999998,
+                -96.76588439999999
               ]
             },
             {
@@ -3802,8 +4184,8 @@
               "type": "dinner",
               "name": "Casa Oaxaca",
               "coord": [
-                17.0625,
-                -96.7275
+                17.065218299999998,
+                -96.7222793
               ]
             }
           ]
@@ -3816,8 +4198,8 @@
               "type": "breakfast",
               "name": "Cafetería Brújula",
               "coord": [
-                17.0628,
-                -96.728
+                17.0625852,
+                -96.72436710000001
               ]
             },
             {
@@ -3832,8 +4214,8 @@
               "type": "lunch",
               "name": "Abacus Oaxaca",
               "coord": [
-                17.0635,
-                -96.727
+                17.0647238,
+                -96.7248565
               ]
             },
             {
@@ -3848,8 +4230,8 @@
               "type": "dinner",
               "name": "Guelaguetza",
               "coord": [
-                17.067,
-                -96.7255
+                17.0686803,
+                -96.73102
               ]
             }
           ]
@@ -3862,8 +4244,8 @@
               "type": "hotel",
               "name": "Casa Angel Inn",
               "coord": [
-                20.914,
-                -100.7515
+                20.9111482,
+                -100.7427165
               ]
             },
             {
@@ -3878,8 +4260,8 @@
               "type": "sightseeing",
               "name": "Palenque",
               "coord": [
-                17.4845,
-                -92.0456
+                17.484769699999998,
+                -92.0458949
               ]
             },
             {
@@ -3908,16 +4290,16 @@
               "type": "hotel",
               "name": "Temozón House",
               "coord": [
-                20.25,
-                -87.9
+                21.0659916,
+                -89.59566769999999
               ]
             },
             {
               "type": "lunch",
               "name": "Casa Kin",
               "coord": [
-                20.968,
-                -89.6245
+                20.9606457,
+                -89.62725590000001
               ]
             },
             {
@@ -3954,16 +4336,16 @@
               "type": "breakfast",
               "name": "Temozón House",
               "coord": [
-                20.25,
-                -87.9
+                21.0659916,
+                -89.59566769999999
               ]
             },
             {
               "type": "sightseeing",
               "name": "Chichén Itzá",
               "coord": [
-                20.6829,
-                -87.5479
+                20.684284899999998,
+                -88.5677826
               ]
             },
             {
@@ -3978,16 +4360,16 @@
               "type": "hotel",
               "name": "Merida Jim's House",
               "coord": [
-                20.9674,
-                -89.6237
+                20.9773659,
+                -89.6329444
               ]
             },
             {
               "type": "dinner",
               "name": "Restaurante Merida 60",
               "coord": [
-                20.9674,
-                -89.6237
+                20.9730944,
+                -89.62204419999999
               ]
             }
           ]
@@ -4000,24 +4382,24 @@
               "type": "hotel",
               "name": "Azulik Tulum",
               "coord": [
-                20.233,
-                -87.389
+                20.179156,
+                -87.4456393
               ]
             },
             {
               "type": "lunch",
               "name": "Hartwood",
               "coord": [
-                20.2098,
-                -87.4635
+                20.149875599999998,
+                -87.459374
               ]
             },
             {
               "type": "sightseeing",
               "name": "Tulum Ruins",
               "coord": [
-                20.2113,
-                -87.4142
+                20.2149504,
+                -87.4294212
               ]
             },
             {
@@ -4032,8 +4414,8 @@
               "type": "dinner",
               "name": "Los Tacos de Pablo",
               "coord": [
-                20.2105,
-                -87.4625
+                20.7273276,
+                -103.39314279999999
               ]
             }
           ]
@@ -4046,16 +4428,16 @@
               "type": "breakfast",
               "name": "Azulik Tulum",
               "coord": [
-                20.233,
-                -87.389
+                20.179156,
+                -87.4456393
               ]
             },
             {
               "type": "sightseeing",
               "name": "Xcaret Park",
               "coord": [
-                20.64,
-                -87.06
+                20.5809134,
+                -87.119698
               ]
             },
             {
@@ -4078,8 +4460,8 @@
               "type": "dinner",
               "name": "Playa Blanca",
               "coord": [
-                20.6296,
-                -87.0739
+                20.6641055,
+                -87.0702449
               ]
             }
           ]
@@ -4092,16 +4474,16 @@
               "type": "breakfast",
               "name": "Azulik Tulum",
               "coord": [
-                20.233,
-                -87.389
+                20.179156,
+                -87.4456393
               ]
             },
             {
               "type": "sightseeing",
               "name": "Xel-Há Water Park",
               "coord": [
-                20.3514,
-                -87.3214
+                20.3193587,
+                -87.3578124
               ]
             },
             {
@@ -4124,8 +4506,8 @@
               "type": "dinner",
               "name": "Restaurante Bar El Capitán",
               "coord": [
-                20.2102,
-                -87.4624
+                20.210382199999998,
+                -87.4520433
               ]
             }
           ]
@@ -4138,16 +4520,16 @@
               "type": "hotel",
               "name": "Rosewood Mayakoba",
               "coord": [
-                20.698,
-                -87.289
+                20.6879277,
+                -87.0201301
               ]
             },
             {
               "type": "lunch",
               "name": "Flora Farms",
               "coord": [
-                23.62,
-                -109.985
+                23.079463,
+                -109.676935
               ]
             },
             {
@@ -4170,8 +4552,8 @@
               "type": "dinner",
               "name": "Guacamole Grill",
               "coord": [
-                23.634,
-                -109.976
+                40.978903100000004,
+                -90.36185359999999
               ]
             }
           ]
@@ -4184,16 +4566,16 @@
               "type": "breakfast",
               "name": "Rosewood Mayakoba",
               "coord": [
-                20.698,
-                -87.289
+                20.6879277,
+                -87.0201301
               ]
             },
             {
               "type": "sightseeing",
               "name": "Laguna Bacalar",
               "coord": [
-                18.6858,
-                -87.692
+                18.7671365,
+                -88.30688169999999
               ]
             },
             {
@@ -4208,8 +4590,8 @@
               "type": "sightseeing",
               "name": "Kohunlich Maya Ruins",
               "coord": [
-                18.7433,
-                -87.8656
+                18.4192634,
+                -88.79089909999999
               ]
             },
             {
@@ -4230,8 +4612,8 @@
               "type": "breakfast",
               "name": "Rosewood Mayakoba",
               "coord": [
-                20.698,
-                -87.289
+                20.6879277,
+                -87.0201301
               ]
             },
             {
