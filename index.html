@@ -113,6 +113,45 @@
         .itin-tab-d.active { color: #DC2626; border-color: #DC2626; }
         .itin-tab-e.active { color: #7C3AED; border-color: #7C3AED; }
 
+        /* Generated itinerary tabs */
+        .itin-tab-generated { border-style: dashed !important; }
+        .itin-tab-generated.active { border-style: solid !important; }
+        .itin-tab-delete { cursor: pointer; margin-left: 6px; opacity: 0.5; font-size: 13px; font-weight: 700; }
+        .itin-tab-delete:hover { opacity: 1; color: #DC2626; }
+
+        /* Generator modal */
+        .gen-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 10000; align-items: center; justify-content: center; }
+        .gen-overlay.active { display: flex; }
+        .gen-modal { background: white; border-radius: 16px; padding: 24px; max-width: 480px; width: 92%; box-shadow: 0 10px 50px rgba(0,0,0,0.3); max-height: 85vh; overflow-y: auto; }
+        .gen-modal-title { font-size: 16px; font-weight: 700; margin-bottom: 4px; color: #333; }
+        .gen-modal-subtitle { font-size: 12px; color: #888; margin-bottom: 16px; }
+        .gen-field { margin-bottom: 14px; }
+        .gen-field label { display: block; font-size: 11px; font-weight: 600; color: #555; margin-bottom: 5px; }
+        .gen-field input, .gen-field select, .gen-field textarea { width: 100%; padding: 9px 12px; border: 1px solid #ddd; border-radius: 8px; font-size: 12px; font-family: inherit; box-sizing: border-box; }
+        .gen-field input:focus, .gen-field select:focus, .gen-field textarea:focus { outline: none; border-color: #7C3AED; }
+        .gen-field textarea { resize: vertical; min-height: 56px; }
+        .gen-interests { display: flex; flex-wrap: wrap; gap: 6px; }
+        .gen-interest-chip { padding: 5px 12px; border: 1.5px solid #ddd; border-radius: 20px; font-size: 11px; font-weight: 500; cursor: pointer; background: white; color: #555; transition: all 0.15s; user-select: none; }
+        .gen-interest-chip.selected { background: #7C3AED; color: white; border-color: #7C3AED; }
+        .gen-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 18px; }
+        .gen-btn { padding: 9px 22px; border: none; border-radius: 8px; cursor: pointer; font-size: 12px; font-weight: 600; transition: all 0.15s; }
+        .gen-btn.primary { background: #7C3AED; color: white; }
+        .gen-btn.primary:hover { background: #6D28D9; }
+        .gen-btn.primary:disabled { background: #C4B5FD; cursor: not-allowed; }
+        .gen-btn.secondary { background: #f0f0f0; color: #333; }
+        .gen-btn.secondary:hover { background: #ddd; }
+        .gen-spinner { display: inline-block; width: 14px; height: 14px; border: 2px solid #fff; border-top-color: transparent; border-radius: 50%; animation: genSpin 0.6s linear infinite; margin-right: 6px; vertical-align: middle; }
+        @keyframes genSpin { to { transform: rotate(360deg); } }
+        .gen-generate-btn { width: 100%; padding: 12px; font-size: 13px; margin-top: 8px; }
+        .gen-preview { background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 10px; padding: 12px; margin-top: 12px; max-height: 300px; overflow-y: auto; }
+        .gen-preview-day { margin-bottom: 10px; }
+        .gen-preview-day-title { font-size: 11px; font-weight: 700; color: #7C3AED; margin-bottom: 4px; }
+        .gen-preview-item { font-size: 11px; color: #555; padding: 2px 0; }
+        .gen-preview-item .type-badge { display: inline-block; font-size: 10px; font-weight: 600; color: #888; width: 70px; }
+        @media (max-width: 768px) {
+            .gen-modal { max-width: 95%; padding: 16px; max-height: 80vh; }
+        }
+
         /* View toggle */
         .view-toggle {
             display: flex;
@@ -2142,7 +2181,10 @@
 
                 <!-- Itinerary Tabs (hidden in categories view) -->
                 <div id="itineraryTabs" style="display: none; margin-top: 15px;">
-                    <div class="sidebar-title">Select Itinerary</div>
+                    <div style="display:flex; align-items:center; justify-content:space-between;">
+                        <div class="sidebar-title" style="margin:0;">Select Itinerary</div>
+                        <button onclick="openGeneratorModal()" style="padding:4px 10px; font-size:10px; font-weight:600; border:1.5px dashed #7C3AED; background:white; color:#7C3AED; border-radius:16px; cursor:pointer; white-space:nowrap; transition: all 0.15s;" onmouseover="this.style.background='#7C3AED';this.style.color='white'" onmouseout="this.style.background='white';this.style.color='#7C3AED'">+ Generate</button>
+                    </div>
                     <div class="itin-tabs" id="tabsContainer"></div>
                 </div>
 
@@ -2282,6 +2324,71 @@
 
     <!-- Copy Toast (Phase 3) -->
     <div class="copy-toast" id="copyToast">Copied!</div>
+
+    <!-- AI Itinerary Generator Modal -->
+    <div class="gen-overlay" id="genOverlay" onclick="if(event.target===this)closeGeneratorModal()">
+        <div class="gen-modal">
+            <div class="gen-modal-title">Generate Custom Itinerary</div>
+            <div class="gen-modal-subtitle" id="genDestLabel">for this destination</div>
+            <div class="gen-field">
+                <label>Trip Duration (days)</label>
+                <input type="number" id="genDays" min="2" max="21" value="7" />
+            </div>
+            <div class="gen-field">
+                <label>Travel Party</label>
+                <select id="genParty">
+                    <option value="couple">Couple</option>
+                    <option value="family-toddler">Family with toddler (under 4)</option>
+                    <option value="family-kids">Family with kids (4-12)</option>
+                    <option value="family-teens">Family with teens</option>
+                    <option value="solo">Solo traveler</option>
+                    <option value="friends">Group of friends</option>
+                </select>
+            </div>
+            <div class="gen-field">
+                <label>Interests (click to select)</label>
+                <div class="gen-interests" id="genInterests">
+                    <span class="gen-interest-chip selected" data-interest="food">Food &amp; Dining</span>
+                    <span class="gen-interest-chip" data-interest="culture">Culture &amp; History</span>
+                    <span class="gen-interest-chip" data-interest="adventure">Adventure</span>
+                    <span class="gen-interest-chip" data-interest="shopping">Shopping</span>
+                    <span class="gen-interest-chip" data-interest="relaxation">Relaxation</span>
+                    <span class="gen-interest-chip" data-interest="nightlife">Nightlife</span>
+                    <span class="gen-interest-chip" data-interest="nature">Nature &amp; Outdoors</span>
+                    <span class="gen-interest-chip" data-interest="photography">Photography</span>
+                    <span class="gen-interest-chip" data-interest="art">Art &amp; Design</span>
+                    <span class="gen-interest-chip" data-interest="kid-friendly">Kid-Friendly</span>
+                </div>
+            </div>
+            <div class="gen-field">
+                <label>Pace</label>
+                <select id="genPace">
+                    <option value="slow">Slow &amp; relaxed (lots of downtime)</option>
+                    <option value="moderate" selected>Moderate (balanced)</option>
+                    <option value="fast">Fast-paced (pack it all in)</option>
+                </select>
+            </div>
+            <div class="gen-field">
+                <label>Budget</label>
+                <select id="genBudget">
+                    <option value="budget">Budget-friendly</option>
+                    <option value="moderate" selected>Moderate</option>
+                    <option value="luxury">Luxury</option>
+                </select>
+            </div>
+            <div class="gen-field">
+                <label>Special requests or constraints (optional)</label>
+                <textarea id="genConstraints" placeholder="e.g., 'We need nap time 1-3pm', 'vegetarian', 'mobility issues', 'want a day trip to...', 'arriving late on day 1'"></textarea>
+            </div>
+            <div id="genPreviewArea" style="display:none;"></div>
+            <div id="genError" style="display:none; color:#DC2626; font-size:12px; margin-top:8px; padding:8px; background:#FEF2F2; border-radius:8px;"></div>
+            <button class="gen-btn primary gen-generate-btn" id="genSubmitBtn" onclick="submitGeneratorForm()">Generate Itinerary</button>
+            <div class="gen-actions">
+                <button class="gen-btn secondary" onclick="closeGeneratorModal()">Cancel</button>
+                <button class="gen-btn primary" id="genSaveBtn" onclick="saveGeneratedItinerary()" style="display:none;">Save &amp; Load Itinerary</button>
+            </div>
+        </div>
+    </div>
 
     <!-- Add Destination Modal (Phase 4) -->
     <div class="dest-overlay" id="destOverlay" onclick="if(event.target===this)closeAddDestModal()">
@@ -2479,6 +2586,7 @@
             categoryGroups.markets = L.featureGroup();
             loadCategories();
             switchView('categories');
+            loadSavedGeneratedItineraries();
             buildTabsUI();
             buildFilterChips();
             buildRegionFilter();
@@ -3103,7 +3211,18 @@
                 const itinName = itin.name || itin.title || key.toUpperCase();
                 const btn = document.createElement('button');
                 btn.className = `itin-tab itin-tab-${key}`;
-                btn.textContent = itinName;
+                if (itin.isGenerated) {
+                    btn.classList.add('itin-tab-generated');
+                    btn.style.borderColor = itin.color || '#7C3AED';
+                    btn.innerHTML = '\u2728 ' + escapeHtml(itinName);
+                    const delSpan = document.createElement('span');
+                    delSpan.className = 'itin-tab-delete';
+                    delSpan.innerHTML = '\u00d7';
+                    delSpan.onclick = function(e) { e.stopPropagation(); deleteGeneratedItinerary(key); };
+                    btn.appendChild(delSpan);
+                } else {
+                    btn.textContent = itinName;
+                }
                 btn.onclick = () => selectItinerary(key);
                 btn.id = `tab-${key}`;
                 container.appendChild(btn);
@@ -4799,7 +4918,8 @@
                 item.type.toUpperCase() + ': ' + item.name
             ).join('\n');
 
-            return 'You are a Japan travel day planner for a family trip (couple + 2.5-year-old daughter).\n\n' +
+            const destName = destinations[activeDestination] ? destinations[activeDestination].name : 'travel';
+            return 'You are a ' + destName + ' travel day planner.\n\n' +
                 'CURRENT DAY: ' + itin.name + ', Day ' + dayData.day + ' - ' + dayData.title + '\n\n' +
                 'CURRENT SCHEDULE:\n' + currentItems + '\n\n' +
                 'AVAILABLE IN ' + cityName.toUpperCase() + ':\n' +
@@ -4809,11 +4929,9 @@
                 'Kid-Friendly: ' + (cityActivities.kidFriendly.join(', ') || 'none listed') + '\n' +
                 'Markets: ' + (cityActivities.markets.join(', ') || 'none listed') + '\n\n' +
                 'HARD CONSTRAINTS:\n' +
-                '- 1:00-3:00 PM is NAP TIME (non-negotiable, must keep)\n' +
-                '- Must include: hotel, breakfast, lunch, dinner, nap\n' +
-                '- Family has a 2.5-year-old — keep travel between stops reasonable\n' +
+                '- Must include: hotel, breakfast, lunch, dinner\n' +
                 '- Keep the same hotel unless user asks to change it\n' +
-                '- Optional items (camera shops, skincare, etc.) are welcome but mark type as "optional"\n\n' +
+                '- Optional items are welcome but mark type as "optional"\n\n' +
                 'RESPONSE MODES:\n' +
                 '1) SCHEDULE CHANGE — If the user asks to change, rearrange, replace, or create a new schedule, respond with ONLY a JSON array of day items. No markdown, no explanation, just the JSON.\n' +
                 '   Each item: {"type": "hotel|breakfast|lunch|dinner|sightseeing|nap|optional", "name": "Place Name", "coord": [lat, lng] or null}\n' +
@@ -5078,6 +5196,361 @@
         }
 
 
+
+        // ============================================
+        // AI ITINERARY GENERATOR
+        // ============================================
+
+        let lastGeneratedItinerary = null;  // Holds preview data before save
+        const GEN_COLORS = ['#7C3AED', '#EC4899', '#06B6D4', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6', '#14B8A6'];
+
+        function openGeneratorModal() {
+            if (!activeDestination) {
+                showCopyToast('Please select a destination first');
+                return;
+            }
+            if (!chatApiKey) {
+                chatApiKey = localStorage.getItem('tripMap_apiKey') || localStorage.getItem('japanTrip_apiKey');
+            }
+            if (!chatApiKey) {
+                showCopyToast('API key required — open the chat panel first to set it up');
+                return;
+            }
+            const dest = destinations[activeDestination];
+            document.getElementById('genDestLabel').textContent = 'for ' + (dest ? dest.name : activeDestination);
+            document.getElementById('genPreviewArea').style.display = 'none';
+            document.getElementById('genPreviewArea').innerHTML = '';
+            document.getElementById('genError').style.display = 'none';
+            document.getElementById('genSaveBtn').style.display = 'none';
+            document.getElementById('genSubmitBtn').style.display = '';
+            document.getElementById('genSubmitBtn').disabled = false;
+            document.getElementById('genSubmitBtn').innerHTML = 'Generate Itinerary';
+            lastGeneratedItinerary = null;
+            document.getElementById('genOverlay').classList.add('active');
+        }
+
+        function closeGeneratorModal() {
+            document.getElementById('genOverlay').classList.remove('active');
+        }
+
+        // Interest chip toggle
+        document.addEventListener('click', function(e) {
+            if (e.target.classList.contains('gen-interest-chip')) {
+                e.target.classList.toggle('selected');
+            }
+        });
+
+        function getSelectedInterests() {
+            return Array.from(document.querySelectorAll('.gen-interest-chip.selected')).map(el => el.dataset.interest);
+        }
+
+        function buildGeneratorSystemPrompt() {
+            const dest = destinations[activeDestination];
+            const destName = dest ? dest.name : activeDestination;
+            const days = parseInt(document.getElementById('genDays').value) || 7;
+            const party = document.getElementById('genParty').value;
+            const interests = getSelectedInterests();
+            const pace = document.getElementById('genPace').value;
+            const budget = document.getElementById('genBudget').value;
+            const constraints = document.getElementById('genConstraints').value.trim();
+
+            // Build compact POI list grouped by city
+            const cityPois = {};
+            const allPois = [
+                ...hotels.map(h => ({...h, cat: 'hotel'})),
+                ...restaurants.map(r => ({...r, cat: 'restaurant'})),
+                ...experiences.map(e => ({...e, cat: 'experience'})),
+                ...kidFriendly.map(k => ({...k, cat: 'kid-friendly'})),
+                ...markets.map(m => ({...m, cat: 'market'}))
+            ];
+
+            // Group POIs by nearest city center
+            Object.entries(cityCenters).forEach(([city, coords]) => {
+                cityPois[city] = { hotels: [], restaurants: [], experiences: [], kidFriendly: [], markets: [] };
+                const r = coords[2] || 0.15;
+                allPois.forEach(poi => {
+                    if (!poi.coord) return;
+                    if (Math.abs(poi.coord[0] - coords[0]) < r && Math.abs(poi.coord[1] - coords[1]) < r) {
+                        const catKey = poi.cat === 'hotel' ? 'hotels' : poi.cat === 'restaurant' ? 'restaurants' : poi.cat === 'experience' ? 'experiences' : poi.cat === 'kid-friendly' ? 'kidFriendly' : 'markets';
+                        const entry = poi.name + (poi.desc ? ' (' + poi.desc + ')' : '');
+                        if (cityPois[city][catKey].length < 15) {
+                            cityPois[city][catKey].push(entry);
+                        }
+                    }
+                });
+            });
+
+            // Build POI section
+            let poiSection = '';
+            Object.entries(cityPois).forEach(([city, cats]) => {
+                const total = cats.hotels.length + cats.restaurants.length + cats.experiences.length + cats.kidFriendly.length + cats.markets.length;
+                if (total === 0) return;
+                poiSection += '\n## ' + city + '\n';
+                if (cats.hotels.length) poiSection += 'Hotels: ' + cats.hotels.join(' | ') + '\n';
+                if (cats.restaurants.length) poiSection += 'Restaurants: ' + cats.restaurants.join(' | ') + '\n';
+                if (cats.experiences.length) poiSection += 'Experiences: ' + cats.experiences.join(' | ') + '\n';
+                if (cats.kidFriendly.length) poiSection += 'Kid-Friendly: ' + cats.kidFriendly.join(' | ') + '\n';
+                if (cats.markets.length) poiSection += 'Markets: ' + cats.markets.join(' | ') + '\n';
+            });
+
+            // City centers for reference
+            let cityCentersList = Object.entries(cityCenters).map(([city, coords]) => city + ': [' + coords[0] + ', ' + coords[1] + ']').join(', ');
+
+            // Party description
+            const partyDesc = {
+                'couple': 'a couple',
+                'family-toddler': 'a family with a toddler (under 4 years old) — nap time 1:00-3:00 PM is essential',
+                'family-kids': 'a family with kids aged 4-12',
+                'family-teens': 'a family with teenagers',
+                'solo': 'a solo traveler',
+                'friends': 'a group of friends'
+            }[party] || party;
+
+            const paceDesc = {
+                'slow': 'Slow and relaxed — no more than 2-3 activities per day, plenty of downtime',
+                'moderate': 'Moderate — 3-4 activities per day with breaks',
+                'fast': 'Fast-paced — maximize activities and experiences each day'
+            }[pace] || pace;
+
+            let prompt = 'You are a travel itinerary planner. Generate a ' + days + '-day itinerary for ' + destName + '.\n\n';
+            prompt += 'TRAVELERS: ' + partyDesc + '\n';
+            prompt += 'INTERESTS: ' + (interests.length ? interests.join(', ') : 'general sightseeing') + '\n';
+            prompt += 'PACE: ' + paceDesc + '\n';
+            prompt += 'BUDGET: ' + budget + '\n';
+            if (constraints) prompt += 'SPECIAL REQUESTS: ' + constraints + '\n';
+
+            prompt += '\nAVAILABLE PLACES (use these by name where possible):\n' + poiSection;
+            prompt += '\nCITY CENTERS: ' + cityCentersList + '\n';
+
+            prompt += '\nRULES:\n';
+            prompt += '- Use places from the AVAILABLE PLACES list above whenever possible. You may add well-known places not in the list if needed.\n';
+            prompt += '- Each day should have a logical geographic flow (group nearby activities).\n';
+            prompt += '- Include hotel, breakfast, lunch, dinner each day. Add sightseeing, optional, and nap items as appropriate.\n';
+            if (party === 'family-toddler') {
+                prompt += '- MANDATORY: Include a "nap" item from 1:00-3:00 PM every day. Keep distances between stops short and walkable.\n';
+            }
+            prompt += '- For multi-city trips, group days by city and minimize transit days.\n';
+            prompt += '- The first day should account for arrival, the last day for departure.\n';
+
+            prompt += '\nRESPONSE FORMAT: Respond with ONLY valid JSON (no markdown, no explanation, no code fences). The JSON must be an object:\n';
+            prompt += '{\n';
+            prompt += '  "name": "Itinerary Name (short, descriptive, e.g. \'Foodie Family Adventure\')",\n';
+            prompt += '  "days": [\n';
+            prompt += '    {\n';
+            prompt += '      "day": 1,\n';
+            prompt += '      "title": "City Name (Theme)",\n';
+            prompt += '      "items": [\n';
+            prompt += '        {"type": "hotel", "name": "Hotel Name"},\n';
+            prompt += '        {"type": "breakfast", "name": "Restaurant Name"},\n';
+            prompt += '        {"type": "sightseeing", "name": "Place Name"},\n';
+            prompt += '        {"type": "lunch", "name": "Restaurant Name"},\n';
+            prompt += '        {"type": "nap", "name": "Nap / Rest Time"},\n';
+            prompt += '        {"type": "sightseeing", "name": "Place Name"},\n';
+            prompt += '        {"type": "dinner", "name": "Restaurant Name"},\n';
+            prompt += '        {"type": "optional", "name": "Optional Activity"}\n';
+            prompt += '      ]\n';
+            prompt += '    }\n';
+            prompt += '  ]\n';
+            prompt += '}\n';
+            prompt += 'Valid types: hotel, breakfast, lunch, dinner, sightseeing, optional, nap.\n';
+            prompt += 'Do NOT include coordinates — they will be looked up automatically.\n';
+            prompt += 'IMPORTANT: Output raw JSON only. No markdown code blocks, no backticks, no explanation text.';
+
+            return prompt;
+        }
+
+        async function submitGeneratorForm() {
+            const submitBtn = document.getElementById('genSubmitBtn');
+            const errorDiv = document.getElementById('genError');
+            const previewArea = document.getElementById('genPreviewArea');
+            const saveBtn = document.getElementById('genSaveBtn');
+
+            errorDiv.style.display = 'none';
+            previewArea.style.display = 'none';
+            saveBtn.style.display = 'none';
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '<span class="gen-spinner"></span>Generating...';
+
+            const systemPrompt = buildGeneratorSystemPrompt();
+            const days = parseInt(document.getElementById('genDays').value) || 7;
+
+            try {
+                const modelId = (typeof getModelId === 'function') ? getModelId() : 'claude-sonnet-4-5-20250929';
+                const maxTokens = modelId.includes('haiku') ? 4096 : 8192;
+
+                const response = await fetch('https://api.anthropic.com/v1/messages', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'x-api-key': chatApiKey,
+                        'anthropic-version': '2023-06-01',
+                        'anthropic-dangerous-direct-browser-access': 'true'
+                    },
+                    body: JSON.stringify({
+                        model: modelId,
+                        max_tokens: maxTokens,
+                        system: systemPrompt,
+                        messages: [{ role: 'user', content: 'Generate the ' + days + '-day itinerary now. Output raw JSON only.' }]
+                    })
+                });
+
+                if (!response.ok) {
+                    const errData = await response.json().catch(() => ({}));
+                    throw new Error(errData.error?.message || 'API error ' + response.status);
+                }
+
+                const data = await response.json();
+
+                // Extract text from response
+                let text = '';
+                if (data.content) {
+                    data.content.forEach(block => {
+                        if (block.type === 'text') text += block.text;
+                    });
+                }
+
+                if (!text) throw new Error('Empty response from AI');
+
+                // Parse JSON (handle code fences if present)
+                let jsonStr = text.trim();
+                if (jsonStr.startsWith('```')) {
+                    jsonStr = jsonStr.replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '').trim();
+                }
+
+                let parsed;
+                try {
+                    parsed = JSON.parse(jsonStr);
+                } catch(e) {
+                    throw new Error('AI response was not valid JSON. Try again or use a different model.');
+                }
+
+                // Validate structure
+                if (!parsed.days || !Array.isArray(parsed.days) || parsed.days.length === 0) {
+                    throw new Error('Invalid itinerary structure — no days found');
+                }
+
+                // Look up coordinates for all items
+                parsed.days.forEach(day => {
+                    if (!day.items) day.items = [];
+                    day.items.forEach(item => {
+                        if (!item.coord) {
+                            item.coord = findCoordForName(item.name);
+                        }
+                        if (!item.type) item.type = 'sightseeing';
+                    });
+                });
+
+                // Store for saving
+                lastGeneratedItinerary = parsed;
+
+                // Render preview
+                let previewHtml = '<div class="gen-preview">';
+                previewHtml += '<div style="font-size:13px;font-weight:700;color:#333;margin-bottom:8px;">' + escapeHtml(parsed.name || 'Generated Itinerary') + '</div>';
+                parsed.days.forEach(day => {
+                    previewHtml += '<div class="gen-preview-day">';
+                    previewHtml += '<div class="gen-preview-day-title">Day ' + day.day + ' \u2014 ' + escapeHtml(day.title || '') + '</div>';
+                    (day.items || []).forEach(item => {
+                        const icon = item.type === 'hotel' ? '\uD83C\uDFE8' : item.type === 'breakfast' ? '\uD83C\uDF73' : item.type === 'lunch' ? '\uD83C\uDF5C' : item.type === 'dinner' ? '\uD83C\uDF77' : item.type === 'nap' ? '\uD83D\uDCA4' : item.type === 'optional' ? '\u2728' : '\uD83D\uDCCD';
+                        const coordStatus = item.coord ? '' : ' <span style="color:#F59E0B;font-size:10px;">(no coords)</span>';
+                        previewHtml += '<div class="gen-preview-item"><span class="type-badge">' + icon + ' ' + escapeHtml(item.type) + '</span> ' + escapeHtml(item.name) + coordStatus + '</div>';
+                    });
+                    previewHtml += '</div>';
+                });
+                previewHtml += '</div>';
+
+                previewArea.innerHTML = previewHtml;
+                previewArea.style.display = 'block';
+                saveBtn.style.display = '';
+                submitBtn.innerHTML = 'Regenerate';
+                submitBtn.disabled = false;
+
+            } catch(e) {
+                errorDiv.textContent = e.message;
+                errorDiv.style.display = 'block';
+                submitBtn.innerHTML = 'Try Again';
+                submitBtn.disabled = false;
+            }
+        }
+
+        function saveGeneratedItinerary() {
+            if (!lastGeneratedItinerary) return;
+
+            // Generate unique key
+            const genCount = Object.keys(itineraryData).filter(k => k.startsWith('gen_')).length;
+            const genKey = 'gen_' + (genCount + 1);
+
+            // Pick a color
+            const colorIdx = genCount % GEN_COLORS.length;
+
+            const itinObj = {
+                name: lastGeneratedItinerary.name || 'Custom Itinerary',
+                color: GEN_COLORS[colorIdx],
+                days: lastGeneratedItinerary.days,
+                isGenerated: true
+            };
+
+            // Add to itineraryData
+            itineraryData[genKey] = itinObj;
+            originalItineraryData[genKey] = JSON.parse(JSON.stringify(itinObj));
+
+            // Persist to localStorage
+            try {
+                const storageKey = 'tripMap_genItin_' + activeDestination;
+                const existing = JSON.parse(localStorage.getItem(storageKey) || '{}');
+                existing[genKey] = itinObj;
+                localStorage.setItem(storageKey, JSON.stringify(existing));
+            } catch(e) {
+                console.warn('Could not save generated itinerary to localStorage:', e);
+            }
+
+            // Rebuild tabs and select the new one
+            buildTabsUI();
+            selectItinerary(genKey);
+            if (currentView !== 'itineraries') switchView('itineraries');
+
+            closeGeneratorModal();
+            showCopyToast('Itinerary created! Check the new tab.');
+            lastGeneratedItinerary = null;
+        }
+
+        function loadSavedGeneratedItineraries() {
+            // Called after destination loads to restore any generated itineraries from localStorage
+            try {
+                const storageKey = 'tripMap_genItin_' + activeDestination;
+                const saved = JSON.parse(localStorage.getItem(storageKey) || '{}');
+                Object.entries(saved).forEach(([key, itinObj]) => {
+                    if (!itineraryData[key]) {
+                        itinObj.isGenerated = true;
+                        itineraryData[key] = itinObj;
+                        originalItineraryData[key] = JSON.parse(JSON.stringify(itinObj));
+                    }
+                });
+            } catch(e) {}
+        }
+
+        function deleteGeneratedItinerary(key) {
+            if (!confirm('Delete this generated itinerary?')) return;
+
+            delete itineraryData[key];
+            delete originalItineraryData[key];
+
+            // Remove from localStorage
+            try {
+                const storageKey = 'tripMap_genItin_' + activeDestination;
+                const saved = JSON.parse(localStorage.getItem(storageKey) || '{}');
+                delete saved[key];
+                localStorage.setItem(storageKey, JSON.stringify(saved));
+            } catch(e) {}
+
+            // Rebuild tabs, switch to first available
+            buildTabsUI();
+            const firstKey = Object.keys(itineraryData)[0];
+            if (firstKey && currentView === 'itineraries') {
+                selectItinerary(firstKey);
+            }
+
+            showCopyToast('Itinerary deleted');
+        }
 
         // ============================================
         // INITIALIZATION
