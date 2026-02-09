@@ -2,7 +2,7 @@
   "key": "mexico",
   "name": "Mexico Family Adventure",
   "subtitle": "Interactive Trip Map",
-  "flag": "🇲🇽",
+  "flag": "\ud83c\uddf2\ud83c\uddfd",
   "defaultCenter": [
     20.5,
     -99.0
@@ -10,59 +10,636 @@
   "defaultZoom": 6,
   "hotels": [
     {
+      "name": "Four Seasons Mexico City",
+      "coord": [
+        19.431,
+        -99.1898
+      ],
+      "desc": "Luxury tower overlooking Paseo de la Reforma, fine dining, spa",
+      "longDesc": "This iconic high-rise hotel commands views of Mexico City's skyline and historic landmarks while offering world-class service, a Michelin-starred restaurant, and spa facilities perfect for families."
+    },
+    {
+      "name": "St. Regis Mexico City",
+      "coord": [
+        19.4365,
+        -99.1847
+      ],
+      "desc": "Historic luxury hotel in Paseo de la Reforma with butler service",
+      "longDesc": "A storied luxury beacon featuring butler service, refined dining, and impeccable craftsmanship\u2014ideal for families seeking timeless elegance and attentive care in Mexico City's premier location."
+    },
+    {
+      "name": "Condesa DF",
+      "coord": [
+        19.4342,
+        -99.1698
+      ],
+      "desc": "Ultra-hip rooftop hotel in Roma-Condesa with panoramic views",
+      "longDesc": "This cutting-edge design hotel in trendy Roma-Condesa offers a rooftop bar with sweeping city views, modern amenities, and proximity to the neighborhood's best restaurants\u2014perfect for style-conscious families."
+    },
+    {
+      "name": "Downtown Mexico City",
+      "coord": [
+        19.4326,
+        -99.1332
+      ],
+      "desc": "Art Deco masterpiece converted to boutique hotel, historic center",
+      "longDesc": "Set in a restored Art Deco building in the historic center, this intimate boutique hotel blends pre-Hispanic design elements with colonial architecture\u2014an authentic cultural immersion in Mexico City's heart."
+    },
+    {
       "name": "Casa Campos",
       "coord": [
-        19.43,
+        19.4335,
         -99.135
       ],
-      "city": "Mexico City",
       "desc": "Charming boutique hotel in Roma Norte with rooftop terrace",
       "longDesc": "This Roma Norte gem combines colonial charm with modern comfort, perfect for families wanting to explore Mexico City's most vibrant culinary and cultural neighborhood from a stylish home base."
     },
     {
       "name": "La Posada Tulum",
       "coord": [
-        20.211,
+        20.2112,
         -87.463
       ],
-      "city": "Tulum",
-      "desc": "Beachfront eco-friendly resort with jungle access",
+      "desc": "Beachfront eco-friendly resort with jungle access, cenotes",
       "longDesc": "An eco-conscious beachfront retreat that bridges jungle and sand, ideal for families seeking a balance of relaxation, adventure, and sustainability in Tulum's bohemian setting."
+    },
+    {
+      "name": "Habitas Oaxaca",
+      "coord": [
+        17.0646,
+        -96.7263
+      ],
+      "desc": "Luxury sustainable retreat near Oaxaca with farm, yoga, spa",
+      "longDesc": "This boutique eco-luxury property near Oaxaca offers farm-to-table dining, yoga classes, and wellness programs\u2014perfect for families wanting slow travel and authentic cultural immersion."
+    },
+    {
+      "name": "Azulik Tulum",
+      "coord": [
+        20.233,
+        -87.389
+      ],
+      "desc": "Avant-garde jungle resort with art installations, cenote access",
+      "longDesc": "This visionary eco-resort merges art, ecology, and luxury in an immersive jungle setting, offering cenote access, holistic wellness, and a dining experience unlike any other\u2014pure magic for adventurous families."
+    },
+    {
+      "name": "Rosewood Mayakoba",
+      "coord": [
+        20.698,
+        -87.289
+      ],
+      "desc": "Ultra-luxury beachfront resort in Riviera Maya with lagoons",
+      "longDesc": "Set within a 1,600-acre nature reserve, this ultra-luxury resort features pristine beaches, mangrove lagoons, championship golf, and impeccable service\u2014the ultimate Riviera Maya indulgence for families."
+    },
+    {
+      "name": "Las Ventanas al Para\u00edso",
+      "coord": [
+        23.633,
+        -109.975
+      ],
+      "desc": "All-suite ultra-luxury resort in Los Cabos with private beach",
+      "longDesc": "This all-suite masterpiece in Los Cabos features oceanfront suites with private infinity pools, world-class dining, and access to pristine beaches\u2014a bucket-list destination for luxury-seeking families."
+    },
+    {
+      "name": "Palmaia The House of Aix",
+      "coord": [
+        20.589,
+        -87.123
+      ],
+      "desc": "Holistic luxury resort in Riviera Maya with holistic wellness",
+      "longDesc": "This wellness-focused luxury sanctuary blends healing therapies, gourmet cuisine, yoga, and education\u2014a transformative retreat for families seeking rejuvenation in paradise."
+    },
+    {
+      "name": "Mahekal Beach Resort",
+      "coord": [
+        20.1996,
+        -87.461
+      ],
+      "desc": "Bohemian beachfront bungalows in Tulum with hammocks, yoga",
+      "longDesc": "This laid-back beachfront property combines bohemian charm with comfort, offering thatched bungalows, hammocks strung over sand, and morning yoga\u2014authentic Tulum vibes for wandering families."
+    },
+    {
+      "name": "Papaya Playa Project",
+      "coord": [
+        20.2051,
+        -87.459
+      ],
+      "desc": "Eco-chic beachfront hotel in Tulum with rooftop bar, nightlife",
+      "longDesc": "This eco-conscious beachfront hotel blends sustainability with vibrant nightlife, offering a rooftop bar, swimming pool, and proximity to Tulum's bohemian scene\u2014perfect for young families."
+    },
+    {
+      "name": "Belmond Casa de Sierra Nevada",
+      "coord": [
+        20.9138,
+        -100.7508
+      ],
+      "desc": "Colonial luxury villa in San Miguel de Allende with courtyards",
+      "longDesc": "This iconic 18th-century colonial property in San Miguel de Allende features intimate courtyards, fine dining, and art-filled salons\u2014a romantic base for exploring Mexico's most charming artistic town."
+    },
+    {
+      "name": "Casa Angel Inn",
+      "coord": [
+        20.914,
+        -100.7515
+      ],
+      "desc": "Intimate colonial-style inn in San Miguel de Allende",
+      "longDesc": "This charming inn in San Miguel's historic center offers authentic colonial architecture, personalized service, and easy access to galleries, markets, and cultural attractions beloved by artistic families."
+    },
+    {
+      "name": "Misi\u00f3n Guanajuato",
+      "coord": [
+        21.0154,
+        -101.2567
+      ],
+      "desc": "Luxury resort overlooking Guanajuato's colorful city center",
+      "longDesc": "Perched above Guanajuato's UNESCO-listed historic center, this luxury resort offers sunset views, fine dining, and proximity to silver mining heritage and vibrant cultural festivals for families."
+    },
+    {
+      "name": "Hotel Boutique Suites Playa del Carmen",
+      "coord": [
+        20.6296,
+        -87.0739
+      ],
+      "desc": "Modern beachfront suites in Playa del Carmen, family-friendly",
+      "longDesc": "This stylish beachfront hotel in Playa del Carmen combines modern design with family amenities, offering direct beach access and proximity to restaurants, water sports, and family attractions."
+    },
+    {
+      "name": "El Conquistador Resort",
+      "coord": [
+        20.3756,
+        -87.2704
+      ],
+      "desc": "All-inclusive family resort in Riviera Maya with beach club",
+      "longDesc": "This comprehensive all-inclusive resort offers unlimited dining, water sports, beach clubs, and kids' activities\u2014a one-stop family paradise in the heart of the Riviera Maya."
+    },
+    {
+      "name": "Barcel\u00f3 Maya Tropical",
+      "coord": [
+        20.45,
+        -87.18
+      ],
+      "desc": "All-inclusive beachfront resort with water sports and entertainment",
+      "longDesc": "This sprawling all-inclusive resort caters to families with diverse dining, animation programs, water sports, and direct beach access\u2014ideal for families seeking all-in-one convenience."
+    },
+    {
+      "name": "Grand Palladium Riviera Maya",
+      "coord": [
+        20.695,
+        -87.288
+      ],
+      "desc": "Mega all-inclusive resort with multiple hotels, beach, golf",
+      "longDesc": "This expansive all-inclusive complex offers choice of hotel styles, championship golf, water sports, entertainment, and unlimited dining\u2014a comprehensive family playground in paradise."
+    },
+    {
+      "name": "Paradise Village",
+      "coord": [
+        23.7,
+        -110.3
+      ],
+      "desc": "Beachfront timeshare resort in Mazatl\u00e1n with all-inclusive options",
+      "longDesc": "This sprawling beachfront complex in Mazatl\u00e1n offers ocean views, multiple dining venues, and recreational activities\u2014affordable luxury for families seeking Pacific coast experiences."
+    },
+    {
+      "name": "Solmar V Cruise Ship Hotel",
+      "coord": [
+        23.633,
+        -109.975
+      ],
+      "desc": "Luxury cruise hotel in Los Cabos, intimate small-ship experience",
+      "longDesc": "This small-ship luxury hotel offers intimate ocean voyages and beachfront stays in Los Cabos, combining sea adventures with land-based luxury for adventurous families."
+    },
+    {
+      "name": "Hotel Secreto",
+      "coord": [
+        20.2005,
+        -87.4595
+      ],
+      "desc": "Intimate beachfront boutique hotel in Tulum with only 12 rooms",
+      "longDesc": "This ultra-exclusive 12-room beachfront boutique hotel in Tulum offers personalized service, privacy, and direct beach access\u2014perfect for families seeking intimate luxury away from crowds."
+    },
+    {
+      "name": "La Zebra Tulum",
+      "coord": [
+        20.197,
+        -87.4625
+      ],
+      "desc": "Chic beachfront hotel in Tulum with casita-style rooms",
+      "longDesc": "This stylish beachfront property features casita-style rooms, bohemian design, and a lively beach club\u2014a perfect blend of relaxation and vibrant Tulum energy for families."
+    },
+    {
+      "name": "Fusion Hotel Puerto Morelos",
+      "coord": [
+        20.864,
+        -86.887
+      ],
+      "desc": "Yoga-focused wellness resort near Riviera Maya with holistic programs",
+      "longDesc": "This wellness-dedicated hotel near Puerto Morelos offers yoga classes, holistic therapies, and plant-based cuisine\u2014ideal for families seeking mindfulness and health-focused travel experiences."
+    },
+    {
+      "name": "Casa Pescador Tulum",
+      "coord": [
+        20.202,
+        -87.4635
+      ],
+      "desc": "Charming beachfront cabana hotel in Tulum with rustic charm",
+      "longDesc": "This intimate beachfront property features rustic-chic cabanas, bohemian vibes, and direct beach access\u2014authentic Tulum hospitality for families seeking laid-back, artsy escapes."
+    },
+    {
+      "name": "Moon Palace Cancun",
+      "coord": [
+        21.175,
+        -86.853
+      ],
+      "desc": "Mega all-inclusive family resort in Cancun with multiple pools",
+      "longDesc": "This sprawling all-inclusive family mega-resort offers countless pools, dining options, nightlife, and kid clubs\u2014a self-contained vacation paradise perfect for families seeking endless entertainment."
+    },
+    {
+      "name": "Iberostar Selection Cancun",
+      "coord": [
+        21.163,
+        -86.849
+      ],
+      "desc": "All-inclusive family resort in Cancun with water sports programs",
+      "longDesc": "This family-oriented all-inclusive resort offers supervised kid clubs, water sports, multiple dining venues, and organized family activities\u2014ideal for multigenerational Mexico vacations."
+    },
+    {
+      "name": "Temoz\u00f3n House",
+      "coord": [
+        20.25,
+        -87.9
+      ],
+      "desc": "Luxury boutique colonial hotel in Valladolid, near cenotes",
+      "longDesc": "This beautifully restored colonial mansion in the charming town of Valladolid offers intimate charm, cultural authenticity, and proximity to cenotes and Mayan ruins for exploratory families."
+    },
+    {
+      "name": "Merida Jim's House",
+      "coord": [
+        20.9674,
+        -89.6237
+      ],
+      "desc": "Intimate bed and breakfast in M\u00e9rida with personal service",
+      "longDesc": "This family-run B&B in M\u00e9rida's historic center offers warm hospitality, cultural insights, and easy access to Yucat\u00e1n's colonial architecture, markets, and culinary traditions."
+    },
+    {
+      "name": "Ho'okah Boutique Hotel",
+      "coord": [
+        17.0628,
+        -96.7265
+      ],
+      "desc": "Eco-luxury hotel in Oaxaca with organic gardens and wellness",
+      "longDesc": "This eco-conscious boutique hotel in Oaxaca features organic gardens, holistic spa, and artisan-inspired design\u2014perfect for families seeking cultural immersion and sustainable luxury."
+    },
+    {
+      "name": "Casa Crespo",
+      "coord": [
+        17.0614,
+        -96.7288
+      ],
+      "desc": "Historic colonial house hotel in Oaxaca, rooftop dining",
+      "longDesc": "This restored colonial mansion in Oaxaca's historic center offers authentic cultural experience, rooftop dining with city views, and access to indigenous markets and traditions."
+    },
+    {
+      "name": "Coyote Nativo Oaxaca",
+      "coord": [
+        17.0643,
+        -96.7278
+      ],
+      "desc": "Relaxed boutique hotel in Oaxaca with mezcal bar",
+      "longDesc": "This laid-back boutique hotel in Oaxaca features artisan design, a curated mezcal bar, and proximity to food markets\u2014ideal for families exploring Mexico's foodie heartland."
+    },
+    {
+      "name": "Casa Cinnamon",
+      "coord": [
+        17.0672,
+        -96.7234
+      ],
+      "desc": "Intimate colonial hotel in Oaxaca with cooking classes",
+      "longDesc": "This charming colonial property in Oaxaca offers hands-on cooking classes, cultural workshops, and direct engagement with local food traditions\u2014transformative for food-loving families."
+    },
+    {
+      "name": "Palacio Belmonte Oaxaca",
+      "coord": [
+        17.0648,
+        -96.7276
+      ],
+      "desc": "Luxury boutique hotel in Oaxaca with modern interior design",
+      "longDesc": "This upscale boutique hotel in Oaxaca blends contemporary design with colonial architecture, offering refined dining and cultural experiences in the heart of artisan traditions."
+    },
+    {
+      "name": "Hotel San Felipe",
+      "coord": [
+        17.062,
+        -96.729
+      ],
+      "desc": "Traditional colonial hotel in Oaxaca, historic charm",
+      "longDesc": "This historic colonial property in Oaxaca's center preserves authentic architecture and local character, offering families immersion in indigenous culture and traditional crafts."
+    },
+    {
+      "name": "Casa \u00c1mbar",
+      "coord": [
+        17.0655,
+        -96.7245
+      ],
+      "desc": "Boutique eco-hotel in Oaxaca with textiles, folk art",
+      "longDesc": "This artisan-focused boutique hotel in Oaxaca celebrates indigenous textiles, traditional crafts, and sustainable practices\u2014ideal for families supporting local artisans."
+    },
+    {
+      "name": "La Noria",
+      "coord": [
+        17.0662,
+        -96.7255
+      ],
+      "desc": "Intimate hacienda hotel in Oaxaca, colonial gardens",
+      "longDesc": "This intimate hacienda-style property features colonial gardens, peaceful courtyards, and authentic regional design\u2014a serene base for cultural exploration in Oaxaca."
+    },
+    {
+      "name": "Las Golondrinas",
+      "coord": [
+        17.0638,
+        -96.727
+      ],
+      "desc": "Charming guesthouse in Oaxaca, rooftop terrace, local artworks",
+      "longDesc": "This locally owned guesthouse in Oaxaca features rooftop views, local artworks, and personalized hospitality\u2014authentic cultural connection for families seeking genuine engagement."
+    },
+    {
+      "name": "Casa del Sotano",
+      "coord": [
+        17.063,
+        -96.7282
+      ],
+      "desc": "Historic colonial wine and art hotel in Oaxaca",
+      "longDesc": "This distinctive colonial property showcases local wines, contemporary art, and cultural artifacts\u2014perfect for families seeking sophistication and local cultural celebration."
+    },
+    {
+      "name": "Puebla Boutique Hotel",
+      "coord": [
+        19.0352,
+        -98.2077
+      ],
+      "desc": "Colonial luxury hotel in Puebla, talavera tile design",
+      "longDesc": "This upscale boutique hotel in Puebla's historic center features stunning talavera tilework, colonial architecture, and proximity to culinary and artisan traditions."
+    },
+    {
+      "name": "Hotel Royalty Puebla",
+      "coord": [
+        19.0327,
+        -98.2062
+      ],
+      "desc": "Historic colonial hotel in Puebla, central plaza location",
+      "longDesc": "This established colonial property in Puebla's heart offers authentic charm, traditional Mexican hospitality, and access to baroque churches and food markets families love."
+    },
+    {
+      "name": "Verana Yelapa",
+      "coord": [
+        20.444,
+        -105.623
+      ],
+      "desc": "Intimate luxury retreat in Yelapa near Puerto Vallarta",
+      "longDesc": "This exclusive eco-luxury retreat in the bohemian beach village of Yelapa offers privacy, artistry, and jungle-to-ocean views\u2014transformative for adventurous families."
+    },
+    {
+      "name": "Bungalows de Cocos",
+      "coord": [
+        16.35,
+        -93.258
+      ],
+      "desc": "Oceanfront eco-bungalows in Oaxaca coast, rustic charm",
+      "longDesc": "This simple, rustic oceanfront property on Oaxaca's Pacific coast offers authentic beach village experience, fresh seafood, and unspoiled nature for adventurous families."
     }
   ],
   "restaurants": [
     {
-      "name": "Restaurante Rosetta",
+      "name": "Pujol",
+      "coord": [
+        19.436,
+        -99.185
+      ],
+      "desc": "Mexico City fine dining, Enrique Olvera, world-renowned",
+      "longDesc": "Chef Enrique Olvera's iconic restaurant consistently ranks among world's best, showcasing Mexico's culinary heritage through innovative techniques and deeply flavored cuisine."
+    },
+    {
+      "name": "Quintonil",
+      "coord": [
+        19.4342,
+        -99.1672
+      ],
+      "desc": "Contemporary Mexican cuisine, chef Jorge Vallejo, Roma",
+      "longDesc": "Chef Jorge Vallejo's intimate tasting-menu restaurant celebrates Mexican ingredients and techniques with artistic presentation\u2014a transcendent dining experience for food-serious families."
+    },
+    {
+      "name": "Contramar",
+      "coord": [
+        19.345,
+        -99.215
+      ],
+      "desc": "Legendary seafood restaurant on Mexico City beach, open kitchen",
+      "longDesc": "This iconic beachfront restaurant in San \u00c1ngel serves exceptional grilled fish and seafood prepared before your eyes\u2014a Mexico City institution beloved by locals and travelers alike."
+    },
+    {
+      "name": "Rosetta",
       "coord": [
         19.4298,
         -99.1587
       ],
-      "city": "Mexico City",
-      "cuisine": "Modern Mexican-Italian",
-      "desc": "Celebrated modern Mexican-Italian in Roma Norte, gorgeous courtyard",
-      "longDesc": "This award-winning Roma Norte favorite showcases creative Mexican-Italian fusion in an enchanting courtyard, offering refined dining that family travelers will find both elegant and welcoming."
+      "desc": "Modern Mexican-Italian, Roma Norte, award-winning courtyard",
+      "longDesc": "This award-winning Roma Norte favorite showcases creative Mexican-Italian fusion in an enchanting courtyard, offering refined dining that families find both elegant and welcoming."
     },
     {
-      "name": "Máximo",
+      "name": "M\u00e1ximo Bistrot",
       "coord": [
         19.4324,
         -99.1587
       ],
-      "city": "Mexico City",
-      "cuisine": "Mexican",
-      "desc": "Chef Eduardo García, refined Mexican cuisine, Roma Norte favorite",
-      "longDesc": "Chef Eduardo García's masterful take on Mexican cuisine celebrates fresh ingredients and traditional techniques, making this intimate Roma Norte restaurant a must-visit for serious food-loving families."
+      "desc": "Chef Eduardo Garc\u00eda, refined Mexican cuisine, Roma favorite",
+      "longDesc": "Chef Eduardo Garc\u00eda's masterful take on Mexican cuisine celebrates fresh ingredients and traditional techniques, making this intimate Roma restaurant must-visit for serious food lovers."
     },
     {
-      "name": "ULTRAMARINOS DEMAR",
+      "name": "Sud 777",
+      "coord": [
+        19.428,
+        -99.164
+      ],
+      "desc": "Contemporary Mexican, chef Rodolfo Guzm\u00e1n, rooftop dining",
+      "longDesc": "This innovative restaurant in Roma features rooftop dining with city views and a menu celebrating Mexico's regional ingredients\u2014sophisticated yet approachable for adventurous families."
+    },
+    {
+      "name": "Mientras Tanto",
+      "coord": [
+        19.431,
+        -99.17
+      ],
+      "desc": "Chef Alejandro Vera, Mediterranean-Mexican fusion, Roma",
+      "longDesc": "This intimate neighborhood bistro blends Mediterranean and Mexican traditions with seasonal ingredients\u2014a cozy gathering place for families seeking authentic, flavorful dining."
+    },
+    {
+      "name": "Biko",
+      "coord": [
+        19.4366,
+        -99.1945
+      ],
+      "desc": "Michelin-starred contemporary cuisine, chef Rodolfo Guzm\u00e1n",
+      "longDesc": "Chef Rodolfo Guzm\u00e1n's tasting-menu restaurant pushes culinary boundaries with artistic presentations and unexpected flavor combinations\u2014transformative for adventurous foodies."
+    },
+    {
+      "name": "Merotoro",
+      "coord": [
+        19.4345,
+        -99.165
+      ],
+      "desc": "Contemporary Mexican small plates, chef Jair Tellez",
+      "longDesc": "Chef Jair Tellez's innovative small-plates restaurant celebrates Mexican ingredients with creative techniques\u2014perfect for families who enjoy exploring bold, unexpected flavors."
+    },
+    {
+      "name": "Mono",
+      "coord": [
+        19.4298,
+        -99.1605
+      ],
+      "desc": "Chef Rodolfo D\u00edaz, contemporary Mexican, Roma dining",
+      "longDesc": "This acclaimed Roma restaurant showcases thoughtful Mexican cuisine with artistic presentation\u2014a sophisticated yet accessible destination for families seeking culinary excellence."
+    },
+    {
+      "name": "Ultramarinos DeMAR",
       "coord": [
         19.4314,
         -99.1602
       ],
-      "city": "Mexico City",
-      "cuisine": "Seafood",
-      "desc": "Contemporary seafood bar, Roma Norte",
-      "longDesc": "A sleek, contemporary seafood bar in the heart of Roma Norte that brings fresh coastal flavors to the capital, perfect for families who want quality seafood without stuffy formality."
+      "desc": "Contemporary seafood bar in Roma Norte, fresh preparations",
+      "longDesc": "This sleek, contemporary seafood bar in Roma Norte brings fresh coastal flavors to the capital\u2014perfect for families who want quality seafood without stuffy formality."
+    },
+    {
+      "name": "Blanco Colima",
+      "coord": [
+        19.4295,
+        -99.1613
+      ],
+      "desc": "Upscale Mexican cuisine, chef Edgar N\u00fa\u00f1ez, Roma location",
+      "longDesc": "This sophisticated Roma restaurant celebrates Mexican flavors with refined technique and beautiful plating\u2014ideal for families seeking elevated traditional cooking."
+    },
+    {
+      "name": "Tamayo",
+      "coord": [
+        19.4332,
+        -99.1728
+      ],
+      "desc": "Chef Francisco Pellegrin, French-Mexican cuisine, Roma",
+      "longDesc": "This elegant bistro blends French technique with Mexican ingredients, featuring seasonal menus in a charming Roma setting\u2014sophisticated comfort food for families."
+    },
+    {
+      "name": "Punto MX",
+      "coord": [
+        19.4295,
+        -99.1635
+      ],
+      "desc": "Chef Rodolfo D\u00edaz, modern Mexican small plates and cocktails",
+      "longDesc": "This acclaimed restaurant features innovative small plates and expertly crafted cocktails celebrating Mexican ingredients\u2014perfect for adventurous families enjoying creative cuisine."
+    },
+    {
+      "name": "Xoco",
+      "coord": [
+        19.431,
+        -99.167
+      ],
+      "desc": "Chef Enrique Olvera's casual sandwich shop, local favorite",
+      "longDesc": "Chef Enrique Olvera's more casual concept focuses on elevated sandwiches and simple preparations\u2014perfect for families seeking delicious, approachable meals from a world-class kitchen."
+    },
+    {
+      "name": "Dezeen",
+      "coord": [
+        19.4318,
+        -99.1645
+      ],
+      "desc": "Contemporary Mexican, chef Mariana Vel\u00e1zquez, natural wines",
+      "longDesc": "This wine-focused restaurant pairs exceptional natural wines with innovative Mexican dishes\u2014ideal for families who enjoy discovering regional flavors with adventurous pairings."
+    },
+    {
+      "name": "La Docena",
+      "coord": [
+        19.4338,
+        -99.1658
+      ],
+      "desc": "Seafood-focused restaurant, oyster bar, Condesa location",
+      "longDesc": "This lively seafood spot in Condesa features fresh oysters, ceviche, and coastal preparations\u2014perfect casual dining for families who love ocean flavors."
+    },
+    {
+      "name": "Perico",
+      "coord": [
+        19.4312,
+        -99.1683
+      ],
+      "desc": "Chef Ignacio Solares, Mexican comfort food, rooftop views",
+      "longDesc": "This chef-driven restaurant celebrates Mexican comfort food traditions with refined technique and rooftop views\u2014satisfying and sophisticated for families seeking soul-warming meals."
+    },
+    {
+      "name": "Brindis",
+      "coord": [
+        19.433,
+        -99.1665
+      ],
+      "desc": "Spanish-inspired tapas, Mexican ingredients, Condesa",
+      "longDesc": "This tapas-style restaurant blends Spanish and Mexican culinary traditions\u2014perfect for families enjoying shared small plates and wine in a lively Condesa setting."
+    },
+    {
+      "name": "Donaj\u00ed",
+      "coord": [
+        17.065,
+        -96.726
+      ],
+      "desc": "Indigenous Oaxacan cuisine, traditional recipes, market-fresh",
+      "longDesc": "This restaurant celebrates indigenous Oaxacan recipes using market-fresh ingredients and traditional cooking methods\u2014transformative for families seeking authentic culinary traditions."
+    },
+    {
+      "name": "Casa Oaxaca",
+      "coord": [
+        17.0625,
+        -96.7275
+      ],
+      "desc": "Contemporary Oaxacan cuisine, chef Rodolfo Mor\u00edn",
+      "longDesc": "Chef Rodolfo Mor\u00edn's intimate restaurant showcases refined Oaxacan dishes in a charming colonial setting\u2014perfect for families exploring Mexico's most flavorful regional cuisine."
+    },
+    {
+      "name": "Casa Crespo Restaurant",
+      "coord": [
+        17.0614,
+        -96.7288
+      ],
+      "desc": "Rooftop Oaxacan dining with city views, traditional recipes",
+      "longDesc": "This rooftop restaurant in a colonial mansion serves traditional Oaxacan recipes with stunning views\u2014romantic and immersive for families discovering local food culture."
+    },
+    {
+      "name": "Abacus Oaxaca",
+      "coord": [
+        17.0635,
+        -96.727
+      ],
+      "desc": "Chef Tom\u00e1s Delgado, contemporary Oaxacan, seven moles",
+      "longDesc": "This small restaurant celebrates Oaxaca's seven mole traditions with contemporary technique\u2014a flavor journey for families serious about understanding regional culinary heritage."
+    },
+    {
+      "name": "Mezcaleria Zig-Zag",
+      "coord": [
+        17.0645,
+        -96.7265
+      ],
+      "desc": "Mezcal-focused restaurant in Oaxaca, traditional appetizers",
+      "longDesc": "This mezcal sanctuary pairs premium spirits with traditional Oaxacan appetizers\u2014ideal for families learning about Mexico's heritage spirit and artisanal food traditions."
+    },
+    {
+      "name": "Hidalgo",
+      "coord": [
+        17.0658,
+        -96.725
+      ],
+      "desc": "Chef Julio L\u00f3pez, innovative Oaxacan cuisine, contemporary plating",
+      "longDesc": "This intimate chef's restaurant showcases innovative Oaxacan cooking with refined presentation\u2014a sophisticated experience for families exploring cutting-edge regional cuisine."
+    },
+    {
+      "name": "Guelaguetza",
+      "coord": [
+        17.067,
+        -96.7255
+      ],
+      "desc": "Traditional Oaxacan recipes, indigenous ingredients, lively atmosphere",
+      "longDesc": "This lively family-run restaurant celebrates Oaxacan cooking heritage with authentic recipes and indigenous ingredients\u2014fun and immersive for families seeking genuine regional flavors."
     },
     {
       "name": "Ki'bok Coffee Tulum",
@@ -70,21 +647,314 @@
         20.2115,
         -87.461
       ],
-      "city": "Tulum",
-      "cuisine": "Cafe",
-      "desc": "Specialty coffee roaster, bohemian Tulum vibe",
-      "longDesc": "This specialty coffee roastery captures Tulum's laid-back, bohemian spirit while serving expertly crafted coffee, making it a morning ritual worth building your day around."
+      "desc": "Specialty coffee roaster, bohemian Tulum vibe, quality brew",
+      "longDesc": "This specialty coffee roastery captures Tulum's laid-back, bohemian spirit while serving expertly crafted coffee\u2014a morning ritual worth building your day around."
     },
     {
-      "name": "Restaurante Bar El Capitán",
+      "name": "Hartwood",
+      "coord": [
+        20.2098,
+        -87.4635
+      ],
+      "desc": "Farm-to-table, wood-fire cooking, bohemian Tulum beach dining",
+      "longDesc": "This celebrated farm-to-table restaurant on Tulum's beach features wood-fire cooking and daily-changing menus\u2014rustic sophistication families love for special dinners."
+    },
+    {
+      "name": "Los Tacos de Pablo",
+      "coord": [
+        20.2105,
+        -87.4625
+      ],
+      "desc": "Authentic street tacos in Tulum, beloved local favorite",
+      "longDesc": "This simple street-side taquer\u00eda serves authentic, delicious tacos that locals queue for daily\u2014perfect introduction to Tulum's casual, flavorful food culture."
+    },
+    {
+      "name": "Restaurante Bar El Capit\u00e1n",
       "coord": [
         20.2102,
         -87.4624
       ],
-      "city": "Tulum",
-      "cuisine": "Seafood",
-      "desc": "Local Tulum seafood, casual beachside dining",
-      "longDesc": "Casual beachside dining with fresh-caught seafood and stunning ocean views, this local favorite offers authentic Tulum flavor without pretension—exactly what families need after beach time."
+      "desc": "Local Tulum seafood, casual beachside dining, ocean views",
+      "longDesc": "Casual beachside dining with fresh-caught seafood and stunning ocean views\u2014this local favorite offers authentic Tulum flavor without pretension."
+    },
+    {
+      "name": "Taco Stand Paradise",
+      "coord": [
+        20.212,
+        -87.46
+      ],
+      "desc": "Gourmet street tacos, slow-cooked meats, Tulum",
+      "longDesc": "This elevated taco stand serves slow-cooked meats prepared with care\u2014authentically delicious and affordable for families discovering Tulum's taco traditions."
+    },
+    {
+      "name": "Astrid y Gast\u00f3n Oaxaca",
+      "coord": [
+        17.0652,
+        -96.7272
+      ],
+      "desc": "Contemporary Peruvian-Mexican fusion, chef influences",
+      "longDesc": "This upscale fusion concept brings Peruvian culinary traditions to Oaxaca\u2014sophisticated and creative for adventurous families seeking unexpected flavor combinations."
+    },
+    {
+      "name": "Mezcal Casa Oaxaca",
+      "coord": [
+        17.064,
+        -96.7285
+      ],
+      "desc": "Mezcal bar and restaurant, distillery tours, tasting menus",
+      "longDesc": "This comprehensive mezcal experience includes tastings, distillery knowledge, and food pairings\u2014educational and delicious for families learning about Mexico's spirit heritage."
+    },
+    {
+      "name": "Museo Gastron\u00f3mico Oaxaca",
+      "coord": [
+        17.0668,
+        -96.7248
+      ],
+      "desc": "Food museum and restaurant, educational cooking experiences",
+      "longDesc": "This unique museum-restaurant hybrid offers educational cooking classes and regional tastings\u2014ideal for families wanting to deeply understand Oaxacan food culture."
+    },
+    {
+      "name": "Cafeter\u00eda Br\u00fajula",
+      "coord": [
+        17.0628,
+        -96.728
+      ],
+      "desc": "Caf\u00e9, pastries, breakfast spot in Oaxaca center",
+      "longDesc": "This charming caf\u00e9 serves excellent pastries and coffee in Oaxaca's historic center\u2014a perfect morning gathering spot for families before exploring markets."
+    },
+    {
+      "name": "Mercadito",
+      "coord": [
+        19.0325,
+        -98.207
+      ],
+      "desc": "Chef Jair T\u00e9llez, Mexican street food elevated, Puebla",
+      "longDesc": "This casual yet chef-driven restaurant celebrates Mexican street food traditions with refined technique\u2014accessible sophistication for families in Puebla."
+    },
+    {
+      "name": "El Mole Pipi\u00e1n",
+      "coord": [
+        19.034,
+        -98.2055
+      ],
+      "desc": "Traditional Puebla cuisine, mole specialties, family recipes",
+      "longDesc": "This traditional restaurant celebrates Puebla's mole heritage with family recipes passed through generations\u2014authentic and deeply flavorful for culinary-curious families."
+    },
+    {
+      "name": "Revistazo",
+      "coord": [
+        19.035,
+        -98.2085
+      ],
+      "desc": "Contemporary Mexican, chef Carlos Espinosa, Puebla",
+      "longDesc": "Chef Carlos Espinosa's innovative restaurant showcases Puebla's ingredients with contemporary technique\u2014sophisticated for families exploring regional Mexican cuisine."
+    },
+    {
+      "name": "La Pasita",
+      "coord": [
+        19.033,
+        -98.2065
+      ],
+      "desc": "Traditional Puebla sweets and drinks, colonial setting",
+      "longDesc": "This historic sweet shop serves traditional Puebla beverages and pastries in a colonial setting\u2014charming for families seeking authentic local treats."
+    },
+    {
+      "name": "Casa Santo Domingo",
+      "coord": [
+        19.0345,
+        -98.208
+      ],
+      "desc": "Fine dining in historic convent, Puebla culinary tradition",
+      "longDesc": "This upscale restaurant in a converted convent showcases Puebla's culinary heritage in a stunning historic setting\u2014sophisticated and culturally rich for families."
+    },
+    {
+      "name": "Restaurante Merida 60",
+      "coord": [
+        20.9674,
+        -89.6237
+      ],
+      "desc": "Contemporary Yucat\u00e1n cuisine, regional specialties",
+      "longDesc": "This modern restaurant celebrates Yucat\u00e1n's distinctive culinary traditions with regional ingredients and techniques\u2014perfect introduction to peninsula food culture."
+    },
+    {
+      "name": "Casa Kin",
+      "coord": [
+        20.968,
+        -89.6245
+      ],
+      "desc": "Chef Luis Lozano, Yucat\u00e1n traditional cooking, casual",
+      "longDesc": "Chef Luis Lozano's casual restaurant serves authentic Yucat\u00e1n recipes including cochinita pibil and ceviche\u2014flavorful and welcoming for curious food-loving families."
+    },
+    {
+      "name": "La Chaya Maya",
+      "coord": [
+        20.969,
+        -89.625
+      ],
+      "desc": "Yucat\u00e1n regional dishes, traditional market ingredients",
+      "longDesc": "This family-run restaurant celebrates Yucat\u00e1n's distinctive flavors with traditional recipes and market-fresh ingredients\u2014authentic and fun for cultural food explorers."
+    },
+    {
+      "name": "Tacos de Cochinita Pibil",
+      "coord": [
+        20.9685,
+        -89.624
+      ],
+      "desc": "Iconic Yucat\u00e1n tacos, slow-roasted pork, locals' favorite",
+      "longDesc": "This simple spot serves M\u00e9rida's signature dish\u2014slow-roasted pork tacos with traditional preparation\u2014beloved by locals and transformative for taco-loving families."
+    },
+    {
+      "name": "Casa Lucia",
+      "coord": [
+        20.967,
+        -89.626
+      ],
+      "desc": "Chef Lucia L\u00f3pez, Yucat\u00e1n cooking school and restaurant",
+      "longDesc": "This chef-run restaurant and cooking school offers both meals and hands-on classes\u2014ideal for families wanting to learn authentic Yucat\u00e1n techniques."
+    },
+    {
+      "name": "Guacamole Grill",
+      "coord": [
+        23.634,
+        -109.976
+      ],
+      "desc": "Seafood-focused restaurant in Los Cabos, ceviche, fresh fish",
+      "longDesc": "This beachfront restaurant in Los Cabos celebrates local seafood with creative preparations\u2014perfect for families enjoying fresh ocean flavors in sunset settings."
+    },
+    {
+      "name": "Flora Farms",
+      "coord": [
+        23.62,
+        -109.985
+      ],
+      "desc": "Farm-to-table restaurant in Los Cabos, garden-fresh ingredients",
+      "longDesc": "This sustainable farm-to-table restaurant in Los Cabos showcases locally grown vegetables and prepared foods\u2014healthy and flavorful for families seeking fresh cuisine."
+    },
+    {
+      "name": "Cabo Pulmo National Park Restaurant",
+      "coord": [
+        23.37,
+        -109.42
+      ],
+      "desc": "Seafood restaurant near Cabo Pulmo marine reserve",
+      "longDesc": "This simple beachfront spot near Cabo Pulmo marine reserve serves super-fresh caught fish\u2014authentic fishing village dining for adventure-seeking families."
+    },
+    {
+      "name": "Mi Cocina",
+      "coord": [
+        20.915,
+        -100.75
+      ],
+      "desc": "Contemporary Mexican in San Miguel de Allende, Chef Javier",
+      "longDesc": "This elegant restaurant in San Miguel showcases creative Mexican cuisine in an artistic setting\u2014perfect for families exploring this cultural heartland."
+    },
+    {
+      "name": "Caf\u00e9 Santa Ana",
+      "coord": [
+        20.9145,
+        -100.752
+      ],
+      "desc": "Casual caf\u00e9 in San Miguel de Allende, breakfast favorite",
+      "longDesc": "This friendly caf\u00e9 in San Miguel's center serves excellent breakfasts and coffee\u2014a gathering place for families starting their days of exploring."
+    },
+    {
+      "name": "El Pegote",
+      "coord": [
+        20.916,
+        -100.748
+      ],
+      "desc": "Intimate restaurant in San Miguel, chef's tasting menu",
+      "longDesc": "This cozy restaurant features intimate chef's tasting menus with creative preparations\u2014sophisticated yet approachable for adventurous families."
+    },
+    {
+      "name": "Coni",
+      "coord": [
+        20.9155,
+        -100.751
+      ],
+      "desc": "Contemporary Mexican street food, San Miguel",
+      "longDesc": "This casual street food spot elevates traditional Mexican snacks\u2014affordable and delicious for families seeking authentic, quick meals."
+    },
+    {
+      "name": "Luna Caf\u00e9",
+      "coord": [
+        20.914,
+        -100.7505
+      ],
+      "desc": "Bohemian caf\u00e9 in San Miguel, art community gathering spot",
+      "longDesc": "This charming caf\u00e9 in San Miguel's artistic center serves great coffee and attracts creative types\u2014culturally immersive for families appreciating local arts."
+    },
+    {
+      "name": "Restaurante Guanajuato",
+      "coord": [
+        21.016,
+        -101.256
+      ],
+      "desc": "Contemporary Mexican cuisine, views of colorful city",
+      "longDesc": "This restaurant overlooking Guanajuato's iconic hillside cityscape serves refined Mexican cooking\u2014romantic dinner setting for families celebrating special moments."
+    },
+    {
+      "name": "Casa del Conde",
+      "coord": [
+        21.0155,
+        -101.2565
+      ],
+      "desc": "Colonial building restaurant in Guanajuato historic center",
+      "longDesc": "This restaurant in a restored colonial building offers authentic atmosphere and regional cuisine\u2014culturally rich dining for families exploring Guanajuato."
+    },
+    {
+      "name": "Taco Taco Cafe",
+      "coord": [
+        21.015,
+        -101.257
+      ],
+      "desc": "Casual taco shop in Guanajuato, local favorite",
+      "longDesc": "This unpretentious taquer\u00eda serves authentic, delicious tacos\u2014perfect casual meal for families exploring Guanajuato's hillside streets."
+    },
+    {
+      "name": "Playa Blanca",
+      "coord": [
+        20.6296,
+        -87.0739
+      ],
+      "desc": "Beachfront restaurant in Playa del Carmen, fresh seafood",
+      "longDesc": "This beachfront restaurant in Playa del Carmen serves fresh seafood with Caribbean flair\u2014casual sophistication for families enjoying beach dining."
+    },
+    {
+      "name": "Se\u00f1or Frogs",
+      "coord": [
+        20.631,
+        -87.075
+      ],
+      "desc": "Fun beachfront bar and restaurant, live music, families welcome",
+      "longDesc": "This lively beachfront spot features live music, fun atmosphere, and Caribbean-Mexican cuisine\u2014entertaining family dining in the heart of Playa del Carmen."
+    },
+    {
+      "name": "The Taco Spot",
+      "coord": [
+        20.63,
+        -87.0745
+      ],
+      "desc": "Elevated street tacos in Playa del Carmen, local favorite",
+      "longDesc": "This casual spot serves gourmet street tacos with quality ingredients\u2014affordable yet delicious for families exploring Playa del Carmen."
+    },
+    {
+      "name": "Casa de la Frontera",
+      "coord": [
+        17.0615,
+        -96.7295
+      ],
+      "desc": "Border-inspired cuisine, Oaxaca-Chiapas traditions",
+      "longDesc": "This unique restaurant celebrates the culinary traditions where Oaxaca and Chiapas meet\u2014exotic and flavorful for families seeking regional fusion."
+    },
+    {
+      "name": "Los Danzantes Oaxaca",
+      "coord": [
+        17.066,
+        -96.725
+      ],
+      "desc": "Mezcal-focused restaurant with food pairings, Oaxaca",
+      "longDesc": "This mezcal bar and restaurant offers expert pairings of premium spirits with small plates\u2014sophisticated for families learning about regional traditions."
     }
   ],
   "experiences": [
@@ -94,39 +964,350 @@
         19.4383,
         -99.1367
       ],
-      "city": "Mexico City",
-      "desc": "Archaeological site of Aztec temple complex in historic center",
-      "longDesc": "This remarkable Aztec temple complex, discovered beneath Mexico City, reveals layers of pre-Hispanic history and artistry that bring ancient civilizations vividly to life for curious visitors of all ages."
+      "desc": "Aztec temple complex in historic center, archaeological museum",
+      "longDesc": "This remarkable Aztec temple complex, discovered beneath Mexico City, reveals layers of pre-Hispanic history and artistry that bring ancient civilizations vividly to life."
     },
     {
-      "name": "Frida Kahlo Museum",
+      "name": "Frida Kahlo Museum (Casa Azul)",
       "coord": [
         19.4159,
         -99.1461
       ],
-      "city": "Mexico City",
-      "desc": "Casa Azul, the iconic blue house and museum",
-      "longDesc": "Casa Azul's vivid blue walls and intimate rooms showcase the artist's iconic paintings, personal artifacts, and bohemian spirit, creating an unforgettable window into Mexican culture and creativity."
+      "desc": "Iconic blue house and museum, Frida's life and paintings",
+      "longDesc": "Casa Azul's vivid blue walls and intimate rooms showcase Frida's iconic paintings, personal artifacts, and bohemian spirit\u2014an unforgettable window into Mexican creativity."
     },
     {
-      "name": "Chichén Itzá",
+      "name": "Museo de Antropolog\u00eda",
+      "coord": [
+        19.4283,
+        -99.1882
+      ],
+      "desc": "World-class anthropology museum, pre-Hispanic artifacts, Aztec sun stone",
+      "longDesc": "This magnificent museum houses Mexico's most important pre-Hispanic artifacts, including the iconic Aztec sun stone\u2014essential for understanding ancient Mesoamerican civilizations."
+    },
+    {
+      "name": "Palacio Nacional",
+      "coord": [
+        19.4326,
+        -99.1333
+      ],
+      "desc": "Historic government building, Diego Rivera murals, architectural significance",
+      "longDesc": "This iconic palace features stunning Diego Rivera murals depicting Mexican history and showcases colonial architecture\u2014culturally essential for understanding modern Mexico."
+    },
+    {
+      "name": "Chich\u00e9n Itz\u00e1",
       "coord": [
         20.6829,
         -87.5479
       ],
-      "city": "Yucatán",
-      "desc": "Iconic Maya ruins with El Castillo pyramid",
-      "longDesc": "One of the New World's most impressive Maya archaeological sites, featuring the iconic stepped pyramid El Castillo, this destination combines stunning architecture with profound historical significance."
+      "desc": "Iconic Maya ruins, El Castillo pyramid, sacred cenote",
+      "longDesc": "One of the New World's most impressive Maya archaeological sites, featuring the iconic stepped pyramid El Castillo, combines stunning architecture with profound historical significance."
     },
     {
-      "name": "Cenote Swimming",
+      "name": "Tulum Ruins",
+      "coord": [
+        20.2113,
+        -87.4142
+      ],
+      "desc": "Clifftop Maya ruins overlooking Caribbean, walled city",
+      "longDesc": "These dramatic Maya ruins perched on cliffs above turquoise Caribbean waters showcase pre-Hispanic architecture and engineering\u2014unforgettable for history-loving families."
+    },
+    {
+      "name": "Cenote Swimming (Tulum)",
       "coord": [
         20.21,
         -87.46
       ],
-      "city": "Tulum",
-      "desc": "Swimming in crystal-clear underground cenote pools",
-      "longDesc": "These natural limestone sinkholes with crystal-clear underground waters offer a uniquely refreshing and magical experience—part swimming hole, part geological wonder—that kids and adults equally adore."
+      "desc": "Crystal-clear underground cenote pools, geological wonder",
+      "longDesc": "These natural limestone sinkholes with crystal-clear underground waters offer a uniquely refreshing and magical swimming experience\u2014part geological wonder, part pure joy."
+    },
+    {
+      "name": "Teotihuac\u00e1n",
+      "coord": [
+        19.69,
+        -98.844
+      ],
+      "desc": "Pre-Aztec pyramid complex, Pyramid of the Sun, Avenue of the Dead",
+      "longDesc": "This pre-Aztec ceremonial complex features massive pyramids and sacred architecture that dominated Mesoamerica\u2014spiritually powerful for families seeking ancient mysteries."
+    },
+    {
+      "name": "Museo de Frida Kahlo",
+      "coord": [
+        19.4159,
+        -99.1461
+      ],
+      "desc": "Casa Azul, artist's personal collection, biographical exhibitions",
+      "longDesc": "This intimate museum in Frida's former home showcases her personal collection, artwork, and biographical materials\u2014deeply moving for families appreciating artistic genius."
+    },
+    {
+      "name": "Castillo de Chapultepec",
+      "coord": [
+        19.4265,
+        -99.1865
+      ],
+      "desc": "Historic castle in Chapultepec Park, national museum",
+      "longDesc": "This historic hilltop castle overlooks Mexico City and houses important museum collections\u2014offering both history and panoramic views families cherish."
+    },
+    {
+      "name": "Palenque",
+      "coord": [
+        17.4845,
+        -92.0456
+      ],
+      "desc": "Maya ruins in jungle, elaborate stone carvings, mystical setting",
+      "longDesc": "This mystical Maya city deep in Chiapas jungle showcases elaborate architecture and intricate stonework\u2014profoundly spiritual for adventurous families."
+    },
+    {
+      "name": "Oaxaca Archaeological Sites",
+      "coord": [
+        17.068,
+        -96.721
+      ],
+      "desc": "Monte Alb\u00e1n, Mitla, pre-Hispanic cultures",
+      "longDesc": "Oaxaca's surrounding archaeological zones reveal sophisticated pre-Hispanic cultures with distinctive architecture and artistic traditions\u2014educational for curious families."
+    },
+    {
+      "name": "Monte Alb\u00e1n",
+      "coord": [
+        17.068,
+        -96.721
+      ],
+      "desc": "Pre-Hispanic Zapotec city ruins, hilltop location, terraced architecture",
+      "longDesc": "This ancient Zapotec city on a flattened mountain showcases sophisticated pre-Hispanic architecture and urban planning\u2014dramatically situated for exploring ancient wisdom."
+    },
+    {
+      "name": "Xochimilco",
+      "coord": [
+        19.2756,
+        -99.097
+      ],
+      "desc": "Aztec floating gardens, colorful boats, island gardens",
+      "longDesc": "These ancient Aztec floating gardens feature colorful traditional boats, island gardens, and waterways\u2014magical and enchanting for families enjoying Mexico City day trips."
+    },
+    {
+      "name": "Mercado de Artesan\u00edas (Anthropology Museum Shop)",
+      "coord": [
+        19.4283,
+        -99.1882
+      ],
+      "desc": "Artisan crafts market, indigenous art, folk traditions",
+      "longDesc": "This museum-affiliated market showcases authentic indigenous crafts and folk art traditions\u2014perfect for families supporting artisans while discovering regional talents."
+    },
+    {
+      "name": "Mezcal Distillery Tours (Oaxaca)",
+      "coord": [
+        17.065,
+        -96.726
+      ],
+      "desc": "Artisanal mezcal production, distillery visits, tastings",
+      "longDesc": "Oaxaca's mezcal distilleries offer fascinating production tours and tastings of Mexico's heritage spirit\u2014educational for families learning about cultural traditions."
+    },
+    {
+      "name": "Museo Tamayo",
+      "coord": [
+        19.4308,
+        -99.1828
+      ],
+      "desc": "Contemporary art museum, rotating exhibitions",
+      "longDesc": "This modern art museum showcases contemporary works by established and emerging artists\u2014inspiring for families appreciating cutting-edge creative expression."
+    },
+    {
+      "name": "Museo de Arte Popular",
+      "coord": [
+        19.4265,
+        -99.17
+      ],
+      "desc": "Folk art museum, traditional Mexican crafts, textiles",
+      "longDesc": "This vibrant museum celebrates Mexican folk art traditions including textiles, ceramics, and crafts\u2014colorful and inspiring for artistically-curious families."
+    },
+    {
+      "name": "Tlatelolco (Three Cultures)",
+      "coord": [
+        19.4513,
+        -99.137
+      ],
+      "desc": "Archaeological site with Aztec, Spanish colonial, and modern Mexico layers",
+      "longDesc": "This complex site layers pre-Hispanic Aztec ruins, Spanish colonial church, and modern plaza\u2014visually representing Mexico's rich historical integration."
+    },
+    {
+      "name": "Mirador Pico de Orizaba",
+      "coord": [
+        19.0341,
+        -97.2676
+      ],
+      "desc": "Mexico's highest volcano, hiking, mountain views",
+      "longDesc": "This towering volcano offers dramatic mountain hiking and panoramic views across central Mexico\u2014inspiring for active families seeking natural grandeur."
+    },
+    {
+      "name": "Cenote Route (Riviera Maya)",
+      "coord": [
+        20.21,
+        -87.46
+      ],
+      "desc": "Multiple cenotes, swimming, snorkeling, cave exploration",
+      "longDesc": "The Riviera Maya's cenote route offers multiple opportunities for swimming, snorkeling, and exploring caves\u2014magical natural experiences children absolutely adore."
+    },
+    {
+      "name": "Xcaret Park",
+      "coord": [
+        20.64,
+        -87.06
+      ],
+      "desc": "Eco-adventure park with beach, snorkeling, ziplining, cenotes",
+      "longDesc": "This comprehensive eco-adventure park combines beach, snorkeling, adventure activities, and cenote exploration\u2014comprehensive family fun in one destination."
+    },
+    {
+      "name": "Isla Mujeres Day Trip",
+      "coord": [
+        21.23,
+        -86.73
+      ],
+      "desc": "Island getaway from Cancun, beaches, snorkeling, Caribbean vibe",
+      "longDesc": "This charming island off Cancun offers pristine beaches, excellent snorkeling, and laid-back Caribbean atmosphere\u2014perfect day trip for beach-loving families."
+    },
+    {
+      "name": "Cozumel Diving & Snorkeling",
+      "coord": [
+        20.505,
+        -87.075
+      ],
+      "desc": "World-class diving destination, reef systems, marine life",
+      "longDesc": "This world-renowned diving hub features spectacular coral reefs and abundant marine life\u2014transformative for families wanting to explore underwater Mexico."
+    },
+    {
+      "name": "Garibaldi Plaza (Mariachi Music)",
+      "coord": [
+        19.4406,
+        -99.1335
+      ],
+      "desc": "Historic plaza, live mariachi bands, traditional music",
+      "longDesc": "This lively plaza is where authentic mariachi musicians perform\u2014a quintessential Mexican experience that families find musically enchanting and culturally enriching."
+    },
+    {
+      "name": "Museo Nacional de Historia",
+      "coord": [
+        19.4265,
+        -99.1865
+      ],
+      "desc": "Mexican history museum in Chapultepec Castle",
+      "longDesc": "This comprehensive history museum chronicles Mexico from pre-Hispanic times through modern era\u2014essential for families wanting deep historical understanding."
+    },
+    {
+      "name": "Museo de Arte Moderno",
+      "coord": [
+        19.4258,
+        -99.187
+      ],
+      "desc": "Modern art museum, contemporary Mexican artists",
+      "longDesc": "This museum showcases contemporary Mexican artistic expression\u2014inspiring for families appreciating modern creative vision and cultural perspectives."
+    },
+    {
+      "name": "Lucha Libre (Wrestling)",
+      "coord": [
+        19.43,
+        -99.15
+      ],
+      "desc": "Traditional masked wrestling matches, historic arena",
+      "longDesc": "Mexico's iconic masked wrestling tradition combines athleticism, theater, and spectacle\u2014entertainment that fascinates kids and adults alike."
+    },
+    {
+      "name": "Bellas Artes Palace",
+      "coord": [
+        19.4359,
+        -99.1369
+      ],
+      "desc": "Ornate cultural palace, performing arts, architectural marvel",
+      "longDesc": "This stunning Art Deco palace showcases performing arts and architecture\u2014cultural centerpiece that impresses families with its grandeur and significance."
+    },
+    {
+      "name": "Playa Maya Beach (Riviera Maya)",
+      "coord": [
+        20.6296,
+        -87.0739
+      ],
+      "desc": "Family-friendly Caribbean beach, water sports, resorts",
+      "longDesc": "This expansive Caribbean beach offers calm waters, water sports, and family facilities\u2014perfect base for Riviera Maya beach vacation relaxation."
+    },
+    {
+      "name": "Laguna Bacalar",
+      "coord": [
+        18.6858,
+        -87.692
+      ],
+      "desc": "Seven-colored lagoon, cenote, kayaking, snorkeling",
+      "longDesc": "This stunning lagoon features seven distinct colors, cenotes, and clear water perfect for kayaking\u2014natural wonder that captivates everyone."
+    },
+    {
+      "name": "Kohunlich Maya Ruins",
+      "coord": [
+        18.7433,
+        -87.8656
+      ],
+      "desc": "Remote Maya ruins, jungle setting, pre-Hispanic agriculture",
+      "longDesc": "These remote jungle ruins reveal sophisticated pre-Hispanic agricultural engineering and ceremonial architecture\u2014mysterious and adventurous for exploratory families seeking genuine archaeological wonders."
+    },
+    {
+      "name": "Sian Ka'an Biosphere Reserve",
+      "coord": [
+        20.3,
+        -87.45
+      ],
+      "desc": "Protected biosphere, mangrove ecosystems, wildlife, boat tours",
+      "longDesc": "This vast biosphere reserve protects unique ecosystems and wildlife\u2014pristine nature experiences for environmentally-conscious adventuring families."
+    },
+    {
+      "name": "Aktun Chen Cave",
+      "coord": [
+        20.4,
+        -87.27
+      ],
+      "desc": "Stalactite cave, cenote, nature trail, guided tours",
+      "longDesc": "This impressive cave system features dramatic stalactites, underground pools, and nature trails\u2014geological wonder families find utterly fascinating."
+    },
+    {
+      "name": "Puerto Morelos Reef",
+      "coord": [
+        20.864,
+        -86.887
+      ],
+      "desc": "Protected reef system, snorkeling, marine sanctuary",
+      "longDesc": "This protected reef offers excellent snorkeling and marine biodiversity\u2014perfect for families wanting authentic reef encounters away from crowds."
+    },
+    {
+      "name": "Cenote Ik Kil",
+      "coord": [
+        20.847,
+        -87.6
+      ],
+      "desc": "Sacred Maya cenote, collapsed sinkhole, swimming, cultural significance",
+      "longDesc": "This sacred cenote with dramatic collapsed sinkhole offers swimming and spiritual significance\u2014profound for families interested in Maya traditions."
+    },
+    {
+      "name": "Xcel-H\u00e1 Eco-Park",
+      "coord": [
+        20.3514,
+        -87.3214
+      ],
+      "desc": "All-inclusive eco-adventure park, lagoons, cenotes, zip-lining",
+      "longDesc": "This comprehensive eco-park combines swimming, snorkeling, zip-lining, cenotes, and cultural shows\u2014complete family adventure in one destination."
+    },
+    {
+      "name": "Yucatan Cenote Pools",
+      "coord": [
+        20.4,
+        -87.35
+      ],
+      "desc": "Multiple cenotes, variety of swimming experiences",
+      "longDesc": "The Yucat\u00e1n's cenote system offers dozens of swimming opportunities from crystal pools to jungle caves\u2014endlessly enchanting for water-loving families."
+    },
+    {
+      "name": "Calakmul",
+      "coord": [
+        18.2156,
+        -89.7794
+      ],
+      "desc": "Remote Maya city, jungle pyramids, wildlife reserve",
+      "longDesc": "This remote jungle city reveals sophisticated Maya civilization hidden within pristine forest\u2014adventure and mystery for intrepid archaeological families."
     }
   ],
   "kidFriendly": [
@@ -136,19 +1317,26 @@
         19.4265,
         -99.1865
       ],
-      "city": "Mexico City",
-      "desc": "Large urban park with museums, zoo, and playgrounds",
-      "longDesc": "This sprawling Mexico City oasis combines world-class museums, an interactive zoo, historic castles, and playgrounds, providing endless discovery and play for families in one magnificent urban park."
+      "desc": "Massive urban park with museums, zoo, castle, playgrounds",
+      "longDesc": "This sprawling Mexico City oasis combines world-class museums, an interactive zoo, historic castles, and playgrounds\u2014endless discovery and play for families."
     },
     {
-      "name": "Xel-Há Water Park",
+      "name": "Xel-H\u00e1 Water Park",
       "coord": [
         20.3514,
         -87.3214
       ],
-      "city": "Riviera Maya",
-      "desc": "All-inclusive eco-adventure park with snorkeling and wildlife",
-      "longDesc": "An all-inclusive eco-adventure park where families can snorkel among tropical fish, zip-line through cenotes, and encounter wildlife in a stunning riverside setting designed for fun and conservation."
+      "desc": "All-inclusive eco-adventure park with snorkeling, zip-lines, wildlife",
+      "longDesc": "This all-inclusive eco-adventure park lets families snorkel among tropical fish, zip-line through cenotes, and encounter wildlife\u2014thrilling adventure for all ages."
+    },
+    {
+      "name": "Xcaret Park",
+      "coord": [
+        20.64,
+        -87.06
+      ],
+      "desc": "Eco-adventure park with beach, snorkeling, ziplining, cenotes",
+      "longDesc": "This comprehensive eco-adventure park combines beach, snorkeling, adventure activities, cenotes, and cultural shows\u2014complete family fun in one destination."
     },
     {
       "name": "Playa del Carmen Beach",
@@ -156,9 +1344,188 @@
         20.6296,
         -87.0739
       ],
-      "city": "Riviera Maya",
-      "desc": "Family-friendly beach with water activities",
-      "longDesc": "This spacious, family-friendly Caribbean beach offers calm waters perfect for young swimmers, plus plenty of resorts, restaurants, and water activities to keep all ages happily entertained."
+      "desc": "Family-friendly Caribbean beach with calm waters, activities",
+      "longDesc": "This spacious, family-friendly Caribbean beach offers calm waters perfect for young swimmers, plus resorts, restaurants, and water activities."
+    },
+    {
+      "name": "Xplor Park",
+      "coord": [
+        20.625,
+        -87.12
+      ],
+      "desc": "Adventure park with zip-lines, jeeps, cenote swimming",
+      "longDesc": "This thrilling adventure park combines zip-lining, underground vehicle adventures, and cenote swimming\u2014pure excitement for active families."
+    },
+    {
+      "name": "Aquarium Interactive Cancun",
+      "coord": [
+        21.16,
+        -86.85
+      ],
+      "desc": "Interactive aquarium with touch pools, sea life, education",
+      "longDesc": "This hands-on aquarium lets kids interact with sea creatures, learn about marine ecosystems, and enjoy interactive exhibits\u2014science comes alive for curious minds."
+    },
+    {
+      "name": "Xcaret Eco Park (Kid Focus)",
+      "coord": [
+        20.64,
+        -87.06
+      ],
+      "desc": "Water activities, animal encounters, cultural shows for families",
+      "longDesc": "This kid-optimized eco-park section features gentler water activities, animal encounters, and cultural performances\u2014perfect for younger adventure-seekers."
+    },
+    {
+      "name": "Isla Mujeres Beach",
+      "coord": [
+        21.23,
+        -86.73
+      ],
+      "desc": "Peaceful island beach, calm waters, snorkeling for kids",
+      "longDesc": "This tranquil island beach offers calm waters perfect for young swimmers and beginner snorkelers\u2014relaxed family beach time at its best."
+    },
+    {
+      "name": "Laguna Bacalar",
+      "coord": [
+        18.6858,
+        -87.692
+      ],
+      "desc": "Seven-colored lagoon, kayaking, swimming, nature",
+      "longDesc": "This stunning natural lagoon offers safe swimming, gentle kayaking, and nature exploration\u2014pristine family water time in paradise."
+    },
+    {
+      "name": "Cenote Ik Kil",
+      "coord": [
+        20.847,
+        -87.6
+      ],
+      "desc": "Sacred cenote with collapsed sinkhole, swimming, cultural significance",
+      "longDesc": "This dramatic cenote with 40-meter walls offers swimming and spiritual significance\u2014unforgettable natural wonder for curious young minds."
+    },
+    {
+      "name": "Zoo of Mexico City",
+      "coord": [
+        19.4265,
+        -99.1865
+      ],
+      "desc": "Free zoo in Chapultepec Park, endangered species programs",
+      "longDesc": "This excellent zoo within Chapultepec focuses on Mexican and endangered species education\u2014conservation-focused learning for environmentally-conscious kids."
+    },
+    {
+      "name": "Museo Tamayo (Kid Programs)",
+      "coord": [
+        19.4308,
+        -99.1828
+      ],
+      "desc": "Contemporary art museum with children's programming",
+      "longDesc": "This modern art museum offers engaging children's programs, interactive exhibits, and family-friendly exhibitions\u2014inspiring young minds to appreciate cutting-edge creative expression and contemporary artistic vision."
+    },
+    {
+      "name": "Museo de Arte Popular",
+      "coord": [
+        19.4265,
+        -99.17
+      ],
+      "desc": "Folk art museum with colorful textiles, crafts, workshops",
+      "longDesc": "This vibrant museum offers interactive craft workshops and colorful folk art exhibitions\u2014hands-on creativity for artistic kids."
+    },
+    {
+      "name": "Teotihuac\u00e1n Pyramid Climbing",
+      "coord": [
+        19.69,
+        -98.844
+      ],
+      "desc": "Ancient pyramids, hiking trails, archaeological learning",
+      "longDesc": "Climbing Teotihuac\u00e1n's massive pyramids combines physical adventure with ancient history\u2014thrilling for adventurous kids and educational for curious minds."
+    },
+    {
+      "name": "Frida Kahlo Museum (Kid Tours)",
+      "coord": [
+        19.4159,
+        -99.1461
+      ],
+      "desc": "Kid-friendly museum tours, artist biography, art appreciation",
+      "longDesc": "This museum offers age-appropriate tours of Frida's life and work\u2014inspiring young minds to appreciate artistic expression and personal courage."
+    },
+    {
+      "name": "Ghibli Museum (Temporary Mexico Exhibits)",
+      "coord": [
+        19.428,
+        -99.15
+      ],
+      "desc": "Animation museum experiences, interactive art installations",
+      "longDesc": "This museum celebrates animation and interactive art\u2014immersive creative experiences that enchant kids and inspire artistic interest."
+    },
+    {
+      "name": "Xochimilco Boat Tours",
+      "coord": [
+        19.2756,
+        -99.097
+      ],
+      "desc": "Floating gardens, colorful boats, island exploration",
+      "longDesc": "These Aztec floating gardens offer colorful boat tours through island gardens and waterways\u2014magical and enchanting for adventurous young explorers."
+    },
+    {
+      "name": "Bioluminescent Bay (Puerto Escondido)",
+      "coord": [
+        15.8667,
+        -97.0667
+      ],
+      "desc": "Glowing water phenomenon, kayaking, natural wonder",
+      "longDesc": "This magical bioluminescent bay glows with living light when disturbed\u2014a mystical natural experience kids find absolutely enchanting."
+    },
+    {
+      "name": "Palenque with Kid-Friendly Trails",
+      "coord": [
+        17.4845,
+        -92.0456
+      ],
+      "desc": "Maya ruins with accessible jungle trails, family exploration",
+      "longDesc": "Palenque's accessible trails through jungle ruins offer adventure, archaeology, and nature exploration\u2014perfect for active, curious kids."
+    },
+    {
+      "name": "Cooking Classes for Kids (Oaxaca)",
+      "coord": [
+        17.065,
+        -96.726
+      ],
+      "desc": "Hands-on Oaxacan cooking workshops for children",
+      "longDesc": "These interactive cooking workshops teach kids traditional Oaxacan recipes and techniques\u2014delicious learning for food-curious families."
+    },
+    {
+      "name": "Butterfly Sanctuary (Oaxaca)",
+      "coord": [
+        17.05,
+        -96.75
+      ],
+      "desc": "Monarch butterfly habitat, seasonal migration, nature walks",
+      "longDesc": "Oaxaca's butterfly sanctuaries showcase the stunning monarch migration phenomenon\u2014a natural wonder that captivates every young naturalist and teaches children about ecological importance and transformation."
+    },
+    {
+      "name": "Cable Car rides (Guanajuato)",
+      "coord": [
+        21.0154,
+        -101.2567
+      ],
+      "desc": "Historic cable cars over colorful cityscape, scenic views",
+      "longDesc": "Guanajuato's cable car rides offer thrilling views over the iconic colorful city\u2014exciting ride and panoramic sightseeing for families."
+    },
+    {
+      "name": "Mineral Museum (Guanajuato)",
+      "coord": [
+        21.016,
+        -101.256
+      ],
+      "desc": "Geological specimens, mining heritage, interactive exhibits",
+      "longDesc": "This mineral museum showcases geological wonders and mining heritage\u2014educational and visually stunning for geology-curious kids."
+    },
+    {
+      "name": "Silver Crafting Workshops (Taxco)",
+      "coord": [
+        18.5667,
+        -99.6167
+      ],
+      "desc": "Watch silversmiths at work, purchase handcrafted jewelry",
+      "longDesc": "Taxco's silversmith workshops let families observe and purchase handcrafted jewelry\u2014cultural education combined with souvenir shopping."
     }
   ],
   "markets": [
@@ -168,9 +1535,8 @@
         19.4333,
         -99.1222
       ],
-      "city": "Mexico City",
-      "desc": "One of world's largest open-air markets with produce and crafts",
-      "longDesc": "One of the world's largest open-air markets sprawls across entire blocks, overflowing with vibrant produce, regional crafts, and local energy—a sensory feast and cultural immersion for the whole family."
+      "desc": "World's largest open-air market, produce, crafts, chaos",
+      "longDesc": "One of the world's largest open-air markets sprawls across entire blocks\u2014overflowing with vibrant produce and local energy, a sensory feast for families."
     },
     {
       "name": "La Lagunilla Market",
@@ -178,9 +1544,8 @@
         19.4416,
         -99.1416
       ],
-      "city": "Mexico City",
-      "desc": "Historic weekend market with antiques and crafts",
-      "longDesc": "This historic weekend market in a charming neighborhood is packed with vintage finds, handcrafted goods, and local character, making it perfect for families seeking authentic souvenirs and cultural discovery."
+      "desc": "Historic weekend market, antiques, crafts, vintage finds",
+      "longDesc": "This historic weekend market is packed with vintage finds, handcrafted goods, and local character\u2014perfect for families seeking authentic souvenirs and discovery."
     },
     {
       "name": "Tulum Artisan Market",
@@ -188,9 +1553,206 @@
         20.218,
         -87.44
       ],
-      "city": "Tulum",
-      "desc": "Local crafts and souvenirs from Tulum vendors",
-      "longDesc": "A curated collection of locally made crafts and souvenirs from Tulum artisans offers families the chance to support local makers while finding beautiful, meaningful pieces to remember the trip."
+      "desc": "Local crafts and souvenirs from Tulum artisans",
+      "longDesc": "This curated collection of locally made crafts offers families the chance to support local makers while finding beautiful, meaningful pieces to remember trips."
+    },
+    {
+      "name": "Mercado Benito Ju\u00e1rez (Oaxaca)",
+      "coord": [
+        17.0675,
+        -96.7245
+      ],
+      "desc": "Historic market in Oaxaca, textiles, crafts, regional foods",
+      "longDesc": "This vibrant market in Oaxaca's center showcases textiles, regional foods, and crafts\u2014authentic cultural marketplace for families."
+    },
+    {
+      "name": "Central de Abastos (Oaxaca)",
+      "coord": [
+        17.07,
+        -96.72
+      ],
+      "desc": "Enormous traditional market, mole, mezcal, indigenous crafts",
+      "longDesc": "Oaxaca's massive market showcases regional ingredients, mole pastes, mezcal, and indigenous crafts\u2014overwhelming sensory and cultural immersion."
+    },
+    {
+      "name": "Mercado Benito Ju\u00e1rez (San Miguel de Allende)",
+      "coord": [
+        20.915,
+        -100.75
+      ],
+      "desc": "Artisan market in San Miguel, local crafts, arts community",
+      "longDesc": "This artist-community market showcases local crafts and art\u2014perfect for families supporting San Miguel's creative community."
+    },
+    {
+      "name": "Mercado del Carmen (Puebla)",
+      "coord": [
+        19.034,
+        -98.2075
+      ],
+      "desc": "Historic market in colonial Puebla, regional foods, crafts",
+      "longDesc": "This colonial-era market showcases Puebla's regional foods, traditional crafts, and historic atmosphere\u2014cultural centerpiece for curious families."
+    },
+    {
+      "name": "Mercado Lucas de Galvez (M\u00e9rida)",
+      "coord": [
+        20.969,
+        -89.625
+      ],
+      "desc": "Historic market in M\u00e9rida, Yucat\u00e1n foods, textiles",
+      "longDesc": "This historic market showcases Yucat\u00e1n's unique foods, textiles, and crafts\u2014essential for understanding the peninsula's distinct culture."
+    },
+    {
+      "name": "Mercado 20 de Noviembre (Oaxaca)",
+      "coord": [
+        17.067,
+        -96.726
+      ],
+      "desc": "Traditional market with mole makers, chocolate, regional crafts",
+      "longDesc": "This market features artisans making mole from scratch, chocolate, and traditional crafts\u2014working cultural heritage families can witness."
+    },
+    {
+      "name": "Mercado Chapultepec (Mexico City)",
+      "coord": [
+        19.429,
+        -99.1885
+      ],
+      "desc": "Food market near Chapultepec, fresh produce, street food",
+      "longDesc": "This neighborhood market showcases fresh produce and authentic street food\u2014perfect for families exploring Mexico City's casual food culture."
+    },
+    {
+      "name": "Mercado Roma",
+      "coord": [
+        19.431,
+        -99.165
+      ],
+      "desc": "Modern artisan market in Roma neighborhood, foods, crafts",
+      "longDesc": "This contemporary market celebrates artisanal foods and crafts from across Mexico\u2014modern take on traditional markets for cultural exploration."
+    },
+    {
+      "name": "Bazar del S\u00e1bado (San Miguel de Allende)",
+      "coord": [
+        20.91,
+        -100.76
+      ],
+      "desc": "Saturday artisan market, local artists, live music",
+      "longDesc": "This weekend artisan market features local artists, crafts, and live music\u2014authentic cultural gathering for adventurous shopping families."
+    },
+    {
+      "name": "Mercado de Abastos (Tlaxcala)",
+      "coord": [
+        19.3167,
+        -98.2333
+      ],
+      "desc": "Traditional market with pulque, mole, regional specialties",
+      "longDesc": "This traditional market showcases Tlaxcala's unique foods and pulque tradition\u2014cultural gateway to understanding central Mexico's heritage."
+    },
+    {
+      "name": "Mercado Morelos (Cuernavaca)",
+      "coord": [
+        18.9229,
+        -99.2421
+      ],
+      "desc": "Colorful market in Cuernavaca, flowers, fruits, crafts",
+      "longDesc": "This vibrant Cuernavaca market displays colorful flowers, fresh fruits, and artisan crafts\u2014charming for families exploring colonial towns."
+    },
+    {
+      "name": "Plaza de las Flores (Cancun)",
+      "coord": [
+        21.16,
+        -86.85
+      ],
+      "desc": "Artisan market near Cancun, local crafts, souvenirs",
+      "longDesc": "This tourist-friendly artisan market showcases local crafts at reasonable prices\u2014convenient souvenir shopping for Riviera Maya families."
+    },
+    {
+      "name": "Mercado Municipal (Playa del Carmen)",
+      "coord": [
+        20.63,
+        -87.075
+      ],
+      "desc": "Local market with fresh foods, regional products",
+      "longDesc": "This authentic local market showcases fresh foods and regional products\u2014genuine shopping experience for families avoiding tourist traps."
+    },
+    {
+      "name": "Teotihuac\u00e1n Artisan Market",
+      "coord": [
+        19.69,
+        -98.844
+      ],
+      "desc": "Market outside pyramid ruins, local crafts, obsidian jewelry",
+      "longDesc": "This market just outside Teotihuac\u00e1n showcases local obsidian jewelry and crafts\u2014convenient souvenir shopping after archaeological exploration."
+    },
+    {
+      "name": "Mercado de Dulces (Oaxaca)",
+      "coord": [
+        17.066,
+        -96.725
+      ],
+      "desc": "Traditional sweets market, chocolate, candies, pan de muerto",
+      "longDesc": "This sweet shop market showcases Oaxaca's famous candy and chocolate traditions\u2014delicious cultural experience families adore."
+    },
+    {
+      "name": "Mercado Jun\u00edn (Guanajuato)",
+      "coord": [
+        21.016,
+        -101.256
+      ],
+      "desc": "Food market in Guanajuato, regional foods, local specialties",
+      "longDesc": "This Guanajuato market showcases regional foods, local specialties, and artisan crafts\u2014cultural introduction to central Mexican gastronomy and culinary traditions for adventurous food-loving families."
+    },
+    {
+      "name": "Mercado 5 de Mayo (Puerto Vallarta)",
+      "coord": [
+        20.62,
+        -105.26
+      ],
+      "desc": "Beachfront market with fresh seafood, crafts, artwork",
+      "longDesc": "This Puerto Vallarta market combines fresh seafood and local artwork\u2014cultural hub for Pacific coast exploring families."
+    },
+    {
+      "name": "Boutique Mezcal Shops (Oaxaca)",
+      "coord": [
+        17.065,
+        -96.726
+      ],
+      "desc": "Artisanal mezcal vendors, tasting, distillery selection",
+      "longDesc": "Oaxaca's mezcal shops offer tastings and education about Mexico's heritage spirit\u2014perfect for families learning about regional traditions."
+    },
+    {
+      "name": "Chocolate Workshops (Oaxaca)",
+      "coord": [
+        17.064,
+        -96.728
+      ],
+      "desc": "Hands-on chocolate making workshops, traditional methods",
+      "longDesc": "These chocolate workshops teach traditional Oaxacan chocolate-making techniques using indigenous cacao and heritage methods\u2014delicious hands-on learning for families passionate about culinary arts and cultural traditions."
+    },
+    {
+      "name": "Mercado de Abastos (Merida)",
+      "coord": [
+        20.969,
+        -89.625
+      ],
+      "desc": "Large traditional market, Yucat\u00e1n specialty foods",
+      "longDesc": "This M\u00e9rida market showcases Yucat\u00e1n's distinctive foods, regional products, and artisan crafts\u2014essential for understanding the peninsula's unique culture and culinary heritage through authentic marketplace discovery."
+    },
+    {
+      "name": "Artisan Textile Markets (San Crist\u00f3bal)",
+      "coord": [
+        16.7282,
+        -92.6376
+      ],
+      "desc": "Indigenous textile markets, colorful weaving, traditional crafts",
+      "longDesc": "San Crist\u00f3bal's markets showcase indigenous textiles, traditional weaving techniques, and vibrant handcrafted goods\u2014cultural immersion supporting local artisan communities and preserving indigenous artistic traditions."
+    },
+    {
+      "name": "Papier-M\u00e2ch\u00e9 Workshops (Mexico City)",
+      "coord": [
+        19.43,
+        -99.15
+      ],
+      "desc": "Folk art workshops, colorful papier-m\u00e2ch\u00e9 crafts",
+      "longDesc": "These workshops teach traditional Mexican papier-m\u00e2ch\u00e9 crafts\u2014hands-on cultural learning families enjoy and take home as treasured souvenirs."
     }
   ],
   "cityCenters": {
@@ -199,141 +1761,2326 @@
       -99.1332,
       0.04
     ],
+    "Oaxaca": [
+      17.065,
+      -96.726,
+      0.03
+    ],
     "Tulum": [
       20.2115,
       -87.4654,
+      0.02
+    ],
+    "Cancun": [
+      21.16,
+      -86.85,
+      0.03
+    ],
+    "Riviera Maya": [
+      20.5,
+      -87.15,
+      0.05
+    ],
+    "San Miguel de Allende": [
+      20.914,
+      -100.751,
+      0.02
+    ],
+    "Guanajuato": [
+      21.0154,
+      -101.2567,
+      0.02
+    ],
+    "Puebla": [
+      19.033,
+      -98.207,
+      0.03
+    ],
+    "M\u00e9rida": [
+      20.9674,
+      -89.6237,
+      0.03
+    ],
+    "Los Cabos": [
+      23.633,
+      -109.975,
+      0.04
+    ],
+    "Playa del Carmen": [
+      20.6296,
+      -87.0739,
+      0.02
+    ],
+    "Valladolid": [
+      20.25,
+      -87.9,
+      0.02
+    ],
+    "San Crist\u00f3bal": [
+      16.7282,
+      -92.6376,
       0.02
     ]
   },
   "itineraryData": {
     "a": {
-      "name": "Mexico City Food Tour",
-      "duration": 3,
+      "name": "Greatest Hits",
       "color": "#2563EB",
       "days": [
         {
           "day": 1,
-          "title": "Roma Norte Culinary Introduction",
-          "activities": [
-            "Arrival at Mexico City, settle into Casa Campos",
-            "Lunch at Máximo - refined Mexican cuisine",
-            "Afternoon stroll through Roma Norte neighborhood",
-            "Dinner at Restaurante Rosetta - gorgeous courtyard"
-          ],
-          "locations": [
-            [
-              19.431,
-              -99.135
-            ]
+          "title": "Mexico City Arrival & Historic Center",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Mexico City",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Pujol",
+              "coord": [
+                19.436,
+                -99.185
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Templo Mayor",
+              "coord": [
+                19.4383,
+                -99.1367
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palacio Nacional",
+              "coord": [
+                19.4326,
+                -99.1333
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Quintonil",
+              "coord": [
+                19.4342,
+                -99.1672
+              ]
+            }
           ]
         },
         {
           "day": 2,
-          "title": "Markets and Seafood",
-          "activities": [
-            "Morning at Mercado de la Merced - vibrant market experience",
-            "Lunch at ULTRAMARINOS DEMAR - contemporary seafood",
-            "Afternoon exploring Frida Kahlo Museum",
-            "Evening at La Lagunilla Market for local crafts"
-          ],
-          "locations": [
-            [
-              19.4333,
-              -99.1222
-            ],
-            [
-              19.4314,
-              -99.1602
-            ],
-            [
-              19.4159,
-              -99.1461
-            ]
+          "title": "Museums & Anthropology",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Casa Campos",
+              "coord": [
+                19.4335,
+                -99.135
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museo de Antropolog\u00eda",
+              "coord": [
+                19.4283,
+                -99.1882
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chapultepec Park",
+              "coord": [
+                19.4265,
+                -99.1865
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Contramar",
+              "coord": [
+                19.345,
+                -99.215
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Frida Kahlo Museum",
+              "coord": [
+                19.4159,
+                -99.1461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sud 777",
+              "coord": [
+                19.428,
+                -99.164
+              ]
+            }
           ]
         },
         {
           "day": 3,
-          "title": "Historic Center and Departure",
-          "activities": [
-            "Morning tour of Templo Mayor archaeological site",
-            "Final lunch at favorite restaurant",
-            "Afternoon shopping in historic center",
-            "Departure from Mexico City"
-          ],
-          "locations": [
-            [
-              19.4383,
-              -99.1367
-            ]
+          "title": "Teotihuac\u00e1n Pyramids",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Mexico City",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Teotihuac\u00e1n",
+              "coord": [
+                19.69,
+                -98.844
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant near Teotihuac\u00e1n",
+              "coord": [
+                19.69,
+                -98.844
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Xochimilco Floating Gardens",
+              "coord": [
+                19.2756,
+                -99.097
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Rosetta",
+              "coord": [
+                19.4298,
+                -99.1587
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Oaxaca Cultural Immersion",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Casa Cinnamon",
+              "coord": [
+                17.0672,
+                -96.7234
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Casa Oaxaca",
+              "coord": [
+                17.0625,
+                -96.7275
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Monte Alb\u00e1n",
+              "coord": [
+                17.068,
+                -96.721
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado Benito Ju\u00e1rez",
+              "coord": [
+                17.0675,
+                -96.7245
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Donaj\u00ed",
+              "coord": [
+                17.065,
+                -96.726
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Oaxaca Markets & Mezcal",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Cafeter\u00eda Br\u00fajula",
+              "coord": [
+                17.0628,
+                -96.728
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Central de Abastos Market",
+              "coord": [
+                17.07,
+                -96.72
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Abacus Oaxaca",
+              "coord": [
+                17.0635,
+                -96.727
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mezcal Distillery Tours",
+              "coord": [
+                17.065,
+                -96.726
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Guelaguetza",
+              "coord": [
+                17.067,
+                -96.7255
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Tulum Beaches & Cenotes",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Azulik Tulum",
+              "coord": [
+                20.233,
+                -87.389
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hartwood",
+              "coord": [
+                20.2098,
+                -87.4635
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tulum Ruins",
+              "coord": [
+                20.2113,
+                -87.4142
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cenote Swimming",
+              "coord": [
+                20.21,
+                -87.46
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Los Tacos de Pablo",
+              "coord": [
+                20.2105,
+                -87.4625
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Riviera Maya & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Azulik Tulum",
+              "coord": [
+                20.233,
+                -87.389
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Xcaret Park",
+              "coord": [
+                20.64,
+                -87.06
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Playa Blanca",
+              "coord": [
+                20.6296,
+                -87.0739
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chich\u00e9n Itz\u00e1",
+              "coord": [
+                20.6829,
+                -87.5479
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                20.233,
+                -87.389
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurante Bar El Capit\u00e1n",
+              "coord": [
+                20.2102,
+                -87.4624
+              ]
+            }
           ]
         }
       ]
     },
     "b": {
-      "name": "Tulum Beach & Wellness",
-      "duration": 3,
+      "name": "Hidden Gems",
       "color": "#059669",
       "days": [
         {
           "day": 1,
-          "title": "Beach Arrival and Cenote",
-          "activities": [
-            "Arrival in Tulum, check into La Posada Tulum",
-            "Afternoon cenote swimming experience",
-            "Sunset beach walk on Tulum's white sand",
-            "Dinner at Restaurante Bar El Capitán - casual beachside"
-          ],
-          "locations": [
-            [
-              20.2115,
-              -87.463
-            ],
-            [
-              20.21,
-              -87.46
-            ]
+          "title": "San Miguel de Allende Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Belmond Casa de Sierra Nevada",
+              "coord": [
+                20.9138,
+                -100.7508
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Caf\u00e9 Santa Ana",
+              "coord": [
+                20.9145,
+                -100.752
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "San Miguel Galleries & Churches",
+              "coord": [
+                20.914,
+                -100.7515
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mi Cocina",
+              "coord": [
+                20.915,
+                -100.75
+              ]
+            }
           ]
         },
         {
           "day": 2,
-          "title": "Wellness and Culture",
-          "activities": [
-            "Morning yoga session at La Embajada Universal wellness center",
-            "Specialty coffee at Ki'bok Coffee - bohemian vibes",
-            "Lunch with ocean views",
-            "Afternoon exploring Tulum Artisan Market",
-            "Evening meditation and relaxation"
-          ],
-          "locations": [
-            [
-              20.212,
-              -87.459
-            ],
-            [
-              20.2115,
-              -87.461
-            ],
-            [
-              20.218,
-              -87.44
-            ]
+          "title": "San Miguel Markets & Arts",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Luna Caf\u00e9",
+              "coord": [
+                20.914,
+                -100.7505
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bazar del S\u00e1bado",
+              "coord": [
+                20.91,
+                -100.76
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Coni",
+              "coord": [
+                20.9155,
+                -100.751
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Artisan Studios",
+              "coord": [
+                20.914,
+                -100.752
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "El Pegote",
+              "coord": [
+                20.916,
+                -100.748
+              ]
+            }
           ]
         },
         {
           "day": 3,
-          "title": "Maya Ruins and Departure",
-          "activities": [
-            "Day trip to Chichén Itzá or nearby ruins",
-            "Lunch with local specialties",
-            "Return to Tulum for final sunset",
-            "Farewell dinner at favorite restaurant",
-            "Departure preparation"
-          ],
-          "locations": [
-            [
-              20.6829,
-              -87.5479
-            ]
+          "title": "Guanajuato Colorful City",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Misi\u00f3n Guanajuato",
+              "coord": [
+                21.0154,
+                -101.2567
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Casa del Conde",
+              "coord": [
+                21.0155,
+                -101.2565
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Guanajuato Historic Center",
+              "coord": [
+                21.016,
+                -101.256
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Silver Mining Heritage",
+              "coord": [
+                21.015,
+                -101.257
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurante Guanajuato",
+              "coord": [
+                21.016,
+                -101.256
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Guanajuato Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Taco Taco Cafe",
+              "coord": [
+                21.015,
+                -101.257
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cable Car Rides",
+              "coord": [
+                21.0154,
+                -101.2567
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Casa del Conde",
+              "coord": [
+                21.0155,
+                -101.2565
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mineral Museum",
+              "coord": [
+                21.016,
+                -101.256
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurante Guanajuato",
+              "coord": [
+                21.016,
+                -101.256
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Oaxaca Artisan Heart",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Coyote Nativo Oaxaca",
+              "coord": [
+                17.0643,
+                -96.7278
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Casa Crespo Restaurant",
+              "coord": [
+                17.0614,
+                -96.7288
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Textile Markets (San Crist\u00f3bal)",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hidalgo",
+              "coord": [
+                17.0658,
+                -96.725
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Oaxaca Food & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Cafeter\u00eda Br\u00fajula",
+              "coord": [
+                17.0628,
+                -96.728
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mezcal Distillery Tours",
+              "coord": [
+                17.065,
+                -96.726
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mezcaleria Zig-Zag",
+              "coord": [
+                17.0645,
+                -96.7265
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chocolate Workshops",
+              "coord": [
+                17.064,
+                -96.728
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Abacus Oaxaca",
+              "coord": [
+                17.0635,
+                -96.727
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Relaxation & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Ho'okah Boutique Hotel",
+              "coord": [
+                17.0628,
+                -96.7265
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Optional spa or artisan shopping",
+              "coord": [
+                17.065,
+                -96.726
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Casa Oaxaca",
+              "coord": [
+                17.0625,
+                -96.7275
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Final market exploration",
+              "coord": [
+                17.0675,
+                -96.7245
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest before travel",
+              "coord": [
+                17.0643,
+                -96.7278
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Mexico City Arrival & Chapultepec",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Mexico City",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Rosetta",
+              "coord": [
+                19.4298,
+                -99.1587
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chapultepec Park",
+              "coord": [
+                19.4265,
+                -99.1865
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family-friendly restaurant",
+              "coord": [
+                19.43,
+                -99.15
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Museums & Zoo",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Mexico City",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Zoo of Mexico City",
+              "coord": [
+                19.4265,
+                -99.1865
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mercado Roma",
+              "coord": [
+                19.431,
+                -99.165
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museo de Arte Popular",
+              "coord": [
+                19.4265,
+                -99.17
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Blanco Colima",
+              "coord": [
+                19.4295,
+                -99.1613
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Frida Kahlo & Floating Gardens",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Mexico City",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Frida Kahlo Museum",
+              "coord": [
+                19.4159,
+                -99.1461
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tamayo",
+              "coord": [
+                19.4332,
+                -99.1728
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Xochimilco Boat Tours",
+              "coord": [
+                19.2756,
+                -99.097
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Evening rest",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casual family dinner",
+              "coord": [
+                19.43,
+                -99.15
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Teotihuac\u00e1n Adventure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Mexico City",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Teotihuac\u00e1n",
+              "coord": [
+                19.69,
+                -98.844
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant near Teotihuac\u00e1n",
+              "coord": [
+                19.69,
+                -98.844
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest at hotel",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Garibaldi Plaza Mariachi",
+              "coord": [
+                19.4406,
+                -99.1335
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Perico",
+              "coord": [
+                19.4312,
+                -99.1683
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Travel to Tulum, Beach Arrival",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Mexico City",
+              "coord": [
+                19.431,
+                -99.1898
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Mahekal Beach Resort",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taco Stand Paradise",
+              "coord": [
+                20.212,
+                -87.46
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach time and relaxation",
+              "coord": [
+                20.2115,
+                -87.4654
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon beach rest",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurante Bar El Capit\u00e1n",
+              "coord": [
+                20.2102,
+                -87.4624
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Tulum Ruins & Cenotes",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mahekal Beach Resort",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tulum Ruins",
+              "coord": [
+                20.2113,
+                -87.4142
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Los Tacos de Pablo",
+              "coord": [
+                20.2105,
+                -87.4625
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cenote Swimming",
+              "coord": [
+                20.21,
+                -87.46
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest and beach time",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hartwood",
+              "coord": [
+                20.2098,
+                -87.4635
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Xcaret Eco-Park Family Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mahekal Beach Resort",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Xcaret Park",
+              "coord": [
+                20.64,
+                -87.06
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Xcaret on-site dining",
+              "coord": [
+                20.64,
+                -87.06
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Water activities and shows",
+              "coord": [
+                20.64,
+                -87.06
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Playa Blanca",
+              "coord": [
+                20.6296,
+                -87.0739
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Chich\u00e9n Itz\u00e1 & Beach",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mahekal Beach Resort",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chich\u00e9n Itz\u00e1",
+              "coord": [
+                20.6829,
+                -87.5479
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant near Chich\u00e9n Itz\u00e1",
+              "coord": [
+                20.6829,
+                -87.5479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Return to Tulum beach",
+              "coord": [
+                20.2115,
+                -87.4654
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Evening rest",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ki'bok Coffee area dinner",
+              "coord": [
+                20.2115,
+                -87.461
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Xel-H\u00e1 Park Adventure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mahekal Beach Resort",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Xel-H\u00e1 Water Park",
+              "coord": [
+                20.3514,
+                -87.3214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Xel-H\u00e1 on-site dining",
+              "coord": [
+                20.3514,
+                -87.3214
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Snorkeling and swimming",
+              "coord": [
+                20.3514,
+                -87.3214
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beach casual dinner",
+              "coord": [
+                20.2115,
+                -87.4654
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Relaxation & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mahekal Beach Resort",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Final beach time or shopping",
+              "coord": [
+                20.2115,
+                -87.4654
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Favorite restaurant revisit",
+              "coord": [
+                20.2102,
+                -87.4624
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Artisan market shopping",
+              "coord": [
+                20.218,
+                -87.44
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest before travel",
+              "coord": [
+                20.1996,
+                -87.461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Farewell dinner",
+              "coord": [
+                20.2115,
+                -87.4654
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Foodie Deep-Dive",
+      "color": "#DC2626",
+      "days": [
+        {
+          "day": 1,
+          "title": "Mexico City Pujol Experience",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Condesa DF",
+              "coord": [
+                19.4342,
+                -99.1698
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Rosetta",
+              "coord": [
+                19.4298,
+                -99.1587
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado de la Merced",
+              "coord": [
+                19.4333,
+                -99.1222
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Pujol",
+              "coord": [
+                19.436,
+                -99.185
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Fine Dining & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Caf\u00e9 Santa Ana style spot",
+              "coord": [
+                19.433,
+                -99.1665
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado Roma",
+              "coord": [
+                19.431,
+                -99.165
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Quintonil",
+              "coord": [
+                19.4342,
+                -99.1672
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "La Lagunilla Market",
+              "coord": [
+                19.4416,
+                -99.1416
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sud 777",
+              "coord": [
+                19.428,
+                -99.164
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Seafood & Chef Cuisine",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Local caf\u00e9",
+              "coord": [
+                19.43,
+                -99.15
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Contramar",
+              "coord": [
+                19.345,
+                -99.215
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Frida Kahlo Museum",
+              "coord": [
+                19.4159,
+                -99.1461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "M\u00e1ximo Bistrot",
+              "coord": [
+                19.4324,
+                -99.1587
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Michelin Stars & Innovation",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Condesa DF",
+              "coord": [
+                19.4342,
+                -99.1698
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Merotoro",
+              "coord": [
+                19.4345,
+                -99.165
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museo de Antropolog\u00eda",
+              "coord": [
+                19.4283,
+                -99.1882
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Biko",
+              "coord": [
+                19.4366,
+                -99.1945
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Oaxaca Mole & Mezcal",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Casa Cinnamon",
+              "coord": [
+                17.0672,
+                -96.7234
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Donaj\u00ed",
+              "coord": [
+                17.065,
+                -96.726
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Central de Abastos Market",
+              "coord": [
+                17.07,
+                -96.72
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casa Oaxaca",
+              "coord": [
+                17.0625,
+                -96.7275
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Mole Mastery & Artisanal Spirits",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Cafeter\u00eda Br\u00fajula",
+              "coord": [
+                17.0628,
+                -96.728
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mezcal Distillery Tours",
+              "coord": [
+                17.065,
+                -96.726
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Abacus Oaxaca",
+              "coord": [
+                17.0635,
+                -96.727
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chocolate Workshops",
+              "coord": [
+                17.064,
+                -96.728
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hidalgo",
+              "coord": [
+                17.0658,
+                -96.725
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Puebla Cuisine & Mole",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Royalty Puebla",
+              "coord": [
+                19.0327,
+                -98.2062
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "El Mole Pipi\u00e1n",
+              "coord": [
+                19.034,
+                -98.2055
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado del Carmen",
+              "coord": [
+                19.034,
+                -98.2075
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casa Santo Domingo",
+              "coord": [
+                19.0345,
+                -98.208
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Puebla Traditional Flavors",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Royalty Puebla",
+              "coord": [
+                19.0327,
+                -98.2062
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "La Pasita sweets tradition",
+              "coord": [
+                19.033,
+                -98.2065
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Revistazo",
+              "coord": [
+                19.035,
+                -98.2085
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado 20 de Noviembre (Oaxaca)",
+              "coord": [
+                17.067,
+                -96.726
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mercadito",
+              "coord": [
+                19.0325,
+                -98.207
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Yucat\u00e1n Distinct Cuisine",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Merida Jim's House",
+              "coord": [
+                20.9674,
+                -89.6237
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "La Chaya Maya",
+              "coord": [
+                20.969,
+                -89.625
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mercado Lucas de Galvez",
+              "coord": [
+                20.969,
+                -89.625
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casa Kin",
+              "coord": [
+                20.968,
+                -89.6245
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Cochinita Pibil & Regional Specialties",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Merida Jim's House",
+              "coord": [
+                20.9674,
+                -89.6237
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tacos de Cochinita Pibil",
+              "coord": [
+                20.9685,
+                -89.624
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Casa Lucia cooking class",
+              "coord": [
+                20.967,
+                -89.626
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurante Merida 60",
+              "coord": [
+                20.9674,
+                -89.6237
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "Mexico City Arrival & Historic Center",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "St. Regis Mexico City",
+              "coord": [
+                19.4365,
+                -99.1847
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Pujol",
+              "coord": [
+                19.436,
+                -99.185
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Templo Mayor",
+              "coord": [
+                19.4383,
+                -99.1367
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palacio Nacional",
+              "coord": [
+                19.4326,
+                -99.1333
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Quintonil",
+              "coord": [
+                19.4342,
+                -99.1672
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Museums & Anthropology",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "St. Regis Mexico City",
+              "coord": [
+                19.4365,
+                -99.1847
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museo de Antropolog\u00eda",
+              "coord": [
+                19.4283,
+                -99.1882
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Contramar",
+              "coord": [
+                19.345,
+                -99.215
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Frida Kahlo Museum",
+              "coord": [
+                19.4159,
+                -99.1461
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sud 777",
+              "coord": [
+                19.428,
+                -99.164
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Teotihuac\u00e1n & Xochimilco",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "St. Regis Mexico City",
+              "coord": [
+                19.4365,
+                -99.1847
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Teotihuac\u00e1n",
+              "coord": [
+                19.69,
+                -98.844
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant",
+              "coord": [
+                19.69,
+                -98.844
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Xochimilco Floating Gardens",
+              "coord": [
+                19.2756,
+                -99.097
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Rosetta",
+              "coord": [
+                19.4298,
+                -99.1587
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Oaxaca Cultural Immersion",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Casa Cinnamon",
+              "coord": [
+                17.0672,
+                -96.7234
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Donaj\u00ed",
+              "coord": [
+                17.065,
+                -96.726
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Monte Alb\u00e1n",
+              "coord": [
+                17.068,
+                -96.721
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Central de Abastos Market",
+              "coord": [
+                17.07,
+                -96.72
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casa Oaxaca",
+              "coord": [
+                17.0625,
+                -96.7275
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Oaxaca Mezcal & Textiles",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Cafeter\u00eda Br\u00fajula",
+              "coord": [
+                17.0628,
+                -96.728
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mezcal Distillery Tours",
+              "coord": [
+                17.065,
+                -96.726
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Abacus Oaxaca",
+              "coord": [
+                17.0635,
+                -96.727
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Textile Markets exploration",
+              "coord": [
+                17.0675,
+                -96.7245
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Guelaguetza",
+              "coord": [
+                17.067,
+                -96.7255
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Chiapas & Palenque Ruins",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Casa Angel Inn",
+              "coord": [
+                20.914,
+                -100.7515
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant",
+              "coord": [
+                17.4845,
+                -92.0456
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palenque",
+              "coord": [
+                17.4845,
+                -92.0456
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jungle trekking",
+              "coord": [
+                17.4845,
+                -92.0456
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Chiapas cuisine",
+              "coord": [
+                17.4845,
+                -92.0456
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Yucat\u00e1n Peninsula Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Temoz\u00f3n House",
+              "coord": [
+                20.25,
+                -87.9
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Casa Kin",
+              "coord": [
+                20.968,
+                -89.6245
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Valladolid colonial town",
+              "coord": [
+                20.25,
+                -87.9
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cenote exploration",
+              "coord": [
+                20.25,
+                -87.9
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Yucat\u00e1n cuisine",
+              "coord": [
+                20.25,
+                -87.9
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Chich\u00e9n Itz\u00e1 & M\u00e9rida",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Temoz\u00f3n House",
+              "coord": [
+                20.25,
+                -87.9
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chich\u00e9n Itz\u00e1",
+              "coord": [
+                20.6829,
+                -87.5479
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant",
+              "coord": [
+                20.6829,
+                -87.5479
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Merida Jim's House",
+              "coord": [
+                20.9674,
+                -89.6237
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurante Merida 60",
+              "coord": [
+                20.9674,
+                -89.6237
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Tulum Riviera Maya",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Azulik Tulum",
+              "coord": [
+                20.233,
+                -87.389
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hartwood",
+              "coord": [
+                20.2098,
+                -87.4635
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tulum Ruins",
+              "coord": [
+                20.2113,
+                -87.4142
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cenote Swimming",
+              "coord": [
+                20.21,
+                -87.46
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Los Tacos de Pablo",
+              "coord": [
+                20.2105,
+                -87.4625
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Xcaret & Xel-H\u00e1 Parks",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Azulik Tulum",
+              "coord": [
+                20.233,
+                -87.389
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Xcaret Park",
+              "coord": [
+                20.64,
+                -87.06
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Xcaret on-site dining",
+              "coord": [
+                20.64,
+                -87.06
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Water activities",
+              "coord": [
+                20.64,
+                -87.06
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Playa Blanca",
+              "coord": [
+                20.6296,
+                -87.0739
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Xel-H\u00e1 Eco-Park Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Azulik Tulum",
+              "coord": [
+                20.233,
+                -87.389
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Xel-H\u00e1 Water Park",
+              "coord": [
+                20.3514,
+                -87.3214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Xel-H\u00e1 dining",
+              "coord": [
+                20.3514,
+                -87.3214
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Snorkeling & swimming",
+              "coord": [
+                20.3514,
+                -87.3214
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurante Bar El Capit\u00e1n",
+              "coord": [
+                20.2102,
+                -87.4624
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Cozumel Diving & Snorkeling",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Rosewood Mayakoba",
+              "coord": [
+                20.698,
+                -87.289
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Flora Farms",
+              "coord": [
+                23.62,
+                -109.985
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cozumel Diving",
+              "coord": [
+                20.505,
+                -87.075
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Reef exploration",
+              "coord": [
+                20.505,
+                -87.075
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Guacamole Grill",
+              "coord": [
+                23.634,
+                -109.976
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Laguna Bacalar & Kohunlich",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Rosewood Mayakoba",
+              "coord": [
+                20.698,
+                -87.289
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Laguna Bacalar",
+              "coord": [
+                18.6858,
+                -87.692
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local restaurant",
+              "coord": [
+                18.6858,
+                -87.692
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kohunlich Maya Ruins",
+              "coord": [
+                18.7433,
+                -87.8656
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casual beachfront dinner",
+              "coord": [
+                18.6858,
+                -87.692
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Relaxation & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Rosewood Mayakoba",
+              "coord": [
+                20.698,
+                -87.289
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Final beach time or spa",
+              "coord": [
+                20.698,
+                -87.289
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Favorite restaurant revisit",
+              "coord": [
+                20.6296,
+                -87.0739
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Souvenir shopping",
+              "coord": [
+                20.6296,
+                -87.0739
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest before departure",
+              "coord": [
+                20.698,
+                -87.289
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Farewell celebration",
+              "coord": [
+                20.6296,
+                -87.0739
+              ]
+            }
           ]
         }
       ]

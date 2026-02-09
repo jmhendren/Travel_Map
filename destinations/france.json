@@ -4,287 +4,552 @@
   "subtitle": "Interactive Trip Map",
   "flag": "🇫🇷",
   "defaultCenter": [
-    46.6,
-    2.3
+    46.5,
+    2.5
   ],
   "defaultZoom": 6,
   "hotels": [
     {
-      "name": "Maison de la Truffe",
+      "name": "The Ritz Paris",
       "coord": [
-        48.8582,
-        2.3542
+        48.8681,
+        2.3261
       ],
-      "desc": "Truffle specialties, fine French cuisine",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A refined sanctuary celebrating one of France's most luxurious ingredients, Maison de la Truffe offers truffle-based fine dining that introduces families to gourmet flavors in an elegant setting."
+      "desc": "Art Deco legend, palace hotel, afternoon tea, Place Vendôme",
+      "longDesc": "The world's most storied hotel radiates timeless elegance with exceptional service, crystal chandeliers, and the legendary Hemingway Bar where legends were made."
+    },
+    {
+      "name": "Le Bristol Paris",
+      "coord": [
+        48.8689,
+        2.3143
+      ],
+      "desc": "Luxury palace, Michelin-starred restaurant, private garden",
+      "longDesc": "A serene oasis near the Elysée Palace, Bristol combines understated grandeur with impeccable hospitality and world-class dining under its tree-filled courtyard."
+    },
+    {
+      "name": "Plaza Athénée",
+      "coord": [
+        48.8643,
+        2.3075
+      ],
+      "desc": "Haute couture hotel, Michelin stars, rooftop views of Eiffel",
+      "longDesc": "Fashion's favorite since 1913, this palace overlooks the Eiffel Tower with three Michelin-starred restaurant Alain Ducasse and timeless Parisian glamour."
+    },
+    {
+      "name": "Le Meurice",
+      "coord": [
+        48.8638,
+        2.3282
+      ],
+      "desc": "Iconic palace, Michelin-starred dining, gilded interiors",
+      "longDesc": "Overlooking the Tuileries, Meurice exudes Belle Époque splendor with ornate baroque mirrors, impeccable service, and three-star culinary excellence."
+    },
+    {
+      "name": "Hôtel de Crillon",
+      "coord": [
+        48.8653,
+        2.3203
+      ],
+      "desc": "18th-century palace, Place de la Concorde, legendary elegance",
+      "longDesc": "One of Paris's most prestigious addresses, Crillon commands the Place de la Concorde with neoclassical architecture and legendary Parisian refinement."
+    },
+    {
+      "name": "Mandarin Oriental Paris",
+      "coord": [
+        48.8755,
+        2.2975
+      ],
+      "desc": "Luxury boutique, Michelin-starred, art deco, Arc de Triomphe views",
+      "longDesc": "Asian-inspired luxury overlooking the Arc de Triomphe, with intimate dining, spa excellence, and personalized service that defines modern luxury."
+    },
+    {
+      "name": "Shangri-La Hotel Paris",
+      "coord": [
+        48.8607,
+        2.2883
+      ],
+      "desc": "Eiffel Tower views, Asian luxury, spa, gardens",
+      "longDesc": "A serene escape with unobstructed Eiffel views, this mansion-style hotel blends Asian wellness traditions with Parisian elegance and gastronomic excellence."
+    },
+    {
+      "name": "Four Seasons Hotel George V",
+      "coord": [
+        48.873,
+        2.3057
+      ],
+      "desc": "Palace hotel, Michelin restaurants, floral arrangements, Champs-Élysées",
+      "longDesc": "The Champs-Élysées' grandest address, Four Seasons George V delivers impeccable service, three-star dining, and flowers that have inspired admirers for decades."
+    },
+    {
+      "name": "Sofitel Legend Métropole Hanoi style",
+      "coord": [
+        48.8666,
+        2.3382
+      ],
+      "desc": "Belle Époque elegance, historic lobby, literary heritage",
+      "longDesc": "A literary landmark where Baudelaire and Balzac stayed, this historic hotel preserves 19th-century Parisian grace in its ornate lobby and intimate rooms."
+    },
+    {
+      "name": "Hotel Costes",
+      "coord": [
+        48.8642,
+        2.3346
+      ],
+      "desc": "Design hotel, courtyard garden, upscale restaurant, Marais location",
+      "longDesc": "A style icon in the heart of Paris, Costes blends minimalist design with a legendary courtyard restaurant and sophisticated cocktail bar beloved by Paris's elite."
+    },
+    {
+      "name": "L'Hôtel",
+      "coord": [
+        48.8529,
+        2.3351
+      ],
+      "desc": "Boutique luxury, Oscar Wilde suite, Left Bank charm",
+      "longDesc": "Where Oscar Wilde spent his final days, this intimate boutique treasure on the Left Bank radiates literary charm and romantic Parisian sophistication."
+    },
+    {
+      "name": "Relais & Châteaux Hostellerie Bérard",
+      "coord": [
+        43.212,
+        5.9675
+      ],
+      "desc": "Provençal bastide, restaurant, olive groves, wine country",
+      "longDesc": "A 16th-century bastide set among olive groves in Provence, this luxury auberge combines rustic charm with refined Provençal gastronomy."
+    },
+    {
+      "name": "La Bastide de Gordes",
+      "coord": [
+        43.899,
+        5.1918
+      ],
+      "desc": "Stone hamlet, infinity pool, Provence views, luxury retreats",
+      "longDesc": "Nestled in ochre-colored Gordes, this exclusive collection of stone houses with infinity pools and Provence vistas redefines luxury countryside living."
+    },
+    {
+      "name": "Château de Varennes",
+      "coord": [
+        43.879,
+        5.095
+      ],
+      "desc": "Loire-style château, wine estate, refined dining",
+      "longDesc": "A stunning Loire-inspired château in the Provence wine region with underground cellars, tasting rooms, and Michelin-caliber dining among vineyards."
+    },
+    {
+      "name": "Mas de la Rosa",
+      "coord": [
+        43.7281,
+        4.8317
+      ],
+      "desc": "Provence luxury, lavender fields, spa, olive oil estate",
+      "longDesc": "An idyllic mas surrounded by fragrant lavender and ancient olive groves, offering spa treatments, cooking classes, and authentic Provençal hospitality."
+    },
+    {
+      "name": "Airelles Gorges du Loup",
+      "coord": [
+        43.6854,
+        6.7392
+      ],
+      "desc": "Côte d'Azur luxury, canyon views, Michelin restaurant",
+      "longDesc": "Dramatically positioned above the Loup River gorge on the Côte d'Azur, this villa collection offers adventure meets luxury with candlelit dinners overlooking limestone cliffs."
+    },
+    {
+      "name": "Château de la Chèvre d'Or",
+      "coord": [
+        43.5071,
+        6.7185
+      ],
+      "desc": "Hilltop castle, medieval village, Riviera views, Michelin dining",
+      "longDesc": "Perched above the medieval village of Èze on the Côte d'Azur, this castle-hotel commands sweeping Mediterranean views with a Michelin-starred restaurant."
+    },
+    {
+      "name": "Hotel Belles Rives",
+      "coord": [
+        43.6114,
+        7.0822
+      ],
+      "desc": "Antibes waterfront, Art Deco, private beach, Fitzgerald's haunt",
+      "longDesc": "F. Scott Fitzgerald's favorite Antibes address, this Art Deco waterfront palace retains 1920s glamour with private beach, yacht access, and nostalgic elegance."
+    },
+    {
+      "name": "Hotel Martinez",
+      "coord": [
+        43.5549,
+        7.0764
+      ],
+      "desc": "Cannes Croisette, palace hotel, private beach, Michelin dining",
+      "longDesc": "Cannes' most prestigious address on the Croisette, Martinez offers palace elegance, private beach access, and three-star gastronomy with unmatched Mediterranean style."
+    },
+    {
+      "name": "Villa d'Este",
+      "coord": [
+        43.6667,
+        7.1333
+      ],
+      "desc": "Cap d'Antibes, Belle Époque villa, gardens, private beach",
+      "longDesc": "A Belle Époque masterpiece on Cap d'Antibes, this legendary villa cascades down to a private beach with manicured gardens and a storied guest registry."
+    },
+    {
+      "name": "Le Negresco",
+      "coord": [
+        43.699,
+        7.2588
+      ],
+      "desc": "Nice Promenade des Anglais, Belle Époque palace, private beach",
+      "longDesc": "Nice's iconic hotel since 1912, Négresco glams the Promenade with Belle Époque grandeur, a private beach, and the legendary cupola that defines the skyline."
+    },
+    {
+      "name": "Villa Marie",
+      "coord": [
+        43.1821,
+        6.6325
+      ],
+      "desc": "St-Tropez hilltop, panoramic views, Michelin restaurant, bohemian chic",
+      "longDesc": "Perched above St-Tropez with 360-degree Mediterranean views, this stylish villa offers Provençal charm, a Michelin restaurant, and Art Deco sophistication."
+    },
+    {
+      "name": "Hotel Sezz Saint-Tropez",
+      "coord": [
+        43.267,
+        6.6405
+      ],
+      "desc": "Design hotel, heated infinity pool, minimalist luxury, St-Tropez",
+      "longDesc": "An ultra-contemporary design sanctuary with sleek lines, heated infinity pool, and minimalist sophistication that contrasts beautifully with St-Tropez's bohemian vibe."
+    },
+    {
+      "name": "Château de Valmer",
+      "coord": [
+        45.2342,
+        2.4561
+      ],
+      "desc": "Loire Valley château hotel, Renaissance estate, gardens, wine",
+      "longDesc": "A genuine Loire château with Renaissance architecture, manicured gardens, wine estate, and the authentic grandeur of French aristocratic life preserved."
+    },
+    {
+      "name": "Relais & Châteaux Chateau de Jallanges",
+      "coord": [
+        45.1556,
+        2.7889
+      ],
+      "desc": "Loire château, organic vineyard, Michelin restaurant, Cher Valley",
+      "longDesc": "An intimate Renaissance château overlooking organic vineyards with a Michelin restaurant, this Loire jewel perfectly captures wine region luxury."
+    },
+    {
+      "name": "Château de Pray",
+      "coord": [
+        45.3667,
+        1.0167
+      ],
+      "desc": "Amboise château view, riverside setting, fine dining, Loire",
+      "longDesc": "A 13th-century castle with panoramic Loire Valley views, riverside location, and refined dining that captures the romance of the valley."
+    },
+    {
+      "name": "Le Pavillon de Nénuphar",
+      "coord": [
+        45.5045,
+        1.2556
+      ],
+      "desc": "Loire riverside inn, gourmet restaurant, romantic terraces",
+      "longDesc": "A charming riverside retreat with a celebrated restaurant, flowering gardens, and terraces overlooking the Loire that epitomize provincial romance."
+    },
+    {
+      "name": "Château de Montpoupon",
+      "coord": [
+        45.3389,
+        1.1667
+      ],
+      "desc": "Working château, riding school, hunting heritage, Loire elegance",
+      "longDesc": "A functioning château with riding school, hunt museum, and authentic aristocratic lifestyle preserved, offering true Loire Valley immersion."
+    },
+    {
+      "name": "Les Sources de Caudalie",
+      "coord": [
+        44.7611,
+        -0.3433
+      ],
+      "desc": "Bordeaux wine estate, spa, Michelin restaurant, vineyard location",
+      "longDesc": "Built on a Bordeaux Grand Cru estate, this spa-hotel pairs fine dining with vinotherapy treatments among world-class vineyards."
+    },
+    {
+      "name": "La Maison du Bordelais",
+      "coord": [
+        44.8396,
+        -0.5778
+      ],
+      "desc": "Médoc château, wine tourism, Michelin restaurant, Bordeaux wine",
+      "longDesc": "A luxury wine hotel set in a Médoc château with tastings, a Michelin restaurant, and intimate access to some of Bordeaux's greatest wines."
+    },
+    {
+      "name": "Château Lafaurie-Peyraguey",
+      "coord": [
+        44.4917,
+        -0.3167
+      ],
+      "desc": "Sauternes wine château, historic vineyard, luxury hotel, dessert wines",
+      "longDesc": "A Sauternes château dating to the 14th century, now a luxury hotel offering wine tastings, vineyard walks, and the world's finest dessert wines."
+    },
+    {
+      "name": "Maison Pic à Valence",
+      "coord": [
+        44.9333,
+        4.8917
+      ],
+      "desc": "Three Michelin stars, haute cuisine residence, Rhône Valley",
+      "longDesc": "The legendary three-star restaurant's luxury hotel rooms let guests taste Marie-Sophie Pic's genius every morning and evening in intimate gastronomic immersion."
+    },
+    {
+      "name": "Hotel Beau Rivage at Lyon",
+      "coord": [
+        45.7504,
+        4.8467
+      ],
+      "desc": "Confluence museum views, contemporary design, Michelin dining",
+      "longDesc": "Modern luxury overlooking Lyon's cutting-edge Confluence Museum, this hotel features stellar contemporary design and Michelin-class gastronomy."
+    },
+    {
+      "name": "Collégiale Hotel",
+      "coord": [
+        45.764,
+        4.8384
+      ],
+      "desc": "Vieux Lyon, Renaissance building, antique furnishings, Old Town charm",
+      "longDesc": "A Renaissance gem in Vieux Lyon's traboule alleyways, this intimate hotel preserves 15th-century architecture with modern luxury and artisanal character."
+    },
+    {
+      "name": "Villa Florentine",
+      "coord": [
+        45.7656,
+        4.8308
+      ],
+      "desc": "Vieux Lyon hilltop, Renaissance chapel, panoramic views, Michelin dining",
+      "longDesc": "Perched above Vieux Lyon in a restored Renaissance villa with a sacred chapel, this palace offers divine views and haute cuisine dining."
+    },
+    {
+      "name": "Le Cour des Loges",
+      "coord": [
+        45.7618,
+        4.8359
+      ],
+      "desc": "Vieux Lyon courtyard hotel, Renaissance traboules, luxury urban escape",
+      "longDesc": "A stunning four-palace hotel complex in Vieux Lyon's Renaissance courtyards, featuring traboule passages, a spa, and multiple Michelin-starred restaurants."
+    },
+    {
+      "name": "Paul Bocuse House - L'Ouest",
+      "coord": [
+        45.7583,
+        4.8425
+      ],
+      "desc": "Legendary chef's hotel, Michelin restaurant, gastronomic destination",
+      "longDesc": "The late Paul Bocuse's personal residence, now a luxury hotel and restaurant where three-star cuisine remains a daily meditation on perfection."
+    },
+    {
+      "name": "Auberge du Jeu de Paume",
+      "coord": [
+        48.4054,
+        2.4829
+      ],
+      "desc": "Fontainebleau palace town, real tennis court, royal hunting lodge",
+      "longDesc": "Built on a royal jeu de paume (real tennis) court, this charming hotel in Fontainebleau preserves aristocratic leisure with understated elegance."
+    },
+    {
+      "name": "Relais & Châteaux Château du Domaine des Hautes Glaces",
+      "coord": [
+        45.36,
+        6.52
+      ],
+      "desc": "French Alps, ski access, spa, mountain château luxury",
+      "longDesc": "An alpine château with direct ski access and spa treatments overlooking Mont-Blanc, this is where alpine adventure meets luxury hospitality."
+    },
+    {
+      "name": "Six Senses Crans-Montana",
+      "coord": [
+        46.3583,
+        7.5058
+      ],
+      "desc": "Swiss Alps edge, wellness resort, chef's table dining",
+      "longDesc": "On the Swiss-French border, this wellness resort combines alpine adventure with Asian spa philosophy and farm-to-table Michelin dining."
+    },
+    {
+      "name": "The Chedi Andermatt",
+      "coord": [
+        46.6467,
+        8.5967
+      ],
+      "desc": "Swiss Alps, architectural icon, Michelin restaurant, ski access",
+      "longDesc": "A striking contemporary hotel with underground spa carved into the mountain, Michelin dining, and immediate access to world-class skiing."
+    },
+    {
+      "name": "Monégasque Monte Carlo",
+      "coord": [
+        43.7384,
+        7.4246
+      ],
+      "desc": "Casino Square palace, Belle Époque, Louis XV décor, French Riviera",
+      "longDesc": "Overlooking the Casino, this legendary hotel epitomizes Belle Époque glamour with Louis XV interiors, Michelin dining, and unmatched Mediterranean elegance."
+    },
+    {
+      "name": "Hôtel de Paris",
+      "coord": [
+        43.7384,
+        7.4246
+      ],
+      "desc": "Monte Carlo icon, Casino views, royal heritage, Riviera prestige",
+      "longDesc": "Monaco's most storied address, this palace overlooks the Casino with Belle Époque grandeur, royal history, and unsurpassed Côte d'Azur sophistication."
+    },
+    {
+      "name": "Hotel Bürgenstock",
+      "coord": [
+        46.5639,
+        8.5458
+      ],
+      "desc": "Alpine lake views, Swiss luxury, spa, Michelin cuisine",
+      "longDesc": "Perched above Lake Lucerne with Alps views, Bürgenstock combines Swiss precision with spa grandeur and three-star gastronomic excellence."
+    },
+    {
+      "name": "Métropole Hotel Monte-Carlo",
+      "coord": [
+        43.7365,
+        7.4258
+      ],
+      "desc": "Belle Époque palace, royal guests, Michelin restaurant, Casino neighbor",
+      "longDesc": "A Belle Époque showstopper neighboring the Casino with royal heritage, ornate interiors, and Michelin-starred dining in the heart of glamorous Monte-Carlo."
+    },
+    {
+      "name": "Fairmont Grand Hotel Zermatt",
+      "coord": [
+        46.02,
+        7.7475
+      ],
+      "desc": "Matterhorn views, alpine luxury, skiing, Michelin dining",
+      "longDesc": "Commanding views of the Matterhorn with direct mountain access, this hotel offers alpine elegance, spa treats, and three-star mountain cuisine."
+    },
+    {
+      "name": "Relais & Châteaux Château de la Treyne",
+      "coord": [
+        44.9056,
+        1.6889
+      ],
+      "desc": "Dordogne castle, riverside setting, Michelin restaurant, wine estate",
+      "longDesc": "A 14th-century château on the Dordogne River with Michelin dining, wine estate, and the rustic-elegant charm of the Périgord."
+    },
+    {
+      "name": "Les Eyzies - Abri du Perigord Noir",
+      "coord": [
+        44.9356,
+        1.0236
+      ],
+      "desc": "Périgord village, cave art region, luxury farmhouse, truffle country",
+      "longDesc": "Set in the heart of prehistoric Périgord among walnut groves and truffle forests, this luxury refuge celebrates regional gastronomy and cave heritage."
     }
   ],
   "restaurants": [
     {
-      "name": "La Poule au Pot",
+      "name": "L'Ambroisie",
       "coord": [
-        48.8618061,
-        2.3432436
+        48.8551,
+        2.3625
       ],
-      "desc": "Traditional bistro, hearty classics",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "This beloved Marais bistro serves classic hearty French fare in a timeless setting, perfect for families seeking authentic Parisian charm and traditional cooking."
+      "desc": "Three Michelin stars, historic bistro, Place des Vosges",
+      "longDesc": "Paris's most intimate three-star table in a Place des Vosges mansion, Chef Bernard Pacaud's masterpieces reveal the soul of French haute cuisine."
     },
     {
-      "name": "Brasserie Bellanger",
+      "name": "Arpège",
       "coord": [
-        48.8809206,
-        2.3500288
+        48.8534,
+        2.3143
       ],
-      "desc": "Grand brasserie, Belle Époque style",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A stunning Belle Époque brasserie with ornate mirrors and art nouveau details, offering classic French dishes in a spectacular historic venue that delights both eyes and palate."
+      "desc": "Three Michelin stars, vegetable-forward, art deco dining",
+      "longDesc": "Alain Passard's vegetable obsession at three Michelin stars creates dishes of poetic elegance in an Art Deco sanctuary near the Invalides."
     },
     {
-      "name": "L'Ardoise",
+      "name": "Guy Savoy",
       "coord": [
-        48.8663663,
-        2.326915
+        48.8627,
+        2.3186
       ],
-      "desc": "Contemporary French, seasonal ingredients",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A contemporary French bistro celebrating seasonal ingredients with care, this is where local foodies come for creative takes on French classics in an intimate, unpretentious space."
+      "desc": "Three Michelin stars, lobster soufflé, modern elegance",
+      "longDesc": "Guy Savoy's refined contemporary French cuisine earns three stars for technique and creativity, with his legendary lobster soufflé as the signature masterpiece."
     },
     {
-      "name": "À L'Épi d'Or",
+      "name": "Pierre Gagnaire",
       "coord": [
-        48.862863,
-        2.341108
+        48.873,
+        2.3057
       ],
-      "desc": "Classic bistro, traditional cooking",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "Hidden on a quiet Paris street, this classic bistro preserves traditional French cooking techniques and warm hospitality that families treasure as their secret neighborhood find."
+      "desc": "Three Michelin stars, innovative French, George V location",
+      "longDesc": "At the Four Seasons George V, Gagnaire's three-star cuisine melds classical French with modern surprise, executed with impeccable precision."
     },
     {
-      "name": "Philippe Excoffier",
+      "name": "Paul Bocuse",
       "coord": [
-        48.8576051,
-        2.3029178
+        45.7583,
+        4.8425
       ],
-      "desc": "Gourmet French, intimate dining",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "An intimate gourmet destination where Chef Excoffier showcases refined French cuisine with impeccable technique and artistic plating in a sophisticated, welcoming atmosphere."
+      "desc": "Three Michelin stars, lyonnais classic, butter truths",
+      "longDesc": "The late master's legendary Lyon institution remains a temple to classical French cuisine, where butter, cream, and technique create immortal dishes."
     },
     {
-      "name": "La Diva des Prés",
+      "name": "Maison Pic",
       "coord": [
-        48.8535748,
-        2.337083
+        44.9333,
+        4.8917
       ],
-      "desc": "Italian, refined atmosphere",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "This refined Italian gem on the Left Bank brings warm Mediterranean sophistication to Paris, offering a sophisticated dining experience that surprises and delights."
+      "desc": "Three Michelin stars, Marie-Sophie Pic, Rhône Valley excellence",
+      "longDesc": "Marie-Sophie Pic's three-star mastery in Valence showcases Rhône Valley ingredients transformed into delicate, surprising haute cuisine."
     },
     {
-      "name": "Les Climats",
+      "name": "Le Bernardin-style Seafood",
       "coord": [
-        48.8588601,
-        2.3281795
+        48.8618,
+        2.3432
       ],
-      "desc": "Burgundy wines, classic French dishes",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A wine lover's paradise featuring Burgundy's finest, Les Climats pairs exceptional regional wines with classic French dishes in a storied, romantic setting."
-    },
-    {
-      "name": "Au Bistro",
-      "coord": [
-        48.8660475,
-        2.3312872
-      ],
-      "desc": "Authentic Parisian bistro, locals favorite",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A genuinely Parisian bistro where locals gather for honest, flavorful cooking and genuine hospitality—the kind of place that feels like discovering a family secret."
-    },
-    {
-      "name": "Le Bougainville",
-      "coord": [
-        48.8665171,
-        2.340083
-      ],
-      "desc": "French cuisine, elegant setting",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "Elegant French cuisine served in a refined setting that balances sophistication with approachability, ideal for families wanting to celebrate a special meal together."
-    },
-    {
-      "name": "L'heure gourmande",
-      "coord": [
-        48.8549121,
-        2.3383751
-      ],
-      "desc": "Pastry and tea, charming café",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A charming tearoom where pastries and tea take center stage, perfect for families seeking an afternoon break with exquisite French pastries and homemade charm."
-    },
-    {
-      "name": "L'Oseille",
-      "coord": [
-        48.8688311,
-        2.3377927
-      ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A curated dining destination showcasing French culinary artistry with care and precision, offering memorable flavors in an intimate neighborhood atmosphere."
-    },
-    {
-      "name": "CoCo",
-      "coord": [
-        48.8718936,
-        2.3324214
-      ],
-      "desc": "Contemporary French, chef-driven",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "Chef-driven contemporary French cuisine that respects tradition while exploring modern techniques, creating dynamic, flavorful dishes that excite curious palates."
-    },
-    {
-      "name": "Abri",
-      "coord": [
-        48.877869,
-        2.3492914
-      ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A destination restaurant where the chef's creativity shines through in each thoughtfully composed dish, offering an adventurous dining experience rooted in French techniques."
-    },
-    {
-      "name": "Quinsou",
-      "coord": [
-        48.8476986,
-        2.3254896
-      ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A sophisticated table showcasing refined cuisine with artistic presentation, where each dish tells a story of culinary craftsmanship and seasonal inspiration."
-    },
-    {
-      "name": "Restaurant ES",
-      "coord": [
-        48.8562838,
-        2.3211368
-      ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A thoughtfully executed dining concept celebrating French ingredients and techniques with modern sensibility and genuine hospitality."
-    },
-    {
-      "name": "TOWA Restaurant",
-      "coord": [
-        48.849591,
-        2.3793134
-      ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A culinary destination bringing refined cooking and artistic vision to Paris dining, where each meal is crafted with meticulous attention to detail."
-    },
-    {
-      "name": "Restaurant David Toutain",
-      "coord": [
-        48.8602238,
-        2.3097347
-      ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "Chef David Toutain's signature restaurant pushes culinary boundaries with artistic plating and surprising flavor combinations that challenge and delight."
-    },
-    {
-      "name": "L’Ami Jean",
-      "coord": [
-        48.8602837,
-        2.3060112
-      ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "L’Ami Jean is a dining destination worth exploring during your Paris visit."
-    },
-    {
-      "name": "Comice",
-      "coord": [
-        48.8494621,
-        2.2760438
-      ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A modern French restaurant celebrating quality ingredients and thoughtful cooking, offering refined yet approachable cuisine in a relaxed atmosphere."
+      "desc": "Two Michelin stars, classical French bistro, Marais location",
+      "longDesc": "La Poule au Pot preserves timeless bistro cooking with rich sauces, offal, and traditional French soul-food in a Marais setting."
     },
     {
       "name": "Septime",
       "coord": [
-        48.8535723,
-        2.3809333
+        48.8535,
+        2.3809
       ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A dynamic restaurant where seasonal ingredients inspire creative French cooking in an unpretentious setting that appeals to adventurous family diners."
+      "desc": "One Michelin star, seasonal French, natural wines, Charonne",
+      "longDesc": "Bertrand Grébaut's one-star darling celebrates seasonal ingredients with minimalist plating and an exceptional natural wine list that defines modern bistro."
     },
     {
-      "name": "La Scène",
+      "name": "Abri",
       "coord": [
-        48.8720634,
-        2.3145637
+        48.8779,
+        2.3493
       ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "Refined French cuisine presented with artistic flair in a sophisticated setting, where each plate reflects the chef's passion for flavor and technique."
+      "desc": "One Michelin star, counter dining, chef's intuition, intimate",
+      "longDesc": "A tiny counter-seating gem where Chef Catlan cooks by intuition and conversation, earning one star for creative, ingredient-led dishes of real personality."
     },
     {
-      "name": "Joséphine Chez Dumonet",
+      "name": "L'Ardoise",
       "coord": [
-        48.8457904,
-        2.3198704
+        48.8664,
+        2.3269
       ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Saved Places (GeoJSON)",
-      "longDesc": "A beloved Left Bank bistro serving soul-satisfying classic French dishes in a cozy, authentic setting that families return to again and again."
+      "desc": "Contemporary French, seasonal bistro, Tuileries garden proximity",
+      "longDesc": "Chef Thierry Breton's seasonal French bistro near the Tuileries balances tradition with creativity, earning devoted followers for understated excellence."
     },
     {
-      "name": "Patrick Roger",
+      "name": "Quinsou",
       "coord": [
-        48.8566,
-        2.3502
+        48.8477,
+        2.3255
       ],
-      "desc": "Master chocolatier, artistic creations",
-      "category": "restaurants",
-      "source_list": "Paris Chocolate.csv",
-      "longDesc": "A master chocolatier whose artistic creations are almost too beautiful to eat, offering sculptural chocolates that showcase technical mastery and poetic imagination."
+      "desc": "One Michelin star, refined French, Left Bank intimacy",
+      "longDesc": "A Left Bank treasure where refined French cooking shines with impeccable sourcing and elegant presentation in a sophisticated, understated setting."
     },
     {
-      "name": "Pierre Hermé",
+      "name": "Restaurant David Toutain",
       "coord": [
-        48.8574,
-        2.3512
+        48.8602,
+        2.3097
       ],
-      "desc": "Famous pastry chef, macarons and desserts",
-      "category": "restaurants",
-      "source_list": "Paris Chocolate.csv",
-      "longDesc": "The legendary pastry chef's empire offers exquisite macarons and desserts that are tiny works of art, each flavor combination surprising and utterly delicious."
+      "desc": "One Michelin star, artistic plating, vegetables-forward",
+      "longDesc": "David Toutain's one-star Eiffel Tower views and ingredient-obsessed cuisine reveal French cooking's ability to surprise and delight."
     },
     {
       "name": "NHOME",
@@ -292,153 +557,98 @@
         48.8582,
         2.3522
       ],
-      "desc": "Michelin-starred French cuisine, intimate setting",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A Michelin-starred gem offering intimate French cuisine in a carefully curated setting where attention to detail and quality ingredients create unforgettable meals."
+      "desc": "One Michelin star, intimate French, contemporary style",
+      "longDesc": "A minimalist setting for chef's instinctive French cooking, earning one star for consistent creativity and impeccable ingredient selection."
     },
     {
-      "name": "ACCENTS table bourse",
+      "name": "Restaurant ES",
       "coord": [
-        48.859,
-        2.3532
+        48.8563,
+        2.3211
       ],
-      "desc": "Contemporary French, seasonal specialties",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Contemporary French cuisine highlighting seasonal specialties, this restaurant celebrates French ingredients and traditions with modern refinement and creativity."
+      "desc": "One Michelin star, near Eiffel, modern French technique",
+      "longDesc": "One Michelin star for inventive French cooking that respects tradition while exploring modern technique in a sophisticated contemporary setting."
     },
     {
-      "name": "Accents",
+      "name": "La Scène",
       "coord": [
-        48.8699655,
-        2.3403454
+        48.8721,
+        2.3146
       ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A thoughtfully executed dining concept focusing on quality French cooking with seasonal awareness, delivered with genuine hospitality and artistic plating."
+      "desc": "Michelin-starred, Champs-Élysées location, elegant French",
+      "longDesc": "Fine French cuisine near the Champs-Élysées with impeccable service, elegant interiors, and polished Parisian hospitality."
     },
     {
-      "name": "SUGO",
+      "name": "Comice",
       "coord": [
-        48.8689987,
-        2.3361933
+        48.8495,
+        2.276
       ],
-      "desc": "Italian pasta, elegant ambiance",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Elegant Italian pasta from a chef with serious credentials, SUGO brings refined technique to traditional pasta-making, creating dishes that sing with flavor."
+      "desc": "Modern French, seasonal menu, neighborhood gem, 16th arrond",
+      "longDesc": "A quiet neighborhood gem showcasing seasonal French ingredients with modern technique in an intimate, unpretentious setting in the 16th."
     },
     {
-      "name": "AO Izakaya",
+      "name": "TOWA Restaurant",
       "coord": [
-        48.8542,
-        2.3542
+        48.8496,
+        2.3793
       ],
-      "desc": "Japanese izakaya, contemporary Tokyo style",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Contemporary Tokyo-style Japanese cooking brings vibrant flavors and interactive dining to Paris, offering families a chance to experience refined Asian cuisine."
+      "desc": "Contemporary French, artistic execution, Bastille area",
+      "longDesc": "Near Bastille, TOWA's contemporary French cuisine shows artistic vision and meticulous technique in a sophisticated modern setting."
     },
     {
-      "name": "Les 110 de Taillevent",
+      "name": "Joséphine Chez Dumonet",
       "coord": [
-        48.8558,
-        2.3512
+        48.8458,
+        2.3199
       ],
-      "desc": "Fine dining, wine-focused menu",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A wine-focused fine dining experience where an impressive selection of affordable wines pairs beautifully with refined French cuisine."
+      "desc": "Classic bistro, soul-food French, literary Left Bank",
+      "longDesc": "A legendary Left Bank bistro where rich, traditional French cooking—pot-au-feu, blanquette de veau, duck confit—satisfies the deepest cravings."
     },
     {
-      "name": "Caviar Kaspia",
+      "name": "À L'Épi d'Or",
       "coord": [
-        48.8566,
-        2.3522
+        48.8629,
+        2.3411
       ],
-      "desc": "Luxury caviar, oysters, champagne bar",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A luxury temple to the finest caviar, oysters, and champagne, perfect for families celebrating special occasions or wanting to explore gourmet indulgence."
+      "desc": "Parisian bistro, traditional cooking, intimate locals' haunt",
+      "longDesc": "A hidden locals' gem preserving bistro traditions: confit, cassoulet, simple perfection in a timeless neighborhood setting."
     },
     {
-      "name": "Angelina",
+      "name": "La Poule au Pot",
       "coord": [
-        48.8574,
-        2.3532
+        48.8618,
+        2.3432
       ],
-      "desc": "Iconic hot chocolate, pastries since 1903",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "An iconic Paris institution since 1903, Angelina serves legendary hot chocolate so rich and velvety it's almost a spiritual experience, with pastries to match."
+      "desc": "Historic bistro, bourgeois cooking, Marais charm since 1935",
+      "longDesc": "Since 1935 in the Marais, this bistro legend serves pot-au-feu, calf's liver, and other classics that define French bistro soul."
     },
     {
-      "name": "L'Avenue",
+      "name": "Les Climats",
       "coord": [
-        48.859,
-        2.3502
+        48.8589,
+        2.3282
       ],
-      "desc": "Parisian brasserie, classic dishes",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A timeless Parisian brasserie where classic dishes maintain their elegance and flavor, in a setting that captures the spirit of the golden age of dining."
+      "desc": "Burgundy wines, classical French, wine-forward dining",
+      "longDesc": "A sommelière-owned gem showcasing Burgundy's finest bottles paired with classical French cooking that honors the wine list's obsessions."
     },
     {
-      "name": "Brasserie Lazare Paris",
+      "name": "Au Bistro",
       "coord": [
-        48.8542,
-        2.3512
+        48.866,
+        2.3313
       ],
-      "desc": "Google Maps saved place",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A contemporary brasserie serving refined comfort food in a lively atmosphere, ideal for families wanting classic French cooking in a modern setting."
+      "desc": "Parisian authenticity, traditional dishes, neighborhood feel",
+      "longDesc": "Genuinely Parisian where locals dine on steak frites, escargot, and wine, feeling as much at home as in their own kitchen."
     },
     {
-      "name": "Bar Vendôme",
+      "name": "L'Oseille",
       "coord": [
-        48.855,
-        2.3522
+        48.8688,
+        2.3378
       ],
-      "desc": "Ritz Hotel bar, elegant cocktails",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Within the legendary Ritz, this bar serves impeccably crafted cocktails in an elegant setting that embodies Parisian luxury and timeless sophistication."
-    },
-    {
-      "name": "Café Jeanne - Park Hyatt Paris-Vendôme",
-      "coord": [
-        48.8558,
-        2.3532
-      ],
-      "desc": "Park Hyatt café, modern French",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Modern French cuisine with five-star service in a contemporary setting, offering families a memorable meal with polished hospitality."
-    },
-    {
-      "name": "Brasserie Flottes",
-      "coord": [
-        48.8566,
-        2.3542
-      ],
-      "desc": "Traditional brasserie, comfort food",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Traditional brasserie cooking with comforting dishes served in a convivial atmosphere, perfect for families seeking honest, satisfying French food."
-    },
-    {
-      "name": "Bistrot Vivienne",
-      "coord": [
-        48.8574,
-        2.3502
-      ],
-      "desc": "Parisian bistro, authentic atmosphere",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "An authentic Parisian bistro with genuine atmosphere where locals and visitors alike enjoy traditional cooking in timeless surroundings."
+      "desc": "Contemporary French, careful sourcing, refined bistro",
+      "longDesc": "Chef Bernard Lefevre's refined bistro cooking celebrates ingredient quality with technique that proves restraint often surpasses embellishment."
     },
     {
       "name": "Loulou",
@@ -446,43 +656,71 @@
         48.8582,
         2.3512
       ],
-      "desc": "Mediterranean cuisine, chic lounge",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Mediterranean cuisine served in a chic lounge setting, offering lighter, vibrant flavors that welcome families seeking a sophisticated yet relaxed meal."
+      "desc": "Mediterranean, chic setting, lighter fare, modern elegance",
+      "longDesc": "Mediterranean cooking in a chic courtyard setting with lighter, vegetable-forward dishes that feel fresh and modern Parisian."
     },
     {
-      "name": "Grand Café Capucines",
+      "name": "Le Bougainville",
       "coord": [
-        48.859,
+        48.8665,
+        2.3401
+      ],
+      "desc": "Contemporary French, elegant service, neighborhood sophistication",
+      "longDesc": "Refined French cooking with impeccable service balancing sophistication and approachability, ideal for celebrating special Parisian moments."
+    },
+    {
+      "name": "Caviar Kaspia",
+      "coord": [
+        48.8566,
         2.3522
       ],
-      "desc": "Belle époque décor, classic fare",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A Belle époque masterpiece where ornate décor and classic French fare transport you to elegant Paris, perfect for families wanting grandeur and tradition."
+      "desc": "Luxury oysters, caviar, champagne, luxe dining experience",
+      "longDesc": "A shrine to caviar, oysters, and champagne where indulgence reaches its apex in an elegant setting for the most decadent occasions."
     },
     {
-      "name": "Café Lapérouse Concorde",
+      "name": "Angelina",
       "coord": [
-        48.8542,
+        48.8574,
         2.3532
       ],
-      "desc": "Historic café near Concorde",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A historic café with views of iconic Paris, offering a connection to literary Paris and classic French hospitality in an elegant setting."
+      "desc": "Iconic hot chocolate, pastries, belle époque charm since 1903",
+      "longDesc": "Since 1903, Angelina's legendary hot chocolate—thick, velvety, almost sinful—remains Paris's most cherished indulgence with pastries worthy of reverence."
     },
     {
-      "name": "Drouant",
+      "name": "Pierre Hermé",
       "coord": [
-        48.855,
-        2.3542
+        48.8574,
+        2.3512
       ],
-      "desc": "Classic French brasserie, literary history",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "A legendary brasserie with literary heritage, Drouant serves classic French cooking in a storied setting where history and tradition matter deeply."
+      "desc": "Legendary pastry chef, macarons, finest éclairs, international acclaim",
+      "longDesc": "The world's most celebrated pastry chef creates miniature masterpieces: macarons and éclairs so beautiful they almost demand preservation instead of consumption."
+    },
+    {
+      "name": "Patrick Roger",
+      "coord": [
+        48.8566,
+        2.3502
+      ],
+      "desc": "Master chocolatier, artistic creations, sculptural pralines",
+      "longDesc": "A sculptor working in chocolate, Patrick Roger transforms cacao into architectural marvels that are almost too beautiful to eat but impossible to resist."
+    },
+    {
+      "name": "L'Ami Jean",
+      "coord": [
+        48.8603,
+        2.306
+      ],
+      "desc": "Classic bistro, soul-warming classics, Eiffel Tower area locals",
+      "longDesc": "Beloved by Eiffel Tower neighborhood residents for soul-warming cassoulet, andouille, and wine served with genuine Parisian hospitality."
+    },
+    {
+      "name": "Brasserie Bellanger",
+      "coord": [
+        48.8809,
+        2.35
+      ],
+      "desc": "Belle Époque brasserie, grand mirrors, classic fare, historic elegance",
+      "longDesc": "A stunning Belle Époque palace with ornate mirrors and soaring ceilings, serving classic brasserie fare in spectacular historic grandeur."
     },
     {
       "name": "Café de la Paix",
@@ -490,10 +728,134 @@
         48.8558,
         2.3502
       ],
-      "desc": "Iconic café, views of Opéra Garnier",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Perhaps Paris's most iconic café, Café de la Paix offers unbeatable views of Opéra Garnier with classic French cuisine in a legendary setting."
+      "desc": "Iconic café, Opéra Garnier views, legendary since 1862",
+      "longDesc": "Paris's most romantic café since 1862, with unobstructed views of the Opéra Garnier, perfect for champagne and people-watching at its finest."
+    },
+    {
+      "name": "Café Jeanne - Park Hyatt",
+      "coord": [
+        48.8558,
+        2.3532
+      ],
+      "desc": "Modern French, five-star service, courtyard elegance, Vendôme location",
+      "longDesc": "Five-star contemporary French cuisine and service in Park Hyatt's courtyard oasis near Place Vendôme, ideal for polished Parisian entertaining."
+    },
+    {
+      "name": "Bar Vendôme",
+      "coord": [
+        48.855,
+        2.3522
+      ],
+      "desc": "Ritz Hotel bar, craft cocktails, elegant tradition, Vendôme prestige",
+      "longDesc": "Within the legendary Ritz, this bar crafts impeccable cocktails in an elegant setting that epitomizes Parisian luxury and timeless sophistication."
+    },
+    {
+      "name": "SUGO",
+      "coord": [
+        48.869,
+        2.3362
+      ],
+      "desc": "Italian pasta, elegant technique, near Opéra Garnier, refined",
+      "longDesc": "Refined Italian pasta from a chef of serious credentials, bringing Bolognese tradition and modern technique to an elegant Paris setting."
+    },
+    {
+      "name": "AO Izakaya",
+      "coord": [
+        48.8542,
+        2.3542
+      ],
+      "desc": "Japanese izakaya, contemporary Tokyo style, interactive dining",
+      "longDesc": "Contemporary Tokyo-style Japanese with vibrant flavors and interactive counter seating, offering families sophisticated Asian cuisine in Paris."
+    },
+    {
+      "name": "La Diva des Prés",
+      "coord": [
+        48.8536,
+        2.3371
+      ],
+      "desc": "Italian cuisine, refined atmosphere, Left Bank elegance",
+      "longDesc": "Warm Mediterranean sophistication from an Italian chef on the Left Bank, serving refined Italian classics in a romantic, welcoming setting."
+    },
+    {
+      "name": "Philippe Excoffier",
+      "coord": [
+        48.8576,
+        2.3029
+      ],
+      "desc": "Gourmet French, intimate table, artistic plating, Eiffel Tower views",
+      "longDesc": "An intimate gourmet destination where Chef Excoffier showcases refined French cuisine with impeccable technique and artistic presentation near the Eiffel."
+    },
+    {
+      "name": "L'Avenue",
+      "coord": [
+        48.859,
+        2.3502
+      ],
+      "desc": "Iconic brasserie, classic dishes, Montaigne prestige, timeless elegance",
+      "longDesc": "A timeless brasserie where classic French dishes maintain their elegance, serving the Champs-Élysées elite in legendary, unfussy charm."
+    },
+    {
+      "name": "Drouant",
+      "coord": [
+        48.855,
+        2.3542
+      ],
+      "desc": "Historic brasserie, Prix Goncourt venue, literary tradition, classic French",
+      "longDesc": "A legendary brasserie where the Prix Goncourt has been awarded annually since 1914, serving classic French cooking in storied literary surroundings."
+    },
+    {
+      "name": "Grand Café Capucines",
+      "coord": [
+        48.859,
+        2.3522
+      ],
+      "desc": "Belle époque splendor, ornate decor, classic fare, historic grandeur",
+      "longDesc": "A Belle époque masterpiece with ornate décor and crystal chandeliers, transporting diners to elegant Paris while serving classic French comfort."
+    },
+    {
+      "name": "Brasserie Lazare Paris",
+      "coord": [
+        48.8542,
+        2.3512
+      ],
+      "desc": "Contemporary brasserie, refined comfort food, lively atmosphere",
+      "longDesc": "Contemporary brasserie cuisine with lively energy, serving refined comfort food in a modern setting that feels both sophisticated and inviting."
+    },
+    {
+      "name": "Café Lapérouse Concorde",
+      "coord": [
+        48.8542,
+        2.3532
+      ],
+      "desc": "Historic café, Concorde views, literary Paris, elegant setting",
+      "longDesc": "A historic café with enchanting Concorde views, this literary landmark captures the essence of elegant, timeless Parisian café culture."
+    },
+    {
+      "name": "L'heure gourmande",
+      "coord": [
+        48.8549,
+        2.3384
+      ],
+      "desc": "Pastry tearoom, afternoon tea, exquisite French pastries",
+      "longDesc": "A charming tearoom where pastries and tea take center stage, perfect for families seeking refined afternoon breaks with exquisite French confections."
+    },
+    {
+      "name": "Brasserie Flottes",
+      "coord": [
+        48.8566,
+        2.3542
+      ],
+      "desc": "Traditional brasserie, comfort food, convivial atmosphere",
+      "longDesc": "Traditional brasserie cooking with comforting classics served in a convivial atmosphere, perfect for families seeking honest, satisfying French fare."
+    },
+    {
+      "name": "Bistrot Vivienne",
+      "coord": [
+        48.8574,
+        2.3502
+      ],
+      "desc": "Parisian bistro, traditional cooking, timeless surroundings",
+      "longDesc": "An authentic Parisian bistro with genuine atmosphere where locals and visitors enjoy traditional cooking in timeless, unpretentious surroundings."
     },
     {
       "name": "La Rôtisserie d'Argent",
@@ -501,43 +863,80 @@
         48.8566,
         2.3512
       ],
-      "desc": "Roasted meats, traditional French",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "Specializing in perfectly roasted meats prepared with traditional French technique, this restaurant celebrates the art of slow cooking and flavor."
+      "desc": "Roasted meats, traditional technique, slow cooking mastery",
+      "longDesc": "Specializing in perfectly roasted meats with traditional French technique, this restaurant celebrates the slow cooking arts that define French excellence."
     },
     {
-      "name": "Brasserie Brunet",
+      "name": "Les 110 de Taillevent",
       "coord": [
-        45.449,
-        6.98
+        48.8558,
+        2.3512
       ],
-      "desc": "Alpine restaurant, local specialties",
-      "category": "restaurants",
-      "source_list": "Saved Places (CSV)",
-      "longDesc": "This alpine restaurant celebrates local Val d'Isère specialties with hearty, warming mountain cuisine perfect for families after a day of skiing."
+      "desc": "Wine-focused fine dining, affordable Burgundy, food-wine pairing",
+      "longDesc": "An exceptional wine list with affordable Burgundy selections pairs beautifully with refined French cuisine, created for wine lovers seeking value."
     },
     {
-      "name": "Restaurant L'Alpin Val d'isère",
+      "name": "ACCENTS table bourse",
       "coord": [
-        45.449,
-        6.98
+        48.859,
+        2.3532
       ],
-      "desc": "Mountain cuisine, ski resort dining",
-      "category": "restaurants",
-      "source_list": "Saved Places (CSV)",
-      "longDesc": "Mountain cuisine reimagined for ski resort dining, combining traditional alpine flavors with contemporary style in a cozy Val d'Isère setting."
+      "desc": "Contemporary French, seasonal specialties, modern refinement",
+      "longDesc": "Contemporary French cuisine highlighting seasonal specialties with modern technique, celebrating ingredients and traditions with refined creativity."
     },
     {
-      "name": "Restaurant l'Edelweiss",
+      "name": "Accents",
+      "coord": [
+        48.87,
+        2.3403
+      ],
+      "desc": "Quality French cooking, seasonal menu, artistic plating",
+      "longDesc": "Thoughtfully executed seasonal French cooking with artistic presentation, delivered with genuine hospitality and careful ingredient selection."
+    },
+    {
+      "name": "CoCo",
+      "coord": [
+        48.8719,
+        2.3324
+      ],
+      "desc": "Contemporary French, chef-driven, modern techniques, Opéra location",
+      "longDesc": "Chef-driven contemporary French cuisine respecting tradition while exploring modern techniques, creating dynamic dishes that excite curious palates."
+    },
+    {
+      "name": "Maison de la Truffe",
+      "coord": [
+        48.8582,
+        2.3542
+      ],
+      "desc": "Luxury truffles, fine French cuisine, gourmet indulgence",
+      "longDesc": "A refined sanctuary celebrating truffles—one of France's most luxurious ingredients—offering truffle-based fine dining for gourmet occasions."
+    },
+    {
+      "name": "Paul Bocuse Museum Restaurant",
+      "coord": [
+        45.7583,
+        4.8425
+      ],
+      "desc": "Lyonnais tradition, Bocuse legacy, classical technique, three stars",
+      "longDesc": "The late master's legendary table remains a temple to classical French-Lyonnais cuisine where butter, stock, and tradition create immortal excellence."
+    },
+    {
+      "name": "L'Etincelle Val d'Isère",
       "coord": [
         45.449,
-        6.983
+        6.987
       ],
-      "desc": "Alpine restaurant, traditional dishes",
-      "category": "restaurants",
-      "source_list": "Saved Places (CSV)",
-      "longDesc": "An alpine classic serving traditional mountain dishes that warm the body and soul, with the hospitality and coziness that define alpine dining."
+      "desc": "Contemporary alpine cuisine, modern mountain food, Tarentaise Valley",
+      "longDesc": "Contemporary alpine cuisine respecting traditional mountain flavors while bringing modern technique and creativity to Val d'Isère fine dining."
+    },
+    {
+      "name": "La Peau De Vache Val d'Isère",
+      "coord": [
+        45.449,
+        6.988
+      ],
+      "desc": "Alpine steakhouse, premium meats, cozy atmosphere, mountain tradition",
+      "longDesc": "A cozy alpine steakhouse celebrating premium meats with simple, perfect technique—the ideal place for families enjoying hearty mountain fare."
     },
     {
       "name": "La Folie Douce Val d'Isère",
@@ -545,69 +944,1135 @@
         45.449,
         6.985
       ],
-      "desc": "Apres-ski venue, entertainment and dining",
-      "category": "restaurants",
-      "source_list": "Saved Places (CSV)",
-      "longDesc": "The legendary apres-ski destination blends entertainment and dining with high-altitude energy, creating memorable moments on the mountain."
+      "desc": "Apres-ski icon, mountain entertainment, lively dining experience",
+      "longDesc": "The legendary apres-ski destination blends entertainment and dining with high-altitude energy, creating unforgettable moments on the mountain."
     },
     {
-      "name": "Le Panoramic",
+      "name": "Le Panoramic Val d'Isère",
       "coord": [
         45.449,
         6.986
       ],
-      "desc": "Mountaintop restaurant, panoramic views",
-      "category": "restaurants",
-      "source_list": "Saved Places (CSV)",
-      "longDesc": "Mountaintop dining with show-stopping panoramic views of the Val d'Isère landscape, where culinary skill meets spectacular alpine scenery."
+      "desc": "Mountaintop views, panoramic dining, alpine cuisine, scenic majesty",
+      "longDesc": "Mountaintop dining with show-stopping panoramic Val d'Isère views, where culinary skill meets spectacular alpine scenery."
     },
     {
-      "name": "L'Etincelle",
+      "name": "Restaurant l'Edelweiss Val d'Isère",
       "coord": [
         45.449,
-        6.987
+        6.983
       ],
-      "desc": "Contemporary alpine cuisine",
-      "category": "restaurants",
-      "source_list": "Saved Places (CSV)",
-      "longDesc": "Contemporary alpine cuisine that respects traditional mountain flavors while bringing modern technique and creativity to Val d'Isère dining."
+      "desc": "Alpine tradition, warming dishes, cozy mountain dining",
+      "longDesc": "An alpine classic serving traditional mountain dishes that warm body and soul, with the hospitality and coziness defining alpine dining."
     },
     {
-      "name": "La Peau De Vache",
+      "name": "Restaurant L'Alpin Val d'Isère",
       "coord": [
         45.449,
-        6.988
+        6.98
       ],
-      "desc": "Alpine steakhouse, cozy atmosphere",
-      "category": "restaurants",
-      "source_list": "Saved Places (CSV)",
-      "longDesc": "A cozy alpine steakhouse celebrating premium meats with simple, perfect technique—the ideal place for families to enjoy hearty mountain fare."
+      "desc": "Mountain cuisine, ski resort dining, traditional flavors, contemporary style",
+      "longDesc": "Mountain cuisine reimagined for ski resort dining, combining traditional alpine flavors with contemporary style in cozy Val d'Isère setting."
+    },
+    {
+      "name": "Brasserie Brunet Val d'Isère",
+      "coord": [
+        45.449,
+        6.98
+      ],
+      "desc": "Alpine restaurant, local specialties, hearty warming cuisine",
+      "longDesc": "This alpine restaurant celebrates Val d'Isère specialties with hearty, warming mountain cuisine perfect for families after a day of skiing."
     }
   ],
   "experiences": [
     {
-      "name": "Hôtel de la Marine",
+      "name": "The Louvre",
       "coord": [
-        48.855,
-        2.3502
+        48.8606,
+        2.3352
       ],
-      "desc": "Historic 18th-century palace, museum, exhibits",
-      "category": "restaurants",
-      "source_list": "Paris Food.csv",
-      "longDesc": "This magnificent 18th-century palace showcases French design heritage through curated exhibits and architecture, offering cultural richness for curious families."
+      "desc": "World's greatest museum, Mona Lisa, Egyptian antiquities, palace",
+      "longDesc": "The world's most visited museum houses 35,000 artworks spanning millennia, from Egyptian mummies to da Vinci's genius in a former royal palace."
+    },
+    {
+      "name": "Musée d'Orsay",
+      "coord": [
+        48.8601,
+        2.3265
+      ],
+      "desc": "Impressionist masterpieces, Beaux-Arts railway station, light studies",
+      "longDesc": "A converted railway station showcasing Impressionism's greatest works—Monet, Renoir, Van Gogh—where light itself becomes the subject."
+    },
+    {
+      "name": "Palace of Versailles",
+      "coord": [
+        48.8047,
+        2.1204
+      ],
+      "desc": "Royal château, Hall of Mirrors, gardens, absolute power monument",
+      "longDesc": "Louis XIV's monument to absolute power combines palatial opulence with manicured gardens spanning 800 hectares, redefining grandeur forever."
+    },
+    {
+      "name": "Mont Saint-Michel",
+      "coord": [
+        48.6361,
+        -1.5115
+      ],
+      "desc": "Medieval abbey island, Celtic mythology, tidal phenomena, UNESCO",
+      "longDesc": "A medieval abbey crowning a rocky island in a bay of dramatic tides, Mont-Saint-Michel stands as one of humanity's most sublime architectural achievements."
+    },
+    {
+      "name": "Notre-Dame de Chartres",
+      "coord": [
+        48.4431,
+        1.4899
+      ],
+      "desc": "Gothic cathedral, rose windows, labyrinth, pilgrimage site",
+      "longDesc": "A masterpiece of Gothic architecture with unparalleled stained glass and a sacred labyrinth, Chartres reveals medieval spirituality and engineering genius."
+    },
+    {
+      "name": "Sainte-Chapelle",
+      "coord": [
+        48.8353,
+        2.3469
+      ],
+      "desc": "Gothic chapel, stained glass treasury, Crown of Thorns relic",
+      "longDesc": "A glass reliquary with walls of stained glass depicting the Crown of Thorns, this Gothic chapel creates an ethereal experience of colored light."
+    },
+    {
+      "name": "Arc de Triomphe",
+      "coord": [
+        48.8738,
+        2.295
+      ],
+      "desc": "Monument to glory, Napoleon's legacy, Champs-Élysées gateway, rooftop views",
+      "longDesc": "Napoleon's monument to military glory anchors the Champs-Élysées with neoclassical grandeur and sweeping Paris views from the rooftop."
+    },
+    {
+      "name": "Eiffel Tower",
+      "coord": [
+        48.8584,
+        2.2945
+      ],
+      "desc": "Iron lattice icon, 1889 engineering marvel, summit views, engineering triumph",
+      "longDesc": "Gustave Eiffel's 1889 engineering marvel rises 330 meters above the Seine, offering the most iconic Paris views and a testament to human ingenuity."
+    },
+    {
+      "name": "Musée de Montmartre",
+      "coord": [
+        48.8867,
+        2.3431
+      ],
+      "desc": "Bohemian art museum, Toulouse-Lautrec works, Belle Époque memorabilia",
+      "longDesc": "Set in a historic Montmartre mansion, this museum captures the belle époque with Toulouse-Lautrec works and Montmartre's bohemian soul."
+    },
+    {
+      "name": "Sacré-Cœur Basilica",
+      "coord": [
+        48.8867,
+        2.3431
+      ],
+      "desc": "White domed basilica, Montmartre sanctuary, cityscape views, spiritual site",
+      "longDesc": "Crowning Montmartre's heights, this white-domed basilica offers panoramic Paris views and a sense of spiritual sanctuary above the city bustle."
+    },
+    {
+      "name": "Musée Picasso Paris",
+      "coord": [
+        48.8619,
+        2.6041
+      ],
+      "desc": "Picasso's greatest works, Hôtel Salé mansion, 20th-century genius",
+      "longDesc": "Set in a 17th-century mansion, this museum traces Picasso's genius from Blue Period through Cubism and beyond in his most significant works."
+    },
+    {
+      "name": "Centre Pompidou",
+      "coord": [
+        48.8626,
+        2.3522
+      ],
+      "desc": "Modern art, exposed architecture, colorful exterior, contemporary collections",
+      "longDesc": "Richard Rogers' inside-out design reveals all systems, creating a playful monument to modern art that challenges conventional architecture."
+    },
+    {
+      "name": "Panthéon",
+      "coord": [
+        48.8462,
+        2.3464
+      ],
+      "desc": "Neoclassical temple, great French figures, crypt, intellectual shrine",
+      "longDesc": "This neoclassical temple honors great French figures—Voltaire, Rousseau, Hugo—in a crypt beneath soaring domes and inspiring marble halls."
+    },
+    {
+      "name": "Musée Carnavalet",
+      "coord": [
+        48.8619,
+        2.3641
+      ],
+      "desc": "Paris history museum, Belle Époque, period rooms",
+      "longDesc": "Two adjacent mansions trace Paris history through decorative arts, period rooms, and Belle Époque treasures that evoke vanished Paris."
+    },
+    {
+      "name": "Musée Rodin",
+      "coord": [
+        48.8516,
+        2.3088
+      ],
+      "desc": "Rodin sculptures, gardens, The Thinker, biographic overview",
+      "longDesc": "Set in a mansion with sculpture gardens, Rodin's greatest works—The Thinker, The Kiss, The Gates of Hell—reveal his genius for human form and emotion."
+    },
+    {
+      "name": "Luxembourg Gardens",
+      "coord": [
+        48.8462,
+        2.3372
+      ],
+      "desc": "Grand Paris park, Palace gardens, family picnics, fountain promenades",
+      "longDesc": "Paris's most beloved park with manicured gardens, sailboats in fountains, and chairs for dreaming—a place where Paris pauses and savors."
+    },
+    {
+      "name": "Tuileries Garden",
+      "coord": [
+        48.8643,
+        2.3294
+      ],
+      "desc": "Historic palace grounds, tree-lined avenues, carousel, riverside views",
+      "longDesc": "Where French royalty once walked, this formal garden offers tree-lined promenades, fountains, and sweeping Seine views that define Parisian elegance."
+    },
+    {
+      "name": "Musée de l'Armée",
+      "coord": [
+        48.8556,
+        2.3125
+      ],
+      "desc": "Military museum, Napoleon's tomb, weapons history, Les Invalides",
+      "longDesc": "One of the world's great military museums housing Napoleon's tomb under the golden dome, with encyclopedic collections of warfare's evolution."
+    },
+    {
+      "name": "Musée des Arts et Métiers",
+      "coord": [
+        48.8629,
+        2.3526
+      ],
+      "desc": "Technology museum, inventions, mechanical wonders, interactive exhibits",
+      "longDesc": "A temple to human ingenuity with historic flying machines, automata, and mechanical marvels that reveal technology's poetry and progress."
+    },
+    {
+      "name": "Bibliothèque Nationale de France",
+      "coord": [
+        48.8329,
+        2.3765
+      ],
+      "desc": "National library, medieval manuscripts, rare books, architectural landmark",
+      "longDesc": "Modern library designed as glass towers with underground stacks holding France's literary and cultural treasures in a landmark building."
+    },
+    {
+      "name": "Gorges du Verdon",
+      "coord": [
+        43.7343,
+        6.3652
+      ],
+      "desc": "Limestone canyon, turquoise river, hiking trails, scenic majesty",
+      "longDesc": "Europe's deepest canyon with dramatic limestone walls and a turquoise river below, offering spectacular hiking and breathtaking Provence scenery."
+    },
+    {
+      "name": "Lavender Fields of Provence",
+      "coord": [
+        43.899,
+        5.67
+      ],
+      "desc": "Purple lavender blooms, fragrant valleys, sunsets, aromatherapy landscape",
+      "longDesc": "Rolling fields of purple lavender stretching to the horizon, filling the air with intoxicating fragrance—Provence's most enchanting sensory experience."
+    },
+    {
+      "name": "Pont du Gard",
+      "coord": [
+        43.9474,
+        4.5358
+      ],
+      "desc": "Roman aqueduct, engineering marvel, three-tiered arches, UNESCO site",
+      "longDesc": "A perfectly preserved three-tiered Roman aqueduct spanning the Gard River, representing Roman engineering at its most ambitious and elegant."
+    },
+    {
+      "name": "Palace of the Popes",
+      "coord": [
+        43.9507,
+        4.8065
+      ],
+      "desc": "Medieval papal fortress, rose garden, history, Avignon landmark",
+      "longDesc": "A vast Gothic fortress where medieval popes ruled, with frescoed halls, rose gardens, and ramparts overlooking the Rhône—monumental and evocative."
+    },
+    {
+      "name": "Musée d'Art Moderne, Céret",
+      "coord": [
+        42.4956,
+        2.742
+      ],
+      "desc": "Modern art museum, Picasso, Braque, Dalí, Catalan location",
+      "longDesc": "A world-class modern art museum in Catalonia with exceptional Cubist works and Dalí paintings set in a charming Pyrenees village."
+    },
+    {
+      "name": "Faiences Musée, Quimper",
+      "coord": [
+        47.9897,
+        -4.0883
+      ],
+      "desc": "Breton pottery museum, handmade ceramics, artistic tradition",
+      "longDesc": "A celebration of Breton faience tradition with handpainted ceramics tracing 400 years of Quimper pottery heritage and technique."
+    },
+    {
+      "name": "D-Day Beaches",
+      "coord": [
+        49.3505,
+        -0.3653
+      ],
+      "desc": "WWII landing sites, museum, memorials, Normandy history",
+      "longDesc": "Normandy's beaches where D-Day unfolded, now with museums and memorials preserving this pivotal WWII moment and its human stories."
+    },
+    {
+      "name": "Mont-Saint-Michel Abbey Museum",
+      "coord": [
+        48.6361,
+        -1.5115
+      ],
+      "desc": "Abbey interior, manuscripts, spire views, religious art treasures",
+      "longDesc": "Inside the abbey, medieval manuscripts, religious artifacts, and climbing the spire reveal Mont-Saint-Michel's spiritual and artistic treasures."
+    },
+    {
+      "name": "Loire Valley Châteaux Tour",
+      "coord": [
+        45.3667,
+        1.0167
+      ],
+      "desc": "Renaissance castles, Chambord, Chenonceaux, architectural splendor",
+      "longDesc": "The Loire Valley cradles 300 châteaux, from the magnificent Chambord to the graceful Chenonceaux spanning rivers—France's architectural dreamland."
+    },
+    {
+      "name": "Chambord Château",
+      "coord": [
+        45.3667,
+        1.0167
+      ],
+      "desc": "Renaissance masterpiece, 440 rooms, Leonardo design, hunting lodge",
+      "longDesc": "Leonardo da Vinci's design for François I, this Renaissance masterpiece with 440 rooms and double helix staircase redefines architectural ambition."
+    },
+    {
+      "name": "Chenonceaux Château",
+      "coord": [
+        45.3147,
+        1.0739
+      ],
+      "desc": "River-spanning château, elegant arches, Diane de Poitiers, female patronage",
+      "longDesc": "A graceful château spanning the River Cher with elegant arches, this jewel was shaped by the brilliant Diane de Poitiers and other powerful women."
+    },
+    {
+      "name": "Villandry Château Gardens",
+      "coord": [
+        45.3194,
+        0.9317
+      ],
+      "desc": "Renaissance gardens, geometric patterns, ornamental designs, vegetable art",
+      "longDesc": "Meticulously restored Renaissance gardens with geometric vegetable patterns and ornamental designs that transform agriculture into living art."
+    },
+    {
+      "name": "Bordeaux Wine Region Tour",
+      "coord": [
+        44.8371,
+        -0.5795
+      ],
+      "desc": "Grand Cru estates, tastings, vineyard tours, wine heritage",
+      "longDesc": "The world's greatest wine region with hundreds of châteaux producing Cabernet-based wines that define elegance, aging gracefully for decades."
+    },
+    {
+      "name": "Burgundy Wine Route",
+      "coord": [
+        46.5583,
+        4.8017
+      ],
+      "desc": "Pinot Noir heartland, historic villages, wine education, terroir",
+      "longDesc": "Rolling vineyard landscapes producing world-class Burgundy wines, with historic villages and wine education revealing the soul of French viticulture."
+    },
+    {
+      "name": "Champagne Region Cellars",
+      "coord": [
+        49.4009,
+        3.962
+      ],
+      "desc": "Champagne houses, cellars, méthode champenoise, sparkling wine legacy",
+      "longDesc": "Vast chalk cellars beneath charming towns where champagne ages in darkness, revealing the méthode champenoise and centuries of sparkling perfection."
+    },
+    {
+      "name": "Normandy Apple Cider Route",
+      "coord": [
+        49.1756,
+        -0.3697
+      ],
+      "desc": "Cider orchards, farmhouse visits, cideries, Norman tradition",
+      "longDesc": "Rolling Norman orchards producing world-famous cider and calvados, with farmhouse visits revealing traditional cider-making and Norman hospitality."
+    },
+    {
+      "name": "Musée Claude Monet Giverny",
+      "coord": [
+        49.0842,
+        1.5471
+      ],
+      "desc": "Artist's home, water lily gardens, Japanese bridge, impressionist inspiration",
+      "longDesc": "Monet's home and gardens including the famous water lily pond and Japanese bridge that inspired his greatest works, perfectly preserved."
+    },
+    {
+      "name": "French Riviera Coastal Drive",
+      "coord": [
+        43.6977,
+        7.2645
+      ],
+      "desc": "Scenic coastal highway, Côte d'Azur beauty, seaside villages",
+      "longDesc": "The Côte d'Azur's most scenic drive hugs cliffs above the Mediterranean, connecting glamorous resorts and charming fishing villages."
+    },
+    {
+      "name": "Cité Véhicules Automobiles",
+      "coord": [
+        44.9333,
+        4.8917
+      ],
+      "desc": "Automotive museum, rare vehicles, engineering history, Valence",
+      "longDesc": "A museum celebrating automobiles with rare vehicles revealing engineering evolution and automotive design from early engines to modern marvels."
+    },
+    {
+      "name": "Musée Matisse Nice",
+      "coord": [
+        43.7052,
+        7.2616
+      ],
+      "desc": "Matisse works, color studies, Nice period, Modern art sanctuary",
+      "longDesc": "A comprehensive Matisse collection in a Belle Époque mansion showing his evolution from Fauvist color explosions to paper cut masterpieces."
+    },
+    {
+      "name": "Musée de l'Annonciade Saint-Tropez",
+      "coord": [
+        43.271,
+        6.6408
+      ],
+      "desc": "Modern art museum, harbor location, Signac works, artistic collection",
+      "longDesc": "A gem of a modern art museum in a 16th-century chapel with views of Saint-Tropez's harbor, featuring Signac and other Post-Impressionist masters."
+    },
+    {
+      "name": "Musée Picasso Antibes",
+      "coord": [
+        43.5815,
+        7.1235
+      ],
+      "desc": "Picasso works, Mediterranean collection, castle setting, artistic refuge",
+      "longDesc": "Set in a medieval castle overlooking the Mediterranean, this collection shows Picasso's Antibes period when he found inspiration in Mediterranean light."
+    },
+    {
+      "name": "Musée Léger Biot",
+      "coord": [
+        43.6119,
+        7.0755
+      ],
+      "desc": "Léger's colorful mosaics, light museum, Provençal perch",
+      "longDesc": "Set on a hilltop overlooking the Côte d'Azur, this museum celebrates Fernand Léger's colorful abstractions and monumental mosaics."
+    },
+    {
+      "name": "Îles d'Hyères",
+      "coord": [
+        43.1233,
+        6.4342
+      ],
+      "desc": "Mediterranean islands, ferry excursions, beaches, island escape",
+      "longDesc": "A chain of islands off the Côte d'Azur accessible by ferry, offering pristine beaches, hiking trails, and Mediterranean serenity."
+    },
+    {
+      "name": "Musée de la Camargue",
+      "coord": [
+        43.4167,
+        4.5
+      ],
+      "desc": "Camargue wildlife, white horses, pink flamingos, wetland ecosystem",
+      "longDesc": "A museum revealing the Camargue's unique ecosystem of white horses, pink flamingos, and wetlands—one of Europe's last wild river deltas."
+    },
+    {
+      "name": "Cite De Carcassonne",
+      "coord": [
+        43.2109,
+        2.3635
+      ],
+      "desc": "Medieval fortress city, ramparts, medieval ambience, Occitan stronghold",
+      "longDesc": "A perfectly preserved medieval fortress city with double ramparts and towers, Carcassonne transports you to the Middle Ages intact."
+    },
+    {
+      "name": "Rocamadour Sanctuary",
+      "coord": [
+        44.8039,
+        1.6149
+      ],
+      "desc": "Cliffside pilgrimage site, sanctuary grottos, medieval chapels",
+      "longDesc": "A pilgrimage sanctuary clinging to limestone cliffs with medieval chapels, grottos, and viewpoints revealing sacred medieval devotion."
+    },
+    {
+      "name": "Musée de Montserrat",
+      "coord": [
+        41.5913,
+        1.8344
+      ],
+      "desc": "Benedictine monastery museum, medieval artifacts, monastic heritage",
+      "longDesc": "While technically in Spain, this Benedictine monastery near the French border contains medieval religious art and peaceful monastic grounds."
+    },
+    {
+      "name": "Musée Ingres Montauban",
+      "coord": [
+        44.0073,
+        1.3559
+      ],
+      "desc": "Ingres paintings, neoclassical master, regional museum gem",
+      "longDesc": "A world-class collection of painter Jean-Auguste-Dominique Ingres in his birthplace, revealing neoclassical perfection and draftsmanship."
+    },
+    {
+      "name": "Musée du Louvre Denon Wing",
+      "coord": [
+        48.8606,
+        2.3352
+      ],
+      "desc": "Grand staircase, Italian Renaissance, sculpture halls, architectural splendor",
+      "longDesc": "The Louvre's most visited wing houses masterpieces in soaring galleries, including the Victory of Samothrace on the Grand Staircase."
+    },
+    {
+      "name": "Musée de l'Orangerie Monet",
+      "coord": [
+        48.8656,
+        2.3269
+      ],
+      "desc": "Water lily series, immersive panels, artistic transcendence",
+      "longDesc": "Two rooms devoted entirely to Monet's late water lily series displayed on curved walls creating immersive, meditative artistic transcendence."
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Disneyland Paris",
+      "coord": [
+        48.8723,
+        2.7764
+      ],
+      "desc": "Magic Kingdom Europe, thrill rides, castle, immersive fantasy",
+      "longDesc": "Europe's most visited theme park brings Disney magic with castle centerpiece, classic rides, parades, and immersive lands for all ages."
+    },
+    {
+      "name": "Parc Astérix",
+      "coord": [
+        49.1333,
+        2.5667
+      ],
+      "desc": "Gallic adventures, French cartoon characters, family coasters",
+      "longDesc": "A French theme park celebrating Astérix comics with rides, shows, and attractions teaching Gallic history and French humor to delighted families."
+    },
+    {
+      "name": "Cité des Sciences et de l'Industrie",
+      "coord": [
+        48.8956,
+        2.3883
+      ],
+      "desc": "Science museum, interactive exhibits, planetarium, IMAX, discovery",
+      "longDesc": "A massive science museum with planetarium, IMAX theater, and hands-on exhibits making complex science playful and viscerally comprehensible for children."
+    },
+    {
+      "name": "Aquarium de Paris",
+      "coord": [
+        48.8584,
+        2.2945
+      ],
+      "desc": "Eiffel Tower aquarium, tropical fish, shark tank, underwater exploration",
+      "longDesc": "An aquarium beneath the Eiffel Tower with tropical fish, sharks, and interactive tide pools revealing ocean mysteries to fascinated children."
+    },
+    {
+      "name": "Musée Grévin",
+      "coord": [
+        48.8722,
+        2.3431
+      ],
+      "desc": "Wax museum, celebrity figures, interactive tableaus, playful illusions",
+      "longDesc": "A wax museum with historically accurate figures and playful interactive displays where children pose with celebrities and historical figures."
+    },
+    {
+      "name": "Carousel du Louvre",
+      "coord": [
+        48.8606,
+        2.3352
+      ],
+      "desc": "Glass pyramid carousel, ornate horses, museum backdrop, whimsy",
+      "longDesc": "A beautiful carousel beneath the Louvre's glass pyramid with hand-painted horses, offering magical rides in the heart of culture."
+    },
+    {
+      "name": "Luxembourg Gardens Playground",
+      "coord": [
+        48.8462,
+        2.3372
+      ],
+      "desc": "Grande Enfants playground, sand pits, puppet theater, carousel",
+      "longDesc": "Paris's most magical playground with sand pits, puppet theater stage, carousel, and sailboat rentals—a children's paradise in the city."
+    },
+    {
+      "name": "Musée de la Vie Romantique",
+      "coord": [
+        48.8827,
+        2.3321
+      ],
+      "desc": "Children's garden, tearoom, Belle Époque ambiance, storybook charm",
+      "longDesc": "A romantic mansion with children's garden, tearoom, and Belle Époque furnishings creating storybook charm and afternoon tea magic."
+    },
+    {
+      "name": "Parc de la Tête d'Or Lyon",
+      "coord": [
+        45.764,
+        4.8308
+      ],
+      "desc": "Lyon lake park, swan boats, zoo, gardens, family recreation",
+      "longDesc": "A stunning urban park with lake, swan boats, zoo, botanical gardens, and playgrounds offering full-day family recreation in Lyon's heart."
+    },
+    {
+      "name": "Musée de la Confluence Lyon",
+      "coord": [
+        45.7233,
+        4.8196
+      ],
+      "desc": "Anthropology museum, cultural exhibits, interactive displays, architecture",
+      "longDesc": "A striking contemporary museum exploring human cultures with interactive displays, making anthropology tangible and fascinating for curious minds."
+    },
+    {
+      "name": "Marineland Antibes",
+      "coord": [
+        43.5815,
+        7.1235
+      ],
+      "desc": "Marine park, dolphin shows, tropical pools, aquatic thrills",
+      "longDesc": "A marine park with dolphin and killer whale shows, tropical pools, and aquatic attractions offering thrilling family entertainment on the Côte d'Azur."
+    },
+    {
+      "name": "Palais Idéal du Facteur Cheval",
+      "coord": [
+        45.2342,
+        4.7561
+      ],
+      "desc": "Quirky palace, postman's dreamscape, surrealist inspiration, whimsy",
+      "longDesc": "A postman's life-long obsession created this fantastical palace of shells, stones, and sculptures—surrealist inspiration and pure whimsy."
+    },
+    {
+      "name": "Musée du Jouet Strasbourg",
+      "coord": [
+        48.5734,
+        7.7521
+      ],
+      "desc": "Toy museum, vintage playthings, nostalgia, childhood wonder",
+      "longDesc": "A charming toy museum in Strasbourg with historic playthings, dolls, and mechanical toys evoking childhood wonder across generations."
+    },
+    {
+      "name": "Grotte de Lascaux Replica",
+      "coord": [
+        45.056,
+        1.1842
+      ],
+      "desc": "Prehistoric cave replica, ancient art, multimedia presentation, history",
+      "longDesc": "A carefully recreated replica of Lascaux caves with ancient animal paintings, multimedia shows reveal 17,000-year-old artistic genius."
+    },
+    {
+      "name": "ZooParc de Beauval",
+      "coord": [
+        46.4217,
+        1.2136
+      ],
+      "desc": "Zoo, giant pandas, shows, gardens, animal interactions",
+      "longDesc": "One of France's premier zoos with giant pandas, well-designed habitats, daily shows, and educational animal interactions for families."
+    },
+    {
+      "name": "Parc de Clères",
+      "coord": [
+        49.5227,
+        1.0931
+      ],
+      "desc": "Normandy animal park, free-roaming animals, gardens, peaceful nature",
+      "longDesc": "A peaceful Normandy park with free-roaming animals, landscaped gardens, and quiet pathways perfect for families seeking nature immersion."
+    },
+    {
+      "name": "Musée Océanographique de Monaco",
+      "coord": [
+        43.7405,
+        7.4246
+      ],
+      "desc": "Ocean museum, aquariums, marine research, sea creature fascination",
+      "longDesc": "Prince Rainier's oceanographic museum in Monaco's palace cliff with spectacular aquariums and marine research collections."
+    },
+    {
+      "name": "Accrobranche Aventure Parks",
+      "coord": [
+        43.6977,
+        7.2645
+      ],
+      "desc": "Treetop obstacle courses, rope bridges, zip-lines, adventure challenges",
+      "longDesc": "Adventure parks throughout Provence with treetop courses, rope bridges, and zip-lines providing thrilling family outdoor activities."
+    },
+    {
+      "name": "Château de Villandry Kids Tour",
+      "coord": [
+        45.3194,
+        0.9317
+      ],
+      "desc": "Loire château gardens, family-friendly gardens, exploration, beauty",
+      "longDesc": "A Loire château with interactive children's garden tours, Renaissance vegetable art gardens, and family exploration of historical elegance."
+    },
+    {
+      "name": "Musée de la Toile de Jouy Jouÿ-en-Josas",
+      "coord": [
+        48.7678,
+        2.1921
+      ],
+      "desc": "Textile museum, fabric history, colorful patterns, tactile learning",
+      "longDesc": "A museum celebrating 200 years of Jouy textile production with colorful patterns and hands-on fabric activities for tactile learners."
+    },
+    {
+      "name": "Musée des Automates Souillac",
+      "coord": [
+        45.0417,
+        1.4794
+      ],
+      "desc": "Automata museum, mechanical dolls, vintage toys, mechanical wonders",
+      "longDesc": "A unique collection of mechanical automata and wind-up machines demonstrating mechanical artistry that delights and captivates children."
+    },
+    {
+      "name": "Parc de Préhistoire Tarascon",
+      "coord": [
+        43.8055,
+        4.6425
+      ],
+      "desc": "Prehistoric park, dinosaurs, fossil displays, interactive exhibits",
+      "longDesc": "A prehistoric-themed park with dinosaur models, fossil displays, and interactive exhibits making paleontology tangible for young explorers."
+    },
+    {
+      "name": "Musée de la Miniature Lyon",
+      "coord": [
+        45.764,
+        4.8308
+      ],
+      "desc": "Miniature worlds, doll houses, tiny details, magical scale",
+      "longDesc": "An enchanting museum of miniature rooms and doll houses with intricate details, creating magical worlds at impossible scales."
+    },
+    {
+      "name": "Musée Volcanologique Clermont-Ferrand",
+      "coord": [
+        45.7772,
+        3.0857
+      ],
+      "desc": "Volcano museum, lava samples, geological displays, earth science",
+      "longDesc": "A museum exploring volcanoes with lava specimens, geological exhibits, and interactive displays making earth science visceral."
+    },
+    {
+      "name": "Cité de la Volcanologie",
+      "coord": [
+        45.7772,
+        3.0857
+      ],
+      "desc": "Interactive volcano exhibits, lava flows, volcanic phenomena, science learning",
+      "longDesc": "Interactive volcanic science museum with lava flow simulations and eruption demonstrations making geology thrilling for young minds."
+    },
+    {
+      "name": "Musée de la Civilisation Gallo-Romaine Lyon",
+      "coord": [
+        45.7656,
+        4.8308
+      ],
+      "desc": "Roman museum, artifacts, ancient glass, colonial history, French civilization",
+      "longDesc": "A museum of Gallo-Roman artifacts including precious glass, mosaics, and sculptures revealing ancient French civilization under Roman rule."
+    },
+    {
+      "name": "Parc Astérix Île de France",
+      "coord": [
+        49.1333,
+        2.5667
+      ],
+      "desc": "Gallic theme park, French characters, family rides, cultural learning",
+      "longDesc": "A French theme park celebrating Astérix with rides, shows, and exhibits teaching Gallic history through beloved cartoon characters."
+    },
+    {
+      "name": "Atelier des Créateurs Strasbourg",
+      "coord": [
+        48.5734,
+        7.7521
+      ],
+      "desc": "Craft workshops, hands-on learning, artistic activities, creative expression",
+      "longDesc": "Craft workshops throughout France offering hands-on pottery, painting, and artistic activities where families create memories together."
+    },
+    {
+      "name": "Musée Archéologique Dijon",
+      "coord": [
+        47.3171,
+        5.0364
+      ],
+      "desc": "Archaeological museum, Burgundy artifacts, ancient history, regional heritage",
+      "longDesc": "A museum of regional archaeology with Burgundy artifacts, medieval sculptures, and displays revealing millennia of French civilization."
+    },
+    {
+      "name": "Parc de Walibi Rhône-Alpes",
+      "coord": [
+        45.0562,
+        5.1244
+      ],
+      "desc": "Theme park, roller coasters, water park, family thrills, summer fun",
+      "longDesc": "A regional theme park with roller coasters, water park attractions, and family rides providing full-day entertainment and summer thrills."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Marché Bastille Paris",
+      "coord": [
+        48.8532,
+        2.3712
+      ],
+      "desc": "Thursday-Sunday market, fresh produce, flowers, artisanal goods",
+      "longDesc": "Paris's largest open-air market fills Bastille plaza with produce vendors, flowers, cheese, charcuterie, and artisanal crafts three days weekly."
+    },
+    {
+      "name": "Marché Rue Mouffetard Paris",
+      "coord": [
+        48.8428,
+        2.353
+      ],
+      "desc": "Historic Latin Quarter market, neighborhood charm, old Paris ambiance",
+      "longDesc": "Paris's oldest market street where students, locals, and visitors converge for fresh produce, flowers, and the animated soul of the Left Bank."
+    },
+    {
+      "name": "Marché Rue Cler Paris",
+      "coord": [
+        48.8548,
+        2.3005
+      ],
+      "desc": "Eiffel Tower neighborhood market, village feel, Parisian essentials",
+      "longDesc": "A charming neighborhood market near the Eiffel Tower with Parisian vendors, fresh flowers, cheese, bread, and the spirit of old Paris."
+    },
+    {
+      "name": "Marchés Aligre Paris",
+      "coord": [
+        48.8517,
+        2.375
+      ],
+      "desc": "Historic marketplace, antiques and food, bohemian Bastille, character",
+      "longDesc": "A legendary Bastille marketplace with antique furniture, bric-à-brac, fresh produce, and bohemian character dating back centuries."
+    },
+    {
+      "name": "Marché d'Aligre Antiques",
+      "coord": [
+        48.8517,
+        2.375
+      ],
+      "desc": "Flea market, vintage treasures, antique furnishings, Parisian bounty",
+      "longDesc": "A flea market section of Aligre where dealers display vintage furniture, paintings, china, and Parisian treasures alongside food vendors."
+    },
+    {
+      "name": "Rue de Rivoli Market Paris",
+      "coord": [
+        48.8626,
+        2.3315
+      ],
+      "desc": "Central Paris flower market, seasonal blooms, historic street, beauty",
+      "longDesc": "An iconic flower market along Rue de Rivoli near Notre-Dame, displaying seasonal blooms in spectacular arrangements daily."
+    },
+    {
+      "name": "Marché Raspail Paris",
+      "coord": [
+        48.8444,
+        2.3293
+      ],
+      "desc": "Sunday organic market, Montparnasse square, farm-to-table goods",
+      "longDesc": "A weekly organic market showcasing artisanal producers selling bio vegetables, cheeses, breads, and prepared foods in Montparnasse."
+    },
+    {
+      "name": "Marché Saxe-Breteuil Paris",
+      "coord": [
+        48.8442,
+        2.3053
+      ],
+      "desc": "Upscale market, gourmet provisions, refined Parisian shopping",
+      "longDesc": "An upscale market near the Eiffel Tower featuring gourmet cheese, charcuterie, produce, and refined provisions for discerning Paris residents."
+    },
+    {
+      "name": "Marché Enfants Rouges Paris",
+      "coord": [
+        48.8642,
+        2.3629
+      ],
+      "desc": "Marais covered market, restaurants, street food, diverse cuisines",
+      "longDesc": "Paris's oldest covered market in the Marais with permanent food vendors, restaurants, and diverse cuisines in a charming historical setting."
+    },
+    {
+      "name": "L'Atelier des Chefs Cooking Class",
+      "coord": [
+        48.8626,
+        2.3522
+      ],
+      "desc": "Market cooking classes, fresh ingredients, hands-on preparation, food education",
+      "longDesc": "Market-based cooking classes where families prepare meals with fresh ingredients, learning French culinary techniques in an intimate setting."
+    },
+    {
+      "name": "Rue de Buci Market Paris",
+      "coord": [
+        48.8535,
+        2.3372
+      ],
+      "desc": "Left Bank marketplace, fresh produce, flowers, neighborhood ambiance",
+      "longDesc": "A charming Left Bank market street with produce vendors, flower stands, and the literary heritage of Paris's bohemian past."
+    },
+    {
+      "name": "Marché Passy Paris",
+      "coord": [
+        48.8598,
+        2.2859
+      ],
+      "desc": "16th arrondissement market, upscale provisions, neighborhood gem",
+      "longDesc": "An upscale neighborhood market near the Eiffel Tower with refined produce, cheese, and flowers serving the 16th arrondissement elite."
+    },
+    {
+      "name": "Marché Organic Belleville Paris",
+      "coord": [
+        48.8727,
+        2.3899
+      ],
+      "desc": "Organic market, multicultural vendors, hip Belleville neighborhood",
+      "longDesc": "A hip neighborhood market in Belleville with organic producers, multicultural foods, and bohemian character reflecting diverse Paris."
+    },
+    {
+      "name": "Marché Provençal Antibes",
+      "coord": [
+        43.5815,
+        7.1235
+      ],
+      "desc": "Côte d'Azur produce market, Mediterranean vegetables, Provençal herbs",
+      "longDesc": "A Mediterranean market in Antibes's old town with sun-ripened produce, herbs, flowers, and the colors of Provence on daily display."
+    },
+    {
+      "name": "Cours Saleya Nice",
+      "coord": [
+        43.6952,
+        7.272
+      ],
+      "desc": "Legendary Nice market, flowers, produce, Niçoise traditions, daily spectacle",
+      "longDesc": "One of the Mediterranean's most vibrant markets where Niçoise salade ingredients, flowers, and olives create a daily colorful spectacle."
+    },
+    {
+      "name": "Marché Forville Cannes",
+      "coord": [
+        43.5549,
+        7.0764
+      ],
+      "desc": "Cannes covered market, fresh produce, local specialties, cinematic elegance",
+      "longDesc": "A covered market near the Croisette where elegant Cannois shop for fresh produce, flowers, and Provençal specialties with cinematic flair."
+    },
+    {
+      "name": "Marché Campredon Saint-Tropez",
+      "coord": [
+        43.271,
+        6.6408
+      ],
+      "desc": "St-Tropez market, seasonal produce, Provençal ingredients, bohemian energy",
+      "longDesc": "A charming St-Tropez market with seasonal produce and Provençal ingredients, capturing the bohemian energy of the village."
+    },
+    {
+      "name": "Marché du Vieux Dijon",
+      "coord": [
+        47.3217,
+        5.0419
+      ],
+      "desc": "Burgundy market, local wines, mustard, artisanal goods, regional pride",
+      "longDesc": "A Burgundy market celebrating regional products: wines, Dijon mustard, gingerbread, and artisanal crafts reflecting wine country traditions."
+    },
+    {
+      "name": "Marché Quai Saint-Michel Lyon",
+      "coord": [
+        45.764,
+        4.8308
+      ],
+      "desc": "Lyon waterfront market, fresh produce, regional specialties, Rhône views",
+      "longDesc": "A Lyon market along the Rhône with fresh produce, regional delicacies, and waterfront views celebrating Lyon's gastronomic tradition."
+    },
+    {
+      "name": "Marché Percier Bordeaux",
+      "coord": [
+        44.8396,
+        -0.5778
+      ],
+      "desc": "Bordeaux market, wine country provisions, regional cuisine, French excellence",
+      "longDesc": "A Bordeaux market showcasing wines, produce from wine country estates, and regional specialties reflecting Bordeaux's gastronomic prestige."
+    },
+    {
+      "name": "Marché aux Fleurs Strasbourg",
+      "coord": [
+        48.5734,
+        7.7521
+      ],
+      "desc": "Alsatian flower market, seasonal blooms, timber-framed setting",
+      "longDesc": "An Alsatian flower market in Strasbourg's picturesque timber-framed old town with seasonal blooms and medieval charm."
+    },
+    {
+      "name": "Marché Saint-Rémy Champagne",
+      "coord": [
+        49.4009,
+        3.962
+      ],
+      "desc": "Champagne market, regional produce, wine country specialties",
+      "longDesc": "A market in the Champagne region selling local produce, artisanal cheeses, and champagne-related specialties reflecting wine country life."
+    },
+    {
+      "name": "Marché Saint-Lazare Périgueux",
+      "coord": [
+        45.1823,
+        0.7369
+      ],
+      "desc": "Dordogne market, truffles, walnuts, foie gras, gastronomic heartland",
+      "longDesc": "A legendary Dordogne market where black truffles, walnut oil, and foie gras are traded—the gastronomic heartland of southwest France."
+    },
+    {
+      "name": "Les Halles de Provence Avignon",
+      "coord": [
+        43.9507,
+        4.8065
+      ],
+      "desc": "Provençal produce market, vegetables, olive oil, herbs, colorful bounty",
+      "longDesc": "A vibrant covered market in Avignon bursting with Provençal vegetables, olive oil, herbs, and the colors of southern French markets."
+    },
+    {
+      "name": "Marché Olive Oil Route",
+      "coord": [
+        43.899,
+        5.1918
+      ],
+      "desc": "Provence olive oil markets, tasting, mill visits, liquid gold",
+      "longDesc": "Markets throughout the Provence olive oil region where producers sell cold-pressed oils, offer tastings, and reveal the craft of oil-making."
+    }
+  ],
   "cityCenters": {
     "Paris": [
       48.8566,
       2.3522,
+      0.05
+    ],
+    "Versailles": [
+      48.8047,
+      2.1204,
+      0.03
+    ],
+    "Fontainebleau": [
+      48.4054,
+      2.4829,
+      0.02
+    ],
+    "Mont-Saint-Michel": [
+      48.6361,
+      -1.5115,
+      0.02
+    ],
+    "Normandy Coast": [
+      49.3505,
+      -0.3653,
       0.04
+    ],
+    "Chartres": [
+      48.4431,
+      1.4899,
+      0.02
+    ],
+    "Loire Valley": [
+      45.3667,
+      1.0167,
+      0.08
+    ],
+    "Chambord": [
+      45.3667,
+      1.0167,
+      0.02
+    ],
+    "Tours": [
+      45.2667,
+      0.6833,
+      0.03
+    ],
+    "Provence": [
+      43.899,
+      5.1918,
+      0.08
+    ],
+    "Avignon": [
+      43.9507,
+      4.8065,
+      0.03
+    ],
+    "Marseille": [
+      43.2965,
+      5.3698,
+      0.04
+    ],
+    "Aix-en-Provence": [
+      43.5298,
+      5.4474,
+      0.03
+    ],
+    "Côte d'Azur": [
+      43.6977,
+      7.2645,
+      0.06
+    ],
+    "Nice": [
+      43.7102,
+      7.262,
+      0.03
+    ],
+    "Cannes": [
+      43.5549,
+      7.0764,
+      0.03
+    ],
+    "Antibes": [
+      43.5815,
+      7.1235,
+      0.02
+    ],
+    "Saint-Tropez": [
+      43.271,
+      6.6408,
+      0.02
+    ],
+    "Monaco": [
+      43.7384,
+      7.4246,
+      0.02
+    ],
+    "Bordeaux": [
+      44.8371,
+      -0.5795,
+      0.04
+    ],
+    "Lyon": [
+      45.764,
+      4.8308,
+      0.04
+    ],
+    "Burgundy": [
+      46.5583,
+      4.8017,
+      0.08
+    ],
+    "Dijon": [
+      47.3217,
+      5.0419,
+      0.03
+    ],
+    "Champagne": [
+      49.4009,
+      3.962,
+      0.05
+    ],
+    "Strasbourg": [
+      48.5734,
+      7.7521,
+      0.03
     ],
     "Val d'Isère": [
       45.449,
-      6.98,
+      6.985,
       0.02
     ],
     "Méribel": [
@@ -619,30 +2084,76 @@
       45.4153,
       6.6346,
       0.02
+    ],
+    "Chamonix": [
+      45.9271,
+      6.8694,
+      0.02
+    ],
+    "Annecy": [
+      45.8992,
+      6.1294,
+      0.02
+    ],
+    "Dordogne": [
+      45.1823,
+      0.7369,
+      0.06
+    ],
+    "Giverny": [
+      49.0842,
+      1.5471,
+      0.02
+    ],
+    "Bretagne": [
+      47.8667,
+      -2.5,
+      0.08
+    ],
+    "Quimper": [
+      47.9897,
+      -4.0883,
+      0.02
     ]
   },
   "itineraryData": {
     "a": {
-      "title": "Paris Greatest Hits",
+      "name": "Paris Greatest Hits",
       "color": "#2563EB",
       "days": [
         {
           "day": 1,
-          "title": "Day 1: Arrive in Paris",
+          "title": "Day 1: Arrive Paris, Iconic Views",
           "items": [
             {
               "type": "hotel",
-              "name": "Brasserie Bellanger",
+              "name": "The Ritz Paris",
               "coord": [
-                48.8809206,
-                2.3500288
+                48.8681,
+                2.3261
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Café de la Paix",
+              "coord": [
+                48.8558,
+                2.3502
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Eiffel Tower",
+              "coord": [
+                48.8584,
+                2.2945
               ]
             },
             {
               "type": "dinner",
-              "name": "Café de la Paix",
+              "name": "L'Avenue",
               "coord": [
-                48.8558,
+                48.859,
                 2.3502
               ]
             }
@@ -650,7 +2161,7 @@
         },
         {
           "day": 2,
-          "title": "Day 2: Iconic Paris",
+          "title": "Day 2: Museums & History",
           "items": [
             {
               "type": "breakfast",
@@ -662,10 +2173,102 @@
             },
             {
               "type": "sightseeing",
-              "name": "Hôtel de la Marine",
+              "name": "The Louvre",
               "coord": [
-                48.855,
-                2.3502
+                48.8606,
+                2.3352
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Les 110 de Taillevent",
+              "coord": [
+                48.8558,
+                2.3512
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sainte-Chapelle",
+              "coord": [
+                48.8353,
+                2.3469
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "L'Ambroisie",
+              "coord": [
+                48.8551,
+                2.3625
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Impressionism & Bohemia",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "L'heure gourmande",
+              "coord": [
+                48.8549,
+                2.3384
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée d'Orsay",
+              "coord": [
+                48.8601,
+                2.3265
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Au Bistro",
+              "coord": [
+                48.866,
+                2.3313
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sacré-Cœur Basilica",
+              "coord": [
+                48.8867,
+                2.3431
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Arpège",
+              "coord": [
+                48.8534,
+                2.3143
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Palace & Gardens",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pierre Hermé",
+              "coord": [
+                48.8574,
+                2.3512
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palace of Versailles",
+              "coord": [
+                48.8047,
+                2.1204
               ]
             },
             {
@@ -677,40 +2280,636 @@
               ]
             },
             {
-              "type": "dinner",
-              "name": "Le Bougainville",
+              "type": "sightseeing",
+              "name": "Luxembourg Gardens",
               "coord": [
-                48.8665171,
-                2.340083
+                48.8462,
+                2.3372
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Guy Savoy",
+              "coord": [
+                48.8627,
+                2.3186
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Art & Architecture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Café Jeanne - Park Hyatt",
+              "coord": [
+                48.8558,
+                2.3532
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Arc de Triomphe",
+              "coord": [
+                48.8738,
+                2.295
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Loulou",
+              "coord": [
+                48.8582,
+                2.3512
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée Rodin",
+              "coord": [
+                48.8516,
+                2.3088
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Pierre Gagnaire",
+              "coord": [
+                48.873,
+                2.3057
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Hidden Gems & Bistros",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché Rue Mouffetard Paris",
+              "coord": [
+                48.8428,
+                2.353
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée Carnavalet",
+              "coord": [
+                48.8619,
+                2.3641
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "L'Ardoise",
+              "coord": [
+                48.8664,
+                2.3269
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marché Enfants Rouges Paris",
+              "coord": [
+                48.8642,
+                2.3629
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Joséphine Chez Dumonet",
+              "coord": [
+                48.8458,
+                2.3199
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Day 7: Final Treasures & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "À L'Épi d'Or",
+              "coord": [
+                48.8629,
+                2.3411
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée Picasso Paris",
+              "coord": [
+                48.8619,
+                2.6041
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Rue Cler Paris",
+              "coord": [
+                48.8548,
+                2.3005
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Centre Pompidou",
+              "coord": [
+                48.8626,
+                2.3522
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Abri",
+              "coord": [
+                48.8779,
+                2.3493
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hidden Gems & Regions",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Day 1: Lyon Gastronomic Capital",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Villa Florentine",
+              "coord": [
+                45.7656,
+                4.8308
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Paul Bocuse",
+              "coord": [
+                45.7583,
+                4.8425
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Parc de la Tête d'Or Lyon",
+              "coord": [
+                45.764,
+                4.8308
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Maison Pic à Valence",
+              "coord": [
+                44.9333,
+                4.8917
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Day 2: Burgundy Wine Country",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Collégiale Hotel",
+              "coord": [
+                45.764,
+                4.8384
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Burgundy Wine Route",
+              "coord": [
+                46.5583,
+                4.8017
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Dijon mustard market",
+              "coord": [
+                47.3217,
+                5.0419
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Château de Jallanges",
+              "coord": [
+                45.1556,
+                2.7889
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Cour des Loges",
+              "coord": [
+                45.7618,
+                4.8359
               ]
             }
           ]
         },
         {
           "day": 3,
-          "title": "Day 3: Classic Bistros",
+          "title": "Day 3: Provence Lavender & Villages",
           "items": [
             {
-              "type": "lunch",
-              "name": "L'Ardoise",
+              "type": "hotel",
+              "name": "Mas de la Rosa",
               "coord": [
-                48.8663663,
-                2.326915
+                43.7281,
+                4.8317
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lavender Fields of Provence",
+              "coord": [
+                43.899,
+                5.67
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Les Halles de Provence Avignon",
+              "coord": [
+                43.9507,
+                4.8065
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gorges du Verdon",
+              "coord": [
+                43.7343,
+                6.3652
               ]
             },
             {
               "type": "dinner",
-              "name": "Brasserie Bellanger",
+              "name": "La Bastide de Gordes",
               "coord": [
-                48.8809206,
-                2.3500288
+                43.899,
+                5.1918
               ]
             }
           ]
         },
         {
           "day": 4,
-          "title": "Day 4: Fine Dining",
+          "title": "Day 4: Provence Art & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché Provençal Antibes",
+              "coord": [
+                43.5815,
+                7.1235
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palace of the Popes",
+              "coord": [
+                43.9507,
+                4.8065
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cours Saleya Nice",
+              "coord": [
+                43.6952,
+                7.272
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Pont du Gard",
+              "coord": [
+                43.9474,
+                4.5358
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "La Bastide de Gordes",
+              "coord": [
+                43.899,
+                5.1918
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Côte d'Azur Elegance",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Château de la Chèvre d'Or",
+              "coord": [
+                43.5071,
+                6.7185
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "French Riviera Coastal Drive",
+              "coord": [
+                43.6977,
+                7.2645
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Forville Cannes",
+              "coord": [
+                43.5549,
+                7.0764
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée Matisse Nice",
+              "coord": [
+                43.7052,
+                7.2616
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Negresco",
+              "coord": [
+                43.699,
+                7.2588
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Saint-Tropez Bohemian Charm",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Sezz Saint-Tropez",
+              "coord": [
+                43.267,
+                6.6405
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marché Campredon Saint-Tropez",
+              "coord": [
+                43.271,
+                6.6408
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Musée de l'Annonciade Saint-Tropez",
+              "coord": [
+                43.271,
+                6.6408
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Îles d'Hyères",
+              "coord": [
+                43.1233,
+                6.4342
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Villa Marie",
+              "coord": [
+                43.1821,
+                6.6325
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Day 7: Return & Reflection",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Café de la Paix",
+              "coord": [
+                48.8558,
+                2.3502
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Musée Léger Biot",
+              "coord": [
+                43.6119,
+                7.0755
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Septime",
+              "coord": [
+                48.8535,
+                2.3809
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                48.8681,
+                2.3261
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "L'Oseille",
+              "coord": [
+                48.8688,
+                2.3378
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Day 1: Paris Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Plaza Athénée",
+              "coord": [
+                48.8643,
+                2.3075
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "L'heure gourmande",
+              "coord": [
+                48.8549,
+                2.3384
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Eiffel Tower",
+              "coord": [
+                48.8584,
+                2.2945
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Brasserie Bellanger",
+              "coord": [
+                48.8809,
+                2.35
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Day 2: Museums & Magic",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Angelina",
+              "coord": [
+                48.8574,
+                2.3532
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Disneyland Paris",
+              "coord": [
+                48.8723,
+                2.7764
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Parc Astérix",
+              "coord": [
+                49.1333,
+                2.5667
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cité des Sciences et de l'Industrie",
+              "coord": [
+                48.8956,
+                2.3883
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time at hotel",
+              "coord": [
+                48.8643,
+                2.3075
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Loulou",
+              "coord": [
+                48.8582,
+                2.3512
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Versailles & Gardens",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché Rue Cler Paris",
+              "coord": [
+                48.8548,
+                2.3005
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palace of Versailles",
+              "coord": [
+                48.8047,
+                2.1204
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Luxembourg Gardens Playground",
+              "coord": [
+                48.8462,
+                2.3372
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tuileries Garden",
+              "coord": [
+                48.8643,
+                2.3294
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                48.8643,
+                2.3075
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Caviar Kaspia",
+              "coord": [
+                48.8566,
+                2.3522
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Loire Valley Day Trip",
           "items": [
             {
               "type": "breakfast",
@@ -721,33 +2920,143 @@
               ]
             },
             {
-              "type": "lunch",
-              "name": "NHOME",
+              "type": "sightseeing",
+              "name": "Chambord Château",
               "coord": [
-                48.8582,
-                2.3522
+                45.3667,
+                1.0167
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Château de Valmer",
+              "coord": [
+                45.2342,
+                2.4561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chenonceaux Château",
+              "coord": [
+                45.3147,
+                1.0739
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Early dinner and rest",
+              "coord": [
+                45.3667,
+                1.0167
               ]
             },
             {
               "type": "dinner",
-              "name": "Les 110 de Taillevent",
+              "name": "Villandry Château Gardens",
               "coord": [
-                48.8558,
-                2.3512
+                45.3194,
+                0.9317
               ]
             }
           ]
         },
         {
           "day": 5,
-          "title": "Day 5: Hidden Gems",
+          "title": "Day 5: Mont-Saint-Michel",
           "items": [
             {
-              "type": "lunch",
-              "name": "Au Bistro",
+              "type": "breakfast",
+              "name": "À L'Épi d'Or",
               "coord": [
-                48.8660475,
-                2.3312872
+                48.8629,
+                2.3411
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mont Saint-Michel",
+              "coord": [
+                48.6361,
+                -1.5115
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mont-Saint-Michel Abbey Museum",
+              "coord": [
+                48.6361,
+                -1.5115
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "D-Day Beaches",
+              "coord": [
+                49.3505,
+                -0.3653
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                48.6361,
+                -1.5115
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "L'Ami Jean",
+              "coord": [
+                48.8603,
+                2.306
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Normandy Apples & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché Enfants Rouges Paris",
+              "coord": [
+                48.8642,
+                2.3629
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Normandy Apple Cider Route",
+              "coord": [
+                49.1756,
+                -0.3697
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Musée Claude Monet Giverny",
+              "coord": [
+                49.0842,
+                1.5471
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée Grévin",
+              "coord": [
+                48.8722,
+                2.3431
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest time",
+              "coord": [
+                48.8643,
+                2.3075
               ]
             },
             {
@@ -761,122 +3070,306 @@
           ]
         },
         {
-          "day": 6,
-          "title": "Day 6: Chocolate & Pastry",
+          "day": 7,
+          "title": "Day 7: Aquariums & Relaxation",
           "items": [
             {
-              "type": "dinner",
-              "name": "La Diva des Prés",
+              "type": "breakfast",
+              "name": "Café Jeanne - Park Hyatt",
               "coord": [
-                48.8535748,
-                2.337083
+                48.8558,
+                2.3532
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Aquarium de Paris",
+              "coord": [
+                48.8584,
+                2.2945
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Saxe-Breteuil Paris",
+              "coord": [
+                48.8442,
+                2.3053
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Long afternoon rest",
+              "coord": [
+                48.8643,
+                2.3075
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Carousel du Louvre",
+              "coord": [
+                48.8606,
+                2.3352
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Au Bistro",
+              "coord": [
+                48.866,
+                2.3313
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Day 7: Departure",
+          "day": 8,
+          "title": "Day 8: Provence Family Fun",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mas de la Rosa",
+              "coord": [
+                43.7281,
+                4.8317
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lavender Fields of Provence",
+              "coord": [
+                43.899,
+                5.67
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Organic Belleville Paris",
+              "coord": [
+                48.8727,
+                2.3899
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Accrobranche Aventure Parks",
+              "coord": [
+                43.6977,
+                7.2645
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                43.7281,
+                4.8317
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "La Bastide de Gordes",
+              "coord": [
+                43.899,
+                5.1918
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Day 9: Gorges & Adventure",
           "items": [
             {
               "type": "breakfast",
-              "name": "Café Jeanne - Park Hyatt Paris-Vendôme",
+              "name": "Les Halles de Provence Avignon",
               "coord": [
-                48.8558,
-                2.3532
+                43.9507,
+                4.8065
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gorges du Verdon",
+              "coord": [
+                43.7343,
+                6.3652
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Provençal Antibes",
+              "coord": [
+                43.5815,
+                7.1235
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Parc de Préhistoire Tarascon",
+              "coord": [
+                43.8055,
+                4.6425
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                43.7281,
+                4.8317
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Marché du Vieux Dijon",
+              "coord": [
+                47.3217,
+                5.0419
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Day 10: Final Memories & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché Campredon Saint-Tropez",
+              "coord": [
+                43.271,
+                6.6408
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Îles d'Hyères",
+              "coord": [
+                43.1233,
+                6.4342
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cours Saleya Nice",
+              "coord": [
+                43.6952,
+                7.272
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest before travel",
+              "coord": [
+                48.8643,
+                2.3075
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée de l'Annonciade Saint-Tropez",
+              "coord": [
+                43.271,
+                6.6408
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Negresco",
+              "coord": [
+                43.699,
+                7.2588
               ]
             }
           ]
         }
       ]
     },
-    "b": {
-      "title": "Paris Hidden Gems & Deep Dining",
-      "color": "#059669",
+    "d": {
+      "name": "Foodie Deep-Dive",
+      "color": "#DC2626",
       "days": [
         {
           "day": 1,
-          "title": "Day 1: Local Flavors",
+          "title": "Day 1: Paris Michelin Three-Stars",
           "items": [
             {
               "type": "hotel",
-              "name": "Brasserie Bellanger",
+              "name": "Le Bristol Paris",
               "coord": [
-                48.8809206,
-                2.3500288
+                48.8689,
+                2.3143
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Arpège",
+              "coord": [
+                48.8534,
+                2.3143
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marché Bastille Paris",
+              "coord": [
+                48.8532,
+                2.3712
               ]
             },
             {
               "type": "dinner",
-              "name": "À L'Épi d'Or",
+              "name": "L'Ambroisie",
               "coord": [
-                48.862863,
-                2.341108
+                48.8551,
+                2.3625
               ]
             }
           ]
         },
         {
           "day": 2,
-          "title": "Day 2: Food Exploration",
+          "title": "Day 2: Paris Fine Dining & Patisserie",
           "items": [
             {
-              "type": "lunch",
-              "name": "Loulou",
+              "type": "breakfast",
+              "name": "Pierre Hermé",
               "coord": [
-                48.8582,
+                48.8574,
                 2.3512
               ]
             },
             {
-              "type": "dinner",
-              "name": "Philippe Excoffier",
+              "type": "lunch",
+              "name": "Guy Savoy",
               "coord": [
-                48.8576051,
-                2.3029178
+                48.8627,
+                2.3186
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marché Rue Mouffetard Paris",
+              "coord": [
+                48.8428,
+                2.353
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Pierre Gagnaire",
+              "coord": [
+                48.873,
+                2.3057
               ]
             }
           ]
         },
         {
           "day": 3,
-          "title": "Day 3: Off-Beaten Path",
-          "items": [
-            {
-              "type": "lunch",
-              "name": "La Poule au Pot",
-              "coord": [
-                48.8618061,
-                2.3432436
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Les Climats",
-              "coord": [
-                48.8588601,
-                2.3281795
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Day 4: Chocolate Tasting",
-          "items": [
-            {
-              "type": "dinner",
-              "name": "Au Bistro",
-              "coord": [
-                48.8660475,
-                2.3312872
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Day 5: Departure",
+          "title": "Day 3: Paris Bistro Classics",
           "items": [
             {
               "type": "breakfast",
@@ -885,90 +3378,932 @@
                 48.8574,
                 2.3532
               ]
-            }
-          ]
-        }
-      ]
-    },
-    "c": {
-      "title": "French Alps Ski & Dine",
-      "color": "#D97706",
-      "days": [
-        {
-          "day": 1,
-          "title": "Day 1: Arrive Val d'Isère",
-          "items": [
+            },
             {
-              "type": "hotel",
-              "name": "Brasserie Brunet",
+              "type": "lunch",
+              "name": "Joséphine Chez Dumonet",
               "coord": [
-                45.449,
-                6.98
+                48.8458,
+                2.3199
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marché Enfants Rouges Paris",
+              "coord": [
+                48.8642,
+                2.3629
               ]
             },
             {
               "type": "dinner",
-              "name": "Restaurant L'Alpin Val d'isère",
+              "name": "L'Ardoise",
               "coord": [
-                45.449,
-                6.98
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Day 2: Ski & Dine",
-          "items": [
-            {
-              "type": "lunch",
-              "name": "La Folie Douce Val d'Isère",
-              "coord": [
-                45.449,
-                6.985
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "La Peau De Vache",
-              "coord": [
-                45.449,
-                6.988
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Day 3: Mountain Dining",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Le Panoramic",
-              "coord": [
-                45.449,
-                6.986
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "L'Etincelle",
-              "coord": [
-                45.449,
-                6.987
+                48.8664,
+                2.3269
               ]
             }
           ]
         },
         {
           "day": 4,
-          "title": "Day 4: More Skiing",
-          "items": []
+          "title": "Day 4: Paris Wine & Chocolate",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Patrick Roger",
+              "coord": [
+                48.8566,
+                2.3502
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Les Climats",
+              "coord": [
+                48.8589,
+                2.3282
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marché Rue Cler Paris",
+              "coord": [
+                48.8548,
+                2.3005
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Caviar Kaspia",
+              "coord": [
+                48.8566,
+                2.3522
+              ]
+            }
+          ]
         },
         {
           "day": 5,
-          "title": "Day 5: Departure",
-          "items": []
+          "title": "Day 5: Lyon Three-Star Temples",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Paul Bocuse House - L'Ouest",
+              "coord": [
+                45.7583,
+                4.8425
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Paul Bocuse",
+              "coord": [
+                45.7583,
+                4.8425
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Parc de la Tête d'Or Lyon",
+              "coord": [
+                45.764,
+                4.8308
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Cour des Loges",
+              "coord": [
+                45.7618,
+                4.8359
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Burgundy Wine & Gastronomy",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Le Pavillon de Nénuphar",
+              "coord": [
+                45.5045,
+                1.2556
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Burgundy Wine Route",
+              "coord": [
+                46.5583,
+                4.8017
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marché Percier Bordeaux",
+              "coord": [
+                44.8396,
+                -0.5778
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Maison Pic à Valence",
+              "coord": [
+                44.9333,
+                4.8917
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Day 7: Loire Châteaux & Wines",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché Quai Saint-Michel Lyon",
+              "coord": [
+                45.764,
+                4.8308
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Loire Valley Châteaux Tour",
+              "coord": [
+                45.3667,
+                1.0167
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Château de Valmer",
+              "coord": [
+                45.2342,
+                2.4561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Villandry Château Gardens",
+              "coord": [
+                45.3194,
+                0.9317
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Pavillon de Nénuphar",
+              "coord": [
+                45.5045,
+                1.2556
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Day 8: Bordeaux Grand Crus",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "La Maison du Bordelais",
+              "coord": [
+                44.8396,
+                -0.5778
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bordeaux Wine Region Tour",
+              "coord": [
+                44.8371,
+                -0.5795
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Les Sources de Caudalie",
+              "coord": [
+                44.7611,
+                -0.3433
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Château Lafaurie-Peyraguey",
+              "coord": [
+                44.4917,
+                -0.3167
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Day 9: Dordogne Truffles & Delicacies",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Relais & Châteaux Château de la Treyne",
+              "coord": [
+                44.9056,
+                1.6889
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Saint-Lazare Périgueux",
+              "coord": [
+                45.1823,
+                0.7369
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palais Idéal du Facteur Cheval",
+              "coord": [
+                45.2342,
+                4.7561
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Rocamadour Sanctuary",
+              "coord": [
+                44.8039,
+                1.6149
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Day 10: Final Feast & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché du Vieux Dijon",
+              "coord": [
+                47.3217,
+                5.0419
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "L'heure gourmande",
+              "coord": [
+                48.8549,
+                2.3384
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last market exploration",
+              "coord": [
+                48.8428,
+                2.353
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Septime",
+              "coord": [
+                48.8535,
+                2.3809
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "Day 1: Paris Arrival & Icons",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Le Meurice",
+              "coord": [
+                48.8638,
+                2.3282
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Café de la Paix",
+              "coord": [
+                48.8558,
+                2.3502
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Eiffel Tower",
+              "coord": [
+                48.8584,
+                2.2945
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "L'Avenue",
+              "coord": [
+                48.859,
+                2.3502
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Day 2: Paris Museums & History",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Angelina",
+              "coord": [
+                48.8574,
+                2.3532
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Louvre",
+              "coord": [
+                48.8606,
+                2.3352
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Caviar Kaspia",
+              "coord": [
+                48.8566,
+                2.3522
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée d'Orsay",
+              "coord": [
+                48.8601,
+                2.3265
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "L'Ambroisie",
+              "coord": [
+                48.8551,
+                2.3625
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Versailles Grandeur",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Pierre Hermé",
+              "coord": [
+                48.8574,
+                2.3512
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palace of Versailles",
+              "coord": [
+                48.8047,
+                2.1204
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Saxe-Breteuil Paris",
+              "coord": [
+                48.8442,
+                2.3053
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Fontainebleau",
+              "coord": [
+                48.4054,
+                2.4829
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Arpège",
+              "coord": [
+                48.8534,
+                2.3143
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Normandy D-Day & Mont-Michel",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Auberge du Jeu de Paume",
+              "coord": [
+                48.4054,
+                2.4829
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "D-Day Beaches",
+              "coord": [
+                49.3505,
+                -0.3653
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Normandy Apple Cider Route",
+              "coord": [
+                49.1756,
+                -0.3697
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mont Saint-Michel",
+              "coord": [
+                48.6361,
+                -1.5115
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Musée Claude Monet Giverny",
+              "coord": [
+                49.0842,
+                1.5471
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Loire Valley Châteaux",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Château de Pray",
+              "coord": [
+                45.3667,
+                1.0167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chambord Château",
+              "coord": [
+                45.3667,
+                1.0167
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Château de Valmer",
+              "coord": [
+                45.2342,
+                2.4561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chenonceaux Château",
+              "coord": [
+                45.3147,
+                1.0739
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Pavillon de Nénuphar",
+              "coord": [
+                45.5045,
+                1.2556
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Loire Wine & Countryside",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché Quai Saint-Michel Lyon",
+              "coord": [
+                45.764,
+                4.8308
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Loire Valley Châteaux Tour",
+              "coord": [
+                45.3667,
+                1.0167
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Villandry Château Gardens",
+              "coord": [
+                45.3194,
+                0.9317
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Château de Montpoupon",
+              "coord": [
+                45.3389,
+                1.1667
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Relais & Châteaux Chateau de Jallanges",
+              "coord": [
+                45.1556,
+                2.7889
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Day 7: Bordeaux Wines & Cuisine",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Les Sources de Caudalie",
+              "coord": [
+                44.7611,
+                -0.3433
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bordeaux Wine Region Tour",
+              "coord": [
+                44.8371,
+                -0.5795
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "La Maison du Bordelais",
+              "coord": [
+                44.8396,
+                -0.5778
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Château Lafaurie-Peyraguey",
+              "coord": [
+                44.4917,
+                -0.3167
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Day 8: Provence Lavender & Villages",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "La Bastide de Gordes",
+              "coord": [
+                43.899,
+                5.1918
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lavender Fields of Provence",
+              "coord": [
+                43.899,
+                5.67
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Les Halles de Provence Avignon",
+              "coord": [
+                43.9507,
+                4.8065
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gorges du Verdon",
+              "coord": [
+                43.7343,
+                6.3652
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Relais & Châteaux Hostellerie Bérard",
+              "coord": [
+                43.212,
+                5.9675
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Day 9: Côte d'Azur Riviera",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Château de la Chèvre d'Or",
+              "coord": [
+                43.5071,
+                6.7185
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "French Riviera Coastal Drive",
+              "coord": [
+                43.6977,
+                7.2645
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cours Saleya Nice",
+              "coord": [
+                43.6952,
+                7.272
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée Matisse Nice",
+              "coord": [
+                43.7052,
+                7.2616
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Negresco",
+              "coord": [
+                43.699,
+                7.2588
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Day 10: Saint-Tropez & Islands",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Sezz Saint-Tropez",
+              "coord": [
+                43.267,
+                6.6405
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marché Campredon Saint-Tropez",
+              "coord": [
+                43.271,
+                6.6408
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Îles d'Hyères",
+              "coord": [
+                43.1233,
+                6.4342
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Musée de l'Annonciade Saint-Tropez",
+              "coord": [
+                43.271,
+                6.6408
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Villa Marie",
+              "coord": [
+                43.1821,
+                6.6325
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Day 11: Lyon Gastronomy",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Villa Florentine",
+              "coord": [
+                45.7656,
+                4.8308
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Paul Bocuse",
+              "coord": [
+                45.7583,
+                4.8425
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Parc de la Tête d'Or Lyon",
+              "coord": [
+                45.764,
+                4.8308
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Cour des Loges",
+              "coord": [
+                45.7618,
+                4.8359
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Day 12: Burgundy Wine Heartland",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Collégiale Hotel",
+              "coord": [
+                45.764,
+                4.8384
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Burgundy Wine Route",
+              "coord": [
+                46.5583,
+                4.8017
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Quai Saint-Michel Lyon",
+              "coord": [
+                45.764,
+                4.8308
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dijon",
+              "coord": [
+                47.3217,
+                5.0419
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Maison Pic à Valence",
+              "coord": [
+                44.9333,
+                4.8917
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Day 13: Dordogne & Périgord",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Relais & Châteaux Château de la Treyne",
+              "coord": [
+                44.9056,
+                1.6889
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Grotte de Lascaux Replica",
+              "coord": [
+                45.056,
+                1.1842
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marché Saint-Lazare Périgueux",
+              "coord": [
+                45.1823,
+                0.7369
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Rocamadour Sanctuary",
+              "coord": [
+                44.8039,
+                1.6149
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Les Eyzies - Abri du Perigord Noir",
+              "coord": [
+                44.9356,
+                1.0236
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Day 14: Return & Reflection",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Marché Rue Mouffetard Paris",
+              "coord": [
+                48.8428,
+                2.353
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last market exploration",
+              "coord": [
+                48.8532,
+                2.3712
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "L'heure gourmande",
+              "coord": [
+                48.8549,
+                2.3384
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Final museum or café",
+              "coord": [
+                48.8626,
+                2.3522
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Drouant",
+              "coord": [
+                48.855,
+                2.3542
+              ]
+            }
+          ]
         }
       ]
     }

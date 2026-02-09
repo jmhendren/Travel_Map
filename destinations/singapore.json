@@ -10,125 +10,357 @@
   "defaultZoom": 12,
   "hotels": [
     {
-      "name": "The Fullerton Hotel Singapore",
+      "name": "Marina Bay Sands",
       "coord": [
-        1.2863532,
-        103.8530671
+        1.2841,
+        103.8602
       ],
-      "city": "Marina Bay",
-      "desc": "Historic luxury hotel on waterfront, heritage building",
-      "longDesc": "This iconic waterfront landmark blends historic charm with luxury, offering stunning Marina Bay views and easy access to cultural attractions."
+      "desc": "Iconic rooftop infinity pool, observation deck, luxury suites",
+      "longDesc": "Singapore's most recognizable landmark offers 57-floor views, an iconic rooftop pool, and world-class hospitality blending contemporary luxury with panoramic cityscape."
     },
     {
-      "name": "Orchard Hotel",
+      "name": "Raffles Hotel Singapore",
       "coord": [
-        1.3048,
-        103.8318
+        1.2902,
+        103.8549
       ],
-      "city": "Orchard",
-      "desc": "Central location near shopping district, rooftop bar",
-      "longDesc": "Centrally positioned in Singapore's premier shopping district, this hotel offers modern comfort and rooftop dining with city skyline views."
+      "desc": "Historic colonial landmark, birthplace of the Singapore Sling",
+      "longDesc": "Singapore's most storied hotel since 1887, iconic for traditions like the Singapore Sling at the Long Bar and impeccable colonial-era service and architecture."
+    },
+    {
+      "name": "Capella Sentosa",
+      "coord": [
+        1.2516,
+        103.8208
+      ],
+      "desc": "Luxury resort on private island, pristine beaches, spa",
+      "longDesc": "A sanctuary of 30 colonial villas on private Sentosa cove, featuring white-sand beaches, Michelin-approved dining, and unparalleled island tranquility within the city."
+    },
+    {
+      "name": "The Fullerton Hotel Singapore",
+      "coord": [
+        1.2864,
+        103.8531
+      ],
+      "desc": "Historic waterfront landmark, heritage building, Marina Bay views",
+      "longDesc": "Iconic waterfront icon since 1887, this former General Post Office exudes grandeur with stunning Marina Bay vistas and sophisticated colonial-modern interiors."
+    },
+    {
+      "name": "Six Senses Maxwell",
+      "coord": [
+        1.2827,
+        103.8469
+      ],
+      "desc": "Boutique luxury in conservation shophouse, rooftop bar, Chinatown",
+      "longDesc": "A 5-suite ultra-luxury boutique hotel in a restored Chinatown shophouse, featuring rooftop infinity pool, personalized service, and heritage-meets-modern aesthetic."
+    },
+    {
+      "name": "The Warehouse Hotel",
+      "coord": [
+        1.2798,
+        103.8522
+      ],
+      "desc": "Chic industrial warehouse lofts, rooftop pool, club street",
+      "longDesc": "Converted waterfront warehouse with oversized lofts, rooftop pool with city views, and an effortlessly cool vibe perfect for design-conscious travelers."
+    },
+    {
+      "name": "Andaz Singapore",
+      "coord": [
+        1.3055,
+        103.8325
+      ],
+      "desc": "Design-forward hotel in Orchard, contemporary art, rooftop bar",
+      "longDesc": "A vibrant contemporary hotel featuring rotating art installations, rooftop bar views, and a casual-luxury approach ideal for creative travelers."
+    },
+    {
+      "name": "Hilton Singapore",
+      "coord": [
+        1.3055,
+        103.8305
+      ],
+      "desc": "Premier business hotel, Orchard location, rooftop pool",
+      "longDesc": "Centrally positioned on Orchard Road with a rooftop pool overlooking shopping district, professional service, and convenient access to dining and culture."
+    },
+    {
+      "name": "Pan Pacific Singapore",
+      "coord": [
+        1.2888,
+        103.8619
+      ],
+      "desc": "Waterfront location near Marina Bay, 33-floor atrium, service-focused",
+      "longDesc": "Elegant waterfront property with a stunning 33-floor atrium, impeccable service, and prime location for exploring Marina Bay's cultural attractions."
+    },
+    {
+      "name": "Shangri-La Singapore",
+      "coord": [
+        1.3138,
+        103.8208
+      ],
+      "desc": "Tropical garden setting, Valley Wing, near Botanic Gardens",
+      "longDesc": "Set on 15 lush acres near UNESCO Botanic Gardens, this sanctuary offers tropical serenity with the Valley Wing's ultra-luxury villas and impeccable service."
+    },
+    {
+      "name": "National Gallery Hotel Experience",
+      "coord": [
+        1.2908,
+        103.8505
+      ],
+      "desc": "Art deco design, premium Marina Bay location, cultural access",
+      "longDesc": "Located within the National Gallery complex, this distinctive property combines art-focused design with Marina Bay vistas and direct access to world-class exhibitions."
+    },
+    {
+      "name": "Mandarin Oriental Singapore",
+      "coord": [
+        1.2888,
+        103.8579
+      ],
+      "desc": "Elegant Marina Bay hotel, afternoon tea tradition, attentive service",
+      "longDesc": "A sanctuary of understated elegance on Marina Bay, renowned for afternoon tea, sophisticated interiors, and service that anticipates every desire."
+    },
+    {
+      "name": "St. Regis Singapore",
+      "coord": [
+        1.3068,
+        103.8292
+      ],
+      "desc": "Ultra-luxury Orchard property, butler service, rooftop restaurant",
+      "longDesc": "The epitome of bespoke luxury with personalized butler service, Michelin-starred dining, and sophisticated Orchard positioning for discerning travelers."
+    },
+    {
+      "name": "InterContinental Singapore",
+      "coord": [
+        1.2857,
+        103.8555
+      ],
+      "desc": "Waterfront luxury, Marina Bay Sands views, contemporary design",
+      "longDesc": "Modern luxury hotel featuring Marina Bay Sands views, contemporary styling, and prime waterfront location for exploring the cultural quarter."
+    },
+    {
+      "name": "The Scarlet Singapore",
+      "coord": [
+        1.2819,
+        103.8478
+      ],
+      "desc": "Boutique luxury in Chinatown, red-themed design, intimate suites",
+      "longDesc": "An intimate 13-suite luxury hideaway in historic Chinatown, featuring bold red aesthetics, personalized service, and uniquely Singapore character."
+    },
+    {
+      "name": "Naumi Singapore",
+      "coord": [
+        1.3018,
+        103.851
+      ],
+      "desc": "Contemporary boutique, Kampong Glam, design-led interiors",
+      "longDesc": "A sleek 42-suite boutique hotel in Kampong Glam with minimalist design, thoughtful amenities, and proximity to Singapore's vibrant cultural neighborhoods."
+    },
+    {
+      "name": "Hotel Picotin",
+      "coord": [
+        1.2815,
+        103.8445
+      ],
+      "desc": "Charming shophouse hotel in Chinatown, heritage meets modern",
+      "longDesc": "A lovingly restored shophouse hotel preserving Chinatown character while offering contemporary comfort, perfect for cultural immersion in Singapore's heart."
+    },
+    {
+      "name": "Amara Singapore",
+      "coord": [
+        1.2865,
+        103.852
+      ],
+      "desc": "Boutique hotel at Tanjong Pagar, heritage railway station",
+      "longDesc": "Set in a sensitively restored heritage railway building, this unique property blends Singapore's railway history with modern comfort and authentic atmosphere."
+    },
+    {
+      "name": "Coral Island Resort Sentosa",
+      "coord": [
+        1.258,
+        103.822
+      ],
+      "desc": "Family-friendly Sentosa resort, pools, beach access, activities",
+      "longDesc": "A vibrant Sentosa resort with multiple pools, direct beach access, and extensive family amenities making tropical getaways effortless and joyful."
+    },
+    {
+      "name": "Meritus Pelangi Beach Resort",
+      "coord": [
+        1.2545,
+        103.828
+      ],
+      "desc": "Sentosa beachfront luxury, spa, water sports, tropical gardens",
+      "longDesc": "A beachfront sanctuary on Sentosa with lush gardens, championship spa, water sports access, and a slower pace ideal for relaxation-focused holidays."
+    },
+    {
+      "name": "Sofitel Singapore Sentosa Resort",
+      "coord": [
+        1.251,
+        103.821
+      ],
+      "desc": "Luxury Sentosa resort, multiple pools, golf course, beachfront",
+      "longDesc": "An upscale resort sprawling across Sentosa with multiple pools, championship golf, beachfront luxury, and excellent family and couple amenities."
+    },
+    {
+      "name": "The Landmark Hotel",
+      "coord": [
+        1.3035,
+        103.831
+      ],
+      "desc": "Business-focused Orchard hotel, rooftop dining, meeting spaces",
+      "longDesc": "A well-designed Orchard hotel balancing business functionality with excellent rooftop dining, convenient shopping access, and professional service standards."
+    },
+    {
+      "name": "Parco Marina Bay",
+      "coord": [
+        1.285,
+        103.8635
+      ],
+      "desc": "Luxury Marina Bay location, spa, contemporary design",
+      "longDesc": "An architecturally distinctive Marina Bay property offering spa sanctuary, contemporary aesthetics, and world-class access to cultural attractions."
+    },
+    {
+      "name": "Parkroyal Collection Pickering",
+      "coord": [
+        1.2847,
+        103.8507
+      ],
+      "desc": "Garden hotel in heritage conservation area, rooftop gardens",
+      "longDesc": "A pioneering biophilic hotel design with cascading rooftop gardens, heritage integration, and innovative commitment to urban sustainability and greenery."
+    },
+    {
+      "name": "W Singapore Sentosa Cove",
+      "coord": [
+        1.253,
+        103.823
+      ],
+      "desc": "Trendy resort on Sentosa, vibrant nightlife, beach pool bars",
+      "longDesc": "A lively resort catering to style-conscious travelers with energetic nightlife, beachfront pool bars, and a fun, contemporary approach to island luxury."
+    },
+    {
+      "name": "The Ritz-Carlton Singapore",
+      "coord": [
+        1.2878,
+        103.8615
+      ],
+      "desc": "Waterfront mansion hotel, 5-star service, Marina Bay views",
+      "longDesc": "An elegant waterfront mansion hotel delivering exemplary service, stunning Marina Bay vistas, and refined luxury for the most discerning travelers."
+    },
+    {
+      "name": "Sentosa Villa at Capella",
+      "coord": [
+        1.2525,
+        103.8215
+      ],
+      "desc": "Ultra-luxury private villa retreat on Sentosa island",
+      "longDesc": "Capella's most exclusive offering provides ultra-private villa luxury, personalized experiences, and ultimate tropical seclusion within reach of urban attractions."
+    },
+    {
+      "name": "Four Seasons Singapore",
+      "coord": [
+        1.3045,
+        103.8345
+      ],
+      "desc": "Premier Orchard luxury hotel, personalized service, fine dining",
+      "longDesc": "An iconic luxury destination on Orchard combining impeccable service, award-winning restaurants, and sophisticated design for unforgettable stays."
+    },
+    {
+      "name": "Hotel Jen Orchardgateway",
+      "coord": [
+        1.3055,
+        103.8335
+      ],
+      "desc": "Upscale Orchard hotel, integrated mall access, modern design",
+      "longDesc": "A sleek contemporary hotel directly integrated with Orchard shopping, combining convenience with design-forward interiors and excellent service standards."
+    },
+    {
+      "name": "Fortune Hotel Singapore",
+      "coord": [
+        1.3008,
+        103.8555
+      ],
+      "desc": "Boutique hotel in Little India, colorful heritage surroundings",
+      "longDesc": "A charming boutique property capturing Little India's vibrant character, offering authentic neighborhood experience with contemporary comfort and warm hospitality."
+    },
+    {
+      "name": "Oasia Downtown Singapore",
+      "coord": [
+        1.283,
+        103.8515
+      ],
+      "desc": "Rooftop garden hotel in downtown, sustainable design, botanical focus",
+      "longDesc": "A botanical-inspired downtown hotel with rooftop gardens, innovative eco-design, and commitment to environmental sustainability wrapped in luxury aesthetics."
+    },
+    {
+      "name": "Tai-Pan Hotel",
+      "coord": [
+        1.284,
+        103.846
+      ],
+      "desc": "Historic Chinatown hotel, traditional character, heritage feel",
+      "longDesc": "A beloved historic Chinatown property preserving Singapore's old-world character while offering sophisticated, reasonably-priced stays in the cultural heart."
+    },
+    {
+      "name": "Bugis Street Hotel",
+      "coord": [
+        1.3005,
+        103.857
+      ],
+      "desc": "Boutique hotel above vibrant Bugis Street, rooftop garden, modern",
+      "longDesc": "A contemporary boutique perched above bustling Bugis Street, featuring rooftop garden sanctuary and direct access to Singapore's most vibrant street market."
+    },
+    {
+      "name": "Crowne Plaza Singapore",
+      "coord": [
+        1.3018,
+        103.8548
+      ],
+      "desc": "Upscale Kampong Glam location, cultural precinct access",
+      "longDesc": "A well-appointed property in the heart of multicultural Kampong Glam, offering easy exploration of Islamic heritage, dining, and neighborhood charm."
+    },
+    {
+      "name": "Porcelain Hotel",
+      "coord": [
+        1.2825,
+        103.848
+      ],
+      "desc": "Quirky design hotel in Chinatown, art-focused, small property",
+      "longDesc": "A exceptionally eccentric boutique with art installations, playful design, and intimate 20-room setting creating memorable Chinatown stays with personality."
+    },
+    {
+      "name": "The Pinnacle@Duxton",
+      "coord": [
+        1.2825,
+        103.862
+      ],
+      "desc": "Luxury serviced residences, rooftop skybridge, Marina views",
+      "longDesc": "An exclusive serviced residence complex featuring iconic rooftop skybridge, spacious layouts ideal for longer stays, and commanding Marina Bay panoramas."
+    },
+    {
+      "name": "Marina Bay Residences",
+      "coord": [
+        1.286,
+        103.8625
+      ],
+      "desc": "Premium Marina Bay serviced apartments, kitchen facilities, luxury",
+      "longDesc": "Spacious Marina Bay serviced apartments with full kitchens, premium finishes, and perfect for families or longer stays seeking independence and luxury."
+    },
+    {
+      "name": "Liberty Hotel Singapore",
+      "coord": [
+        1.2935,
+        103.8558
+      ],
+      "desc": "Boutique hotel near National Gallery, Bugis junction, modern design",
+      "longDesc": "A contemporary boutique offering design-forward interiors, prime location near cultural attractions, and approachable luxury for the discerning traveler."
     }
   ],
   "restaurants": [
     {
-      "name": "Food Opera",
-      "coord": [
-        1.304,
-        103.832
-      ],
-      "city": "Orchard",
-      "cuisine": "Hawker/Diverse",
-      "desc": "Food court atop ION Orchard, hawker favorites with a view",
-      "longDesc": "A modern hawker concept perched atop ION Orchard, serving authentic street food favorites with an elegant setting and panoramic city views."
-    },
-    {
-      "name": "Napoleon Wine Bistro",
-      "coord": [
-        1.2812,
-        103.8508
-      ],
-      "city": "Telok Ayer",
-      "cuisine": "French",
-      "desc": "French-inspired wine bar, Telok Ayer conservation shophouse",
-      "longDesc": "Housed in a beautifully restored conservation shophouse, this French bistro offers fine wines and classic cuisine in an intimate, historic setting."
-    },
-    {
-      "name": "Caveau Bar",
-      "coord": [
-        1.2853,
-        103.8528
-      ],
-      "city": "Club Street",
-      "cuisine": "Cocktails",
-      "desc": "Upscale cocktail bar, Club Street",
-      "longDesc": "An upscale cocktail destination in the heart of Club Street, known for expertly crafted drinks and sophisticated ambiance in Singapore's heritage quarter."
-    },
-    {
-      "name": "Empress",
-      "coord": [
-        1.2876,
-        103.8516
-      ],
-      "city": "Marina Bay",
-      "cuisine": "Modern Chinese",
-      "desc": "Modern Chinese at Asian Civilisations Museum, riverside setting",
-      "longDesc": "Modern Chinese cuisine in an elegant riverside setting at the Asian Civilisations Museum, celebrating contemporary takes on regional flavors."
-    },
-    {
-      "name": "Mitzo Restaurant & Bar",
-      "coord": [
-        1.305,
-        103.831
-      ],
-      "city": "Orchard",
-      "cuisine": "Cantonese",
-      "desc": "Cantonese fine dining at Grand Park Orchard, stylish decor",
-      "longDesc": "Cantonese fine dining at Grand Park Orchard with sophisticated decor and refined dim sum that families can enjoy together."
-    },
-    {
-      "name": "Restaurant Labyrinth",
-      "coord": [
-        1.2818,
-        103.8468
-      ],
-      "city": "Chinatown",
-      "cuisine": "Modern Singaporean",
-      "desc": "Modern Singaporean fine dining, Michelin-starred, playful",
-      "longDesc": "A playful Michelin-starred establishment serving modern Singaporean cuisine with inventive presentations in an intimate Chinatown setting."
-    },
-    {
-      "name": "Smoke & Mirrors",
+      "name": "Odette",
       "coord": [
         1.2908,
-        103.8519
+        103.8505
       ],
-      "city": "National Gallery",
-      "cuisine": "Cocktails/Bar",
-      "desc": "Rooftop bar at National Gallery, skyline views, craft cocktails",
-      "longDesc": "Perched atop the National Gallery, this rooftop bar offers craft cocktails and panoramic city skyline views—perfect for sunset drinks."
-    },
-    {
-      "name": "Jumbo Seafood",
-      "coord": [
-        1.2821,
-        103.8507
-      ],
-      "city": "Clarke Quay",
-      "cuisine": "Seafood",
-      "desc": "Famous chili crab, Clarke Quay riverside, tourist-friendly",
-      "longDesc": "Famous for its signature chili crab, this riverside Clarke Quay institution delivers iconic Singapore flavors in a lively, family-welcoming atmosphere."
-    },
-    {
-      "name": "National Kitchen by Violet Oon",
-      "coord": [
-        1.2873,
-        103.8512
-      ],
-      "city": "Marina Bay",
-      "cuisine": "Peranakan",
-      "desc": "Heritage Peranakan cuisine, National Gallery",
-      "longDesc": "Heritage Peranakan cuisine served with pride in the National Gallery, celebrating the rich culinary traditions of Singapore's diverse cultures."
+      "desc": "3 Michelin stars, French fine dining, National Gallery location",
+      "longDesc": "Singapore's most prestigious fine dining destination, Odette's 3 Michelin stars showcase exquisite French technique married with bold contemporary innovation."
     },
     {
       "name": "Burnt Ends",
@@ -136,10 +368,80 @@
         1.2815,
         103.8437
       ],
-      "city": "Chinatown",
-      "cuisine": "Barbecue",
-      "desc": "Michelin-starred, open-fire modern barbecue, Chinatown",
-      "longDesc": "A Michelin-starred barbecue destination in Chinatown, featuring open-fire cooking and innovative meat preparations in a dynamic, casual setting."
+      "desc": "Michelin-starred open-fire barbecue, theatrical kitchen, Chinatown",
+      "longDesc": "A theatrical Michelin-starred temple to fire and meat, featuring an open kitchen where bold charcoal technique transforms premium ingredients into memorable feasts."
+    },
+    {
+      "name": "Labyrinth",
+      "coord": [
+        1.2818,
+        103.8468
+      ],
+      "desc": "Michelin-starred modern Singaporean, inventive presentations",
+      "longDesc": "A playful Michelin temple celebrating Singapore's multicultural heritage through innovative dishes, theatrical presentations, and unexpected flavor combinations."
+    },
+    {
+      "name": "Nouri",
+      "coord": [
+        1.2852,
+        103.8513
+      ],
+      "desc": "Michelin-starred innovative, heritage meets contemporary",
+      "longDesc": "One Michelin star recognizing chef Ivan Brehm's reverence for tradition reimagined—a deeply personal homage to Singapore's culinary evolution and soul."
+    },
+    {
+      "name": "Les Amis",
+      "coord": [
+        1.3062,
+        103.8318
+      ],
+      "desc": "Michelin-starred French fine dining, classic technique, Orchard",
+      "longDesc": "A Michelin-starred sanctuary of French classical elegance, where traditional technique and impeccable ingredients create timeless fine dining experiences."
+    },
+    {
+      "name": "Zen",
+      "coord": [
+        1.2923,
+        103.8572
+      ],
+      "desc": "Michelin-starred Japanese, sushi, kaiseki experience",
+      "longDesc": "A serene Michelin-starred temple to Japanese precision, where master sushi chefs craft daily omakase and kaiseki sequences celebrating pristine seafood."
+    },
+    {
+      "name": "Born",
+      "coord": [
+        1.2848,
+        103.852
+      ],
+      "desc": "Michelin-starred Japanese kappo, intimate counter dining",
+      "longDesc": "An intimate Japanese kappo experience where the chef guides guests through curated sequences of perfectly executed small plates and pristine preparations."
+    },
+    {
+      "name": "Tian Tian Hainanese Chicken Rice",
+      "coord": [
+        1.295,
+        103.847
+      ],
+      "desc": "Famous hawker institution, legendary poached chicken, queues always",
+      "longDesc": "One of the world's most beloved hawker stalls, famous for silky poached chicken and fragrant rice—arrive early for this iconic Singapore street food."
+    },
+    {
+      "name": "Hill Street Tai Hwa Pork Noodle",
+      "coord": [
+        1.296,
+        103.8465
+      ],
+      "desc": "Michelin-starred hawker, prawn and pork mee, legendary queues",
+      "longDesc": "Possibly Singapore's most celebrated hawker stall with one Michelin star, famous for velvety pork-and-prawn noodles and wok-perfected technique."
+    },
+    {
+      "name": "Liao Fan Hong Kong Soya Sauce Chicken",
+      "coord": [
+        1.3255,
+        103.845
+      ],
+      "desc": "Michelin-starred hawker, soy sauce chicken rice, Sheng Siong",
+      "longDesc": "The most casual Michelin-starred establishment, hawker-stall soy sauce chicken beloved by locals and visitors alike—humble perfection in every bite."
     },
     {
       "name": "Hawker Chan",
@@ -147,10 +449,8 @@
         1.283,
         103.8453
       ],
-      "city": "Chinatown",
-      "cuisine": "Chinese",
-      "desc": "World's cheapest Michelin meal, soy sauce chicken rice",
-      "longDesc": "The world's most affordable Michelin-starred meal, serving legendary soy sauce chicken rice—a must-try authenticity check for food lovers."
+      "desc": "World's cheapest Michelin meal, legendary soy sauce chicken",
+      "longDesc": "One Michelin star for soy sauce chicken rice at hawker stall prices—proof that greatness transcends fine dining surroundings."
     },
     {
       "name": "Candlenut",
@@ -158,42 +458,433 @@
         1.2812,
         103.797
       ],
-      "city": "Dempsey Hill",
-      "cuisine": "Peranakan",
-      "desc": "Michelin-starred Peranakan, Dempsey Hill",
-      "longDesc": "Michelin-starred Peranakan cuisine on charming Dempsey Hill, offering refined takes on ancestral recipes in a warm, sophisticated environment."
+      "desc": "Michelin-starred Peranakan, refined ancestral recipes, Dempsey",
+      "longDesc": "One Michelin star celebrating refined Peranakan heritage, where chef Gunawan reimagines ancestral recipes with modern sophistication and passion."
+    },
+    {
+      "name": "National Kitchen by Violet Oon",
+      "coord": [
+        1.2873,
+        103.8512
+      ],
+      "desc": "Heritage Peranakan at National Gallery, cultural significance",
+      "longDesc": "A celebration of Peranakan heritage in the National Gallery, serving dishes steeped in family tradition and Singapore's multicultural culinary story."
+    },
+    {
+      "name": "Jumbo Seafood",
+      "coord": [
+        1.2821,
+        103.8507
+      ],
+      "desc": "Famous chili crab, Clarke Quay branch, riverside views",
+      "longDesc": "An institution famous for its signature chili crab—sweet, spicy, and served over Clarke Quay's lively atmosphere perfect for families and celebrations."
+    },
+    {
+      "name": "Empress",
+      "coord": [
+        1.2876,
+        103.8516
+      ],
+      "desc": "Modern Chinese cuisine, Asian Civilisations Museum, riverside",
+      "longDesc": "Contemporary Chinese dishes in an elegant riverside gallery setting, celebrating regional traditions reimagined with modern technique and artful plating."
+    },
+    {
+      "name": "Restaurant Pontianac",
+      "coord": [
+        1.301,
+        103.8545
+      ],
+      "desc": "Traditional Peranakan, curry-house atmosphere, authentic recipes",
+      "longDesc": "A beloved family restaurant serving authentic Peranakan classics—warming curries, rich sambals, and desserts reflecting Singapore's cultural melting pot."
+    },
+    {
+      "name": "Mitzo Restaurant & Bar",
+      "coord": [
+        1.305,
+        103.831
+      ],
+      "desc": "Cantonese fine dining, dim sum and roasted specialties, elegant",
+      "longDesc": "Refined Cantonese cuisine featuring exquisite dim sum carts, expertly roasted ducks, and sophisticated service in an elegant contemporary setting."
+    },
+    {
+      "name": "Napoleon Wine Bistro",
+      "coord": [
+        1.2812,
+        103.8508
+      ],
+      "desc": "French bistro, wine bar, heritage shophouse, intimate",
+      "longDesc": "A charming French bistro in a restored conservation shophouse, serving classic cuisine paired with carefully curated wines in an intimate, romantic setting."
+    },
+    {
+      "name": "Caveau Bar & Restaurant",
+      "coord": [
+        1.2853,
+        103.8528
+      ],
+      "desc": "French wine bar, cocktails, Club Street heritage location",
+      "longDesc": "An upscale cocktail and wine bar in Singapore's heritage quarter, expertly crafted drinks and sophisticated ambiance perfect for evening refinement."
+    },
+    {
+      "name": "Smoke & Mirrors",
+      "coord": [
+        1.2908,
+        103.8519
+      ],
+      "desc": "Rooftop bar at National Gallery, skyline views, craft cocktails",
+      "longDesc": "Perched above the National Gallery with panoramic city views, this rooftop bar crafts exceptional cocktails—ideal for sunset drinks and evening enchantment."
+    },
+    {
+      "name": "Food Opera",
+      "coord": [
+        1.304,
+        103.832
+      ],
+      "desc": "Modern hawker atop ION Orchard, elevated casual dining",
+      "longDesc": "A contemporary hawker concept with elegant presentation and city views, elevating iconic street foods into refined but approachable dining experience."
+    },
+    {
+      "name": "Satay by the Bay",
+      "coord": [
+        1.2816,
+        103.8636
+      ],
+      "desc": "Iconic satay stall, Marina Bay views, casual open-air",
+      "longDesc": "Singapore's most iconic satay experience with Marina Bay views, grilled skewers, and peanut sauce served under the stars among food-loving crowds."
+    },
+    {
+      "name": "Maxwell Food Centre",
+      "coord": [
+        1.284,
+        103.8435
+      ],
+      "desc": "Legendary hawker center, chili crab, Soya Sauce Chicken Rice",
+      "longDesc": "One of Singapore's most famous hawker centers, a pilgrimage site for Tian Tian chicken rice and myriad small stalls showcasing hawker culture."
+    },
+    {
+      "name": "Lao Ban Soya Sauce Chicken Rice",
+      "coord": [
+        1.2843,
+        103.844
+      ],
+      "desc": "Legendary soya sauce chicken, Maxwell Food Centre institution",
+      "longDesc": "Located in Maxwell, this iconic stall serves perfectly poached chicken with fragrant soy sauce rice—simple, iconic, and deeply beloved."
+    },
+    {
+      "name": "Ah Chew Desserts",
+      "coord": [
+        1.284,
+        103.8435
+      ],
+      "desc": "Famous dessert stall, tau huay and cheng tng, Maxwell Centre",
+      "longDesc": "An institution for traditional Chinese desserts, silky tau huay (soybean custard) and cooling cheng tng are perfect respites from tropical heat."
+    },
+    {
+      "name": "Tiong Bahru Market Hawkers",
+      "coord": [
+        1.2788,
+        103.8315
+      ],
+      "desc": "Historic wet market with hawker stalls, local institution",
+      "longDesc": "A charming heritage market where locals shop alongside visitors, with scattered hawker stalls serving generations-old recipes in authentic surroundings."
+    },
+    {
+      "name": "Broth by Ah Huat",
+      "coord": [
+        1.279,
+        103.831
+      ],
+      "desc": "Famous herbal broth and soups, Tiong Bahru market institution",
+      "longDesc": "A beloved stall renowned for restorative herbal broths and healing soups—traditional Chinese wellness food served with genuine care and expertise."
+    },
+    {
+      "name": "Sheng Sheng Beehoon",
+      "coord": [
+        1.2788,
+        103.8315
+      ],
+      "desc": "Silky beehoon noodles, Tiong Bahru, generations-old recipe",
+      "longDesc": "Fragrant rice noodles crafted with technique refined over generations, served in Tiong Bahru's charming pre-war market atmosphere."
+    },
+    {
+      "name": "Choon Seng Eating House",
+      "coord": [
+        1.306,
+        103.8565
+      ],
+      "desc": "Hawker favorite, chicken rice, Bugis junction, no-frills",
+      "longDesc": "A no-frills hawker institution serving perfectly steamed chicken and aromatic rice, beloved by office workers and food-loving locals for generations."
+    },
+    {
+      "name": "Tekka Centre Indian Stalls",
+      "coord": [
+        1.3017,
+        103.8567
+      ],
+      "desc": "Multi-level wet market, Indian vegetables and spices, vibrant",
+      "longDesc": "A vibrant multi-sensory wet market teeming with aromatic spices, fresh produce, and pockets of North Indian vegetable vendors and food stalls."
+    },
+    {
+      "name": "Springleaf Prata House",
+      "coord": [
+        1.3028,
+        103.8575
+      ],
+      "desc": "Famous roti prata, crispy flatbread, Little India institution",
+      "longDesc": "A legendary prata house where skilled hands stretch dough into paper-thin sheets, fried golden and served with aromatic curry for dipping."
+    },
+    {
+      "name": "Banana Leaf Apolo",
+      "coord": [
+        1.3045,
+        103.859
+      ],
+      "desc": "South Indian banana leaf cuisine, rich curries, Little India",
+      "longDesc": "An iconic establishment serving banana leaf meals—fragrant curries, crispy fritters, and fiery sambals reflecting Singapore's Indian heritage and flavors."
+    },
+    {
+      "name": "Sri Krishnan Temple Vegetarian",
+      "coord": [
+        1.3015,
+        103.858
+      ],
+      "desc": "Temple vegetarian cuisine, traditional Indian, spiritual experience",
+      "longDesc": "Vegetarian Indian cuisine served near the temple with spiritual reverence, showcasing the depth of Indian culinary traditions without meat."
+    },
+    {
+      "name": "Katong Laksa",
+      "coord": [
+        1.3092,
+        103.893
+      ],
+      "desc": "Famous Peranakan laksa, spiced coconut noodles, iconic broth",
+      "longDesc": "One of Singapore's most beloved laksa versions, a rich coconut broth fragrant with spices cradling noodles—soul food at its finest."
+    },
+    {
+      "name": "Dragon Well Tea House",
+      "coord": [
+        1.285,
+        103.848
+      ],
+      "desc": "Chinese tea house, dim sum, heritage Chinatown location",
+      "longDesc": "A traditional tea house preserving tea culture and dim sum traditions in an intimate Chinatown setting steeped in calm and authenticity."
+    },
+    {
+      "name": "Yum Cha",
+      "coord": [
+        1.2825,
+        103.8435
+      ],
+      "desc": "Contemporary dim sum, carts and a la carte, Chinatown vibe",
+      "longDesc": "Modern dim sum dining with traditional carts and contemporary plating, capturing Chinatown's energy while elevating the classic experience."
+    },
+    {
+      "name": "Chateraise Patisserie & Cafe",
+      "coord": [
+        1.305,
+        103.831
+      ],
+      "desc": "Japanese pastry and cafe, cakes, coffee, Orchard location",
+      "longDesc": "A beautiful Japanese patisserie crafting elegant cakes, pastries, and coffee—a sanctuary for those seeking refined sweetness and design-forward aesthetics."
+    },
+    {
+      "name": "Tiramisu Hero",
+      "coord": [
+        1.2843,
+        103.8442
+      ],
+      "desc": "Famous tiramisu specialties, Italian dessert cafe, Chinatown",
+      "longDesc": "A charming tiramisu specialist offering numerous iterations of the classic—from traditional to contemporary innovations in a cozy Chinatown setting."
+    },
+    {
+      "name": "Pâtisserie Chabot",
+      "coord": [
+        1.3045,
+        103.8315
+      ],
+      "desc": "French pastry shop, elegant cakes, coffee, Orchard area",
+      "longDesc": "A sophisticated French patisserie crafting elegant pastries and cakes, ideal for gifting or indulging in refined European-style afternoon refinement."
+    },
+    {
+      "name": "Forty Hands Coffee",
+      "coord": [
+        1.282,
+        103.8405
+      ],
+      "desc": "Specialty coffee, minimal interior, Tiong Bahru enclave",
+      "longDesc": "A minimalist third-wave coffee roastery in Tiong Bahru, where serious coffee enthusiasts gather for precisely crafted, single-origin espresso and filter drinks."
+    },
+    {
+      "name": "Oriole Coffee",
+      "coord": [
+        1.2808,
+        103.849
+      ],
+      "desc": "Specialty single-origin coffee, minimal design, Boat Quay",
+      "longDesc": "A serious coffee establishment focused on sourcing, roasting, and crafting single-origin coffees with care and precision in a minimalist setting."
+    },
+    {
+      "name": "Nylon Coffee Roasters",
+      "coord": [
+        1.2835,
+        103.8425
+      ],
+      "desc": "Local coffee roastery, single-origin specialties, cafe culture",
+      "longDesc": "Singapore's beloved indie coffee roastery highlighting single-origin beans and brewing excellence—a hub for the city's passionate coffee community."
+    },
+    {
+      "name": "Common Man Coffee Roasters",
+      "coord": [
+        1.2818,
+        103.848
+      ],
+      "desc": "Neighborhood coffee shop, seasonal single-origins, cozy vibe",
+      "longDesc": "A community coffee shop celebrating seasonal single-origins with a cozy neighborhood vibe and deep commitment to coffee quality and sustainability."
+    },
+    {
+      "name": "Ramen Yokocho",
+      "coord": [
+        1.293,
+        103.857
+      ],
+      "desc": "Japanese ramen alley, multiple specialty ramen chefs, Bugis",
+      "longDesc": "A charming ramen alley recreating Japanese street food atmosphere, featuring multiple chefs each perfecting their own regional ramen specialty and broths."
+    },
+    {
+      "name": "Tsurumi Ramen",
+      "coord": [
+        1.2935,
+        103.8575
+      ],
+      "desc": "Tonkotsu ramen, rich pork broth, Japanese technique, minimal",
+      "longDesc": "A focused ramen shop perfecting tonkotsu broth through patience and technique—rich, complex, and deeply satisfying Japanese comfort in every bowl."
+    },
+    {
+      "name": "Din Tai Fung",
+      "coord": [
+        1.3058,
+        103.8325
+      ],
+      "desc": "Famous xiaolongbao dumplings, Shanghai cuisine, Orchard branch",
+      "longDesc": "An institution famous for delicate soup dumplings with perfectly balanced fillings—traditional Shanghai technique executed with consistent excellence."
+    },
+    {
+      "name": "Tim Ho Wan",
+      "coord": [
+        1.294,
+        103.846
+      ],
+      "desc": "Casual Michelin dim sum, famous pork buns, accessible pricing",
+      "longDesc": "A Michelin-starred casual dim sum destination famous for shrimp-filled pork buns and quality dim sum at accessible prices—dim sum democratized."
+    },
+    {
+      "name": "Chatterbox Singapore",
+      "coord": [
+        1.2902,
+        103.8543
+      ],
+      "desc": "Iconic Peranakan chicken rice, heritage recipe, Mandarin Hotel",
+      "longDesc": "A beloved institution in the Mandarin Hotel serving iconic chicken rice with a Peranakan twist—comfort food elevated through generations of tradition."
+    },
+    {
+      "name": "Palais Taj",
+      "coord": [
+        1.303,
+        103.8575
+      ],
+      "desc": "North Indian fine dining, tandoori specialties, elegant setting",
+      "longDesc": "A sophisticated North Indian restaurant showcasing tandoori mastery and aromatic curries in an elegant setting respecting the depth of Indian cuisine."
+    },
+    {
+      "name": "Artichoke Restaurant",
+      "coord": [
+        1.282,
+        103.851
+      ],
+      "desc": "Modern Mediterranean, seasonal ingredients, Marina Bay location",
+      "longDesc": "A thoughtful Mediterranean restaurant celebrating seasonal ingredients and simple preparations—coastal simplicity with refined technique and care."
+    },
+    {
+      "name": "Shinji by Kanesaka",
+      "coord": [
+        1.3058,
+        103.8325
+      ],
+      "desc": "Premium sushi restaurant, Japanese omakase, chef-focused",
+      "longDesc": "An intimate sushi counter where the chef guides guests through pristine seasonal fish—Japanese precision and craftsmanship at its finest."
+    },
+    {
+      "name": "Xperience Dining at Shangri-La",
+      "coord": [
+        1.3138,
+        103.8208
+      ],
+      "desc": "Contemporary Asian cuisine, garden views, luxury dining",
+      "longDesc": "A sophisticated restaurant within the Shangri-La featuring contemporary Asian cuisine with views overlooking lush heritage gardens and quiet elegance."
+    },
+    {
+      "name": "Violet Oon Singapore",
+      "coord": [
+        1.2875,
+        103.852
+      ],
+      "desc": "Modern Peranakan, celebrity chef, cultural storytelling",
+      "longDesc": "Chef Violet Oon's culinary storytelling celebrates Peranakan heritage through dishes balancing tradition with contemporary technique and artistic plating."
+    },
+    {
+      "name": "LongPlay - LP Bar",
+      "coord": [
+        1.3059,
+        103.8594
+      ],
+      "desc": "Vinyl bar with cocktails, retro vibe, Kampong Glam",
+      "longDesc": "A nostalgic vinyl bar in Kampong Glam where classic records spin while expert cocktails flow—a soundtrack to Singapore's creative renaissance."
+    },
+    {
+      "name": "Jigger & Pony",
+      "coord": [
+        1.282,
+        103.848
+      ],
+      "desc": "Award-winning cocktail bar, craft spirits, knowledgeable bartenders",
+      "longDesc": "A serious cocktail bar earning international acclaim for creative house drinks, depth of spirits knowledge, and bartender expertise and hospitality."
+    },
+    {
+      "name": "Druggists",
+      "coord": [
+        1.284,
+        103.8445
+      ],
+      "desc": "Craft cocktail bar, apothecary-style, innovative drinks",
+      "longDesc": "A theatrical craft bar with apothecary aesthetic and scientific approach—where bartenders craft innovative cocktails using unusual ingredients and techniques."
     }
   ],
   "experiences": [
-    {
-      "name": "Marina Bay Sands",
-      "coord": [
-        1.2841,
-        103.8602
-      ],
-      "city": "Marina Bay",
-      "desc": "Iconic hotel with observation deck and rooftop pool",
-      "longDesc": "Singapore's most recognizable icon features a spectacular observation deck and infinity pool overlooking the entire bay—unforgettable architecture and views."
-    },
     {
       "name": "Gardens by the Bay",
       "coord": [
         1.2816,
         103.8636
       ],
-      "city": "Marina Bay",
-      "desc": "Futuristic gardens with Supertrees and conservatories",
-      "longDesc": "This botanical wonderland showcases iconic Supertrees, immersive conservatories, and nightly light shows—a perfect blend of nature and innovation."
+      "desc": "Iconic Supertrees, conservatories, nightly light shows",
+      "longDesc": "A botanical wonderland showcasing 18 Supertrees with evening light shows, immersive conservatories, and the perfect blend of nature and technological innovation."
     },
     {
-      "name": "National Museum Singapore",
+      "name": "Marina Bay Sands SkyPark",
       "coord": [
-        1.2908,
-        103.8447
+        1.2841,
+        103.8602
       ],
-      "city": "Museum District",
-      "desc": "Singapore's history and culture through interactive exhibits",
-      "longDesc": "Engaging interactive exhibits bring Singapore's rich history and multicultural heritage to life, offering context for the city-state's remarkable transformation."
+      "desc": "57-floor observation deck, 360-degree views, iconic pool",
+      "longDesc": "Singapore's highest vantage point delivers breathtaking 360-degree views of the entire city-state—an unforgettable perspective of urban and natural landscapes."
+    },
+    {
+      "name": "Merlion Park",
+      "coord": [
+        1.2866,
+        103.8557
+      ],
+      "desc": "Singapore's national symbol, iconic statue, waterfront views",
+      "longDesc": "The most photographed symbol of Singapore—a mythical lion-fish guardian welcoming visitors to explore the heritage and energy of Marina Bay."
     },
     {
       "name": "Singapore Botanic Gardens",
@@ -201,9 +892,26 @@
         1.3145,
         103.8161
       ],
-      "city": "Orchard",
-      "desc": "UNESCO heritage site, peaceful gardens and lakes",
-      "longDesc": "A UNESCO heritage site offering 160 acres of serene landscape, manicured gardens, and peaceful lakeside walks—a green sanctuary in the city."
+      "desc": "UNESCO heritage site, 160 acres, peaceful gardens and lakes",
+      "longDesc": "A UNESCO World Heritage sanctuary spanning 160 acres with manicured gardens, swan lakes, and botanical collections—an oasis of tropical serenity."
+    },
+    {
+      "name": "National Museum Singapore",
+      "coord": [
+        1.2908,
+        103.8447
+      ],
+      "desc": "Singapore's history and culture, interactive exhibits, museums",
+      "longDesc": "Engaging exhibits trace Singapore's transformation from colonial trading post to modern city-state, offering cultural context through interactive storytelling."
+    },
+    {
+      "name": "National Gallery Singapore",
+      "coord": [
+        1.2908,
+        103.8505
+      ],
+      "desc": "Southeast Asian art, world-class exhibitions, architectural landmark",
+      "longDesc": "Housed in two former government buildings, this gallery showcases Southeast Asian art spanning centuries—from classical to cutting-edge contemporary works."
     },
     {
       "name": "ArtScience Museum",
@@ -211,9 +919,296 @@
         1.2857,
         103.8603
       ],
-      "city": "Marina Bay",
-      "desc": "Unique lotus-shaped building with art and science exhibits",
-      "longDesc": "The distinctive lotus-shaped building houses inventive exhibits blending art and science, ideal for curious families seeking creative inspiration."
+      "desc": "Lotus-shaped building, art-science fusion, interactive exhibits",
+      "longDesc": "A distinctive lotus-shaped building housing imaginative exhibits at the intersection of art and science—ideal for curious minds of all ages."
+    },
+    {
+      "name": "Singapore Zoo",
+      "coord": [
+        1.4043,
+        103.7938
+      ],
+      "desc": "World-class open-concept zoo, wildlife, interactive shows",
+      "longDesc": "One of the world's finest zoos featuring open-concept habitats, daily shows, and immersive encounters celebrating biodiversity and conservation."
+    },
+    {
+      "name": "Night Safari",
+      "coord": [
+        1.4048,
+        103.7862
+      ],
+      "desc": "Nocturnal wildlife experience, tram ride, unique animal encounters",
+      "longDesc": "A revolutionary concept showcasing nocturnal animals in natural habitats—a thrilling tram journey through tropical darkness revealing night creature behavior."
+    },
+    {
+      "name": "River Safari",
+      "coord": [
+        1.4045,
+        103.7925
+      ],
+      "desc": "River-themed wildlife park, boat safari, giant pandas",
+      "longDesc": "A water-based wildlife experience featuring river animals and habitats, highlighted by giant pandas and scenic boat safaris through themed zones."
+    },
+    {
+      "name": "Sentosa Island",
+      "coord": [
+        1.2485,
+        103.8295
+      ],
+      "desc": "Resort island, beaches, attractions, cable car access",
+      "longDesc": "A purpose-built island resort featuring pristine beaches, luxury hotels, restaurants, attractions, and scenic cable car access from the city."
+    },
+    {
+      "name": "Universal Studios Singapore",
+      "coord": [
+        1.2556,
+        103.824
+      ],
+      "desc": "Theme park, movie-themed rides, family attractions, shows",
+      "longDesc": "A vibrant theme park with movie-themed lands, thrilling rides, live entertainment, and family-friendly attractions celebrating cinematic storytelling."
+    },
+    {
+      "name": "S.E.A. Aquarium",
+      "coord": [
+        1.2513,
+        103.8197
+      ],
+      "desc": "World's largest aquarium, interactive touch pools, marine life",
+      "longDesc": "The world's largest aquarium by water volume showcasing over 40,000 marine creatures—interactive and awe-inspiring encounters with ocean biodiversity."
+    },
+    {
+      "name": "Sentosa Beaches",
+      "coord": [
+        1.2485,
+        103.8295
+      ],
+      "desc": "Family-friendly sandy shores, water sports, tropical escape",
+      "longDesc": "Three pristine Sentosa beaches with calm waters, rental activities, beachfront dining, and tropical island atmosphere just minutes from the city."
+    },
+    {
+      "name": "Chinatown Heritage",
+      "coord": [
+        1.2833,
+        103.8441
+      ],
+      "desc": "Traditional shophouses, street heritage, wet market, temples",
+      "longDesc": "A living heritage district where traditional shophouses, temples, and bustling wet markets reveal Singapore's multicultural history and traditions."
+    },
+    {
+      "name": "Little India",
+      "coord": [
+        1.304,
+        103.857
+      ],
+      "desc": "Cultural enclave, colonial buildings, spice shops, temples",
+      "longDesc": "A vibrant cultural enclave bursting with colorful heritage buildings, fragrant spice shops, temples, and authentic Indian restaurants and traditions."
+    },
+    {
+      "name": "Kampong Glam",
+      "coord": [
+        1.3015,
+        103.858
+      ],
+      "desc": "Arab Quarter, Islamic heritage, Sultan Mosque, trendy cafes",
+      "longDesc": "Singapore's Arab and Islamic quarter featuring the ornate Sultan Mosque, heritage buildings, boutique shops, and a creative community renaissance."
+    },
+    {
+      "name": "Joo Chiat & Katong",
+      "coord": [
+        1.3092,
+        103.893
+      ],
+      "desc": "Heritage Peranakan neighborhood, colorful shophouses, cuisine",
+      "longDesc": "A charming neighborhood of colorful Peranakan shophouses preserving Singapore's heritage while welcoming trendy cafes and artisan discoveries."
+    },
+    {
+      "name": "Clarke Quay",
+      "coord": [
+        1.289,
+        103.851
+      ],
+      "desc": "Historic waterfront, riverside restaurants, nightlife, ambiance",
+      "longDesc": "A vibrant waterfront with restored shophouses, riverside dining, and evening energy—Singapore's living reminder of its merchant trading heritage."
+    },
+    {
+      "name": "Boat Quay",
+      "coord": [
+        1.2893,
+        103.8526
+      ],
+      "desc": "Historic shophouses, river views, restaurants, charming streets",
+      "longDesc": "Singapore's oldest riverbank district preserving pre-war shophouses, river views, and intimate restaurants along narrow heritage-filled lanes."
+    },
+    {
+      "name": "Raffles Hotel Singapore",
+      "coord": [
+        1.2902,
+        103.8549
+      ],
+      "desc": "Historic colonial landmark, afternoon tea, Singapore Sling",
+      "longDesc": "An iconic institution since 1887 where visitors experience colonial elegance, the legendary Singapore Sling, and timeless hospitality traditions."
+    },
+    {
+      "name": "Peranakan Museum",
+      "coord": [
+        1.2905,
+        103.8455
+      ],
+      "desc": "Peranakan culture, heritage artifacts, cultural storytelling",
+      "longDesc": "An intimate museum celebrating Peranakan heritage through intricately displayed artifacts, textiles, and narratives of this rich cultural heritage."
+    },
+    {
+      "name": "Asian Civilisations Museum",
+      "coord": [
+        1.2876,
+        103.8516
+      ],
+      "desc": "Asian art and history, multiple civilisations, riverside setting",
+      "longDesc": "Exploring civilizations across Asia through art, textiles, and historical artifacts in riverside elegance—a window into continental heritage and connections."
+    },
+    {
+      "name": "Singapore History Museum",
+      "coord": [
+        1.2868,
+        103.8455
+      ],
+      "desc": "Singapore's transformation, interactive stories, modern state",
+      "longDesc": "Chronicles Singapore's evolution from fishing village through colonial period to modern city-state via interactive exhibits and compelling historical narratives."
+    },
+    {
+      "name": "Sri Mariamman Temple",
+      "coord": [
+        1.2862,
+        103.8444
+      ],
+      "desc": "Historic Hindu temple, ornate gopuram, spiritual sanctuary",
+      "longDesc": "Singapore's oldest Hindu temple features an ornately carved gopuram, fragrant incense, and spiritual sanctity welcoming respectful visitors."
+    },
+    {
+      "name": "Thian Hock Keng Temple",
+      "coord": [
+        1.2889,
+        103.8505
+      ],
+      "desc": "Historic Chinese temple, intricate carvings, heritage landmark",
+      "longDesc": "One of Singapore's oldest Chinese temples showcasing intricate carvings and architecture, spiritually significant and architecturally magnificent."
+    },
+    {
+      "name": "Sultan Mosque",
+      "coord": [
+        1.3017,
+        103.8577
+      ],
+      "desc": "Grand Islamic architecture, golden dome, spiritual sanctuary",
+      "longDesc": "An architectural masterpiece with golden dome dominating Kampong Glam's skyline—a magnificent testament to Islamic art and community spirituality."
+    },
+    {
+      "name": "Orchard Road",
+      "coord": [
+        1.3048,
+        103.8318
+      ],
+      "desc": "Luxury shopping district, malls, restaurants, nightlife",
+      "longDesc": "Singapore's premier shopping destination stretches over a mile with world-class malls, fine dining, and designer boutiques amid tropical greenery."
+    },
+    {
+      "name": "Pulau Ubin",
+      "coord": [
+        1.4145,
+        103.963
+      ],
+      "desc": "Island getaway, nature trails, village character, kayaking",
+      "longDesc": "An island oasis near the main city preserving village character, mangrove ecosystems, and outdoor adventures—a rural escape within urban reach."
+    },
+    {
+      "name": "MacRitchie Reservoir",
+      "coord": [
+        1.338,
+        103.832
+      ],
+      "desc": "Nature reserve, forest trails, reservoir views, urban jungle",
+      "longDesc": "An urban nature sanctuary with forest canopy walks, trails, and pristine reservoir—a verdant escape proving Singapore's commitment to green living."
+    },
+    {
+      "name": "Singapore Flyer",
+      "coord": [
+        1.2837,
+        103.8625
+      ],
+      "desc": "Giant observation wheel, 165m height, 360-degree views",
+      "longDesc": "Southeast Asia's tallest observation wheel rotating 42 times daily offering unparalleled 360-degree views of Marina Bay and urban landscape."
+    },
+    {
+      "name": "Tiong Bahru Enclave",
+      "coord": [
+        1.28,
+        103.831
+      ],
+      "desc": "Heritage neighborhood, pre-war charm, boutique shops",
+      "longDesc": "A pre-war neighborhood preserving 1930s charm with art deco shophouses, quirky cafes, antique shops, and pockets of bohemian creative culture."
+    },
+    {
+      "name": "Bugis Street Market",
+      "coord": [
+        1.3011,
+        103.8565
+      ],
+      "desc": "Historic street market, fashion, trinkets, street food",
+      "longDesc": "A legendary street market buzzing with fashion vendors, street food stalls, and local character—a sensory adventure and tourist attraction."
+    },
+    {
+      "name": "Arab Street Bazaar",
+      "coord": [
+        1.2994,
+        103.857
+      ],
+      "desc": "Colorful bazaar, textiles, perfumes, spices, cultural heart",
+      "longDesc": "A fragrant, vibrant bazaar reflecting Arab merchant heritage with textiles, perfumes, and spices—the aromatic heart of Kampong Glam's cultural identity."
+    },
+    {
+      "name": "Dempsey Hill",
+      "coord": [
+        1.28,
+        103.798
+      ],
+      "desc": "Residential enclave, colonial buildings, boutique shops",
+      "longDesc": "A charming colonial-era residential district with thoughtfully restored buildings housing galleries, restaurants, and design boutiques—understated elegance."
+    },
+    {
+      "name": "Gillman Barracks",
+      "coord": [
+        1.275,
+        103.792
+      ],
+      "desc": "Former military barracks, art galleries, creative studios",
+      "longDesc": "A creative hub housed in converted military barracks featuring contemporary art galleries, artist studios, and innovative cultural programming."
+    },
+    {
+      "name": "Esplanade - Theatres on the Bay",
+      "coord": [
+        1.2875,
+        103.8565
+      ],
+      "desc": "Performing arts center, architecture icon, cultural programming",
+      "longDesc": "An architectural icon dubbed the 'Durian' for its distinctive shell design, hosting world-class performances and cultural programming year-round."
+    },
+    {
+      "name": "Victoria Concert Hall",
+      "coord": [
+        1.289,
+        103.8548
+      ],
+      "desc": "Historic concert venue, Singapore's oldest building, classical music",
+      "longDesc": "Singapore's oldest building and premier classical music venue, an architectural gem preserving colonial heritage while hosting contemporary performances."
+    },
+    {
+      "name": "Chinatown Heritage Centre",
+      "coord": [
+        1.2848,
+        103.8444
+      ],
+      "desc": "Museum in heritage shophouses, family history, traditions",
+      "longDesc": "An immersive museum within restored shophouses revealing Chinatown's history—cramped living quarters, family traditions, and immigrant heritage."
     }
   ],
   "kidFriendly": [
@@ -223,9 +1218,26 @@
         1.4043,
         103.7938
       ],
-      "city": "North Singapore",
-      "desc": "World-class zoo with diverse wildlife and interactive shows",
-      "longDesc": "One of the world's finest open-concept zoos, home to diverse wildlife and engaging shows that educate and entertain children of all ages."
+      "desc": "World-class zoo, open-concept habitats, interactive shows",
+      "longDesc": "One of the world's finest zoos with open-concept exhibits, daily shows, and nature-based learning—engaging and joyful for children of all ages."
+    },
+    {
+      "name": "Night Safari",
+      "coord": [
+        1.4048,
+        103.7862
+      ],
+      "desc": "Evening wildlife tram ride, nocturnal animals, unique adventure",
+      "longDesc": "A thrilling evening adventure aboard trams through darkened habitats—an extraordinary way for children to encounter nocturnal wildlife naturally."
+    },
+    {
+      "name": "River Safari",
+      "coord": [
+        1.4045,
+        103.7925
+      ],
+      "desc": "River-themed wildlife park, boat safari, giant pandas - kidFriendly",
+      "longDesc": "A water-based wildlife park with boat safaris, river habitats, and the beloved giant pandas—engaging and educational for curious young explorers."
     },
     {
       "name": "Universal Studios Singapore",
@@ -233,9 +1245,8 @@
         1.2556,
         103.824
       ],
-      "city": "Sentosa Island",
-      "desc": "Theme park with rides, shows, and attractions for families",
-      "longDesc": "A theme park packed with thrilling rides, live shows, and family attractions based on blockbuster films—pure entertainment for the whole family."
+      "desc": "Theme park with family-friendly rides, shows, attractions",
+      "longDesc": "A vibrant theme park celebrating movies with thrilling rides, live entertainment, and attractions engaging families across age ranges and interests."
     },
     {
       "name": "S.E.A. Aquarium",
@@ -243,9 +1254,8 @@
         1.2513,
         103.8197
       ],
-      "city": "Sentosa Island",
-      "desc": "One of world's largest aquariums with interactive touch pools",
-      "longDesc": "The world's largest aquarium by water volume, featuring interactive touch pools and mesmerizing marine life encounters that captivate young explorers."
+      "desc": "World's largest aquarium, touch pools, marine exploration",
+      "longDesc": "The world's largest aquarium with interactive touch pools and mesmerizing exhibits—a magical underwater journey captivating young and old alike."
     },
     {
       "name": "Sentosa Island Beaches",
@@ -253,21 +1263,154 @@
         1.2485,
         103.8295
       ],
-      "city": "Sentosa",
-      "desc": "Family-friendly beaches with water sports and activities",
-      "longDesc": "Family-friendly sandy shores with calm waters, water sports rentals, and nearby attractions creating the perfect tropical day-trip escape."
+      "desc": "Family beaches, water sports, activities, tropical escape",
+      "longDesc": "Three pristine beaches with calm waters, rental activities, and nearby family amenities creating the perfect tropical day-trip for family bonding."
+    },
+    {
+      "name": "ArtScience Museum",
+      "coord": [
+        1.2857,
+        103.8603
+      ],
+      "desc": "Interactive art-science exhibits, hands-on learning experiences",
+      "longDesc": "Imaginative interactive exhibits where children explore the intersection of art and science through playful, hands-on discovery and creative expression."
+    },
+    {
+      "name": "Gardens by the Bay",
+      "coord": [
+        1.2816,
+        103.8636
+      ],
+      "desc": "Supertrees, conservatories, nightly light shows, nature explore",
+      "longDesc": "A magical garden with towering Supertrees, family-friendly conservatories, and nightly light shows—a feast for young imaginations and senses."
+    },
+    {
+      "name": "Singapore Botanic Gardens",
+      "coord": [
+        1.3145,
+        103.8161
+      ],
+      "desc": "UNESCO gardens, open spaces, playgrounds, peaceful walks",
+      "longDesc": "A serene 160-acre sanctuary with open lawns, playground areas, and gentle paths—ideal for family picnics and nature-based relaxation and exploration."
+    },
+    {
+      "name": "Singapore Flyer",
+      "coord": [
+        1.2837,
+        103.8625
+      ],
+      "desc": "Giant observation wheel, slow-rotating pods, panoramic views",
+      "longDesc": "Southeast Asia's tallest observation wheel with slow-rotating glass pods providing breathtaking views—exciting yet safe for children of all ages."
+    },
+    {
+      "name": "KidsSTOP at Science Centre Singapore",
+      "coord": [
+        1.2798,
+        103.8137
+      ],
+      "desc": "Interactive science museum, hands-on learning, STEM exploration",
+      "longDesc": "A dedicated children's space within Science Centre featuring interactive STEM exhibits that make learning physics, biology, and innovation joyful and tangible."
+    },
+    {
+      "name": "Kidzania Singapore",
+      "coord": [
+        1.2556,
+        103.824
+      ],
+      "desc": "Indoor edutainment park, role-play activities, career exploration",
+      "longDesc": "An indoor city where children aged 4-16 explore careers through immersive role-play—police officer, chef, architect—making learning through play engaging."
+    },
+    {
+      "name": "Legoland Discovery Centre",
+      "coord": [
+        1.2556,
+        103.824
+      ],
+      "desc": "Indoor LEGO attraction, rides, building experiences, creative",
+      "longDesc": "A colorful indoor LEGO wonderland with rides, building stations, and 4D cinema—engaging the builder in every child through hands-on brick creativity."
+    },
+    {
+      "name": "Adventure Cove Waterpark",
+      "coord": [
+        1.253,
+        103.825
+      ],
+      "desc": "Waterpark with slides, lazy river, splash areas, family fun",
+      "longDesc": "A Sentosa waterpark with thrilling slides, gentle lazy river, and splash areas—perfect for cooling off while enjoying tropical water adventures."
+    },
+    {
+      "name": "Marina Bay Sands SkyPark",
+      "coord": [
+        1.2841,
+        103.8602
+      ],
+      "desc": "Observation deck, 57-floor views, exciting perspective",
+      "longDesc": "An exhilarating high-altitude experience where children marvel at 360-degree views of Singapore from Asia's highest vantage point."
+    },
+    {
+      "name": "Botany Park Singapore",
+      "coord": [
+        1.3145,
+        103.8161
+      ],
+      "desc": "Botanical gardens, nature trails, outdoor learning spaces",
+      "longDesc": "Sprawling botanical sanctuary with accessible trails, garden areas, and outdoor learning opportunities—nature education in a UNESCO-heritage setting."
+    },
+    {
+      "name": "Cooking classes for kids",
+      "coord": [
+        1.285,
+        103.85
+      ],
+      "desc": "Hands-on culinary experiences, learn to cook Peranakan",
+      "longDesc": "Interactive cooking classes where children learn traditional Singapore dishes—hands-on food education combining cultural learning with delicious outcomes."
+    },
+    {
+      "name": "Singapore History Museum",
+      "coord": [
+        1.2868,
+        103.8455
+      ],
+      "desc": "Interactive history exhibits, engaging storytelling, time travel",
+      "longDesc": "Interactive exhibits transform Singapore's history into engaging narratives—perfect for curious children to understand the city's remarkable transformation."
+    },
+    {
+      "name": "National Museum Singapore",
+      "coord": [
+        1.2908,
+        103.8447
+      ],
+      "desc": "Cultural exhibits, interactive activities, hands-on learning",
+      "longDesc": "Engaging interactive exhibits introducing children to Singapore's multicultural heritage through objects, stories, and hands-on discovery activities."
+    },
+    {
+      "name": "Pulau Ubin Cycling",
+      "coord": [
+        1.4145,
+        103.963
+      ],
+      "desc": "Island cycling, forest paths, village exploration, outdoor",
+      "longDesc": "Family-friendly cycling adventure on quiet island paths, exploring village character and mangrove ecosystems—outdoor education and bonding time."
     }
   ],
   "markets": [
     {
-      "name": "Chinatown Heritage Centre",
+      "name": "Maxwell Food Centre",
+      "coord": [
+        1.284,
+        103.8435
+      ],
+      "desc": "Legendary hawker center, multiple cuisines, institution",
+      "longDesc": "One of Singapore's most famous hawker centers—a multi-stall pilgrimage site where generations have queued for icon dishes like Tian Tian chicken rice."
+    },
+    {
+      "name": "Chinatown Heritage Centre Market",
       "coord": [
         1.2848,
         103.8444
       ],
-      "city": "Chinatown",
-      "desc": "Traditional shophouses, wet market, and cultural heritage",
-      "longDesc": "A living museum of shophouses, bustling wet markets, and cultural heritage where families can taste, touch, and experience authentic Chinatown life."
+      "desc": "Wet market in shophouse heritage, cultural experience, authentic",
+      "longDesc": "A living museum where traditional wet market hustle happens within heritage shophouses—authentic sensory immersion in Chinatown's merchant past."
     },
     {
       "name": "Tekka Centre Market",
@@ -275,9 +1418,17 @@
         1.3017,
         103.8567
       ],
-      "city": "Little India",
-      "desc": "Bustling multi-level wet market in Little India",
-      "longDesc": "This vibrant multi-level wet market in Little India overwhelms the senses with exotic spices, fresh produce, and the rhythmic energy of local commerce."
+      "desc": "Multi-level wet market, Indian vegetables, spice vendors",
+      "longDesc": "A vibrant multi-level market overwhelming the senses with exotic spices, fresh vegetables, and the rhythmic energy of Singapore's Indian commerce."
+    },
+    {
+      "name": "Tiong Bahru Market",
+      "coord": [
+        1.2788,
+        103.8315
+      ],
+      "desc": "Historic wet market, pre-war charm, hawker stalls",
+      "longDesc": "A charming pre-war market preserving old-world Singapore character with working wet market vendors and scattered legendary hawker stalls."
     },
     {
       "name": "Bugis Street Market",
@@ -285,9 +1436,8 @@
         1.3011,
         103.8565
       ],
-      "city": "Bugis",
-      "desc": "Vibrant street market with clothing, trinkets, and street food",
-      "longDesc": "A beloved street market bursting with street food stalls, trendy clothing, and handmade trinkets—a sensory adventure and local favorite."
+      "desc": "Historic street market, fashion, trinkets, street food, vibrant",
+      "longDesc": "A legendary street market buzzing with fashion vendors, local trinkets, and street food stalls—sensory adventure and authentic cultural exploration."
     },
     {
       "name": "Arab Street Bazaar",
@@ -295,223 +1445,2871 @@
         1.2994,
         103.857
       ],
-      "city": "Arab Quarter",
-      "desc": "Colorful bazaar with textiles, fragrances, and spices",
-      "longDesc": "Colorful, fragrant bazaar filled with exotic textiles, perfumes, and spices, reflecting the rich culture and trade heritage of Singapore's Arab Quarter."
+      "desc": "Colorful bazaar, textiles, perfumes, spices, heritage",
+      "longDesc": "A fragrant, vibrant bazaar reflecting Arab merchant heritage with exotic textiles, perfumes, spices—the aromatic heart of Kampong Glam."
+    },
+    {
+      "name": "Hong Kong Street Wet Market",
+      "coord": [
+        1.2835,
+        103.845
+      ],
+      "desc": "Traditional wet market, fresh produce, fish, local vendors",
+      "longDesc": "An authentic wet market where locals shop daily for produce, fresh fish, and meat—unfiltered market energy and real neighborhood commerce."
+    },
+    {
+      "name": "Serangoon Road Market",
+      "coord": [
+        1.305,
+        103.859
+      ],
+      "desc": "Indian spice market, vegetable vendors, Little India energy",
+      "longDesc": "A fragrant spice and vegetable market in Little India's heart—where aromas of cumin, coriander, and turmeric create an intoxicating sensory experience."
+    },
+    {
+      "name": "Jalan Besar Fruit & Vegetable Market",
+      "coord": [
+        1.3075,
+        103.8555
+      ],
+      "desc": "Fresh produce market, tropical fruits, local farmers",
+      "longDesc": "A neighborhood fruit and vegetable market showcasing tropical produce and seasonal local crops—morning visits reveal neighborhood food culture."
+    },
+    {
+      "name": "Whampoa Market",
+      "coord": [
+        1.316,
+        103.843
+      ],
+      "desc": "Community wet market, fresh seafood, local favorite",
+      "longDesc": "A neighborhood institution where locals gather for fresh seafood and produce—authentic market energy without tourist overlay."
+    },
+    {
+      "name": "Pasir Ris Market",
+      "coord": [
+        1.3805,
+        103.875
+      ],
+      "desc": "Suburban wet market, neighborhood gathering place",
+      "longDesc": "A local suburban market reflecting authentic neighborhood commerce—where families shop daily for fresh ingredients and market gossip."
+    },
+    {
+      "name": "Chong Pang Market",
+      "coord": [
+        1.364,
+        103.821
+      ],
+      "desc": "Traditional wet market, morning fresh produce, local vendors",
+      "longDesc": "An early-morning market bustling with vendors and locals seeking the day's freshest produce—authentic neighborhood grocery experience."
+    },
+    {
+      "name": "Far East Plaza Hawker Centre",
+      "coord": [
+        1.304,
+        103.831
+      ],
+      "desc": "Modern hawker center, food court, diverse cuisines",
+      "longDesc": "A contemporary food court within a shopping complex offering diverse hawker cuisines—modern, air-conditioned hawker experience near Orchard."
+    },
+    {
+      "name": "Clementi Market Hawkers",
+      "coord": [
+        1.32,
+        103.768
+      ],
+      "desc": "Neighborhood hawker center, local favorite, casual dining",
+      "longDesc": "A local hawker center where neighborhood families gather for authentic casual dining—no tourist markup, just genuine local food culture."
+    },
+    {
+      "name": "Laksa and Kueh Stalls",
+      "coord": [
+        1.3092,
+        103.893
+      ],
+      "desc": "Katong hawker stalls, iconic laksa, local specialties",
+      "longDesc": "Legendary stalls in Katong area famous for spiced laksa, kueh (desserts), and Peranakan specialties—neighborhood food legacy preserved."
     }
   ],
   "cityCenters": {
-    "Singapore": [
-      1.3521,
-      103.8198,
-      0.03
-    ],
     "Marina Bay": [
       1.2814,
       103.8636,
-      0.01
-    ],
-    "Orchard": [
-      1.3048,
-      103.8318,
-      0.01
+      0.02
     ],
     "Chinatown": [
       1.2833,
       103.8441,
+      0.015
+    ],
+    "Orchard": [
+      1.3048,
+      103.8318,
+      0.015
+    ],
+    "Little India": [
+      1.304,
+      103.857,
+      0.012
+    ],
+    "Kampong Glam": [
+      1.3015,
+      103.858,
+      0.012
+    ],
+    "Clarke Quay": [
+      1.289,
+      103.851,
+      0.008
+    ],
+    "Sentosa Island": [
+      1.251,
+      103.824,
+      0.025
+    ],
+    "Singapore Zoo Area": [
+      1.4043,
+      103.7938,
+      0.015
+    ],
+    "Joo Chiat": [
+      1.3092,
+      103.893,
+      0.012
+    ],
+    "Tiong Bahru": [
+      1.2788,
+      103.8315,
       0.01
+    ],
+    "Dempsey Hill": [
+      1.28,
+      103.798,
+      0.008
     ]
   },
   "itineraryData": {
     "a": {
-      "name": "Singapore Greatest Hits",
-      "duration": 4,
+      "name": "Greatest Hits (7 days)",
       "color": "#2563EB",
       "days": [
         {
           "day": 1,
-          "title": "Marina Bay Arrival",
-          "activities": [
-            "Arrival at Singapore, check into The Fullerton Hotel",
-            "Walk the Singapore waterfront",
-            "Visit Gardens by the Bay at dusk to see Supertrees",
-            "Dinner with views at Marina Bay restaurant"
-          ],
-          "locations": [
-            [
-              1.2841,
-              103.8602
-            ],
-            [
-              1.2816,
-              103.8636
-            ]
+          "title": "Marina Bay Arrival & Icons",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Marina Bay Sands",
+              "coord": [
+                1.2841,
+                103.8602
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Food Opera",
+              "coord": [
+                1.304,
+                103.832
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Merlion Park",
+              "coord": [
+                1.2866,
+                103.8557
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marina Bay Sands SkyPark",
+              "coord": [
+                1.2841,
+                103.8602
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gardens by the Bay",
+              "coord": [
+                1.2816,
+                103.8636
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Empress",
+              "coord": [
+                1.2876,
+                103.8516
+              ]
+            }
           ]
         },
         {
           "day": 2,
-          "title": "Culture and Heritage",
-          "activities": [
-            "Morning at National Museum Singapore",
-            "Explore Chinatown and historic shophouses",
-            "Lunch at a heritage restaurant in Chinatown",
-            "Visit Chinese temples and heritage centre",
-            "Dinner at Hawker Chan for iconic meal"
-          ],
-          "locations": [
-            [
-              1.2908,
-              103.8447
-            ],
-            [
-              1.2848,
-              103.8444
-            ],
-            [
-              1.283,
-              103.8453
-            ]
+          "title": "Heritage & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Maxwell Food Centre",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Museum Singapore",
+              "coord": [
+                1.2908,
+                103.8447
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hawker Chan",
+              "coord": [
+                1.283,
+                103.8453
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown Heritage",
+              "coord": [
+                1.2833,
+                103.8441
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thian Hock Keng Temple",
+              "coord": [
+                1.2889,
+                103.8505
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Burnt Ends",
+              "coord": [
+                1.2815,
+                103.8437
+              ]
+            }
           ]
         },
         {
           "day": 3,
-          "title": "Fine Dining and Modern Singapore",
-          "activities": [
-            "Morning at ArtScience Museum",
-            "Lunch at modern fine dining (Burnt Ends or Labyrinth)",
-            "Afternoon at Singapore Botanic Gardens",
-            "Evening cocktails at Smoke & Mirrors rooftop bar",
-            "Dinner experience at a Michelin-starred restaurant"
-          ],
-          "locations": [
-            [
-              1.2857,
-              103.8603
-            ],
-            [
-              1.2815,
-              103.8437
-            ],
-            [
-              1.3145,
-              103.8161
-            ],
-            [
-              1.2908,
-              103.8519
-            ]
+          "title": "Art & Fine Dining",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chateraise Patisserie",
+              "coord": [
+                1.305,
+                103.831
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Gallery Singapore",
+              "coord": [
+                1.2908,
+                103.8505
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Labyrinth",
+              "coord": [
+                1.2818,
+                103.8468
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "ArtScience Museum",
+              "coord": [
+                1.2857,
+                103.8603
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Smoke & Mirrors rooftop cocktails",
+              "coord": [
+                1.2908,
+                103.8519
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Odette",
+              "coord": [
+                1.2908,
+                103.8505
+              ]
+            }
           ]
         },
         {
           "day": 4,
-          "title": "Local Experiences and Shopping",
-          "activities": [
-            "Breakfast at Food Opera with city views",
-            "Shopping in Orchard district",
-            "Lunch at Mitzo Restaurant in Orchard area",
-            "Visit local markets (Bugis or Arab Street)",
-            "Final dinner and exploration of Singapore's neighborhoods"
-          ],
-          "locations": [
-            [
-              1.304,
-              103.832
-            ],
-            [
-              1.305,
-              103.831
-            ],
-            [
-              1.3011,
-              103.8565
-            ]
+          "title": "Neighborhoods & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Forty Hands Coffee",
+              "coord": [
+                1.282,
+                103.8405
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tiong Bahru Enclave",
+              "coord": [
+                1.28,
+                103.831
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tiong Bahru Market hawkers",
+              "coord": [
+                1.2788,
+                103.8315
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Little India",
+              "coord": [
+                1.304,
+                103.857
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tekka Centre Market",
+              "coord": [
+                1.3017,
+                103.8567
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Banana Leaf Apolo",
+              "coord": [
+                1.3045,
+                103.859
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Kampong Glam & Arab Quarter",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Springleaf Prata House",
+              "coord": [
+                1.3028,
+                103.8575
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sultan Mosque",
+              "coord": [
+                1.3017,
+                103.8577
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kampong Glam Heritage",
+              "coord": [
+                1.3015,
+                103.858
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Arab Street Bazaar stalls",
+              "coord": [
+                1.2994,
+                103.857
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bugis Street Market",
+              "coord": [
+                1.3011,
+                103.8565
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "LongPlay - LP Bar vinyl cocktails",
+              "coord": [
+                1.3059,
+                103.8594
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Gardens & Botanic Luxury",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Singapore Botanic Gardens cafe",
+              "coord": [
+                1.3145,
+                103.8161
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Singapore Botanic Gardens",
+              "coord": [
+                1.3145,
+                103.8161
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Xiperience at Shangri-La",
+              "coord": [
+                1.3138,
+                103.8208
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dempsey Hill galleries",
+              "coord": [
+                1.28,
+                103.798
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Shopping on Orchard Road",
+              "coord": [
+                1.3048,
+                103.8318
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Les Amis French fine dining",
+              "coord": [
+                1.3062,
+                103.8318
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Sentosa Finale & Relaxation",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Sentosa beachfront cafe",
+              "coord": [
+                1.2485,
+                103.8295
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "S.E.A. Aquarium",
+              "coord": [
+                1.2513,
+                103.8197
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sentosa restaurant",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sentosa Beaches",
+              "coord": [
+                1.2485,
+                103.8295
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Universal Studios or relaxation",
+              "coord": [
+                1.2556,
+                103.824
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Raffles Hotel Singapore Sling",
+              "coord": [
+                1.2902,
+                103.8549
+              ]
+            }
           ]
         }
       ]
     },
     "b": {
-      "name": "Hawker & Hidden Gems",
-      "duration": 3,
+      "name": "Hawker & Hidden Gems (7 days)",
       "color": "#059669",
       "days": [
         {
           "day": 1,
-          "title": "Hawker Discovery",
-          "activities": [
-            "Arrival in Singapore, settle into hotel",
-            "Lunch at iconic Hawker Chan for world's cheapest Michelin star",
-            "Explore Chinatown streets and heritage buildings",
-            "Dinner tour of hidden hawker stalls in different neighborhoods"
-          ],
-          "locations": [
-            [
-              1.283,
-              103.8453
-            ],
-            [
-              1.2848,
-              103.8444
-            ]
+          "title": "Hawker Discovery Deep-Dive",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Six Senses Maxwell",
+              "coord": [
+                1.2827,
+                103.8469
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Tian Tian Hainanese Chicken",
+              "coord": [
+                1.295,
+                103.847
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Maxwell Food Centre exploration",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hill Street Tai Hwa Pork Noodle",
+              "coord": [
+                1.296,
+                103.8465
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown heritage streets",
+              "coord": [
+                1.2833,
+                103.8441
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hawker Chan soy sauce chicken",
+              "coord": [
+                1.283,
+                103.8453
+              ]
+            }
           ]
         },
         {
           "day": 2,
-          "title": "Hidden Gems & Local Culture",
-          "activities": [
-            "Breakfast at local hawker center",
-            "Visit Tekka Centre Market in Little India",
-            "Lunch at local Peranakan spot (Candlenut or National Kitchen)",
-            "Explore Arab Quarter and Bugis Street",
-            "Discover local bars and wine bistros (Napoleon Wine Bistro)",
-            "Casual dinner at neighborhood restaurant"
-          ],
-          "locations": [
-            [
-              1.3017,
-              103.8567
-            ],
-            [
-              1.2812,
-              103.797
-            ],
-            [
-              1.2994,
-              103.857
-            ],
-            [
-              1.3011,
-              103.8565
-            ],
-            [
-              1.2812,
-              103.8508
-            ]
+          "title": "Hidden Gems & Local Neighborhoods",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Tiong Bahru market hawkers",
+              "coord": [
+                1.2788,
+                103.8315
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tiong Bahru Enclave boutiques",
+              "coord": [
+                1.28,
+                103.831
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sheng Sheng Beehoon",
+              "coord": [
+                1.2788,
+                103.8315
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Joo Chiat Peranakan shophouses",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Katong coastal charm",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Katong Laksa legendary broth",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            }
           ]
         },
         {
           "day": 3,
-          "title": "Markets and Final Gems",
-          "activities": [
-            "Morning market exploration (Arab Street or Chinatown)",
-            "Lunch at hidden local restaurant",
-            "Afternoon visit to Singapore Botanic Gardens",
-            "Late afternoon at a local food court (Food Opera)",
-            "Farewell dinner at a neighborhood gem restaurant",
-            "Final exploration of Singapore's street life"
-          ],
-          "locations": [
-            [
-              1.2994,
-              103.857
-            ],
-            [
-              1.3145,
-              103.8161
-            ],
-            [
-              1.304,
-              103.832
-            ]
+          "title": "Peranakan Heritage & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Dragon Well Tea House",
+              "coord": [
+                1.285,
+                103.848
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Peranakan Museum",
+              "coord": [
+                1.2905,
+                103.8455
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "National Kitchen by Violet Oon",
+              "coord": [
+                1.2873,
+                103.8512
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown Heritage Centre",
+              "coord": [
+                1.2848,
+                103.8444
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Clarke Quay riverside",
+              "coord": [
+                1.289,
+                103.851
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Candlenut Peranakan refined",
+              "coord": [
+                1.2812,
+                103.797
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Little India Deep-Dive",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Springleaf Prata House",
+              "coord": [
+                1.3028,
+                103.8575
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tekka Centre multi-level market",
+              "coord": [
+                1.3017,
+                103.8567
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Banana Leaf Apolo",
+              "coord": [
+                1.3045,
+                103.859
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Little India heritage temples",
+              "coord": [
+                1.304,
+                103.857
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sri Mariamman Temple",
+              "coord": [
+                1.2862,
+                103.8444
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Palais Taj North Indian fine dining",
+              "coord": [
+                1.303,
+                103.8575
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Kampong Glam & Creative Quarter",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Nylon Coffee Roasters",
+              "coord": [
+                1.2835,
+                103.8425
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Arab Street Bazaar fragrant exploration",
+              "coord": [
+                1.2994,
+                103.857
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kampong Glam cafe",
+              "coord": [
+                1.3015,
+                103.858
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sultan Mosque and quarter heritage",
+              "coord": [
+                1.3017,
+                103.8577
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bugis Street Market treasure hunt",
+              "coord": [
+                1.3011,
+                103.8565
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "LongPlay vinyl bar cocktails",
+              "coord": [
+                1.3059,
+                103.8594
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Coffee Culture & Dempsey Creative",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Common Man Coffee Roasters",
+              "coord": [
+                1.2818,
+                103.848
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dempsey Hill galleries and studios",
+              "coord": [
+                1.28,
+                103.798
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Artichoke Restaurant Mediterranean",
+              "coord": [
+                1.282,
+                103.851
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gillman Barracks creative hub",
+              "coord": [
+                1.275,
+                103.792
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Boat Quay riverside exploration",
+              "coord": [
+                1.2893,
+                103.8526
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Jigger & Pony craft cocktails",
+              "coord": [
+                1.282,
+                103.848
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Local Favorites & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Oriole Coffee single-origin",
+              "coord": [
+                1.2808,
+                103.849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Raffles Hotel Singapore lobby nostalgia",
+              "coord": [
+                1.2902,
+                103.8549
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tim Ho Wan Michelin dim sum",
+              "coord": [
+                1.294,
+                103.846
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Last-minute market explorations",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Specialty shopping for gifts",
+              "coord": [
+                1.3048,
+                103.8318
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Nouri innovative Singapore fusion",
+              "coord": [
+                1.2852,
+                103.8513
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort (10 days)",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival & Marina Bay Icons",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Pan Pacific Singapore",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Merlion Park",
+              "coord": [
+                1.2866,
+                103.8557
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Food Opera",
+              "coord": [
+                1.304,
+                103.832
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gardens by the Bay",
+              "coord": [
+                1.2816,
+                103.8636
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family-friendly Marina Bay restaurant",
+              "coord": [
+                1.2876,
+                103.8516
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Botanic Gardens & Orchard Luxury",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Singapore Botanic Gardens",
+              "coord": [
+                1.3145,
+                103.8161
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Botanic Gardens cafe picnic",
+              "coord": [
+                1.3145,
+                103.8161
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Light Orchard Road shopping",
+              "coord": [
+                1.3048,
+                103.8318
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest and refresh",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mitzo Cantonese family-friendly",
+              "coord": [
+                1.305,
+                103.831
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "ArtScience Museum & Sentosa Start",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "ArtScience Museum",
+              "coord": [
+                1.2857,
+                103.8603
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Marina Bay restaurant",
+              "coord": [
+                1.2857,
+                103.8603
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Singapore Flyer observation",
+              "coord": [
+                1.2837,
+                103.8625
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Sentosa hotel check-in rest",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sentosa beachfront casual",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Sentosa Family Fun Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Sentosa hotel breakfast",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "S.E.A. Aquarium",
+              "coord": [
+                1.2513,
+                103.8197
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Aquarium dining",
+              "coord": [
+                1.2513,
+                103.8197
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sentosa Beaches swimming",
+              "coord": [
+                1.2485,
+                103.8295
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Long beach rest",
+              "coord": [
+                1.2485,
+                103.8295
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sentosa family restaurant",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Universal Studios or Beach Relax",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Sentosa hotel breakfast",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Universal Studios Singapore or optional beach",
+              "coord": [
+                1.2556,
+                103.824
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Universal dining or beach cafe",
+              "coord": [
+                1.2556,
+                103.824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Adventure Cove Waterpark optional",
+              "coord": [
+                1.253,
+                103.825
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sentosa resort dinner",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Back to City - Singapore Zoo",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Sentosa breakfast then departure",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Singapore Zoo full day",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Zoo dining area",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Zoo shows and interactions",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest downtown",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family-friendly downtown",
+              "coord": [
+                1.289,
+                103.851
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Chinatown Heritage at Pace",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Maxwell Food Centre",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown Heritage Centre",
+              "coord": [
+                1.2848,
+                103.8444
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hawker stalls",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Light Chinatown exploration",
+              "coord": [
+                1.2833,
+                103.8441
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel afternoon rest",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casual Clarke Quay",
+              "coord": [
+                1.289,
+                103.851
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Little India & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Springleaf Prata",
+              "coord": [
+                1.3028,
+                103.8575
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tekka Centre market",
+              "coord": [
+                1.3017,
+                103.8567
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Little India casual",
+              "coord": [
+                1.304,
+                103.857
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sri Mariamman Temple visit",
+              "coord": [
+                1.2862,
+                103.8444
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Banana Leaf Indian family",
+              "coord": [
+                1.3045,
+                103.859
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Kampong Glam & Arab Quarter",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Neighborhood cafe",
+              "coord": [
+                1.3015,
+                103.858
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sultan Mosque visit",
+              "coord": [
+                1.3017,
+                103.8577
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Arab Street Bazaar browsing",
+              "coord": [
+                1.2994,
+                103.857
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kampong Glam cafe",
+              "coord": [
+                1.3015,
+                103.858
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bugis Street light shopping",
+              "coord": [
+                1.3011,
+                103.8565
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family-friendly downtown",
+              "coord": [
+                1.289,
+                103.851
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Relaxation & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast leisurely",
+              "coord": [
+                1.2888,
+                103.8619
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Optional final shopping",
+              "coord": [
+                1.3048,
+                103.8318
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Favorite spot revisit",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Botanic Gardens final walk",
+              "coord": [
+                1.3145,
+                103.8161
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last-minute market browse",
+              "coord": [
+                1.2994,
+                103.857
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Farewell casual or fine dining",
+              "coord": [
+                1.2876,
+                103.8516
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Foodie Deep-Dive (10 days)",
+      "color": "#DC2626",
+      "days": [
+        {
+          "day": 1,
+          "title": "Michelin Introduction & Hawker Legends",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Six Senses Maxwell",
+              "coord": [
+                1.2827,
+                103.8469
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Tian Tian Hainanese Chicken legendary",
+              "coord": [
+                1.295,
+                103.847
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hill Street Tai Hwa Pork Noodle Michelin",
+              "coord": [
+                1.296,
+                103.8465
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Maxwell Food Centre deep exploration",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown hawker street wandering",
+              "coord": [
+                1.2833,
+                103.8441
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Burnt Ends Michelin barbecue",
+              "coord": [
+                1.2815,
+                103.8437
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Michelin Circuit Part 1",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hawker Chan world's cheapest Michelin",
+              "coord": [
+                1.283,
+                103.8453
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown heritage market exploration",
+              "coord": [
+                1.2848,
+                103.8444
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Labyrinth playful modern Singaporean",
+              "coord": [
+                1.2818,
+                103.8468
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tea culture at Dragon Well",
+              "coord": [
+                1.285,
+                103.848
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Rooftop cocktail research at Smoke & Mirrors",
+              "coord": [
+                1.2908,
+                103.8519
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Nouri innovative heritage reimagined",
+              "coord": [
+                1.2852,
+                103.8513
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Peranakan & Asian Culinary Heritage",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Springleaf Prata artisanal",
+              "coord": [
+                1.3028,
+                103.8575
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tekka Centre spice and ingredient market",
+              "coord": [
+                1.3017,
+                103.8567
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "National Kitchen Peranakan Violet Oon",
+              "coord": [
+                1.2873,
+                103.8512
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Peranakan Museum cultural deep-dive",
+              "coord": [
+                1.2905,
+                103.8455
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Little India spice research",
+              "coord": [
+                1.304,
+                103.857
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Candlenut Michelin refined Peranakan",
+              "coord": [
+                1.2812,
+                103.797
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Japanese Precision & Ramen Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Forty Hands Coffee specialty",
+              "coord": [
+                1.282,
+                103.8405
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tsurumi Ramen tonkotsu mastery",
+              "coord": [
+                1.2935,
+                103.8575
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ramen Yokocho alley exploration",
+              "coord": [
+                1.293,
+                103.857
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Japanese patisserie research Chateraise",
+              "coord": [
+                1.305,
+                103.831
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Shinji sushi omakase research",
+              "coord": [
+                1.3058,
+                103.8325
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Zen Michelin Japanese kappo sushi",
+              "coord": [
+                1.2923,
+                103.8572
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Hawker Circuit Continuation & Hidden Gems",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Tiong Bahru market early hawker",
+              "coord": [
+                1.2788,
+                103.8315
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tiong Bahru Enclave hidden restaurants",
+              "coord": [
+                1.28,
+                103.831
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sheng Sheng Beehoon silky noodles",
+              "coord": [
+                1.2788,
+                103.8315
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Joo Chiat Peranakan area exploration",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Katong laksa institution research",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Katong Laksa legendary Peranakan broth",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Michelin Circuit Part 2 & Fine Wine",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Oriole Coffee single-origin mastery",
+              "coord": [
+                1.2808,
+                103.849
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Artichoke Mediterranean seasonal",
+              "coord": [
+                1.282,
+                103.851
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Boat Quay dining exploration",
+              "coord": [
+                1.2893,
+                103.8526
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Napoleon Wine Bistro wine education",
+              "coord": [
+                1.2812,
+                103.8508
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Caveau Bar wine research",
+              "coord": [
+                1.2853,
+                103.8528
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Born Michelin Japanese kappo mastery",
+              "coord": [
+                1.2848,
+                103.852
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Indian Culinary Deep-Dive",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Banana Leaf Apolo spice morning",
+              "coord": [
+                1.3045,
+                103.859
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sri Krishnan vegetarian temple cuisine",
+              "coord": [
+                1.3015,
+                103.858
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Little India restaurant hopscotch",
+              "coord": [
+                1.304,
+                103.857
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Little India Sri Mariamman Temple",
+              "coord": [
+                1.2862,
+                103.8444
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Serangoon Road spice market",
+              "coord": [
+                1.305,
+                103.859
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Palais Taj North Indian refined",
+              "coord": [
+                1.303,
+                103.8575
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Dim Sum & Chinese Culinary Mastery",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Yum Cha dim sum carts",
+              "coord": [
+                1.2825,
+                103.8435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown tea house culture",
+              "coord": [
+                1.285,
+                103.848
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Din Tai Fung xiaolongbao perfect dumplings",
+              "coord": [
+                1.3058,
+                103.8325
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Empress Modern Chinese cuisine dive",
+              "coord": [
+                1.2876,
+                103.8516
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jumbo Seafood chili crab research",
+              "coord": [
+                1.2821,
+                103.8507
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Tim Ho Wan Michelin dim sum mastery",
+              "coord": [
+                1.294,
+                103.846
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Cocktail Culture & Fine Dining Finale",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chateraise pastry & coffee",
+              "coord": [
+                1.305,
+                103.831
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Restaurant Pontianac Peranakan casual",
+              "coord": [
+                1.301,
+                103.8545
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Gallery museum break",
+              "coord": [
+                1.2908,
+                103.8505
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jigger & Pony cocktail mastery",
+              "coord": [
+                1.282,
+                103.848
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Druggists apothecary bar",
+              "coord": [
+                1.284,
+                103.8445
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Odette 3 Michelin stars pinnacle",
+              "coord": [
+                1.2908,
+                103.8505
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Markets, Departure & Cooking Class",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Favorite hawker center revisit",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Arab Street Bazaar final market browse",
+              "coord": [
+                1.2994,
+                103.857
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hidden gem hawker stall last bites",
+              "coord": [
+                1.3017,
+                103.8567
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Cooking class Singapore cuisine optional",
+              "coord": [
+                1.285,
+                103.85
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Gift shopping spice markets",
+              "coord": [
+                1.304,
+                103.857
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Les Amis French fine dining farewell",
+              "coord": [
+                1.3062,
+                103.8318
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour (14 days)",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "Marina Bay Arrival & Icons",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Marina Bay Sands",
+              "coord": [
+                1.2841,
+                103.8602
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                1.2841,
+                103.8602
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Merlion Park",
+              "coord": [
+                1.2866,
+                103.8557
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Food Opera",
+              "coord": [
+                1.304,
+                103.832
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marina Bay Sands SkyPark observation",
+              "coord": [
+                1.2841,
+                103.8602
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gardens by the Bay evening",
+              "coord": [
+                1.2816,
+                103.8636
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Empress Asian Civilisations",
+              "coord": [
+                1.2876,
+                103.8516
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "National Museum & Chinatown Heritage",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Maxwell Food Centre",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Museum Singapore",
+              "coord": [
+                1.2908,
+                103.8447
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hawker Chan Michelin",
+              "coord": [
+                1.283,
+                103.8453
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chinatown Heritage Centre",
+              "coord": [
+                1.2848,
+                103.8444
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Thian Hock Keng Temple",
+              "coord": [
+                1.2889,
+                103.8505
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Clarke Quay riverside walk",
+              "coord": [
+                1.289,
+                103.851
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Burnt Ends Michelin",
+              "coord": [
+                1.2815,
+                103.8437
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "National Gallery & Art District",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Nylon Coffee Roasters",
+              "coord": [
+                1.2835,
+                103.8425
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Gallery Singapore full visit",
+              "coord": [
+                1.2908,
+                103.8505
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Labyrinth modern Singaporean",
+              "coord": [
+                1.2818,
+                103.8468
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "ArtScience Museum",
+              "coord": [
+                1.2857,
+                103.8603
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Singapore Flyer observation",
+              "coord": [
+                1.2837,
+                103.8625
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Smoke & Mirrors rooftop cocktails",
+              "coord": [
+                1.2908,
+                103.8519
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Odette 3 Michelin stars",
+              "coord": [
+                1.2908,
+                103.8505
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Singapore Botanic Gardens & Orchard Luxury",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chateraise Patisserie",
+              "coord": [
+                1.305,
+                103.831
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Singapore Botanic Gardens full day",
+              "coord": [
+                1.3145,
+                103.8161
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Botanic Gardens cafe picnic",
+              "coord": [
+                1.3145,
+                103.8161
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Orchard Road shopping",
+              "coord": [
+                1.3048,
+                103.8318
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dempsey Hill galleries and studios",
+              "coord": [
+                1.28,
+                103.798
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Les Amis French Michelin",
+              "coord": [
+                1.3062,
+                103.8318
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Singapore Zoo & Night Safari",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Transfer to Zoo area hotel",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast early",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Singapore Zoo full morning",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Zoo dining area",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Zoo afternoon shows",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest before night",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Night Safari tram experience",
+              "coord": [
+                1.4048,
+                103.7862
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "River Safari & Wildlife Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                1.4043,
+                103.7938
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "River Safari boat adventures",
+              "coord": [
+                1.4045,
+                103.7925
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "River Safari dining",
+              "coord": [
+                1.4045,
+                103.7925
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Giant panda encounters",
+              "coord": [
+                1.4045,
+                103.7925
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "MacRitchie Reservoir nature",
+              "coord": [
+                1.338,
+                103.832
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Downtown casual restaurant",
+              "coord": [
+                1.289,
+                103.851
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Tiong Bahru & Joo Chiat Heritage",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Return to central hotel",
+              "coord": [
+                1.28,
+                103.831
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Tiong Bahru market hawkers",
+              "coord": [
+                1.2788,
+                103.8315
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tiong Bahru Enclave boutiques",
+              "coord": [
+                1.28,
+                103.831
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sheng Sheng Beehoon",
+              "coord": [
+                1.2788,
+                103.8315
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Joo Chiat Peranakan shophouses",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Katong coastal charm",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Katong Laksa legendary",
+              "coord": [
+                1.3092,
+                103.893
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Little India Deep-Dive",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Springleaf Prata artisanal",
+              "coord": [
+                1.3028,
+                103.8575
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tekka Centre market exploration",
+              "coord": [
+                1.3017,
+                103.8567
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Banana Leaf Apolo",
+              "coord": [
+                1.3045,
+                103.859
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Little India temples and heritage",
+              "coord": [
+                1.304,
+                103.857
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sri Mariamman Temple",
+              "coord": [
+                1.2862,
+                103.8444
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Serangoon Road spice market",
+              "coord": [
+                1.305,
+                103.859
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Palais Taj North Indian fine dining",
+              "coord": [
+                1.303,
+                103.8575
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Kampong Glam & Arab Quarter Full Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Nylon Coffee Roasters",
+              "coord": [
+                1.2835,
+                103.8425
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sultan Mosque visit",
+              "coord": [
+                1.3017,
+                103.8577
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kampong Glam heritage exploration",
+              "coord": [
+                1.3015,
+                103.858
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kampong Glam cafe",
+              "coord": [
+                1.3015,
+                103.858
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Arab Street Bazaar fragrant exploration",
+              "coord": [
+                1.2994,
+                103.857
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bugis Street Market treasure hunt",
+              "coord": [
+                1.3011,
+                103.8565
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "LongPlay vinyl bar cocktails",
+              "coord": [
+                1.3059,
+                103.8594
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Peranakan & Cultural Musueums",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Dragon Well Tea House",
+              "coord": [
+                1.285,
+                103.848
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Peranakan Museum full exploration",
+              "coord": [
+                1.2905,
+                103.8455
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "National Kitchen Violet Oon Peranakan",
+              "coord": [
+                1.2873,
+                103.8512
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Asian Civilisations Museum",
+              "coord": [
+                1.2876,
+                103.8516
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Singapore History Museum",
+              "coord": [
+                1.2868,
+                103.8455
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Candlenut Michelin Peranakan refined",
+              "coord": [
+                1.2812,
+                103.797
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Sentosa Resort Island Full Day",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Move to Sentosa hotel",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Sentosa hotel breakfast",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "S.E.A. Aquarium",
+              "coord": [
+                1.2513,
+                103.8197
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Aquarium dining",
+              "coord": [
+                1.2513,
+                103.8197
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sentosa Beaches swimming",
+              "coord": [
+                1.2485,
+                103.8295
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Universal Studios or Adventure Cove",
+              "coord": [
+                1.2556,
+                103.824
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Sentosa resort dining",
+              "coord": [
+                1.251,
+                103.824
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Dempsey Hill & Gillman Barracks Creative",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Return to central hotel",
+              "coord": [
+                1.28,
+                103.831
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Forty Hands Coffee specialty",
+              "coord": [
+                1.282,
+                103.8405
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dempsey Hill galleries day",
+              "coord": [
+                1.28,
+                103.798
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Artichoke Mediterranean",
+              "coord": [
+                1.282,
+                103.851
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gillman Barracks creative studios",
+              "coord": [
+                1.275,
+                103.792
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Boat Quay riverside",
+              "coord": [
+                1.2893,
+                103.8526
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Jigger & Pony craft cocktails refined",
+              "coord": [
+                1.282,
+                103.848
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Pulau Ubin Day Trip Nature",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Early hotel breakfast",
+              "coord": [
+                1.28,
+                103.831
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Pulau Ubin island",
+              "coord": [
+                1.4145,
+                103.963
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Pulau Ubin cycling and trails",
+              "coord": [
+                1.4145,
+                103.963
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Island village cafe",
+              "coord": [
+                1.4145,
+                103.963
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mangrove kayaking optional",
+              "coord": [
+                1.4145,
+                103.963
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Return ferry to main island",
+              "coord": [
+                1.4145,
+                103.963
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Nouri innovative Singapore",
+              "coord": [
+                1.2852,
+                103.8513
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Markets, Raffles & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Maxwell Food Centre final",
+              "coord": [
+                1.284,
+                103.8435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Arab Street Bazaar final browse",
+              "coord": [
+                1.2994,
+                103.857
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Favorite hawker stall revisit",
+              "coord": [
+                1.3017,
+                103.8567
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Raffles Hotel Singapore lobby heritage",
+              "coord": [
+                1.2902,
+                103.8549
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last-minute shopping Orchard",
+              "coord": [
+                1.3048,
+                103.8318
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Botanic Gardens final walk",
+              "coord": [
+                1.3145,
+                103.8161
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Les Amis or Zen final fine dining",
+              "coord": [
+                1.3062,
+                103.8318
+              ]
+            }
           ]
         }
       ]
