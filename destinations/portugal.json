@@ -2,7 +2,7 @@
   "key": "portugal",
   "name": "Portugal Family Adventure",
   "subtitle": "Interactive Trip Map",
-  "flag": "\ud83c\uddf5\ud83c\uddf9",
+  "flag": "🇵🇹",
   "defaultCenter": [
     39.5,
     -8.0
@@ -16,7 +16,8 @@
       "coord": [
         38.726293,
         -9.154839
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Hotel%20Ritz%20Lisbon&center=38.726293,-9.154839"
     },
     {
       "name": "Memmo Alfama Hotel",
@@ -25,7 +26,8 @@
       "coord": [
         38.714,
         -9.132
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Memmo%20Alfama%20Hotel&center=38.714,-9.132"
     },
     {
       "name": "Martinhal Lisbon Cascais Family Resort",
@@ -34,7 +36,8 @@
       "coord": [
         38.699,
         -9.421
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Martinhal%20Lisbon%20Cascais%20Family%20Resort&center=38.699,-9.421"
     },
     {
       "name": "Vila Vita Parc Resort & Spa",
@@ -43,16 +46,18 @@
       "coord": [
         37.101541,
         -8.379387
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vila%20Vita%20Parc%20Resort%20%26%20Spa&center=37.101541,-8.379387"
     },
     {
-      "name": "Tivoli Pal\u00e1cio de Seteais",
+      "name": "Tivoli Palácio de Seteais",
       "desc": "18th-century palace; historic; mountain views; gardens",
       "longDesc": "A former royal palace hotel set amid lush Sintra gardens, blending historic grandeur with romantic atmosphere.",
       "coord": [
         38.8,
         -9.391
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Pal%C3%A1cio%20de%20Seteais&center=38.8,-9.391"
     },
     {
       "name": "Penha Longa Resort",
@@ -61,7 +66,8 @@
       "coord": [
         38.760819,
         -9.396629
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Penha%20Longa%20Resort&center=38.760819,-9.396629"
     },
     {
       "name": "The Yeatman",
@@ -70,7 +76,8 @@
       "coord": [
         41.141,
         -8.631
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Yeatman&center=41.141,-8.631"
     },
     {
       "name": "Conrad Porto",
@@ -79,7 +86,8 @@
       "coord": [
         41.158,
         -8.626
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Conrad%20Porto&center=41.158,-8.626"
     },
     {
       "name": "Six Senses Douro Valley",
@@ -88,7 +96,8 @@
       "coord": [
         41.299276,
         -7.742192
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Six%20Senses%20Douro%20Valley&center=41.299276,-7.742192"
     },
     {
       "name": "Vermelho Melides",
@@ -97,7 +106,8 @@
       "coord": [
         38.146302,
         -8.728219
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vermelho%20Melides&center=38.146302,-8.728219"
     },
     {
       "name": "Torre de Palma Wine Hotel",
@@ -106,7 +116,8 @@
       "coord": [
         39.068615,
         -7.488797
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Torre%20de%20Palma%20Wine%20Hotel&center=39.068615,-7.488797"
     },
     {
       "name": "Herdade do Rocim",
@@ -115,7 +126,8 @@
       "coord": [
         38.257,
         -8.128
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Herdade%20do%20Rocim&center=38.257,-8.128"
     },
     {
       "name": "Convento do Espinheiro",
@@ -124,7 +136,8 @@
       "coord": [
         38.267,
         -7.59
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Convento%20do%20Espinheiro&center=38.267,-7.59"
     },
     {
       "name": "Juma Boutique Hotel",
@@ -133,7 +146,8 @@
       "coord": [
         41.159,
         -8.63
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Juma%20Boutique%20Hotel&center=41.159,-8.63"
     },
     {
       "name": "Pousada de Viseu",
@@ -142,7 +156,8 @@
       "coord": [
         40.28,
         -7.263
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pousada%20de%20Viseu&center=40.28,-7.263"
     },
     {
       "name": "Areias do Seixo",
@@ -151,7 +166,8 @@
       "coord": [
         39.522,
         -9.268
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Areias%20do%20Seixo&center=39.522,-9.268"
     },
     {
       "name": "Sublime Ericeira",
@@ -160,7 +176,8 @@
       "coord": [
         38.964,
         -9.435
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sublime%20Ericeira&center=38.964,-9.435"
     },
     {
       "name": "Solar Melides",
@@ -169,16 +186,18 @@
       "coord": [
         38.145627087955106,
         -8.729049367785553
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Solar%20Melides&center=38.145627087955106,-8.729049367785553"
     },
     {
-      "name": "El Corte Ingl\u00e9s Premium Collection",
+      "name": "El Corte Inglés Premium Collection",
       "desc": "Luxury design; contemporary art; regional cuisine",
       "longDesc": "A design-forward luxury hotel celebrating contemporary Portuguese aesthetics with thoughtful service.",
       "coord": [
         38.2,
         -8.7
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Corte%20Ingl%C3%A9s%20Premium%20Collection&center=38.2,-8.7"
     },
     {
       "name": "Benilson Suites",
@@ -187,7 +206,8 @@
       "coord": [
         37.105,
         -8.67
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Benilson%20Suites&center=37.105,-8.67"
     },
     {
       "name": "Cascade Wellness & Lifestyle Resort",
@@ -196,7 +216,8 @@
       "coord": [
         37.124,
         -8.393
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascade%20Wellness%20%26%20Lifestyle%20Resort&center=37.124,-8.393"
     },
     {
       "name": "Dom Pedro Meia Praia",
@@ -205,7 +226,8 @@
       "coord": [
         37.105,
         -8.677
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dom%20Pedro%20Meia%20Praia&center=37.105,-8.677"
     },
     {
       "name": "Rainha Elizabeth Hotel",
@@ -214,7 +236,8 @@
       "coord": [
         38.728,
         -9.14
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rainha%20Elizabeth%20Hotel&center=38.728,-9.14"
     },
     {
       "name": "Brown's Boutique Hotel",
@@ -223,7 +246,8 @@
       "coord": [
         38.721,
         -9.128
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brown%27s%20Boutique%20Hotel&center=38.721,-9.128"
     },
     {
       "name": "Anantara Vilamoura Algarve Resort",
@@ -232,7 +256,8 @@
       "coord": [
         37.082,
         -8.121
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Anantara%20Vilamoura%20Algarve%20Resort&center=37.082,-8.121"
     },
     {
       "name": "Hotel Infante de Sagres",
@@ -241,25 +266,28 @@
       "coord": [
         41.15970941364249,
         -8.629469901537732
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Infante%20de%20Sagres&center=41.15970941364249,-8.629469901537732"
     },
     {
       "name": "Beaumont Hotel",
-      "desc": "Boutique luxury; rooftop pool; modern art; Pr\u00edncipe Real",
-      "longDesc": "An intimate luxury hotel in trendiest Pr\u00edncipe Real with rooftop pool and art collection.",
+      "desc": "Boutique luxury; rooftop pool; modern art; Príncipe Real",
+      "longDesc": "An intimate luxury hotel in trendiest Príncipe Real with rooftop pool and art collection.",
       "coord": [
         38.728,
         -9.147
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Beaumont%20Hotel&center=38.728,-9.147"
     },
     {
       "name": "Corinthia Hotel Lisbon",
-      "desc": "5-star contemporary; spa; Marqu\u00eas location",
-      "longDesc": "A contemporary 5-star hotel combining modern luxury with Portuguese design in vibrant Marqu\u00eas.",
+      "desc": "5-star contemporary; spa; Marquês location",
+      "longDesc": "A contemporary 5-star hotel combining modern luxury with Portuguese design in vibrant Marquês.",
       "coord": [
         38.737,
         -9.147
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Corinthia%20Hotel%20Lisbon&center=38.737,-9.147"
     },
     {
       "name": "Porto A.S. 1829",
@@ -268,16 +296,18 @@
       "coord": [
         41.16017653870311,
         -8.631239183502112
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto%20A.S.%201829&center=41.16017653870311,-8.631239183502112"
     },
     {
-      "name": "Pousada Monast\u00e9rio de Vilarinho",
+      "name": "Pousada Monastério de Vilarinho",
       "desc": "Restored monastery; gardens; historic; regional",
       "longDesc": "A restored monastery hotel in northernmost Portugal offering spiritual retreat and Minho countryside.",
       "coord": [
         41.783,
         -8.563
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pousada%20Monast%C3%A9rio%20de%20Vilarinho&center=41.783,-8.563"
     },
     {
       "name": "Casa Areias",
@@ -286,16 +316,18 @@
       "coord": [
         38.398,
         -8.778
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Areias&center=38.398,-8.778"
     },
     {
-      "name": "Quinta das L\u00e1grimas",
+      "name": "Quinta das Lágrimas",
       "desc": "Historic manor; mountain; estate grounds; romantic",
       "longDesc": "A historic manor on sprawling mountain estate, ideal for couples seeking romantic retreat.",
       "coord": [
         40.287,
         -7.487
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Quinta%20das%20L%C3%A1grimas&center=40.287,-7.487"
     },
     {
       "name": "Estalagem da Ponta do Seixo",
@@ -304,7 +336,8 @@
       "coord": [
         39.45,
         -9.25
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Estalagem%20da%20Ponta%20do%20Seixo&center=39.45,-9.25"
     },
     {
       "name": "Pestana Pousada de Mafra",
@@ -313,7 +346,8 @@
       "coord": [
         38.936,
         -9.316
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pestana%20Pousada%20de%20Mafra&center=38.936,-9.316"
     },
     {
       "name": "Rocco Forte Design Hotel",
@@ -322,7 +356,8 @@
       "coord": [
         38.72015591392441,
         -9.12798393413569
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rocco%20Forte%20Design%20Hotel&center=38.72015591392441,-9.12798393413569"
     },
     {
       "name": "Apeadeiro Hotel",
@@ -331,7 +366,8 @@
       "coord": [
         40.644,
         -8.648
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apeadeiro%20Hotel&center=40.644,-8.648"
     },
     {
       "name": "Pousada de Guarda",
@@ -340,7 +376,8 @@
       "coord": [
         40.54,
         -7.268
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pousada%20de%20Guarda&center=40.54,-7.268"
     },
     {
       "name": "Moov Hotel Viseu",
@@ -349,7 +386,8 @@
       "coord": [
         40.284,
         -7.263
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Moov%20Hotel%20Viseu&center=40.284,-7.263"
     },
     {
       "name": "Castro Marim Salterns Hotel",
@@ -358,7 +396,8 @@
       "coord": [
         37.214,
         -7.442
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Castro%20Marim%20Salterns%20Hotel&center=37.214,-7.442"
     },
     {
       "name": "Yeatman Boutique Hotel",
@@ -367,7 +406,8 @@
       "coord": [
         41.16,
         -8.63
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yeatman%20Boutique%20Hotel&center=41.16,-8.63"
     },
     {
       "name": "Oporto Boutique Hotel",
@@ -376,7 +416,8 @@
       "coord": [
         41.16,
         -8.629
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oporto%20Boutique%20Hotel&center=41.16,-8.629"
     },
     {
       "name": "Albergaria da Atouguia",
@@ -385,16 +426,18 @@
       "coord": [
         39.45092829137003,
         -9.251480503720966
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Albergaria%20da%20Atouguia&center=39.45092829137003,-9.251480503720966"
     },
     {
       "name": "Hilton Lisbon Oriente",
       "desc": "Modern waterfront; park access; family-friendly; games",
-      "longDesc": "A contemporary waterfront hotel near Parque das Na\u00e7\u00f5es offering family activities and modern comfort.",
+      "longDesc": "A contemporary waterfront hotel near Parque das Nações offering family activities and modern comfort.",
       "coord": [
         38.761,
         -9.084
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hilton%20Lisbon%20Oriente&center=38.761,-9.084"
     },
     {
       "name": "Memmo Alfama Art Hotel",
@@ -403,16 +446,18 @@
       "coord": [
         38.71441828039537,
         -9.133424967734332
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Memmo%20Alfama%20Art%20Hotel&center=38.71441828039537,-9.133424967734332"
     },
     {
       "name": "The Independente Hostel & Suites",
-      "desc": "Boutique hostel; social vibe; private rooms; Pr\u00edncipe Real",
-      "longDesc": "A sophisticated hostel with private rooms and social atmosphere in trendy Pr\u00edncipe Real.",
+      "desc": "Boutique hostel; social vibe; private rooms; Príncipe Real",
+      "longDesc": "A sophisticated hostel with private rooms and social atmosphere in trendy Príncipe Real.",
       "coord": [
         38.72657960790905,
         -9.147903487047941
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Independente%20Hostel%20%26%20Suites&center=38.72657960790905,-9.147903487047941"
     },
     {
       "name": "Lapa Palace",
@@ -421,7 +466,8 @@
       "coord": [
         38.703,
         -9.183
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lapa%20Palace&center=38.703,-9.183"
     },
     {
       "name": "Epic Sana Hotel Porto",
@@ -430,7 +476,8 @@
       "coord": [
         41.160917457755495,
         -8.629405581815035
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Epic%20Sana%20Hotel%20Porto&center=41.160917457755495,-8.629405581815035"
     },
     {
       "name": "Vila Joya",
@@ -439,7 +486,8 @@
         -8.313
       ],
       "desc": "Iconic cliffside boutique; 2 Michelin dining; intimate",
-      "longDesc": "An iconic clifftop boutique property offering Michelin-starred dining and intimate elegance."
+      "longDesc": "An iconic clifftop boutique property offering Michelin-starred dining and intimate elegance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vila%20Joya&center=37.08,-8.313"
     },
     {
       "name": "Bela Vista Hotel & Spa",
@@ -448,7 +496,8 @@
         -8.36
       ],
       "desc": "Clifftop Algarve luxury; spa; pool; sweeping views",
-      "longDesc": "A clifftop luxury hotel with spa, pools, and sweeping Algarve beach views."
+      "longDesc": "A clifftop luxury hotel with spa, pools, and sweeping Algarve beach views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bela%20Vista%20Hotel%20%26%20Spa&center=37.15,-8.36"
     },
     {
       "name": "Pestana Douro River Resort",
@@ -457,7 +506,8 @@
         -8.631410608341687
       ],
       "desc": "Riverside Porto luxury; spa; wine tastings; elegant",
-      "longDesc": "A riverside luxury resort in Porto offering spa, wine tastings, and riverfront elegance."
+      "longDesc": "A riverside luxury resort in Porto offering spa, wine tastings, and riverfront elegance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pestana%20Douro%20River%20Resort&center=41.15876576545905,-8.631410608341687"
     },
     {
       "name": "Acropolis Suites",
@@ -465,8 +515,9 @@
         38.72844965331334,
         -9.14686517555819
       ],
-      "desc": "Boutique suites; rooftop views; Pr\u00edncipe Real; design",
-      "longDesc": "A design-forward boutique with rooftop suites in trendiest Pr\u00edncipe Real neighborhood."
+      "desc": "Boutique suites; rooftop views; Príncipe Real; design",
+      "longDesc": "A design-forward boutique with rooftop suites in trendiest Príncipe Real neighborhood.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Acropolis%20Suites&center=38.72844965331334,-9.14686517555819"
     },
     {
       "name": "Lx Boutique",
@@ -474,8 +525,9 @@
         38.815,
         -9.073
       ],
-      "desc": "Artistic boutique hotel; design focus; Alc\u00e2ntara; unique",
-      "longDesc": "An artistically designed boutique hotel celebrating Portuguese culture in vibrant Alc\u00e2ntara."
+      "desc": "Artistic boutique hotel; design focus; Alcântara; unique",
+      "longDesc": "An artistically designed boutique hotel celebrating Portuguese culture in vibrant Alcântara.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lx%20Boutique&center=38.815,-9.073"
     },
     {
       "name": "Real Parque",
@@ -484,16 +536,18 @@
         -9.184033561500565
       ],
       "desc": "Historic Lapa hotel; gardens; traditional; elegant",
-      "longDesc": "A historic hotel in elegant Lapa neighborhood with gardens and traditional Portuguese hospitality."
+      "longDesc": "A historic hotel in elegant Lapa neighborhood with gardens and traditional Portuguese hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Real%20Parque&center=38.70252075154956,-9.184033561500565"
     },
     {
-      "name": "Tryp Lisbon Marqu\u00eas",
+      "name": "Tryp Lisbon Marquês",
       "coord": [
         38.73616132186612,
         -9.146732202948373
       ],
-      "desc": "Contemporary comfort; Marqu\u00eas location; family-friendly",
-      "longDesc": "A contemporary hotel in vibrant Marqu\u00eas district offering family-friendly comfort and city access."
+      "desc": "Contemporary comfort; Marquês location; family-friendly",
+      "longDesc": "A contemporary hotel in vibrant Marquês district offering family-friendly comfort and city access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tryp%20Lisbon%20Marqu%C3%AAs&center=38.73616132186612,-9.146732202948373"
     },
     {
       "name": "Hyatt Regency Lisbon",
@@ -501,8 +555,9 @@
         38.712,
         -9.217
       ],
-      "desc": "5-star classic; Bel\u00e9m location; premium service",
-      "longDesc": "A 5-star classic hotel in Bel\u00e9m offering premium service near historic monuments."
+      "desc": "5-star classic; Belém location; premium service",
+      "longDesc": "A 5-star classic hotel in Belém offering premium service near historic monuments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Lisbon&center=38.712,-9.217"
     },
     {
       "name": "Solaris Lisbon",
@@ -510,8 +565,9 @@
         38.7,
         -9.14
       ],
-      "desc": "Modern hotel; Alc\u00e2ntara location; design comfort",
-      "longDesc": "A modern hotel in Alc\u00e2ntara with design-forward interiors and contemporary comfort."
+      "desc": "Modern hotel; Alcântara location; design comfort",
+      "longDesc": "A modern hotel in Alcântara with design-forward interiors and contemporary comfort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Solaris%20Lisbon&center=38.7,-9.14"
     }
   ],
   "restaurants": [
@@ -522,7 +578,8 @@
       "coord": [
         38.721,
         -9.128
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida&center=38.721,-9.128"
     },
     {
       "name": "Antiqvvm",
@@ -531,7 +588,8 @@
       "coord": [
         41.147465,
         -8.628527
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antiqvvm&center=41.147465,-8.628527"
     },
     {
       "name": "Feitoria",
@@ -540,7 +598,8 @@
       "coord": [
         38.428246,
         -8.681306
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Feitoria&center=38.428246,-8.681306"
     },
     {
       "name": "Pedro Lemos",
@@ -549,25 +608,28 @@
       "coord": [
         40.81776,
         -8.39537
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pedro%20Lemos&center=40.81776,-8.39537"
     },
     {
-      "name": "O Pa\u00e7o",
+      "name": "O Paço",
       "desc": "Modern Portuguese; chef-driven; Alfama; intimate",
       "longDesc": "An intimate chef-driven restaurant celebrating Portuguese ingredients in beautiful Alfama quarter.",
       "coord": [
         38.72237163921662,
         -9.128490216364662
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=O%20Pa%C3%A7o&center=38.72237163921662,-9.128490216364662"
     },
     {
-      "name": "Chap\u00e9u de Chuva",
+      "name": "Chapéu de Chuva",
       "desc": "Portuguese fine dining; seasonal; cozy; Chiado",
       "longDesc": "A charming fine dining restaurant celebrating seasonal Portuguese cuisine in bohemian Chiado.",
       "coord": [
         38.719778237530136,
         -9.1292098508695
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chap%C3%A9u%20de%20Chuva&center=38.719778237530136,-9.1292098508695"
     },
     {
       "name": "Solar dos Presuntos",
@@ -576,16 +638,18 @@
       "coord": [
         38.727,
         -9.142
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Solar%20dos%20Presuntos&center=38.727,-9.142"
     },
     {
-      "name": "Pap'A\u00e7\u00f4rda",
-      "desc": "A\u00e7\u00f4rda specialist; rustic Portuguese; castle views",
-      "longDesc": "A beloved rustic restaurant specializing in a\u00e7\u00f4rda (bread stew) with castle neighborhood views.",
+      "name": "Pap'Açôrda",
+      "desc": "Açôrda specialist; rustic Portuguese; castle views",
+      "longDesc": "A beloved rustic restaurant specializing in açôrda (bread stew) with castle neighborhood views.",
       "coord": [
         38.721,
         -9.129
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pap%27A%C3%A7%C3%B4rda&center=38.721,-9.129"
     },
     {
       "name": "Taberna da Rua das Flores",
@@ -594,7 +658,8 @@
       "coord": [
         38.72618369482695,
         -9.142631836109192
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taberna%20da%20Rua%20das%20Flores&center=38.72618369482695,-9.142631836109192"
     },
     {
       "name": "A Merendeira",
@@ -603,25 +668,28 @@
       "coord": [
         38.72140705333279,
         -9.12940550346309
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Merendeira&center=38.72140705333279,-9.12940550346309"
     },
     {
       "name": "Cantinho do Avillez",
-      "desc": "Avillez casual tapas; lively vibe; Pr\u00edncipe Real",
-      "longDesc": "A casual Jos\u00e9 Avillez creation offering Portuguese tapas and wine in vibrant environment.",
+      "desc": "Avillez casual tapas; lively vibe; Príncipe Real",
+      "longDesc": "A casual José Avillez creation offering Portuguese tapas and wine in vibrant environment.",
       "coord": [
         38.728,
         -9.147
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantinho%20do%20Avillez&center=38.728,-9.147"
     },
     {
       "name": "Pateo - Bairro do Avillez",
       "desc": "Avillez food hall; small plates; market-style",
-      "longDesc": "An inventive food hall from chef Jos\u00e9 Avillez with multiple Portuguese small dishes.",
+      "longDesc": "An inventive food hall from chef José Avillez with multiple Portuguese small dishes.",
       "coord": [
         38.72204248309904,
         -9.127688821905899
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pateo%20-%20Bairro%20do%20Avillez&center=38.72204248309904,-9.127688821905899"
     },
     {
       "name": "Comida de Santo",
@@ -630,16 +698,18 @@
       "coord": [
         38.727,
         -9.143
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Comida%20de%20Santo&center=38.727,-9.143"
     },
     {
       "name": "Gin Lovers Bar & Restaurant",
-      "desc": "Portuguese gin focus; cocktails; Pr\u00edncipe Real",
+      "desc": "Portuguese gin focus; cocktails; Príncipe Real",
       "longDesc": "A sophisticated bar-restaurant celebrating Portuguese gin with craft cocktails and small plates.",
       "coord": [
         38.72761054290135,
         -9.147871478907685
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gin%20Lovers%20Bar%20%26%20Restaurant&center=38.72761054290135,-9.147871478907685"
     },
     {
       "name": "Cervejaria Ramiro",
@@ -648,7 +718,8 @@
       "coord": [
         38.807,
         -9.082
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cervejaria%20Ramiro&center=38.807,-9.082"
     },
     {
       "name": "In Bocca Al Lupo",
@@ -657,7 +728,8 @@
       "coord": [
         38.72730093346615,
         -9.145690036236862
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=In%20Bocca%20Al%20Lupo&center=38.72730093346615,-9.145690036236862"
     },
     {
       "name": "Rio Maravilha",
@@ -666,7 +738,8 @@
       "coord": [
         38.81,
         -9.07
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20Maravilha&center=38.81,-9.07"
     },
     {
       "name": "Surrealejos",
@@ -675,16 +748,18 @@
       "coord": [
         38.815,
         -9.073
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Surrealejos&center=38.815,-9.073"
     },
     {
-      "name": "Caf\u00e9 da Garagem",
-      "desc": "Local caf\u00e9-restaurant; neighborhood; casual",
-      "longDesc": "A beloved neighborhood caf\u00e9-restaurant serving authentic Portuguese daily specials.",
+      "name": "Café da Garagem",
+      "desc": "Local café-restaurant; neighborhood; casual",
+      "longDesc": "A beloved neighborhood café-restaurant serving authentic Portuguese daily specials.",
       "coord": [
         38.725739375930765,
         -9.142801627340916
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20da%20Garagem&center=38.725739375930765,-9.142801627340916"
     },
     {
       "name": "Tapisco Lisboa",
@@ -693,16 +768,18 @@
       "coord": [
         38.72844410615574,
         -9.146672606983
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapisco%20Lisboa&center=38.72844410615574,-9.146672606983"
     },
     {
-      "name": "Pavilh\u00e3o Chin\u00eas",
-      "desc": "Bohemian bar-restaurant; artistic decor; Pr\u00edncipe Real",
+      "name": "Pavilhão Chinês",
+      "desc": "Bohemian bar-restaurant; artistic decor; Príncipe Real",
       "longDesc": "An iconic bohemian bar celebrating artistic Lisbon culture and casual Portuguese cuisine.",
       "coord": [
         38.7270134159446,
         -9.14631261960615
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pavilh%C3%A3o%20Chin%C3%AAs&center=38.7270134159446,-9.14631261960615"
     },
     {
       "name": "Santa Bica",
@@ -711,7 +788,8 @@
       "coord": [
         38.713,
         -9.129
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Bica&center=38.713,-9.129"
     },
     {
       "name": "Nui Kitchen",
@@ -720,16 +798,18 @@
       "coord": [
         38.72192138481982,
         -9.127310804639919
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nui%20Kitchen&center=38.72192138481982,-9.127310804639919"
     },
     {
       "name": "Eleven",
-      "desc": "1 Michelin star; panoramic views; refined; Pr\u00edncipe Real",
+      "desc": "1 Michelin star; panoramic views; refined; Príncipe Real",
       "longDesc": "A rooftop Michelin-starred restaurant offering sweeping Lisbon views and refined Portuguese cuisine.",
       "coord": [
         38.726990207481286,
         -9.147361633674727
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Eleven&center=38.726990207481286,-9.147361633674727"
     },
     {
       "name": "Restaurante Panorama",
@@ -738,25 +818,28 @@
       "coord": [
         41.16,
         -8.63
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Panorama&center=41.16,-8.63"
     },
     {
-      "name": "Livraria Lello Caf\u00e9",
-      "desc": "Historic library caf\u00e9; pastries & coffee; iconic",
-      "longDesc": "A caf\u00e9 within world-famous historic library offering Portuguese pastries surrounded by books.",
+      "name": "Livraria Lello Café",
+      "desc": "Historic library café; pastries & coffee; iconic",
+      "longDesc": "A café within world-famous historic library offering Portuguese pastries surrounded by books.",
       "coord": [
         41.161028555760566,
         -8.629172000265362
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Lello%20Caf%C3%A9&center=41.161028555760566,-8.629172000265362"
     },
     {
-      "name": "Francesinha Caf\u00e9",
+      "name": "Francesinha Café",
       "desc": "Francesinha sandwich specialist; hearty; beer pairing",
       "longDesc": "Porto's most traditional spot for francesinha (meat sandwich) served with beer.",
       "coord": [
         41.15918714421589,
         -8.631403699268288
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Francesinha%20Caf%C3%A9&center=41.15918714421589,-8.631403699268288"
     },
     {
       "name": "Rib Beef & Wine",
@@ -765,16 +848,18 @@
       "coord": [
         41.158,
         -8.63
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rib%20Beef%20%26%20Wine&center=41.158,-8.63"
     },
     {
-      "name": "Confeitaria do Bolh\u00e3o",
-      "desc": "Historic bakery-caf\u00e9; pastries; morning ritual; iconic",
+      "name": "Confeitaria do Bolhão",
+      "desc": "Historic bakery-café; pastries; morning ritual; iconic",
       "longDesc": "A 200-year-old iconic bakery where locals gather for Portuguese pastries and coffee.",
       "coord": [
         41.162,
         -8.625
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Confeitaria%20do%20Bolh%C3%A3o&center=41.162,-8.625"
     },
     {
       "name": "Casa Filipa",
@@ -783,7 +868,8 @@
       "coord": [
         41.15944635914418,
         -8.630696777372073
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Filipa&center=41.15944635914418,-8.630696777372073"
     },
     {
       "name": "O Comercial",
@@ -792,7 +878,8 @@
       "coord": [
         41.159,
         -8.63
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=O%20Comercial&center=41.159,-8.63"
     },
     {
       "name": "Sandeman Port Lodge Restaurant",
@@ -801,16 +888,18 @@
       "coord": [
         41.158132948530756,
         -8.628671270856996
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sandeman%20Port%20Lodge%20Restaurant&center=41.158132948530756,-8.628671270856996"
     },
     {
-      "name": "Cantinho Gastron\u00f3mico",
+      "name": "Cantinho Gastronómico",
       "desc": "Local Portuguese; Sintra regional; family-run",
       "longDesc": "A cozy family-run restaurant celebrating Sintra regional specialties and mountain cuisine.",
       "coord": [
         38.801,
         -9.393
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantinho%20Gastron%C3%B3mico&center=38.801,-9.393"
     },
     {
       "name": "Confraria dos Peixeiros",
@@ -819,7 +908,8 @@
       "coord": [
         38.696,
         -9.421
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Confraria%20dos%20Peixeiros&center=38.696,-9.421"
     },
     {
       "name": "Ribamar Restaurante",
@@ -828,7 +918,8 @@
       "coord": [
         38.697129102879416,
         -9.421555966357603
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ribamar%20Restaurante&center=38.697129102879416,-9.421555966357603"
     },
     {
       "name": "Tejo Cozinha",
@@ -837,7 +928,8 @@
       "coord": [
         38.97,
         -7.492
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tejo%20Cozinha&center=38.97,-7.492"
     },
     {
       "name": "Herdade do Rocim Restaurant",
@@ -846,7 +938,8 @@
       "coord": [
         38.257,
         -8.128
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Herdade%20do%20Rocim%20Restaurant&center=38.257,-8.128"
     },
     {
       "name": "Moenda",
@@ -855,7 +948,8 @@
       "coord": [
         38.4,
         -7.95
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Moenda&center=38.4,-7.95"
     },
     {
       "name": "Adega Tipica",
@@ -864,7 +958,8 @@
       "coord": [
         38.5,
         -8.3
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Adega%20Tipica&center=38.5,-8.3"
     },
     {
       "name": "Tasquinha do Arco",
@@ -873,7 +968,8 @@
       "coord": [
         37.135,
         -8.47
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasquinha%20do%20Arco&center=37.135,-8.47"
     },
     {
       "name": "Adega do Cantor",
@@ -882,7 +978,8 @@
       "coord": [
         37.02,
         -8.39
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Adega%20do%20Cantor&center=37.02,-8.39"
     },
     {
       "name": "Restaurante A Lanterna",
@@ -891,7 +988,8 @@
       "coord": [
         37.015,
         -8.39
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20A%20Lanterna&center=37.015,-8.39"
     },
     {
       "name": "Ramada Restaurant",
@@ -900,16 +998,18 @@
       "coord": [
         37.12,
         -8.39
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramada%20Restaurant&center=37.12,-8.39"
     },
     {
-      "name": "O Camar\u00e3o",
+      "name": "O Camarão",
       "desc": "Seafood tavern; shellfish; river views; rustic",
       "longDesc": "A rustic tavern specializing in river shellfish with Douro views and simple hospitality.",
       "coord": [
         41.1,
         -7.6
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=O%20Camar%C3%A3o&center=41.1,-7.6"
     },
     {
       "name": "Quinta do Vale Restaurant",
@@ -918,7 +1018,8 @@
       "coord": [
         41.25,
         -7.5
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Quinta%20do%20Vale%20Restaurant&center=41.25,-7.5"
     },
     {
       "name": "Casa do Comendador",
@@ -927,7 +1028,8 @@
       "coord": [
         41.2,
         -7.3
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20do%20Comendador&center=41.2,-7.3"
     },
     {
       "name": "A Poza",
@@ -936,7 +1038,8 @@
       "coord": [
         40.284,
         -7.501
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Poza&center=40.284,-7.501"
     },
     {
       "name": "O Forno",
@@ -945,7 +1048,8 @@
       "coord": [
         40.284,
         -7.263
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=O%20Forno&center=40.284,-7.263"
     },
     {
       "name": "Adega Mesquita",
@@ -954,16 +1058,18 @@
       "coord": [
         40.285243642769224,
         -7.263123444442238
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Adega%20Mesquita&center=40.285243642769224,-7.263123444442238"
     },
     {
-      "name": "Trem da Hist\u00f3ria",
-      "desc": "Ovos Moles specialist; local sweets; caf\u00e9",
-      "longDesc": "A charming caf\u00e9 celebrating Aveiro's famous ovos moles (egg pastries).",
+      "name": "Trem da História",
+      "desc": "Ovos Moles specialist; local sweets; café",
+      "longDesc": "A charming café celebrating Aveiro's famous ovos moles (egg pastries).",
       "coord": [
         40.644,
         -8.648
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Trem%20da%20Hist%C3%B3ria&center=40.644,-8.648"
     },
     {
       "name": "Sal & Rei",
@@ -972,7 +1078,8 @@
       "coord": [
         40.6,
         -8.4
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sal%20%26%20Rei&center=40.6,-8.4"
     },
     {
       "name": "Restaurante Solar",
@@ -981,7 +1088,8 @@
       "coord": [
         39.599,
         -9.076
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Solar&center=39.599,-9.076"
     },
     {
       "name": "Casa do Bacalhoeiro",
@@ -990,7 +1098,8 @@
       "coord": [
         38.964,
         -9.435
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20do%20Bacalhoeiro&center=38.964,-9.435"
     },
     {
       "name": "Snack Bar Mariscos",
@@ -999,34 +1108,38 @@
       "coord": [
         39.359,
         -9.363
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Snack%20Bar%20Mariscos&center=39.359,-9.363"
     },
     {
       "name": "O Tejo",
       "desc": "Medieval town restaurant; Portuguese cuisine; historic",
-      "longDesc": "A charming restaurant within \u00d3bidos' medieval walled village serving Portuguese cuisine.",
+      "longDesc": "A charming restaurant within Óbidos' medieval walled village serving Portuguese cuisine.",
       "coord": [
         39.36,
         -9.158
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=O%20Tejo&center=39.36,-9.158"
     },
     {
-      "name": "Caf\u00e9 & Comida",
-      "desc": "Casual Portuguese; caf\u00e9 atmosphere; local favorite",
-      "longDesc": "A casual caf\u00e9-restaurant in medieval village center serving simple authentic Portuguese food.",
+      "name": "Café & Comida",
+      "desc": "Casual Portuguese; café atmosphere; local favorite",
+      "longDesc": "A casual café-restaurant in medieval village center serving simple authentic Portuguese food.",
       "coord": [
         39.35929464049949,
         -9.158760117476918
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20%26%20Comida&center=39.35929464049949,-9.158760117476918"
     },
     {
-      "name": "Casa M\u00e1rio",
+      "name": "Casa Mário",
       "desc": "Regional Portuguese; monastery-area; family-run",
       "longDesc": "A traditional family-run restaurant near Mafra Monastery serving regional Portuguese cuisine.",
       "coord": [
         39.131,
         -9.314
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20M%C3%A1rio&center=39.131,-9.314"
     },
     {
       "name": "Restaurante Velha Goa",
@@ -1035,7 +1148,8 @@
       "coord": [
         41.697,
         -8.826
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Velha%20Goa&center=41.697,-8.826"
     },
     {
       "name": "Tasquinha do Nilo",
@@ -1044,25 +1158,28 @@
       "coord": [
         38.725803004288224,
         -9.142666079190668
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasquinha%20do%20Nilo&center=38.725803004288224,-9.142666079190668"
     },
     {
       "name": "Adega das Bruxas",
       "desc": "Regional Alentejo; historic wine tavern; UNESCO",
-      "longDesc": "A historic wine tavern in UNESCO \u00c9vora serving traditional Alentejo cuisine and wines.",
+      "longDesc": "A historic wine tavern in UNESCO Évora serving traditional Alentejo cuisine and wines.",
       "coord": [
         38.266,
         -7.59
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Adega%20das%20Bruxas&center=38.266,-7.59"
     },
     {
-      "name": "Casa da Cal\u00e7ada",
+      "name": "Casa da Calçada",
       "desc": "Traditional Portuguese cuisine; fine dining; elegant",
       "longDesc": "An elegant restaurant celebrating traditional Portuguese fine dining in charming Amarante.",
       "coord": [
         40.864,
         -8.24
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20da%20Cal%C3%A7ada&center=40.864,-8.24"
     },
     {
       "name": "Pousada Restaurant",
@@ -1071,7 +1188,8 @@
       "coord": [
         39.662,
         -8.837
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pousada%20Restaurant&center=39.662,-8.837"
     },
     {
       "name": "Cantinho do Azulejo",
@@ -1080,7 +1198,8 @@
       "coord": [
         38.729468570051914,
         -9.146580000720437
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantinho%20do%20Azulejo&center=38.729468570051914,-9.146580000720437"
     },
     {
       "name": "Adega Machado",
@@ -1089,7 +1208,8 @@
       "coord": [
         38.719,
         -9.129
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Adega%20Machado&center=38.719,-9.129"
     },
     {
       "name": "Belcanto",
@@ -1098,16 +1218,18 @@
         -9.126580652708062
       ],
       "desc": "2 Michelin stars; Portuguese haute cuisine; Lisbon icon",
-      "longDesc": "A 2 Michelin-starred restaurant celebrating refined Portuguese cuisine with contemporary technique."
+      "longDesc": "A 2 Michelin-starred restaurant celebrating refined Portuguese cuisine with contemporary technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belcanto&center=38.72110868427436,-9.126580652708062"
     },
     {
-      "name": "Alma (Henrique S\u00e1 Pessoa)",
+      "name": "Alma (Henrique Sá Pessoa)",
       "coord": [
         38.728170849231326,
         -9.14644615724703
       ],
       "desc": "1 Michelin star; Portuguese creativity; chef-driven",
-      "longDesc": "A Michelin-starred restaurant featuring creative Portuguese cuisine from acclaimed chef."
+      "longDesc": "A Michelin-starred restaurant featuring creative Portuguese cuisine from acclaimed chef.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alma%20%28Henrique%20S%C3%A1%20Pessoa%29&center=38.728170849231326,-9.14644615724703"
     },
     {
       "name": "Ocean",
@@ -1116,7 +1238,8 @@
         -8.35
       ],
       "desc": "Algarve Michelin; seafood focus; cliffside dining",
-      "longDesc": "A Michelin-recognized seafood restaurant with cliffside Algarve setting and ocean views."
+      "longDesc": "A Michelin-recognized seafood restaurant with cliffside Algarve setting and ocean views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ocean&center=37.1,-8.35"
     },
     {
       "name": "Tejo at 10",
@@ -1125,7 +1248,8 @@
         -9.12784387810618
       ],
       "desc": "Contemporary Portuguese; river views; fine dining",
-      "longDesc": "A contemporary Portuguese fine dining restaurant with river views and elegant atmosphere."
+      "longDesc": "A contemporary Portuguese fine dining restaurant with river views and elegant atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tejo%20at%2010&center=38.72063560313162,-9.12784387810618"
     },
     {
       "name": "Mini Bar Public",
@@ -1134,7 +1258,8 @@
         -9.127644440742907
       ],
       "desc": "Casual chef cuisine; innovative small plates; lively",
-      "longDesc": "A casual restaurant offering innovative small Portuguese plates in lively Chiado atmosphere."
+      "longDesc": "A casual restaurant offering innovative small Portuguese plates in lively Chiado atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mini%20Bar%20Public&center=38.72198821399275,-9.127644440742907"
     },
     {
       "name": "Boca do Lobo",
@@ -1143,16 +1268,18 @@
         -9.12776794356423
       ],
       "desc": "Portuguese tavern; traditional; Bairro Alto; neighborhood",
-      "longDesc": "A traditional Portuguese tavern in bohemian Bairro Alto with neighborhood character."
+      "longDesc": "A traditional Portuguese tavern in bohemian Bairro Alto with neighborhood character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca%20do%20Lobo&center=38.72208512070093,-9.12776794356423"
     },
     {
-      "name": "Ess\u00eancia do Alentejo",
+      "name": "Essência do Alentejo",
       "coord": [
         38.50046631599589,
         -8.30031310429682
       ],
       "desc": "Regional Alentejo; farm-to-table; wine-focused",
-      "longDesc": "A farm-to-table restaurant celebrating Alentejo regional cuisine with wine pairings."
+      "longDesc": "A farm-to-table restaurant celebrating Alentejo regional cuisine with wine pairings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ess%C3%AAncia%20do%20Alentejo&center=38.50046631599589,-8.30031310429682"
     },
     {
       "name": "Fogo Restaurant",
@@ -1161,7 +1288,8 @@
         -9.159
       ],
       "desc": "Portuguese grilling; wood fire; meat focus; casual",
-      "longDesc": "A wood-fired Portuguese grill restaurant specializing in meats and charcoal preparations."
+      "longDesc": "A wood-fired Portuguese grill restaurant specializing in meats and charcoal preparations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fogo%20Restaurant&center=38.7,-9.159"
     },
     {
       "name": "Casa de Pasto da Tia Matilde",
@@ -1170,7 +1298,8 @@
         -9.129362526849032
       ],
       "desc": "Home-style Portuguese; traditional; family-run",
-      "longDesc": "A family-run home-style restaurant serving traditional Portuguese comfort food."
+      "longDesc": "A family-run home-style restaurant serving traditional Portuguese comfort food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20de%20Pasto%20da%20Tia%20Matilde&center=38.72161371550864,-9.129362526849032"
     }
   ],
   "experiences": [
@@ -1181,7 +1310,8 @@
       "coord": [
         38.708,
         -9.145
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Nacional%20de%20Arte%20Antiga&center=38.708,-9.145"
     },
     {
       "name": "Museu Calouste Gulbenkian",
@@ -1190,7 +1320,8 @@
       "coord": [
         38.739,
         -9.121
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Calouste%20Gulbenkian&center=38.739,-9.121"
     },
     {
       "name": "MAAT (Museum of Art, Architecture & Technology)",
@@ -1199,7 +1330,8 @@
       "coord": [
         38.721,
         -9.128
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=MAAT%20%28Museum%20of%20Art%2C%20Architecture%20%26%20Technology%29&center=38.721,-9.128"
     },
     {
       "name": "Museu do Azulejo",
@@ -1208,7 +1340,8 @@
       "coord": [
         38.707,
         -9.099
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20do%20Azulejo&center=38.707,-9.099"
     },
     {
       "name": "Museu Monumental",
@@ -1217,43 +1350,48 @@
       "coord": [
         38.721253757970665,
         -9.126806531349192
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Monumental&center=38.721253757970665,-9.126806531349192"
     },
     {
-      "name": "Castelo de S\u00e3o Jorge",
+      "name": "Castelo de São Jorge",
       "desc": "Medieval castle; city views; historic fortress",
       "longDesc": "A medieval castle overlooking Lisbon with sweeping city views and neighborhood exploration.",
       "coord": [
         38.714,
         -9.13
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Castelo%20de%20S%C3%A3o%20Jorge&center=38.714,-9.13"
     },
     {
-      "name": "Jer\u00f3nimos Monastery",
+      "name": "Jerónimos Monastery",
       "desc": "UNESCO World Heritage; Manueline architecture; iconic",
       "longDesc": "A breathtaking UNESCO monument showcasing Manueline architecture and maritime heritage.",
       "coord": [
         38.716,
         -9.209
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jer%C3%B3nimos%20Monastery&center=38.716,-9.209"
     },
     {
-      "name": "Bel\u00e9m Tower",
+      "name": "Belém Tower",
       "desc": "Maritime fortress; explorer legacy; river views; iconic",
       "longDesc": "An iconic waterfront fortress symbolizing maritime exploration era with river views.",
       "coord": [
         38.712,
         -9.217
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%20Tower&center=38.712,-9.217"
     },
     {
-      "name": "Pal\u00e1cio Nacional de Sintra",
+      "name": "Palácio Nacional de Sintra",
       "desc": "Royal palace; distinctive chimneys; romantic interiors",
       "longDesc": "A romantic former royal palace with distinctive twin chimneys and opulent interiors.",
       "coord": [
         38.8,
         -9.393
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pal%C3%A1cio%20Nacional%20de%20Sintra&center=38.8,-9.393"
     },
     {
       "name": "Pena Palace",
@@ -1262,7 +1400,8 @@
       "coord": [
         38.787,
         -9.391
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pena%20Palace&center=38.787,-9.391"
     },
     {
       "name": "Quinta da Regaleira",
@@ -1271,7 +1410,8 @@
       "coord": [
         38.803,
         -9.395
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Quinta%20da%20Regaleira&center=38.803,-9.395"
     },
     {
       "name": "Convento dos Capuchos",
@@ -1280,7 +1420,8 @@
       "coord": [
         38.79,
         -9.406
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Convento%20dos%20Capuchos&center=38.79,-9.406"
     },
     {
       "name": "Convento da Peninha",
@@ -1289,7 +1430,8 @@
       "coord": [
         38.809,
         -9.405
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Convento%20da%20Peninha&center=38.809,-9.405"
     },
     {
       "name": "Torre do Tombo",
@@ -1298,7 +1440,8 @@
       "coord": [
         38.721,
         -9.127
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Torre%20do%20Tombo&center=38.721,-9.127"
     },
     {
       "name": "Museu do Fado",
@@ -1307,7 +1450,8 @@
       "coord": [
         38.719,
         -9.129
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20do%20Fado&center=38.719,-9.129"
     },
     {
       "name": "Museu da Carris",
@@ -1316,16 +1460,18 @@
       "coord": [
         38.737,
         -9.177
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20da%20Carris&center=38.737,-9.177"
     },
     {
-      "name": "Pal\u00e1cio de Queluz",
+      "name": "Palácio de Queluz",
       "desc": "Former royal summer palace; rococo; gardens",
       "longDesc": "A stunning rococo royal palace with ornate interiors and formal gardens near Lisbon.",
       "coord": [
         38.75,
         -9.256
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pal%C3%A1cio%20de%20Queluz&center=38.75,-9.256"
     },
     {
       "name": "Museu Nacional de Arqueologia",
@@ -1334,7 +1480,8 @@
       "coord": [
         38.70818410440249,
         -9.14571177517443
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Nacional%20de%20Arqueologia&center=38.70818410440249,-9.14571177517443"
     },
     {
       "name": "Livraria Lello",
@@ -1343,7 +1490,8 @@
       "coord": [
         41.161,
         -8.63
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Lello&center=41.161,-8.63"
     },
     {
       "name": "Ribeira Historic Quarter",
@@ -1352,7 +1500,8 @@
       "coord": [
         41.159,
         -8.63
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ribeira%20Historic%20Quarter&center=41.159,-8.63"
     },
     {
       "name": "Museu Serralves",
@@ -1361,7 +1510,8 @@
       "coord": [
         41.155,
         -8.661
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Serralves&center=41.155,-8.661"
     },
     {
       "name": "Museu do Vinho do Porto",
@@ -1370,25 +1520,28 @@
       "coord": [
         41.15782894739105,
         -8.629617661874892
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20do%20Vinho%20do%20Porto&center=41.15782894739105,-8.629617661874892"
     },
     {
-      "name": "Torre dos Cl\u00e9rigos",
+      "name": "Torre dos Clérigos",
       "desc": "Gothic bell tower; city views; panoramic vistas",
       "longDesc": "A Gothic bell tower offering panoramic views of Porto's Ribeira and Douro River.",
       "coord": [
         41.161,
         -8.629
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Torre%20dos%20Cl%C3%A9rigos&center=41.161,-8.629"
     },
     {
       "name": "Livraria Lello Rooftop",
-      "desc": "Bookshop rooftop caf\u00e9; city views; literary",
-      "longDesc": "A rooftop caf\u00e9 within historic bookshop offering Porto city views and literary ambiance.",
+      "desc": "Bookshop rooftop café; city views; literary",
+      "longDesc": "A rooftop café within historic bookshop offering Porto city views and literary ambiance.",
       "coord": [
         41.159772728236526,
         -8.631358650873727
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Lello%20Rooftop&center=41.159772728236526,-8.631358650873727"
     },
     {
       "name": "Museu do Vinho",
@@ -1397,16 +1550,18 @@
       "coord": [
         41.2,
         -7.3
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20do%20Vinho&center=41.2,-7.3"
     },
     {
-      "name": "\u00c9vora Cathedral & Museum",
+      "name": "Évora Cathedral & Museum",
       "desc": "Gothic cathedral; medieval museum; UNESCO city",
-      "longDesc": "A magnificent Gothic cathedral in UNESCO-listed \u00c9vora with museum of medieval artwork.",
+      "longDesc": "A magnificent Gothic cathedral in UNESCO-listed Évora with museum of medieval artwork.",
       "coord": [
         38.266,
         -7.59
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%89vora%20Cathedral%20%26%20Museum&center=38.266,-7.59"
     },
     {
       "name": "Chapel of the Bones",
@@ -1415,16 +1570,18 @@
       "coord": [
         38.26741323513284,
         -7.588917660893296
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapel%20of%20the%20Bones&center=38.26741323513284,-7.588917660893296"
     },
     {
-      "name": "Roman Temple of \u00c9vora",
+      "name": "Roman Temple of Évora",
       "desc": "Ancient Roman ruins; 2,000-year-old columns",
       "longDesc": "Portugal's best-preserved Roman temple with 2,000-year-old marble columns.",
       "coord": [
         38.26453444306583,
         -7.58933783454192
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman%20Temple%20of%20%C3%89vora&center=38.26453444306583,-7.58933783454192"
     },
     {
       "name": "Estremoz Castle",
@@ -1433,7 +1590,8 @@
       "coord": [
         38.677,
         -7.589
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Estremoz%20Castle&center=38.677,-7.589"
     },
     {
       "name": "Tejo River Kayaking",
@@ -1442,7 +1600,8 @@
       "coord": [
         39.2,
         -7.4
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tejo%20River%20Kayaking&center=39.2,-7.4"
     },
     {
       "name": "Monsaraz Medieval Village",
@@ -1451,25 +1610,28 @@
       "coord": [
         38.267,
         -7.412
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Monsaraz%20Medieval%20Village&center=38.267,-7.412"
     },
     {
-      "name": "Marv\u00e3o Castle",
+      "name": "Marvão Castle",
       "desc": "Mountaintop fortress; dramatic views; hiking",
       "longDesc": "A dramatic mountaintop fortress with eagle's-nest views and challenging hikes.",
       "coord": [
         39.38,
         -7.396
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Marv%C3%A3o%20Castle&center=39.38,-7.396"
     },
     {
-      "name": "\u00d3bidos Medieval Walled Town",
+      "name": "Óbidos Medieval Walled Town",
       "desc": "Entirely walled town; cobblestone streets; romantic",
       "longDesc": "A fairy-tale medieval village entirely enclosed by castle walls with romantic atmosphere.",
       "coord": [
         39.36,
         -9.158
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%93bidos%20Medieval%20Walled%20Town&center=39.36,-9.158"
     },
     {
       "name": "Batalha Monastery",
@@ -1478,25 +1640,28 @@
       "coord": [
         39.662,
         -8.837
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Batalha%20Monastery&center=39.662,-8.837"
     },
     {
-      "name": "Alcoba\u00e7a Monastery",
+      "name": "Alcobaça Monastery",
       "desc": "Cistercian abbey; vast interior; Portuguese Gothic",
       "longDesc": "A vast Cistercian abbey showcasing Portuguese Gothic architecture with peaceful cloisters.",
       "coord": [
         39.552,
         -8.976
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alcoba%C3%A7a%20Monastery&center=39.552,-8.976"
     },
     {
-      "name": "Covilh\u00e3 Textile Museum",
+      "name": "Covilhã Textile Museum",
       "desc": "Textile heritage; industrial history; comprehensive",
       "longDesc": "A museum documenting mountain town's textile industry heritage and traditional craftsmanship.",
       "coord": [
         40.284,
         -7.501
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Covilh%C3%A3%20Textile%20Museum&center=40.284,-7.501"
     },
     {
       "name": "Aveiro Canal City Gondola Rides",
@@ -1505,7 +1670,8 @@
       "coord": [
         40.644,
         -8.648
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aveiro%20Canal%20City%20Gondola%20Rides&center=40.644,-8.648"
     },
     {
       "name": "Costa da Bairrada Wine Routes",
@@ -1514,7 +1680,8 @@
       "coord": [
         40.6,
         -8.4
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Costa%20da%20Bairrada%20Wine%20Routes&center=40.6,-8.4"
     },
     {
       "name": "Aveiro Fishing Heritage Museum",
@@ -1523,25 +1690,28 @@
       "coord": [
         40.64454513110708,
         -8.647889089008773
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aveiro%20Fishing%20Heritage%20Museum&center=40.64454513110708,-8.647889089008773"
     },
     {
-      "name": "S\u00e3o Bento Train Station",
+      "name": "São Bento Train Station",
       "desc": "1916 beaux-arts station; azulejo tiles; architectural",
       "longDesc": "A stunning 1916 train station decorated with 20,000 Portuguese azulejo tiles.",
       "coord": [
         41.143,
         -8.627
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Bento%20Train%20Station&center=41.143,-8.627"
     },
     {
-      "name": "Dom Lu\u00eds I Bridge",
+      "name": "Dom Luís I Bridge",
       "desc": "Iconic double-deck bridge; river views; engineering",
       "longDesc": "An iconic two-deck iron bridge spanning Douro with spectacular views.",
       "coord": [
         41.179,
         -8.624
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dom%20Lu%C3%ADs%20I%20Bridge&center=41.179,-8.624"
     },
     {
       "name": "Cliffs of Farol (Cabo da Roca)",
@@ -1550,7 +1720,8 @@
       "coord": [
         38.715,
         -9.498
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cliffs%20of%20Farol%20%28Cabo%20da%20Roca%29&center=38.715,-9.498"
     },
     {
       "name": "Cascais Beaches & Coastal Walks",
@@ -1559,7 +1730,8 @@
       "coord": [
         38.696,
         -9.421
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascais%20Beaches%20%26%20Coastal%20Walks&center=38.696,-9.421"
     },
     {
       "name": "Peniche Surfer Beach",
@@ -1568,7 +1740,8 @@
       "coord": [
         39.359,
         -9.363
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Peniche%20Surfer%20Beach&center=39.359,-9.363"
     },
     {
       "name": "Ericeira Coastal Village",
@@ -1577,16 +1750,18 @@
       "coord": [
         38.964,
         -9.435
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ericeira%20Coastal%20Village&center=38.964,-9.435"
     },
     {
-      "name": "Nazar\u00e9 Big Waves Viewpoint",
+      "name": "Nazaré Big Waves Viewpoint",
       "desc": "World record waves; dramatic coastline; viewpoint",
       "longDesc": "Home to world-record breaking waves with viewpoint for watching epic surf.",
       "coord": [
         39.599,
         -9.076
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nazar%C3%A9%20Big%20Waves%20Viewpoint&center=39.599,-9.076"
     },
     {
       "name": "Wine Tasting at Quinta",
@@ -1595,7 +1770,8 @@
       "coord": [
         41.2,
         -7.4
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wine%20Tasting%20at%20Quinta&center=41.2,-7.4"
     },
     {
       "name": "Sintra Forest Mystique Walking Tour",
@@ -1604,7 +1780,8 @@
       "coord": [
         38.8,
         -9.39
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sintra%20Forest%20Mystique%20Walking%20Tour&center=38.8,-9.39"
     },
     {
       "name": "Pena Palace Night Illumination",
@@ -1613,7 +1790,8 @@
       "coord": [
         38.78849261281948,
         -9.390971421118971
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pena%20Palace%20Night%20Illumination&center=38.78849261281948,-9.390971421118971"
     },
     {
       "name": "Douro Valley Train Experience",
@@ -1622,7 +1800,8 @@
       "coord": [
         41.19986117111899,
         -7.398638552217437
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Douro%20Valley%20Train%20Experience&center=41.19986117111899,-7.398638552217437"
     },
     {
       "name": "Sagres Fortress Tour",
@@ -1631,7 +1810,8 @@
       "coord": [
         37.011,
         -8.94
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sagres%20Fortress%20Tour&center=37.011,-8.94"
     },
     {
       "name": "Carmo Church",
@@ -1640,7 +1820,8 @@
         -9.128842037722528
       ],
       "desc": "Baroque church; golden interior; Chiado location",
-      "longDesc": "A stunning baroque church with ornate golden interior in bohemian Chiado neighborhood."
+      "longDesc": "A stunning baroque church with ornate golden interior in bohemian Chiado neighborhood.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmo%20Church&center=38.72069820151542,-9.128842037722528"
     },
     {
       "name": "Rossio Square",
@@ -1649,7 +1830,8 @@
         -9.128
       ],
       "desc": "Historic downtown square; wave plaza; cultural hub",
-      "longDesc": "Lisbon's most iconic downtown square with historic buildings and cultural energy."
+      "longDesc": "Lisbon's most iconic downtown square with historic buildings and cultural energy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rossio%20Square&center=38.714,-9.128"
     },
     {
       "name": "Baixa Pombalina",
@@ -1658,7 +1840,8 @@
         -9.128
       ],
       "desc": "Grid-pattern downtown; post-earthquake reconstruction",
-      "longDesc": "Historic downtown grid pattern rebuilt after 1755 earthquake with architectural significance."
+      "longDesc": "Historic downtown grid pattern rebuilt after 1755 earthquake with architectural significance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Baixa%20Pombalina&center=38.71,-9.128"
     },
     {
       "name": "Time Out Market",
@@ -1667,7 +1850,8 @@
         -9.136
       ],
       "desc": "Food hall; chef collaborations; diverse; Mercado",
-      "longDesc": "A curated food hall featuring chef collaborations and diverse Portuguese cuisine."
+      "longDesc": "A curated food hall featuring chef collaborations and diverse Portuguese cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Time%20Out%20Market&center=38.707,-9.136"
     },
     {
       "name": "Adamastor Viewpoint",
@@ -1676,7 +1860,8 @@
         -8.624195704247994
       ],
       "desc": "Monument overlook; Douro river views; bridge vistas",
-      "longDesc": "A memorable viewpoint with monument and sweeping Douro River and bridge vistas."
+      "longDesc": "A memorable viewpoint with monument and sweeping Douro River and bridge vistas.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Adamastor%20Viewpoint&center=41.17783465652079,-8.624195704247994"
     },
     {
       "name": "Porto Cathedral",
@@ -1685,16 +1870,18 @@
         -8.629
       ],
       "desc": "Romanesque cathedral; historic; Ribeira; architectural",
-      "longDesc": "A Romanesque cathedral with historic architecture in Porto's medieval Ribeira district."
+      "longDesc": "A Romanesque cathedral with historic architecture in Porto's medieval Ribeira district.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto%20Cathedral&center=41.16,-8.629"
     },
     {
-      "name": "Cl\u00e9rigos Church",
+      "name": "Clérigos Church",
       "coord": [
         41.16248836414072,
         -8.628912656964703
       ],
       "desc": "Baroque church; bell tower; city views; iconic",
-      "longDesc": "A baroque church with iconic bell tower offering city views from Ribeira."
+      "longDesc": "A baroque church with iconic bell tower offering city views from Ribeira.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cl%C3%A9rigos%20Church&center=41.16248836414072,-8.628912656964703"
     },
     {
       "name": "Bolsa Palace",
@@ -1703,7 +1890,8 @@
         -8.630233520099601
       ],
       "desc": "Merchant exchange; opulent interior; guided tours",
-      "longDesc": "An opulent merchant exchange palace with guided tours showcasing 19th-century grandeur."
+      "longDesc": "An opulent merchant exchange palace with guided tours showcasing 19th-century grandeur.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bolsa%20Palace&center=41.15987623809309,-8.630233520099601"
     },
     {
       "name": "Wine Shippers Houses",
@@ -1712,7 +1900,8 @@
         -8.63035514214048
       ],
       "desc": "Port wine lodges; historic buildings; wine heritage",
-      "longDesc": "Historic Port wine shipping houses showcasing Portuguese wine trade heritage."
+      "longDesc": "Historic Port wine shipping houses showcasing Portuguese wine trade heritage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wine%20Shippers%20Houses&center=41.15769058311845,-8.63035514214048"
     },
     {
       "name": "Aveiro Lighthouse",
@@ -1721,7 +1910,8 @@
         -8.64757711460426
       ],
       "desc": "Coastal landmark; navigation history; scenic walk",
-      "longDesc": "A coastal lighthouse landmark with scenic walks and maritime navigation history."
+      "longDesc": "A coastal lighthouse landmark with scenic walks and maritime navigation history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aveiro%20Lighthouse&center=40.64330047556986,-8.64757711460426"
     },
     {
       "name": "Costa Nova Fishing Village",
@@ -1730,7 +1920,8 @@
         -8.725
       ],
       "desc": "Striped houses; fishing tradition; beach charm",
-      "longDesc": "A charming fishing village with distinctive striped houses and maritime traditions."
+      "longDesc": "A charming fishing village with distinctive striped houses and maritime traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Costa%20Nova%20Fishing%20Village&center=40.595,-8.725"
     },
     {
       "name": "Museum of Art Deco",
@@ -1739,25 +1930,28 @@
         -9.186
       ],
       "desc": "Art Deco collection; 1920s-1940s design; vintage",
-      "longDesc": "A museum showcasing art deco design and 1920s-1940s decorative arts."
+      "longDesc": "A museum showcasing art deco design and 1920s-1940s decorative arts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Art%20Deco&center=38.701,-9.186"
     },
     {
-      "name": "Parque Na\u00e7\u00f5es",
+      "name": "Parque Nações",
       "coord": [
         38.761,
         -9.084
       ],
       "desc": "Modern park; Expo 98 grounds; gardens; riverside",
-      "longDesc": "A modern riverside park built on Expo 98 grounds with gardens and cultural venues."
+      "longDesc": "A modern riverside park built on Expo 98 grounds with gardens and cultural venues.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque%20Na%C3%A7%C3%B5es&center=38.761,-9.084"
     },
     {
-      "name": "Bu\u00e7aco Palace",
+      "name": "Buçaco Palace",
       "coord": [
         40.5,
         -8.2
       ],
       "desc": "Royal forest palace; monarchy history; mountain setting",
-      "longDesc": "A royal palace set in historic forest showcasing Portuguese monarchy and architecture."
+      "longDesc": "A royal palace set in historic forest showcasing Portuguese monarchy and architecture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bu%C3%A7aco%20Palace&center=40.5,-8.2"
     },
     {
       "name": "Serra da Estrela",
@@ -1766,16 +1960,18 @@
         -7.6
       ],
       "desc": "Mountain range; highest peak; hiking; scenic",
-      "longDesc": "Portugal's highest mountain range offering hiking and sweeping panoramic views."
+      "longDesc": "Portugal's highest mountain range offering hiking and sweeping panoramic views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Serra%20da%20Estrela&center=40.3,-7.6"
     },
     {
-      "name": "Piod\u00e3o Village",
+      "name": "Piodão Village",
       "coord": [
         40.45,
         -7.7
       ],
       "desc": "Schist stone village; traditional architecture; scenic",
-      "longDesc": "A traditional schist stone village with charming architecture and mountain scenery."
+      "longDesc": "A traditional schist stone village with charming architecture and mountain scenery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Piod%C3%A3o%20Village&center=40.45,-7.7"
     },
     {
       "name": "Caramulo Museum",
@@ -1784,18 +1980,20 @@
         -7.7
       ],
       "desc": "Art and automobile collection; mountain museum; unique",
-      "longDesc": "An eclectic museum featuring art, automobiles, and cultural artifacts in mountains."
+      "longDesc": "An eclectic museum featuring art, automobiles, and cultural artifacts in mountains.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caramulo%20Museum&center=40.65,-7.7"
     }
   ],
   "kidFriendly": [
     {
-      "name": "Ocean\u00e1rio de Lisboa",
+      "name": "Oceanário de Lisboa",
       "desc": "Europe's largest aquarium; interactive tanks; marine",
       "longDesc": "Europe's largest aquarium with massive tanks and interactive exhibits captivating explorers.",
       "coord": [
         38.761,
         -9.085
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ocean%C3%A1rio%20de%20Lisboa&center=38.761,-9.085"
     },
     {
       "name": "Museu da Marinha",
@@ -1804,16 +2002,18 @@
       "coord": [
         38.707,
         -9.209
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20da%20Marinha&center=38.707,-9.209"
     },
     {
-      "name": "Museu da Crian\u00e7a",
+      "name": "Museu da Criança",
       "desc": "Children's museum; hands-on activities; interactive",
       "longDesc": "A dedicated children's museum with hands-on activities and interactive exhibits.",
       "coord": [
         38.761,
         -9.091
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20da%20Crian%C3%A7a&center=38.761,-9.091"
     },
     {
       "name": "Sintra Forest Walks",
@@ -1822,7 +2022,8 @@
       "coord": [
         38.8,
         -9.39
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sintra%20Forest%20Walks&center=38.8,-9.39"
     },
     {
       "name": "Pena Palace Grounds",
@@ -1831,7 +2032,8 @@
       "coord": [
         38.8,
         -9.393
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pena%20Palace%20Grounds&center=38.8,-9.393"
     },
     {
       "name": "Parque da Pena",
@@ -1840,7 +2042,8 @@
       "coord": [
         38.787,
         -9.391
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque%20da%20Pena&center=38.787,-9.391"
     },
     {
       "name": "Cascais Beaches",
@@ -1849,7 +2052,8 @@
       "coord": [
         38.696,
         -9.421
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascais%20Beaches&center=38.696,-9.421"
     },
     {
       "name": "Viseu Playground Park",
@@ -1858,7 +2062,8 @@
       "coord": [
         40.284,
         -7.263
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Viseu%20Playground%20Park&center=40.284,-7.263"
     },
     {
       "name": "Aveiro Canal Gondola Rides",
@@ -1867,16 +2072,18 @@
       "coord": [
         40.644,
         -8.648
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aveiro%20Canal%20Gondola%20Rides&center=40.644,-8.648"
     },
     {
-      "name": "Zoo Santo In\u00e1cio",
+      "name": "Zoo Santo Inácio",
       "desc": "Zoo with exotic animals; bird collection; family",
       "longDesc": "A family-friendly zoo with exotic animals and interactive feeding experiences.",
       "coord": [
         41.161,
         -8.652
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zoo%20Santo%20In%C3%A1cio&center=41.161,-8.652"
     },
     {
       "name": "Castelo de Guarda",
@@ -1885,16 +2092,18 @@
       "coord": [
         40.54,
         -7.268
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Castelo%20de%20Guarda&center=40.54,-7.268"
     },
     {
-      "name": "\u00d3bidos Medieval Town",
+      "name": "Óbidos Medieval Town",
       "desc": "Castle exploration; winding streets; chocolate",
       "longDesc": "A fairy-tale medieval village with castle exploration and sweet shops.",
       "coord": [
         39.36,
         -9.158
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%93bidos%20Medieval%20Town&center=39.36,-9.158"
     },
     {
       "name": "Batalha Monastery Exploration",
@@ -1903,16 +2112,18 @@
       "coord": [
         39.662,
         -8.837
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Batalha%20Monastery%20Exploration&center=39.662,-8.837"
     },
     {
-      "name": "Alcoba\u00e7a Monastery Cloisters",
+      "name": "Alcobaça Monastery Cloisters",
       "desc": "Abbey cloisters; royal tombs; peaceful gardens",
       "longDesc": "Vast Cistercian cloisters and gardens offering peaceful family exploration.",
       "coord": [
         39.552,
         -8.976
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alcoba%C3%A7a%20Monastery%20Cloisters&center=39.552,-8.976"
     },
     {
       "name": "Bom Jesus Sanctuary Cable Car",
@@ -1921,7 +2132,8 @@
       "coord": [
         41.554,
         -8.387
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bom%20Jesus%20Sanctuary%20Cable%20Car&center=41.554,-8.387"
     },
     {
       "name": "Douro Valley Train Journey",
@@ -1930,7 +2142,8 @@
       "coord": [
         41.2,
         -7.4
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Douro%20Valley%20Train%20Journey&center=41.2,-7.4"
     },
     {
       "name": "Chocolate Museum",
@@ -1939,7 +2152,8 @@
       "coord": [
         38.762127558821135,
         -9.091709832847746
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chocolate%20Museum&center=38.762127558821135,-9.091709832847746"
     },
     {
       "name": "Lisbon Tram 28 Journey",
@@ -1948,16 +2162,18 @@
       "coord": [
         38.721,
         -9.128
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%20Tram%2028%20Journey&center=38.721,-9.128"
     },
     {
-      "name": "Bel\u00e9m Past\u00e9is de Nata Class",
+      "name": "Belém Pastéis de Nata Class",
       "desc": "Pastry class; Portuguese tradition; hands-on baking",
       "longDesc": "A hands-on pastry-making class teaching Portuguese tradition with tasty reward.",
       "coord": [
         38.716,
         -9.209
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%20Past%C3%A9is%20de%20Nata%20Class&center=38.716,-9.209"
     },
     {
       "name": "Comporta Beach Family Day",
@@ -1966,7 +2182,8 @@
       "coord": [
         38.398,
         -8.778
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Comporta%20Beach%20Family%20Day&center=38.398,-8.778"
     },
     {
       "name": "Ria de Aveiro Kayaking",
@@ -1975,7 +2192,8 @@
       "coord": [
         40.64400175833915,
         -8.64896404435841
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ria%20de%20Aveiro%20Kayaking&center=40.64400175833915,-8.64896404435841"
     },
     {
       "name": "Guarda Medieval Town Walks",
@@ -1984,25 +2202,28 @@
       "coord": [
         40.541237883518036,
         -7.2668884442904895
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Guarda%20Medieval%20Town%20Walks&center=40.541237883518036,-7.2668884442904895"
     },
     {
-      "name": "Marv\u00e3o Castle Hike",
+      "name": "Marvão Castle Hike",
       "desc": "Accessible hiking; mountain views; castle",
       "longDesc": "An accessible family hike to mountaintop castle with spectacular views.",
       "coord": [
         38.720395334374345,
         -9.127583151515402
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Marv%C3%A3o%20Castle%20Hike&center=38.720395334374345,-9.127583151515402"
     },
     {
-      "name": "Covilh\u00e3 Cable Car",
+      "name": "Covilhã Cable Car",
       "desc": "Aerial cable car; city views; mountain ride",
       "longDesc": "An aerial cable car offering city views and mountain ride experience.",
       "coord": [
         40.284,
         -7.501
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Covilh%C3%A3%20Cable%20Car&center=40.284,-7.501"
     },
     {
       "name": "Algarve Cliff Viewing",
@@ -2011,7 +2232,8 @@
       "coord": [
         37.105,
         -8.4
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Algarve%20Cliff%20Viewing&center=37.105,-8.4"
     },
     {
       "name": "Silves Castle Courtyard",
@@ -2020,7 +2242,8 @@
       "coord": [
         37.193,
         -8.448
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Silves%20Castle%20Courtyard&center=37.193,-8.448"
     },
     {
       "name": "Ponta da Piedade Sea Caves Boat",
@@ -2029,7 +2252,8 @@
       "coord": [
         37.105,
         -8.67
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponta%20da%20Piedade%20Sea%20Caves%20Boat&center=37.105,-8.67"
     },
     {
       "name": "Caldas da Rainha Thermal Pools",
@@ -2038,7 +2262,8 @@
       "coord": [
         39.39,
         -9.131
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caldas%20da%20Rainha%20Thermal%20Pools&center=39.39,-9.131"
     }
   ],
   "markets": [
@@ -2049,25 +2274,28 @@
       "coord": [
         38.707,
         -9.136
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20da%20Ribeira&center=38.707,-9.136"
     },
     {
-      "name": "Mercado de S\u00e3o Bento",
+      "name": "Mercado de São Bento",
       "desc": "Popular market; fresh fish; local flavors; busy",
       "longDesc": "A bustling traditional market offering fresh fish and authentic Lisbon experience.",
       "coord": [
         38.714,
         -9.129
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20S%C3%A3o%20Bento&center=38.714,-9.129"
     },
     {
-      "name": "Bolh\u00e3o Market",
+      "name": "Bolhão Market",
       "desc": "1914 iconic market; fish & flowers; authentic",
       "longDesc": "Porto's most famous 1914 market with fish and flower vendors.",
       "coord": [
         41.162,
         -8.625
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bolh%C3%A3o%20Market&center=41.162,-8.625"
     },
     {
       "name": "Livraria Bertrand",
@@ -2076,7 +2304,8 @@
       "coord": [
         38.72,
         -9.125
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Bertrand&center=38.72,-9.125"
     },
     {
       "name": "Feira da Ladra Flea Market",
@@ -2085,7 +2314,8 @@
       "coord": [
         38.719,
         -9.133
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Feira%20da%20Ladra%20Flea%20Market&center=38.719,-9.133"
     },
     {
       "name": "Sintra Farmers Market",
@@ -2094,16 +2324,18 @@
       "coord": [
         38.801,
         -9.392
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sintra%20Farmers%20Market&center=38.801,-9.392"
     },
     {
-      "name": "Loul\u00e9 Saturday Market",
+      "name": "Loulé Saturday Market",
       "desc": "Traditional Algarve; local crafts; regional food",
       "longDesc": "A traditional Saturday market offering local crafts and regional food.",
       "coord": [
         37.748,
         -8.013
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Loul%C3%A9%20Saturday%20Market&center=37.748,-8.013"
     },
     {
       "name": "Tavira Chocolate Shop",
@@ -2112,7 +2344,8 @@
       "coord": [
         37.105,
         -8.67
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tavira%20Chocolate%20Shop&center=37.105,-8.67"
     },
     {
       "name": "Conserveira de Lisboa",
@@ -2121,7 +2354,8 @@
       "coord": [
         38.721,
         -9.127
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Conserveira%20de%20Lisboa&center=38.721,-9.127"
     },
     {
       "name": "Manteigaria Silva",
@@ -2130,16 +2364,18 @@
       "coord": [
         38.727,
         -9.129
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Manteigaria%20Silva&center=38.727,-9.129"
     },
     {
-      "name": "Loja das Tape\u00e7arias",
+      "name": "Loja das Tapeçarias",
       "desc": "Handmade pottery workshop; local ceramics",
       "longDesc": "A ceramics workshop celebrating Caldas da Rainha's pottery tradition.",
       "coord": [
         39.39,
         -9.131
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Loja%20das%20Tape%C3%A7arias&center=39.39,-9.131"
     },
     {
       "name": "Cork Factory Shop",
@@ -2148,7 +2384,8 @@
       "coord": [
         37.532,
         -8.194
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cork%20Factory%20Shop&center=37.532,-8.194"
     },
     {
       "name": "Douro Wine Shop",
@@ -2157,7 +2394,8 @@
       "coord": [
         41.159,
         -8.63
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Douro%20Wine%20Shop&center=41.159,-8.63"
     },
     {
       "name": "Feira Cabra",
@@ -2166,7 +2404,8 @@
       "coord": [
         38.57,
         -7.92
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Feira%20Cabra&center=38.57,-7.92"
     },
     {
       "name": "A Vida Portuguesa",
@@ -2175,7 +2414,8 @@
       "coord": [
         38.721,
         -9.128
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Vida%20Portuguesa&center=38.721,-9.128"
     },
     {
       "name": "Specialty Cheese Shop",
@@ -2184,16 +2424,18 @@
       "coord": [
         38.5,
         -8.3
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Specialty%20Cheese%20Shop&center=38.5,-8.3"
     },
     {
       "name": "Egg Custard Pastry Shop",
       "desc": "Famous local pastries; egg custard specialty",
-      "longDesc": "A shop celebrating \u00d3bidos' famous egg custard pastry specialty.",
+      "longDesc": "A shop celebrating Óbidos' famous egg custard pastry specialty.",
       "coord": [
         39.36,
         -9.158
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Egg%20Custard%20Pastry%20Shop&center=39.36,-9.158"
     },
     {
       "name": "Aveiro Ovos Moles Shop",
@@ -2202,7 +2444,8 @@
       "coord": [
         40.644,
         -8.648
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aveiro%20Ovos%20Moles%20Shop&center=40.644,-8.648"
     },
     {
       "name": "Lisbon Coffee Roastery",
@@ -2211,7 +2454,8 @@
       "coord": [
         38.728,
         -9.147
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%20Coffee%20Roastery&center=38.728,-9.147"
     },
     {
       "name": "Cascais Market",
@@ -2220,7 +2464,8 @@
       "coord": [
         38.696,
         -9.421
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascais%20Market&center=38.696,-9.421"
     },
     {
       "name": "Ericeira Fish Market",
@@ -2229,7 +2474,8 @@
       "coord": [
         38.964,
         -9.435
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ericeira%20Fish%20Market&center=38.964,-9.435"
     },
     {
       "name": "Peniche Market Hall",
@@ -2238,7 +2484,8 @@
       "coord": [
         39.359,
         -9.363
-      ]
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Peniche%20Market%20Hall&center=39.359,-9.363"
     }
   ],
   "cityCenters": {
@@ -2282,7 +2529,7 @@
       -8.648,
       0.05
     ],
-    "\u00d3bidos": [
+    "Óbidos": [
       39.36,
       -9.158,
       0.04
@@ -2297,7 +2544,7 @@
       -8.837,
       0.04
     ],
-    "Covilh\u00e3": [
+    "Covilhã": [
       40.284,
       -7.501,
       0.05
@@ -2360,7 +2607,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Castelo de S\u00e3o Jorge",
+              "name": "Castelo de São Jorge",
               "coord": [
                 38.714,
                 -9.13
@@ -2382,7 +2629,7 @@
           "items": [
             {
               "type": "breakfast",
-              "name": "Past\u00e9is de Bel\u00e9m",
+              "name": "Pastéis de Belém",
               "coord": [
                 38.716,
                 -9.209
@@ -2390,7 +2637,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Jer\u00f3nimos Monastery",
+              "name": "Jerónimos Monastery",
               "coord": [
                 38.716,
                 -9.209
@@ -2398,7 +2645,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Bel\u00e9m Tower",
+              "name": "Belém Tower",
               "coord": [
                 38.712,
                 -9.217
@@ -2420,7 +2667,7 @@
           "items": [
             {
               "type": "hotel",
-              "name": "Tivoli Pal\u00e1cio de Seteais",
+              "name": "Tivoli Palácio de Seteais",
               "coord": [
                 38.8,
                 -9.391
@@ -2428,7 +2675,7 @@
             },
             {
               "type": "lunch",
-              "name": "Cantinho Gastron\u00f3mico",
+              "name": "Cantinho Gastronómico",
               "coord": [
                 38.801,
                 -9.393
@@ -2452,7 +2699,7 @@
             },
             {
               "type": "dinner",
-              "name": "Tivoli Pal\u00e1cio Restaurant",
+              "name": "Tivoli Palácio Restaurant",
               "coord": [
                 38.8,
                 -9.391
@@ -2520,7 +2767,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Dom Lu\u00eds I Bridge",
+              "name": "Dom Luís I Bridge",
               "coord": [
                 41.179,
                 -8.624
@@ -2528,7 +2775,7 @@
             },
             {
               "type": "lunch",
-              "name": "Francesinha Caf\u00e9",
+              "name": "Francesinha Café",
               "coord": [
                 41.16,
                 -8.63
@@ -2550,7 +2797,7 @@
           "items": [
             {
               "type": "breakfast",
-              "name": "Confeitaria do Bolh\u00e3o",
+              "name": "Confeitaria do Bolhão",
               "coord": [
                 41.162,
                 -8.625
@@ -2566,7 +2813,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Bolh\u00e3o Market",
+              "name": "Bolhão Market",
               "coord": [
                 41.162,
                 -8.625
@@ -2674,7 +2921,7 @@
         },
         {
           "day": 2,
-          "title": "\u00c9vora UNESCO",
+          "title": "Évora UNESCO",
           "items": [
             {
               "type": "hotel",
@@ -2686,7 +2933,7 @@
             },
             {
               "type": "breakfast",
-              "name": "Caf\u00e9 da Rainha",
+              "name": "Café da Rainha",
               "coord": [
                 38.266,
                 -7.59
@@ -2694,7 +2941,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "\u00c9vora Cathedral & Museum",
+              "name": "Évora Cathedral & Museum",
               "coord": [
                 38.266,
                 -7.59
@@ -2710,7 +2957,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Roman Temple of \u00c9vora",
+              "name": "Roman Temple of Évora",
               "coord": [
                 38.266,
                 -7.59
@@ -2728,7 +2975,7 @@
         },
         {
           "day": 3,
-          "title": "Marv\u00e3o Mountain",
+          "title": "Marvão Mountain",
           "items": [
             {
               "type": "hotel",
@@ -2740,7 +2987,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Marv\u00e3o Castle",
+              "name": "Marvão Castle",
               "coord": [
                 39.38,
                 -7.396
@@ -2766,7 +3013,7 @@
         },
         {
           "day": 4,
-          "title": "\u00d3bidos Medieval",
+          "title": "Óbidos Medieval",
           "items": [
             {
               "type": "hotel",
@@ -2778,7 +3025,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "\u00d3bidos Medieval Walled Town",
+              "name": "Óbidos Medieval Walled Town",
               "coord": [
                 39.36,
                 -9.158
@@ -2804,7 +3051,7 @@
         },
         {
           "day": 5,
-          "title": "Batalha & Alcoba\u00e7a",
+          "title": "Batalha & Alcobaça",
           "items": [
             {
               "type": "hotel",
@@ -2832,7 +3079,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Alcoba\u00e7a Monastery",
+              "name": "Alcobaça Monastery",
               "coord": [
                 39.552,
                 -8.976
@@ -2916,7 +3163,7 @@
             },
             {
               "type": "dinner",
-              "name": "Pap'A\u00e7\u00f4rda",
+              "name": "Pap'Açôrda",
               "coord": [
                 38.721,
                 -9.129
@@ -2944,7 +3191,7 @@
             },
             {
               "type": "lunch",
-              "name": "Past\u00e9is de Bel\u00e9m",
+              "name": "Pastéis de Belém",
               "coord": [
                 38.716,
                 -9.209
@@ -2952,7 +3199,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Ocean\u00e1rio de Lisboa",
+              "name": "Oceanário de Lisboa",
               "coord": [
                 38.761,
                 -9.085
@@ -2982,7 +3229,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Museu da Crian\u00e7a",
+              "name": "Museu da Criança",
               "coord": [
                 38.761,
                 -9.091
@@ -2998,7 +3245,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Castelo de S\u00e3o Jorge",
+              "name": "Castelo de São Jorge",
               "coord": [
                 38.714,
                 -9.13
@@ -3028,7 +3275,7 @@
             },
             {
               "type": "lunch",
-              "name": "Cantinho Gastron\u00f3mico",
+              "name": "Cantinho Gastronómico",
               "coord": [
                 38.801,
                 -9.393
@@ -3082,7 +3329,7 @@
             },
             {
               "type": "lunch",
-              "name": "Caf\u00e9 nearby",
+              "name": "Café nearby",
               "coord": [
                 38.8,
                 -9.393
@@ -3318,7 +3565,7 @@
             },
             {
               "type": "lunch",
-              "name": "Francesinha Caf\u00e9",
+              "name": "Francesinha Café",
               "coord": [
                 41.16,
                 -8.63
@@ -3334,7 +3581,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Dom Lu\u00eds I Bridge",
+              "name": "Dom Luís I Bridge",
               "coord": [
                 41.179,
                 -8.624
@@ -3408,7 +3655,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Mercado de S\u00e3o Bento",
+              "name": "Mercado de São Bento",
               "coord": [
                 38.714,
                 -9.129
@@ -3430,7 +3677,7 @@
           "items": [
             {
               "type": "breakfast",
-              "name": "Past\u00e9is de Bel\u00e9m",
+              "name": "Pastéis de Belém",
               "coord": [
                 38.716,
                 -9.209
@@ -3454,7 +3701,7 @@
             },
             {
               "type": "dinner",
-              "name": "Pap'A\u00e7\u00f4rda",
+              "name": "Pap'Açôrda",
               "coord": [
                 38.721,
                 -9.129
@@ -3540,7 +3787,7 @@
         },
         {
           "day": 6,
-          "title": "\u00c9vora UNESCO & Dining",
+          "title": "Évora UNESCO & Dining",
           "items": [
             {
               "type": "hotel",
@@ -3560,7 +3807,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "\u00c9vora Cathedral & Museum",
+              "name": "Évora Cathedral & Museum",
               "coord": [
                 38.266,
                 -7.59
@@ -3590,7 +3837,7 @@
             },
             {
               "type": "breakfast",
-              "name": "Confeitaria do Bolh\u00e3o",
+              "name": "Confeitaria do Bolhão",
               "coord": [
                 41.162,
                 -8.625
@@ -3598,7 +3845,7 @@
             },
             {
               "type": "lunch",
-              "name": "Francesinha Caf\u00e9",
+              "name": "Francesinha Café",
               "coord": [
                 41.16,
                 -8.63
@@ -3606,7 +3853,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Bolh\u00e3o Market",
+              "name": "Bolhão Market",
               "coord": [
                 41.162,
                 -8.625
@@ -3712,7 +3959,7 @@
             },
             {
               "type": "lunch",
-              "name": "O Camar\u00e3o",
+              "name": "O Camarão",
               "coord": [
                 41.1,
                 -7.6
@@ -3764,7 +4011,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Castelo de S\u00e3o Jorge",
+              "name": "Castelo de São Jorge",
               "coord": [
                 38.714,
                 -9.13
@@ -3786,7 +4033,7 @@
           "items": [
             {
               "type": "breakfast",
-              "name": "Past\u00e9is de Bel\u00e9m",
+              "name": "Pastéis de Belém",
               "coord": [
                 38.716,
                 -9.209
@@ -3794,7 +4041,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Jer\u00f3nimos Monastery",
+              "name": "Jerónimos Monastery",
               "coord": [
                 38.716,
                 -9.209
@@ -3802,7 +4049,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Bel\u00e9m Tower",
+              "name": "Belém Tower",
               "coord": [
                 38.712,
                 -9.217
@@ -3832,7 +4079,7 @@
           "items": [
             {
               "type": "hotel",
-              "name": "Tivoli Pal\u00e1cio de Seteais",
+              "name": "Tivoli Palácio de Seteais",
               "coord": [
                 38.8,
                 -9.391
@@ -3848,7 +4095,7 @@
             },
             {
               "type": "lunch",
-              "name": "Cantinho Gastron\u00f3mico",
+              "name": "Cantinho Gastronómico",
               "coord": [
                 38.801,
                 -9.393
@@ -3864,7 +4111,7 @@
             },
             {
               "type": "dinner",
-              "name": "Tivoli Pal\u00e1cio Restaurant",
+              "name": "Tivoli Palácio Restaurant",
               "coord": [
                 38.8,
                 -9.391
@@ -3988,7 +4235,7 @@
         },
         {
           "day": 7,
-          "title": "\u00c9vora UNESCO",
+          "title": "Évora UNESCO",
           "items": [
             {
               "type": "hotel",
@@ -4008,7 +4255,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "\u00c9vora Cathedral & Museum",
+              "name": "Évora Cathedral & Museum",
               "coord": [
                 38.266,
                 -7.59
@@ -4016,7 +4263,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Roman Temple of \u00c9vora",
+              "name": "Roman Temple of Évora",
               "coord": [
                 38.266,
                 -7.59
@@ -4026,7 +4273,7 @@
         },
         {
           "day": 8,
-          "title": "Marv\u00e3o & \u00d3bidos",
+          "title": "Marvão & Óbidos",
           "items": [
             {
               "type": "hotel",
@@ -4038,7 +4285,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Marv\u00e3o Castle",
+              "name": "Marvão Castle",
               "coord": [
                 39.38,
                 -7.396
@@ -4054,7 +4301,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "\u00d3bidos Medieval Walled Town",
+              "name": "Óbidos Medieval Walled Town",
               "coord": [
                 39.36,
                 -9.158
@@ -4064,7 +4311,7 @@
         },
         {
           "day": 9,
-          "title": "Batalha & Alcoba\u00e7a",
+          "title": "Batalha & Alcobaça",
           "items": [
             {
               "type": "hotel",
@@ -4092,7 +4339,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Alcoba\u00e7a Monastery",
+              "name": "Alcobaça Monastery",
               "coord": [
                 39.552,
                 -8.976
@@ -4122,7 +4369,7 @@
             },
             {
               "type": "lunch",
-              "name": "Francesinha Caf\u00e9",
+              "name": "Francesinha Café",
               "coord": [
                 41.16,
                 -8.63
@@ -4130,7 +4377,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Dom Lu\u00eds I Bridge",
+              "name": "Dom Luís I Bridge",
               "coord": [
                 41.179,
                 -8.624
@@ -4152,7 +4399,7 @@
           "items": [
             {
               "type": "breakfast",
-              "name": "Confeitaria do Bolh\u00e3o",
+              "name": "Confeitaria do Bolhão",
               "coord": [
                 41.162,
                 -8.625
@@ -4168,7 +4415,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Bolh\u00e3o Market",
+              "name": "Bolhão Market",
               "coord": [
                 41.162,
                 -8.625
@@ -4252,7 +4499,7 @@
             },
             {
               "type": "lunch",
-              "name": "O Camar\u00e3o",
+              "name": "O Camarão",
               "coord": [
                 41.1,
                 -7.6
@@ -4274,7 +4521,7 @@
           "items": [
             {
               "type": "hotel",
-              "name": "Pousada Monast\u00e9rio de Vilarinho",
+              "name": "Pousada Monastério de Vilarinho",
               "coord": [
                 41.783,
                 -8.563

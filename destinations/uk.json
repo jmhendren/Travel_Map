@@ -16,7 +16,8 @@
         -0.147518
       ],
       "desc": "Art Deco icon, legendary service, afternoon tea, Mayfair",
-      "longDesc": "A legendary Art Deco masterpiece in Mayfair since 1812, beloved for impeccable service and sumptuous afternoon tea."
+      "longDesc": "A legendary Art Deco masterpiece in Mayfair since 1812, beloved for impeccable service and sumptuous afternoon tea.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Claridge%27s&center=51.512524,-0.147518"
     },
     {
       "name": "The Connaught",
@@ -25,7 +26,8 @@
         -0.14781
       ],
       "desc": "Connaught Bar, Michelin-star dining, intimate Mayfair",
-      "longDesc": "An intimate Mayfair gem famous for world-class bar and Michelin-starred restaurant perfect for sophisticated dining."
+      "longDesc": "An intimate Mayfair gem famous for world-class bar and Michelin-starred restaurant perfect for sophisticated dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Connaught&center=51.506984,-0.14781"
     },
     {
       "name": "The Dorchester",
@@ -34,7 +36,8 @@
         -0.150269
       ],
       "desc": "Grand dame, famed afternoon tea, family-friendly, Mayfair",
-      "longDesc": "A true grand dame overlooking Park Lane, celebrated for legendary afternoon tea and family-friendly five-star hospitality."
+      "longDesc": "A true grand dame overlooking Park Lane, celebrated for legendary afternoon tea and family-friendly five-star hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Dorchester&center=51.505173,-0.150269"
     },
     {
       "name": "The Ritz London",
@@ -43,7 +46,8 @@
         -0.141425
       ],
       "desc": "Iconic dining room & tea, gilded heritage, Piccadilly",
-      "longDesc": "London's most iconic dining destination where afternoon tea and the gilded dining room are rites of passage."
+      "longDesc": "London's most iconic dining destination where afternoon tea and the gilded dining room are rites of passage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ritz%20London&center=51.507191,-0.141425"
     },
     {
       "name": "The Savoy",
@@ -52,7 +56,8 @@
         -0.120499
       ],
       "desc": "Classic riverfront, American Bar, steps from West End",
-      "longDesc": "An iconic Thames-side hotel combining theatrical charm, the legendary American Bar, and West End proximity."
+      "longDesc": "An iconic Thames-side hotel combining theatrical charm, the legendary American Bar, and West End proximity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Savoy&center=51.510127,-0.120499"
     },
     {
       "name": "The Langham, London",
@@ -61,7 +66,8 @@
         -0.143566
       ],
       "desc": "Historic grand hotel, strong cocktail program, Marylebone",
-      "longDesc": "A historic Marylebone landmark featuring beautiful period details, excellent cocktail program, and thoughtful service perfect for families seeking classic luxury."
+      "longDesc": "A historic Marylebone landmark featuring beautiful period details, excellent cocktail program, and thoughtful service perfect for families seeking classic luxury.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Langham%2C%20London&center=51.517658,-0.143566"
     },
     {
       "name": "Brown's Hotel",
@@ -70,7 +76,8 @@
         -0.146195
       ],
       "desc": "Historic Mayfair, classic British hospitality, refined rooms",
-      "longDesc": "One of Mayfair's oldest family-run hotels combining historic charm with warm British hospitality and carefully curated rooms celebrating timeless design and comfort."
+      "longDesc": "One of Mayfair's oldest family-run hotels combining historic charm with warm British hospitality and carefully curated rooms celebrating timeless design and comfort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brown%27s%20Hotel&center=51.511146,-0.146195"
     },
     {
       "name": "The Lanesborough",
@@ -79,7 +86,8 @@
         -0.1527
       ],
       "desc": "Regency-style grandeur, butler service, Hyde Park Corner",
-      "longDesc": "A Regency palace near Hyde Park Corner with butler service, lavish interiors, and personalized luxury."
+      "longDesc": "A Regency palace near Hyde Park Corner with butler service, lavish interiors, and personalized luxury.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Lanesborough&center=51.5027,-0.1527"
     },
     {
       "name": "Mandarin Oriental Hyde Park",
@@ -88,7 +96,8 @@
         -0.1599
       ],
       "desc": "Hyde Park location, Michelin-star dining, luxury spa",
-      "longDesc": "Perfectly positioned for museums and parks, this hotel combines Michelin-star dining, a serene spa, and easy access to world-class cultural attractions."
+      "longDesc": "Perfectly positioned for museums and parks, this hotel combines Michelin-star dining, a serene spa, and easy access to world-class cultural attractions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandarin%20Oriental%20Hyde%20Park&center=51.5024,-0.1599"
     },
     {
       "name": "The Berkeley",
@@ -97,7 +106,8 @@
         -0.164212
       ],
       "desc": "Rooftop pool, close to museums/Hyde Park, Knightsbridge",
-      "longDesc": "A Knightsbridge favorite featuring a glamorous rooftop pool, excellent kids' facilities, and prime location near world-class museums and beautiful green spaces."
+      "longDesc": "A Knightsbridge favorite featuring a glamorous rooftop pool, excellent kids' facilities, and prime location near world-class museums and beautiful green spaces.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Berkeley&center=51.501255,-0.164212"
     },
     {
       "name": "Bulgari Hotel London",
@@ -106,7 +116,8 @@
         -0.162844
       ],
       "desc": "Sleek Italian design, spa & pool, Knightsbridge",
-      "longDesc": "A striking Knightsbridge sanctuary with sleek Italian design, refined spa amenities, and vibrant dining creating a modern luxury experience for discerning families."
+      "longDesc": "A striking Knightsbridge sanctuary with sleek Italian design, refined spa amenities, and vibrant dining creating a modern luxury experience for discerning families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bulgari%20Hotel%20London&center=51.501362,-0.162844"
     },
     {
       "name": "The Peninsula London",
@@ -115,7 +126,8 @@
         -0.152095
       ],
       "desc": "Modern five-star, excellent dining & bar, Belgravia",
-      "longDesc": "A modern five-star gem in Belgravia with rooftop bar and spa, multiple restaurants and restaurants, and family suites designed for comfort and elegance."
+      "longDesc": "A modern five-star gem in Belgravia with rooftop bar and spa, multiple restaurants and restaurants, and family suites designed for comfort and elegance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Peninsula%20London&center=51.501515,-0.152095"
     },
     {
       "name": "Corinthia London",
@@ -124,7 +136,8 @@
         -0.124384
       ],
       "desc": "ESPA Life spa, elegant rooms, Westminster/Embankment",
-      "longDesc": "A glamorous modern classic combining contemporary design with historic Art Deco elements, featuring an exceptional spa and multiple dining venues near Westminster."
+      "longDesc": "A glamorous modern classic combining contemporary design with historic Art Deco elements, featuring an exceptional spa and multiple dining venues near Westminster.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Corinthia%20London&center=51.506537,-0.124384"
     },
     {
       "name": "Rosewood London",
@@ -133,7 +146,8 @@
         -0.118222
       ],
       "desc": "Spacious suites, central for museums, afternoon tea, Holborn",
-      "longDesc": "A grand Victorian palazzo with spacious suites, renowned afternoon tea service, and ideal positioning for exploring London's cultural institutions and museums."
+      "longDesc": "A grand Victorian palazzo with spacious suites, renowned afternoon tea service, and ideal positioning for exploring London's cultural institutions and museums.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosewood%20London&center=51.517417,-0.118222"
     },
     {
       "name": "The London EDITION",
@@ -142,7 +156,8 @@
         -0.092871
       ],
       "desc": "Ian Schrager design, vibrant bar scene, Fitzrovia",
-      "longDesc": "An Ian Schrager masterpiece in Fitzrovia with buzzing bar scene, rooftop views, and carefully curated dining spaces attracting food lovers and creatives."
+      "longDesc": "An Ian Schrager masterpiece in Fitzrovia with buzzing bar scene, rooftop views, and carefully curated dining spaces attracting food lovers and creatives.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20London%20EDITION&center=51.516119,-0.092871"
     },
     {
       "name": "Batty Langley's",
@@ -151,7 +166,8 @@
         -0.077969
       ],
       "desc": "Georgian character, fireplaces, Spitalfields",
-      "longDesc": "A whimsical Georgian gem in trendy Spitalfields with theatrical styling, fireplaces, and romantic atmosphere perfect for curious and adventurous travelers."
+      "longDesc": "A whimsical Georgian gem in trendy Spitalfields with theatrical styling, fireplaces, and romantic atmosphere perfect for curious and adventurous travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Batty%20Langley%27s&center=51.520953,-0.077969"
     },
     {
       "name": "Number Sixteen",
@@ -160,7 +176,8 @@
         -0.182575
       ],
       "desc": "Townhouse charm, garden, near V&A Museum, South Kensington",
-      "longDesc": "A Firmdale-designed townhouse near the V&A with a secret garden, bold contemporary interiors, and family-friendly service in prime cultural location."
+      "longDesc": "A Firmdale-designed townhouse near the V&A with a secret garden, bold contemporary interiors, and family-friendly service in prime cultural location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Number%20Sixteen&center=51.495679,-0.182575"
     },
     {
       "name": "The Beaumont",
@@ -169,7 +186,8 @@
         -0.1455
       ],
       "desc": "Art Deco vibe, tucked off busy streets, near Selfridges",
-      "longDesc": "An Art Deco-inspired boutique near Selfridges with theatrical styling, charming bar, and prime positioning for shopping and dining."
+      "longDesc": "An Art Deco-inspired boutique near Selfridges with theatrical styling, charming bar, and prime positioning for shopping and dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Beaumont&center=51.5112,-0.1455"
     },
     {
       "name": "The Standard London",
@@ -178,7 +196,8 @@
         -0.085435
       ],
       "desc": "Rooftop bar, design focus, Shoreditch, cool vibe",
-      "longDesc": "A design-forward hotel in trendy Shoreditch with legendary rooftop bar, restaurant, and café perfect for creative travelers and foodies."
+      "longDesc": "A design-forward hotel in trendy Shoreditch with legendary rooftop bar, restaurant, and café perfect for creative travelers and foodies.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Standard%20London&center=51.5225,-0.085435"
     },
     {
       "name": "Firmdale Hotels - Dorset Square",
@@ -187,7 +206,8 @@
         -0.136
       ],
       "desc": "Boutique townhouse hotel, Marylebone, stylish rooms",
-      "longDesc": "A Firmdale boutique hotel in Marylebone with individually designed rooms and relaxed sophistication near Oxford Street shopping."
+      "longDesc": "A Firmdale boutique hotel in Marylebone with individually designed rooms and relaxed sophistication near Oxford Street shopping.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Firmdale%20Hotels%20-%20Dorset%20Square&center=51.523,-0.136"
     },
     {
       "name": "Flemings Mayfair",
@@ -196,7 +216,8 @@
         -0.145088
       ],
       "desc": "Polished boutique, Mayfair base, family run",
-      "longDesc": "A polished Mayfair boutique hotel offering refined hospitality, excellent service, and thoughtful design in London's most prestigious neighborhood."
+      "longDesc": "A polished Mayfair boutique hotel offering refined hospitality, excellent service, and thoughtful design in London's most prestigious neighborhood.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Flemings%20Mayfair&center=51.506534,-0.145088"
     },
     {
       "name": "Ham Yard Hotel",
@@ -205,7 +226,8 @@
         -0.135
       ],
       "desc": "Firmdale design-forward Soho, family-friendly suites",
-      "longDesc": "A Firmdale design-forward hotel in Soho with contemporary style, family-friendly suites, and excellent positioning near West End theatres."
+      "longDesc": "A Firmdale design-forward hotel in Soho with contemporary style, family-friendly suites, and excellent positioning near West End theatres.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ham%20Yard%20Hotel&center=51.514,-0.135"
     },
     {
       "name": "Broadwick Soho",
@@ -214,7 +236,8 @@
         -0.135445
       ],
       "desc": "Design hotel with rooftop, heart of Soho",
-      "longDesc": "A contemporary design hotel in Soho's heart with rooftop bar, vibrant atmosphere, and perfect access to Soho's restaurants and nightlife."
+      "longDesc": "A contemporary design hotel in Soho's heart with rooftop bar, vibrant atmosphere, and perfect access to Soho's restaurants and nightlife.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Broadwick%20Soho&center=51.513744,-0.135445"
     },
     {
       "name": "The Ned",
@@ -223,7 +246,8 @@
         -0.090038
       ],
       "desc": "Grand banking hall conversion, multiple restaurants, rooftop pool",
-      "longDesc": "A grand banking hall turned luxury hotel with multiple restaurants, rooftop pool, and distinctive architecture in the City of London."
+      "longDesc": "A grand banking hall turned luxury hotel with multiple restaurants, rooftop pool, and distinctive architecture in the City of London.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ned&center=51.513727,-0.090038"
     },
     {
       "name": "Hotel Café Royal",
@@ -232,7 +256,8 @@
         -0.135717
       ],
       "desc": "Central, stylish, great for Soho/Covent Garden",
-      "longDesc": "A stylish central London hotel perfect for exploring Soho and Covent Garden neighborhoods with excellent restaurant and bar facilities."
+      "longDesc": "A stylish central London hotel perfect for exploring Soho and Covent Garden neighborhoods with excellent restaurant and bar facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Caf%C3%A9%20Royal&center=51.510177,-0.135717"
     },
     {
       "name": "The Landmark London",
@@ -241,7 +266,8 @@
         -0.162824
       ],
       "desc": "Grand Victorian atrium, indoor pool, family rooms, Marylebone",
-      "longDesc": "A Victorian masterpiece in Marylebone with soaring glass atrium and family facilities. Offering elegant accommodations and excellent service for travelers."
+      "longDesc": "A Victorian masterpiece in Marylebone with soaring glass atrium and family facilities. Offering elegant accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Landmark%20London&center=51.52178,-0.162824"
     },
     {
       "name": "The Goring",
@@ -250,7 +276,8 @@
         -0.139595
       ],
       "desc": "Belgravia charm, near Buckingham Palace, refined dining",
-      "longDesc": "A family-run institution near Buckingham Palace combining refined charm with warm service. Offering refined accommodations and excellent service for travelers."
+      "longDesc": "A family-run institution near Buckingham Palace combining refined charm with warm service. Offering refined accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Goring&center=51.502953,-0.139595"
     },
     {
       "name": "Knightsbridge Hotel",
@@ -259,7 +286,8 @@
         -0.164169
       ],
       "desc": "Boutique comfort near Harrods and South Kensington museums",
-      "longDesc": "A discreet boutique treasure near Harrods offering personalized service and elegance. Offering charming accommodations and excellent service for travelers."
+      "longDesc": "A discreet boutique treasure near Harrods offering personalized service and elegance. Offering charming accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Knightsbridge%20Hotel&center=51.498188,-0.164169"
     },
     {
       "name": "One Aldwych",
@@ -268,7 +296,8 @@
         -0.119395
       ],
       "desc": "Theatre district, families welcome, warm service, Covent Garden",
-      "longDesc": "A contemporary gem in the Theatre District perfect for West End shows with family suites."
+      "longDesc": "A contemporary gem in the Theatre District perfect for West End shows with family suites.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=One%20Aldwych&center=51.511766,-0.119395"
     },
     {
       "name": "45 Park Lane",
@@ -277,7 +306,8 @@
         -0.148965
       ],
       "desc": "Contemporary luxury, park-side location, Dorchester Collection",
-      "longDesc": "A modern luxury flagship on Park Lane with Michelin-starred dining and green space access. Perfect for families and discerning travelers seeking refined hospitality."
+      "longDesc": "A modern luxury flagship on Park Lane with Michelin-starred dining and green space access. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=45%20Park%20Lane&center=51.505022,-0.148965"
     },
     {
       "name": "Raffles London at The OWO",
@@ -286,7 +316,8 @@
         -0.125
       ],
       "desc": "Landmark conversion, ultra-luxe suites, Whitehall",
-      "longDesc": "A landmark conversion near Whitehall offering ultra-luxe suites in a historic building. Offering sophisticated accommodations and excellent service for travelers."
+      "longDesc": "A landmark conversion near Whitehall offering ultra-luxe suites in a historic building. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Raffles%20London%20at%20The%20OWO&center=51.503,-0.125"
     },
     {
       "name": "The Emory",
@@ -295,7 +326,8 @@
         -0.165744
       ],
       "desc": "All-suite Maybourne newcomer, spa/wellness, Knightsbridge",
-      "longDesc": "A modern all-suite hotel by Maybourne group in Knightsbridge with spa and wellness. Offering charming accommodations and excellent service for travelers."
+      "longDesc": "A modern all-suite hotel by Maybourne group in Knightsbridge with spa and wellness. Offering charming accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Emory&center=51.493468,-0.165744"
     },
     {
       "name": "Beaverbrook Town House",
@@ -304,7 +336,8 @@
         -0.303
       ],
       "desc": "Stylish suites, Japanese restaurant, Chelsea",
-      "longDesc": "A stylish Chelsea townhouse hotel with contemporary design, Japanese restaurant, and proximity to King's Road shopping and museums."
+      "longDesc": "A stylish Chelsea townhouse hotel with contemporary design, Japanese restaurant, and proximity to King's Road shopping and museums.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Beaverbrook%20Town%20House&center=51.403,-0.303"
     },
     {
       "name": "Cliveden House",
@@ -313,7 +346,8 @@
         -0.684169
       ],
       "desc": "Historic stately home, Thames-side grounds, Berkshire",
-      "longDesc": "A stately home in Berkshire featuring Italianate gardens and fine dining with grandeur. Offering sophisticated accommodations and excellent service for travelers."
+      "longDesc": "A stately home in Berkshire featuring Italianate gardens and fine dining with grandeur. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cliveden%20House&center=51.551869,-0.684169"
     },
     {
       "name": "Lucknam Park",
@@ -322,7 +356,8 @@
         -2.2578
       ],
       "desc": "Stately estate, spa, family cottages, near Bath",
-      "longDesc": "A grand country retreat near Bath with cottages, equestrian facilities, and world-class spa. Offering sophisticated accommodations and excellent service for travelers."
+      "longDesc": "A grand country retreat near Bath with cottages, equestrian facilities, and world-class spa. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucknam%20Park&center=51.4547,-2.2578"
     },
     {
       "name": "Soho Farmhouse",
@@ -331,7 +366,8 @@
         -1.712
       ],
       "desc": "Cotswolds luxury cabins, extensive activities, group-friendly",
-      "longDesc": "A Cotswolds destination retreat with stylish cottages, restaurants, and diverse activities. Offering gracious accommodations and excellent service for travelers."
+      "longDesc": "A Cotswolds destination retreat with stylish cottages, restaurants, and diverse activities. Offering gracious accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soho%20Farmhouse&center=51.815,-1.712"
     },
     {
       "name": "The Newt in Somerset",
@@ -340,7 +376,8 @@
         -2.665
       ],
       "desc": "Immersive gardens, farm-to-table dining, art spaces, Somerset",
-      "longDesc": "An art-focused Somerset hotel with immersive gardens and farm-to-table dining. Offering elegant accommodations and excellent service for travelers."
+      "longDesc": "An art-focused Somerset hotel with immersive gardens and farm-to-table dining. Offering elegant accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Newt%20in%20Somerset&center=51.205,-2.665"
     },
     {
       "name": "Hayfield Manor",
@@ -349,7 +386,8 @@
         -2.364
       ],
       "desc": "Bath luxury hotel, spa, award-winning restaurant",
-      "longDesc": "An elegant Victorian hotel in Bath with award-winning dining and luxurious spa. Perfect for families and discerning travelers seeking refined hospitality."
+      "longDesc": "An elegant Victorian hotel in Bath with award-winning dining and luxurious spa. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hayfield%20Manor&center=51.393,-2.364"
     },
     {
       "name": "The Pig in Bath",
@@ -358,7 +396,8 @@
         -2.365
       ],
       "desc": "Farm-to-table casual luxury, walled garden, Somerset",
-      "longDesc": "A quirky Somerset hotel celebrating local food culture with walled garden and foraging. Offering gracious accommodations and excellent service for travelers."
+      "longDesc": "A quirky Somerset hotel celebrating local food culture with walled garden and foraging. Offering gracious accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Pig%20in%20Bath&center=51.391,-2.365"
     },
     {
       "name": "Whatley Manor",
@@ -367,7 +406,8 @@
         -2.13
       ],
       "desc": "Cotswolds five-star, Michelin spa, country elegance",
-      "longDesc": "A luxury Cotswolds retreat with Michelin spa, farm-to-table dining, and elegance. Perfect for families and discerning travelers seeking refined hospitality."
+      "longDesc": "A luxury Cotswolds retreat with Michelin spa, farm-to-table dining, and elegance. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Whatley%20Manor&center=51.804,-2.13"
     },
     {
       "name": "Dormy House Hotel",
@@ -376,7 +416,8 @@
         -1.983
       ],
       "desc": "Cotswolds luxury, spa, gardens, Broadway",
-      "longDesc": "A charming Cotswolds hotel in Broadway with spa, beautiful gardens, and hospitality. Offering elegant accommodations and excellent service for travelers."
+      "longDesc": "A charming Cotswolds hotel in Broadway with spa, beautiful gardens, and hospitality. Offering elegant accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dormy%20House%20Hotel&center=51.852,-1.983"
     },
     {
       "name": "The Rectory Hotel",
@@ -385,7 +426,8 @@
         -1.621
       ],
       "desc": "Oxfordshire country house, boutique, woodland setting",
-      "longDesc": "An intimate country boutique in Oxfordshire with woodland setting and excellent restaurant. Offering charming accommodations and excellent service for travelers."
+      "longDesc": "An intimate country boutique in Oxfordshire with woodland setting and excellent restaurant. Offering charming accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Rectory%20Hotel&center=51.715,-1.621"
     },
     {
       "name": "Ston Easton Park",
@@ -394,7 +436,8 @@
         -2.501
       ],
       "desc": "Georgian mansion, near Bath, country elegance",
-      "longDesc": "A Georgian mansion near Bath set in 36 acres with fine dining and beautiful gardens."
+      "longDesc": "A Georgian mansion near Bath set in 36 acres with fine dining and beautiful gardens.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ston%20Easton%20Park&center=51.331,-2.501"
     },
     {
       "name": "Coworth Park",
@@ -403,7 +446,8 @@
         -0.621589
       ],
       "desc": "Equestrian country retreat, Dorchester Collection, Ascot",
-      "longDesc": "A country retreat near Ascot with equestrian facilities and Dorchester Collection luxury. Perfect for families and discerning travelers seeking refined hospitality."
+      "longDesc": "A country retreat near Ascot with equestrian facilities and Dorchester Collection luxury. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coworth%20Park&center=51.403777,-0.621589"
     },
     {
       "name": "The Grove",
@@ -412,7 +456,8 @@
         -2.424
       ],
       "desc": "Hertfordshire estate, pools, family activities",
-      "longDesc": "A grand Hertfordshire estate with pools, spa, and diverse family-friendly activities. Offering sophisticated accommodations and excellent service for travelers."
+      "longDesc": "A grand Hertfordshire estate with pools, spa, and diverse family-friendly activities. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Grove&center=51.4,-2.424"
     },
     {
       "name": "Gleneagles Hotel",
@@ -421,7 +466,8 @@
         -3.752468
       ],
       "desc": "Iconic Scottish resort, championship golf, spa, family activities",
-      "longDesc": "A legendary 850-acre resort offering championship golf, equestrian, and family activities. Offering elegant accommodations and excellent service for travelers."
+      "longDesc": "A legendary 850-acre resort offering championship golf, equestrian, and family activities. Offering elegant accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gleneagles%20Hotel&center=56.283019,-3.752468"
     },
     {
       "name": "The Balmoral, Edinburgh",
@@ -430,7 +476,8 @@
         -3.188
       ],
       "desc": "Edinburgh landmark, great base for Old Town exploration",
-      "longDesc": "A grand Edinburgh institution perfectly positioned for historic Old Town exploration. Offering charming accommodations and excellent service for travelers."
+      "longDesc": "A grand Edinburgh institution perfectly positioned for historic Old Town exploration. Offering charming accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Balmoral%2C%20Edinburgh&center=55.953,-3.188"
     },
     {
       "name": "Prestonfield House",
@@ -439,7 +486,8 @@
         -3.145
       ],
       "desc": "Historic mansion near Holyrood, Edinburgh, luxury escape",
-      "longDesc": "A spectacular 17th-century mansion near Holyrood offering Gothic luxury and estate. Perfect for families and discerning travelers seeking refined hospitality."
+      "longDesc": "A spectacular 17th-century mansion near Holyrood offering Gothic luxury and estate. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Prestonfield%20House&center=55.919,-3.145"
     },
     {
       "name": "One Devonshire Gardens",
@@ -448,7 +496,8 @@
         -4.274
       ],
       "desc": "Glasgow boutique luxury, townhouse elegance",
-      "longDesc": "A sophisticated Glasgow boutique in Victorian townhouses with excellent restaurant. Offering refined accommodations and excellent service for travelers."
+      "longDesc": "A sophisticated Glasgow boutique in Victorian townhouses with excellent restaurant. Offering refined accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=One%20Devonshire%20Gardens&center=55.879,-4.274"
     },
     {
       "name": "Rocpool Reserve",
@@ -457,7 +506,8 @@
         -4.134
       ],
       "desc": "Inverness luxury, contemporary design, Highland base",
-      "longDesc": "A contemporary Highland hotel in Inverness with stylish rooms and excellent restaurant. Offering sophisticated accommodations and excellent service for travelers."
+      "longDesc": "A contemporary Highland hotel in Inverness with stylish rooms and excellent restaurant. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rocpool%20Reserve&center=57.482,-4.134"
     }
   ],
   "restaurants": [
@@ -468,7 +518,8 @@
         -0.150269
       ],
       "desc": "3 Michelin stars, French haute cuisine, Mayfair",
-      "longDesc": "An exceptional temple of French cuisine in Mayfair where Chef Ducasse's technique delivers unforgettable dining."
+      "longDesc": "An exceptional temple of French cuisine in Mayfair where Chef Ducasse's technique delivers unforgettable dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alain%20Ducasse%20at%20The%20Dorchester&center=51.505173,-0.150269"
     },
     {
       "name": "CORE by Clare Smyth",
@@ -477,7 +528,8 @@
         -0.201
       ],
       "desc": "3 Michelin stars, modern British, Notting Hill",
-      "longDesc": "An intimate Notting Hill gem where Chef Smyth crafts exquisitely executed seasonal British menus. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An intimate Notting Hill gem where Chef Smyth crafts exquisitely executed seasonal British menus. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=CORE%20by%20Clare%20Smyth&center=51.52,-0.201"
     },
     {
       "name": "Restaurant Gordon Ramsay",
@@ -486,7 +538,8 @@
         -0.162064
       ],
       "desc": "3 Michelin stars, French-inspired, Chelsea",
-      "longDesc": "Chef Ramsay's flagship in Chelsea with impeccably executed French techniques and ingredients. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "Chef Ramsay's flagship in Chelsea with impeccably executed French techniques and ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Gordon%20Ramsay&center=51.485508,-0.162064"
     },
     {
       "name": "Hélène Darroze at The Connaught",
@@ -495,7 +548,8 @@
         -0.14781
       ],
       "desc": "Three-star French elegance, Mayfair institution",
-      "longDesc": "An exceptional showcase of Chef Darroze's Basque-influenced French cuisine in Mayfair. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An exceptional showcase of Chef Darroze's Basque-influenced French cuisine in Mayfair. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%A9l%C3%A8ne%20Darroze%20at%20The%20Connaught&center=51.506984,-0.14781"
     },
     {
       "name": "Dinner by Heston Blumenthal",
@@ -504,7 +558,8 @@
         -0.162844
       ],
       "desc": "2 Michelin stars, innovative British, Knightsbridge",
-      "longDesc": "A theatrical experience combining historic British recipes with modern technique in the Bulgari Hotel. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A theatrical experience combining historic British recipes with modern technique in the Bulgari Hotel. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinner%20by%20Heston%20Blumenthal&center=51.501362,-0.162844"
     },
     {
       "name": "Pétrus",
@@ -513,7 +568,8 @@
         -0.152095
       ],
       "desc": "2 Michelin stars, fine French, Belgravia",
-      "longDesc": "A sophisticated French restaurant in Belgravia with exceptional wine and elegant setting. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A sophisticated French restaurant in Belgravia with exceptional wine and elegant setting. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A9trus&center=51.501515,-0.152095"
     },
     {
       "name": "Nobu London",
@@ -522,7 +578,8 @@
         -0.1475
       ],
       "desc": "2 Michelin stars, Japanese-Peruvian fusion, Mayfair",
-      "longDesc": "An innovative Japanese-Peruvian restaurant in Mayfair where Chef Matsuhisa's style meets London sophistication. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An innovative Japanese-Peruvian restaurant in Mayfair where Chef Matsuhisa's style meets London sophistication. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nobu%20London&center=51.505,-0.1475"
     },
     {
       "name": "The Hand & Flowers",
@@ -531,7 +588,8 @@
         -0.658
       ],
       "desc": "2 Michelin stars, gastropub, Marlow",
-      "longDesc": "Chef Tom Kerridge's celebrated Thames-side gastropub near London serving refined British fare. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "Chef Tom Kerridge's celebrated Thames-side gastropub near London serving refined British fare. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hand%20%26%20Flowers&center=51.478,-0.658"
     },
     {
       "name": "Alyn Williams at The Westbury",
@@ -540,7 +598,8 @@
         -0.139
       ],
       "desc": "2 Michelin stars, modern British fine dining, Mayfair",
-      "longDesc": "A celebrated Mayfair restaurant where Chef Williams creates refined contemporary British cuisine. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A celebrated Mayfair restaurant where Chef Williams creates refined contemporary British cuisine. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alyn%20Williams%20at%20The%20Westbury&center=51.506,-0.139"
     },
     {
       "name": "Brooklands by Claude Bosi",
@@ -549,7 +608,8 @@
         -0.18
       ],
       "desc": "2 Michelin stars, fine French, Chelsea",
-      "longDesc": "Chef Claude Bosi's elegant Chelsea restaurant serving contemporary French cuisine with precision. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "Chef Claude Bosi's elegant Chelsea restaurant serving contemporary French cuisine with precision. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklands%20by%20Claude%20Bosi&center=51.49,-0.18"
     },
     {
       "name": "Benu",
@@ -558,7 +618,8 @@
         -0.138
       ],
       "desc": "1 Michelin star (potential), innovative, Mayfair",
-      "longDesc": "A cutting-edge restaurant in Mayfair celebrating innovative cuisine and seasonal ingredients. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A cutting-edge restaurant in Mayfair celebrating innovative cuisine and seasonal ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Benu&center=51.505,-0.138"
     },
     {
       "name": "Sketch Restaurant",
@@ -567,7 +628,8 @@
         -0.138
       ],
       "desc": "1 Michelin star, contemporary French, Mayfair",
-      "longDesc": "A theatrical Mayfair institution where contemporary French cuisine meets avant-garde design. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A theatrical Mayfair institution where contemporary French cuisine meets avant-garde design. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sketch%20Restaurant&center=51.512,-0.138"
     },
     {
       "name": "Heliot Steak House",
@@ -576,7 +638,8 @@
         -0.139
       ],
       "desc": "1 Michelin star, premium steakhouse, Mayfair",
-      "longDesc": "An elegant Mayfair steakhouse serving prime beef with exceptional service and wine program. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An elegant Mayfair steakhouse serving prime beef with exceptional service and wine program. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Heliot%20Steak%20House&center=51.506,-0.139"
     },
     {
       "name": "Brat",
@@ -585,7 +648,8 @@
         -0.085
       ],
       "desc": "1 Michelin star, exceptional British, Shoreditch",
-      "longDesc": "A stripped-back Shoreditch gem celebrating British ingredients with outdoor cooking traditions. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A stripped-back Shoreditch gem celebrating British ingredients with outdoor cooking traditions. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brat&center=51.524,-0.085"
     },
     {
       "name": "Lyle's",
@@ -594,7 +658,8 @@
         -0.085
       ],
       "desc": "1 Michelin star, innovative seasonal, Shoreditch",
-      "longDesc": "A celebrated Shoreditch restaurant showcasing refined seasonal British fare and vegetables. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A celebrated Shoreditch restaurant showcasing refined seasonal British fare and vegetables. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lyle%27s&center=51.515,-0.085"
     },
     {
       "name": "Hide",
@@ -603,7 +668,8 @@
         -0.133
       ],
       "desc": "1 Michelin star, elevated British tasting, Mayfair",
-      "longDesc": "A multi-level Mayfair restaurant with exquisite tasting menus celebrating British ingredients. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A multi-level Mayfair restaurant with exquisite tasting menus celebrating British ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hide&center=51.507,-0.133"
     },
     {
       "name": "The Harwood Arms",
@@ -612,7 +678,8 @@
         -0.217
       ],
       "desc": "1 Michelin star, gastropub, Fulham",
-      "longDesc": "A neighborhood gastropub in Fulham celebrating game and British ingredients with technique. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A neighborhood gastropub in Fulham celebrating game and British ingredients with technique. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Harwood%20Arms&center=51.473,-0.217"
     },
     {
       "name": "The Ledbury",
@@ -621,7 +688,8 @@
         -0.201
       ],
       "desc": "1 Michelin star, elegant British, Notting Hill",
-      "longDesc": "A sophisticated Notting Hill restaurant where Chef Brett Graham refines British ingredients. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A sophisticated Notting Hill restaurant where Chef Brett Graham refines British ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ledbury&center=51.51,-0.201"
     },
     {
       "name": "Gymkhana",
@@ -630,7 +698,8 @@
         -0.133
       ],
       "desc": "1 Michelin star, refined Indian fine dining, Mayfair",
-      "longDesc": "An elegant Mayfair restaurant serving refined Indian cuisine celebrating coastal spices. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An elegant Mayfair restaurant serving refined Indian cuisine celebrating coastal spices. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymkhana&center=51.511,-0.133"
     },
     {
       "name": "Yauatcha",
@@ -639,7 +708,8 @@
         -0.131
       ],
       "desc": "1 Michelin star, dim sum, Soho",
-      "longDesc": "A celebrated Soho dim sum restaurant serving traditional and creative small plates. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A celebrated Soho dim sum restaurant serving traditional and creative small plates. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yauatcha&center=51.514,-0.131"
     },
     {
       "name": "L'Astrance",
@@ -648,7 +718,8 @@
         -0.165
       ],
       "desc": "1 Michelin star, ultra-refined French, Chelsea",
-      "longDesc": "A legendary French institution where Chef Passard's dedication creates transcendent cuisine. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A legendary French institution where Chef Passard's dedication creates transcendent cuisine. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Astrance&center=51.475,-0.165"
     },
     {
       "name": "A. Wong",
@@ -657,7 +728,8 @@
         -0.123
       ],
       "desc": "1 Michelin star, refined Chinese, Victoria",
-      "longDesc": "An exceptional Chinese restaurant in Victoria celebrating regional Chinese culinary traditions. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An exceptional Chinese restaurant in Victoria celebrating regional Chinese culinary traditions. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=A.%20Wong&center=51.491,-0.123"
     },
     {
       "name": "Triumph & Endeavour",
@@ -666,7 +738,8 @@
         -0.117
       ],
       "desc": "Contemporary British dining, focus on ingredient",
-      "longDesc": "A contemporary British restaurant celebrating quality ingredients with refined presentations. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A contemporary British restaurant celebrating quality ingredients with refined presentations. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Triumph%20%26%20Endeavour&center=51.507,-0.117"
     },
     {
       "name": "Rules Restaurant",
@@ -675,7 +748,8 @@
         -0.123
       ],
       "desc": "London's oldest (1798), game & British classics",
-      "longDesc": "A legendary Covent Garden institution serving traditional game dishes for over two centuries. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A legendary Covent Garden institution serving traditional game dishes for over two centuries. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rules%20Restaurant&center=51.514,-0.123"
     },
     {
       "name": "Simpson's-in-the-Strand",
@@ -684,7 +758,8 @@
         -0.117
       ],
       "desc": "Iconic British dining (1848), carved roasts, Strand",
-      "longDesc": "A historic Strand institution famous for carved roasts and traditional British fare. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A historic Strand institution famous for carved roasts and traditional British fare. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Simpson%27s-in-the-Strand&center=51.512,-0.117"
     },
     {
       "name": "Ivy Restaurant",
@@ -693,7 +768,8 @@
         -0.121
       ],
       "desc": "Iconic brasserie, West End views, theatrical clientele",
-      "longDesc": "A legendary Covent Garden brasserie where theatrical folk gather for French-style fare. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A legendary Covent Garden brasserie where theatrical folk gather for French-style fare. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivy%20Restaurant&center=51.514,-0.121"
     },
     {
       "name": "J Sheekey",
@@ -702,7 +778,8 @@
         -0.123
       ],
       "desc": "Historic seafood, theatrical haunt, Covent Garden",
-      "longDesc": "A beloved Covent Garden seafood institution with nearly 130 years of impeccable fish. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A beloved Covent Garden seafood institution with nearly 130 years of impeccable fish. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=J%20Sheekey&center=51.513,-0.123"
     },
     {
       "name": "Fortnum & Mason Dining Room",
@@ -711,7 +788,8 @@
         -0.139
       ],
       "desc": "Historic department store dining, afternoon tea",
-      "longDesc": "Iconic Piccadilly department store offering legendary afternoon tea and refined British dining. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "Iconic Piccadilly department store offering legendary afternoon tea and refined British dining. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fortnum%20%26%20Mason%20Dining%20Room&center=51.507,-0.139"
     },
     {
       "name": "The Clove Club",
@@ -720,7 +798,8 @@
         -0.077
       ],
       "desc": "Modern British, Shoreditch, seasonal menu",
-      "longDesc": "A celebrated Shoreditch restaurant serving inventive modern British cuisine with seasonal focus. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A celebrated Shoreditch restaurant serving inventive modern British cuisine with seasonal focus. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Clove%20Club&center=51.518,-0.077"
     },
     {
       "name": "Ottolenghi",
@@ -729,7 +808,8 @@
         -0.142
       ],
       "desc": "Chef Yotam, vibrant Mediterranean, multiple locations",
-      "longDesc": "Chef Ottolenghi's iconic casual restaurants featuring bold Mediterranean flavors and design. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "Chef Ottolenghi's iconic casual restaurants featuring bold Mediterranean flavors and design. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ottolenghi&center=51.539,-0.142"
     },
     {
       "name": "Salt Baked",
@@ -738,7 +818,8 @@
         -0.12
       ],
       "desc": "Whole animal dining, nose-to-tail, Fitzrovia",
-      "longDesc": "A passionate nose-to-tail restaurant in Fitzrovia celebrating whole-animal cookery. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A passionate nose-to-tail restaurant in Fitzrovia celebrating whole-animal cookery. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt%20Baked&center=51.515,-0.12"
     },
     {
       "name": "Barrafina",
@@ -747,7 +828,8 @@
         -0.131
       ],
       "desc": "Spanish tapas bar, counter seating, Soho",
-      "longDesc": "A beloved Soho tapas bar serving authentic Spanish small plates with jamón ibérico. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A beloved Soho tapas bar serving authentic Spanish small plates with jamón ibérico. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrafina&center=51.514,-0.131"
     },
     {
       "name": "Granger & Co",
@@ -756,7 +838,8 @@
         -0.074
       ],
       "desc": "Breakfast powerhouse, ricotta pancakes, King's Cross",
-      "longDesc": "An Australian breakfast cult favorite known for fluffy ricotta pancakes and exceptional coffee. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An Australian breakfast cult favorite known for fluffy ricotta pancakes and exceptional coffee. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Granger%20%26%20Co&center=51.531,-0.074"
     },
     {
       "name": "Dishoom",
@@ -765,7 +848,8 @@
         -0.121
       ],
       "desc": "Bombay street food, family-favorite, Covent Garden",
-      "longDesc": "A vibrant Indian restaurant celebrating Bombay street food with incredible curry breads. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A vibrant Indian restaurant celebrating Bombay street food with incredible curry breads. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dishoom&center=51.523,-0.121"
     },
     {
       "name": "Padella",
@@ -774,7 +858,8 @@
         -0.086
       ],
       "desc": "Fresh pasta daily, no reservations, Borough Market",
-      "longDesc": "A tiny Borough Market gem serving handmade pasta and exceptional seafood standing-room only. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A tiny Borough Market gem serving handmade pasta and exceptional seafood standing-room only. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Padella&center=51.498,-0.086"
     },
     {
       "name": "Lilia",
@@ -783,7 +868,8 @@
         -0.085
       ],
       "desc": "Rustic Italian, wood-fired pastas, theatrical room",
-      "longDesc": "A theatrical Italian restaurant in South Bank with spectacular open kitchen and pastas. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A theatrical Italian restaurant in South Bank with spectacular open kitchen and pastas. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lilia&center=51.501,-0.085"
     },
     {
       "name": "Dum Pukht",
@@ -792,7 +878,8 @@
         -0.138
       ],
       "desc": "Royal Indian cuisine, slow cooking tradition, St James's",
-      "longDesc": "A sophisticated Indian restaurant celebrating Dum Pukht slow-cooking traditions with exceptional biryani. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A sophisticated Indian restaurant celebrating Dum Pukht slow-cooking traditions with exceptional biryani. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dum%20Pukht&center=51.505,-0.138"
     },
     {
       "name": "Tamarind",
@@ -801,7 +888,8 @@
         -0.144
       ],
       "desc": "Modern Indian fine dining, Michelin-starred, Mayfair",
-      "longDesc": "A celebrated Mayfair restaurant serving contemporary Indian cuisine with refined presentation. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A celebrated Mayfair restaurant serving contemporary Indian cuisine with refined presentation. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tamarind&center=51.504,-0.144"
     },
     {
       "name": "Cote Brasserie",
@@ -810,7 +898,8 @@
         -0.12
       ],
       "desc": "French classics, steak-frites, casual-elegant",
-      "longDesc": "A charming French brasserie celebrating classic bistro fare and steak-frites. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A charming French brasserie celebrating classic bistro fare and steak-frites. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cote%20Brasserie&center=51.512,-0.12"
     },
     {
       "name": "Humble Chicken",
@@ -819,7 +908,8 @@
         -0.12
       ],
       "desc": "Rotisserie specialist, herb-brined chicken, Fitzrovia",
-      "longDesc": "A celebrated restaurant specializing in exceptional roast chicken with refined simplicity. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A celebrated restaurant specializing in exceptional roast chicken with refined simplicity. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Humble%20Chicken&center=51.517,-0.12"
     },
     {
       "name": "64 Goodge Street",
@@ -828,7 +918,8 @@
         -0.135
       ],
       "desc": "Modern British, intimate, Fitzrovia",
-      "longDesc": "An intimate Fitzrovia restaurant serving refined modern British cuisine with precision. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An intimate Fitzrovia restaurant serving refined modern British cuisine with precision. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=64%20Goodge%20Street&center=51.519,-0.135"
     },
     {
       "name": "Trivet",
@@ -837,7 +928,8 @@
         -0.097
       ],
       "desc": "Rustic European fare, wood-fired hearth, Borough Market",
-      "longDesc": "A Borough restaurant celebrating wood-fired cooking and seasonal European cuisine. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A Borough restaurant celebrating wood-fired cooking and seasonal European cuisine. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Trivet&center=51.503,-0.097"
     },
     {
       "name": "Da Terra",
@@ -846,7 +938,8 @@
         -0.085
       ],
       "desc": "Italian simplicity, seasonal ingredients, Shoreditch",
-      "longDesc": "A Shoreditch gem celebrating Italian culinary traditions with exceptional seasonal ingredients. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A Shoreditch gem celebrating Italian culinary traditions with exceptional seasonal ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Da%20Terra&center=51.524,-0.085"
     },
     {
       "name": "The Ritz Afternoon Tea",
@@ -855,7 +948,8 @@
         -0.141425
       ],
       "desc": "Gilded dining room, legendary tea service, Piccadilly",
-      "longDesc": "London's most iconic afternoon tea in the gilded Ritz dining room with champagne. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "London's most iconic afternoon tea in the gilded Ritz dining room with champagne. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ritz%20Afternoon%20Tea&center=51.507191,-0.141425"
     },
     {
       "name": "Claridge's Afternoon Tea",
@@ -864,7 +958,8 @@
         -0.147518
       ],
       "desc": "Art Deco setting, refined tea service, Mayfair",
-      "longDesc": "An Art Deco afternoon tea in the historic Claridge's foyer with fine china. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An Art Deco afternoon tea in the historic Claridge's foyer with fine china. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Claridge%27s%20Afternoon%20Tea&center=51.512524,-0.147518"
     },
     {
       "name": "The Dorchester Afternoon Tea",
@@ -873,7 +968,8 @@
         -0.150269
       ],
       "desc": "Grand tearoom, sumptuous spreads, Park Lane views",
-      "longDesc": "A lavish afternoon tea with champagne and pastries in an ornate salon. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A lavish afternoon tea with champagne and pastries in an ornate salon. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Dorchester%20Afternoon%20Tea&center=51.505173,-0.150269"
     },
     {
       "name": "Palm Court at The Langham",
@@ -882,7 +978,8 @@
         -0.143566
       ],
       "desc": "Elegant tea service, historic Marylebone",
-      "longDesc": "An elegant afternoon tea in the Palm Court of this historic Marylebone landmark. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An elegant afternoon tea in the Palm Court of this historic Marylebone landmark. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palm%20Court%20at%20The%20Langham&center=51.517658,-0.143566"
     },
     {
       "name": "The Savoy Afternoon Tea",
@@ -891,7 +988,8 @@
         -0.120499
       ],
       "desc": "Thames-side tea service, West End views",
-      "longDesc": "An iconic afternoon tea with Thames-side views and West End proximity. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "An iconic afternoon tea with Thames-side views and West End proximity. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Savoy%20Afternoon%20Tea&center=51.510127,-0.120499"
     },
     {
       "name": "The Ivy Market Grill",
@@ -900,7 +998,8 @@
         -0.122
       ],
       "desc": "Modern brasserie, oysters, Covent Garden Market",
-      "longDesc": "A stylish Covent Garden venue offering fresh oysters, grilled meats, and French-inspired fare in a theatrical market-side setting."
+      "longDesc": "A stylish Covent Garden venue offering fresh oysters, grilled meats, and French-inspired fare in a theatrical market-side setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ivy%20Market%20Grill&center=51.514,-0.122"
     },
     {
       "name": "Hawksmoor Seven Dials",
@@ -909,7 +1008,8 @@
         -0.122
       ],
       "desc": "Prime steaks, cocktails, Covent Garden, British beef",
-      "longDesc": "A celebrated steakhouse in Covent Garden serving prime British beef with outstanding cocktails and theatrical atmosphere for special occasions."
+      "longDesc": "A celebrated steakhouse in Covent Garden serving prime British beef with outstanding cocktails and theatrical atmosphere for special occasions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hawksmoor%20Seven%20Dials&center=51.513,-0.122"
     },
     {
       "name": "The Ivy Asia",
@@ -918,7 +1018,8 @@
         -0.115
       ],
       "desc": "Pan-Asian cuisine, stylish setting, Mayfair",
-      "longDesc": "A sophisticated pan-Asian restaurant in Mayfair combining vibrant flavors with contemporary design and warm, attentive service."
+      "longDesc": "A sophisticated pan-Asian restaurant in Mayfair combining vibrant flavors with contemporary design and warm, attentive service.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ivy%20Asia&center=51.509,-0.115"
     },
     {
       "name": "Caraffini",
@@ -927,7 +1028,8 @@
         -0.163
       ],
       "desc": "Italian fine dining, seasonal menu, Chelsea",
-      "longDesc": "A celebrated Italian restaurant in Chelsea with seasonal menus celebrating Italian culinary traditions and impeccable technique."
+      "longDesc": "A celebrated Italian restaurant in Chelsea with seasonal menus celebrating Italian culinary traditions and impeccable technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caraffini&center=51.493,-0.163"
     },
     {
       "name": "Wild Honey",
@@ -936,7 +1038,8 @@
         -0.138
       ],
       "desc": "Contemporary European, refined Mayfair, seasonal",
-      "longDesc": "A sophisticated Mayfair restaurant serving contemporary European cuisine with refined ingredients and impeccable service. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A sophisticated Mayfair restaurant serving contemporary European cuisine with refined ingredients and impeccable service. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wild%20Honey&center=51.51,-0.138"
     },
     {
       "name": "Humble Chicken",
@@ -945,7 +1048,8 @@
         -0.12
       ],
       "desc": "Seasonal roasted poultry, minimalist plating, Fitzrovia",
-      "longDesc": "A celebrated restaurant in Fitzrovia specializing in exceptional roast chicken prepared with refined simplicity and skill."
+      "longDesc": "A celebrated restaurant in Fitzrovia specializing in exceptional roast chicken prepared with refined simplicity and skill.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Humble%20Chicken&center=51.517,-0.12"
     },
     {
       "name": "64 Goodge Street",
@@ -954,7 +1058,8 @@
         -0.135
       ],
       "desc": "Modern British, intimate, Fitzrovia, chef's tasting",
-      "longDesc": "An intimate Fitzrovia restaurant serving refined modern British cuisine with precision and respect for seasonal ingredients."
+      "longDesc": "An intimate Fitzrovia restaurant serving refined modern British cuisine with precision and respect for seasonal ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=64%20Goodge%20Street&center=51.519,-0.135"
     },
     {
       "name": "Trivet",
@@ -963,7 +1068,8 @@
         -0.097
       ],
       "desc": "Seasonal European, open kitchen, Borough destination",
-      "longDesc": "A Borough restaurant celebrating wood-fired cooking and seasonal European cuisine in a warm, welcoming atmosphere."
+      "longDesc": "A Borough restaurant celebrating wood-fired cooking and seasonal European cuisine in a warm, welcoming atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Trivet&center=51.503,-0.097"
     },
     {
       "name": "Da Terra",
@@ -972,7 +1078,8 @@
         -0.085
       ],
       "desc": "Rustic Italian cooking, market-driven, Shoreditch",
-      "longDesc": "A Shoreditch gem celebrating Italian culinary traditions with exceptional seasonal ingredients and passionate cooking. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A Shoreditch gem celebrating Italian culinary traditions with exceptional seasonal ingredients and passionate cooking. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Da%20Terra&center=51.524,-0.085"
     },
     {
       "name": "Breddos Tacos",
@@ -981,7 +1088,8 @@
         -0.085
       ],
       "desc": "Mexican street food, tacos, Shoreditch",
-      "longDesc": "A Shoreditch favorite celebrating authentic Mexican street food culture with incredible tacos and Mexican beers."
+      "longDesc": "A Shoreditch favorite celebrating authentic Mexican street food culture with incredible tacos and Mexican beers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Breddos%20Tacos&center=51.524,-0.085"
     },
     {
       "name": "Legare",
@@ -990,7 +1098,8 @@
         -0.12
       ],
       "desc": "Contemporary French, Fitzrovia, intimate",
-      "longDesc": "An intimate Fitzrovia restaurant serving contemporary French cuisine with precision, respect, and beautiful seasonal ingredients."
+      "longDesc": "An intimate Fitzrovia restaurant serving contemporary French cuisine with precision, respect, and beautiful seasonal ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Legare&center=51.516,-0.12"
     },
     {
       "name": "Rotorino",
@@ -999,7 +1108,8 @@
         -0.085
       ],
       "desc": "Italian wood-fired pizza, Shoreditch, sourdough",
-      "longDesc": "A celebrated Shoreditch pizzeria serving wood-fired sourdough pizzas with exceptional toppings and vibrant atmosphere. A beloved establishment worth visiting for its distinctive character and food."
+      "longDesc": "A celebrated Shoreditch pizzeria serving wood-fired sourdough pizzas with exceptional toppings and vibrant atmosphere. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rotorino&center=51.524,-0.085"
     }
   ],
   "experiences": [
@@ -1010,7 +1120,8 @@
         -0.127
       ],
       "desc": "Iconic world history, mummy collection, free admission",
-      "longDesc": "London's premier museum housing Egyptian mummies, Rosetta Stone, and world-spanning treasures in Victorian grandeur. An essential London cultural destination showcasing art and history."
+      "longDesc": "London's premier museum housing Egyptian mummies, Rosetta Stone, and world-spanning treasures in Victorian grandeur. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Museum&center=51.519,-0.127"
     },
     {
       "name": "V&A Museum",
@@ -1019,7 +1130,8 @@
         -0.173
       ],
       "desc": "Design & decorative arts, fashion, furniture, free",
-      "longDesc": "A beautiful South Kensington museum celebrating design excellence across centuries with stunning galleries. An essential London cultural destination showcasing art and history."
+      "longDesc": "A beautiful South Kensington museum celebrating design excellence across centuries with stunning galleries. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=V%26A%20Museum&center=51.496,-0.173"
     },
     {
       "name": "National Gallery",
@@ -1028,7 +1140,8 @@
         -0.128
       ],
       "desc": "European masterpieces, Impressionists, free admission",
-      "longDesc": "An essential London gallery featuring da Vinci, Van Gogh, and Turner in Trafalgar Square. An essential London cultural destination showcasing art and history."
+      "longDesc": "An essential London gallery featuring da Vinci, Van Gogh, and Turner in Trafalgar Square. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Gallery&center=51.509,-0.128"
     },
     {
       "name": "Tate Modern",
@@ -1037,7 +1150,8 @@
         -0.099
       ],
       "desc": "Contemporary & modern art, Turbine Hall, free",
-      "longDesc": "A world-leading contemporary art museum in a converted power station with Thames views. An essential London cultural destination showcasing art and history."
+      "longDesc": "A world-leading contemporary art museum in a converted power station with Thames views. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tate%20Modern&center=51.508,-0.099"
     },
     {
       "name": "Natural History Museum",
@@ -1046,7 +1160,8 @@
         -0.176
       ],
       "desc": "Dinosaurs, blue whale, minerals, free admission",
-      "longDesc": "A beloved South Kensington museum where families explore dinosaurs and Earth's natural wonders. An essential London cultural destination showcasing art and history."
+      "longDesc": "A beloved South Kensington museum where families explore dinosaurs and Earth's natural wonders. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum&center=51.494,-0.176"
     },
     {
       "name": "National Portrait Gallery",
@@ -1055,7 +1170,8 @@
         -0.128
       ],
       "desc": "British portraiture through centuries, free",
-      "longDesc": "An inspiring collection of British portraits spanning centuries overlooking Trafalgar Square. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An inspiring collection of British portraits spanning centuries overlooking Trafalgar Square. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Portrait%20Gallery&center=51.511,-0.128"
     },
     {
       "name": "Tate Britain",
@@ -1064,7 +1180,8 @@
         -0.127
       ],
       "desc": "British art from 1500s, Turner collection, free",
-      "longDesc": "A comprehensive survey of British artistic achievement from Tudors to contemporary times. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A comprehensive survey of British artistic achievement from Tudors to contemporary times. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tate%20Britain&center=51.491,-0.127"
     },
     {
       "name": "British Library",
@@ -1073,7 +1190,8 @@
         -0.126
       ],
       "desc": "Magna Carta, Shakespeare folios, Harry Potter manuscripts",
-      "longDesc": "A magnificent repository of human knowledge with the Magna Carta and Shakespeare's First Folio. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A magnificent repository of human knowledge with the Magna Carta and Shakespeare's First Folio. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Library&center=51.531,-0.126"
     },
     {
       "name": "Royal Academy of Arts",
@@ -1082,7 +1200,8 @@
         -0.138
       ],
       "desc": "Contemporary exhibitions, Summer Exhibition, Mayfair",
-      "longDesc": "A prestigious institution showcasing contemporary and historic art in elegant Georgian townhouse. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A prestigious institution showcasing contemporary and historic art in elegant Georgian townhouse. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Academy%20of%20Arts&center=51.509,-0.138"
     },
     {
       "name": "Courtauld Gallery",
@@ -1091,7 +1210,8 @@
         -0.116
       ],
       "desc": "Impressionist masterpieces, intimate setting, Strand",
-      "longDesc": "A gem of Impressionist art housed in an elegant Somerset House gallery. An essential London cultural destination showcasing art and history."
+      "longDesc": "A gem of Impressionist art housed in an elegant Somerset House gallery. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Courtauld%20Gallery&center=51.512,-0.116"
     },
     {
       "name": "Wallace Collection",
@@ -1100,7 +1220,8 @@
         -0.138
       ],
       "desc": "European art, weapons, decorative arts, Marylebone",
-      "longDesc": "A hidden gem in Marylebone with extraordinary private art collection and arms. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A hidden gem in Marylebone with extraordinary private art collection and arms. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallace%20Collection&center=51.515,-0.138"
     },
     {
       "name": "Sir John Soane's Museum",
@@ -1109,7 +1230,8 @@
         -0.116
       ],
       "desc": "Collector's eclectic cabinet, Holborn gem",
-      "longDesc": "An enchanting 19th-century collector's townhouse with Egyptian mummies and antiquities. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An enchanting 19th-century collector's townhouse with Egyptian mummies and antiquities. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sir%20John%20Soane%27s%20Museum&center=51.516,-0.116"
     },
     {
       "name": "Foundling Museum",
@@ -1118,7 +1240,8 @@
         -0.123
       ],
       "desc": "Georgian history, Hogarth art, social welfare story",
-      "longDesc": "An intimate Georgian townhouse revealing 18th-century London charity history and art. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An intimate Georgian townhouse revealing 18th-century London charity history and art. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Foundling%20Museum&center=51.523,-0.123"
     },
     {
       "name": "Design Museum",
@@ -1127,7 +1250,8 @@
         -0.207
       ],
       "desc": "Contemporary design, innovations, exhibitions",
-      "longDesc": "A forward-looking museum celebrating contemporary design, innovation, and creative industries. An essential London cultural destination showcasing art and history."
+      "longDesc": "A forward-looking museum celebrating contemporary design, innovation, and creative industries. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Design%20Museum&center=51.492,-0.207"
     },
     {
       "name": "Tower of London",
@@ -1136,7 +1260,8 @@
         -0.076
       ],
       "desc": "Crown Jewels, medieval fortress, 1000 years",
-      "longDesc": "A magnificent medieval fortress housing the Crown Jewels with Yeoman Warders' tours and royal history."
+      "longDesc": "A magnificent medieval fortress housing the Crown Jewels with Yeoman Warders' tours and royal history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20of%20London&center=51.506,-0.076"
     },
     {
       "name": "Westminster Abbey",
@@ -1145,7 +1270,8 @@
         -0.128
       ],
       "desc": "Royal coronations & burials, Gothic masterpiece",
-      "longDesc": "An awe-inspiring Gothic cathedral where monarchs are crowned and buried with soaring spaces. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An awe-inspiring Gothic cathedral where monarchs are crowned and buried with soaring spaces. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Westminster%20Abbey&center=51.499,-0.128"
     },
     {
       "name": "Big Ben & Houses of Parliament",
@@ -1154,7 +1280,8 @@
         -0.125
       ],
       "desc": "Neo-Gothic icon, parliamentary tours available",
-      "longDesc": "London's most iconic symbol featuring the Elizabeth Tower clock and Gothic Revival architecture. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "London's most iconic symbol featuring the Elizabeth Tower clock and Gothic Revival architecture. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Ben%20%26%20Houses%20of%20Parliament&center=51.5,-0.125"
     },
     {
       "name": "Tower Bridge",
@@ -1163,7 +1290,8 @@
         -0.076
       ],
       "desc": "Victorian engineering marvel, bridge walkway",
-      "longDesc": "An iconic Victorian bascule bridge with walkway offering Thames views and design appreciation. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An iconic Victorian bascule bridge with walkway offering Thames views and design appreciation. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20Bridge&center=51.505,-0.076"
     },
     {
       "name": "Buckingham Palace",
@@ -1172,7 +1300,8 @@
         -0.142
       ],
       "desc": "Royal residence, Changing of Guard ceremony",
-      "longDesc": "The official London residence with the elaborate Changing of the Guard ceremony. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "The official London residence with the elaborate Changing of the Guard ceremony. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Buckingham%20Palace&center=51.501,-0.142"
     },
     {
       "name": "St Paul's Cathedral",
@@ -1181,7 +1310,8 @@
         -0.099
       ],
       "desc": "Wren masterpiece, whispering gallery, sublime dome",
-      "longDesc": "Christopher Wren's Renaissance masterpiece with soaring dome and whispering gallery. An essential London cultural destination showcasing art and history."
+      "longDesc": "Christopher Wren's Renaissance masterpiece with soaring dome and whispering gallery. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Paul%27s%20Cathedral&center=51.514,-0.099"
     },
     {
       "name": "Stonehenge",
@@ -1190,7 +1320,8 @@
         -1.826
       ],
       "desc": "Prehistoric stone circle, mystical Wiltshire",
-      "longDesc": "An enigmatic 5,000-year-old stone circle evoking wonder about ancient civilizations. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An enigmatic 5,000-year-old stone circle evoking wonder about ancient civilizations. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Stonehenge&center=51.179,-1.826"
     },
     {
       "name": "Windsor Castle",
@@ -1199,7 +1330,8 @@
         -0.609
       ],
       "desc": "Royal castle, state rooms, riverside setting, Berkshire",
-      "longDesc": "The oldest occupied royal residence featuring state rooms, St George's Chapel, and riverside location. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "The oldest occupied royal residence featuring state rooms, St George's Chapel, and riverside location. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Windsor%20Castle&center=51.483,-0.609"
     },
     {
       "name": "Roman Baths (Bath)",
@@ -1208,7 +1340,8 @@
         -2.361
       ],
       "desc": "2,000-year-old Roman hot springs, Bath",
-      "longDesc": "Remarkably preserved Roman-era spa complex showcasing 2,000 years of bathing culture. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "Remarkably preserved Roman-era spa complex showcasing 2,000 years of bathing culture. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman%20Baths%20%28Bath%29&center=51.381,-2.361"
     },
     {
       "name": "Edinburgh Castle",
@@ -1217,7 +1350,8 @@
         -3.2
       ],
       "desc": "Medieval fortress, Scottish Crown Jewels, city views",
-      "longDesc": "A dramatic medieval fortress on volcanic rock with crown jewels and panoramic vistas. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A dramatic medieval fortress on volcanic rock with crown jewels and panoramic vistas. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Edinburgh%20Castle&center=55.941,-3.2"
     },
     {
       "name": "Cutty Sark",
@@ -1226,7 +1360,8 @@
         -0.01
       ],
       "desc": "Historic tea clipper ship, Thames, Greenwich",
-      "longDesc": "A magnificent 19th-century sailing ship offering views of maritime history on the Thames. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A magnificent 19th-century sailing ship offering views of maritime history on the Thames. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cutty%20Sark&center=51.477,-0.01"
     },
     {
       "name": "Churchill War Rooms",
@@ -1235,7 +1370,8 @@
         -0.128
       ],
       "desc": "Secret WWII underground bunker, Churchill's office",
-      "longDesc": "A fascinating underground complex where Churchill directed WWII operations with preserved rooms. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A fascinating underground complex where Churchill directed WWII operations with preserved rooms. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Churchill%20War%20Rooms&center=51.502,-0.128"
     },
     {
       "name": "Kew Gardens",
@@ -1244,7 +1380,8 @@
         -0.29
       ],
       "desc": "Royal Botanical gardens, greenhouses, Kew",
-      "longDesc": "One of the world's finest botanical gardens with 300 acres of plants and glasshouses. A beautiful natural space offering peaceful escape and lovely walking paths."
+      "longDesc": "One of the world's finest botanical gardens with 300 acres of plants and glasshouses. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kew%20Gardens&center=51.471,-0.29"
     },
     {
       "name": "Hyde Park",
@@ -1253,7 +1390,8 @@
         -0.165
       ],
       "desc": "Central London green space, Serpentine lake",
-      "longDesc": "A vast urban oasis with picnic spots, the Serpentine lake, and riding paths. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A vast urban oasis with picnic spots, the Serpentine lake, and riding paths. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyde%20Park&center=51.507,-0.165"
     },
     {
       "name": "St James's Park",
@@ -1262,7 +1400,8 @@
         -0.132
       ],
       "desc": "Royal park, pelicans, Buckingham Palace views",
-      "longDesc": "An elegant royal park with wild pelicans, peaceful lake, and Buckingham Palace views. A beautiful natural space offering peaceful escape and lovely walking paths."
+      "longDesc": "An elegant royal park with wild pelicans, peaceful lake, and Buckingham Palace views. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20James%27s%20Park&center=51.503,-0.132"
     },
     {
       "name": "Regent's Park",
@@ -1271,7 +1410,8 @@
         -0.148
       ],
       "desc": "Rose garden, ZSL Zoo, open-air theatre",
-      "longDesc": "A beautiful Regency-era park with Queen Mary Gardens, ZSL Zoo, and summer theatre. A beautiful natural space offering peaceful escape and lovely walking paths."
+      "longDesc": "A beautiful Regency-era park with Queen Mary Gardens, ZSL Zoo, and summer theatre. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Regent%27s%20Park&center=51.524,-0.148"
     },
     {
       "name": "Botanic Garden (Edinburgh)",
@@ -1280,7 +1420,8 @@
         -3.21
       ],
       "desc": "72-acre garden, Edinburgh skyline views",
-      "longDesc": "A spectacular 72-acre Scottish garden with diverse collections and Edinburgh skyline views. A beautiful natural space offering peaceful escape and lovely walking paths."
+      "longDesc": "A spectacular 72-acre Scottish garden with diverse collections and Edinburgh skyline views. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Botanic%20Garden%20%28Edinburgh%29&center=55.966,-3.21"
     },
     {
       "name": "Lake District",
@@ -1289,7 +1430,8 @@
         -3.071
       ],
       "desc": "Stunning lakes, mountains, walking trails",
-      "longDesc": "A UNESCO World Heritage landscape with dramatic fells, pristine lakes, and inspiration. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A UNESCO World Heritage landscape with dramatic fells, pristine lakes, and inspiration. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20District&center=54.472,-3.071"
     },
     {
       "name": "Cotswolds",
@@ -1298,7 +1440,8 @@
         -1.738
       ],
       "desc": "Golden stone villages, rolling countryside",
-      "longDesc": "Quintessential English countryside with honey-stone villages and timeless pastoral charm. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "Quintessential English countryside with honey-stone villages and timeless pastoral charm. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cotswolds&center=51.828,-1.738"
     },
     {
       "name": "Scottish Highlands",
@@ -1307,7 +1450,8 @@
         -4.702
       ],
       "desc": "Dramatic mountains, lochs, wild scenery",
-      "longDesc": "An awe-inspiring landscape of rugged mountains, deep lochs, and wild beauty. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An awe-inspiring landscape of rugged mountains, deep lochs, and wild beauty. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Scottish%20Highlands&center=57.097,-4.702"
     },
     {
       "name": "Globe Theatre Performances",
@@ -1316,7 +1460,8 @@
         -0.095
       ],
       "desc": "Shakespeare plays, open-air reconstructed theatre",
-      "longDesc": "A faithful Globe reconstruction offering live Shakespeare in an iconic Thames-side setting. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A faithful Globe reconstruction offering live Shakespeare in an iconic Thames-side setting. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Globe%20Theatre%20Performances&center=51.509,-0.095"
     },
     {
       "name": "West End Theatre",
@@ -1325,7 +1470,8 @@
         -0.13
       ],
       "desc": "Broadway-style musicals and plays, London's theatre district",
-      "longDesc": "London's vibrant theatre district with world-class musicals in Victorian venues. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "London's vibrant theatre district with world-class musicals in Victorian venues. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20End%20Theatre&center=51.514,-0.13"
     },
     {
       "name": "Royal Opera House",
@@ -1334,7 +1480,8 @@
         -0.123
       ],
       "desc": "World-class opera and ballet, Covent Garden",
-      "longDesc": "A prestigious institution featuring world-class opera, ballet, and classical music. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A prestigious institution featuring world-class opera, ballet, and classical music. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Opera%20House&center=51.513,-0.123"
     },
     {
       "name": "Cartoon Museum",
@@ -1343,7 +1490,8 @@
         -0.121
       ],
       "desc": "British comics, satirical cartoons, Fitzrovia",
-      "longDesc": "A quirky museum celebrating British cartoon history and political satire. An essential London cultural destination showcasing art and history."
+      "longDesc": "A quirky museum celebrating British cartoon history and political satire. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cartoon%20Museum&center=51.516,-0.121"
     },
     {
       "name": "Harry Potter Warner Bros Studio Tour",
@@ -1352,7 +1500,8 @@
         -0.521
       ],
       "desc": "Movie sets, costumes, props, Watford",
-      "longDesc": "An immersive journey through Harry Potter films showcasing sets and costumes. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An immersive journey through Harry Potter films showcasing sets and costumes. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Harry%20Potter%20Warner%20Bros%20Studio%20Tour&center=51.488,-0.521"
     },
     {
       "name": "East London Street Art Walk",
@@ -1361,7 +1510,8 @@
         -0.065
       ],
       "desc": "Murals, graffiti, vibrant neighborhoods",
-      "longDesc": "A self-guided exploration of East London's vibrant street art and creative culture. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "A self-guided exploration of East London's vibrant street art and creative culture. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=East%20London%20Street%20Art%20Walk&center=51.525,-0.065"
     },
     {
       "name": "Highgate Cemetery Tour",
@@ -1370,7 +1520,8 @@
         -0.151
       ],
       "desc": "Victorian graves, Karl Marx, atmospheric walk",
-      "longDesc": "An atmospheric Victorian cemetery with elaborate monuments and famous Londoners' graves. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An atmospheric Victorian cemetery with elaborate monuments and famous Londoners' graves. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Highgate%20Cemetery%20Tour&center=51.567,-0.151"
     },
     {
       "name": "Portobello Road Market",
@@ -1379,7 +1530,8 @@
         -0.201
       ],
       "desc": "Antiques, vintage fashion, street food, Notting Hill",
-      "longDesc": "London's most famous market with 1,500 traders selling antiques, vintage clothing, and food. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "London's most famous market with 1,500 traders selling antiques, vintage clothing, and food. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Portobello%20Road%20Market&center=51.51,-0.201"
     },
     {
       "name": "London Eye River Ride",
@@ -1388,7 +1540,8 @@
         -0.119
       ],
       "desc": "360-degree views, iconic ferris wheel",
-      "longDesc": "An iconic observation wheel offering 360-degree panoramic views of London's skyline. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "An iconic observation wheel offering 360-degree panoramic views of London's skyline. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=London%20Eye%20River%20Ride&center=51.503,-0.119"
     },
     {
       "name": "Wimbledon Lawn Tennis Tour",
@@ -1397,7 +1550,8 @@
         -0.215
       ],
       "desc": "Home of tennis, museum, Centre Court viewing",
-      "longDesc": "The spiritual home of lawn tennis with museum, memorabilia, and legendary Centre Court. An essential London cultural destination showcasing art and history."
+      "longDesc": "The spiritual home of lawn tennis with museum, memorabilia, and legendary Centre Court. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wimbledon%20Lawn%20Tennis%20Tour&center=51.434,-0.215"
     },
     {
       "name": "The View from The Shard",
@@ -1406,7 +1560,8 @@
         -0.086
       ],
       "desc": "Western Europe's tallest building, observation deck",
-      "longDesc": "Western Europe's tallest building with observation deck offering stunning 360-degree London views. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "Western Europe's tallest building with observation deck offering stunning 360-degree London views. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20View%20from%20The%20Shard&center=51.504,-0.086"
     },
     {
       "name": "Greenwich Royal Observatory",
@@ -1415,7 +1570,8 @@
         -0.001
       ],
       "desc": "Prime Meridian, planetarium, astronomy",
-      "longDesc": "The Prime Meridian location with planetarium, galleries, and astronomical exhibitions. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "The Prime Meridian location with planetarium, galleries, and astronomical exhibitions. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenwich%20Royal%20Observatory&center=51.477,-0.001"
     },
     {
       "name": "Hampton Court Palace",
@@ -1424,7 +1580,8 @@
         -0.335
       ],
       "desc": "Tudor palace, gardens, Thames riverside",
-      "longDesc": "A magnificent Tudor palace with sprawling gardens, fountains, and Thames-side location. A beautiful natural space offering peaceful escape and lovely walking paths."
+      "longDesc": "A magnificent Tudor palace with sprawling gardens, fountains, and Thames-side location. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hampton%20Court%20Palace&center=51.346,-0.335"
     },
     {
       "name": "Gin Distillery Tour",
@@ -1433,7 +1590,8 @@
         -0.085
       ],
       "desc": "Historic gin distilleries, spirits tasting, Shoreditch",
-      "longDesc": "Explore London's gin heritage with distillery tours, botanical tastings, and cocktail education. A fascinating attraction showcasing London's rich cultural heritage and character."
+      "longDesc": "Explore London's gin heritage with distillery tours, botanical tastings, and cocktail education. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gin%20Distillery%20Tour&center=51.515,-0.085"
     },
     {
       "name": "London Transport Museum",
@@ -1442,7 +1600,8 @@
         -0.122
       ],
       "desc": "Historic transit systems, vintage vehicles",
-      "longDesc": "A fascinating museum tracing London's transport evolution with vintage buses and Underground cars. An essential London cultural destination showcasing art and history."
+      "longDesc": "A fascinating museum tracing London's transport evolution with vintage buses and Underground cars. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=London%20Transport%20Museum&center=51.513,-0.122"
     },
     {
       "name": "Piccadilly Circus",
@@ -1451,7 +1610,8 @@
         -0.134
       ],
       "desc": "Iconic London square, neon billboards, West End",
-      "longDesc": "London's most famous square featuring iconic neon billboards, vibrant energy, and proximity to West End theatres and shopping."
+      "longDesc": "London's most famous square featuring iconic neon billboards, vibrant energy, and proximity to West End theatres and shopping.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Piccadilly%20Circus&center=51.51,-0.134"
     },
     {
       "name": "Oxford Street",
@@ -1460,7 +1620,8 @@
         -0.141
       ],
       "desc": "World's busiest shopping street, flagship stores",
-      "longDesc": "The world's busiest shopping street featuring flagship stores of major brands and London's commercial heart."
+      "longDesc": "The world's busiest shopping street featuring flagship stores of major brands and London's commercial heart.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxford%20Street&center=51.516,-0.141"
     },
     {
       "name": "Trafalgar Square",
@@ -1469,7 +1630,8 @@
         -0.128
       ],
       "desc": "Historic square, Nelson's Column, National Gallery",
-      "longDesc": "A historic London square featuring Nelson's Column, stunning fountains, and the magnificent National Gallery museum."
+      "longDesc": "A historic London square featuring Nelson's Column, stunning fountains, and the magnificent National Gallery museum.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Trafalgar%20Square&center=51.508,-0.128"
     },
     {
       "name": "The Shard Observation Deck",
@@ -1478,7 +1640,8 @@
         -0.086
       ],
       "desc": "Western Europe's tallest, observation deck, panoramic views",
-      "longDesc": "Western Europe's tallest building with an observation deck offering breathtaking 360-degree panoramic views of London."
+      "longDesc": "Western Europe's tallest building with an observation deck offering breathtaking 360-degree panoramic views of London.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shard%20Observation%20Deck&center=51.504,-0.086"
     },
     {
       "name": "Leadenhall Market & Harry Potter",
@@ -1487,7 +1650,8 @@
         -0.081
       ],
       "desc": "Historic market, Harry Potter filming location, atmosphere",
-      "longDesc": "A stunning Victorian-era covered market featured in Harry Potter films with atmospheric architecture and restaurants."
+      "longDesc": "A stunning Victorian-era covered market featured in Harry Potter films with atmospheric architecture and restaurants.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Leadenhall%20Market%20%26%20Harry%20Potter&center=51.507,-0.081"
     },
     {
       "name": "Notting Hill Charm & Portobello",
@@ -1496,7 +1660,8 @@
         -0.201
       ],
       "desc": "Bohemian neighborhood, Portobello Road, colourful houses",
-      "longDesc": "A bohemian London neighborhood famous for colourful Victorian houses, Portobello Road Market, and creative community."
+      "longDesc": "A bohemian London neighborhood famous for colourful Victorian houses, Portobello Road Market, and creative community.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Notting%20Hill%20Charm%20%26%20Portobello&center=51.51,-0.201"
     }
   ],
   "kidFriendly": [
@@ -1507,7 +1672,8 @@
         -0.154
       ],
       "desc": "Historic zoo, animals, Regent's Park",
-      "longDesc": "London's oldest zoo in beautiful Regent's Park with over 750 animals from around the world."
+      "longDesc": "London's oldest zoo in beautiful Regent's Park with over 750 animals from around the world.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=ZSL%20Zoo&center=51.535,-0.154"
     },
     {
       "name": "Shrek's Adventure London",
@@ -1516,7 +1682,8 @@
         -0.119
       ],
       "desc": "DreamWorks adventure, family fun, South Bank",
-      "longDesc": "A family-friendly interactive attraction with DreamWorks games, 4D experiences, and silly humor. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A family-friendly interactive attraction with DreamWorks games, 4D experiences, and silly humor. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shrek%27s%20Adventure%20London&center=51.503,-0.119"
     },
     {
       "name": "Natural History Museum (Dinosaur Trail)",
@@ -1525,7 +1692,8 @@
         -0.176
       ],
       "desc": "Dinosaur skeleton, blue whale, activity packs",
-      "longDesc": "A beloved dinosaur museum with interactive trails and fossil encounters for young minds. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A beloved dinosaur museum with interactive trails and fossil encounters for young minds. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum%20%28Dinosaur%20Trail%29&center=51.494,-0.176"
     },
     {
       "name": "Science Museum",
@@ -1534,7 +1702,8 @@
         -0.174
       ],
       "desc": "Hands-on experiments, IMAX, space exhibits, free entry",
-      "longDesc": "A cutting-edge museum in South Kensington with interactive exhibits, IMAX, and demonstrations. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A cutting-edge museum in South Kensington with interactive exhibits, IMAX, and demonstrations. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Science%20Museum&center=51.496,-0.174"
     },
     {
       "name": "River Boat Ride (Thames Clippers)",
@@ -1543,7 +1712,8 @@
         -0.12
       ],
       "desc": "Scenic boat journey, Tower Bridge, commuter ferries",
-      "longDesc": "A fun boat journey along the Thames with views of Big Ben, Tower Bridge, and landmarks."
+      "longDesc": "A fun boat journey along the Thames with views of Big Ben, Tower Bridge, and landmarks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=River%20Boat%20Ride%20%28Thames%20Clippers%29&center=51.51,-0.12"
     },
     {
       "name": "Kidzania London",
@@ -1552,7 +1722,8 @@
         -0.119
       ],
       "desc": "Interactive role-play city, 50+ activities, South Bank",
-      "longDesc": "An indoor city where children age 4-14 role-play as adults in realistic professions. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "An indoor city where children age 4-14 role-play as adults in realistic professions. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kidzania%20London&center=51.503,-0.119"
     },
     {
       "name": "V&A Museum Family Galleries",
@@ -1561,7 +1732,8 @@
         -0.173
       ],
       "desc": "Family galleries, design workshops, craft activities",
-      "longDesc": "The V&A offers family galleries, craft workshops, and design activities for children. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "The V&A offers family galleries, craft workshops, and design activities for children. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=V%26A%20Museum%20Family%20Galleries&center=51.496,-0.173"
     },
     {
       "name": "Coram's Fields Playground",
@@ -1570,7 +1742,8 @@
         -0.121
       ],
       "desc": "Historic playground, farm animals, safe haven",
-      "longDesc": "A unique 7-acre urban oasis with farm animals and playgrounds (no unaccompanied adults). A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A unique 7-acre urban oasis with farm animals and playgrounds (no unaccompanied adults). A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coram%27s%20Fields%20Playground&center=51.524,-0.121"
     },
     {
       "name": "Diana, Princess of Wales Memorial Playground",
@@ -1579,7 +1752,8 @@
         -0.195
       ],
       "desc": "Neverland-themed playground, Hyde Park",
-      "longDesc": "A fantastical Peter Pan-themed playground in Hyde Park with water features and structures. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A fantastical Peter Pan-themed playground in Hyde Park with water features and structures. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Diana%2C%20Princess%20of%20Wales%20Memorial%20Playground&center=51.505,-0.195"
     },
     {
       "name": "Battersea Park Playground",
@@ -1588,7 +1762,8 @@
         -0.169
       ],
       "desc": "Large adventure playground, boating lake",
-      "longDesc": "A south London riverside park with adventure playgrounds and boating lake for families. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A south London riverside park with adventure playgrounds and boating lake for families. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Battersea%20Park%20Playground&center=51.472,-0.169"
     },
     {
       "name": "Edinburgh Zoo",
@@ -1597,7 +1772,8 @@
         -3.268
       ],
       "desc": "Giant pandas, animals, Scottish Highlands views",
-      "longDesc": "Scotland's premier zoo with giant pandas, diverse animals, and Edinburgh/Firth of Forth views. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "Scotland's premier zoo with giant pandas, diverse animals, and Edinburgh/Firth of Forth views. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Edinburgh%20Zoo&center=55.941,-3.268"
     },
     {
       "name": "Legoland Discovery Centre",
@@ -1606,7 +1782,8 @@
         -0.141
       ],
       "desc": "LEGO building, rides, interactive play, Camden",
-      "longDesc": "An indoor LEGO wonderland in Camden with rides, building workshops, and creative play. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "An indoor LEGO wonderland in Camden with rides, building workshops, and creative play. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Legoland%20Discovery%20Centre&center=51.556,-0.141"
     },
     {
       "name": "Chessington World of Adventures",
@@ -1615,7 +1792,8 @@
         -0.305
       ],
       "desc": "Theme park, zoo, family rides, Surrey",
-      "longDesc": "A south London theme park combining adventure rides, zoo animals, and family attractions. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A south London theme park combining adventure rides, zoo animals, and family attractions. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chessington%20World%20of%20Adventures&center=51.351,-0.305"
     },
     {
       "name": "Alton Towers Theme Park",
@@ -1624,7 +1802,8 @@
         -1.894
       ],
       "desc": "Roller coasters, family rides, Staffordshire",
-      "longDesc": "A major UK theme park with world-class coasters, family rides, and thrilling attractions. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A major UK theme park with world-class coasters, family rides, and thrilling attractions. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alton%20Towers%20Theme%20Park&center=52.979,-1.894"
     },
     {
       "name": "Brighton Pier Attractions",
@@ -1633,7 +1812,8 @@
         -0.079
       ],
       "desc": "Victorian pier, arcade, seagull watching",
-      "longDesc": "A nostalgic Victorian pier with arcade games, rides, and seaside charm for families. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A nostalgic Victorian pier with arcade games, rides, and seaside charm for families. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brighton%20Pier%20Attractions&center=50.819,-0.079"
     },
     {
       "name": "Globe Theatre Family Tour",
@@ -1642,7 +1822,8 @@
         -0.095
       ],
       "desc": "Shakespeare's Globe, interactive tour, kid-friendly",
-      "longDesc": "Family-friendly Globe tours offering kid-appropriate performances and historical education. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "Family-friendly Globe tours offering kid-appropriate performances and historical education. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Globe%20Theatre%20Family%20Tour&center=51.509,-0.095"
     },
     {
       "name": "British Museum Family Trail",
@@ -1651,7 +1832,8 @@
         -0.127
       ],
       "desc": "Interactive family trail, mummy unwrapping",
-      "longDesc": "The British Museum offers special family trails with interactive activities and treasures. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "The British Museum offers special family trails with interactive activities and treasures. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Family%20Trail&center=51.519,-0.127"
     },
     {
       "name": "Young V&A",
@@ -1660,7 +1842,8 @@
         -0.173
       ],
       "desc": "Children's design galleries, interactive exhibits",
-      "longDesc": "The V&A's dedicated children's museum with interactive design galleries and activities. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "The V&A's dedicated children's museum with interactive design galleries and activities. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Young%20V%26A&center=51.496,-0.173"
     },
     {
       "name": "Horniman Museum & Gardens",
@@ -1669,7 +1852,8 @@
         -0.069
       ],
       "desc": "Natural history, musical instruments, free entry",
-      "longDesc": "A South London gem with natural history, musical instruments, and beautiful gardens. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A South London gem with natural history, musical instruments, and beautiful gardens. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Horniman%20Museum%20%26%20Gardens&center=51.457,-0.069"
     },
     {
       "name": "SEA LIFE London Aquarium",
@@ -1678,7 +1862,8 @@
         -0.119
       ],
       "desc": "Underwater tunnel, ray touch pool, South Bank",
-      "longDesc": "An interactive aquarium on the South Bank with underwater tunnel and touch pools for children."
+      "longDesc": "An interactive aquarium on the South Bank with underwater tunnel and touch pools for children.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SEA%20LIFE%20London%20Aquarium&center=51.503,-0.119"
     },
     {
       "name": "Kew Gardens (Family Activities)",
@@ -1687,7 +1872,8 @@
         -0.29
       ],
       "desc": "Botanical gardens, family trails, Kew",
-      "longDesc": "One of the world's finest gardens with family trails, picnic areas, and botanical exploration. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "One of the world's finest gardens with family trails, picnic areas, and botanical exploration. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kew%20Gardens%20%28Family%20Activities%29&center=51.471,-0.29"
     },
     {
       "name": "Go Ape Treetop Parks",
@@ -1696,7 +1882,8 @@
         -0.248
       ],
       "desc": "Ziplines, rope courses, outdoor adventure",
-      "longDesc": "Multiple UK locations with treetop adventure courses, ziplines, and outdoor thrills. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "Multiple UK locations with treetop adventure courses, ziplines, and outdoor thrills. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Go%20Ape%20Treetop%20Parks&center=51.252,-0.248"
     },
     {
       "name": "Hampton Court Palace (Maze)",
@@ -1705,7 +1892,8 @@
         -0.335
       ],
       "desc": "Historic maze, palace tours, family activities",
-      "longDesc": "A Tudor palace with famous maze, palace tours, and family-friendly activities. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A Tudor palace with famous maze, palace tours, and family-friendly activities. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hampton%20Court%20Palace%20%28Maze%29&center=51.346,-0.335"
     },
     {
       "name": "Hampstead Heath",
@@ -1714,7 +1902,8 @@
         -0.177
       ],
       "desc": "Wide-open space, playgrounds, swimming ponds",
-      "longDesc": "A vast north London heath with playgrounds, swimming ponds, and open spaces for families. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A vast north London heath with playgrounds, swimming ponds, and open spaces for families. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hampstead%20Heath&center=51.563,-0.177"
     },
     {
       "name": "Design Museum – Mudlarks",
@@ -1723,7 +1912,8 @@
         -0.207
       ],
       "desc": "Children's design workshops, creative activities",
-      "longDesc": "The Design Museum's children's program with workshops, creative activities, and design education. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "The Design Museum's children's program with workshops, creative activities, and design education. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Design%20Museum%20%E2%80%93%20Mudlarks&center=51.492,-0.207"
     }
   ],
   "markets": [
@@ -1734,7 +1924,8 @@
         -0.09
       ],
       "desc": "Premier food market, fresh produce, gourmet foods",
-      "longDesc": "London's legendary covered food market with 130+ vendors, fresh produce, and artisan cheeses. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "London's legendary covered food market with 130+ vendors, fresh produce, and artisan cheeses. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Borough%20Market&center=51.505,-0.09"
     },
     {
       "name": "Portobello Road Market",
@@ -1743,7 +1934,8 @@
         -0.201
       ],
       "desc": "Antiques, vintage fashion, street food, Notting Hill",
-      "longDesc": "London's most famous antique market with 1,500 traders selling antiques, vintage, and food. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "London's most famous antique market with 1,500 traders selling antiques, vintage, and food. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Portobello%20Road%20Market&center=51.51,-0.201"
     },
     {
       "name": "Camden Market",
@@ -1752,7 +1944,8 @@
         -0.142
       ],
       "desc": "Alternative market, handmade goods, global food",
-      "longDesc": "London's alternative market with vintage clothing, handmade crafts, and international food. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "London's alternative market with vintage clothing, handmade crafts, and international food. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Camden%20Market&center=51.539,-0.142"
     },
     {
       "name": "Leadenhall Market",
@@ -1761,7 +1954,8 @@
         -0.081
       ],
       "desc": "Historic covered market, restaurants, atmosphere",
-      "longDesc": "A stunning Victorian-era covered market with restaurants and atmospheric architecture since 125 AD. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A stunning Victorian-era covered market with restaurants and atmospheric architecture since 125 AD. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Leadenhall%20Market&center=51.507,-0.081"
     },
     {
       "name": "Old Spitalfields Market",
@@ -1770,7 +1964,8 @@
         -0.077
       ],
       "desc": "Vintage, crafts, organic food, Spitalfields",
-      "longDesc": "A historic market in trendy Spitalfields with vintage fashion, artisan crafts, and organic produce. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A historic market in trendy Spitalfields with vintage fashion, artisan crafts, and organic produce. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Spitalfields%20Market&center=51.518,-0.077"
     },
     {
       "name": "Greenwich Market",
@@ -1779,7 +1974,8 @@
         -0.01
       ],
       "desc": "Craft market, food stalls, riverside location",
-      "longDesc": "A covered market in Greenwich with crafts, vintage goods, and food stalls near the Thames."
+      "longDesc": "A covered market in Greenwich with crafts, vintage goods, and food stalls near the Thames.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenwich%20Market&center=51.477,-0.01"
     },
     {
       "name": "Brixton Market",
@@ -1788,7 +1984,8 @@
         -0.115
       ],
       "desc": "Caribbean food, vegetables, vibrant community",
-      "longDesc": "A colorful South London market celebrating Caribbean and multicultural food culture. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A colorful South London market celebrating Caribbean and multicultural food culture. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brixton%20Market&center=51.462,-0.115"
     },
     {
       "name": "Maltby Street Market",
@@ -1797,7 +1994,8 @@
         -0.08
       ],
       "desc": "Street food, vintage goods, beer vendors",
-      "longDesc": "A weekend Shoreditch street market with food vendors, craft beer, and vintage stalls. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A weekend Shoreditch street market with food vendors, craft beer, and vintage stalls. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Maltby%20Street%20Market&center=51.518,-0.08"
     },
     {
       "name": "Sunday Upmarket",
@@ -1806,7 +2004,8 @@
         -0.077
       ],
       "desc": "Designer fashion, vintage, handmade goods",
-      "longDesc": "A Sunday-only Spitalfields market with independent fashion designers and handmade jewelry. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A Sunday-only Spitalfields market with independent fashion designers and handmade jewelry. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunday%20Upmarket&center=51.518,-0.077"
     },
     {
       "name": "Petticoat Lane",
@@ -1815,7 +2014,8 @@
         -0.076
       ],
       "desc": "Fashion, textiles, street vendors, East London",
-      "longDesc": "A historic East London market famous for fashion and textiles with friendly vendors. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A historic East London market famous for fashion and textiles with friendly vendors. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Petticoat%20Lane&center=51.521,-0.076"
     },
     {
       "name": "Smithfield Market",
@@ -1824,7 +2024,8 @@
         -0.099
       ],
       "desc": "Historic meat market, restaurants, flowers",
-      "longDesc": "London's historic wholesale meat market with surrounding restaurants and Victorian architecture. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "London's historic wholesale meat market with surrounding restaurants and Victorian architecture. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Smithfield%20Market&center=51.519,-0.099"
     },
     {
       "name": "Chapel Market",
@@ -1833,7 +2034,8 @@
         -0.101
       ],
       "desc": "Food and drinks, casual atmosphere, Islington",
-      "longDesc": "A charming north London market in Islington with food vendors and relaxed community. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A charming north London market in Islington with food vendors and relaxed community. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapel%20Market&center=51.536,-0.101"
     },
     {
       "name": "Brick Lane Beigel Bake",
@@ -1842,7 +2044,8 @@
         -0.075
       ],
       "desc": "Historic Jewish bakery, bagels, Brick Lane",
-      "longDesc": "A 24-hour Brick Lane institution serving warm bagels since 1977 with East End heritage. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A 24-hour Brick Lane institution serving warm bagels since 1977 with East End heritage. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brick%20Lane%20Beigel%20Bake&center=51.518,-0.075"
     },
     {
       "name": "Billingsgate Fish Market",
@@ -1851,7 +2054,8 @@
         -0.006
       ],
       "desc": "Wholesale fish market, Friday morning tours",
-      "longDesc": "London's historic fish market on the Thames showcasing the nation's best seafood. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "London's historic fish market on the Thames showcasing the nation's best seafood. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Billingsgate%20Fish%20Market&center=51.508,-0.006"
     },
     {
       "name": "New Covent Garden Market",
@@ -1860,7 +2064,8 @@
         -0.127
       ],
       "desc": "Wholesale produce, flowers, fruit, vegetable wholesale",
-      "longDesc": "London's main produce market with fresh vegetables, fruit, and flowers in working environment. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "London's main produce market with fresh vegetables, fruit, and flowers in working environment. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Covent%20Garden%20Market&center=51.478,-0.127"
     },
     {
       "name": "Pimlico Road Antiques Market",
@@ -1869,7 +2074,8 @@
         -0.147
       ],
       "desc": "High-end antiques, art, collectors items",
-      "longDesc": "An upmarket Chelsea/Pimlico antique market with furniture, art, and collectibles. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "An upmarket Chelsea/Pimlico antique market with furniture, art, and collectibles. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pimlico%20Road%20Antiques%20Market&center=51.488,-0.147"
     },
     {
       "name": "Farringdon Vintage Market",
@@ -1878,7 +2084,8 @@
         -0.104
       ],
       "desc": "Vintage clothing, record shops, weekend market",
-      "longDesc": "A popular Farringdon weekend market for vintage fashion and vinyl records. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A popular Farringdon weekend market for vintage fashion and vinyl records. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Farringdon%20Vintage%20Market&center=51.517,-0.104"
     },
     {
       "name": "Columbia Road Flower Market",
@@ -1887,7 +2094,8 @@
         -0.067
       ],
       "desc": "Fresh flowers, plants, plants, East London",
-      "longDesc": "A vibrant East London Sunday flower market with fresh blooms and plant vendors. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A vibrant East London Sunday flower market with fresh blooms and plant vendors. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Columbia%20Road%20Flower%20Market&center=51.528,-0.067"
     },
     {
       "name": "Fortnum & Mason Food Hall",
@@ -1896,7 +2104,8 @@
         -0.139
       ],
       "desc": "Luxury groceries, teas, gourmet foods, Piccadilly",
-      "longDesc": "A legendary Piccadilly food hall with luxury groceries, fine teas, and gourmet delicacies. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A legendary Piccadilly food hall with luxury groceries, fine teas, and gourmet delicacies. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fortnum%20%26%20Mason%20Food%20Hall&center=51.507,-0.139"
     },
     {
       "name": "Harrods Food Halls",
@@ -1905,7 +2114,8 @@
         -0.165
       ],
       "desc": "High-end groceries, international foods, Knightsbridge",
-      "longDesc": "A luxury Knightsbridge food hall with international cuisines and premium groceries. A family favorite offering engagement, discovery, and memorable experiences."
+      "longDesc": "A luxury Knightsbridge food hall with international cuisines and premium groceries. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Harrods%20Food%20Halls&center=51.501,-0.165"
     }
   ],
   "cityCenters": {

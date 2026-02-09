@@ -2589,7 +2589,7 @@
             [dest.hotels, dest.restaurants, dest.experiences, dest.kidFriendly, dest.markets].forEach(arr => {
                 (arr || []).forEach(poi => {
                     if (poi.name) {
-                        poiLookup[poi.name] = { desc: poi.desc || '', longDesc: poi.longDesc || '' };
+                        poiLookup[poi.name] = { desc: poi.desc || '', longDesc: poi.longDesc || '', gmapsUrl: poi.gmapsUrl || '' };
                     }
                 });
             });
@@ -3075,6 +3075,7 @@
                     });
                     let popupHtml = `<div class="popup-title">${escapeHtml(hotel.name)}</div><div class="popup-type">Hotel</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(hotel.desc || '')}</div>`;
                     if (hotel.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(hotel.longDesc)}</div>`;
+                    if (hotel.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${hotel.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
                     const existingNote = getNote(activeDestination || 'default', hotel.name);
                     const noteTextareaId = 'note-' + hotel.name.replace(/[^a-zA-Z0-9]/g, '_');
                     popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
@@ -3100,6 +3101,7 @@
                     });
                     let popupHtml = `<div class="popup-title">${escapeHtml(restaurant.name)}</div><div class="popup-type">Restaurant</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(restaurant.desc || '')}</div>`;
                     if (restaurant.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(restaurant.longDesc)}</div>`;
+                    if (restaurant.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${restaurant.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
                     const existingNote = getNote(activeDestination || 'default', restaurant.name);
                     const noteTextareaId = 'note-' + restaurant.name.replace(/[^a-zA-Z0-9]/g, '_');
                     popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
@@ -3125,6 +3127,7 @@
                     });
                     let popupHtml = `<div class="popup-title">${escapeHtml(experience.name)}</div><div class="popup-type">Experience</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(experience.desc || '')}</div>`;
                     if (experience.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(experience.longDesc)}</div>`;
+                    if (experience.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${experience.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
                     const existingNote = getNote(activeDestination || 'default', experience.name);
                     const noteTextareaId = 'note-' + experience.name.replace(/[^a-zA-Z0-9]/g, '_');
                     popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
@@ -3150,6 +3153,7 @@
                     });
                     let popupHtml = `<div class="popup-title">${escapeHtml(place.name)}</div><div class="popup-type">Kid Friendly</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(place.desc || '')}</div>`;
                     if (place.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(place.longDesc)}</div>`;
+                    if (place.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${place.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
                     const existingNote = getNote(activeDestination || 'default', place.name);
                     const noteTextareaId = 'note-' + place.name.replace(/[^a-zA-Z0-9]/g, '_');
                     popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
@@ -3175,6 +3179,7 @@
                     });
                     let popupHtml = `<div class="popup-title">${escapeHtml(market.name)}</div><div class="popup-type">Market</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(market.desc || '')}</div>`;
                     if (market.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(market.longDesc)}</div>`;
+                    if (market.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${market.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
                     const existingNote = getNote(activeDestination || 'default', market.name);
                     const noteTextareaId = 'note-' + market.name.replace(/[^a-zA-Z0-9]/g, '_');
                     popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
@@ -3405,6 +3410,7 @@
                         let popupContent = '<div class="popup-title">' + escapeHtml(item.name) + '</div><div class="popup-type">' + formatType(item.type) + '</div><div style="font-size:11px;color:#666;margin-top:4px;">Day ' + dayData.day + '</div>';
                         if (poiInfo.desc) popupContent += '<div style="font-size:11px;color:#666;margin-top:4px;">' + escapeHtml(poiInfo.desc) + '</div>';
                         if (poiInfo.longDesc) popupContent += '<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">' + escapeHtml(poiInfo.longDesc) + '</div>';
+                        if (poiInfo.gmapsUrl) popupContent += '<div style="margin-top:6px;"><a href="' + poiInfo.gmapsUrl + '" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>';
                         popupContent += swapBtn;
                         // Notes textarea for itinerary popups
                         const itinExistingNote = getNote(activeDestination || 'default', item.name);

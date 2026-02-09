@@ -2,7 +2,7 @@
   "key": "europe-ski",
   "name": "Europe Ski Resorts Adventure",
   "subtitle": "Interactive Trip Map",
-  "flag": "\u26f7\ufe0f",
+  "flag": "⛷️",
   "defaultCenter": [
     46.5,
     10.5
@@ -16,16 +16,18 @@
         11.860000000000001
       ],
       "desc": "Reimagined Rosa Alpina; signature wine focus; high-touch wellness & design.",
-      "longDesc": "A luxury property with world-class wine service and wellness for gourmands seeking refined mountain culture."
+      "longDesc": "A luxury property with world-class wine service and wellness for gourmands seeking refined mountain culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aman%20Rosa%20Alpina&center=46.574000000000005,11.860000000000001"
     },
     {
-      "name": "Lagaci\u00f3 Hotel Mountain Residence",
+      "name": "Lagació Hotel Mountain Residence",
       "coord": [
         46.578,
         11.858
       ],
       "desc": "Apartment-style suites, ideal with kids; base for Sellaronda/Alta Badia slopes.",
-      "longDesc": "Spacious apartment-style suites perfect for families, with easy access to the Sellaronda ski circuit and Alta Badia's renowned slopes."
+      "longDesc": "Spacious apartment-style suites perfect for families, with easy access to the Sellaronda ski circuit and Alta Badia's renowned slopes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lagaci%C3%B3%20Hotel%20Mountain%20Residence&center=46.578,11.858"
     },
     {
       "name": "Hotel La Perla",
@@ -34,7 +36,8 @@
         9.270347
       ],
       "desc": "Family-run; famed cellar (thousands of vintages); excellent dining base in Co...",
-      "longDesc": "A celebrated family property in the Dolomites featuring one of Europe's most extensive wine cellars and Michelin-recognized cuisine."
+      "longDesc": "A celebrated family property in the Dolomites featuring one of Europe's most extensive wine cellars and Michelin-recognized cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Perla&center=47.692732,9.270347"
     },
     {
       "name": "Badia Hill",
@@ -43,7 +46,8 @@
         11.872
       ],
       "desc": "Modern boutique with rooftop pool vibe; home to Michelin-starred Porcino.",
-      "longDesc": "A stylish modern boutique with rooftop pool and Michelin-starred dining for alpine comfort."
+      "longDesc": "A stylish modern boutique with rooftop pool and Michelin-starred dining for alpine comfort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Badia%20Hill&center=46.561,11.872"
     },
     {
       "name": "Hotel ChristiAnia",
@@ -52,7 +56,8 @@
         11.903805
       ],
       "desc": "Classic lodge + contemporary wing; polished service and spa.",
-      "longDesc": "A refined lodge blending classical charm with contemporary design, known for polished service and comprehensive spa facilities."
+      "longDesc": "A refined lodge blending classical charm with contemporary design, known for polished service and comprehensive spa facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20ChristiAnia&center=46.58212,11.903805"
     },
     {
       "name": "Ciasa Salares",
@@ -61,7 +66,8 @@
         11.868
       ],
       "desc": "Well-known for culinary focus (cheese & wine culture); cozy alpine design.",
-      "longDesc": "A charming property celebrating the region's cheese and wine heritage through curated menus and cozy alpine design."
+      "longDesc": "A charming property celebrating the region's cheese and wine heritage through curated menus and cozy alpine design.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ciasa%20Salares&center=46.567,11.868"
     },
     {
       "name": "Hotel Tofana",
@@ -70,7 +76,8 @@
         12.064367
       ],
       "desc": "Wellness + family-friendly positioning in San Cassiano.",
-      "longDesc": "A welcoming mountain hotel in San Cassiano with strong family amenities and wellness facilities balancing active skiing with restorative downtime."
+      "longDesc": "A welcoming mountain hotel in San Cassiano with strong family amenities and wellness facilities balancing active skiing with restorative downtime.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Tofana&center=46.557203,12.064367"
     },
     {
       "name": "The Crystal VAYA Unique",
@@ -78,8 +85,9 @@
         46.871500000000005,
         11.029800000000002
       ],
-      "desc": "On-piste access; indoor/outdoor pool with \u00d6tztal views; sustainability notes.",
-      "longDesc": "An on-piste gem in the \u00d6tztal with heated indoor-outdoor pools, direct slope access, and sustainability-focused amenities."
+      "desc": "On-piste access; indoor/outdoor pool with Ötztal views; sustainability notes.",
+      "longDesc": "An on-piste gem in the Ötztal with heated indoor-outdoor pools, direct slope access, and sustainability-focused amenities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Crystal%20VAYA%20Unique&center=46.871500000000005,11.029800000000002"
     },
     {
       "name": "Alpen-Wellness Resort Hochfirst",
@@ -88,7 +96,8 @@
         11.027800000000001
       ],
       "desc": "High-altitude base; snow-sure positioning; spa focus.",
-      "longDesc": "A high-altitude wellness sanctuary with snow-reliable positioning and extensive spa facilities, ideal for families mixing skiing with thermal recovery."
+      "longDesc": "A high-altitude wellness sanctuary with snow-reliable positioning and extensive spa facilities, ideal for families mixing skiing with thermal recovery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpen-Wellness%20Resort%20Hochfirst&center=46.8755,11.027800000000001"
     },
     {
       "name": "Hotel Bellevue Obergurgl",
@@ -97,16 +106,18 @@
         13.133135
       ],
       "desc": "Elegant base in Obergurgl with wellness positioning.",
-      "longDesc": "An elegant Obergurgl base offering world-class wellness treatments in a reliable snow zone, perfect for combining adventure with relaxation."
+      "longDesc": "An elegant Obergurgl base offering world-class wellness treatments in a reliable snow zone, perfect for combining adventure with relaxation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Bellevue%20Obergurgl&center=47.114699,13.133135"
     },
     {
-      "name": "Hochfirst \u2013 The Luxury Mountain Resort",
+      "name": "Hochfirst – The Luxury Mountain Resort",
       "coord": [
         46.86750000000001,
         11.027800000000001
       ],
       "desc": "Large alpine spa + heated pools; direct slope access (Falstaff-rated).",
-      "longDesc": "A sprawling alpine spa resort with heated pools, direct slope access, and Falstaff recognition for luxury mountain hospitality."
+      "longDesc": "A sprawling alpine spa resort with heated pools, direct slope access, and Falstaff recognition for luxury mountain hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hochfirst%20%E2%80%93%20The%20Luxury%20Mountain%20Resort&center=46.86750000000001,11.027800000000001"
     },
     {
       "name": "Hotel Gurglhof",
@@ -115,7 +126,8 @@
         11.023800000000001
       ],
       "desc": "Falstaff-rated; notes childcare + spa; strong location score.",
-      "longDesc": "A Falstaff-recognized property with dedicated childcare and spa facilities, making it an excellent choice for families seeking high-altitude reliability."
+      "longDesc": "A Falstaff-recognized property with dedicated childcare and spa facilities, making it an excellent choice for families seeking high-altitude reliability.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Gurglhof&center=46.8735,11.023800000000001"
     },
     {
       "name": "all inclusive Hotel Lohmann",
@@ -124,7 +136,8 @@
         11.0218
       ],
       "desc": "Child-minding + ski-school pickup/drop-off service (per CN Traveller).",
-      "longDesc": "An all-inclusive property with seamless ski logistics, including childcare, ski school pickup and drop-off for simplified family mountain vacations."
+      "longDesc": "An all-inclusive property with seamless ski logistics, including childcare, ski school pickup and drop-off for simplified family mountain vacations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=all%20inclusive%20Hotel%20Lohmann&center=46.8775,11.0218"
     },
     {
       "name": "Alpina",
@@ -133,16 +146,18 @@
         6.672599999999999
       ],
       "desc": "Village-center; pool/sauna; playroom & interconnecting options.",
-      "longDesc": "A village-centered family hotel in Les Gets with playroom facilities and direct access to the legendary Portes du Soleil ski domain."
+      "longDesc": "A village-centered family hotel in Les Gets with playroom facilities and direct access to the legendary Portes du Soleil ski domain.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpina&center=46.1586,6.672599999999999"
     },
     {
-      "name": "H\u00f4tel & Spa Crychar",
+      "name": "Hôtel & Spa Crychar",
       "coord": [
         46.1626,
         6.670599999999999
       ],
       "desc": "Chalet-style; at base of slopes; home-style cooking emphasis.",
-      "longDesc": "A charming chalet-style property at the slope base, celebrated for home-style alpine cooking and warm family hospitality."
+      "longDesc": "A charming chalet-style property at the slope base, celebrated for home-style alpine cooking and warm family hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20%26%20Spa%20Crychar&center=46.1626,6.670599999999999"
     },
     {
       "name": "Chalet-Hotel La Marmotte (Les Gets)",
@@ -151,7 +166,8 @@
         6.878235
       ],
       "desc": "Spa + multiple on-site restaurants/bars (handy with kids & early nights).",
-      "longDesc": "A spacious resort with multiple dining venues and spa, designed for families wanting flexibility with kids' schedules and early bedtimes."
+      "longDesc": "A spacious resort with multiple dining venues and spa, designed for families wanting flexibility with kids' schedules and early bedtimes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chalet-Hotel%20La%20Marmotte%20%28Les%20Gets%29&center=48.070429,6.878235"
     },
     {
       "name": "Les Dromonts",
@@ -160,7 +176,8 @@
         6.776454
       ],
       "desc": "Iconic Avoriaz stay; easy access to bigger Portes du Soleil domain.",
-      "longDesc": "An iconic Avoriaz property offering easy access to Europe's largest ski domain and the resort's unique car-free atmosphere."
+      "longDesc": "An iconic Avoriaz property offering easy access to Europe's largest ski domain and the resort's unique car-free atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Les%20Dromonts&center=46.189244,6.776454"
     },
     {
       "name": "MIL8",
@@ -169,7 +186,8 @@
         9.229667
       ],
       "desc": "Modern rooms + retro cocktail bar; Avoriaz streets-as-pistes experience.",
-      "longDesc": "A retro-chic design hotel in Avoriaz with cocktail bar and light-filled rooms, capturing the car-free resort's distinctive 'streets-as-pistes' vibe."
+      "longDesc": "A retro-chic design hotel in Avoriaz with cocktail bar and light-filled rooms, capturing the car-free resort's distinctive 'streets-as-pistes' vibe.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=MIL8&center=49.599934,9.229667"
     },
     {
       "name": "La Bergerie",
@@ -177,26 +195,29 @@
         45.935,
         6.555
       ],
-      "desc": "Seasonal January\u2013April; traditional chalet-hotel format.",
-      "longDesc": "A seasonal chalet-hotel (January-April) offering traditional format and authentic Savoyard village charm during peak ski season."
+      "desc": "Seasonal January–April; traditional chalet-hotel format.",
+      "longDesc": "A seasonal chalet-hotel (January-April) offering traditional format and authentic Savoyard village charm during peak ski season.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Bergerie&center=45.935,6.555"
     },
     {
-      "name": "Plum Guide \u2013 'Alpine Modern' (chalet)",
+      "name": "Plum Guide – 'Alpine Modern' (chalet)",
       "coord": [
         46.1546,
         6.670599999999999
       ],
       "desc": "Vetted chalet option in Les Gets (Plum Guide), flexible for naps/meals.",
-      "longDesc": "A vetted private chalet in Les Gets with flexible timing for family naps and meals, backed by concierge support."
+      "longDesc": "A vetted private chalet in Les Gets with flexible timing for family naps and meals, backed by concierge support.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plum%20Guide%20%E2%80%93%20%27Alpine%20Modern%27%20%28chalet%29&center=46.1546,6.670599999999999"
     },
     {
-      "name": "Plum Guide \u2013 'Be Together' (chalet)",
+      "name": "Plum Guide – 'Be Together' (chalet)",
       "coord": [
         46.160599999999995,
         6.6646
       ],
       "desc": "Vetted chalet option in Les Gets (Plum Guide), good for multi-age kids.",
-      "longDesc": "A vetted chalet designed for multi-age families, balancing independent adult activities with child-friendly spaces and support."
+      "longDesc": "A vetted chalet designed for multi-age families, balancing independent adult activities with child-friendly spaces and support.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plum%20Guide%20%E2%80%93%20%27Be%20Together%27%20%28chalet%29&center=46.160599999999995,6.6646"
     },
     {
       "name": "Hotel Val de Neu",
@@ -205,7 +226,8 @@
         6.707
       ],
       "desc": "Excellent slope access; Sisley spa + thermal circuit; fireside hot chocolate ...",
-      "longDesc": "A luxurious mountain property with direct slope access, Sisley spa treatments, and iconic post-ski hot chocolate rituals."
+      "longDesc": "A luxurious mountain property with direct slope access, Sisley spa treatments, and iconic post-ski hot chocolate rituals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Val%20de%20Neu&center=45.8,6.707"
     },
     {
       "name": "Val de Ruda Hotel Chalet",
@@ -214,7 +236,8 @@
         6.715
       ],
       "desc": "Traditional alpine feel; wood-clad rooms; easy-going alternative to big hotels.",
-      "longDesc": "A traditional alpine hotel with wood-clad rooms and relaxed family vibe, offering authentic mountain hospitality without excessive formality."
+      "longDesc": "A traditional alpine hotel with wood-clad rooms and relaxed family vibe, offering authentic mountain hospitality without excessive formality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Val%20de%20Ruda%20Hotel%20Chalet&center=45.81,6.715"
     },
     {
       "name": "Chalet Salana (Ski Miquel / catered)",
@@ -223,16 +246,18 @@
         6.705
       ],
       "desc": "Highlighted as great chalet stay near Baqueira (CN Traveller).",
-      "longDesc": "A catered chalet near Baqueira recognized for excellent hosting and full meal service, simplifying family logistics in Spain's premier resort."
+      "longDesc": "A catered chalet near Baqueira recognized for excellent hosting and full meal service, simplifying family logistics in Spain's premier resort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chalet%20Salana%20%28Ski%20Miquel%20/%20catered%29&center=45.8,6.705"
     },
     {
-      "name": "Plum Guide \u2013 'Snowfall Sanctuary' (chalet)",
+      "name": "Plum Guide – 'Snowfall Sanctuary' (chalet)",
       "coord": [
         45.798,
         6.706
       ],
       "desc": "Vetted Plum Guide ski-in/ski-out option close to lifts.",
-      "longDesc": "A vetted ski-in/ski-out chalet close to Baqueira's lifts, offering convenience and privacy for families wanting self-catering flexibility."
+      "longDesc": "A vetted ski-in/ski-out chalet close to Baqueira's lifts, offering convenience and privacy for families wanting self-catering flexibility.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plum%20Guide%20%E2%80%93%20%27Snowfall%20Sanctuary%27%20%28chalet%29&center=45.798,6.706"
     },
     {
       "name": "Copperhill Mountain Lodge",
@@ -241,16 +266,18 @@
         13.17775
       ],
       "desc": "Design-hotel energy; good for children; non-ski activities incl. dog-sledding...",
-      "longDesc": "A Scandinavian design masterpiece combining architectural excellence with unique winter activities like dog-sledding for families."
+      "longDesc": "A Scandinavian design masterpiece combining architectural excellence with unique winter activities like dog-sledding for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Copperhill%20Mountain%20Lodge&center=63.383234,13.17775"
     },
     {
-      "name": "Hotel \u00c5reg\u00e5rden",
+      "name": "Hotel Åregården",
       "coord": [
         63.399435,
         13.079068
       ],
-      "desc": "White Guide\u2013listed hotel; in-town access to restaurants/bars.",
-      "longDesc": "A White Guide\u2013recognized property in central \u00c5re with walkable access to restaurants and village culture, ideal for families."
+      "desc": "White Guide–listed hotel; in-town access to restaurants/bars.",
+      "longDesc": "A White Guide–recognized property in central Åre with walkable access to restaurants and village culture, ideal for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20%C3%85reg%C3%A5rden&center=63.399435,13.079068"
     },
     {
       "name": "Granen Hotel & Restaurant",
@@ -258,8 +285,9 @@
         63.3975,
         13.08
       ],
-      "desc": "White Guide\u2013rated restaurant on-site; classic alpine-stuga feel.",
-      "longDesc": "A White Guide\u2013rated property with excellent on-site restaurant and classic Swedish alpine lodge character for families."
+      "desc": "White Guide–rated restaurant on-site; classic alpine-stuga feel.",
+      "longDesc": "A White Guide–rated property with excellent on-site restaurant and classic Swedish alpine lodge character for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Granen%20Hotel%20%26%20Restaurant&center=63.3975,13.08"
     },
     {
       "name": "ValKids",
@@ -268,7 +296,8 @@
         6.98
       ],
       "desc": "Family-focused resort with ski school and snow parks.",
-      "longDesc": "A specialized family resort offering progressive ski instruction and engaging snow park activities for children."
+      "longDesc": "A specialized family resort offering progressive ski instruction and engaging snow park activities for children.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=ValKids&center=45.449,6.98"
     },
     {
       "name": "AKI Family Resort PLOSE",
@@ -277,7 +306,8 @@
         11.431
       ],
       "desc": "South Tyrol family resort; dedicated ski schools and kid-specific facilities.",
-      "longDesc": "A specialized family resort in South Tyrol with dedicated ski instruction and comprehensive children's amenities."
+      "longDesc": "A specialized family resort in South Tyrol with dedicated ski instruction and comprehensive children's amenities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=AKI%20Family%20Resort%20PLOSE&center=46.684,11.431"
     },
     {
       "name": "Livigno",
@@ -286,16 +316,18 @@
         10.1356
       ],
       "desc": "High-altitude Italian resort; duty-free status; long seasons; village charm.",
-      "longDesc": "Italy's highest ski resort offering duty-free shopping, extended season reliability, and genuine alpine village atmosphere."
+      "longDesc": "Italy's highest ski resort offering duty-free shopping, extended season reliability, and genuine alpine village atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Livigno&center=46.5386,10.1356"
     },
     {
-      "name": "Hotel M\u00fcrren Palace",
+      "name": "Hotel Mürren Palace",
       "coord": [
         46.559,
         7.893
       ],
       "desc": "Luxury car-free village; train-only access; Bernese Oberland panoramas.",
-      "longDesc": "An exclusive mountain property in car-free M\u00fcrren, accessible only by cogwheel railway, offering unparalleled Bernese Oberland views."
+      "longDesc": "An exclusive mountain property in car-free Mürren, accessible only by cogwheel railway, offering unparalleled Bernese Oberland views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20M%C3%BCrren%20Palace&center=46.559,7.893"
     },
     {
       "name": "Six Senses Crans-Montana",
@@ -304,7 +336,8 @@
         7.4815
       ],
       "desc": "Luxury wellness resort; sustainability focus; high-altitude design.",
-      "longDesc": "A luxury alpine wellness resort combining sustainable practices with contemporary design at 4,800 feet elevation."
+      "longDesc": "A luxury alpine wellness resort combining sustainable practices with contemporary design at 4,800 feet elevation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Six%20Senses%20Crans-Montana&center=46.307,7.4815"
     },
     {
       "name": "Naturhotel Forsthofgut",
@@ -313,7 +346,8 @@
         10.758
       ],
       "desc": "Eco-friendly mountain property; natural materials; sustainable practices.",
-      "longDesc": "An environmentally conscious property emphasizing natural materials and sustainability for eco-conscious families."
+      "longDesc": "An environmentally conscious property emphasizing natural materials and sustainability for eco-conscious families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Naturhotel%20Forsthofgut&center=47.265,10.758"
     },
     {
       "name": "Ischgl",
@@ -321,8 +355,9 @@
         47.268,
         10.299
       ],
-      "desc": "Austrian resort; vibrant apr\u00e8s-ski; long seasons; world-class skiing.",
-      "longDesc": "A stylish Austrian resort famous for lively apr\u00e8s-ski culture, reliable snow, and challenging intermediate terrain."
+      "desc": "Austrian resort; vibrant après-ski; long seasons; world-class skiing.",
+      "longDesc": "A stylish Austrian resort famous for lively après-ski culture, reliable snow, and challenging intermediate terrain.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ischgl&center=47.268,10.299"
     },
     {
       "name": "Bettmeralp",
@@ -331,7 +366,8 @@
         8.222
       ],
       "desc": "Car-free Swiss village; cable car access; peaceful family getaway.",
-      "longDesc": "A serene, car-free Swiss mountain village accessible only by cable car, offering quiet family retreats."
+      "longDesc": "A serene, car-free Swiss mountain village accessible only by cable car, offering quiet family retreats.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bettmeralp&center=46.409,8.222"
     },
     {
       "name": "Les Contamines-Montjoie",
@@ -340,16 +376,18 @@
         6.706
       ],
       "desc": "Traditional French village; Mont-Blanc proximity; excellent skiing and charm.",
-      "longDesc": "A traditional alpine village near Mont-Blanc combining authentic local culture with excellent skiing access."
+      "longDesc": "A traditional alpine village near Mont-Blanc combining authentic local culture with excellent skiing access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Les%20Contamines-Montjoie&center=45.8,6.706"
     },
     {
-      "name": "Village Club MMV Les Br\u00e9vi\u00e8res",
+      "name": "Village Club MMV Les Brévières",
       "coord": [
         45.456,
         6.735
       ],
       "desc": "Tignes family resort; apartment-style lodging; year-round activity programs.",
-      "longDesc": "A family-focused apartment resort in Tignes with flexible accommodation and comprehensive seasonal programming."
+      "longDesc": "A family-focused apartment resort in Tignes with flexible accommodation and comprehensive seasonal programming.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Village%20Club%20MMV%20Les%20Br%C3%A9vi%C3%A8res&center=45.456,6.735"
     },
     {
       "name": "Tignes Station de Ski",
@@ -358,7 +396,8 @@
         6.745
       ],
       "desc": "High-altitude French resort; glacier skiing; long season; modern energy.",
-      "longDesc": "France's highest ski resort offering glacier skiing, season-long snow reliability, and vibrant modern resort culture."
+      "longDesc": "France's highest ski resort offering glacier skiing, season-long snow reliability, and vibrant modern resort culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tignes%20Station%20de%20Ski&center=45.471,6.745"
     },
     {
       "name": "Avoriaz",
@@ -367,16 +406,18 @@
         6.685
       ],
       "desc": "Car-free European resort village; streets-as-pistes design.",
-      "longDesc": "Europe's highest car-free resort village with unique architecture where streets transform into ski slopes for distinctive family experiences."
+      "longDesc": "Europe's highest car-free resort village with unique architecture where streets transform into ski slopes for distinctive family experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Avoriaz&center=46.18,6.685"
     },
     {
-      "name": "Silvretta Hochalpenstra\u00dfe Aussichtspunkt",
+      "name": "Silvretta Hochalpenstraße Aussichtspunkt",
       "coord": [
         46.965,
         10.085
       ],
       "desc": "Dramatic mountain pass; panoramic Alpine views; perfect for non-skiers.",
-      "longDesc": "A spectacular mountain pass offering breathtaking panoramic views and scenic photography opportunities for all ability levels."
+      "longDesc": "A spectacular mountain pass offering breathtaking panoramic views and scenic photography opportunities for all ability levels.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Silvretta%20Hochalpenstra%C3%9Fe%20Aussichtspunkt&center=46.965,10.085"
     },
     {
       "name": "COMO Alpina Dolomites",
@@ -385,7 +426,8 @@
         11.923
       ],
       "desc": "Luxury Dolomites property; contemporary design; regional cuisine excellence.",
-      "longDesc": "A luxury property in the Dolomites heart blending contemporary design with Italian alpine hospitality and exceptional cuisine."
+      "longDesc": "A luxury property in the Dolomites heart blending contemporary design with Italian alpine hospitality and exceptional cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=COMO%20Alpina%20Dolomites&center=46.635,11.923"
     },
     {
       "name": "Aurelio Hotel & Chalet Lech",
@@ -394,7 +436,8 @@
         10.17
       ],
       "desc": "Lech's premier property; contemporary comfort; world-class terrain; fine dining.",
-      "longDesc": "Austria's famous Lech resort offers contemporary luxury, world-class ski terrain, and sophisticated mountain dining."
+      "longDesc": "Austria's famous Lech resort offers contemporary luxury, world-class ski terrain, and sophisticated mountain dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aurelio%20Hotel%20%26%20Chalet%20Lech&center=47.607,10.17"
     },
     {
       "name": "Le Cerf Amoureux",
@@ -403,7 +446,8 @@
         6.556
       ],
       "desc": "Catalonian property near Baqueira; authentic Pyrenean hospitality.",
-      "longDesc": "A charming Pyrenean property near Spain's premier resort offering genuine Catalan mountain hospitality and charm."
+      "longDesc": "A charming Pyrenean property near Spain's premier resort offering genuine Catalan mountain hospitality and charm.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Cerf%20Amoureux&center=45.936,6.556"
     },
     {
       "name": "Tschuggen Grand Hotel Arosa",
@@ -412,7 +456,8 @@
         9.84
       ],
       "desc": "Grand historic Swiss property; spa excellence; panoramic mountain views.",
-      "longDesc": "A historic Swiss grand hotel with world-class spa facilities and stunning panoramic mountain vistas."
+      "longDesc": "A historic Swiss grand hotel with world-class spa facilities and stunning panoramic mountain vistas.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tschuggen%20Grand%20Hotel%20Arosa&center=46.799,9.84"
     },
     {
       "name": "Valsana Hotel & Ferienwohnungen Arosa",
@@ -421,7 +466,8 @@
         9.835
       ],
       "desc": "Apartment-style flexibility; kitchen facilities; multi-room layouts for families.",
-      "longDesc": "Spacious apartment accommodations offering flexibility with kitchen facilities ideal for extended family trips."
+      "longDesc": "Spacious apartment accommodations offering flexibility with kitchen facilities ideal for extended family trips.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Valsana%20Hotel%20%26%20Ferienwohnungen%20Arosa&center=46.799,9.835"
     },
     {
       "name": "Le Refuge de Solaise",
@@ -430,16 +476,18 @@
         6.735
       ],
       "desc": "Mountain refuge near Chamonix; authentic French alpine atmosphere.",
-      "longDesc": "A charming mountain refuge near Chamonix offering authentic alpine ambiance with easy ski terrain access."
+      "longDesc": "A charming mountain refuge near Chamonix offering authentic alpine ambiance with easy ski terrain access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Refuge%20de%20Solaise&center=45.29,6.735"
     },
     {
-      "name": "Schilthorn - Piz Gloria 360\u00b0- Restaurant",
+      "name": "Schilthorn - Piz Gloria 360°- Restaurant",
       "coord": [
         46.642,
         8.342
       ],
-      "desc": "Famous rotating 360\u00b0 views; James Bond 'On Her Majesty's' setting.",
-      "longDesc": "The iconic rotating restaurant at 10,000 feet offering 360-degree views and James Bond movie set fame."
+      "desc": "Famous rotating 360° views; James Bond 'On Her Majesty's' setting.",
+      "longDesc": "The iconic rotating restaurant at 10,000 feet offering 360-degree views and James Bond movie set fame.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Schilthorn%20-%20Piz%20Gloria%20360%C2%B0-%20Restaurant&center=46.642,8.342"
     },
     {
       "name": "Kleine Scheidegg",
@@ -448,7 +496,8 @@
         8.341
       ],
       "desc": "High mountain restaurant; Eiger, Jungfrau views; historic Jungfrau Railway.",
-      "longDesc": "A high-altitude restaurant with stunning Eiger and Jungfrau vistas, accessible via Europe's historic mountain railway."
+      "longDesc": "A high-altitude restaurant with stunning Eiger and Jungfrau vistas, accessible via Europe's historic mountain railway.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kleine%20Scheidegg&center=46.661,8.341"
     },
     {
       "name": "Jungfraujoch Sphinx Observatory",
@@ -457,7 +506,8 @@
         8.163
       ],
       "desc": "Top of Europe at 11,000 feet; observatory; ice palace; scenic railway.",
-      "longDesc": "The 'Top of Europe' at 11,000 feet featuring an observatory, ice sculptures, and iconic mountain railway access."
+      "longDesc": "The 'Top of Europe' at 11,000 feet featuring an observatory, ice sculptures, and iconic mountain railway access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jungfraujoch%20Sphinx%20Observatory&center=46.548,8.163"
     },
     {
       "name": "Schilthorn",
@@ -465,28 +515,31 @@
         46.642,
         8.342
       ],
-      "desc": "10,000-foot summit; 360\u00b0 views; hiking trails; family-friendly mountain experiences.",
-      "longDesc": "A 10,000-foot summit with 360-degree Alpine views, accessible cable car, and family-friendly mountain activities."
+      "desc": "10,000-foot summit; 360° views; hiking trails; family-friendly mountain experiences.",
+      "longDesc": "A 10,000-foot summit with 360-degree Alpine views, accessible cable car, and family-friendly mountain activities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Schilthorn&center=46.642,8.342"
     }
   ],
   "restaurants": [
     {
-      "name": "Porcino (1\u2605 MICHELIN)",
+      "name": "Porcino (1★ MICHELIN)",
       "coord": [
         46.561,
         11.872
       ],
       "desc": "Newer Michelin-starred address in Alta Badia; tasting-worthy splurge.",
-      "longDesc": "Alta Badia's Michelin-starred gem offering creative mountain cuisine, worth a special-occasion splurge for culinary-focused families."
+      "longDesc": "Alta Badia's Michelin-starred gem offering creative mountain cuisine, worth a special-occasion splurge for culinary-focused families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Porcino%20%281%E2%98%85%20MICHELIN%29&center=46.561,11.872"
     },
     {
-      "name": "La St\u00fca de Michil (MICHELIN)",
+      "name": "La Stüa de Michil (MICHELIN)",
       "coord": [
         46.5501,
         11.8756
       ],
       "desc": "Signature Ladin stube setting inside Hotel La Perla; chef-led tasting menus.",
-      "longDesc": "An iconic wood-paneled Ladin stube in Hotel La Perla, serving heritage mountain dishes through chef-led tasting menus."
+      "longDesc": "An iconic wood-paneled Ladin stube in Hotel La Perla, serving heritage mountain dishes through chef-led tasting menus.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20St%C3%BCa%20de%20Michil%20%28MICHELIN%29&center=46.5501,11.8756"
     },
     {
       "name": "Bistrot La Perla",
@@ -495,7 +548,8 @@
         9.27
       ],
       "desc": "Reliable bistro option when you want La Perla energy without the full tasting.",
-      "longDesc": "A refined yet approachable bistro offering La Perla's culinary excellence without full tasting menu formality, ideal for families."
+      "longDesc": "A refined yet approachable bistro offering La Perla's culinary excellence without full tasting menu formality, ideal for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistrot%20La%20Perla&center=47.693,9.27"
     },
     {
       "name": "Rifugio Bioch",
@@ -504,7 +558,8 @@
         11.88024
       ],
       "desc": "Easy to reach (even with kids); standout Champagne list + local producers.",
-      "longDesc": "An easily accessible mountain hut with standout Champagne list, perfect for celebratory mid-slope lunches with kids."
+      "longDesc": "An easily accessible mountain hut with standout Champagne list, perfect for celebratory mid-slope lunches with kids.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Bioch&center=46.65712,11.88024"
     },
     {
       "name": "Rifugio Sponata",
@@ -513,7 +568,8 @@
         12.38474
       ],
       "desc": "Wine-driven ski lunch; bottles drawn from Rosa Alpina's cellar per expert.",
-      "longDesc": "A wine-forward ski lunch stop stocked from Rosa Alpina's legendary cellar, offering gourmet fuel for afternoon runs."
+      "longDesc": "A wine-forward ski lunch stop stocked from Rosa Alpina's legendary cellar, offering gourmet fuel for afternoon runs.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Sponata&center=46.498705,12.38474"
     },
     {
       "name": "Berghaus Ladinia",
@@ -522,7 +578,8 @@
         8.290455
       ],
       "desc": "Classic Ladin dishes; perfect warming lunch by the lifts.",
-      "longDesc": "A cozy mountain hut serving classic Ladin dishes\u2014hearty, warming cuisine perfect for refueling families after morning runs."
+      "longDesc": "A cozy mountain hut serving classic Ladin dishes—hearty, warming cuisine perfect for refueling families after morning runs.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Berghaus%20Ladinia&center=47.670937,8.290455"
     },
     {
       "name": "Rifugio Scotoni",
@@ -531,7 +588,8 @@
         11.99836
       ],
       "desc": "Rowdy, grill-forward ski-in classic; great for a big lunch with friends.",
-      "longDesc": "A rowdy, social grill-forward hut beloved for big group lunches and convivial apr\u00e8s-ski energy among skiers."
+      "longDesc": "A rowdy, social grill-forward hut beloved for big group lunches and convivial après-ski energy among skiers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Scotoni&center=46.55302,11.99836"
     },
     {
       "name": "Maso Runch-Hof (MICHELIN)",
@@ -540,16 +598,18 @@
         11.907826
       ],
       "desc": "Historic farmhouse setting; 'journey back in time' feel per MICHELIN.",
-      "longDesc": "A historic farmhouse with Michelin recognition, offering a 'journey back in time' through traditional mountain cooking."
+      "longDesc": "A historic farmhouse with Michelin recognition, offering a 'journey back in time' through traditional mountain cooking.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Maso%20Runch-Hof%20%28MICHELIN%29&center=46.617098,11.907826"
     },
     {
-      "name": "L'Ost\u00ec (MICHELIN selection)",
+      "name": "L'Ostì (MICHELIN selection)",
       "coord": [
         46.563,
         11.876
       ],
       "desc": "Dependable 'smart-casual' dinner option in the valley.",
-      "longDesc": "A smart-casual dinner spot in Alta Badia valley, ideal for families wanting good food without multi-course tasting menus."
+      "longDesc": "A smart-casual dinner spot in Alta Badia valley, ideal for families wanting good food without multi-course tasting menus.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Ost%C3%AC%20%28MICHELIN%20selection%29&center=46.563,11.876"
     },
     {
       "name": "Rifugio Col Alt (MICHELIN selection)",
@@ -558,7 +618,8 @@
         12.422032
       ],
       "desc": "High-view ski lunch stop (book on sunny days).",
-      "longDesc": "A high-altitude lunch stop with sweeping mountain views, best enjoyed on sunny days when reservations are essential."
+      "longDesc": "A high-altitude lunch stop with sweeping mountain views, best enjoyed on sunny days when reservations are essential.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Col%20Alt%20%28MICHELIN%20selection%29&center=45.929394,12.422032"
     },
     {
       "name": "Austria Stuben (Falstaff)",
@@ -567,16 +628,18 @@
         14.143702
       ],
       "desc": "Gourmet dining in Obergurgl; strong wine program.",
-      "longDesc": "Obergurgl's gourmet anchor featuring refined Austrian cuisine paired with an impressive wine program in elegant surroundings."
+      "longDesc": "Obergurgl's gourmet anchor featuring refined Austrian cuisine paired with an impressive wine program in elegant surroundings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Austria%20Stuben%20%28Falstaff%29&center=47.522617,14.143702"
     },
     {
-      "name": "Gourmet Restaurant Gr\u00fcnerhof (Falstaff)",
+      "name": "Gourmet Restaurant Grünerhof (Falstaff)",
       "coord": [
         48.22964,
         11.702636
       ],
       "desc": "Falstaff-rated; classic Tyrolean comfort with polish.",
-      "longDesc": "A Falstaff-rated property serving classic Tyrolean comfort food elevated with modern technique and impeccable service."
+      "longDesc": "A Falstaff-rated property serving classic Tyrolean comfort food elevated with modern technique and impeccable service.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gourmet%20Restaurant%20Gr%C3%BCnerhof%20%28Falstaff%29&center=48.22964,11.702636"
     },
     {
       "name": "Edelweiss & Gurgl (Falstaff)",
@@ -585,16 +648,18 @@
         11.02641
       ],
       "desc": "Fondue option + elevated local menu; cozy parlours.",
-      "longDesc": "A Falstaff-recognized restaurant famous for fondue dining in cozy fireplace-warmed parlours, perfect for early family dinners."
+      "longDesc": "A Falstaff-recognized restaurant famous for fondue dining in cozy fireplace-warmed parlours, perfect for early family dinners.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Edelweiss%20%26%20Gurgl%20%28Falstaff%29&center=46.86964,11.02641"
     },
     {
-      "name": "Top Mountain Star (apr\u00e8s / views)",
+      "name": "Top Mountain Star (après / views)",
       "coord": [
         46.889,
         11.031
       ],
       "desc": "Skyline drinks with high-altitude views (book early on bluebird days).",
-      "longDesc": "A high-altitude bar offering panoramic drinks with \u00d6tztal views, perfect for sunset celebrations on bluebird ski days."
+      "longDesc": "A high-altitude bar offering panoramic drinks with Ötztal views, perfect for sunset celebrations on bluebird ski days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Top%20Mountain%20Star%20%28apr%C3%A8s%20/%20views%29&center=46.889,11.031"
     },
     {
       "name": "La R'mize (MICHELIN selection)",
@@ -603,7 +668,8 @@
         6.6706
       ],
       "desc": "A polished dinner in the village; good for a date-night babysitter evening.",
-      "longDesc": "A polished dinner option in Les Gets village, ideal for parents seeking date-night escapes while kids rest."
+      "longDesc": "A polished dinner option in Les Gets village, ideal for parents seeking date-night escapes while kids rest.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20R%27mize%20%28MICHELIN%20selection%29&center=46.1566,6.6706"
     },
     {
       "name": "La Paika",
@@ -612,7 +678,8 @@
         6.670165
       ],
       "desc": "On-slope restaurant linked to La Marmotte; great lunch logistics.",
-      "longDesc": "An on-slope restaurant linked to La Marmotte, solving the logistics puzzle of gourmet family lunches without village detours."
+      "longDesc": "An on-slope restaurant linked to La Marmotte, solving the logistics puzzle of gourmet family lunches without village detours.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Paika&center=46.143246,6.670165"
     },
     {
       "name": "La Pivotte",
@@ -620,8 +687,9 @@
         46.156624,
         6.667556
       ],
-      "desc": "Savoie classics\u2014ideal 'kid-friendly but good' dinner.",
-      "longDesc": "A cozy restaurant serving Savoyard classics, striking the balance between 'kid-friendly' and 'genuinely good' that families appreciate."
+      "desc": "Savoie classics—ideal 'kid-friendly but good' dinner.",
+      "longDesc": "A cozy restaurant serving Savoyard classics, striking the balance between 'kid-friendly' and 'genuinely good' that families appreciate.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Pivotte&center=46.156624,6.667556"
     },
     {
       "name": "La Biskatcha",
@@ -630,7 +698,8 @@
         6.667345
       ],
       "desc": "Easy-going option when you want simple comfort food.",
-      "longDesc": "An easy-going restaurant with simple comfort food, perfect for families wanting good meals without complicated menus."
+      "longDesc": "An easy-going restaurant with simple comfort food, perfect for families wanting good meals without complicated menus.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Biskatcha&center=46.156654,6.667345"
     },
     {
       "name": "Semba Bar",
@@ -639,7 +708,8 @@
         6.6726
       ],
       "desc": "Good 'after kids are asleep' bar if you're staying on-property.",
-      "longDesc": "A lively bar in Les Gets village, ideal for parents to enjoy apr\u00e8s-ski beverages once kids are settled for evening."
+      "longDesc": "A lively bar in Les Gets village, ideal for parents to enjoy après-ski beverages once kids are settled for evening.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Semba%20Bar&center=46.1586,6.6726"
     },
     {
       "name": "Le Festival (MIL8)",
@@ -648,7 +718,8 @@
         6.686
       ],
       "desc": "Convenient on-mountain dining in Avoriaz (Portes du Soleil).",
-      "longDesc": "Convenient on-mountain dining in Avoriaz with retro charm, solving the challenge of gourmet meals while ski boots remain on."
+      "longDesc": "Convenient on-mountain dining in Avoriaz with retro charm, solving the challenge of gourmet meals while ski boots remain on.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Festival%20%28MIL8%29&center=46.18,6.686"
     },
     {
       "name": "Les Enfants Terribles (Les Dromonts)",
@@ -657,34 +728,38 @@
         6.777
       ],
       "desc": "Iconic Avoriaz setting; good for a 'special' night without leaving resort.",
-      "longDesc": "An iconic Avoriaz restaurant offering a special night-out experience without leaving the car-free resort."
+      "longDesc": "An iconic Avoriaz restaurant offering a special night-out experience without leaving the car-free resort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Les%20Enfants%20Terribles%20%28Les%20Dromonts%29&center=46.189,6.777"
     },
     {
-      "name": "Era Coqu\u00e8la",
+      "name": "Era Coquèla",
       "coord": [
         45.8,
         6.707
       ],
       "desc": "A classic local address to anchor a non-ski evening in Vielha.",
-      "longDesc": "A classic local Aranese restaurant anchoring non-ski evenings with authentic regional cuisine and warm hospitality."
+      "longDesc": "A classic local Aranese restaurant anchoring non-ski evenings with authentic regional cuisine and warm hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Era%20Coqu%C3%A8la&center=45.8,6.707"
     },
     {
-      "name": "Mo\u00ebt Champagne Bar & Lounge",
+      "name": "Moët Champagne Bar & Lounge",
       "coord": [
         45.802,
         6.708
       ],
       "desc": "High-energy slope-side bubbles; fun 'treat' stop.",
-      "longDesc": "A high-energy slope-side champagne bar near Baqueira, perfect for celebratory apr\u00e8s-ski moments with families."
+      "longDesc": "A high-energy slope-side champagne bar near Baqueira, perfect for celebratory après-ski moments with families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mo%C3%ABt%20Champagne%20Bar%20%26%20Lounge&center=45.802,6.708"
     },
     {
-      "name": "Hotel Val de Neu \u2013 dining",
+      "name": "Hotel Val de Neu – dining",
       "coord": [
         45.8,
         6.705
       ],
       "desc": "Convenient with kids; fireplaces and spa day flow.",
-      "longDesc": "In-hotel dining near Baqueira combining convenience with fireside charm and easy spa day flow for families."
+      "longDesc": "In-hotel dining near Baqueira combining convenience with fireside charm and easy spa day flow for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Val%20de%20Neu%20%E2%80%93%20dining&center=45.8,6.705"
     },
     {
       "name": "Tapas crawl in Vielha",
@@ -692,8 +767,9 @@
         45.81,
         6.72
       ],
-      "desc": "Easy, stroller-friendly evenings: pick 2\u20133 stops instead of one long dinner.",
-      "longDesc": "An easy, stroller-friendly evening strategy offering 2-3 short tapas stops instead of one lengthy dinner commitment."
+      "desc": "Easy, stroller-friendly evenings: pick 2–3 stops instead of one long dinner.",
+      "longDesc": "An easy, stroller-friendly evening strategy offering 2-3 short tapas stops instead of one lengthy dinner commitment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapas%20crawl%20in%20Vielha&center=45.81,6.72"
     },
     {
       "name": "Granen (White Guide)",
@@ -702,25 +778,28 @@
         14.804693
       ],
       "desc": "Relaxed-elegant Swedish lodge feel; serious wine cellar.",
-      "longDesc": "A relaxed-elegant Swedish lodge restaurant with fireplace ambiance and serious wine cellar, perfect for family dinners."
+      "longDesc": "A relaxed-elegant Swedish lodge restaurant with fireplace ambiance and serious wine cellar, perfect for family dinners.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Granen%20%28White%20Guide%29&center=60.493199,14.804693"
     },
     {
-      "name": "Vinbaren \u00c5re (White Guide)",
+      "name": "Vinbaren Åre (White Guide)",
       "coord": [
         63.399536,
         13.078816
       ],
       "desc": "Lively Nordic wine bar; half-portion menus; flexible dining.",
-      "longDesc": "A lively Nordic wine bar offering half-portion menus and small plates, ideal for families seeking flexible dining."
+      "longDesc": "A lively Nordic wine bar offering half-portion menus and small plates, ideal for families seeking flexible dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vinbaren%20%C3%85re%20%28White%20Guide%29&center=63.399536,13.078816"
     },
     {
-      "name": "Copperhill \u2013 Niesti (hotel dining)",
+      "name": "Copperhill – Niesti (hotel dining)",
       "coord": [
         63.381174,
         13.171505
       ],
       "desc": "Stay-on-property dinner that doesn't feel like an afterthought.",
-      "longDesc": "On-property restaurant transcending typical hotel dining with memorable meals."
+      "longDesc": "On-property restaurant transcending typical hotel dining with memorable meals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Copperhill%20%E2%80%93%20Niesti%20%28hotel%20dining%29&center=63.381174,13.171505"
     }
   ],
   "experiences": [
@@ -731,7 +810,8 @@
         11.87
       ],
       "desc": "Gourmet capital vibe + access to Sella Ronda circuit; on-slope wine culture.",
-      "longDesc": "The gourmet capital of skiing with world-class wine culture integrated into slopes and the iconic Sella Ronda circuit."
+      "longDesc": "The gourmet capital of skiing with world-class wine culture integrated into slopes and the iconic Sella Ronda circuit.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20snapshot%3A%20Alta%20Badia&center=46.55,11.87"
     },
     {
       "name": "Resort snapshot: Les Gets (Portes du Soleil)",
@@ -740,7 +820,8 @@
         6.5
       ],
       "desc": "Traditional village; big local slopes shared with Morzine; access to cross-bo...",
-      "longDesc": "A traditional Savoyard village offering access to Europe's largest ski domain with extensive cross-border terrain."
+      "longDesc": "A traditional Savoyard village offering access to Europe's largest ski domain with extensive cross-border terrain.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20snapshot%3A%20Les%20Gets%20%28Portes%20du%20Soleil%29&center=45.9,6.5"
     },
     {
       "name": "Resort snapshot: Gurgl (Obergurgl/Hochgurgl)",
@@ -749,16 +830,18 @@
         11.0
       ],
       "desc": "High-altitude, snow-reliable; strong ski-school culture; calmer luxury than h...",
-      "longDesc": "A high-altitude snow-reliable resort with strong ski school culture and understated luxury for families."
+      "longDesc": "A high-altitude snow-reliable resort with strong ski school culture and understated luxury for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20snapshot%3A%20Gurgl%20%28Obergurgl/Hochgurgl%29&center=47.0,11.0"
     },
     {
-      "name": "Resort snapshot: \u00c5re",
+      "name": "Resort snapshot: Åre",
       "coord": [
         63.399,
         13.0815
       ],
-      "desc": "Tree runs + non-ski activities (snowmobiling, dog-sledding); dramatic \u00c5reskut...",
-      "longDesc": "A Scandinavian resort offering tree runs, dog-sledding, and snowmobiling for families seeking non-ski activities."
+      "desc": "Tree runs + non-ski activities (snowmobiling, dog-sledding); dramatic Åreskut...",
+      "longDesc": "A Scandinavian resort offering tree runs, dog-sledding, and snowmobiling for families seeking non-ski activities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20snapshot%3A%20%C3%85re&center=63.399,13.0815"
     },
     {
       "name": "Sellaronda day circuit",
@@ -767,7 +850,8 @@
         11.872
       ],
       "desc": "Plan a full loop day; iconic Dolomites views.",
-      "longDesc": "A full-loop ski day through iconic Dolomites terrain visiting multiple valleys with stunning scenery and famous huts."
+      "longDesc": "A full-loop ski day through iconic Dolomites terrain visiting multiple valleys with stunning scenery and famous huts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sellaronda%20day%20circuit&center=46.561,11.872"
     },
     {
       "name": "Gourmet Ski Safari / 'sommelier on the slopes' vibe",
@@ -776,16 +860,18 @@
         11.862
       ],
       "desc": "On-slope wine focus; gourmet stops are part of the ski culture.",
-      "longDesc": "A unique Alta Badia experience treating ski days as culinary itineraries with wine-focused huts and sommelier expertise."
+      "longDesc": "A unique Alta Badia experience treating ski days as culinary itineraries with wine-focused huts and sommelier expertise.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gourmet%20Ski%20Safari%20/%20%27sommelier%20on%20the%20slopes%27%20vibe&center=46.563,11.862"
     },
     {
-      "name": "Rifugio-hopping lunch day (Bioch \u2192 Sponata \u2192 Scotoni)",
+      "name": "Rifugio-hopping lunch day (Bioch → Sponata → Scotoni)",
       "coord": [
         46.565,
         11.865
       ],
       "desc": "Build your ski route around expert-picked huts and cellar-worthy bottles.",
-      "longDesc": "A curated route connecting expert-picked huts with serious wine cellars, building the perfect ski day around food and drinks."
+      "longDesc": "A curated route connecting expert-picked huts with serious wine cellars, building the perfect ski day around food and drinks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio-hopping%20lunch%20day%20%28Bioch%20%E2%86%92%20Sponata%20%E2%86%92%20Scotoni%29&center=46.565,11.865"
     },
     {
       "name": "Porcino tasting night",
@@ -794,16 +880,18 @@
         11.874
       ],
       "desc": "Michelin-starred creative cooking in Alta Badia.",
-      "longDesc": "Booking Michelin-starred Porcino for an unforgettable evening of creative mountain cooking in intimate Alta Badia surroundings."
+      "longDesc": "Booking Michelin-starred Porcino for an unforgettable evening of creative mountain cooking in intimate Alta Badia surroundings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Porcino%20tasting%20night&center=46.561,11.874"
     },
     {
-      "name": "La St\u00fca de Michil dinner (Ladin stube setting)",
+      "name": "La Stüa de Michil dinner (Ladin stube setting)",
       "coord": [
         46.5501,
         11.8736
       ],
       "desc": "Intimate wood-heavy stube; signature Alta Badia splurge.",
-      "longDesc": "A signature Alta Badia splurge featuring intimate wood-heavy ambiance and heritage Ladin cuisine in Hotel La Perla's iconic stubes."
+      "longDesc": "A signature Alta Badia splurge featuring intimate wood-heavy ambiance and heritage Ladin cuisine in Hotel La Perla's iconic stubes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20St%C3%BCa%20de%20Michil%20dinner%20%28Ladin%20stube%20setting%29&center=46.5501,11.8736"
     },
     {
       "name": "Aman Rosa Alpina spa afternoon",
@@ -812,7 +900,8 @@
         11.931271
       ],
       "desc": "High-end wellness + recovery after long ski days.",
-      "longDesc": "High-end wellness and recovery after intense ski days, combining world-class spa facilities with mountain views and expertise."
+      "longDesc": "High-end wellness and recovery after intense ski days, combining world-class spa facilities with mountain views and expertise.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aman%20Rosa%20Alpina%20spa%20afternoon&center=46.571434,11.931271"
     },
     {
       "name": "Badia Hill rooftop pool / spa session",
@@ -821,7 +910,8 @@
         11.874
       ],
       "desc": "Design-forward spa + rooftop pool vibe.",
-      "longDesc": "A contemporary spa experience with rooftop pool views and design-forward facilities, perfect for mixing skiing with wellness."
+      "longDesc": "A contemporary spa experience with rooftop pool views and design-forward facilities, perfect for mixing skiing with wellness.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Badia%20Hill%20rooftop%20pool%20/%20spa%20session&center=46.561,11.874"
     },
     {
       "name": "High-altitude 'snow-sure' week",
@@ -830,7 +920,8 @@
         11.0258
       ],
       "desc": "Pick Gurgl when you want reliable conditions and fewer 'weather heartbreak' d...",
-      "longDesc": "Choosing Obergurgl/Hochgurgl for reliable conditions and fewer weather-dependent cancellations, reducing parental stress on family trips."
+      "longDesc": "Choosing Obergurgl/Hochgurgl for reliable conditions and fewer weather-dependent cancellations, reducing parental stress on family trips.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=High-altitude%20%27snow-sure%27%20week&center=46.8695,11.0258"
     },
     {
       "name": "BOBO Ski Club / Kinderland-style progression",
@@ -838,8 +929,9 @@
         46.8705,
         11.0268
       ],
-      "desc": "CN Traveller highlights BOBO club for 3\u20134 year olds (verify age bands each se...",
-      "longDesc": "Specialized 3-4 year-old ski clubs with progressive teaching methods designed to build skills and confidence in young skiers."
+      "desc": "CN Traveller highlights BOBO club for 3–4 year olds (verify age bands each se...",
+      "longDesc": "Specialized 3-4 year-old ski clubs with progressive teaching methods designed to build skills and confidence in young skiers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=BOBO%20Ski%20Club%20/%20Kinderland-style%20progression&center=46.8705,11.0268"
     },
     {
       "name": "Hotel-led child-minding logistics",
@@ -848,7 +940,8 @@
         11.0248
       ],
       "desc": "CN Traveller notes no resort nursery but some hotels offer child-minding + pi...",
-      "longDesc": "Accessing hotel-provided childcare and ski school coordination services that simplify complex family ski day logistics."
+      "longDesc": "Accessing hotel-provided childcare and ski school coordination services that simplify complex family ski day logistics.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel-led%20child-minding%20logistics&center=46.8685,11.0248"
     },
     {
       "name": "Hochfirst Alpen Spa circuit",
@@ -856,8 +949,9 @@
         46.8715,
         11.0278
       ],
-      "desc": "Large spa with pools/saunas\u2014good for non-ski days.",
-      "longDesc": "A large thermal spa complex with pools and saunas, ideal for non-ski days or rotating adult-only spa time."
+      "desc": "Large spa with pools/saunas—good for non-ski days.",
+      "longDesc": "A large thermal spa complex with pools and saunas, ideal for non-ski days or rotating adult-only spa time.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hochfirst%20Alpen%20Spa%20circuit&center=46.8715,11.0278"
     },
     {
       "name": "Falstaff-rated gourmet dinner (Austria Stuben)",
@@ -866,7 +960,8 @@
         11.0278
       ],
       "desc": "Wine-forward fine dining in-resort.",
-      "longDesc": "Wine-forward fine dining in Obergurgl, combining serious cuisine with impressive cellar selections for special occasions."
+      "longDesc": "Wine-forward fine dining in Obergurgl, combining serious cuisine with impressive cellar selections for special occasions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Falstaff-rated%20gourmet%20dinner%20%28Austria%20Stuben%29&center=46.8695,11.0278"
     },
     {
       "name": "Fondue night",
@@ -875,16 +970,18 @@
         6.311286
       ],
       "desc": "A cosy, early-evening plan that works with kid bedtimes.",
-      "longDesc": "A cosy, early-evening dining experience that aligns perfectly with family schedules and picky eaters' preferences."
+      "longDesc": "A cosy, early-evening dining experience that aligns perfectly with family schedules and picky eaters' preferences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondue%20night&center=46.224967,6.311286"
     },
     {
-      "name": "Portes du Soleil 'domain day' (France \u2194 Switzerland)",
+      "name": "Portes du Soleil 'domain day' (France ↔ Switzerland)",
       "coord": [
         46.15,
         6.66
       ],
       "desc": "Cross-border skiing with huge mileage options; do a loop day.",
-      "longDesc": "Cross-border skiing through 11 resorts with 400+ miles of terrain, offering endless variation for confident skiers."
+      "longDesc": "Cross-border skiing through 11 resorts with 400+ miles of terrain, offering endless variation for confident skiers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Portes%20du%20Soleil%20%27domain%20day%27%20%28France%20%E2%86%94%20Switzerland%29&center=46.15,6.66"
     },
     {
       "name": "Traditional village strolls + easy access lifts",
@@ -892,8 +989,9 @@
         46.1566,
         6.6686
       ],
-      "desc": "Family-friendly Savoyard village vibe\u2014good for non-ski mornings.",
-      "longDesc": "Non-ski mornings exploring Savoyard village character while maintaining quick access to afternoon slopes."
+      "desc": "Family-friendly Savoyard village vibe—good for non-ski mornings.",
+      "longDesc": "Non-ski mornings exploring Savoyard village character while maintaining quick access to afternoon slopes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Traditional%20village%20strolls%20%2B%20easy%20access%20lifts&center=46.1566,6.6686"
     },
     {
       "name": "Car-free Avoriaz day",
@@ -902,7 +1000,8 @@
         6.685
       ],
       "desc": "Unique 'streets-as-pistes' feel; easy day-trip from Les Gets sector.",
-      "longDesc": "Experiencing Europe's unique car-free ski resort village where streets double as slopes and kids ski directly from chalets."
+      "longDesc": "Experiencing Europe's unique car-free ski resort village where streets double as slopes and kids ski directly from chalets.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Car-free%20Avoriaz%20day&center=46.18,6.685"
     },
     {
       "name": "Indoor pool + playroom recovery day (Alpina)",
@@ -911,7 +1010,8 @@
         6.6696
       ],
       "desc": "Pool + playroom can save a storm day with kids.",
-      "longDesc": "Utilizing hotel amenities during weather closures or low-energy days, keeping kids engaged without outdoor activities."
+      "longDesc": "Utilizing hotel amenities during weather closures or low-energy days, keeping kids engaged without outdoor activities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Indoor%20pool%20%2B%20playroom%20recovery%20day%20%28Alpina%29&center=46.1576,6.6696"
     },
     {
       "name": "Catered-chalet rhythm (lunch out, dinner in)",
@@ -920,7 +1020,8 @@
         6.66
       ],
       "desc": "A chalet with kitchen is handy for naps, snacks and early dinners.",
-      "longDesc": "A flexible lodging strategy combining restaurant lunches with in-chalet dinners, enabling naps and early bedtimes."
+      "longDesc": "A flexible lodging strategy combining restaurant lunches with in-chalet dinners, enabling naps and early bedtimes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Catered-chalet%20rhythm%20%28lunch%20out%2C%20dinner%20in%29&center=46.15,6.66"
     },
     {
       "name": "Baqueira big-mountain days (less queue pain)",
@@ -929,16 +1030,18 @@
         6.73
       ],
       "desc": "CN Traveller notes space + minimal lift-queue stress.",
-      "longDesc": "Spacious terrain with minimal lift queues, reducing crowding stress common at many European resorts."
+      "longDesc": "Spacious terrain with minimal lift queues, reducing crowding stress common at many European resorts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Baqueira%20big-mountain%20days%20%28less%20queue%20pain%29&center=45.82,6.73"
     },
     {
-      "name": "Apr\u00e8s at Mo\u00ebt Champagne Bar & Lounge",
+      "name": "Après at Moët Champagne Bar & Lounge",
       "coord": [
         45.802,
         6.708
       ],
       "desc": "A 'just one glass' stop that turns into a vibe.",
-      "longDesc": "A celebratory apr\u00e8s-ski moment turning 'just one glass' into memorable family-friendly downtime and connection."
+      "longDesc": "A celebratory après-ski moment turning 'just one glass' into memorable family-friendly downtime and connection.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apr%C3%A8s%20at%20Mo%C3%ABt%20Champagne%20Bar%20%26%20Lounge&center=45.802,6.708"
     },
     {
       "name": "Val de Neu Sisley spa (thermal circuit)",
@@ -946,26 +1049,29 @@
         45.8,
         6.707
       ],
-      "desc": "Spa + hydrotherapy\u2014great while kids are in lessons.",
-      "longDesc": "Spa and hydrotherapy access while kids are in lessons, offering parent-only recovery time during ski days."
+      "desc": "Spa + hydrotherapy—great while kids are in lessons.",
+      "longDesc": "Spa and hydrotherapy access while kids are in lessons, offering parent-only recovery time during ski days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Val%20de%20Neu%20Sisley%20spa%20%28thermal%20circuit%29&center=45.8,6.707"
     },
     {
-      "name": "National park day trip: Aig\u00fcestortes i Estany de Sant Maurici",
+      "name": "National park day trip: Aigüestortes i Estany de Sant Maurici",
       "coord": [
         45.9,
         6.65
       ],
       "desc": "Catalonia's national park with lakes + hiking options (seasonal access).",
-      "longDesc": "Catalonia's pristine national park offering seasonal hiking and lake activities, perfect for non-ski cultural reset days."
+      "longDesc": "Catalonia's pristine national park offering seasonal hiking and lake activities, perfect for non-ski cultural reset days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20park%20day%20trip%3A%20Aig%C3%BCestortes%20i%20Estany%20de%20Sant%20Maurici&center=45.9,6.65"
     },
     {
-      "name": "Romanesque churches of Vall de Bo\u00ed (UNESCO)",
+      "name": "Romanesque churches of Vall de Boí (UNESCO)",
       "coord": [
         45.9,
         6.65
       ],
       "desc": "Architectural/cultural half-day if weather closes lifts.",
-      "longDesc": "UNESCO heritage churches offering cultural substance and short visiting times, ideal for weather closures."
+      "longDesc": "UNESCO heritage churches offering cultural substance and short visiting times, ideal for weather closures.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Romanesque%20churches%20of%20Vall%20de%20Bo%C3%AD%20%28UNESCO%29&center=45.9,6.65"
     },
     {
       "name": "Vielha evening for local food",
@@ -973,8 +1079,9 @@
         45.81,
         6.72
       ],
-      "desc": "Anchor night with an Aranese meal (ex: Era Coqu\u00e8la).",
-      "longDesc": "An Aranese evening exploring local cuisine and village culture, grounding the trip in regional identity and flavors."
+      "desc": "Anchor night with an Aranese meal (ex: Era Coquèla).",
+      "longDesc": "An Aranese evening exploring local cuisine and village culture, grounding the trip in regional identity and flavors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vielha%20evening%20for%20local%20food&center=45.81,6.72"
     },
     {
       "name": "Plum Guide ski-in chalet setup",
@@ -983,7 +1090,8 @@
         6.705
       ],
       "desc": "Ski-in/ski-out chalets make toddler logistics easier (naps, snacks, gear).",
-      "longDesc": "Ski-in/ski-out chalets solving toddler logistics with easy access to naps, snacks, and gear management."
+      "longDesc": "Ski-in/ski-out chalets solving toddler logistics with easy access to naps, snacks, and gear management.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plum%20Guide%20ski-in%20chalet%20setup&center=45.8,6.705"
     },
     {
       "name": "Tree runs + family-friendly terrain",
@@ -992,7 +1100,8 @@
         13.0785
       ],
       "desc": "CN Traveller calls out fun tree runs and that it's great for children.",
-      "longDesc": "\u00c5re's fun tree runs and excellent terrain variety, making the resort exceptional for children's skiing and confidence."
+      "longDesc": "Åre's fun tree runs and excellent terrain variety, making the resort exceptional for children's skiing and confidence.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tree%20runs%20%2B%20family-friendly%20terrain&center=63.405,13.0785"
     },
     {
       "name": "Snowmobiling",
@@ -1001,7 +1110,8 @@
         13.0815
       ],
       "desc": "Classic Nordic winter thrill beyond skiing.",
-      "longDesc": "A thrilling non-ski Nordic activity offering winter adventure and unforgettable memories beyond traditional piste skiing."
+      "longDesc": "A thrilling non-ski Nordic activity offering winter adventure and unforgettable memories beyond traditional piste skiing.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Snowmobiling&center=63.393,13.0815"
     },
     {
       "name": "Dog-sledding",
@@ -1010,7 +1120,8 @@
         13.0845
       ],
       "desc": "A standout 'non-ski' day that kids remember more than the pistes.",
-      "longDesc": "A thrilling Nordic winter activity offering unforgettable memories and adventure beyond traditional skiing."
+      "longDesc": "A thrilling Nordic winter activity offering unforgettable memories and adventure beyond traditional skiing.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dog-sledding&center=63.395,13.0845"
     },
     {
       "name": "Polestar Drive Below Zero (winter golf + test drive)",
@@ -1019,7 +1130,8 @@
         13.0875
       ],
       "desc": "Electric test drive + winter golf; book through end of Feb (seasonal).",
-      "longDesc": "A unique seasonal activity combining winter golf with electric car test drives, available through early February."
+      "longDesc": "A unique seasonal activity combining winter golf with electric car test drives, available through early February.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Polestar%20Drive%20Below%20Zero%20%28winter%20golf%20%2B%20test%20drive%29&center=63.397,13.0875"
     },
     {
       "name": "Copperhill 'Design hotel' stay + spa day",
@@ -1028,16 +1140,18 @@
         13.0755
       ],
       "desc": "Design-forward lodge + recovery focus after skiing.",
-      "longDesc": "A design-focused Nordic lodge combining architecture appreciation with post-ski spa recovery and wellness programs."
+      "longDesc": "A design-focused Nordic lodge combining architecture appreciation with post-ski spa recovery and wellness programs.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Copperhill%20%27Design%20hotel%27%20stay%20%2B%20spa%20day&center=63.399,13.0755"
     },
     {
-      "name": "Apr\u00e8s + small plates at Vinbaren (White Guide)",
+      "name": "Après + small plates at Vinbaren (White Guide)",
       "coord": [
         63.401,
         13.0785
       ],
       "desc": "Wine bar vibe with small plates; high-energy atmosphere.",
-      "longDesc": "A lively Nordic wine bar offering flexible dining with small plates and high-energy atmosphere for families."
+      "longDesc": "A lively Nordic wine bar offering flexible dining with small plates and high-energy atmosphere for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apr%C3%A8s%20%2B%20small%20plates%20at%20Vinbaren%20%28White%20Guide%29&center=63.401,13.0785"
     },
     {
       "name": "Dinner at Granen (White Guide)",
@@ -1046,7 +1160,8 @@
         13.0815
       ],
       "desc": "Relaxed-elegant lodge feel + serious drinks focus.",
-      "longDesc": "Relaxed-elegant Swedish lodge dining with serious wine focus and cozy ambiance, perfect for special evenings."
+      "longDesc": "Relaxed-elegant Swedish lodge dining with serious wine focus and cozy ambiance, perfect for special evenings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinner%20at%20Granen%20%28White%20Guide%29&center=63.403,13.0815"
     },
     {
       "name": "Book ski-in/ski-out lodging (reduce friction)",
@@ -1055,7 +1170,8 @@
         7.244593
       ],
       "desc": "Less walking with gear; easier naps and quick warm-ups.",
-      "longDesc": "Eliminating gear-laden walks reduces fatigue and enables quick returns for warm-ups and naps during ski days."
+      "longDesc": "Eliminating gear-laden walks reduces fatigue and enables quick returns for warm-ups and naps during ski days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Book%20ski-in/ski-out%20lodging%20%28reduce%20friction%29&center=46.134203,7.244593"
     },
     {
       "name": "Choose lodging with laundry (gear rotations)",
@@ -1064,7 +1180,8 @@
         10.55
       ],
       "desc": "Washer/dryer makes mitten/thermals rotation manageable.",
-      "longDesc": "In-unit laundry solving the wet-mitten and thermal-rotation challenge on extended family mountain trips."
+      "longDesc": "In-unit laundry solving the wet-mitten and thermal-rotation challenge on extended family mountain trips.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Choose%20lodging%20with%20laundry%20%28gear%20rotations%29&center=46.48,10.55"
     },
     {
       "name": "Plan for serious European ski school culture",
@@ -1073,7 +1190,8 @@
         10.48
       ],
       "desc": "French-style programs can be structured and skill-test oriented.",
-      "longDesc": "Understanding structured, skill-test oriented programs helps families prepare kids for rigorous European instruction methods."
+      "longDesc": "Understanding structured, skill-test oriented programs helps families prepare kids for rigorous European instruction methods.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plan%20for%20serious%20European%20ski%20school%20culture&center=46.54,10.48"
     },
     {
       "name": "Watch European school holiday calendars",
@@ -1082,7 +1200,8 @@
         10.52
       ],
       "desc": "French/British school breaks can spike crowds and prices.",
-      "longDesc": "Timing trips outside French/British school breaks avoids crowds, price spikes, and resort congestion."
+      "longDesc": "Timing trips outside French/British school breaks avoids crowds, price spikes, and resort congestion.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Watch%20European%20school%20holiday%20calendars&center=46.46,10.52"
     },
     {
       "name": "Cookbook-led food map day (Meredith Erickson's picks)",
@@ -1091,16 +1210,18 @@
         11.872
       ],
       "desc": "Treat Alta Badia like a culinary itinerary as much as a ski itinerary.",
-      "longDesc": "Treating Alta Badia as a culinary itinerary as much as a ski itinerary, guided by expert recommendations."
+      "longDesc": "Treating Alta Badia as a culinary itinerary as much as a ski itinerary, guided by expert recommendations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cookbook-led%20food%20map%20day%20%28Meredith%20Erickson%27s%20picks%29&center=46.561,11.872"
     },
     {
-      "name": "Apr\u00e8s spritz + sunny patio lunches",
+      "name": "Après spritz + sunny patio lunches",
       "coord": [
         46.55,
         11.87
       ],
       "desc": "Lean into long, sunlit lunches when the weather is good.",
-      "longDesc": "Leaning into long, sunlit lunches and relaxed ap\u00e9ritif moments when weather cooperates during ski trips."
+      "longDesc": "Leaning into long, sunlit lunches and relaxed apéritif moments when weather cooperates during ski trips.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apr%C3%A8s%20spritz%20%2B%20sunny%20patio%20lunches&center=46.55,11.87"
     },
     {
       "name": "Indoor/outdoor heated pool recovery (The Crystal)",
@@ -1108,8 +1229,9 @@
         46.8715,
         11.0298
       ],
-      "desc": "Soak with \u00d6tztal views; great 'end of day' ritual.",
-      "longDesc": "Soaking in heated pools with \u00d6tztal views, creating memorable end-of-day rituals for families."
+      "desc": "Soak with Ötztal views; great 'end of day' ritual.",
+      "longDesc": "Soaking in heated pools with Ötztal views, creating memorable end-of-day rituals for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Indoor/outdoor%20heated%20pool%20recovery%20%28The%20Crystal%29&center=46.8715,11.0298"
     },
     {
       "name": "Base in traditional Savoyard villages (vs. modernist blocks)",
@@ -1118,34 +1240,38 @@
         6.66
       ],
       "desc": "AFAR highlights village charm in Morzine/Les Gets.",
-      "longDesc": "Village charm in Morzine and Les Gets, avoiding anonymous resort architecture and offering character."
+      "longDesc": "Village charm in Morzine and Les Gets, avoiding anonymous resort architecture and offering character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Base%20in%20traditional%20Savoyard%20villages%20%28vs.%20modernist%20blocks%29&center=46.15,6.66"
     },
     {
-      "name": "Whitewater rafting (Noguera Pallaresa) \u2013 off-season",
+      "name": "Whitewater rafting (Noguera Pallaresa) – off-season",
       "coord": [
         45.9,
         6.65
       ],
       "desc": "CN Traveller flags it as a top adventure river (season-dependent).",
-      "longDesc": "A thrilling summer adventure river activity extending the destination's appeal year-round beyond winter skiing."
+      "longDesc": "A thrilling summer adventure river activity extending the destination's appeal year-round beyond winter skiing.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitewater%20rafting%20%28Noguera%20Pallaresa%29%20%E2%80%93%20off-season&center=45.9,6.65"
     },
     {
-      "name": "Cad\u00ed-Moixer\u00f3 Natural Park (Pedraforca Massif views)",
+      "name": "Cadí-Moixeró Natural Park (Pedraforca Massif views)",
       "coord": [
         45.92,
         6.67
       ],
       "desc": "Big landscape day for drivers who want views + short walks.",
-      "longDesc": "A dramatic landscape drive offering big views and short walks for non-skiers or weather-dependent days."
+      "longDesc": "A dramatic landscape drive offering big views and short walks for non-skiers or weather-dependent days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cad%C3%AD-Moixer%C3%B3%20Natural%20Park%20%28Pedraforca%20Massif%20views%29&center=45.92,6.67"
     },
     {
-      "name": "Dal\u00ed Theatre-Museum (Figueres) day trip",
+      "name": "Dalí Theatre-Museum (Figueres) day trip",
       "coord": [
         45.93,
         6.68
       ],
       "desc": "High-culture detour paired with a city lunch.",
-      "longDesc": "A high-culture detour combining Surrealist art immersion with Mediterranean city lunch experiences."
+      "longDesc": "A high-culture detour combining Surrealist art immersion with Mediterranean city lunch experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dal%C3%AD%20Theatre-Museum%20%28Figueres%29%20day%20trip&center=45.93,6.68"
     },
     {
       "name": "Nordic spa + design-hotel downtime",
@@ -1154,7 +1280,8 @@
         13.0845
       ],
       "desc": "A ski trip where spa and design are part of the point.",
-      "longDesc": "\u00c5re's dual focus on spa recovery and architectural design, perfect for families seeking wellness and aesthetics."
+      "longDesc": "Åre's dual focus on spa recovery and architectural design, perfect for families seeking wellness and aesthetics.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordic%20spa%20%2B%20design-hotel%20downtime&center=63.405,13.0845"
     },
     {
       "name": "'Don't even need to ski' resort-day (hike + design)",
@@ -1163,16 +1290,18 @@
         13.0875
       ],
       "desc": "Copperhill positioned as a design destination with winter hikes.",
-      "longDesc": "Copperhill positioned as a design destination with winter hikes, appealing to non-ski-focused families."
+      "longDesc": "Copperhill positioned as a design destination with winter hikes, appealing to non-ski-focused families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%27Don%27t%20even%20need%20to%20ski%27%20resort-day%20%28hike%20%2B%20design%29&center=63.393,13.0875"
     },
     {
-      "name": "Use \u00c5re as a 'yin/yang' slopes-to-spas base",
+      "name": "Use Åre as a 'yin/yang' slopes-to-spas base",
       "coord": [
         63.395,
         13.0755
       ],
-      "desc": "CN Traveler notes \u00c5re's scale (100+ runs) within a broader Nordic winter mix.",
-      "longDesc": "\u00c5re's 100+ runs within a broader Nordic mix of spas and cultural activities for balanced family trips."
+      "desc": "CN Traveler notes Åre's scale (100+ runs) within a broader Nordic winter mix.",
+      "longDesc": "Åre's 100+ runs within a broader Nordic mix of spas and cultural activities for balanced family trips.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Use%20%C3%85re%20as%20a%20%27yin/yang%27%20slopes-to-spas%20base&center=63.395,13.0755"
     }
   ],
   "kidFriendly": [
@@ -1183,7 +1312,8 @@
         11.856
       ],
       "desc": "Easy-to-reach mountain hut (even for children), so it's a natural meet-up point.",
-      "longDesc": "An easily accessible mountain hut offering natural meet-up points and kid-friendly servings from expert-curated wine lists."
+      "longDesc": "An easily accessible mountain hut offering natural meet-up points and kid-friendly servings from expert-curated wine lists.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kid-friendly%20hut%20lunch%3A%20Rifugio%20Bioch&center=46.572,11.856"
     },
     {
       "name": "Family base: San Cassiano village",
@@ -1192,7 +1322,8 @@
         11.856
       ],
       "desc": "CN Traveller frames San Cassiano/Alta Badia as highly family-friendly; strong...",
-      "longDesc": "CN Traveller frames San Cassiano as highly family-friendly with strong kid amenities and easy lift access."
+      "longDesc": "CN Traveller frames San Cassiano as highly family-friendly with strong kid amenities and easy lift access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Family%20base%3A%20San%20Cassiano%20village&center=46.572,11.856"
     },
     {
       "name": "Apartment-style suites (snacks + naps)",
@@ -1201,7 +1332,8 @@
         11.858
       ],
       "desc": "Suites/apartments simplify toddler naps, early dinners and gear storage.",
-      "longDesc": "Spacious suites enabling flexible toddler naps, early dinners, and gear storage during ski days."
+      "longDesc": "Spacious suites enabling flexible toddler naps, early dinners, and gear storage during ski days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apartment-style%20suites%20%28snacks%20%2B%20naps%29&center=46.578,11.858"
     },
     {
       "name": "Gourmet-but-easy lunch planning",
@@ -1209,8 +1341,9 @@
         46.567,
         11.868
       ],
-      "desc": "Build your ski day around lunch stops\u2014kids handle the day better with predict...",
-      "longDesc": "Building ski days around predictable lunch stops helps kids manage energy and behavior throughout the day."
+      "desc": "Build your ski day around lunch stops—kids handle the day better with predict...",
+      "longDesc": "Building ski days around predictable lunch stops helps kids manage energy and behavior throughout the day.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gourmet-but-easy%20lunch%20planning&center=46.567,11.868"
     },
     {
       "name": "BOBO Ski Club (check age bands)",
@@ -1218,8 +1351,9 @@
         46.8705,
         11.0268
       ],
-      "desc": "CN Traveller highlights BOBO club for ages 3\u20134; confirm if your 2.5-year-old ...",
-      "longDesc": "Specialized programs for 3-4 year-olds; verify current age requirements with resorts for your family."
+      "desc": "CN Traveller highlights BOBO club for ages 3–4; confirm if your 2.5-year-old ...",
+      "longDesc": "Specialized programs for 3-4 year-olds; verify current age requirements with resorts for your family.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=BOBO%20Ski%20Club%20%28check%20age%20bands%29&center=46.8705,11.0268"
     },
     {
       "name": "Hotel-based child-minding",
@@ -1228,7 +1362,8 @@
         11.0238
       ],
       "desc": "CN Traveller notes no resort nursery, but some hotels offer child-minding ser...",
-      "longDesc": "Hotels offering child supervision services in addition to resort nurseries, simplifying logistics."
+      "longDesc": "Hotels offering child supervision services in addition to resort nurseries, simplifying logistics.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel-based%20child-minding&center=46.8735,11.0238"
     },
     {
       "name": "All-inclusive 'pickup & drop-off' service",
@@ -1237,7 +1372,8 @@
         11.0218
       ],
       "desc": "CN Traveller cites kid pickup/delivery for ski school, childcare, lunch, equi...",
-      "longDesc": "Seamless ski school logistics with childcare and equipment management, simplifying multi-activity family days."
+      "longDesc": "Seamless ski school logistics with childcare and equipment management, simplifying multi-activity family days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=All-inclusive%20%27pickup%20%26%20drop-off%27%20service&center=46.8775,11.0218"
     },
     {
       "name": "Sledding / snow-play breaks",
@@ -1246,7 +1382,8 @@
         11.0298
       ],
       "desc": "Use short snow-play sessions to keep toddlers happy even if they don't ski much.",
-      "longDesc": "Short snow-play sessions keeping toddlers happy even when not actively skiing, preventing end-of-day meltdowns."
+      "longDesc": "Short snow-play sessions keeping toddlers happy even when not actively skiing, preventing end-of-day meltdowns.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sledding%20/%20snow-play%20breaks&center=46.8665,11.0298"
     },
     {
       "name": "Fondue early seating",
@@ -1255,7 +1392,8 @@
         6.311286
       ],
       "desc": "Fondue works well for early dinners and picky eaters.",
-      "longDesc": "Fondue's interactive nature and early dining times align perfectly with young kids' rhythms and preferences."
+      "longDesc": "Fondue's interactive nature and early dining times align perfectly with young kids' rhythms and preferences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondue%20early%20seating&center=46.224967,6.311286"
     },
     {
       "name": "Alpina hotel playroom + indoor pool",
@@ -1263,8 +1401,9 @@
         46.1586,
         6.6686
       ],
-      "desc": "Playroom 'suited for multiple ages' plus pool/sauna\u2014perfect for storm days.",
-      "longDesc": "Multi-age playroom facilities plus aquatic activities, solving storm days and low-energy afternoons."
+      "desc": "Playroom 'suited for multiple ages' plus pool/sauna—perfect for storm days.",
+      "longDesc": "Multi-age playroom facilities plus aquatic activities, solving storm days and low-energy afternoons.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpina%20hotel%20playroom%20%2B%20indoor%20pool&center=46.1586,6.6686"
     },
     {
       "name": "Traditional village vibe (easy stroller evenings)",
@@ -1273,7 +1412,8 @@
         6.6706
       ],
       "desc": "AFAR calls Les Gets/Morzine traditional and family-friendly.",
-      "longDesc": "Les Gets and Morzine's walkable charm, enabling stroller-friendly evening explorations with families."
+      "longDesc": "Les Gets and Morzine's walkable charm, enabling stroller-friendly evening explorations with families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Traditional%20village%20vibe%20%28easy%20stroller%20evenings%29&center=46.1556,6.6706"
     },
     {
       "name": "Car-free Avoriaz 'streets-as-pistes'",
@@ -1282,7 +1422,8 @@
         6.685
       ],
       "desc": "Unique car-free town makes getting around with kids simpler once you're there.",
-      "longDesc": "The car-free environment simplifies navigation with kids, removing vehicle traffic and logistical complexity."
+      "longDesc": "The car-free environment simplifies navigation with kids, removing vehicle traffic and logistical complexity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Car-free%20Avoriaz%20%27streets-as-pistes%27&center=46.18,6.685"
     },
     {
       "name": "Catered chalet routine",
@@ -1291,7 +1432,8 @@
         6.6666
       ],
       "desc": "A chalet kitchen is the cheat code for toddler mealtimes and early bedtimes.",
-      "longDesc": "Chalet kitchens enabling flexible toddler mealtimes and early bedtimes without restaurant timing constraints."
+      "longDesc": "Chalet kitchens enabling flexible toddler mealtimes and early bedtimes without restaurant timing constraints.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Catered%20chalet%20routine&center=46.1626,6.6666"
     },
     {
       "name": "Conveyor-belt sledding hill (common in resorts)",
@@ -1300,7 +1442,8 @@
         6.5
       ],
       "desc": "A sledding hill with conveyor belt is a high-reward, low-effort kid activity.",
-      "longDesc": "Sledding hills with lift assistance provide high-reward, low-effort activities for young children."
+      "longDesc": "Sledding hills with lift assistance provide high-reward, low-effort activities for young children.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Conveyor-belt%20sledding%20hill%20%28common%20in%20resorts%29&center=45.9,6.5"
     },
     {
       "name": "Ski school in English (Baqueira)",
@@ -1309,7 +1452,8 @@
         7.244705
       ],
       "desc": "CN Traveller recommends BB Ski School as very good (verify minimum ages).",
-      "longDesc": "BB Ski School's English-language instruction and family-focused approach; verify minimum ages with resort."
+      "longDesc": "BB Ski School's English-language instruction and family-focused approach; verify minimum ages with resort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ski%20school%20in%20English%20%28Baqueira%29&center=46.134119,7.244705"
     },
     {
       "name": "Hotel Val de Neu: fireside + spa",
@@ -1318,7 +1462,8 @@
         6.707
       ],
       "desc": "Fireside lounge for post-ski hot chocolate + spa circuit for parent shifts.",
-      "longDesc": "Fireside hot chocolate and spa facilities enabling parent-child downtime and parental spa rotations."
+      "longDesc": "Fireside hot chocolate and spa facilities enabling parent-child downtime and parental spa rotations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Val%20de%20Neu%3A%20fireside%20%2B%20spa&center=45.8,6.707"
     },
     {
       "name": "Tapas early-evening strategy",
@@ -1327,7 +1472,8 @@
         6.72
       ],
       "desc": "Short tapas crawl keeps kids engaged; adults still get a 'night out'.",
-      "longDesc": "Short tapas crawls keep kids engaged in restaurant culture while allowing parents quality time together."
+      "longDesc": "Short tapas crawls keep kids engaged in restaurant culture while allowing parents quality time together.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapas%20early-evening%20strategy&center=45.81,6.72"
     },
     {
       "name": "National park day (snowshoe/hike when open)",
@@ -1336,7 +1482,8 @@
         6.65
       ],
       "desc": "Lakes + trails for a non-ski reset day (seasonal access).",
-      "longDesc": "Seasonal lake and trail activities offering non-ski family activities and cultural resets."
+      "longDesc": "Seasonal lake and trail activities offering non-ski family activities and cultural resets.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20park%20day%20%28snowshoe/hike%20when%20open%29&center=45.9,6.65"
     },
     {
       "name": "Romanesque churches (short cultural stops)",
@@ -1345,7 +1492,8 @@
         6.65
       ],
       "desc": "Short, high-impact cultural visits for older kids/teens.",
-      "longDesc": "High-impact cultural visits with short duration, suitable for older kids' attention spans."
+      "longDesc": "High-impact cultural visits with short duration, suitable for older kids' attention spans.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Romanesque%20churches%20%28short%20cultural%20stops%29&center=45.9,6.65"
     },
     {
       "name": "Tree runs that are 'great for children'",
@@ -1354,7 +1502,8 @@
         13.0785
       ],
       "desc": "CN Traveller highlights fun tree runs and that the skiing is great for children.",
-      "longDesc": "\u00c5re's fun tree runs designed for kids' confidence and enjoyment, making the resort exceptional for children."
+      "longDesc": "Åre's fun tree runs designed for kids' confidence and enjoyment, making the resort exceptional for children.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tree%20runs%20that%20are%20%27great%20for%20children%27&center=63.397,13.0785"
     },
     {
       "name": "Dog-sledding",
@@ -1363,7 +1512,8 @@
         13.0815
       ],
       "desc": "A 'big memory' day beyond skiing.",
-      "longDesc": "A memorable non-ski activity often surpassing skiing in kids' lasting memories and family connection."
+      "longDesc": "A memorable non-ski activity often surpassing skiing in kids' lasting memories and family connection.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dog-sledding&center=63.399,13.0815"
     },
     {
       "name": "Snowmobiling (youth passenger options)",
@@ -1372,16 +1522,18 @@
         13.0845
       ],
       "desc": "A classic Nordic winter add-on (often kids ride as passengers).",
-      "longDesc": "Kids ride as passengers on classic Nordic winter adventures, creating unique family experiences."
+      "longDesc": "Kids ride as passengers on classic Nordic winter adventures, creating unique family experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Snowmobiling%20%28youth%20passenger%20options%29&center=63.401,13.0845"
     },
     {
-      "name": "Hotel \u00c5reg\u00e5rden central base",
+      "name": "Hotel Åregården central base",
       "coord": [
         63.399435,
         13.079068
       ],
-      "desc": "White Guide\u2013listed hotel in the middle of town\u2014walkable for families.",
-      "longDesc": "White Guide\u2013listed central property enabling walkable family exploration of \u00c5re's restaurants and activities."
+      "desc": "White Guide–listed hotel in the middle of town—walkable for families.",
+      "longDesc": "White Guide–listed central property enabling walkable family exploration of Åre's restaurants and activities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20%C3%85reg%C3%A5rden%20central%20base&center=63.399435,13.079068"
     },
     {
       "name": "Prioritize a snow-sure resort",
@@ -1390,7 +1542,8 @@
         10.45
       ],
       "desc": "More open terrain = less frustration when you've traveled far with kids.",
-      "longDesc": "Open terrain reduces kid frustration on weather-dependent weeks, maximizing quality ski time."
+      "longDesc": "Open terrain reduces kid frustration on weather-dependent weeks, maximizing quality ski time.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Prioritize%20a%20snow-sure%20resort&center=46.52,10.45"
     },
     {
       "name": "Direct flights + private transfers when possible",
@@ -1399,7 +1552,8 @@
         10.55
       ],
       "desc": "Lower-friction logistics matter more with a toddler.",
-      "longDesc": "Lower-friction logistics reduce toddler fatigue and meltdowns during travel segments."
+      "longDesc": "Lower-friction logistics reduce toddler fatigue and meltdowns during travel segments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Direct%20flights%20%2B%20private%20transfers%20when%20possible&center=46.48,10.55"
     },
     {
       "name": "Pack boots/helmets; rent skis",
@@ -1408,7 +1562,8 @@
         14.98417
       ],
       "desc": "CN Traveler family trip recommends renting skis but packing boots and helmets.",
-      "longDesc": "Packing fitted items but renting skis ensures proper fit and ease across age ranges."
+      "longDesc": "Packing fitted items but renting skis ensures proper fit and ease across age ranges.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pack%20boots/helmets%3B%20rent%20skis&center=46.97917,14.98417"
     },
     {
       "name": "Build daily downtime (one 'big thing' per day)",
@@ -1417,7 +1572,8 @@
         10.52
       ],
       "desc": "Helps avoid end-of-trip burnout and meltdown spirals.",
-      "longDesc": "Structured downtime prevents end-of-trip burnout and meltdown spirals common in ambitious itineraries."
+      "longDesc": "Structured downtime prevents end-of-trip burnout and meltdown spirals common in ambitious itineraries.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Build%20daily%20downtime%20%28one%20%27big%20thing%27%20per%20day%29&center=46.46,10.52"
     }
   ],
   "markets": [
@@ -1428,34 +1584,38 @@
         11.872
       ],
       "desc": "Alta Badia is framed as the 'gourmet capital' with on-slope wine/sommelier cu...",
-      "longDesc": "Alta Badia's 'gourmet capital' positioning emphasizes wine, sommelier culture, and culinary skiing experiences."
+      "longDesc": "Alta Badia's 'gourmet capital' positioning emphasizes wine, sommelier culture, and culinary skiing experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taste%20for%20Skiing%20%28gourmet%20ski%20safari%29&center=46.561,11.872"
     },
     {
-      "name": "Aman Rosa Alpina \u2013 wine library & dining",
+      "name": "Aman Rosa Alpina – wine library & dining",
       "coord": [
         46.572,
         11.856
       ],
       "desc": "Aman's Dolomites outpost emphasizes wine + multiple dining concepts.",
-      "longDesc": "Aman's Dolomites outpost showcases wine curation alongside multiple dining concepts for diverse preferences."
+      "longDesc": "Aman's Dolomites outpost showcases wine curation alongside multiple dining concepts for diverse preferences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aman%20Rosa%20Alpina%20%E2%80%93%20wine%20library%20%26%20dining&center=46.572,11.856"
     },
     {
-      "name": "Hotel La Perla \u2013 cellar focus",
+      "name": "Hotel La Perla – cellar focus",
       "coord": [
         47.693,
         9.27
       ],
       "desc": "Extensive cellar (thousands of vintages) noted by MICHELIN.",
-      "longDesc": "An extensive cellar with thousands of vintages, recognized by MICHELIN as a major wine destination."
+      "longDesc": "An extensive cellar with thousands of vintages, recognized by MICHELIN as a major wine destination.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Perla%20%E2%80%93%20cellar%20focus&center=47.693,9.27"
     },
     {
-      "name": "Badia Hill \u2013 cocktail lounge + Bistro",
+      "name": "Badia Hill – cocktail lounge + Bistro",
       "coord": [
         46.561,
         11.872
       ],
       "desc": "Cocktail lounge + casual bistro alongside Porcino fine dining.",
-      "longDesc": "Multiple dining concepts from cocktail bar to bistro, offering variety alongside Porcino fine dining."
+      "longDesc": "Multiple dining concepts from cocktail bar to bistro, offering variety alongside Porcino fine dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Badia%20Hill%20%E2%80%93%20cocktail%20lounge%20%2B%20Bistro&center=46.561,11.872"
     },
     {
       "name": "Rifugio Bioch (Champagne list)",
@@ -1464,52 +1624,58 @@
         11.856
       ],
       "desc": "Expert-recommended hut with serious Champagne list; easy to reach for children.",
-      "longDesc": "An expert-recommended hut known for serious Champagne curation despite mountain hut accessibility."
+      "longDesc": "An expert-recommended hut known for serious Champagne curation despite mountain hut accessibility.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Bioch%20%28Champagne%20list%29&center=46.572,11.856"
     },
     {
-      "name": "Austria Gourmet & Wine Hotel \u2013 wine-forward dining",
+      "name": "Austria Gourmet & Wine Hotel – wine-forward dining",
       "coord": [
         46.8695,
         11.0278
       ],
       "desc": "Falstaff-highlighted gourmet + wine pairing experience in-resort.",
-      "longDesc": "Falstaff-highlighted gourmet and wine pairing experiences integrated into Austrian mountain hospitality."
+      "longDesc": "Falstaff-highlighted gourmet and wine pairing experiences integrated into Austrian mountain hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Austria%20Gourmet%20%26%20Wine%20Hotel%20%E2%80%93%20wine-forward%20dining&center=46.8695,11.0278"
     },
     {
-      "name": "Hochfirst Alpen Spa \u2013 apr\u00e8s wellness lounge",
+      "name": "Hochfirst Alpen Spa – après wellness lounge",
       "coord": [
         46.8755,
         11.0278
       ],
       "desc": "Falstaff describes a large wellness complex built for post-ski recovery.",
-      "longDesc": "A large wellness complex positioned for post-ski recovery, offering thermal pools and spa treatments."
+      "longDesc": "A large wellness complex positioned for post-ski recovery, offering thermal pools and spa treatments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hochfirst%20Alpen%20Spa%20%E2%80%93%20apr%C3%A8s%20wellness%20lounge&center=46.8755,11.0278"
     },
     {
-      "name": "Edelweiss & Gurgl \u2013 fondue rooms",
+      "name": "Edelweiss & Gurgl – fondue rooms",
       "coord": [
         46.86964,
         11.02641
       ],
       "desc": "Falstaff notes fondue dining with fireplace ambiance.",
-      "longDesc": "Falstaff-recognized fondue dining with fireplace ambiance and elevated ingredients."
+      "longDesc": "Falstaff-recognized fondue dining with fireplace ambiance and elevated ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Edelweiss%20%26%20Gurgl%20%E2%80%93%20fondue%20rooms&center=46.86964,11.02641"
     },
     {
-      "name": "Hotel La Marmotte \u2013 multiple dining options",
+      "name": "Hotel La Marmotte – multiple dining options",
       "coord": [
         46.145,
         6.685
       ],
       "desc": "Yonder highlights 3 restaurants + tapas/cocktail bar (easy with kids).",
-      "longDesc": "Three restaurants plus tapas bar offering flexibility for families with varying dining preferences."
+      "longDesc": "Three restaurants plus tapas bar offering flexibility for families with varying dining preferences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Marmotte%20%E2%80%93%20multiple%20dining%20options&center=46.145,6.685"
     },
     {
-      "name": "Avoriaz 'streets-as-pistes' apr\u00e8s at MIL8",
+      "name": "Avoriaz 'streets-as-pistes' après at MIL8",
       "coord": [
         46.18,
         6.685
       ],
       "desc": "MICHELIN notes MIL8's retro cocktail bar and light-filled rooms.",
-      "longDesc": "MICHELIN notes MIL8's retro cocktail bar, embodying Avoriaz's unique car-free apr\u00e8s culture."
+      "longDesc": "MICHELIN notes MIL8's retro cocktail bar, embodying Avoriaz's unique car-free après culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Avoriaz%20%27streets-as-pistes%27%20apr%C3%A8s%20at%20MIL8&center=46.18,6.685"
     },
     {
       "name": "Savoyard village feel (Morzine/Les Gets)",
@@ -1518,7 +1684,8 @@
         6.66
       ],
       "desc": "AFAR calls Morzine and Les Gets traditional, family-friendly villages with bi...",
-      "longDesc": "Traditional village character with bike trails and cultural authenticity in Morzine and Les Gets."
+      "longDesc": "Traditional village character with bike trails and cultural authenticity in Morzine and Les Gets.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoyard%20village%20feel%20%28Morzine/Les%20Gets%29&center=46.15,6.66"
     },
     {
       "name": "Val d'Aran local specialties",
@@ -1526,26 +1693,29 @@
         44.470679,
         7.347344
       ],
-      "desc": "CN Traveller highlights local specialties like Tup\u00ed cheese, Girella lamb saus...",
-      "longDesc": "Regional specialties like Tup\u00ed cheese and Girella lamb sausage highlighting Catalan mountain cuisine."
+      "desc": "CN Traveller highlights local specialties like Tupí cheese, Girella lamb saus...",
+      "longDesc": "Regional specialties like Tupí cheese and Girella lamb sausage highlighting Catalan mountain cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Val%20d%27Aran%20local%20specialties&center=44.470679,7.347344"
     },
     {
-      "name": "Hotel Val de Neu \u2013 fireside hot chocolate",
+      "name": "Hotel Val de Neu – fireside hot chocolate",
       "coord": [
         45.8,
         6.707
       ],
       "desc": "CN Traveller notes fireside post-ski hot chocolate vibe + spa access.",
-      "longDesc": "The iconic post-ski hot chocolate vibe combined with spa access, perfect for family wind-down."
+      "longDesc": "The iconic post-ski hot chocolate vibe combined with spa access, perfect for family wind-down.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Val%20de%20Neu%20%E2%80%93%20fireside%20hot%20chocolate&center=45.8,6.707"
     },
     {
-      "name": "Tapas + Rioja apr\u00e8s rhythm",
+      "name": "Tapas + Rioja après rhythm",
       "coord": [
         45.802,
         6.708
       ],
       "desc": "CN Traveller frames Baqueira with tapas + Rioja and relaxed vibe.",
-      "longDesc": "Relaxed tapas and wine culture anchoring Baqueira's apr\u00e8s-ski experience and evening rhythm."
+      "longDesc": "Relaxed tapas and wine culture anchoring Baqueira's après-ski experience and evening rhythm.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapas%20%2B%20Rioja%20apr%C3%A8s%20rhythm&center=45.802,6.708"
     },
     {
       "name": "Plum Guide vetted chalets",
@@ -1554,25 +1724,28 @@
         6.706
       ],
       "desc": "Vogue highlights Plum Guide's vetted Baqueira homes (incl. ski-in/out).",
-      "longDesc": "Vogue highlights Plum Guide's curated Baqueira properties including ski-in/out options."
+      "longDesc": "Vogue highlights Plum Guide's curated Baqueira properties including ski-in/out options.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plum%20Guide%20vetted%20chalets&center=45.798,6.706"
     },
     {
-      "name": "Granen \u2013 wine focus",
+      "name": "Granen – wine focus",
       "coord": [
         60.49313,
         14.80447
       ],
       "desc": "White Guide describes deep wine focus in a relaxed elegant setting.",
-      "longDesc": "White Guide describes deep wine focus in relaxed elegant setting, appealing to wine-focused families."
+      "longDesc": "White Guide describes deep wine focus in relaxed elegant setting, appealing to wine-focused families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Granen%20%E2%80%93%20wine%20focus&center=60.49313,14.80447"
     },
     {
-      "name": "Hotel \u00c5reg\u00e5rden \u2013 bars & restaurants",
+      "name": "Hotel Åregården – bars & restaurants",
       "coord": [
         63.393,
         13.0785
       ],
-      "desc": "White Guide lists Hotel \u00c5reg\u00e5rden; it anchors an in-town dining/bar scene.",
-      "longDesc": "White Guide\u2013listed property anchoring \u00c5re's in-town dining and bar scene for families."
+      "desc": "White Guide lists Hotel Åregården; it anchors an in-town dining/bar scene.",
+      "longDesc": "White Guide–listed property anchoring Åre's in-town dining and bar scene for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20%C3%85reg%C3%A5rden%20%E2%80%93%20bars%20%26%20restaurants&center=63.393,13.0785"
     }
   ],
   "cityCenters": {
@@ -1631,7 +1804,7 @@
       0.65,
       12
     ],
-    "\u00c5re": [
+    "Åre": [
       63.4,
       13.08,
       10
@@ -1707,7 +1880,7 @@
             },
             {
               "type": "dinner",
-              "name": "La St\u00fca de Michil",
+              "name": "La Stüa de Michil",
               "coord": [
                 46.5501,
                 11.8736
@@ -1753,7 +1926,7 @@
             },
             {
               "type": "dinner",
-              "name": "Porcino (1\u2605 MICHELIN)",
+              "name": "Porcino (1★ MICHELIN)",
               "coord": [
                 46.561,
                 11.872
@@ -1845,7 +2018,7 @@
             },
             {
               "type": "dinner",
-              "name": "La St\u00fca de Michil",
+              "name": "La Stüa de Michil",
               "coord": [
                 46.5501,
                 11.8736
@@ -2195,7 +2368,7 @@
             },
             {
               "type": "lunch",
-              "name": "Traditional caf\u00e9",
+              "name": "Traditional café",
               "coord": [
                 46.14,
                 6.64
@@ -2369,7 +2542,7 @@
             },
             {
               "type": "dinner",
-              "name": "Gourmet Restaurant Gr\u00fcnerhof",
+              "name": "Gourmet Restaurant Grünerhof",
               "coord": [
                 46.8715,
                 11.0258
@@ -2415,7 +2588,7 @@
             },
             {
               "type": "optional",
-              "name": "Apr\u00e8s drinks",
+              "name": "Après drinks",
               "coord": [
                 46.889,
                 11.031
@@ -2487,7 +2660,7 @@
         },
         {
           "day": 6,
-          "title": "Hochgurgl Summit & Apr\u00e8s",
+          "title": "Hochgurgl Summit & Après",
           "items": [
             {
               "type": "breakfast",
@@ -2523,7 +2696,7 @@
             },
             {
               "type": "optional",
-              "name": "Top Mountain Star apr\u00e8s",
+              "name": "Top Mountain Star après",
               "coord": [
                 46.889,
                 11.031
@@ -2561,7 +2734,7 @@
             },
             {
               "type": "lunch",
-              "name": "En route alpine caf\u00e9",
+              "name": "En route alpine café",
               "coord": [
                 47.607,
                 10.17
@@ -2623,7 +2796,7 @@
             },
             {
               "type": "optional",
-              "name": "Lech apr\u00e8s bar",
+              "name": "Lech après bar",
               "coord": [
                 47.607,
                 10.17
@@ -2743,7 +2916,7 @@
           "items": [
             {
               "type": "hotel",
-              "name": "Hotel M\u00fcrren Palace",
+              "name": "Hotel Mürren Palace",
               "coord": [
                 46.559,
                 7.893
@@ -2965,7 +3138,7 @@
             },
             {
               "type": "lunch",
-              "name": "Mountain caf\u00e9",
+              "name": "Mountain café",
               "coord": [
                 46.496,
                 10.298
@@ -3019,7 +3192,7 @@
             },
             {
               "type": "optional",
-              "name": "Apr\u00e8s at fine bar",
+              "name": "Après at fine bar",
               "coord": [
                 46.496,
                 10.298
@@ -3173,7 +3346,7 @@
       "days": [
         {
           "day": 1,
-          "title": "Arrival in Austrian Alps (\u00d6tztal)",
+          "title": "Arrival in Austrian Alps (Ötztal)",
           "items": [
             {
               "type": "hotel",
@@ -3195,7 +3368,7 @@
         },
         {
           "day": 2,
-          "title": "\u00d6tztal Snow-Sure Skiing",
+          "title": "Ötztal Snow-Sure Skiing",
           "items": [
             {
               "type": "breakfast",
@@ -3361,7 +3534,7 @@
             },
             {
               "type": "dinner",
-              "name": "La St\u00fca de Michil (Michelin)",
+              "name": "La Stüa de Michil (Michelin)",
               "coord": [
                 46.5501,
                 11.8736
@@ -3545,7 +3718,7 @@
             },
             {
               "type": "lunch",
-              "name": "Savoyard caf\u00e9",
+              "name": "Savoyard café",
               "coord": [
                 46.1566,
                 6.6686
@@ -3607,7 +3780,7 @@
             },
             {
               "type": "dinner",
-              "name": "Era Coqu\u00e8la (Aranese)",
+              "name": "Era Coquèla (Aranese)",
               "coord": [
                 45.81,
                 6.72
@@ -3653,7 +3826,7 @@
             },
             {
               "type": "optional",
-              "name": "Apr\u00e8s spritz",
+              "name": "Après spritz",
               "coord": [
                 45.802,
                 6.708
@@ -3729,7 +3902,7 @@
             },
             {
               "type": "sightseeing",
-              "name": "Aig\u00fcestortes National Park",
+              "name": "Aigüestortes National Park",
               "coord": [
                 45.9,
                 6.65

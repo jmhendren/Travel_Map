@@ -2,7 +2,7 @@
   "key": "korea",
   "name": "Korea Family Adventure",
   "subtitle": "Interactive Trip Map",
-  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "flag": "🇰🇷",
   "defaultCenter": [
     36.5,
     127.8
@@ -16,7 +16,8 @@
         126.9908
       ],
       "desc": "Luxury High-Rise Hotel; Lotte World Tower; Iconic skyline views",
-      "longDesc": "Perched in Lotte World Tower, this ultra-luxury hotel delivers iconic Seoul skyline views and world-class service from every angle, making it unforgettable for special occasions."
+      "longDesc": "Perched in Lotte World Tower, this ultra-luxury hotel delivers iconic Seoul skyline views and world-class service from every angle, making it unforgettable for special occasions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SIGNIEL%20Seoul&center=37.5634,126.9908"
     },
     {
       "name": "Four Seasons Hotel Seoul",
@@ -25,7 +26,8 @@
         126.9911
       ],
       "desc": "Luxury Hotel; Central base for palaces/museums; First-timers",
-      "longDesc": "A perfectly central base for palace hopping and museum visits, this classic luxury hotel puts all of Seoul's cultural treasures within easy reach for families."
+      "longDesc": "A perfectly central base for palace hopping and museum visits, this classic luxury hotel puts all of Seoul's cultural treasures within easy reach for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Hotel%20Seoul&center=37.569,126.9911"
     },
     {
       "name": "The Shilla Seoul",
@@ -34,7 +36,8 @@
         126.9765
       ],
       "desc": "Luxury Hotel; Resort-like grounds; Classic luxury",
-      "longDesc": "Set on lush, resort-like grounds with a serene feel, this iconic hotel offers a calming escape from the city buzz while staying perfectly central for exploring."
+      "longDesc": "Set on lush, resort-like grounds with a serene feel, this iconic hotel offers a calming escape from the city buzz while staying perfectly central for exploring.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shilla%20Seoul&center=37.5738,126.9765"
     },
     {
       "name": "Josun Palace, a Luxury Collection Hotel, Seoul",
@@ -43,16 +46,18 @@
         126.9806
       ],
       "desc": "Luxury Hotel; Art Deco flair; Design-forward luxury",
-      "longDesc": "Art Deco elegance meets modern luxury in this design-forward hotel, beloved by travelers who appreciate thoughtful architecture and refined interiors."
+      "longDesc": "Art Deco elegance meets modern luxury in this design-forward hotel, beloved by travelers who appreciate thoughtful architecture and refined interiors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Josun%20Palace%2C%20a%20Luxury%20Collection%20Hotel%2C%20Seoul&center=37.5623,126.9806"
     },
     {
-      "name": "Le M\u00e9ridien Seoul Myeongdong",
+      "name": "Le Méridien Seoul Myeongdong",
       "coord": [
         37.5673,
         126.9928
       ],
       "desc": "Upscale Hotel; Convenient newish base; Shopping + sightseeing",
-      "longDesc": "A newer, upscale option right in the heart of the shopping and sightseeing action, offering convenience and excellent service without the ultra-premium price."
+      "longDesc": "A newer, upscale option right in the heart of the shopping and sightseeing action, offering convenience and excellent service without the ultra-premium price.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20M%C3%A9ridien%20Seoul%20Myeongdong&center=37.5673,126.9928"
     },
     {
       "name": "Hotel 28 Myeongdong",
@@ -61,7 +66,8 @@
         126.9925
       ],
       "desc": "Boutique Hotel; Compact, polished rooms; Central base",
-      "longDesc": "Perfectly positioned for shopping and culture, this stylish boutique hotel offers polished, compact rooms and an unbeatable central location."
+      "longDesc": "Perfectly positioned for shopping and culture, this stylish boutique hotel offers polished, compact rooms and an unbeatable central location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%2028%20Myeongdong&center=37.5705,126.9925"
     },
     {
       "name": "Mondrian Seoul Itaewon",
@@ -70,7 +76,8 @@
         126.9882
       ],
       "desc": "Lifestyle Hotel; Rooftop/pool scene; Nightlife",
-      "longDesc": "A lifestyle hotel with a rooftop pool and bar scene that draws sophisticated travelers and families looking for modern design and vibrant energy."
+      "longDesc": "A lifestyle hotel with a rooftop pool and bar scene that draws sophisticated travelers and families looking for modern design and vibrant energy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mondrian%20Seoul%20Itaewon&center=37.5289,126.9882"
     },
     {
       "name": "RYSE",
@@ -79,7 +86,8 @@
         126.914
       ],
       "desc": "Design Hotel; Great base for Hongdae; Creative district",
-      "longDesc": "A creative-minded, design-forward hotel that captures the artistic spirit of Hongdae's indie galleries and vintage shops, perfect for art-loving families."
+      "longDesc": "A creative-minded, design-forward hotel that captures the artistic spirit of Hongdae's indie galleries and vintage shops, perfect for art-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=RYSE&center=37.5528,126.914"
     },
     {
       "name": "voco Seoul Gangnam",
@@ -88,7 +96,8 @@
         127.0402
       ],
       "desc": "Upscale Hotel; Comfortable rooms; Value-leaning upscale",
-      "longDesc": "Offering solid value for upscale travelers, this comfortable, well-run hotel in trendy Gangnam balances quality service with approachable pricing."
+      "longDesc": "Offering solid value for upscale travelers, this comfortable, well-run hotel in trendy Gangnam balances quality service with approachable pricing.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=voco%20Seoul%20Gangnam&center=37.4982,127.0402"
     },
     {
       "name": "L7 Myeongdong",
@@ -97,7 +106,8 @@
         126.9963
       ],
       "desc": "Upscale Hotel; Great transit access; Convenience + views",
-      "longDesc": "With excellent transit access and elevated views, this upscale spot delivers both convenience and a sense of arrival without breaking the bank."
+      "longDesc": "With excellent transit access and elevated views, this upscale spot delivers both convenience and a sense of arrival without breaking the bank.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L7%20Myeongdong&center=37.5554,126.9963"
     },
     {
       "name": "SIGNIEL Busan",
@@ -106,7 +116,8 @@
         126.9895
       ],
       "desc": "Luxury Beach Hotel; Oceanfront in Haeundae; Beach luxury",
-      "longDesc": "An oceanfront luxury resort in Haeundae Beach, this hotel offers the ultimate beach escape with sophisticated amenities and sea-view dining."
+      "longDesc": "An oceanfront luxury resort in Haeundae Beach, this hotel offers the ultimate beach escape with sophisticated amenities and sea-view dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SIGNIEL%20Busan&center=37.5703,126.9895"
     },
     {
       "name": "Grand Josun Busan",
@@ -115,7 +126,8 @@
         126.9897
       ],
       "desc": "Luxury Hotel; Modern luxury near beach; Families",
-      "longDesc": "Modern luxury designed with families in mind, this well-located hotel near the beach provides excellent service and beachfront access."
+      "longDesc": "Modern luxury designed with families in mind, this well-located hotel near the beach provides excellent service and beachfront access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Josun%20Busan&center=37.5575,126.9897"
     },
     {
       "name": "JW Marriott Jeju Resort & Spa",
@@ -124,7 +136,8 @@
         126.993
       ],
       "desc": "Luxury Resort; Resort-level spa; Wellness + special occasions",
-      "longDesc": "A wellness-focused luxury resort with world-class spa treatments using Korean skincare traditions, ideal for parents seeking relaxation and rejuvenation."
+      "longDesc": "A wellness-focused luxury resort with world-class spa treatments using Korean skincare traditions, ideal for parents seeking relaxation and rejuvenation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=JW%20Marriott%20Jeju%20Resort%20%26%20Spa&center=37.5654,126.993"
     },
     {
       "name": "Grand Hyatt Jeju",
@@ -133,7 +146,8 @@
         126.9787
       ],
       "desc": "Luxury Urban Resort; Huge property; Families",
-      "longDesc": "A sprawling family-friendly resort with numerous facilities, restaurants, and activities all on-property, perfect for kids who want constant entertainment."
+      "longDesc": "A sprawling family-friendly resort with numerous facilities, restaurants, and activities all on-property, perfect for kids who want constant entertainment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hyatt%20Jeju&center=37.563,126.9787"
     },
     {
       "name": "The Westin Josun Seoul Hotel",
@@ -142,7 +156,8 @@
         126.9661
       ],
       "desc": "Luxury Hotel, Reliable comfort in, Central shopping + museums",
-      "longDesc": "Luxury Hotel Reliable comfort in the CBD; great for multi-gen trips Perfect for Central shopping + museums"
+      "longDesc": "Luxury Hotel Reliable comfort in the CBD; great for multi-gen trips Perfect for Central shopping + museums",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Westin%20Josun%20Seoul%20Hotel&center=37.5727,126.9661"
     },
     {
       "name": "Park Hyatt Seoul",
@@ -151,7 +166,8 @@
         126.9836
       ],
       "desc": "Ultra-luxury peak icon, Apgujeong neighborhood, rooftop dining",
-      "longDesc": "Seoul's most coveted luxury address, offering panoramic city views, world-class service, and a legendary rooftop with modern Korean fine dining."
+      "longDesc": "Seoul's most coveted luxury address, offering panoramic city views, world-class service, and a legendary rooftop with modern Korean fine dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Hyatt%20Seoul&center=37.5542,126.9836"
     },
     {
       "name": "Grand Hyatt Seoul",
@@ -160,7 +176,8 @@
         127.0138
       ],
       "desc": "Luxury Hotel, Large grounds; seasonal, Families + pools; hilltop views",
-      "longDesc": "Luxury Hotel Large grounds; seasonal outdoor pool; good for kids Perfect for Families + pools; hilltop views"
+      "longDesc": "Luxury Hotel Large grounds; seasonal outdoor pool; good for kids Perfect for Families + pools; hilltop views",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hyatt%20Seoul&center=37.4857,127.0138"
     },
     {
       "name": "Conrad Seoul",
@@ -169,7 +186,8 @@
         126.9282
       ],
       "desc": "Luxury Business Hotel, Direct IFC access;, Business + Han River access",
-      "longDesc": "Luxury Business Hotel Direct IFC access; sleek rooms; solid lounge options Perfect for Business + Han River access"
+      "longDesc": "Luxury Business Hotel Direct IFC access; sleek rooms; solid lounge options Perfect for Business + Han River access",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Conrad%20Seoul&center=37.5649,126.9282"
     },
     {
       "name": "Fairmont Ambassador Seoul",
@@ -178,7 +196,8 @@
         126.9187
       ],
       "desc": "Luxury Hotel, IFC complex; spacious, Modern luxury; families",
-      "longDesc": "Luxury Hotel IFC complex; spacious rooms; easy airport access Perfect for Modern luxury; families"
+      "longDesc": "Luxury Hotel IFC complex; spacious rooms; easy airport access Perfect for Modern luxury; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fairmont%20Ambassador%20Seoul&center=37.5487,126.9187"
     },
     {
       "name": "Lotte Hotel Seoul",
@@ -187,7 +206,8 @@
         126.9829
       ],
       "desc": "Luxury Hotel, Connected to Lotte, Shopping + convenience",
-      "longDesc": "Luxury Hotel Connected to Lotte Dept Store; big-service hotel Perfect for Shopping + convenience"
+      "longDesc": "Luxury Hotel Connected to Lotte Dept Store; big-service hotel Perfect for Shopping + convenience",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotte%20Hotel%20Seoul&center=37.5696,126.9829"
     },
     {
       "name": "Sofitel Ambassador Seoul Hotel",
@@ -196,7 +216,8 @@
         126.9846
       ],
       "desc": "Luxury Hotel, French touch; serviced, Lotte World area; families",
-      "longDesc": "Luxury Hotel French touch; serviced residences option; lake/sky views Perfect for Lotte World area; families"
+      "longDesc": "Luxury Hotel French touch; serviced residences option; lake/sky views Perfect for Lotte World area; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sofitel%20Ambassador%20Seoul%20Hotel&center=37.5307,126.9846"
     },
     {
       "name": "Andaz Seoul Gangnam",
@@ -205,7 +226,8 @@
         127.0255
       ],
       "desc": "Luxury Lifestyle Hotel, Bold design; great, K-style; shopping; cafes",
-      "longDesc": "Luxury Lifestyle Hotel Bold design; great neighborhood; strong F&B Perfect for K-style; shopping; cafes"
+      "longDesc": "Luxury Lifestyle Hotel Bold design; great neighborhood; strong F&B Perfect for K-style; shopping; cafes",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Andaz%20Seoul%20Gangnam&center=37.4953,127.0255"
     },
     {
       "name": "Grand InterContinental Seoul Parnas",
@@ -214,7 +236,8 @@
         126.9748
       ],
       "desc": "Luxury Business Hotel, Direct COEX access;, Business; conventions; families",
-      "longDesc": "Luxury Business Hotel Direct COEX access; big rooms; excellent breakfast Perfect for Business; conventions; families"
+      "longDesc": "Luxury Business Hotel Direct COEX access; big rooms; excellent breakfast Perfect for Business; conventions; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20InterContinental%20Seoul%20Parnas&center=37.5747,126.9748"
     },
     {
       "name": "Naru Seoul - MGallery",
@@ -223,7 +246,8 @@
         126.9867
       ],
       "desc": "Design Hotel, Han River panorama;, Couples; river views",
-      "longDesc": "Design Hotel Han River panorama; calm base; contemporary interiors Perfect for Couples; river views"
+      "longDesc": "Design Hotel Han River panorama; calm base; contemporary interiors Perfect for Couples; river views",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Naru%20Seoul%20-%20MGallery&center=37.5728,126.9867"
     },
     {
       "name": "JW Marriott Dongdaemun Square",
@@ -232,7 +256,8 @@
         127.001
       ],
       "desc": "Luxury Hotel, Indoor pool; DDP, Fashion district; families",
-      "longDesc": "Luxury Hotel Indoor pool; DDP next door; easy late-night exploring Perfect for Fashion district; families"
+      "longDesc": "Luxury Hotel Indoor pool; DDP next door; easy late-night exploring Perfect for Fashion district; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=JW%20Marriott%20Dongdaemun%20Square&center=37.5739,127.001"
     },
     {
       "name": "L'Escape Hotel",
@@ -240,8 +265,9 @@
         37.5643,
         126.989
       ],
-      "desc": "Boutique Hotel, Parisian Belle \u00c9poque, Design lovers; couples",
-      "longDesc": "Boutique Hotel Parisian Belle \u00c9poque vibe; great nightlife base Perfect for Design lovers; couples"
+      "desc": "Boutique Hotel, Parisian Belle Époque, Design lovers; couples",
+      "longDesc": "Boutique Hotel Parisian Belle Époque vibe; great nightlife base Perfect for Design lovers; couples",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Escape%20Hotel&center=37.5643,126.989"
     },
     {
       "name": "Vista Walkerhill Seoul",
@@ -250,7 +276,8 @@
         126.9901
       ],
       "desc": "Resort-Style City Hotel, Han River hillside;, Families; resort feel in city",
-      "longDesc": "Resort-Style City Hotel Han River hillside; pools; plenty of space Perfect for Families; resort feel in city"
+      "longDesc": "Resort-Style City Hotel Han River hillside; pools; plenty of space Perfect for Families; resort feel in city",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vista%20Walkerhill%20Seoul&center=37.5522,126.9901"
     },
     {
       "name": "Walkerhill Douglas House",
@@ -259,7 +286,8 @@
         126.9876
       ],
       "desc": "Boutique Retreat, Adult-leaning retreat vibe;, Quiet luxury; couples",
-      "longDesc": "Boutique Retreat Adult-leaning retreat vibe; wooded setting Perfect for Quiet luxury; couples"
+      "longDesc": "Boutique Retreat Adult-leaning retreat vibe; wooded setting Perfect for Quiet luxury; couples",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Walkerhill%20Douglas%20House&center=37.5572,126.9876"
     },
     {
       "name": "GRAVITY Seoul Pangyo, Autograph Collection",
@@ -268,7 +296,8 @@
         126.9762
       ],
       "desc": "Upscale Hotel, Modern rooms; convenient, Tech/business; quieter base",
-      "longDesc": "Upscale Hotel Modern rooms; convenient for Pangyo/Seoul Day trips Perfect for Tech/business; quieter base"
+      "longDesc": "Upscale Hotel Modern rooms; convenient for Pangyo/Seoul Day trips Perfect for Tech/business; quieter base",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=GRAVITY%20Seoul%20Pangyo%2C%20Autograph%20Collection&center=37.5683,126.9762"
     },
     {
       "name": "Hotel Cappuccino",
@@ -277,7 +306,8 @@
         126.9902
       ],
       "desc": "Boutique Hotel, Playful design; good, Stylish value; short stays",
-      "longDesc": "Boutique Hotel Playful design; good neighborhood access Perfect for Stylish value; short stays"
+      "longDesc": "Boutique Hotel Playful design; good neighborhood access Perfect for Stylish value; short stays",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Cappuccino&center=37.5651,126.9902"
     },
     {
       "name": "La Casa Hotel Seoul",
@@ -285,8 +315,9 @@
         37.5606,
         126.9921
       ],
-      "desc": "Boutique Hotel, Garosu-gil base; easy, Shopping; caf\u00e9-hopping",
-      "longDesc": "Boutique Hotel Garosu-gil base; easy Gangnam access Perfect for Shopping; caf\u00e9-hopping"
+      "desc": "Boutique Hotel, Garosu-gil base; easy, Shopping; café-hopping",
+      "longDesc": "Boutique Hotel Garosu-gil base; easy Gangnam access Perfect for Shopping; café-hopping",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20Hotel%20Seoul&center=37.5606,126.9921"
     },
     {
       "name": "Grand Hyatt Incheon",
@@ -295,7 +326,8 @@
         127.0266
       ],
       "desc": "Airport Luxury Hotel, Large rooms; reliable, Layovers; families",
-      "longDesc": "Airport Luxury Hotel Large rooms; reliable airport logistics Perfect for Layovers; families"
+      "longDesc": "Airport Luxury Hotel Large rooms; reliable airport logistics Perfect for Layovers; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hyatt%20Incheon&center=37.4873,127.0266"
     },
     {
       "name": "Nest Hotel Incheon",
@@ -304,7 +336,8 @@
         127.0376
       ],
       "desc": "Design Hotel, Beachy-modern vibe; good, Design + airport proximity",
-      "longDesc": "Design Hotel Beachy-modern vibe; good pre/post-flight stay Perfect for Design + airport proximity"
+      "longDesc": "Design Hotel Beachy-modern vibe; good pre/post-flight stay Perfect for Design + airport proximity",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nest%20Hotel%20Incheon&center=37.4881,127.0376"
     },
     {
       "name": "Paradise City Incheon",
@@ -313,7 +346,8 @@
         127.02
       ],
       "desc": "Integrated Resort, Art-filled resort; dining;, Families; all-in-one resort",
-      "longDesc": "Integrated Resort Art-filled resort; dining; entertainment; Cimer spa Perfect for Families; all-in-one resort"
+      "longDesc": "Integrated Resort Art-filled resort; dining; entertainment; Cimer spa Perfect for Families; all-in-one resort",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradise%20City%20Incheon&center=37.4945,127.02"
     },
     {
       "name": "Art Paradiso, Paradise City",
@@ -322,7 +356,8 @@
         127.0414
       ],
       "desc": "Boutique Luxury Hotel, Design-forward; luxe suites;, Adults; design + nightlife",
-      "longDesc": "Boutique Luxury Hotel Design-forward; luxe suites; steps to resort amenities Perfect for Adults; design + nightlife"
+      "longDesc": "Boutique Luxury Hotel Design-forward; luxe suites; steps to resort amenities Perfect for Adults; design + nightlife",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Paradiso%2C%20Paradise%20City&center=37.4913,127.0414"
     },
     {
       "name": "Park Hyatt Busan",
@@ -331,7 +366,8 @@
         129.1557
       ],
       "desc": "Luxury Design Hotel, Marina + bridge, Architecture + marina views",
-      "longDesc": "Luxury Design Hotel Marina + bridge views; excellent lounge/bar Perfect for Architecture + marina views"
+      "longDesc": "Luxury Design Hotel Marina + bridge views; excellent lounge/bar Perfect for Architecture + marina views",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Hyatt%20Busan&center=35.1446,129.1557"
     },
     {
       "name": "The Westin Josun Busan",
@@ -340,7 +376,8 @@
         129.1603
       ],
       "desc": "Luxury Beach Hotel, Prime beach access;, Classic beachfront base",
-      "longDesc": "Luxury Beach Hotel Prime beach access; great for families Perfect for Classic beachfront base"
+      "longDesc": "Luxury Beach Hotel Prime beach access; great for families Perfect for Classic beachfront base",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Westin%20Josun%20Busan&center=35.1617,129.1603"
     },
     {
       "name": "Ananti at Busan Cove",
@@ -349,7 +386,8 @@
         129.1488
       ],
       "desc": "Resort, Coastal resort complex;, Resort weekends; families",
-      "longDesc": "Resort Coastal resort complex; pools + sea views Perfect for Resort weekends; families"
+      "longDesc": "Resort Coastal resort complex; pools + sea views Perfect for Resort weekends; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ananti%20at%20Busan%20Cove&center=35.1541,129.1488"
     },
     {
       "name": "Good Ol' Days Hotel",
@@ -358,7 +396,8 @@
         129.1246
       ],
       "desc": "Boutique Hotel, Great base for, Central, walkable Busan",
-      "longDesc": "Boutique Hotel Great base for markets + old-town; stylish rooms Perfect for Central, walkable Busan"
+      "longDesc": "Boutique Hotel Great base for markets + old-town; stylish rooms Perfect for Central, walkable Busan",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Good%20Ol%27%20Days%20Hotel&center=35.1457,129.1246"
     },
     {
       "name": "The Shilla Jeju",
@@ -367,7 +406,8 @@
         126.9955
       ],
       "desc": "Luxury Resort, Classic Jeju luxury;, Beach resort; families",
-      "longDesc": "Luxury Resort Classic Jeju luxury; large grounds; pools Perfect for Beach resort; families"
+      "longDesc": "Luxury Resort Classic Jeju luxury; large grounds; pools Perfect for Beach resort; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shilla%20Jeju&center=37.5688,126.9955"
     }
   ],
   "restaurants": [
@@ -378,16 +418,18 @@
         126.985
       ],
       "desc": "Contemporary Korean; MICHELIN 3-star (reservation essential)",
-      "longDesc": "Korea's highest-rated restaurant, Mingles delivers refined contemporary Korean cuisine that respects tradition while pushing boundaries\u2014reserve well in advance."
+      "longDesc": "Korea's highest-rated restaurant, Mingles delivers refined contemporary Korean cuisine that respects tradition while pushing boundaries—reserve well in advance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mingles&center=37.5439,126.985"
     },
     {
-      "name": "Soign\u00e9",
+      "name": "Soigné",
       "coord": [
         37.5343,
         126.9979
       ],
       "desc": "Modern Cuisine; MICHELIN 2-star",
-      "longDesc": "A intimate 2-star jewel serving modern cuisine with meticulous technique, beloved by food-focused travelers seeking an understated yet exceptional experience."
+      "longDesc": "A intimate 2-star jewel serving modern cuisine with meticulous technique, beloved by food-focused travelers seeking an understated yet exceptional experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soign%C3%A9&center=37.5343,126.9979"
     },
     {
       "name": "Evett",
@@ -396,7 +438,8 @@
         126.9834
       ],
       "desc": "Contemporary cuisine; MICHELIN 2-star innovation",
-      "longDesc": "A two-star chef's kitchen where creativity and technique shine through unexpected flavor combinations and precise plating."
+      "longDesc": "A two-star chef's kitchen where creativity and technique shine through unexpected flavor combinations and precise plating.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Evett&center=37.5408,126.9834"
     },
     {
       "name": "Jungsik",
@@ -405,7 +448,8 @@
         126.9993
       ],
       "desc": "Modern Korean; MICHELIN 2-star",
-      "longDesc": "This 2-star modern Korean restaurant balances innovation with Korean roots, serving dishes that feel both exciting and rooted in culinary tradition."
+      "longDesc": "This 2-star modern Korean restaurant balances innovation with Korean roots, serving dishes that feel both exciting and rooted in culinary tradition.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jungsik&center=37.5363,126.9993"
     },
     {
       "name": "Kwonsooksoo",
@@ -414,7 +458,8 @@
         126.9872
       ],
       "desc": "Korean fine dining; MICHELIN 2-star; classical elegance",
-      "longDesc": "Refined Korean cuisine honored through masterful technique and seasonal ingredients, offering tradition elevated to an art form."
+      "longDesc": "Refined Korean cuisine honored through masterful technique and seasonal ingredients, offering tradition elevated to an art form.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kwonsooksoo&center=37.5347,126.9872"
     },
     {
       "name": "alla prima",
@@ -423,7 +468,8 @@
         126.9972
       ],
       "desc": "Innovative modern cuisine; MICHELIN 2-star Seoul",
-      "longDesc": "A chef-driven restaurant where culinary innovation meets impeccable technique, creating surprising yet harmonious dishes."
+      "longDesc": "A chef-driven restaurant where culinary innovation meets impeccable technique, creating surprising yet harmonious dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=alla%20prima&center=37.541,126.9972"
     },
     {
       "name": "Mitou",
@@ -432,7 +478,8 @@
         126.994
       ],
       "desc": "Japanese kaiseki; MICHELIN 2-star; Tokyo-trained",
-      "longDesc": "An intimate omakase experience showcasing seasonal Japanese seafood and technique, served in a serene counter setting."
+      "longDesc": "An intimate omakase experience showcasing seasonal Japanese seafood and technique, served in a serene counter setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitou&center=37.5434,126.994"
     },
     {
       "name": "Restaurant Allen",
@@ -441,7 +488,8 @@
         127.005
       ],
       "desc": "Contemporary; MICHELIN 2-star; intimate Seoul gem",
-      "longDesc": "A small-counter restaurant where the chef works intimately with guests, crafting personalized contemporary cuisine."
+      "longDesc": "A small-counter restaurant where the chef works intimately with guests, crafting personalized contemporary cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Allen&center=37.5266,127.005"
     },
     {
       "name": "Yu Yuan",
@@ -450,7 +498,8 @@
         126.9998
       ],
       "desc": "Cantonese; MICHELIN 1-star; excellent dining experience",
-      "longDesc": "This Michelin-recognized Cantonese restaurant in Seoul brings authentic dim sum and Cantonese classics to Korea."
+      "longDesc": "This Michelin-recognized Cantonese restaurant in Seoul brings authentic dim sum and Cantonese classics to Korea.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yu%20Yuan&center=37.5284,126.9998"
     },
     {
       "name": "Onjium",
@@ -459,7 +508,8 @@
         126.9848
       ],
       "desc": "Royal Korean cuisine; MICHELIN 1-star; Bukchon's traditional dining",
-      "longDesc": "A 1-star Korean restaurant offering refined comfort-food-inspired cuisine that feels both nourishing and elevated."
+      "longDesc": "A 1-star Korean restaurant offering refined comfort-food-inspired cuisine that feels both nourishing and elevated.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Onjium&center=37.5846,126.9848"
     },
     {
       "name": "Muni",
@@ -468,7 +518,8 @@
         126.9847
       ],
       "desc": "Traditional Korean; MICHELIN 1-star; Jongno's heritage cuisine",
-      "longDesc": "A 1-star contemporary Korean kitchen outside Seoul, showcasing regional ingredients and techniques with modern sensibility."
+      "longDesc": "A 1-star contemporary Korean kitchen outside Seoul, showcasing regional ingredients and techniques with modern sensibility.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Muni&center=37.574,126.9847"
     },
     {
       "name": "Bicena",
@@ -477,7 +528,8 @@
         126.9798
       ],
       "desc": "Refined Korean; MICHELIN 1-star; Jongno's heritage restaurant",
-      "longDesc": "A 1-star Korean restaurant known for meticulous execution and respect for ingredients, delivering satisfying, well-crafted meals."
+      "longDesc": "A 1-star Korean restaurant known for meticulous execution and respect for ingredients, delivering satisfying, well-crafted meals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bicena&center=37.5645,126.9798"
     },
     {
       "name": "Solbam",
@@ -486,7 +538,8 @@
         127.0022
       ],
       "desc": "Modern Cuisine; MICHELIN 1-star",
-      "longDesc": "A 1-star modern cuisine restaurant where the chef's perspective shapes a distinctive, personal dining experience."
+      "longDesc": "A 1-star modern cuisine restaurant where the chef's perspective shapes a distinctive, personal dining experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Solbam&center=37.5363,127.0022"
     },
     {
       "name": "Sosuheon",
@@ -495,7 +548,8 @@
         126.9751
       ],
       "desc": "Classical Korean; MICHELIN 1-star; Insadong's seasonal cooking",
-      "longDesc": "A 1-star Korean restaurant with a loyal following for its refined approach to traditional flavors and elegant presentation."
+      "longDesc": "A 1-star Korean restaurant with a loyal following for its refined approach to traditional flavors and elegant presentation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sosuheon&center=37.5718,126.9751"
     },
     {
       "name": "Sushi Matsumoto",
@@ -504,7 +558,8 @@
         126.99
       ],
       "desc": "Sushi/Omakase; MICHELIN 1-star",
-      "longDesc": "An exceptional 1-star omakase experience with master-level sushi craftsmanship, delivering silky rice and pristine fish."
+      "longDesc": "An exceptional 1-star omakase experience with master-level sushi craftsmanship, delivering silky rice and pristine fish.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Matsumoto&center=37.5427,126.99"
     },
     {
       "name": "L'Amant Secret",
@@ -513,7 +568,8 @@
         126.9997
       ],
       "desc": "Modern Korean; MICHELIN 1-star",
-      "longDesc": "A 1-star modern Korean restaurant tucked away outside the city center, offering personalized, ingredient-focused cuisine."
+      "longDesc": "A 1-star modern Korean restaurant tucked away outside the city center, offering personalized, ingredient-focused cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Amant%20Secret&center=37.5276,126.9997"
     },
     {
       "name": "Zero Complex",
@@ -522,7 +578,8 @@
         126.9838
       ],
       "desc": "Modern Korean fusion; MICHELIN 1-star; Jongno's fine dining gem",
-      "longDesc": "A 1-star contemporary kitchen outside Seoul showcasing the chef's innovative approach to seasonal ingredients."
+      "longDesc": "A 1-star contemporary kitchen outside Seoul showcasing the chef's innovative approach to seasonal ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zero%20Complex&center=37.5717,126.9838"
     },
     {
       "name": "Exquisine",
@@ -531,7 +588,8 @@
         126.9803
       ],
       "desc": "Contemporary cuisine; MICHELIN 1-star; Insadong's culinary art",
-      "longDesc": "A 1-star contemporary restaurant in central Seoul delivering refined techniques and memorable flavor combinations."
+      "longDesc": "A 1-star contemporary restaurant in central Seoul delivering refined techniques and memorable flavor combinations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Exquisine&center=37.5654,126.9803"
     },
     {
       "name": "Haobin",
@@ -540,16 +598,18 @@
         126.9885
       ],
       "desc": "Chinese; MICHELIN 1-star; excellent dining experience",
-      "longDesc": "A Michelin-recognized Chinese restaurant bringing authentic Northern Chinese cuisine and technique to Seoul."
+      "longDesc": "A Michelin-recognized Chinese restaurant bringing authentic Northern Chinese cuisine and technique to Seoul.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haobin&center=37.54,126.9885"
     },
     {
-      "name": "L\u00e9gume",
+      "name": "Légume",
       "coord": [
         37.545,
         126.9883
       ],
       "desc": "Vegan/Vegetable-forward; MICHELIN 1-star",
-      "longDesc": "A unique 1-star vegetable-forward restaurant offering creative, satisfying plant-based dining that delights vegetarians and omnivores alike."
+      "longDesc": "A unique 1-star vegetable-forward restaurant offering creative, satisfying plant-based dining that delights vegetarians and omnivores alike.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%C3%A9gume&center=37.545,126.9883"
     },
     {
       "name": "VINHO",
@@ -558,7 +618,8 @@
         126.9915
       ],
       "desc": "Wine Bar / Small Plates; MICHELIN 1-star",
-      "longDesc": "A cozy 1-star wine bar and small plates spot perfect for casual, wine-paired grazing with discerning flavors."
+      "longDesc": "A cozy 1-star wine bar and small plates spot perfect for casual, wine-paired grazing with discerning flavors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=VINHO&center=37.5399,126.9915"
     },
     {
       "name": "y'east",
@@ -567,7 +628,8 @@
         126.9352
       ],
       "desc": "Innovative Korean; MICHELIN 1-star; Hongdae's creative kitchen",
-      "longDesc": "A 1-star contemporary kitchen in Busan showcasing the chef's creative approach to fresh, local ingredients."
+      "longDesc": "A 1-star contemporary kitchen in Busan showcasing the chef's creative approach to fresh, local ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=y%27east&center=37.5654,126.9352"
     },
     {
       "name": "KANG MINCHUL Restaurant",
@@ -576,7 +638,8 @@
         126.9759
       ],
       "desc": "Contemporary Korean; MICHELIN 1-star; Insadong fine dining",
-      "longDesc": "A 1-star Korean contemporary restaurant delivering refined traditional flavors with modern presentation and technique."
+      "longDesc": "A 1-star Korean contemporary restaurant delivering refined traditional flavors with modern presentation and technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=KANG%20MINCHUL%20Restaurant&center=37.5651,126.9759"
     },
     {
       "name": "YUN",
@@ -585,7 +648,8 @@
         126.9836
       ],
       "desc": "Modern Korean; MICHELIN 1-star; Myeongdong upscale dining",
-      "longDesc": "A 1-star contemporary restaurant in Busan where the chef's personal vision creates a distinctive, memorable experience."
+      "longDesc": "A 1-star contemporary restaurant in Busan where the chef's personal vision creates a distinctive, memorable experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=YUN&center=37.5529,126.9836"
     },
     {
       "name": "HANE",
@@ -594,7 +658,8 @@
         126.9782
       ],
       "desc": "Korean modern; MICHELIN 1-star; Myeongdong's innovative kitchen",
-      "longDesc": "A 1-star Korean contemporary restaurant known for precise execution and creative takes on familiar Korean dishes."
+      "longDesc": "A 1-star Korean contemporary restaurant known for precise execution and creative takes on familiar Korean dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=HANE&center=37.5533,126.9782"
     },
     {
       "name": "7th Door",
@@ -603,7 +668,8 @@
         127.0136
       ],
       "desc": "Seasonal tasting; MICHELIN 1-star; Sinsa's exclusive experience",
-      "longDesc": "A 1-star contemporary kitchen delivering innovative cuisine in an intimate Seoul setting."
+      "longDesc": "A 1-star contemporary kitchen delivering innovative cuisine in an intimate Seoul setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=7th%20Door&center=37.5285,127.0136"
     },
     {
       "name": "Goryori Ken",
@@ -612,7 +678,8 @@
         126.9908
       ],
       "desc": "Kaiseki/Japanese; MICHELIN 1-star",
-      "longDesc": "A 1-star kaiseki restaurant bringing authentic Japanese technique and ingredient focus to Seoul's dining scene."
+      "longDesc": "A 1-star kaiseki restaurant bringing authentic Japanese technique and ingredient focus to Seoul's dining scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Goryori%20Ken&center=37.5279,126.9908"
     },
     {
       "name": "Gigas",
@@ -621,7 +688,8 @@
         126.9953
       ],
       "desc": "Contemporary; MICHELIN 1-star; excellent dining experience",
-      "longDesc": "A 1-star contemporary restaurant where innovative cooking and refined flavors create engaging, memorable meals."
+      "longDesc": "A 1-star contemporary restaurant where innovative cooking and refined flavors create engaging, memorable meals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gigas&center=37.5378,126.9953"
     },
     {
       "name": "Eatanic Garden",
@@ -630,7 +698,8 @@
         127.0118
       ],
       "desc": "Garden dining; MICHELIN 1-star; Sinsa's organic focus",
-      "longDesc": "A 1-star Korean contemporary restaurant celebrating seasonal ingredients with creative, balanced dishes."
+      "longDesc": "A 1-star Korean contemporary restaurant celebrating seasonal ingredients with creative, balanced dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Eatanic%20Garden&center=37.5288,127.0118"
     },
     {
       "name": "Myeongdong Kyoja",
@@ -639,7 +708,8 @@
         127.0033
       ],
       "desc": "Kalguksu + Mandu; Bib Gourmand classic",
-      "longDesc": "A legendary casual spot serving hand-pulled kalguksu and plump dumplings\u2014cheap, cheerful, and genuinely delicious."
+      "longDesc": "A legendary casual spot serving hand-pulled kalguksu and plump dumplings—cheap, cheerful, and genuinely delicious.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Myeongdong%20Kyoja&center=37.5277,127.0033"
     },
     {
       "name": "Mandujip",
@@ -648,7 +718,8 @@
         126.9828
       ],
       "desc": "Dumplings; Bib Gourmand; excellent dining experience",
-      "longDesc": "A cozy dumpling specialist offering flavorful, generously-filled dumplings at prices that make multiple orders inevitable."
+      "longDesc": "A cozy dumpling specialist offering flavorful, generously-filled dumplings at prices that make multiple orders inevitable.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandujip&center=37.5371,126.9828"
     },
     {
       "name": "Pildong Myeonok",
@@ -657,7 +728,8 @@
         127.0152
       ],
       "desc": "Pyeongyang naengmyeon; Michelin-recommended; DDP's classic",
-      "longDesc": "A classic cold noodle shop serving silky Pyeongyang naengmyeon that has won Michelin recognition for its refined broth and technique."
+      "longDesc": "A classic cold noodle shop serving silky Pyeongyang naengmyeon that has won Michelin recognition for its refined broth and technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pildong%20Myeonok&center=37.5691,127.0152"
     },
     {
       "name": "Pyeongyang Myeonok",
@@ -666,7 +738,8 @@
         126.9862
       ],
       "desc": "Cold noodles; Michelin-recognized; Myeongdong's famous branch",
-      "longDesc": "An excellent cold noodle specialist in central Seoul, serving light, flavorful naengmyeon that's perfect for hot summer days."
+      "longDesc": "An excellent cold noodle specialist in central Seoul, serving light, flavorful naengmyeon that's perfect for hot summer days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pyeongyang%20Myeonok&center=37.5714,126.9862"
     },
     {
       "name": "Hadongkwan",
@@ -675,16 +748,18 @@
         127.002
       ],
       "desc": "Gomtang; Classic beef soup; excellent dining experience",
-      "longDesc": "A legendary Seoul institution serving rich, deeply flavorful gomtang (beef soup) that has satisfied generations of families."
+      "longDesc": "A legendary Seoul institution serving rich, deeply flavorful gomtang (beef soup) that has satisfied generations of families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hadongkwan&center=37.5328,127.002"
     },
     {
-      "name": "Le Chocolat Maxime Fr\u00e9d\u00e9ric at Louis Vuitton",
+      "name": "Le Chocolat Maxime Frédéric at Louis Vuitton",
       "coord": [
         37.5392,
         126.9907
       ],
-      "desc": "Dessert / Patisserie; Luxury chocolate & pastries at LV\u2019s Seoul flagship complex",
-      "longDesc": "A luxury chocolate and pastry stop within LV's flagship complex, offering indulgent French-Korean fusion desserts."
+      "desc": "Dessert / Patisserie; Luxury chocolate & pastries at LV’s Seoul flagship complex",
+      "longDesc": "A luxury chocolate and pastry stop within LV's flagship complex, offering indulgent French-Korean fusion desserts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Chocolat%20Maxime%20Fr%C3%A9d%C3%A9ric%20at%20Louis%20Vuitton&center=37.5392,126.9907"
     },
     {
       "name": "JP (Louis Vuitton The Place Seoul)",
@@ -693,16 +768,18 @@
         126.9824
       ],
       "desc": "Rooftop Restaurant; High-demand rooftop dining",
-      "longDesc": "A high-demand rooftop restaurant with panoramic city views and refined cuisine, reserving well ahead is essential."
+      "longDesc": "A high-demand rooftop restaurant with panoramic city views and refined cuisine, reserving well ahead is essential.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=JP%20%28Louis%20Vuitton%20The%20Place%20Seoul%29&center=37.5379,126.9824"
     },
     {
-      "name": "Voila Caf\u00e9 Busan (Haeundae Marine City)",
+      "name": "Voila Café Busan (Haeundae Marine City)",
       "coord": [
         37.5249,
         127.0028
       ],
-      "desc": "Caf\u00e9 / Dessert; Michelin guide recommends the salted ice cream after a seasid...",
-      "longDesc": "A seaside caf\u00e9 famed for its salted ice cream and ocean views, perfect for a leisurely afternoon by the beach."
+      "desc": "Café / Dessert; Michelin guide recommends the salted ice cream after a seasid...",
+      "longDesc": "A seaside café famed for its salted ice cream and ocean views, perfect for a leisurely afternoon by the beach.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Voila%20Caf%C3%A9%20Busan%20%28Haeundae%20Marine%20City%29&center=37.5249,127.0028"
     },
     {
       "name": "Mukjung",
@@ -711,25 +788,28 @@
         127.001
       ],
       "desc": "Korean; Michelin mention; excellent dining experience",
-      "longDesc": "A Michelin-noted Korean restaurant delivering solid, flavorful cuisine in a comfortable setting."
+      "longDesc": "A Michelin-noted Korean restaurant delivering solid, flavorful cuisine in a comfortable setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mukjung&center=37.5399,127.001"
     },
     {
-      "name": "KITH Seoul / Sadelle\u2019s",
+      "name": "KITH Seoul / Sadelle’s",
       "coord": [
         37.5351,
         126.9831
       ],
-      "desc": "All-day caf\u00e9 + deli; High-design stop",
-      "longDesc": "A design-forward, all-day caf\u00e9 and deli combining excellent coffee, artisanal pastries, and curated retail in one sophisticated space."
+      "desc": "All-day café + deli; High-design stop",
+      "longDesc": "A design-forward, all-day café and deli combining excellent coffee, artisanal pastries, and curated retail in one sophisticated space.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=KITH%20Seoul%20/%20Sadelle%E2%80%99s&center=37.5351,126.9831"
     },
     {
-      "name": "Caf\u00e9 Dior by Pierre Herm\u00e9",
+      "name": "Café Dior by Pierre Hermé",
       "coord": [
         37.5382,
         127.0036
       ],
-      "desc": "Luxury Caf\u00e9; Fashion-district caf\u00e9 icon",
-      "longDesc": "A luxury fashion-district caf\u00e9 merging Pierre Herm\u00e9's pastries with Dior aesthetics, perfect for a refined coffee break."
+      "desc": "Luxury Café; Fashion-district café icon",
+      "longDesc": "A luxury fashion-district café merging Pierre Hermé's pastries with Dior aesthetics, perfect for a refined coffee break.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Dior%20by%20Pierre%20Herm%C3%A9&center=37.5382,127.0036"
     },
     {
       "name": "NUDAKE Haus Nowhere Dosan",
@@ -738,7 +818,8 @@
         126.9918
       ],
       "desc": "Dessert / Bakery; Design-forward desserts",
-      "longDesc": "A design-forward dessert and bakery concept creating Instagram-worthy, artistic pastries with genuine flavor."
+      "longDesc": "A design-forward dessert and bakery concept creating Instagram-worthy, artistic pastries with genuine flavor.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=NUDAKE%20Haus%20Nowhere%20Dosan&center=37.5316,126.9918"
     },
     {
       "name": "Daelim Warehouse",
@@ -746,8 +827,9 @@
         37.534,
         126.9972
       ],
-      "desc": "Caf\u00e9 + Brunch; Industrial-chic caf\u00e9",
-      "longDesc": "An iconic industrial-chic caf\u00e9 and brunch spot with soaring ceilings and excellent coffee, perfect for design-loving families."
+      "desc": "Café + Brunch; Industrial-chic café",
+      "longDesc": "An iconic industrial-chic café and brunch spot with soaring ceilings and excellent coffee, perfect for design-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Daelim%20Warehouse&center=37.534,126.9972"
     },
     {
       "name": "Cafe Onion Seongsu",
@@ -755,8 +837,9 @@
         37.5206,
         127.0343
       ],
-      "desc": "Bakery Caf\u00e9; Signature pastries",
-      "longDesc": "A beloved caf\u00e9 concept with signature pastries and thoughtful coffee, set in a design-conscious neighborhood atmosphere."
+      "desc": "Bakery Café; Signature pastries",
+      "longDesc": "A beloved café concept with signature pastries and thoughtful coffee, set in a design-conscious neighborhood atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Onion%20Seongsu&center=37.5206,127.0343"
     },
     {
       "name": "Damiok",
@@ -765,7 +848,8 @@
         126.9321
       ],
       "desc": "Cold noodles; Bib Gourmand; Hongdae's signature naengmyeon",
-      "longDesc": "A beloved Busan naengmyeon specialist serving silky, flavorful cold noodles at friendly prices."
+      "longDesc": "A beloved Busan naengmyeon specialist serving silky, flavorful cold noodles at friendly prices.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Damiok&center=37.5551,126.9321"
     },
     {
       "name": "100.1.Pyeongnaeng",
@@ -774,7 +858,8 @@
         126.9839
       ],
       "desc": "Pyeongyang naengmyeon; Bib Gourmand; Myeongdong classic",
-      "longDesc": "Another excellent Busan cold noodle option, delivering consistent quality and generous portions at bargain prices."
+      "longDesc": "Another excellent Busan cold noodle option, delivering consistent quality and generous portions at bargain prices.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=100.1.Pyeongnaeng&center=37.5616,126.9839"
     },
     {
       "name": "Buda Myeonoak",
@@ -783,7 +868,8 @@
         127.0219
       ],
       "desc": "Traditional naengmyeon; Bib Gourmand; Sinsa's beloved spot",
-      "longDesc": "A reliable Busan naengmyeon destination serving well-made cold noodles that locals trust and return to."
+      "longDesc": "A reliable Busan naengmyeon destination serving well-made cold noodles that locals trust and return to.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Buda%20Myeonoak&center=37.5289,127.0219"
     },
     {
       "name": "Jeongjitgan",
@@ -792,7 +878,8 @@
         126.9897
       ],
       "desc": "Pork gukbap; Bib Gourmand; Itaewon's hearty breakfast spot",
-      "longDesc": "A beloved Busan dwaeji-gukbap (pork soup) spot with rich, satisfying broth and incredibly friendly prices."
+      "longDesc": "A beloved Busan dwaeji-gukbap (pork soup) spot with rich, satisfying broth and incredibly friendly prices.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeongjitgan&center=37.523,126.9897"
     },
     {
       "name": "Hanwolgwan",
@@ -801,7 +888,8 @@
         126.9962
       ],
       "desc": "Gomtang; Bib Gourmand; excellent dining experience",
-      "longDesc": "A Busan institution for gomtang, serving deeply flavored beef soup at prices that encourage generous eating."
+      "longDesc": "A Busan institution for gomtang, serving deeply flavored beef soup at prices that encourage generous eating.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanwolgwan&center=37.5377,126.9962"
     },
     {
       "name": "Hapcheon Gukbapjip",
@@ -810,7 +898,8 @@
         126.9133
       ],
       "desc": "Traditional gukbap; Bib Gourmand; Hongdae's comfort food",
-      "longDesc": "A regional dwaeji-gukbap specialist, bringing authentic regional flavors to the casual dining scene."
+      "longDesc": "A regional dwaeji-gukbap specialist, bringing authentic regional flavors to the casual dining scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hapcheon%20Gukbapjip&center=37.5514,126.9133"
     },
     {
       "name": "ARP",
@@ -819,7 +908,8 @@
         126.994
       ],
       "desc": "Vegan; Bib Gourmand; excellent dining experience",
-      "longDesc": "A refreshing vegan spot proving plant-based Korean cuisine can be flavorful, satisfying, and genuinely delicious."
+      "longDesc": "A refreshing vegan spot proving plant-based Korean cuisine can be flavorful, satisfying, and genuinely delicious.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=ARP&center=37.5348,126.994"
     },
     {
       "name": "Haemok",
@@ -828,7 +918,8 @@
         126.9935
       ],
       "desc": "Japanese (Unagi); Bib Gourmand",
-      "longDesc": "A Japanese unagi specialist in the Gumi region, offering precisely grilled eel in a traditional intimate setting."
+      "longDesc": "A Japanese unagi specialist in the Gumi region, offering precisely grilled eel in a traditional intimate setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haemok&center=37.5223,126.9935"
     },
     {
       "name": "Zest",
@@ -837,7 +928,8 @@
         126.9154
       ],
       "desc": "Premium cocktails; Asia's 50 Best Bars; Yeouida's elegant lounge",
-      "longDesc": "A cutting-edge cocktail bar ranking in Asia's 50 Best, delivering craft cocktails with refined technique and creativity."
+      "longDesc": "A cutting-edge cocktail bar ranking in Asia's 50 Best, delivering craft cocktails with refined technique and creativity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zest&center=37.5309,126.9154"
     },
     {
       "name": "Bar Cham",
@@ -846,7 +938,8 @@
         126.9984
       ],
       "desc": "Artisanal cocktails; Asia's 50 Best Bars; Itaewon's craft hideaway",
-      "longDesc": "A sophisticated cocktail establishment recognized in Asia's 50 Best for innovative drinks and expert mixology."
+      "longDesc": "A sophisticated cocktail establishment recognized in Asia's 50 Best for innovative drinks and expert mixology.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Cham&center=37.5248,126.9984"
     },
     {
       "name": "Pine & Co",
@@ -855,7 +948,8 @@
         126.9873
       ],
       "desc": "Craft cocktails; World's 50 Best Bars; Itaewon's intimate bar",
-      "longDesc": "A cocktail destination in the World's 50 Best 51-100 range, known for creative drinks in an inviting atmosphere."
+      "longDesc": "A cocktail destination in the World's 50 Best 51-100 range, known for creative drinks in an inviting atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pine%20%26%20Co&center=37.538,126.9873"
     },
     {
       "name": "Soko",
@@ -864,7 +958,8 @@
         126.9183
       ],
       "desc": "Signature cocktails; World's 50 Best Bars; Hongdae's eclectic space",
-      "longDesc": "A recognized cocktail bar blending creativity with technical skill, delivering memorable drinks in Daegu's growing bar scene."
+      "longDesc": "A recognized cocktail bar blending creativity with technical skill, delivering memorable drinks in Daegu's growing bar scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soko&center=37.5593,126.9183"
     },
     {
       "name": "Gong Gan",
@@ -873,7 +968,8 @@
         126.9327
       ],
       "desc": "Natural wine cocktails; World's 50 Best; Yeouida's underground bar",
-      "longDesc": "A cocktail establishment in Gangneung ranking in the World's 50 Best 51-100, bringing craft cocktails to a mountain town."
+      "longDesc": "A cocktail establishment in Gangneung ranking in the World's 50 Best 51-100, bringing craft cocktails to a mountain town.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gong%20Gan&center=37.5224,126.9327"
     },
     {
       "name": "Le Chamber",
@@ -882,7 +978,8 @@
         126.9869
       ],
       "desc": "Cocktail Bar; Speakeasy-style; excellent dining experience",
-      "longDesc": "A speakeasy-style cocktail bar offering an intimate, secretive vibe with well-crafted classic and creative drinks."
+      "longDesc": "A speakeasy-style cocktail bar offering an intimate, secretive vibe with well-crafted classic and creative drinks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Chamber&center=37.5754,126.9869"
     },
     {
       "name": "Alice Cheongdam",
@@ -891,16 +988,18 @@
         126.9985
       ],
       "desc": "Cocktail Bar; Tatler-listed; excellent dining experience",
-      "longDesc": "A fashionable cocktail bar beloved by Seoul's design-conscious crowd, featured in Tatler for its trendy aesthetic and drinks."
+      "longDesc": "A fashionable cocktail bar beloved by Seoul's design-conscious crowd, featured in Tatler for its trendy aesthetic and drinks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Cheongdam&center=37.5407,126.9985"
     },
     {
-      "name": "Guksi Teumeong (\uad6d\uc2dc\ud2b8\uba4d)",
+      "name": "Guksi Teumeong (국시트멍)",
       "coord": [
         37.5327,
         126.9859
       ],
       "desc": "Jeju Pork Noodle Soup; Chef-recommended gogi-guksu (pork noodle soup)",
-      "longDesc": "A chef-recommended local spot on Jeju serving the island's signature gogi-guksu (pork noodle soup) with real soul."
+      "longDesc": "A chef-recommended local spot on Jeju serving the island's signature gogi-guksu (pork noodle soup) with real soul.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Guksi%20Teumeong%20%28%EA%B5%AD%EC%8B%9C%ED%8A%B8%EB%A9%8D%29&center=37.5327,126.9859"
     },
     {
       "name": "La Yeon",
@@ -909,7 +1008,8 @@
         126.9979
       ],
       "desc": "MICHELIN 2-star, Korean kaiseki fine dining, The Shilla Seoul",
-      "longDesc": "An elegant two-star Korean fine dining restaurant showcasing seasonal ingredients and classical techniques within a serene Shilla setting."
+      "longDesc": "An elegant two-star Korean fine dining restaurant showcasing seasonal ingredients and classical techniques within a serene Shilla setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Yeon&center=37.5313,126.9979"
     },
     {
       "name": "Muoki",
@@ -918,7 +1018,8 @@
         126.9936
       ],
       "desc": "MICHELIN 1-star Korean BBQ, Yongsan neighborhood gem",
-      "longDesc": "Intimate premium Korean BBQ where grilling becomes theater, elevating simple cuts to an art form with expert table service."
+      "longDesc": "Intimate premium Korean BBQ where grilling becomes theater, elevating simple cuts to an art form with expert table service.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Muoki&center=37.5317,126.9936"
     },
     {
       "name": "Tutoiement",
@@ -927,7 +1028,8 @@
         126.9966
       ],
       "desc": "MICHELIN 1-star modern cuisine, Seocho neighborhood",
-      "longDesc": "A chef-driven contemporary restaurant where refined technique and locally sourced ingredients create surprising, memorable dishes."
+      "longDesc": "A chef-driven contemporary restaurant where refined technique and locally sourced ingredients create surprising, memorable dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tutoiement&center=37.5295,126.9966"
     },
     {
       "name": "Soul",
@@ -936,7 +1038,8 @@
         127.0043
       ],
       "desc": "Modern Korean, artisanal cocktails, creative atmosphere",
-      "longDesc": "A trendy restaurant celebrating Korean heritage through modern plating and creative cocktails, perfect for design-conscious diners."
+      "longDesc": "A trendy restaurant celebrating Korean heritage through modern plating and creative cocktails, perfect for design-conscious diners.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soul&center=37.5332,127.0043"
     },
     {
       "name": "Escondido",
@@ -945,7 +1048,8 @@
         127.0268
       ],
       "desc": "Latin cuisine, Seoul's most exciting international neighbor",
-      "longDesc": "Seoul's best Latin American restaurant, bringing vibrant Peruvian and Mexican flavors to Korea's cosmopolitan dining scene."
+      "longDesc": "Seoul's best Latin American restaurant, bringing vibrant Peruvian and Mexican flavors to Korea's cosmopolitan dining scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Escondido&center=37.5185,127.0268"
     },
     {
       "name": "Soseoul Hannam",
@@ -954,16 +1058,18 @@
         127.0003
       ],
       "desc": "Korean Contemporary, MICHELIN 1-star; modern",
-      "longDesc": "Korean Contemporary MICHELIN 1-star; modern Korean"
+      "longDesc": "Korean Contemporary MICHELIN 1-star; modern Korean",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soseoul%20Hannam&center=37.5292,127.0003"
     },
     {
-      "name": "L'Amiti\u00e9",
+      "name": "L'Amitié",
       "coord": [
         37.5257,
         126.9972
       ],
       "desc": "French, MICHELIN 1-star; classic",
-      "longDesc": "French MICHELIN 1-star; classic French"
+      "longDesc": "French MICHELIN 1-star; classic French",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Amiti%C3%A9&center=37.5257,126.9972"
     },
     {
       "name": "Buchon Yukhoe",
@@ -972,16 +1078,18 @@
         127.0049
       ],
       "desc": "Yukhoe (raw beef) + Bibimbap, Bib Gourmand; iconic",
-      "longDesc": "Yukhoe (raw beef) + Bibimbap Bib Gourmand; iconic market stop"
+      "longDesc": "Yukhoe (raw beef) + Bibimbap Bib Gourmand; iconic market stop",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Buchon%20Yukhoe&center=37.5344,127.0049"
     },
     {
-      "name": "Mr. Ahn\u2019s Craft Makgeolli",
+      "name": "Mr. Ahn’s Craft Makgeolli",
       "coord": [
         37.5324,
         126.9872
       ],
       "desc": "Makgeolli Bar + Korean Plates, MICHELIN-selected; makgeolli pairing",
-      "longDesc": "Makgeolli Bar + Korean Plates MICHELIN-selected; makgeolli pairing focus"
+      "longDesc": "Makgeolli Bar + Korean Plates MICHELIN-selected; makgeolli pairing focus",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Ahn%E2%80%99s%20Craft%20Makgeolli&center=37.5324,126.9872"
     },
     {
       "name": "Woo Lae Oak (Woo Lae Oak)",
@@ -990,7 +1098,8 @@
         126.983
       ],
       "desc": "Bulgogi + Naengmyeon, MICHELIN-listed; classic institution",
-      "longDesc": "Bulgogi + Naengmyeon MICHELIN-listed; classic institution"
+      "longDesc": "Bulgogi + Naengmyeon MICHELIN-listed; classic institution",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Woo%20Lae%20Oak%20%28Woo%20Lae%20Oak%29&center=37.5389,126.983"
     },
     {
       "name": "Jin Jin",
@@ -999,7 +1108,8 @@
         126.9888
       ],
       "desc": "Chinese (Korean-style), Michelin-recommended; great for",
-      "longDesc": "Chinese (Korean-style) Michelin-recommended; great for groups/families"
+      "longDesc": "Chinese (Korean-style) Michelin-recommended; great for groups/families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jin%20Jin&center=37.5378,126.9888"
     }
   ],
   "experiences": [
@@ -1010,7 +1120,8 @@
         126.9164
       ],
       "desc": "History & Culture; Arrive early",
-      "longDesc": "Seoul's grandest palace comes alive during the colorful changing-of-the-guard ceremony, offering a magical glimpse into royal history\u2014arrive early to secure a front-row spot."
+      "longDesc": "Seoul's grandest palace comes alive during the colorful changing-of-the-guard ceremony, offering a magical glimpse into royal history—arrive early to secure a front-row spot.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyeongbokgung%20Palace%20%2B%20Changing%20of%20the%20Guard&center=37.5177,126.9164"
     },
     {
       "name": "Changdeokgung Palace & Secret Garden",
@@ -1019,7 +1130,8 @@
         126.9191
       ],
       "desc": "History & Culture; UNESCO palace complex",
-      "longDesc": "A UNESCO palace complex with a serene, hidden garden perfect for families wanting to explore royal grounds away from the heaviest crowds."
+      "longDesc": "A UNESCO palace complex with a serene, hidden garden perfect for families wanting to explore royal grounds away from the heaviest crowds.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Changdeokgung%20Palace%20%26%20Secret%20Garden&center=37.5346,126.9191"
     },
     {
       "name": "Changgyeonggung Palace",
@@ -1028,7 +1140,8 @@
         126.9319
       ],
       "desc": "History & Culture; Often quieter",
-      "longDesc": "A quieter alternative palace offering authentic palace architecture and history without the tourist masses, ideal for families preferring a peaceful experience."
+      "longDesc": "A quieter alternative palace offering authentic palace architecture and history without the tourist masses, ideal for families preferring a peaceful experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Changgyeonggung%20Palace&center=37.5303,126.9319"
     },
     {
       "name": "Bukchon Hanok Village",
@@ -1037,7 +1150,8 @@
         126.916
       ],
       "desc": "Neighborhood; Traditional hanok lanes",
-      "longDesc": "Traditional hanok houses line picturesque lanes in Seoul's oldest neighborhood, creating photogenic scenes and immersive cultural atmosphere."
+      "longDesc": "Traditional hanok houses line picturesque lanes in Seoul's oldest neighborhood, creating photogenic scenes and immersive cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bukchon%20Hanok%20Village&center=37.5246,126.916"
     },
     {
       "name": "Insadong (Tea houses + crafts)",
@@ -1046,7 +1160,8 @@
         126.9149
       ],
       "desc": "Culture & Shopping; Souvenirs + traditional snacks",
-      "longDesc": "A charming cultural district packed with traditional tea houses, craft galleries, and artisan shops selling authentic Korean souvenirs and snacks."
+      "longDesc": "A charming cultural district packed with traditional tea houses, craft galleries, and artisan shops selling authentic Korean souvenirs and snacks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Insadong%20%28Tea%20houses%20%2B%20crafts%29&center=37.5252,126.9149"
     },
     {
       "name": "Jogyesa Temple",
@@ -1055,7 +1170,8 @@
         126.9333
       ],
       "desc": "Temple; Colorful lanterns; must-see attraction",
-      "longDesc": "A vibrant Buddhist temple famous for its magnificent colorful lanterns and active spiritual community, welcoming visitors warmly."
+      "longDesc": "A vibrant Buddhist temple famous for its magnificent colorful lanterns and active spiritual community, welcoming visitors warmly.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jogyesa%20Temple&center=37.5302,126.9333"
     },
     {
       "name": "Jongmyo Shrine",
@@ -1064,7 +1180,8 @@
         126.9365
       ],
       "desc": "History & Culture; Deep-dive Joseon history",
-      "longDesc": "A deep-dive into Joseon dynasty history and ancestor veneration, offering insight into Korea's ancient royal traditions."
+      "longDesc": "A deep-dive into Joseon dynasty history and ancestor veneration, offering insight into Korea's ancient royal traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jongmyo%20Shrine&center=37.5218,126.9365"
     },
     {
       "name": "Han River Picnic at Banpo Bridge",
@@ -1073,7 +1190,8 @@
         126.9147
       ],
       "desc": "Outdoors; Picnic + people-watching",
-      "longDesc": "A quintessential Seoul experience combining riverside picnics with people-watching and the stunning nighttime fountain show."
+      "longDesc": "A quintessential Seoul experience combining riverside picnics with people-watching and the stunning nighttime fountain show.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20River%20Picnic%20at%20Banpo%20Bridge&center=37.528,126.9147"
     },
     {
       "name": "Seoul Forest",
@@ -1082,7 +1200,8 @@
         126.9251
       ],
       "desc": "Park; Big park + deer enclosure",
-      "longDesc": "A expansive park with deer enclosures, wide paths perfect for strollers, playgrounds, and peaceful forests\u2014ideal for family outdoor time."
+      "longDesc": "A expansive park with deer enclosures, wide paths perfect for strollers, playgrounds, and peaceful forests—ideal for family outdoor time.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Forest&center=37.5348,126.9251"
     },
     {
       "name": "Cheongdam Luxury Street",
@@ -1091,7 +1210,8 @@
         126.925
       ],
       "desc": "Shopping; Flagship stores + high design",
-      "longDesc": "Seoul's premier high-design shopping district featuring flagship boutiques and architectural landmarks, perfect for design-focused families."
+      "longDesc": "Seoul's premier high-design shopping district featuring flagship boutiques and architectural landmarks, perfect for design-focused families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cheongdam%20Luxury%20Street&center=37.5276,126.925"
     },
     {
       "name": "Garosu-gil (Sinsa)",
@@ -1099,17 +1219,19 @@
         37.5249,
         126.9229
       ],
-      "desc": "Shopping & Caf\u00e9s; Tree-lined street",
-      "longDesc": "A tree-lined shopping street combining fashion boutiques, art galleries, and charming caf\u00e9s in an effortlessly cool atmosphere."
+      "desc": "Shopping & Cafés; Tree-lined street",
+      "longDesc": "A tree-lined shopping street combining fashion boutiques, art galleries, and charming cafés in an effortlessly cool atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Garosu-gil%20%28Sinsa%29&center=37.5249,126.9229"
     },
     {
-      "name": "Seongsu (Concept stores + caf\u00e9s)",
+      "name": "Seongsu (Concept stores + cafés)",
       "coord": [
         37.5181,
         126.9306
       ],
-      "desc": "Neighborhood; Industrial-chic caf\u00e9s, pop-ups, and people-watching",
-      "longDesc": "An industrial-chic neighborhood of concept stores, pop-up galleries, and design-forward caf\u00e9s where creative energy pulses through every block."
+      "desc": "Neighborhood; Industrial-chic cafés, pop-ups, and people-watching",
+      "longDesc": "An industrial-chic neighborhood of concept stores, pop-up galleries, and design-forward cafés where creative energy pulses through every block.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seongsu%20%28Concept%20stores%20%2B%20caf%C3%A9s%29&center=37.5181,126.9306"
     },
     {
       "name": "Myeongdong Shopping Street",
@@ -1118,7 +1240,8 @@
         126.9216
       ],
       "desc": "Shopping; Flagships + street food",
-      "longDesc": "Seoul's iconic shopping destination featuring flagship stores, street food vendors, and electric energy that draws families and tourists."
+      "longDesc": "Seoul's iconic shopping destination featuring flagship stores, street food vendors, and electric energy that draws families and tourists.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Myeongdong%20Shopping%20Street&center=37.5144,126.9216"
     },
     {
       "name": "Shinsegae Department Store LED Billboard",
@@ -1127,7 +1250,8 @@
         126.9144
       ],
       "desc": "Shopping & Design; Year-round photo spot",
-      "longDesc": "An architectural marvel turned photo-op, Seoul's most Instagrammable billboard lighting up the streetscape with immense visual impact."
+      "longDesc": "An architectural marvel turned photo-op, Seoul's most Instagrammable billboard lighting up the streetscape with immense visual impact.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shinsegae%20Department%20Store%20LED%20Billboard&center=37.5172,126.9144"
     },
     {
       "name": "Olive Young (K-beauty haul)",
@@ -1135,8 +1259,9 @@
         37.5362,
         126.9233
       ],
-      "desc": "Shopping; Flagship is huge\u2014use neighborhood branches if crowded",
-      "longDesc": "A sprawling K-beauty supermarket where families can explore Korea's booming skincare and cosmetic innovations at competitive prices."
+      "desc": "Shopping; Flagship is huge—use neighborhood branches if crowded",
+      "longDesc": "A sprawling K-beauty supermarket where families can explore Korea's booming skincare and cosmetic innovations at competitive prices.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Young%20%28K-beauty%20haul%29&center=37.5362,126.9233"
     },
     {
       "name": "Gwangjang Market Street Food Crawl",
@@ -1145,7 +1270,8 @@
         126.9192
       ],
       "desc": "Food; Taste classic snacks + market energy",
-      "longDesc": "A lively traditional market bursting with street food vendors serving everything from bindaetteok to mayak gimbap in an authentic market atmosphere."
+      "longDesc": "A lively traditional market bursting with street food vendors serving everything from bindaetteok to mayak gimbap in an authentic market atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwangjang%20Market%20Street%20Food%20Crawl&center=37.525,126.9192"
     },
     {
       "name": "Cafe Onion Seongsu",
@@ -1154,7 +1280,8 @@
         127.0332
       ],
       "desc": "Coffee & Bakery; Signature pastries",
-      "longDesc": "A beloved caf\u00e9 with signature pastries and excellent coffee, set in the artsy Seongsu neighborhood perfect for a leisurely break."
+      "longDesc": "A beloved café with signature pastries and excellent coffee, set in the artsy Seongsu neighborhood perfect for a leisurely break.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Onion%20Seongsu&center=37.5231,127.0332"
     },
     {
       "name": "Daelim Warehouse (Seongsu)",
@@ -1162,8 +1289,9 @@
         37.5349,
         126.9231
       ],
-      "desc": "Coffee & Brunch; Industrial caf\u00e9 icon",
-      "longDesc": "A warehouse-converted caf\u00e9 icon with soaring ceilings and industrial charm, serving excellent coffee and brunch."
+      "desc": "Coffee & Brunch; Industrial café icon",
+      "longDesc": "A warehouse-converted café icon with soaring ceilings and industrial charm, serving excellent coffee and brunch.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Daelim%20Warehouse%20%28Seongsu%29&center=37.5349,126.9231"
     },
     {
       "name": "Center Coffee (Seongsu)",
@@ -1172,7 +1300,8 @@
         126.9259
       ],
       "desc": "Coffee; Specialty coffee; must-see attraction",
-      "longDesc": "A specialty coffee roastery and caf\u00e9 in the creative Seongsu district, perfect for coffee-loving families."
+      "longDesc": "A specialty coffee roastery and café in the creative Seongsu district, perfect for coffee-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Center%20Coffee%20%28Seongsu%29&center=37.5282,126.9259"
     },
     {
       "name": "Seoul Coffee Shops (design route)",
@@ -1180,8 +1309,9 @@
         37.5336,
         126.936
       ],
-      "desc": "Coffee Culture; Curated list of standout caf\u00e9s",
-      "longDesc": "A curated exploration of Seoul's standout caf\u00e9s, each offering distinct design aesthetics and excellent coffee."
+      "desc": "Coffee Culture; Curated list of standout cafés",
+      "longDesc": "A curated exploration of Seoul's standout cafés, each offering distinct design aesthetics and excellent coffee.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Coffee%20Shops%20%28design%20route%29&center=37.5336,126.936"
     },
     {
       "name": "Hongdae Street Performances",
@@ -1190,7 +1320,8 @@
         126.9223
       ],
       "desc": "Nightlife; Buskers + youthful energy",
-      "longDesc": "A vibrant neighborhood filled with buskers, street performers, and youthful creative energy\u2014perfect for families seeking lively atmosphere."
+      "longDesc": "A vibrant neighborhood filled with buskers, street performers, and youthful creative energy—perfect for families seeking lively atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hongdae%20Street%20Performances&center=37.5326,126.9223"
     },
     {
       "name": "Baseball Game (KBO)",
@@ -1199,7 +1330,8 @@
         126.9146
       ],
       "desc": "Sports; Family-friendly atmosphere",
-      "longDesc": "A family-friendly Korean baseball game combines lively crowd energy, stadium food, and exciting sports action."
+      "longDesc": "A family-friendly Korean baseball game combines lively crowd energy, stadium food, and exciting sports action.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball%20Game%20%28KBO%29&center=37.5211,126.9146"
     },
     {
       "name": "Frieze Seoul / Art Fair Season",
@@ -1208,7 +1340,8 @@
         126.937
       ],
       "desc": "Arts; Big contemporary art moment each year (timing matters)",
-      "longDesc": "Seoul's annual contemporary art fair draws galleries from around the world, creating an exciting moment for art-loving families."
+      "longDesc": "Seoul's annual contemporary art fair draws galleries from around the world, creating an exciting moment for art-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frieze%20Seoul%20/%20Art%20Fair%20Season&center=37.5373,126.937"
     },
     {
       "name": "Sulwhasoo Spa (luxury skincare spa)",
@@ -1217,7 +1350,8 @@
         126.9212
       ],
       "desc": "Wellness; High-end Korean skincare treatments",
-      "longDesc": "A high-end Korean skincare spa using the Sulwhasoo brand, offering traditional Korean beauty treatments in a luxurious setting."
+      "longDesc": "A high-end Korean skincare spa using the Sulwhasoo brand, offering traditional Korean beauty treatments in a luxurious setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sulwhasoo%20Spa%20%28luxury%20skincare%20spa%29&center=37.5363,126.9212"
     },
     {
       "name": "SPA 1899 (ginseng spa)",
@@ -1226,7 +1360,8 @@
         126.9219
       ],
       "desc": "Wellness; Korean ginseng-focused spa experience",
-      "longDesc": "A ginseng-focused wellness spa experience showcasing Korea's traditional herbal traditions in a relaxing, therapeutic environment."
+      "longDesc": "A ginseng-focused wellness spa experience showcasing Korea's traditional herbal traditions in a relaxing, therapeutic environment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SPA%201899%20%28ginseng%20spa%29&center=37.5343,126.9219"
     },
     {
       "name": "Haeundae Beach",
@@ -1235,7 +1370,8 @@
         126.9334
       ],
       "desc": "Beach; Classic urban beach; must-see attraction",
-      "longDesc": "Busan's classic urban beach offering sandy shores, beachside promenades, and countless seaside caf\u00e9s and restaurants."
+      "longDesc": "Busan's classic urban beach offering sandy shores, beachside promenades, and countless seaside cafés and restaurants.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haeundae%20Beach&center=37.5216,126.9334"
     },
     {
       "name": "Dalmaji-gil (Haeundae hillside road)",
@@ -1243,8 +1379,9 @@
         37.5234,
         126.9291
       ],
-      "desc": "Scenic Drive/Walk; Caf\u00e9s + galleries with sea views",
-      "longDesc": "A scenic coastal drive lined with caf\u00e9s and galleries offering sea views and creative small shops."
+      "desc": "Scenic Drive/Walk; Cafés + galleries with sea views",
+      "longDesc": "A scenic coastal drive lined with cafés and galleries offering sea views and creative small shops.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dalmaji-gil%20%28Haeundae%20hillside%20road%29&center=37.5234,126.9291"
     },
     {
       "name": "Marine City Night Skyline",
@@ -1253,7 +1390,8 @@
         126.9254
       ],
       "desc": "Views; Skyscraper-lit waterfront",
-      "longDesc": "A spectacular nighttime view of Busan's modern skyscrapers illuminated against the dark sea, creating a mesmerizing urban waterfront scene."
+      "longDesc": "A spectacular nighttime view of Busan's modern skyscrapers illuminated against the dark sea, creating a mesmerizing urban waterfront scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Marine%20City%20Night%20Skyline&center=37.5327,126.9254"
     },
     {
       "name": "UN Memorial Cemetery in Korea",
@@ -1262,7 +1400,8 @@
         126.9342
       ],
       "desc": "History; Only UN-designated cemetery",
-      "longDesc": "The world's only UN-designated cemetery, honoring international soldiers and offering profound historical context."
+      "longDesc": "The world's only UN-designated cemetery, honoring international soldiers and offering profound historical context.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=UN%20Memorial%20Cemetery%20in%20Korea&center=37.5163,126.9342"
     },
     {
       "name": "Naengmyeon Trio: Damiok / 100.1 / Buda Myeonoak",
@@ -1270,8 +1409,9 @@
         37.5144,
         126.9196
       ],
-      "desc": "Food; Taste Busan\u2019s cold-noodle scene across top picks",
-      "longDesc": "A culinary tour across Busan's best cold noodle specialists, each bringing its own technique and flavor personality."
+      "desc": "Food; Taste Busan’s cold-noodle scene across top picks",
+      "longDesc": "A culinary tour across Busan's best cold noodle specialists, each bringing its own technique and flavor personality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Naengmyeon%20Trio%3A%20Damiok%20/%20100.1%20/%20Buda%20Myeonoak&center=37.5144,126.9196"
     },
     {
       "name": "Haeundae Hotel Lounge for Views",
@@ -1280,7 +1420,8 @@
         126.9198
       ],
       "desc": "Nightlife; Ocean-view cocktails at hotel lounges",
-      "longDesc": "Hotel lounges along Haeundae offer ocean-view cocktails and refined ambiance for a sophisticated evening."
+      "longDesc": "Hotel lounges along Haeundae offer ocean-view cocktails and refined ambiance for a sophisticated evening.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haeundae%20Hotel%20Lounge%20for%20Views&center=37.5362,126.9198"
     },
     {
       "name": "Jeju: Dongmun Traditional Market",
@@ -1289,7 +1430,8 @@
         126.9275
       ],
       "desc": "Market; Great near-airport market for snacks + gifts",
-      "longDesc": "A lively market near the airport perfect for grabbing final snacks and authentic gifts before departure."
+      "longDesc": "A lively market near the airport perfect for grabbing final snacks and authentic gifts before departure.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Dongmun%20Traditional%20Market&center=37.5166,126.9275"
     },
     {
       "name": "Jeju: Hallasan Hiking Day",
@@ -1297,8 +1439,9 @@
         37.5239,
         126.914
       ],
-      "desc": "Hiking; Korea\u2019s highest peak; must-see attraction",
-      "longDesc": "A challenging hike to Korea's highest peak through diverse volcanic landscapes, rewarding families with panoramic island views."
+      "desc": "Hiking; Korea’s highest peak; must-see attraction",
+      "longDesc": "A challenging hike to Korea's highest peak through diverse volcanic landscapes, rewarding families with panoramic island views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Hallasan%20Hiking%20Day&center=37.5239,126.914"
     },
     {
       "name": "Jeju: Volcanic Landscapes + Lava Tubes",
@@ -1307,7 +1450,8 @@
         126.9327
       ],
       "desc": "Nature; Explore volcanic geology and lava tube systems",
-      "longDesc": "Explore Jeju's unique volcanic geology through lava tubes and rocky formations, understanding the island's dramatic geological story."
+      "longDesc": "Explore Jeju's unique volcanic geology through lava tubes and rocky formations, understanding the island's dramatic geological story.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Volcanic%20Landscapes%20%2B%20Lava%20Tubes&center=37.5258,126.9327"
     },
     {
       "name": "Jeju: Quiet Cabin Retreat (Egattoc / forest cabins)",
@@ -1316,7 +1460,8 @@
         126.9283
       ],
       "desc": "Design & Nature; Minimalist cabins immersed in forest",
-      "longDesc": "Minimalist forest cabins offering peaceful retreat immersed in nature, perfect for families seeking quiet restorative time."
+      "longDesc": "Minimalist forest cabins offering peaceful retreat immersed in nature, perfect for families seeking quiet restorative time.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Quiet%20Cabin%20Retreat%20%28Egattoc%20/%20forest%20cabins%29&center=37.5345,126.9283"
     },
     {
       "name": "Jeju: Signature Pork Noodle Soup (gogi-guksu)",
@@ -1324,8 +1469,9 @@
         37.5304,
         126.9167
       ],
-      "desc": "Food; Try Jeju\u2019s signature noodle soup at a local favorite",
-      "longDesc": "Jeju's iconic dish\u2014tender pork noodles in savory broth\u2014captures island flavors in humble, soul-satisfying bowls."
+      "desc": "Food; Try Jeju’s signature noodle soup at a local favorite",
+      "longDesc": "Jeju's iconic dish—tender pork noodles in savory broth—captures island flavors in humble, soul-satisfying bowls.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Signature%20Pork%20Noodle%20Soup%20%28gogi-guksu%29&center=37.5304,126.9167"
     },
     {
       "name": "Jeju Waterfalls Day (Seogwipo)",
@@ -1334,7 +1480,8 @@
         126.915
       ],
       "desc": "Nature; Short walks to waterfalls",
-      "longDesc": "Easy, scenic walks to beautiful waterfalls surrounded by lush forest, perfect for families seeking manageable nature time."
+      "longDesc": "Easy, scenic walks to beautiful waterfalls surrounded by lush forest, perfect for families seeking manageable nature time.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%20Waterfalls%20Day%20%28Seogwipo%29&center=37.5232,126.915"
     },
     {
       "name": "Jeju: Slow Coastal Drive + Viewpoints",
@@ -1342,8 +1489,9 @@
         37.5339,
         126.93
       ],
-      "desc": "Scenic Drive; Build a flexible loop around the island\u2019s coasts",
-      "longDesc": "A flexible loop around Jeju's coasts with scenic pull-offs, offering flexibility and stunning sea views at every turn."
+      "desc": "Scenic Drive; Build a flexible loop around the island’s coasts",
+      "longDesc": "A flexible loop around Jeju's coasts with scenic pull-offs, offering flexibility and stunning sea views at every turn.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Slow%20Coastal%20Drive%20%2B%20Viewpoints&center=37.5339,126.93"
     },
     {
       "name": "Seochon Neighborhood Stroll",
@@ -1352,7 +1500,8 @@
         126.9316
       ],
       "desc": "Hanok village, traditional home architecture, cafes and galleries",
-      "longDesc": "A charming traditional Korean neighborhood filled with restored hanok houses, independent galleries, bookshops, and cozy tea rooms."
+      "longDesc": "A charming traditional Korean neighborhood filled with restored hanok houses, independent galleries, bookshops, and cozy tea rooms.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seochon%20Neighborhood%20Stroll&center=37.5153,126.9316"
     },
     {
       "name": "Bongeunsa Temple",
@@ -1361,7 +1510,8 @@
         126.9285
       ],
       "desc": "Buddhist temple in COEX Gangnam, peaceful urban sanctuary",
-      "longDesc": "A serene temple oasis within modern Gangnam's shopping district, offering meditation classes and temple stay experiences."
+      "longDesc": "A serene temple oasis within modern Gangnam's shopping district, offering meditation classes and temple stay experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bongeunsa%20Temple&center=37.5195,126.9285"
     },
     {
       "name": "National Museum of Korea",
@@ -1370,7 +1520,8 @@
         126.9291
       ],
       "desc": "World-class museum, Korean art and artifacts, comprehensive",
-      "longDesc": "Seoul's flagship museum showcasing Korean heritage from ancient kingdoms through contemporary art, beautifully curated across multiple levels."
+      "longDesc": "Seoul's flagship museum showcasing Korean heritage from ancient kingdoms through contemporary art, beautifully curated across multiple levels.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Korea&center=37.5233,126.9291"
     },
     {
       "name": "Leeum Samsung Museum of Art",
@@ -1379,7 +1530,8 @@
         126.9177
       ],
       "desc": "Contemporary art museum, three buildings, cutting-edge design",
-      "longDesc": "An architectural marvel housing Korean and international contemporary art, designed by world-renowned architects in an inspiring complex."
+      "longDesc": "An architectural marvel housing Korean and international contemporary art, designed by world-renowned architects in an inspiring complex.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Leeum%20Samsung%20Museum%20of%20Art&center=37.5326,126.9177"
     },
     {
       "name": "War Memorial of Korea",
@@ -1388,7 +1540,8 @@
         126.927
       ],
       "desc": "Korean history museum, armor collections, free admission",
-      "longDesc": "A moving museum documenting Korea's military history with impressive artifact collections and educational exhibits for all ages."
+      "longDesc": "A moving museum documenting Korea's military history with impressive artifact collections and educational exhibits for all ages.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=War%20Memorial%20of%20Korea&center=37.5265,126.927"
     },
     {
       "name": "Dongdaemun Design Plaza (DDP)",
@@ -1397,7 +1550,8 @@
         127.0004
       ],
       "desc": "Zaha Hadid landmark;, All ages",
-      "longDesc": "Zaha Hadid landmark; night photos are great Perfect for All ages"
+      "longDesc": "Zaha Hadid landmark; night photos are great Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongdaemun%20Design%20Plaza%20%28DDP%29&center=37.5648,127.0004"
     },
     {
       "name": "Seoullo 7017 Skygarden",
@@ -1406,7 +1560,8 @@
         126.9361
       ],
       "desc": "Elevated walkway; quick, All ages",
-      "longDesc": "Elevated walkway; quick scenic stroll Perfect for All ages"
+      "longDesc": "Elevated walkway; quick scenic stroll Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoullo%207017%20Skygarden&center=37.5285,126.9361"
     },
     {
       "name": "Cheonggyecheon Stream Night Walk",
@@ -1415,7 +1570,8 @@
         126.9301
       ],
       "desc": "Easy evening stroll;, All ages",
-      "longDesc": "Easy evening stroll; great with stroller Perfect for All ages"
+      "longDesc": "Easy evening stroll; great with stroller Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cheonggyecheon%20Stream%20Night%20Walk&center=37.5218,126.9301"
     },
     {
       "name": "Donuimun Museum Village",
@@ -1423,8 +1579,9 @@
         37.5355,
         126.9155
       ],
-      "desc": "Interactive \u201ctime travel\u201d, Families",
-      "longDesc": "Interactive \u201ctime travel\u201d through modern Korean life Perfect for Families"
+      "desc": "Interactive “time travel”, Families",
+      "longDesc": "Interactive “time travel” through modern Korean life Perfect for Families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Donuimun%20Museum%20Village&center=37.5355,126.9155"
     },
     {
       "name": "N Seoul Tower (Namsan Tower)",
@@ -1433,7 +1590,8 @@
         126.9255
       ],
       "desc": "Classic skyline viewpoint;, All ages",
-      "longDesc": "Classic skyline viewpoint; walk up for a nature break Perfect for All ages"
+      "longDesc": "Classic skyline viewpoint; walk up for a nature break Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=N%20Seoul%20Tower%20%28Namsan%20Tower%29&center=37.53,126.9255"
     },
     {
       "name": "Namsan Park Trails",
@@ -1442,7 +1600,8 @@
         126.9358
       ],
       "desc": "Easy city hike;, All ages; must-see attraction",
-      "longDesc": "Easy city hike; playgrounds + viewpoints Perfect for All ages"
+      "longDesc": "Easy city hike; playgrounds + viewpoints Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Namsan%20Park%20Trails&center=37.5208,126.9358"
     },
     {
       "name": "Ddareungi Bike Ride (Han River)",
@@ -1451,7 +1610,8 @@
         126.9231
       ],
       "desc": "Rent city bikes, Kids 6+ / adults",
-      "longDesc": "Rent city bikes and cruise riverside paths Perfect for Kids 6+ / adults"
+      "longDesc": "Rent city bikes and cruise riverside paths Perfect for Kids 6+ / adults",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ddareungi%20Bike%20Ride%20%28Han%20River%29&center=37.5171,126.9231"
     },
     {
       "name": "Bukhansan National Park Hike",
@@ -1460,7 +1620,8 @@
         126.932
       ],
       "desc": "Trails from easy, Active travelers",
-      "longDesc": "Trails from easy to strenuous; temples + views Perfect for Active travelers"
+      "longDesc": "Trails from easy to strenuous; temples + views Perfect for Active travelers",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bukhansan%20National%20Park%20Hike&center=37.5207,126.932"
     },
     {
       "name": "Olympic Park",
@@ -1469,7 +1630,8 @@
         126.9206
       ],
       "desc": "Wide paths for, All ages; must-see attraction",
-      "longDesc": "Wide paths for strollers; outdoor sculptures Perfect for All ages"
+      "longDesc": "Wide paths for strollers; outdoor sculptures Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympic%20Park&center=37.5171,126.9206"
     },
     {
       "name": "Hannam-dong + Itaewon Browsing",
@@ -1478,7 +1640,8 @@
         126.9192
       ],
       "desc": "Eclectic shops +, All ages; must-see attraction",
-      "longDesc": "Eclectic shops + galleries; easy to combine with Leeum Perfect for All ages"
+      "longDesc": "Eclectic shops + galleries; easy to combine with Leeum Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hannam-dong%20%2B%20Itaewon%20Browsing&center=37.5195,126.9192"
     },
     {
       "name": "COEX Starfield Library",
@@ -1487,7 +1650,8 @@
         126.9327
       ],
       "desc": "Iconic indoor photo, All ages; must-see attraction",
-      "longDesc": "Iconic indoor photo spot; great in bad weather Perfect for All ages"
+      "longDesc": "Iconic indoor photo spot; great in bad weather Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=COEX%20Starfield%20Library&center=37.526,126.9327"
     },
     {
       "name": "Makgeolli Tasting Night",
@@ -1496,7 +1660,8 @@
         126.9141
       ],
       "desc": "Try modern makgeolli, Adults; must-see attraction",
-      "longDesc": "Try modern makgeolli bars for a local twist Perfect for Adults"
+      "longDesc": "Try modern makgeolli bars for a local twist Perfect for Adults",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Makgeolli%20Tasting%20Night&center=37.5325,126.9141"
     }
   ],
   "kidFriendly": [
@@ -1507,7 +1672,8 @@
         127.033267
       ],
       "desc": "0-12; Big open spaces, paths for strollers, playground areas",
-      "longDesc": "Massive open spaces with stroller-friendly paths, playground areas, and deer enclosures create the ideal outdoor playground for young families."
+      "longDesc": "Massive open spaces with stroller-friendly paths, playground areas, and deer enclosures create the ideal outdoor playground for young families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Forest&center=37.543386,127.033267"
     },
     {
       "name": "Han River Picnic (Banpo)",
@@ -1516,7 +1682,8 @@
         127.7927
       ],
       "desc": "0-18; Easy family evening: picnic + river views",
-      "longDesc": "An easy, delightful family evening combining riverside picnics, wide-open spaces, and views\u2014perfect for younger kids."
+      "longDesc": "An easy, delightful family evening combining riverside picnics, wide-open spaces, and views—perfect for younger kids.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20River%20Picnic%20%28Banpo%29&center=36.3214,127.7927"
     },
     {
       "name": "Gyeongbokgung Palace (short loop)",
@@ -1525,7 +1692,8 @@
         126.9755
       ],
       "desc": "0-18; Keep it short for toddlers",
-      "longDesc": "Keep palace visits short and focused for toddlers by exploring just the main grounds rather than attempting extensive touring."
+      "longDesc": "Keep palace visits short and focused for toddlers by exploring just the main grounds rather than attempting extensive touring.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyeongbokgung%20Palace%20%28short%20loop%29&center=37.581,126.9755"
     },
     {
       "name": "Bukchon Hanok Village (early AM)",
@@ -1534,7 +1702,8 @@
         126.9915
       ],
       "desc": "4-18; Photo-friendly lanes; great for families",
-      "longDesc": "Arriving early avoids crowds and makes for easier stroller navigation and uncluttered photo opportunities."
+      "longDesc": "Arriving early avoids crowds and makes for easier stroller navigation and uncluttered photo opportunities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bukchon%20Hanok%20Village%20%28early%20AM%29&center=37.586,126.9915"
     },
     {
       "name": "Gwangjang Market Snack Crawl",
@@ -1543,7 +1712,8 @@
         126.998
       ],
       "desc": "2-18; Pick mild options; great for families",
-      "longDesc": "Kids love the market energy and snack options\u2014steer toward milder, kid-friendly choices like tteokbokki and fish cakes."
+      "longDesc": "Kids love the market energy and snack options—steer toward milder, kid-friendly choices like tteokbokki and fish cakes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwangjang%20Market%20Snack%20Crawl&center=37.5687,126.998"
     },
     {
       "name": "Cafe Onion Seongsu",
@@ -1552,7 +1722,8 @@
         127.058232
       ],
       "desc": "0-18; Big space; great for families",
-      "longDesc": "A large, spacious caf\u00e9 that accommodates families comfortably with good coffee and pastries for parents."
+      "longDesc": "A large, spacious café that accommodates families comfortably with good coffee and pastries for parents.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Onion%20Seongsu&center=37.544714,127.058232"
     },
     {
       "name": "Baseball Game (KBO)",
@@ -1561,7 +1732,8 @@
         126.70393
       ],
       "desc": "All ages; Family-friendly, lively atmosphere",
-      "longDesc": "A lively, family-oriented Korean baseball atmosphere with accessible seating and plenty of stadium food options."
+      "longDesc": "A lively, family-oriented Korean baseball atmosphere with accessible seating and plenty of stadium food options.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball%20Game%20%28KBO%29&center=37.43124,126.70393"
     },
     {
       "name": "Haeundae Beach",
@@ -1570,7 +1742,8 @@
         129.15472
       ],
       "desc": "0-18; Sand play + easy promenade",
-      "longDesc": "Classic beach play with sand, water, and easy promenade walks\u2014a timeless kid-approved experience."
+      "longDesc": "Classic beach play with sand, water, and easy promenade walks—a timeless kid-approved experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haeundae%20Beach&center=35.16,129.15472"
     },
     {
       "name": "Dongmun Traditional Market",
@@ -1579,7 +1752,8 @@
         126.526166
       ],
       "desc": "0-18; Snack stalls + fruit; great for families",
-      "longDesc": "Market snack stalls and fresh fruit stands keep kids entertained while offering authentic food experiences."
+      "longDesc": "Market snack stalls and fresh fruit stands keep kids entertained while offering authentic food experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongmun%20Traditional%20Market&center=33.512744,126.526166"
     },
     {
       "name": "Resort Pool Day (Jungmun)",
@@ -1588,7 +1762,8 @@
         127.734269
       ],
       "desc": "0-12; Low-effort reset day; great for families",
-      "longDesc": "A low-effort reset day at a resort pool offering swimming, relaxation, and built-in entertainment."
+      "longDesc": "A low-effort reset day at a resort pool offering swimming, relaxation, and built-in entertainment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20Pool%20Day%20%28Jungmun%29&center=35.88283,127.734269"
     },
     {
       "name": "Jeju Waterfalls (short walks)",
@@ -1597,7 +1772,8 @@
         126.5865
       ],
       "desc": "0-18; Easy scenic walks; great for families",
-      "longDesc": "Easy, scenic waterfall walks offer manageable nature time and photo opportunities without demanding stamina."
+      "longDesc": "Easy, scenic waterfall walks offer manageable nature time and photo opportunities without demanding stamina.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%20Waterfalls%20%28short%20walks%29&center=33.2435,126.5865"
     },
     {
       "name": "Jeju Volcanic Landscapes",
@@ -1606,7 +1782,8 @@
         126.493274
       ],
       "desc": "All ages; Lava tubes + volcanic scenery (plan logistics)",
-      "longDesc": "Volcanic scenery and lava tubes captivate curious minds, though families should plan logistics for comfortable exploration."
+      "longDesc": "Volcanic scenery and lava tubes captivate curious minds, though families should plan logistics for comfortable exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%20Volcanic%20Landscapes&center=33.495589,126.493274"
     },
     {
       "name": "Donuimun Museum Village",
@@ -1615,7 +1792,8 @@
         126.978
       ],
       "desc": "4-18, Hands-on exhibits about; great for families",
-      "longDesc": "4-18 Hands-on exhibits about modern Korean life"
+      "longDesc": "4-18 Hands-on exhibits about modern Korean life",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Donuimun%20Museum%20Village&center=37.5665,126.978"
     },
     {
       "name": "COEX Starfield Library",
@@ -1624,7 +1802,8 @@
         126.978
       ],
       "desc": "0-18, Quick wow-factor stop;; great for families",
-      "longDesc": "0-18 Quick wow-factor stop; great on rainy days"
+      "longDesc": "0-18 Quick wow-factor stop; great on rainy days",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=COEX%20Starfield%20Library&center=37.5665,126.978"
     },
     {
       "name": "N Seoul Tower",
@@ -1633,7 +1812,8 @@
         126.978
       ],
       "desc": "0-18, Cable car or; great for families",
-      "longDesc": "0-18 Cable car or short hike; kids love the \u201ctop of the city\u201d feel"
+      "longDesc": "0-18 Cable car or short hike; kids love the “top of the city” feel",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=N%20Seoul%20Tower&center=37.5665,126.978"
     },
     {
       "name": "Cheonggyecheon Stream Walk",
@@ -1642,7 +1822,8 @@
         126.978
       ],
       "desc": "0-12, Flat; great for families",
-      "longDesc": "0-12 Flat, stroller-friendly; nice at dusk"
+      "longDesc": "0-12 Flat, stroller-friendly; nice at dusk",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cheonggyecheon%20Stream%20Walk&center=37.5665,126.978"
     },
     {
       "name": "K-pop Pop-ups & Merch Run",
@@ -1650,8 +1831,9 @@
         37.5665,
         126.978
       ],
-      "desc": "8-18, Plan around what\u2019s; great for families",
-      "longDesc": "8-18 Plan around what\u2019s trending; great for tweens/teens"
+      "desc": "8-18, Plan around what’s; great for families",
+      "longDesc": "8-18 Plan around what’s trending; great for tweens/teens",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=K-pop%20Pop-ups%20%26%20Merch%20Run&center=37.5665,126.978"
     },
     {
       "name": "Bukhansan Easy Hike",
@@ -1660,7 +1842,8 @@
         126.978
       ],
       "desc": "6-18, Choose a short; great for families",
-      "longDesc": "6-18 Choose a short trail; great views and nature in the city"
+      "longDesc": "6-18 Choose a short trail; great views and nature in the city",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bukhansan%20Easy%20Hike&center=37.5665,126.978"
     },
     {
       "name": "Gwangalli Beach Night Lights",
@@ -1669,7 +1852,8 @@
         129.0756
       ],
       "desc": "0-18, Bridge lights and; great for families",
-      "longDesc": "0-18 Bridge lights and wide beachfront walk"
+      "longDesc": "0-18 Bridge lights and wide beachfront walk",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwangalli%20Beach%20Night%20Lights&center=35.1796,129.0756"
     },
     {
       "name": "Songdo Cable Car",
@@ -1678,7 +1862,8 @@
         129.0756
       ],
       "desc": "0-18, Short ride over; great for families",
-      "longDesc": "0-18 Short ride over the sea; glass-bottom cabins available"
+      "longDesc": "0-18 Short ride over the sea; glass-bottom cabins available",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Songdo%20Cable%20Car&center=35.1796,129.0756"
     },
     {
       "name": "Amnam Park Trails",
@@ -1687,7 +1872,8 @@
         129.0756
       ],
       "desc": "4-18, Forest trails +; great for families",
-      "longDesc": "4-18 Forest trails + coastal viewpoints"
+      "longDesc": "4-18 Forest trails + coastal viewpoints",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Amnam%20Park%20Trails&center=35.1796,129.0756"
     },
     {
       "name": "Spa Land (Centum City)",
@@ -1696,7 +1882,8 @@
         129.0756
       ],
       "desc": "13-18, Iconic jjimjilbang; best",
-      "longDesc": "13-18 Iconic jjimjilbang; best for teens/adults"
+      "longDesc": "13-18 Iconic jjimjilbang; best for teens/adults",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Spa%20Land%20%28Centum%20City%29&center=35.1796,129.0756"
     }
   ],
   "markets": [
@@ -1707,7 +1894,8 @@
         126.72098
       ],
       "desc": "Traditional Market / Street Food; Bindaetteok, mayak gimbap, tteokbokki",
-      "longDesc": "Seoul's most vibrant traditional market, bursting with street food vendors serving iconic snacks like bindaetteok and mayak gimbap."
+      "longDesc": "Seoul's most vibrant traditional market, bursting with street food vendors serving iconic snacks like bindaetteok and mayak gimbap.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwangjang%20Market&center=37.53899,126.72098"
     },
     {
       "name": "Namdaemun Market",
@@ -1716,7 +1904,8 @@
         126.97484
       ],
       "desc": "Traditional Market; Korean snacks, housewares, gifts",
-      "longDesc": "A sprawling traditional market packed with Korean snacks, souvenirs, housewares, and gifts\u2014a one-stop shop for authentic takeaways."
+      "longDesc": "A sprawling traditional market packed with Korean snacks, souvenirs, housewares, and gifts—a one-stop shop for authentic takeaways.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Namdaemun%20Market&center=37.5571,126.97484"
     },
     {
       "name": "Myeongdong Street Food",
@@ -1725,7 +1914,8 @@
         126.982036
       ],
       "desc": "Night Street Food; Hotteok, skewers, tteokbokki, desserts",
-      "longDesc": "Night street food vendors line this shopping district serving hotteok, skewers, tteokbokki, and desserts in an electrifying atmosphere."
+      "longDesc": "Night street food vendors line this shopping district serving hotteok, skewers, tteokbokki, and desserts in an electrifying atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Myeongdong%20Street%20Food&center=37.563656,126.982036"
     },
     {
       "name": "Mangwon Market",
@@ -1734,16 +1924,18 @@
         126.90605
       ],
       "desc": "Neighborhood Market; Street snacks",
-      "longDesc": "A neighborhood market with street snacks and local flavor, less touristy than downtown markets but no less delicious."
+      "longDesc": "A neighborhood market with street snacks and local flavor, less touristy than downtown markets but no less delicious.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangwon%20Market&center=37.556621,126.90605"
     },
     {
-      "name": "Seongsu Caf\u00e9 Corridor",
+      "name": "Seongsu Café Corridor",
       "coord": [
         37.5505,
         127.0635
       ],
-      "desc": "Caf\u00e9s + Concept Stores; Coffee, pastries (Cafe Onion, Daelim Warehouse)",
-      "longDesc": "A creative caf\u00e9 and concept store corridor featuring specialty coffee and artisan pastries in an artsy neighborhood setting."
+      "desc": "Cafés + Concept Stores; Coffee, pastries (Cafe Onion, Daelim Warehouse)",
+      "longDesc": "A creative café and concept store corridor featuring specialty coffee and artisan pastries in an artsy neighborhood setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seongsu%20Caf%C3%A9%20Corridor&center=37.5505,127.0635"
     },
     {
       "name": "Insadong Ssamziegil + Tea Streets",
@@ -1752,7 +1944,8 @@
         126.98575
       ],
       "desc": "Crafts + Snacks; Traditional teas, sweets, crafts",
-      "longDesc": "A charming shopping complex and surrounding tea district offering traditional teas, sweets, and handcrafted souvenirs."
+      "longDesc": "A charming shopping complex and surrounding tea district offering traditional teas, sweets, and handcrafted souvenirs.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Insadong%20Ssamziegil%20%2B%20Tea%20Streets&center=37.57201,126.98575"
     },
     {
       "name": "Dongmun Traditional Market",
@@ -1761,7 +1954,8 @@
         126.526166
       ],
       "desc": "Traditional Market; Seasonal fruit, seafood, hotteok (look for Yura-Imone)",
-      "longDesc": "Jeju's welcoming traditional market bursting with seasonal fruit, seafood, and specialties like hotteok."
+      "longDesc": "Jeju's welcoming traditional market bursting with seasonal fruit, seafood, and specialties like hotteok.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongmun%20Traditional%20Market&center=33.512744,126.526166"
     },
     {
       "name": "Seogwipo Maeil Olle Market",
@@ -1770,7 +1964,8 @@
         126.56336
       ],
       "desc": "Traditional Market; Jeju tangerines, snacks, souvenirs",
-      "longDesc": "A authentic Jeju market selling tangerines, regional snacks, and thoughtful souvenirs in a local atmosphere."
+      "longDesc": "A authentic Jeju market selling tangerines, regional snacks, and thoughtful souvenirs in a local atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seogwipo%20Maeil%20Olle%20Market&center=33.249251,126.56336"
     },
     {
       "name": "Dongdaemun Night Shopping",
@@ -1779,7 +1974,8 @@
         127.009
       ],
       "desc": "Wholesale Fashion / Night Market, Late-night fashion; quick",
-      "longDesc": "Wholesale Fashion / Night Market Late-night fashion; quick bites nearby"
+      "longDesc": "Wholesale Fashion / Night Market Late-night fashion; quick bites nearby",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongdaemun%20Night%20Shopping&center=37.5675,127.009"
     },
     {
       "name": "Noryangjin Fish Market",
@@ -1788,7 +1984,8 @@
         126.978
       ],
       "desc": "Seafood Market, Live seafood platters;",
-      "longDesc": "Seafood Market Live seafood platters; grilled shellfish"
+      "longDesc": "Seafood Market Live seafood platters; grilled shellfish",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Noryangjin%20Fish%20Market&center=37.5665,126.978"
     },
     {
       "name": "Tongin Market",
@@ -1797,7 +1994,8 @@
         126.978
       ],
       "desc": "Traditional Market, Korean banchan-style snacks",
-      "longDesc": "Traditional Market Korean banchan-style snacks"
+      "longDesc": "Traditional Market Korean banchan-style snacks",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tongin%20Market&center=37.5665,126.978"
     },
     {
       "name": "Euljiro Nogari Alley",
@@ -1806,7 +2004,8 @@
         126.978
       ],
       "desc": "Food Alley, Beer + Korean; food and culture",
-      "longDesc": "Food Alley Beer + Korean bar snacks"
+      "longDesc": "Food Alley Beer + Korean bar snacks",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Euljiro%20Nogari%20Alley&center=37.5665,126.978"
     },
     {
       "name": "Jagalchi Fish Market",
@@ -1815,7 +2014,8 @@
         129.0756
       ],
       "desc": "Seafood Market, Sashimi; food and culture",
-      "longDesc": "Seafood Market Sashimi, grilled shellfish, sea urchin, crab"
+      "longDesc": "Seafood Market Sashimi, grilled shellfish, sea urchin, crab",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jagalchi%20Fish%20Market&center=35.1796,129.0756"
     },
     {
       "name": "Gukje Market",
@@ -1824,7 +2024,8 @@
         129.0756
       ],
       "desc": "Market / Shopping, Street snacks; vintage",
-      "longDesc": "Market / Shopping Street snacks; vintage finds"
+      "longDesc": "Market / Shopping Street snacks; vintage finds",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gukje%20Market&center=35.1796,129.0756"
     },
     {
       "name": "Bupyeong Kkangtong Market",
@@ -1833,7 +2034,8 @@
         129.0756
       ],
       "desc": "Night Market, Hotteok; food and culture",
-      "longDesc": "Night Market Hotteok, tteokbokki, pancakes"
+      "longDesc": "Night Market Hotteok, tteokbokki, pancakes",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bupyeong%20Kkangtong%20Market&center=35.1796,129.0756"
     }
   ],
   "cityCenters": {
