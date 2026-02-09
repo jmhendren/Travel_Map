@@ -148,6 +148,24 @@
         .gen-preview-day-title { font-size: 11px; font-weight: 700; color: #7C3AED; margin-bottom: 4px; }
         .gen-preview-item { font-size: 11px; color: #555; padding: 2px 0; }
         .gen-preview-item .type-badge { display: inline-block; font-size: 10px; font-weight: 600; color: #888; width: 70px; }
+        .gen-profile-bar { display: flex; gap: 6px; margin-bottom: 14px; align-items: center; }
+        .gen-profile-select { flex: 1; padding: 7px 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 11px; font-family: inherit; background: white; }
+        .gen-profile-select:focus { outline: none; border-color: #7C3AED; }
+        .gen-profile-btn { padding: 6px 10px; border: 1.5px solid #7C3AED; background: white; color: #7C3AED; border-radius: 8px; cursor: pointer; font-size: 10px; font-weight: 600; white-space: nowrap; transition: all 0.15s; }
+        .gen-profile-btn:hover { background: #7C3AED; color: white; }
+        .gen-profile-btn.danger { border-color: #DC2626; color: #DC2626; }
+        .gen-profile-btn.danger:hover { background: #DC2626; color: white; }
+        .gen-profile-save-row { display: none; gap: 6px; margin-bottom: 14px; align-items: center; }
+        .gen-profile-save-row.active { display: flex; }
+        .gen-profile-save-input { flex: 1; padding: 7px 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 11px; font-family: inherit; }
+        .gen-profile-save-input:focus { outline: none; border-color: #7C3AED; }
+        .gen-refine-bar { display: flex; gap: 6px; margin-top: 10px; align-items: center; }
+        .gen-refine-input { flex: 1; padding: 8px 12px; border: 1px solid #ddd; border-radius: 8px; font-size: 12px; font-family: inherit; }
+        .gen-refine-input:focus { outline: none; border-color: #7C3AED; }
+        .gen-refine-btn { padding: 8px 14px; border: none; background: #7C3AED; color: white; border-radius: 8px; cursor: pointer; font-size: 11px; font-weight: 600; transition: all 0.15s; white-space: nowrap; }
+        .gen-refine-btn:hover { background: #6D28D9; }
+        .gen-refine-btn:disabled { background: #C4B5FD; cursor: not-allowed; }
+        .gen-refine-hint { font-size: 10px; color: #888; margin-top: 6px; }
         @media (max-width: 768px) {
             .gen-modal { max-width: 95%; padding: 16px; max-height: 80vh; }
         }
@@ -2330,6 +2348,18 @@
         <div class="gen-modal">
             <div class="gen-modal-title">Generate Custom Itinerary</div>
             <div class="gen-modal-subtitle" id="genDestLabel">for this destination</div>
+            <div class="gen-profile-bar">
+                <select class="gen-profile-select" id="genProfileSelect" onchange="loadTravelProfile()">
+                    <option value="">— Select a saved profile —</option>
+                </select>
+                <button class="gen-profile-btn" onclick="showSaveProfileRow()">Save</button>
+                <button class="gen-profile-btn danger" id="genProfileDeleteBtn" onclick="deleteTravelProfile()" style="display:none;">Del</button>
+            </div>
+            <div class="gen-profile-save-row" id="genProfileSaveRow">
+                <input class="gen-profile-save-input" id="genProfileNameInput" placeholder="Profile name, e.g. 'Family with toddler'" />
+                <button class="gen-profile-btn" onclick="saveTravelProfile()">Save</button>
+                <button class="gen-profile-btn" onclick="hideSaveProfileRow()">Cancel</button>
+            </div>
             <div class="gen-field">
                 <label>Trip Duration (days)</label>
                 <input type="number" id="genDays" min="2" max="21" value="7" />
@@ -2379,6 +2409,12 @@
             <div class="gen-field">
                 <label>Special requests or constraints (optional)</label>
                 <textarea id="genConstraints" placeholder="e.g., 'We need nap time 1-3pm', 'vegetarian', 'mobility issues', 'want a day trip to...', 'arriving late on day 1'"></textarea>
+            </div>
+            <div class="gen-field" style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
+                <span style="font-size:11px; font-weight:600; color:#555;">Web search for current info</span>
+                <div class="web-search-toggle">
+                    <button class="web-search-switch" id="genWebSearchToggle" onclick="toggleGenWebSearch()" title="Enable web search for opening hours, seasonal events, etc."></button>
+                </div>
             </div>
             <div id="genPreviewArea" style="display:none;"></div>
             <div id="genError" style="display:none; color:#DC2626; font-size:12px; margin-top:8px; padding:8px; background:#FEF2F2; border-radius:8px;"></div>
@@ -5204,6 +5240,106 @@
         let lastGeneratedItinerary = null;  // Holds preview data before save
         const GEN_COLORS = ['#7C3AED', '#EC4899', '#06B6D4', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6', '#14B8A6'];
 
+        // Travel profile management
+        function getTravelProfiles() {
+            try { return JSON.parse(localStorage.getItem('tripMap_travelProfiles') || '{}'); } catch(e) { return {}; }
+        }
+
+        function populateProfileDropdown() {
+            const select = document.getElementById('genProfileSelect');
+            const profiles = getTravelProfiles();
+            select.innerHTML = '<option value="">— Select a saved profile —</option>';
+            Object.keys(profiles).sort().forEach(name => {
+                const opt = document.createElement('option');
+                opt.value = name;
+                opt.textContent = name;
+                select.appendChild(opt);
+            });
+            document.getElementById('genProfileDeleteBtn').style.display = 'none';
+        }
+
+        function loadTravelProfile() {
+            const select = document.getElementById('genProfileSelect');
+            const name = select.value;
+            const deleteBtn = document.getElementById('genProfileDeleteBtn');
+            if (!name) { deleteBtn.style.display = 'none'; return; }
+            deleteBtn.style.display = '';
+            const profiles = getTravelProfiles();
+            const p = profiles[name];
+            if (!p) return;
+            if (p.days) document.getElementById('genDays').value = p.days;
+            if (p.party) document.getElementById('genParty').value = p.party;
+            if (p.pace) document.getElementById('genPace').value = p.pace;
+            if (p.budget) document.getElementById('genBudget').value = p.budget;
+            if (p.constraints !== undefined) document.getElementById('genConstraints').value = p.constraints;
+            // Set interests
+            document.querySelectorAll('.gen-interest-chip').forEach(chip => {
+                if (p.interests && p.interests.includes(chip.dataset.interest)) {
+                    chip.classList.add('selected');
+                } else {
+                    chip.classList.remove('selected');
+                }
+            });
+            if (p.webSearch !== undefined) {
+                genWebSearch = p.webSearch;
+                const toggle = document.getElementById('genWebSearchToggle');
+                if (toggle) toggle.classList.toggle('active', genWebSearch);
+            }
+        }
+
+        function showSaveProfileRow() {
+            document.getElementById('genProfileSaveRow').classList.add('active');
+            document.getElementById('genProfileNameInput').focus();
+        }
+
+        function hideSaveProfileRow() {
+            document.getElementById('genProfileSaveRow').classList.remove('active');
+            document.getElementById('genProfileNameInput').value = '';
+        }
+
+        function saveTravelProfile() {
+            const nameInput = document.getElementById('genProfileNameInput');
+            const name = nameInput.value.trim();
+            if (!name) { showCopyToast('Please enter a profile name'); return; }
+            const profiles = getTravelProfiles();
+            profiles[name] = {
+                days: parseInt(document.getElementById('genDays').value) || 7,
+                party: document.getElementById('genParty').value,
+                interests: getSelectedInterests(),
+                pace: document.getElementById('genPace').value,
+                budget: document.getElementById('genBudget').value,
+                constraints: document.getElementById('genConstraints').value.trim(),
+                webSearch: genWebSearch || false
+            };
+            try { localStorage.setItem('tripMap_travelProfiles', JSON.stringify(profiles)); } catch(e) {}
+            populateProfileDropdown();
+            document.getElementById('genProfileSelect').value = name;
+            document.getElementById('genProfileDeleteBtn').style.display = '';
+            hideSaveProfileRow();
+            showCopyToast('Profile "' + name + '" saved!');
+        }
+
+        function deleteTravelProfile() {
+            const select = document.getElementById('genProfileSelect');
+            const name = select.value;
+            if (!name) return;
+            if (!confirm('Delete profile "' + name + '"?')) return;
+            const profiles = getTravelProfiles();
+            delete profiles[name];
+            try { localStorage.setItem('tripMap_travelProfiles', JSON.stringify(profiles)); } catch(e) {}
+            populateProfileDropdown();
+            showCopyToast('Profile deleted');
+        }
+
+        let genWebSearch = false;
+
+        function toggleGenWebSearch() {
+            genWebSearch = !genWebSearch;
+            document.getElementById('genWebSearchToggle').classList.toggle('active', genWebSearch);
+        }
+
+        let refineConversation = []; // Tracks multi-turn refinement messages
+
         function openGeneratorModal() {
             if (!activeDestination) {
                 showCopyToast('Please select a destination first');
@@ -5226,6 +5362,10 @@
             document.getElementById('genSubmitBtn').disabled = false;
             document.getElementById('genSubmitBtn').innerHTML = 'Generate Itinerary';
             lastGeneratedItinerary = null;
+            populateProfileDropdown();
+            hideSaveProfileRow();
+            genWebSearch = false;
+            document.getElementById('genWebSearchToggle').classList.remove('active');
             document.getElementById('genOverlay').classList.add('active');
         }
 
@@ -5371,6 +5511,7 @@
             submitBtn.disabled = true;
             submitBtn.innerHTML = '<span class="gen-spinner"></span>Generating...';
 
+            refineConversation = []; // Reset refinement conversation
             const systemPrompt = buildGeneratorSystemPrompt();
             const days = parseInt(document.getElementById('genDays').value) || 7;
 
@@ -5386,12 +5527,18 @@
                         'anthropic-version': '2023-06-01',
                         'anthropic-dangerous-direct-browser-access': 'true'
                     },
-                    body: JSON.stringify({
-                        model: modelId,
-                        max_tokens: maxTokens,
-                        system: systemPrompt,
-                        messages: [{ role: 'user', content: 'Generate the ' + days + '-day itinerary now. Output raw JSON only.' }]
-                    })
+                    body: (function() {
+                        var reqBody = {
+                            model: modelId,
+                            max_tokens: maxTokens,
+                            system: systemPrompt,
+                            messages: [{ role: 'user', content: 'Generate the ' + days + '-day itinerary now. Output raw JSON only.' }]
+                        };
+                        if (genWebSearch) {
+                            reqBody.tools = [{ type: 'web_search_20250305', name: 'web_search', max_uses: 5 }];
+                        }
+                        return JSON.stringify(reqBody);
+                    })()
                 });
 
                 if (!response.ok) {
@@ -5443,23 +5590,9 @@
                 // Store for saving
                 lastGeneratedItinerary = parsed;
 
-                // Render preview
-                let previewHtml = '<div class="gen-preview">';
-                previewHtml += '<div style="font-size:13px;font-weight:700;color:#333;margin-bottom:8px;">' + escapeHtml(parsed.name || 'Generated Itinerary') + '</div>';
-                parsed.days.forEach(day => {
-                    previewHtml += '<div class="gen-preview-day">';
-                    previewHtml += '<div class="gen-preview-day-title">Day ' + day.day + ' \u2014 ' + escapeHtml(day.title || '') + '</div>';
-                    (day.items || []).forEach(item => {
-                        const icon = item.type === 'hotel' ? '\uD83C\uDFE8' : item.type === 'breakfast' ? '\uD83C\uDF73' : item.type === 'lunch' ? '\uD83C\uDF5C' : item.type === 'dinner' ? '\uD83C\uDF77' : item.type === 'nap' ? '\uD83D\uDCA4' : item.type === 'optional' ? '\u2728' : '\uD83D\uDCCD';
-                        const coordStatus = item.coord ? '' : ' <span style="color:#F59E0B;font-size:10px;">(no coords)</span>';
-                        previewHtml += '<div class="gen-preview-item"><span class="type-badge">' + icon + ' ' + escapeHtml(item.type) + '</span> ' + escapeHtml(item.name) + coordStatus + '</div>';
-                    });
-                    previewHtml += '</div>';
-                });
-                previewHtml += '</div>';
+                // Render preview using shared function
+                renderGeneratorPreview(parsed);
 
-                previewArea.innerHTML = previewHtml;
-                previewArea.style.display = 'block';
                 saveBtn.style.display = '';
                 submitBtn.innerHTML = 'Regenerate';
                 submitBtn.disabled = false;
@@ -5550,6 +5683,157 @@
             }
 
             showCopyToast('Itinerary deleted');
+        }
+
+        async function refineGeneratedItinerary() {
+            const input = document.getElementById('genRefineInput');
+            const msg = input.value.trim();
+            if (!msg) return;
+            if (!lastGeneratedItinerary) { showCopyToast('No itinerary to refine'); return; }
+
+            const refineBtn = document.getElementById('genRefineBtn');
+            refineBtn.disabled = true;
+            refineBtn.innerHTML = '<span class="gen-spinner"></span>Refining...';
+            input.disabled = true;
+            const errorDiv = document.getElementById('genError');
+            errorDiv.style.display = 'none';
+
+            try {
+                const dest = destinations[activeDestination];
+                const destName = dest ? dest.name : activeDestination;
+
+                // Build a compact system prompt for refinement
+                let systemPrompt = 'You are a travel itinerary planner helping refine an existing itinerary for ' + destName + '.\n\n';
+                systemPrompt += 'CURRENT ITINERARY:\n' + JSON.stringify(lastGeneratedItinerary, null, 0) + '\n\n';
+
+                // Include available POIs for reference
+                const allPois = [...hotels, ...restaurants, ...experiences, ...kidFriendly, ...markets];
+                const poiNames = allPois.slice(0, 200).map(p => p.name + (p.desc ? ' (' + p.desc + ')' : '')).join(' | ');
+                systemPrompt += 'AVAILABLE PLACES (use these when adding new activities): ' + poiNames + '\n\n';
+
+                systemPrompt += 'RULES:\n';
+                systemPrompt += '- Modify only the parts the user asks about. Keep everything else exactly the same.\n';
+                systemPrompt += '- If user asks to change a specific day, only change that day.\n';
+                systemPrompt += '- If user asks to add/remove activities, adjust accordingly while keeping the itinerary balanced.\n';
+                systemPrompt += '- Maintain hotel, breakfast, lunch, dinner structure each day.\n';
+                systemPrompt += '- Use places from the AVAILABLE PLACES list when possible.\n';
+                systemPrompt += '\nRESPONSE FORMAT: Respond with ONLY the complete updated itinerary as valid JSON (same format as the current itinerary). Include ALL days, not just modified ones. No markdown, no explanation, no code fences.\n';
+                systemPrompt += 'IMPORTANT: Output raw JSON only.';
+
+                // Build conversation messages for multi-turn
+                refineConversation.push({ role: 'user', content: msg });
+
+                const modelId = (typeof getModelId === 'function') ? getModelId() : 'claude-sonnet-4-5-20250929';
+                const maxTokens = modelId.includes('haiku') ? 4096 : 8192;
+
+                const reqBody = {
+                    model: modelId,
+                    max_tokens: maxTokens,
+                    system: systemPrompt,
+                    messages: refineConversation.slice(-6) // Keep last 6 messages for context window management
+                };
+
+                if (genWebSearch) {
+                    reqBody.tools = [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }];
+                }
+
+                const response = await fetch('https://api.anthropic.com/v1/messages', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'x-api-key': chatApiKey,
+                        'anthropic-version': '2023-06-01',
+                        'anthropic-dangerous-direct-browser-access': 'true'
+                    },
+                    body: JSON.stringify(reqBody)
+                });
+
+                if (!response.ok) {
+                    const errData = await response.json().catch(() => ({}));
+                    throw new Error(errData.error?.message || 'API error ' + response.status);
+                }
+
+                const data = await response.json();
+                let text = '';
+                if (data.content) {
+                    data.content.forEach(block => {
+                        if (block.type === 'text') text += block.text;
+                    });
+                }
+                if (!text) throw new Error('Empty response from AI');
+
+                let jsonStr = text.trim();
+                if (jsonStr.startsWith('```')) {
+                    jsonStr = jsonStr.replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '').trim();
+                }
+
+                let parsed;
+                try {
+                    parsed = JSON.parse(jsonStr);
+                } catch(e) {
+                    throw new Error('AI response was not valid JSON. Try rephrasing your request.');
+                }
+
+                if (!parsed.days || !Array.isArray(parsed.days) || parsed.days.length === 0) {
+                    throw new Error('Invalid itinerary structure — no days found');
+                }
+
+                // Look up coordinates
+                parsed.days.forEach(day => {
+                    if (!day.items) day.items = [];
+                    day.items.forEach(item => {
+                        if (!item.coord) item.coord = findCoordForName(item.name);
+                        if (!item.type) item.type = 'sightseeing';
+                    });
+                });
+
+                // Track assistant response for multi-turn
+                refineConversation.push({ role: 'assistant', content: text });
+
+                // Update the stored itinerary
+                lastGeneratedItinerary = parsed;
+
+                // Re-render preview
+                renderGeneratorPreview(parsed);
+                input.value = '';
+                showCopyToast('Itinerary refined!');
+
+            } catch(e) {
+                errorDiv.textContent = e.message;
+                errorDiv.style.display = 'block';
+                // Remove the failed user message from conversation
+                refineConversation.pop();
+            } finally {
+                refineBtn.disabled = false;
+                refineBtn.innerHTML = 'Refine';
+                input.disabled = false;
+                input.focus();
+            }
+        }
+
+        function renderGeneratorPreview(parsed) {
+            const previewArea = document.getElementById('genPreviewArea');
+            let previewHtml = '<div class="gen-preview">';
+            previewHtml += '<div style="font-size:13px;font-weight:700;color:#333;margin-bottom:8px;">' + escapeHtml(parsed.name || 'Generated Itinerary') + '</div>';
+            parsed.days.forEach(day => {
+                previewHtml += '<div class="gen-preview-day">';
+                previewHtml += '<div class="gen-preview-day-title">Day ' + day.day + ' \u2014 ' + escapeHtml(day.title || '') + '</div>';
+                (day.items || []).forEach(item => {
+                    const icon = item.type === 'hotel' ? '\uD83C\uDFE8' : item.type === 'breakfast' ? '\uD83C\uDF73' : item.type === 'lunch' ? '\uD83C\uDF5C' : item.type === 'dinner' ? '\uD83C\uDF77' : item.type === 'nap' ? '\uD83D\uDCA4' : item.type === 'optional' ? '\u2728' : '\uD83D\uDCCD';
+                    const coordStatus = item.coord ? '' : ' <span style="color:#F59E0B;font-size:10px;">(no coords)</span>';
+                    previewHtml += '<div class="gen-preview-item"><span class="type-badge">' + icon + ' ' + escapeHtml(item.type) + '</span> ' + escapeHtml(item.name) + coordStatus + '</div>';
+                });
+                previewHtml += '</div>';
+            });
+            previewHtml += '</div>';
+            // Add refinement input
+            previewHtml += '<div class="gen-refine-bar">';
+            previewHtml += '<input class="gen-refine-input" id="genRefineInput" placeholder="e.g. Make day 3 more adventurous, add a beach day..." onkeydown="if(event.key===\'Enter\' && !event.shiftKey){event.preventDefault();refineGeneratedItinerary();}" />';
+            previewHtml += '<button class="gen-refine-btn" id="genRefineBtn" onclick="refineGeneratedItinerary()">Refine</button>';
+            previewHtml += '</div>';
+            previewHtml += '<div class="gen-refine-hint">Ask to modify specific days, swap activities, change pace, add rest days, etc.</div>';
+            previewArea.innerHTML = previewHtml;
+            previewArea.style.display = 'block';
         }
 
         // ============================================
