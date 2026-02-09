@@ -2323,6 +2323,7 @@
         const itineraryData = {};
         let originalItineraryData = {};
         const cityCenters = {};
+        let poiLookup = {};  // Maps POI name → {desc, longDesc} for itinerary popup cross-reference
 
         // Multi-destination framework
         const destinations = {};
@@ -2439,6 +2440,16 @@
             replaceObjectContents(itineraryData, dest.itineraryData);
             replaceObjectContents(cityCenters, dest.cityCenters);
             originalItineraryData = JSON.parse(JSON.stringify(dest.itineraryData));
+
+            // Build POI lookup map for itinerary popup cross-reference
+            poiLookup = {};
+            [dest.hotels, dest.restaurants, dest.experiences, dest.kidFriendly, dest.markets].forEach(arr => {
+                (arr || []).forEach(poi => {
+                    if (poi.name) {
+                        poiLookup[poi.name] = { desc: poi.desc || '', longDesc: poi.longDesc || '' };
+                    }
+                });
+            });
 
             // Load destination-specific modifications
             modifiedState = {};
@@ -3235,7 +3246,19 @@
                         
                         const itemIdx = dayData.items.indexOf(item);
                         const swapBtn = (item.type !== 'nap') ? '<button class="popup-swap-btn" onclick="openSwapPanel(\x27' + key + '\x27,' + dayData.day + ',' + itemIdx + ')">&#x1f504; Swap</button>' : '';
-                        const popupContent = '<div class="popup-title">' + escapeHtml(item.name) + '</div><div class="popup-type">' + formatType(item.type) + '</div><div style="font-size:11px;color:#666;margin-top:4px;">Day ' + dayData.day + '</div>' + swapBtn;
+                        const poiInfo = poiLookup[item.name] || {};
+                        let popupContent = '<div class="popup-title">' + escapeHtml(item.name) + '</div><div class="popup-type">' + formatType(item.type) + '</div><div style="font-size:11px;color:#666;margin-top:4px;">Day ' + dayData.day + '</div>';
+                        if (poiInfo.desc) popupContent += '<div style="font-size:11px;color:#666;margin-top:4px;">' + escapeHtml(poiInfo.desc) + '</div>';
+                        if (poiInfo.longDesc) popupContent += '<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">' + escapeHtml(poiInfo.longDesc) + '</div>';
+                        popupContent += swapBtn;
+                        // Notes textarea for itinerary popups
+                        const itinExistingNote = getNote(activeDestination || 'default', item.name);
+                        const itinNoteId = 'note-' + item.name.replace(/[^a-zA-Z0-9]/g, '_') + '_itin';
+                        popupContent += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
+                        popupContent += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">\u{1F4DD} My Notes</div>';
+                        popupContent += '<textarea id="' + itinNoteId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(itinExistingNote) + '</textarea>';
+                        popupContent += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + item.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + itinNoteId + '\').value);this.textContent=\'Saved \\u2713\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
+                        popupContent += '</div>';
                         marker.bindPopup(popupContent);
                         marker.addTo(map);
                         itineraryMarkers.push({marker: marker, coord: item.coord, day: dayData.day, type: item.type, name: item.name});
