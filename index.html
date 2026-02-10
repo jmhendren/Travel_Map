@@ -1795,11 +1795,16 @@
 /* ============================================ */
 .dest-selector {
     display: flex;
-    align-items: center;
-    gap: 8px;
+    flex-direction: column;
+    gap: 6px;
     margin-bottom: 12px;
     padding-bottom: 12px;
     border-bottom: 1px solid #eee;
+}
+.dest-region-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 .dest-select {
     flex: 1;
@@ -1819,6 +1824,82 @@
 }
 .dest-select:focus {
     outline: none;
+    border-color: #4ECDC4;
+}
+.dest-country-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    max-height: 120px;
+    overflow-y: auto;
+}
+.dest-country-chip {
+    padding: 4px 8px;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    font-size: 11px;
+    cursor: pointer;
+    background: white;
+    color: #374151;
+    transition: all 0.15s;
+    white-space: nowrap;
+}
+.dest-country-chip:hover {
+    background: #f0fffe;
+    border-color: #4ECDC4;
+}
+.dest-country-chip.active {
+    background: #4ECDC4;
+    color: white;
+    border-color: #4ECDC4;
+    font-weight: 600;
+}
+.dest-country-chip.loaded {
+    border-color: #93e6df;
+    background: #f0fffe;
+}
+.dest-load-region-btn {
+    padding: 4px 10px;
+    border: 1px solid #4ECDC4;
+    border-radius: 12px;
+    font-size: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    background: #f0fffe;
+    color: #4ECDC4;
+    transition: all 0.15s;
+    white-space: nowrap;
+}
+.dest-load-region-btn:hover {
+    background: #4ECDC4;
+    color: white;
+}
+.dest-region-badge {
+    font-size: 10px;
+    color: #9ca3af;
+    padding: 2px 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.dest-region-pois-toggle {
+    font-size: 10px;
+    padding: 2px 8px;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    background: white;
+    color: #6b7280;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+}
+.dest-region-pois-toggle:hover {
+    border-color: #4ECDC4;
+    color: #0d9488;
+}
+.dest-region-pois-toggle.active {
+    background: #4ECDC4;
+    color: white;
     border-color: #4ECDC4;
 }
 .dest-add-btn {
@@ -2866,10 +2947,17 @@
             <div class="mobile-expand-hint" id="mobileExpandHint">Swipe up for details</div>
             
             <div class="sidebar-header">
-                <!-- Destination Selector (Phase 4) -->
+                <!-- Destination Selector — Region → Country two-level picker -->
                 <div class="dest-selector" id="destSelector">
-                    <select class="dest-select" id="destSelect" onchange="onDestSelectChange(this.value)"></select>
-                    <button class="dest-add-btn" onclick="showAddDestModal()" title="Add a new destination">+</button>
+                    <div class="dest-region-row">
+                        <select class="dest-select" id="regionSelect" onchange="onRegionSelectChange(this.value)">
+                            <option value="">All Destinations</option>
+                        </select>
+                        <select class="dest-select" id="destSelect" onchange="onDestSelectChange(this.value)" style="display:none;"></select>
+                        <button class="dest-add-btn" onclick="showAddDestModal()" title="Add a new destination">+</button>
+                    </div>
+                    <div class="dest-country-chips" id="destCountryChips"></div>
+                    <div class="dest-region-badge" id="destRegionBadge"></div>
                 </div>
                 <div id="destTitle" style="font-size: 16px; font-weight: 700; margin-bottom: 12px; color: #000;">
                     Travel Map
@@ -3086,8 +3174,21 @@
                 <button class="gen-profile-btn" onclick="hideSaveProfileRow()">Cancel</button>
             </div>
             <div class="gen-field">
+                <label>Trip Type</label>
+                <div style="display:flex;gap:6px;margin-bottom:8px;">
+                    <button class="toggle-btn active" id="genTypeSingle" onclick="setGenTripType('single')" style="flex:1;padding:6px;font-size:11px;">Single Destination</button>
+                    <button class="toggle-btn" id="genTypeMulti" onclick="setGenTripType('multi')" style="flex:1;padding:6px;font-size:11px;">Multi-Destination</button>
+                </div>
+            </div>
+            <div class="gen-field" id="genSingleDaysField">
                 <label>Trip Duration (days)</label>
                 <input type="number" id="genDays" min="2" max="21" value="7" />
+            </div>
+            <div class="gen-field" id="genMultiDestField" style="display:none;">
+                <label>Destinations & Days</label>
+                <div id="genSegmentsList"></div>
+                <button onclick="addGenSegment()" style="width:100%;padding:6px;font-size:11px;border:1px dashed #d1d5db;border-radius:6px;background:white;cursor:pointer;color:#6b7280;margin-top:6px;">+ Add Destination</button>
+                <div id="genMultiTotalDays" style="font-size:11px;color:#6b7280;margin-top:4px;"></div>
             </div>
             <div class="gen-field">
                 <label>Travel Party</label>
@@ -3325,11 +3426,39 @@
             return {};
         }
 
+        // Cross-destination POI lookup: check a specific destination's cache
+        function lookupPoiInDest(name, destKey) {
+            const destLookup = multiDestPoiLookup[destKey];
+            if (!destLookup) return lookupPoi(name);  // fallback to active dest
+            if (destLookup[name]) {
+                const poi = destLookup[name];
+                return { desc: poi.desc || '', longDesc: poi.longDesc || '', gmapsUrl: poi.gmapsUrl || '', rating: poi.rating, ratingCount: poi.ratingCount, priceLevel: poi.priceLevel, website: poi.website, hours: poi.hours, photoRef: poi.photoRef, photoAttribution: poi.photoAttribution, tags: poi.tags };
+            }
+            // Fuzzy match within that destination
+            const lower = name.toLowerCase();
+            const keys = Object.keys(destLookup).sort((a, b) => b.length - a.length);
+            for (let i = 0; i < keys.length; i++) {
+                if (lower.includes(keys[i].toLowerCase())) {
+                    const poi = destLookup[keys[i]];
+                    return { desc: poi.desc || '', longDesc: poi.longDesc || '', gmapsUrl: poi.gmapsUrl || '', rating: poi.rating, ratingCount: poi.ratingCount, priceLevel: poi.priceLevel, website: poi.website, hours: poi.hours, photoRef: poi.photoRef, photoAttribution: poi.photoAttribution, tags: poi.tags };
+                }
+            }
+            return lookupPoi(name);  // final fallback
+        }
+
         // Multi-destination framework
         const destinations = {};
         let activeDestination = null;
         let manifestData = null;  // Stores the destinations.json manifest
         let destLoadGeneration = 0;  // Incremented on each loadDestination call to cancel stale async loads
+
+        // Region & multi-destination state
+        let activeRegion = null;           // Currently selected region key
+        let loadedRegionDests = new Set(); // Destination keys loaded as part of a region
+        let destinationCache = {};         // key → full destination config (persists across switches)
+        let multiDestPoiLookup = {};       // key → { poiName → poi } for cross-destination coord lookup
+        let regionPoisActive = false;      // Whether region-wide POI markers are showing
+        let regionPoiLayers = [];          // Extra layers added by "Show Region POIs"
 
         // ============================================
         // DESTINATION LOADING FROM JSON
@@ -3341,7 +3470,19 @@
                 if (!response.ok) throw new Error('Could not load destinations.json');
                 manifestData = await response.json();
 
-                // Populate dropdown from manifest (before any data is loaded)
+                // Build region dropdown
+                const regionSel = document.getElementById('regionSelect');
+                regionSel.innerHTML = '<option value="">All Destinations</option>';
+                if (manifestData.regions) {
+                    manifestData.regions.forEach(function(region) {
+                        const opt = document.createElement('option');
+                        opt.value = region.key;
+                        opt.textContent = region.flag + ' ' + region.name + ' (' + region.destinations.length + ')';
+                        regionSel.appendChild(opt);
+                    });
+                }
+
+                // Populate flat dest dropdown (hidden by default, used as fallback)
                 const sel = document.getElementById('destSelect');
                 sel.innerHTML = '';
                 manifestData.destinations.forEach(function(dest) {
@@ -3354,13 +3495,290 @@
                 // Check for shared trip link first, otherwise load default
                 const sharedLoaded = await loadSharedTrip();
                 if (!sharedLoaded) {
-                    await fetchAndLoadDestination(manifestData.default);
+                    // Find which region the default destination is in and select it
+                    const defaultKey = manifestData.default;
+                    const defaultRegion = findRegionForDest(defaultKey);
+                    if (defaultRegion) {
+                        onRegionSelectChange(defaultRegion.key, defaultKey);
+                    } else {
+                        await fetchAndLoadDestination(defaultKey);
+                    }
                 }
 
             } catch(e) {
                 console.error('Failed to load manifest:', e);
                 showCopyToast('Could not load destinations. Make sure you are serving via HTTP (see serve.sh).');
             }
+        }
+
+        // Find which region a destination belongs to
+        function findRegionForDest(destKey) {
+            if (!manifestData || !manifestData.regions) return null;
+            return manifestData.regions.find(r => r.destinations.includes(destKey)) || null;
+        }
+
+        // Region selector change handler
+        function onRegionSelectChange(regionKey, autoSelectDest) {
+            activeRegion = regionKey || null;
+            const regionSel = document.getElementById('regionSelect');
+            regionSel.value = regionKey || '';
+
+            if (!regionKey) {
+                // "All Destinations" — show flat dropdown instead
+                document.getElementById('destSelect').style.display = '';
+                document.getElementById('destCountryChips').innerHTML = '';
+                document.getElementById('destRegionBadge').textContent = '';
+                return;
+            }
+
+            // Hide flat dropdown, show country chips
+            document.getElementById('destSelect').style.display = 'none';
+
+            const region = manifestData.regions.find(r => r.key === regionKey);
+            if (!region) return;
+
+            buildCountryChips(region, autoSelectDest);
+        }
+
+        // Build country chips for a region
+        function buildCountryChips(region, autoSelectDest) {
+            const container = document.getElementById('destCountryChips');
+            container.innerHTML = '';
+
+            // "Load All" button
+            const loadAllBtn = document.createElement('span');
+            loadAllBtn.className = 'dest-load-region-btn';
+            loadAllBtn.textContent = 'Load All ' + region.destinations.length;
+            loadAllBtn.onclick = function() { loadRegion(region.key); };
+            container.appendChild(loadAllBtn);
+
+            // Country chips
+            region.destinations.forEach(function(destKey) {
+                const entry = manifestData.destinations.find(d => d.key === destKey);
+                if (!entry) return;
+                const chip = document.createElement('span');
+                chip.className = 'dest-country-chip';
+                chip.dataset.dest = destKey;
+                chip.textContent = entry.flag + ' ' + entry.name;
+                if (destinations[destKey]) chip.classList.add('loaded');
+                if (destKey === activeDestination) chip.classList.add('active');
+                chip.onclick = function() { onCountryChipClick(destKey); };
+                container.appendChild(chip);
+            });
+
+            // Badge + region POIs toggle
+            const loaded = region.destinations.filter(k => destinations[k]).length;
+            const badge = document.getElementById('destRegionBadge');
+            let badgeHtml = '<span>' + (loaded > 0 ? loaded + '/' + region.destinations.length + ' loaded' : 'Click a country or Load All') + '</span>';
+            if (loaded > 1) {
+                badgeHtml += '<button class="dest-region-pois-toggle' + (regionPoisActive ? ' active' : '') + '" onclick="toggleRegionPois()">' + (regionPoisActive ? '🌍 Region POIs ON' : '🌍 Show Region POIs') + '</button>';
+            }
+            badge.innerHTML = badgeHtml;
+
+            // Auto-select a destination if specified
+            if (autoSelectDest) {
+                fetchAndLoadDestination(autoSelectDest);
+            }
+        }
+
+        // Country chip click — load that single destination
+        function onCountryChipClick(destKey) {
+            fetchAndLoadDestination(destKey);
+        }
+
+        // Update chip states after a destination loads
+        function updateCountryChipStates() {
+            document.querySelectorAll('.dest-country-chip').forEach(function(chip) {
+                const key = chip.dataset.dest;
+                chip.classList.toggle('active', key === activeDestination);
+                chip.classList.toggle('loaded', !!destinations[key]);
+            });
+            // Update badge + region POIs toggle
+            if (activeRegion && manifestData) {
+                const region = manifestData.regions.find(r => r.key === activeRegion);
+                if (region) {
+                    const loaded = region.destinations.filter(k => destinations[k]).length;
+                    const badge = document.getElementById('destRegionBadge');
+                    let badgeHtml = '<span>' + loaded + '/' + region.destinations.length + ' loaded</span>';
+                    if (loaded > 1) {
+                        badgeHtml += '<button class="dest-region-pois-toggle' + (regionPoisActive ? ' active' : '') + '" onclick="toggleRegionPois()">' + (regionPoisActive ? '🌍 Region POIs ON' : '🌍 Show Region POIs') + '</button>';
+                    }
+                    badge.innerHTML = badgeHtml;
+                }
+            }
+        }
+
+        // Toggle region-wide POI markers on/off
+        function toggleRegionPois() {
+            if (regionPoisActive) {
+                // Remove extra region POI layers
+                regionPoiLayers.forEach(function(layer) {
+                    try { map.removeLayer(layer); } catch(e) {}
+                });
+                regionPoiLayers = [];
+                regionPoisActive = false;
+            } else {
+                // Add POIs from all loaded region destinations (except active one — already showing)
+                if (!activeRegion || !manifestData) return;
+                const region = manifestData.regions.find(r => r.key === activeRegion);
+                if (!region) return;
+
+                const catColors = categoryColors;
+                const catRadii = { hotels: 6, restaurants: 5, experiences: 5, kidFriendly: 5, markets: 5 };
+                const catLabels = { hotels: 'Hotel', restaurants: 'Restaurant', experiences: 'Experience', kidFriendly: 'Kid Friendly', markets: 'Market' };
+
+                region.destinations.forEach(function(destKey) {
+                    if (destKey === activeDestination) return; // Already showing
+                    const dest = destinations[destKey] || destinationCache[destKey];
+                    if (!dest) return;
+
+                    ['hotels', 'restaurants', 'experiences', 'kidFriendly', 'markets'].forEach(function(cat) {
+                        const pois = dest[cat] || [];
+                        pois.forEach(function(poi) {
+                            if (!poi.coord) return;
+                            // Check if this category group is currently visible
+                            if (!categoryGroups[cat] || !map.hasLayer(categoryGroups[cat])) return;
+
+                            var radius = catRadii[cat];
+                            var marker = L.circleMarker(poi.coord, {
+                                radius: radius,
+                                fillColor: catColors[cat],
+                                color: '#fff',
+                                weight: 1.5,
+                                opacity: 0.7,
+                                fillOpacity: 0.5,
+                                interactive: true
+                            });
+                            marker._baseRadius = radius;
+                            marker.bindPopup('<div class="popup-title">' + escapeHtml(poi.name) + '</div><div class="popup-type">' + catLabels[cat] + ' · ' + escapeHtml(dest.name || destKey) + '</div>' + (poi.desc ? '<div style="font-size:11px;color:#666;margin-top:4px;">' + escapeHtml(poi.desc) + '</div>' : ''));
+                            marker.addTo(map);
+                            regionPoiLayers.push(marker);
+                        });
+                    });
+                });
+                regionPoisActive = true;
+
+                // Zoom out to fit all POIs
+                if (regionPoiLayers.length > 0) {
+                    const allCoords = regionPoiLayers.map(m => m.getLatLng());
+                    // Include current destination bounds too
+                    Object.values(categoryGroups).forEach(function(group) {
+                        if (group) {
+                            group.eachLayer(function(layer) {
+                                if (layer.getLatLng) allCoords.push(layer.getLatLng());
+                            });
+                        }
+                    });
+                    if (allCoords.length > 0) {
+                        map.fitBounds(L.latLngBounds(allCoords).pad(0.05));
+                    }
+                }
+            }
+            // Update badge button state
+            updateCountryChipStates();
+        }
+
+        // Clear region POIs when switching destinations
+        function clearRegionPois() {
+            regionPoiLayers.forEach(function(layer) {
+                try { map.removeLayer(layer); } catch(e) {}
+            });
+            regionPoiLayers = [];
+            regionPoisActive = false;
+        }
+
+        // Load ALL destinations in a region (parallel fetch)
+        async function loadRegion(regionKey) {
+            const region = manifestData.regions.find(r => r.key === regionKey);
+            if (!region) return;
+
+            activeRegion = regionKey;
+            const regionSel = document.getElementById('regionSelect');
+            regionSel.value = regionKey;
+
+            showCopyToast('Loading ' + region.name + ' (' + region.destinations.length + ' destinations)...');
+
+            // Fetch all destinations in parallel (skip already loaded)
+            const toLoad = region.destinations.filter(k => !destinations[k]);
+            const promises = toLoad.map(async function(destKey) {
+                let filePath = 'destinations/' + destKey + '.json';
+                const entry = manifestData.destinations.find(d => d.key === destKey);
+                if (entry && entry.file) filePath = entry.file;
+
+                try {
+                    const response = await fetch(filePath);
+                    if (!response.ok) throw new Error('HTTP ' + response.status + ' for ' + destKey);
+                    const data = await response.json();
+                    return data;
+                } catch(e) {
+                    console.error('Failed to load ' + destKey + ':', e);
+                    return null;
+                }
+            });
+
+            const results = await Promise.all(promises);
+
+            // Register all loaded destinations (without switching to each one)
+            let loadedCount = 0;
+            results.forEach(function(data) {
+                if (!data || !data.key) return;
+                if (destinations[data.key]) return; // Already registered
+
+                const config = {
+                    name: data.name,
+                    subtitle: data.subtitle || '',
+                    flag: data.flag || '\u{1F30D}',
+                    defaultCenter: data.defaultCenter || [0, 0],
+                    defaultZoom: data.defaultZoom || 5,
+                    hotels: data.hotels || [],
+                    restaurants: data.restaurants || [],
+                    experiences: data.experiences || [],
+                    kidFriendly: data.kidFriendly || [],
+                    markets: data.markets || [],
+                    itineraryData: data.itineraryData || {},
+                    cityCenters: data.cityCenters || {},
+                    regions: data.regions || [],
+                    originalItineraryData: JSON.parse(JSON.stringify(data.itineraryData || {}))
+                };
+                normalizeItineraryDays(config.itineraryData);
+                normalizeItineraryDays(config.originalItineraryData);
+                destinations[data.key] = config;
+                loadedRegionDests.add(data.key);
+
+                // Build per-destination POI lookup for cross-destination coord resolution
+                buildDestPoiLookup(data.key, config);
+                loadedCount++;
+            });
+
+            showCopyToast(region.name + ': ' + (loadedCount + region.destinations.length - toLoad.length) + '/' + region.destinations.length + ' loaded');
+            updateCountryChipStates();
+            buildCountryChips(region);
+
+            // If no destination is active yet, load the first one in the region
+            if (!activeDestination || !region.destinations.includes(activeDestination)) {
+                await loadDestination(region.destinations[0]);
+            }
+        }
+
+        // Build per-destination POI lookup (for cross-destination coordinate resolution)
+        function buildDestPoiLookup(destKey, config) {
+            const lookup = {};
+            ['hotels', 'restaurants', 'experiences', 'kidFriendly', 'markets'].forEach(function(cat) {
+                (config[cat] || []).forEach(function(poi) {
+                    if (poi.name && poi.coord) {
+                        lookup[poi.name] = poi;
+                    }
+                });
+            });
+            multiDestPoiLookup[destKey] = lookup;
+        }
+
+        // Find coordinate for a POI name within a specific destination
+        function findCoordInDest(name, destKey) {
+            const lookup = multiDestPoiLookup[destKey];
+            if (!lookup) return null;
+            const poi = lookup[name] || lookup[Object.keys(lookup).find(k => k.toLowerCase() === name.toLowerCase())];
+            return poi ? poi.coord : null;
         }
 
         async function fetchAndLoadDestination(key) {
@@ -3433,6 +3851,7 @@
             // Clear current map layers safely
             try {
                 clearItineraryMarkers();
+                clearRegionPois();
             } catch(e) { console.error('[loadDestination] clearItineraryMarkers error:', e); }
             Object.keys(categoryGroups).forEach(function(k) {
                 try {
@@ -3530,6 +3949,18 @@
                 updateMobileAfterDestLoad();
             } catch(e) {
                 console.error('[loadDestination] Error updating mobile UI:', e);
+            }
+
+            // Update region picker chip states
+            try {
+                updateCountryChipStates();
+                // Also build cross-dest POI lookup for this destination
+                buildDestPoiLookup(key, dest);
+                // Update generator label to show destination name
+                const genLabel = document.getElementById('genDestLabel');
+                if (genLabel) genLabel.textContent = 'for ' + dest.name;
+            } catch(e) {
+                console.error('[loadDestination] Error updating region UI:', e);
             }
         }
 
@@ -3671,9 +4102,11 @@
             normalizeItineraryDays(config.itineraryData);
             normalizeItineraryDays(config.originalItineraryData);
             addDestination(data.key, config);
+            buildDestPoiLookup(data.key, config);
             closeAddDestModal();
             showCopyToast(data.name + ' added!');
             await loadDestination(data.key);
+            updateCountryChipStates();
         }
 
         function copyDestSchema() {
@@ -4520,23 +4953,31 @@
 
         function showItinerary(key) {
             const itin = itineraryData[key];
-            
+            const isMultiDest = itin.isMultiDestination || false;
+
             // Clear existing markers
             clearItineraryMarkers();
-            
+
             // Create markers for all days with coordinates
             const markers = [];
-            
+
             itin.days.forEach(dayData => {
+                // For multi-destination itineraries, resolve coords from the correct destination
+                const dayDestKey = (isMultiDest && dayData.destination) ? dayData.destination : activeDestination;
+
                 dayData.items.forEach(item => {
+                    // For multi-dest: resolve coord from the day's destination if not already set
+                    if (!item.coord && isMultiDest && dayData.destination) {
+                        item.coord = findCoordInDest(item.name, dayData.destination);
+                    }
                     if (item.coord) {
                         const itinBaseRadius = 7;
                         const itinHitRadius = isMobile() ? 18 : 14;
 
                         const itemIdx = dayData.items.indexOf(item);
                         const swapBtn = (item.type !== 'nap') ? '<button class="popup-swap-btn" onclick="openSwapPanel(\x27' + key + '\x27,' + dayData.day + ',' + itemIdx + ')">&#x1f504; Swap</button>' : '';
-                        const destKey = activeDestination || 'default';
-                        const poiInfo = lookupPoi(item.name);
+                        const destKey = dayDestKey || 'default';
+                        const poiInfo = isMultiDest ? lookupPoiInDest(item.name, dayDestKey) : lookupPoi(item.name);
                         const poiAnnotations = getAnnotationsForPoi(destKey, item.name);
                         const safeName = item.name.replace(/'/g, "\\'");
                         const itinNoteId = 'note-' + item.name.replace(/[^a-zA-Z0-9]/g, '_') + '_itin';
@@ -4745,8 +5186,30 @@
             const itin = itineraryData[key];
             const container = document.getElementById('daysContainer');
             container.innerHTML = '';
+            const isMultiDest = itin.isMultiDestination || false;
+            let lastSegmentDest = null;
 
             itin.days.forEach(dayData => {
+                // Multi-dest: insert segment header when destination changes
+                if (isMultiDest && dayData.destination && dayData.destination !== lastSegmentDest) {
+                    lastSegmentDest = dayData.destination;
+                    const destEntry = manifestData ? manifestData.destinations.find(d => d.key === dayData.destination) : null;
+                    const segHeader = document.createElement('div');
+                    segHeader.style.cssText = 'padding:8px 12px;margin:8px 0 4px 0;background:linear-gradient(135deg,#f0fffe,#e8f8f5);border-radius:8px;font-weight:700;font-size:13px;color:#0d9488;border-left:3px solid #4ECDC4;';
+                    segHeader.textContent = (destEntry ? destEntry.flag + ' ' : '') + (destEntry ? destEntry.name : dayData.destination);
+                    // Add segment info if available
+                    if (itin.segments) {
+                        const seg = itin.segments.find(s => s.destination === dayData.destination);
+                        if (seg) {
+                            const info = document.createElement('span');
+                            info.style.cssText = 'font-size:11px;font-weight:400;color:#6b7280;margin-left:8px;';
+                            info.textContent = seg.days + ' days';
+                            segHeader.appendChild(info);
+                        }
+                    }
+                    container.appendChild(segHeader);
+                }
+
                 const dayCard = document.createElement('div');
                 dayCard.className = 'day-card';
 
@@ -4921,14 +5384,25 @@
             }
             const itin = itineraryData[currentItinerary];
             if (!itin) return;
-            const dest = destinations[activeDestination] || {};
-            const destEntry = (manifestData && manifestData.destinations || []).find(d => d.key === activeDestination) || {};
 
             // Build share link
             const shareUrl = buildShareUrl(activeDestination, currentItinerary, itin);
             document.getElementById('shareLinkBox').textContent = shareUrl;
             document.getElementById('shareTitle').textContent = 'Share Itinerary';
-            document.getElementById('shareSubtitle').textContent = (destEntry.flag || '') + ' ' + (dest.name || activeDestination) + ' — ' + (itin.name || itin.title || currentItinerary);
+
+            // Build subtitle — multi-dest shows all countries
+            if (itin.isMultiDestination && itin.segments) {
+                const countryNames = itin.segments.map(function(seg) {
+                    const d = destinations[seg.destination] || {};
+                    const entry = (manifestData && manifestData.destinations || []).find(dd => dd.key === seg.destination);
+                    return (entry ? entry.flag + ' ' : '') + (d.name || seg.destination);
+                });
+                document.getElementById('shareSubtitle').textContent = '🌍 ' + countryNames.join(' → ') + ' — ' + (itin.name || 'Multi-Destination Trip');
+            } else {
+                const dest = destinations[activeDestination] || {};
+                const destEntry = (manifestData && manifestData.destinations || []).find(d => d.key === activeDestination) || {};
+                document.getElementById('shareSubtitle').textContent = (destEntry.flag || '') + ' ' + (dest.name || activeDestination) + ' — ' + (itin.name || itin.title || currentItinerary);
+            }
             document.getElementById('shareOverlay').classList.add('active');
         }
 
@@ -4944,7 +5418,7 @@
                     n: itin.name || 'Custom',
                     c: itin.color || '#2563EB',
                     d: itin.days.map(function(day) {
-                        return {
+                        var dayObj = {
                             dy: day.day,
                             t: day.title,
                             i: day.items.map(function(it) {
@@ -4953,8 +5427,18 @@
                                 return o;
                             })
                         };
+                        // Include destination field for multi-dest
+                        if (day.destination) dayObj.ds = day.destination;
+                        return dayObj;
                     })
                 };
+                // Include multi-dest metadata
+                if (itin.isMultiDestination) {
+                    minimal.md = true;
+                    if (itin.segments) {
+                        minimal.sg = itin.segments.map(function(s) { return { d: s.destination, n: s.days }; });
+                    }
+                }
                 return base + '#trip=' + destKey + '/' + itinKey + '&d=' + utoa(JSON.stringify(minimal));
             } else {
                 // Built-in itineraries: just the key (receiver loads from JSON)
@@ -4980,24 +5464,47 @@
             if (!key) return;
             const itin = itineraryData[key];
             if (!itin) return;
-            const dest = destinations[activeDestination] || {};
-            const destEntry = (manifestData && manifestData.destinations || []).find(d => d.key === activeDestination) || {};
+            const isMultiDest = itin.isMultiDestination;
 
             var typeEmoji = {
                 hotel: '\u{1F3E8}', breakfast: '\u{1F373}', lunch: '\u{1F35C}', dinner: '\u{1F357}',
-                sightseeing: '\u{1F5FA}', optional: '\u2728', nap: '\u{1F634}'
+                sightseeing: '\u{1F5FA}', optional: '\u2728', nap: '\u{1F634}', info: '\u{2139}\u{FE0F}'
             };
 
-            var text = (destEntry.flag || '\u{1F30D}') + ' ' + (dest.name || activeDestination) + '\n';
-            text += (itin.name || itin.title || key) + '\n';
+            var text = '';
+            if (isMultiDest && itin.segments) {
+                // Multi-destination header with route
+                var routeNames = itin.segments.map(function(seg) {
+                    var d = destinations[seg.destination] || {};
+                    var entry = (manifestData && manifestData.destinations || []).find(dd => dd.key === seg.destination);
+                    return (entry ? entry.flag + ' ' : '') + (d.name || seg.destination) + ' (' + seg.days + 'd)';
+                });
+                text += '\u{1F30D} ' + (itin.name || 'Multi-Destination Trip') + '\n';
+                text += routeNames.join(' \u2192 ') + '\n';
+            } else {
+                var dest = destinations[activeDestination] || {};
+                var destEntry = (manifestData && manifestData.destinations || []).find(d => d.key === activeDestination) || {};
+                text += (destEntry.flag || '\u{1F30D}') + ' ' + (dest.name || activeDestination) + '\n';
+                text += (itin.name || itin.title || key) + '\n';
+            }
             text += '\u2550'.repeat(30) + '\n\n';
 
+            var prevDayDest = null;
             itin.days.forEach(function(dayData) {
+                // Insert destination header for multi-dest
+                if (isMultiDest && dayData.destination && dayData.destination !== prevDayDest) {
+                    prevDayDest = dayData.destination;
+                    var dd = destinations[dayData.destination] || {};
+                    var de = (manifestData && manifestData.destinations || []).find(function(d) { return d.key === dayData.destination; });
+                    text += '\n' + (de ? de.flag + ' ' : '') + (dd.name || dayData.destination).toUpperCase() + '\n';
+                    text += '\u2500'.repeat(30) + '\n';
+                }
+
                 text += '\u{1F4CD} Day ' + dayData.day + ' \u2014 ' + dayData.title + '\n';
                 text += '\u2500'.repeat(30) + '\n';
                 dayData.items.forEach(function(item) {
                     var emoji = typeEmoji[item.type] || '\u{1F4CB}';
-                    var poiInfo = lookupPoi(item.name);
+                    var poiInfo = isMultiDest && dayData.destination ? lookupPoiInDest(item.name, dayData.destination) : lookupPoi(item.name);
                     text += emoji + ' ' + item.name;
                     if (poiInfo.desc) text += '\n   ' + poiInfo.desc;
                     text += '\n';
@@ -5006,7 +5513,12 @@
             });
 
             text += '\u2550'.repeat(30) + '\n';
-            text += 'Shared from ' + (dest.name || 'Travel Map') + '\n';
+            if (isMultiDest) {
+                text += 'Shared from Travel Map\n';
+            } else {
+                var dest2 = destinations[activeDestination] || {};
+                text += 'Shared from ' + (dest2.name || 'Travel Map') + '\n';
+            }
             text += window.location.origin + window.location.pathname;
 
             if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -5141,7 +5653,7 @@
                         color: decoded.c || '#2563EB',
                         isGenerated: true,
                         days: decoded.d.map(function(day) {
-                            return {
+                            var dayObj = {
                                 day: day.dy,
                                 title: day.t,
                                 items: day.i.map(function(it) {
@@ -5150,8 +5662,31 @@
                                     return item;
                                 })
                             };
+                            // Restore destination field for multi-dest
+                            if (day.ds) dayObj.destination = day.ds;
+                            return dayObj;
                         })
                     };
+                    // Restore multi-dest metadata
+                    if (decoded.md) {
+                        restoredItin.isMultiDestination = true;
+                        if (decoded.sg) {
+                            restoredItin.segments = decoded.sg.map(function(s) { return { destination: s.d, days: s.n }; });
+                        }
+                        // Load all segment destinations for proper rendering
+                        if (restoredItin.segments) {
+                            for (var si = 0; si < restoredItin.segments.length; si++) {
+                                var segDest = restoredItin.segments[si].destination;
+                                if (segDest !== destKey && !destinations[segDest]) {
+                                    await fetchAndLoadDestination(segDest);
+                                }
+                            }
+                            // Re-load the original dest so it's active
+                            if (activeDestination !== destKey) {
+                                await fetchAndLoadDestination(destKey);
+                            }
+                        }
+                    }
                     // Add to itineraryData as a shared itinerary
                     var sharedKey = 'shared_1';
                     itineraryData[sharedKey] = restoredItin;
@@ -6690,13 +7225,31 @@
 
             prompt += '5) GENERAL QUESTION — General travel question → respond with helpful text.\n\n';
 
+            // Multi-destination mode — include available region destinations
+            prompt += '6) MULTI-DESTINATION ITINERARY — If the user mentions multiple countries or a cross-country trip (e.g., "5 days Italy, 7 days France", "plan a trip across Spain and Portugal", "build a European tour"), respond with a multi-destination itinerary JSON.\n';
+            prompt += '   JSON format: {"name": "Trip Name", "isMultiDestination": true, "segments": [{"destination": "italy", "days": 5}, {"destination": "france", "days": 7}], "days": [{"day": 1, "title": "City (Theme)", "destination": "italy", "items": [...]}]}\n';
+            prompt += '   Each day MUST have a "destination" field with the country key. On transition days, include a transit info item.\n';
+            prompt += '   Valid destination keys in this region: ';
+            if (activeRegion && manifestData) {
+                var region = manifestData.regions.find(function(r) { return r.key === activeRegion; });
+                if (region) {
+                    prompt += region.destinations.join(', ');
+                } else {
+                    prompt += activeDestination;
+                }
+            } else {
+                prompt += activeDestination;
+            }
+            prompt += '\n\n';
+
             prompt += 'MODE SELECTION RULES:\n';
             prompt += '- Use mode 1 (day JSON array) ONLY when a CURRENT DAY CONTEXT exists AND the user wants to modify that specific day.\n';
-            prompt += '- Use mode 2 (full itinerary JSON object) when the user asks to create/build/plan a new trip from scratch.\n';
+            prompt += '- Use mode 2 (full itinerary JSON object) when the user asks to create/build/plan a new trip from scratch for ONE country.\n';
             prompt += '- Use mode 3 (full itinerary JSON object) when CURRENT CHAT-GENERATED ITINERARY exists and user wants changes to it.\n';
+            prompt += '- Use mode 6 (multi-dest itinerary JSON) when the user mentions multiple countries or a cross-destination trip.\n';
             prompt += '- Use modes 4/5 (natural text) for questions and information requests.\n';
-            prompt += '- When generating a full itinerary (modes 2/3), output ONLY raw JSON. No markdown, no backticks, no explanation.\n';
-            prompt += '- When asking clarifying questions (before having enough info for mode 2), use natural text.';
+            prompt += '- When generating a full itinerary (modes 2/3/6), output ONLY raw JSON. No markdown, no backticks, no explanation.\n';
+            prompt += '- When asking clarifying questions (before having enough info for mode 2/6), use natural text.';
 
             return prompt;
         }
@@ -6853,13 +7406,27 @@
                     return;
                 }
 
-                // MODE 2/3: Full itinerary object (has "days" array with nested items)
+                // MODE 2/3/6: Full itinerary object (has "days" array with nested items)
                 if (parsed && parsed.days && Array.isArray(parsed.days) && parsed.days.length > 0) {
                     // Look up coordinates for all items
+                    const isMultiDest = parsed.isMultiDestination || false;
                     parsed.days.forEach(function(day) {
                         if (!day.items) day.items = [];
                         day.items.forEach(function(item) {
-                            if (!item.coord) item.coord = findCoordForName(item.name);
+                            if (!item.coord && item.type !== 'info') {
+                                if (isMultiDest && day.destination) {
+                                    // Multi-dest: try per-destination lookup first
+                                    item.coord = findCoordInDest(item.name, day.destination);
+                                    if (!item.coord && parsed.segments) {
+                                        // Fallback: check all segment destinations
+                                        for (var si = 0; si < parsed.segments.length; si++) {
+                                            item.coord = findCoordInDest(item.name, parsed.segments[si].destination);
+                                            if (item.coord) break;
+                                        }
+                                    }
+                                }
+                                if (!item.coord) item.coord = findCoordForName(item.name);
+                            }
                             if (!item.type) item.type = 'sightseeing';
                         });
                     });
@@ -6941,22 +7508,31 @@
         function saveChatGeneratedItinerary() {
             if (!chatGeneratedItinerary) { showCopyToast('No itinerary to save'); return; }
 
-            const genCount = Object.keys(itineraryData).filter(k => k.startsWith('gen_')).length;
-            const genKey = 'gen_' + (genCount + 1);
+            const isMulti = chatGeneratedItinerary.isMultiDestination;
+            const prefix = isMulti ? 'gen_multi_' : 'gen_';
+            const genCount = Object.keys(itineraryData).filter(k => k.startsWith(prefix)).length;
+            const genKey = prefix + (genCount + 1);
             const colorIdx = genCount % GEN_COLORS.length;
 
             const itinObj = {
-                name: chatGeneratedItinerary.name || 'Chat Itinerary',
+                name: chatGeneratedItinerary.name || (isMulti ? 'Multi-Destination Trip' : 'Chat Itinerary'),
                 color: GEN_COLORS[colorIdx],
                 days: chatGeneratedItinerary.days,
                 isGenerated: true
             };
 
+            if (isMulti) {
+                itinObj.isMultiDestination = true;
+                itinObj.segments = chatGeneratedItinerary.segments || [];
+            }
+
             itineraryData[genKey] = itinObj;
             originalItineraryData[genKey] = JSON.parse(JSON.stringify(itinObj));
 
             try {
-                const storageKey = 'tripMap_genItin_' + activeDestination;
+                const storageKey = isMulti
+                    ? 'tripMap_genItin_multi_' + (activeRegion || 'global')
+                    : 'tripMap_genItin_' + activeDestination;
                 const existing = JSON.parse(localStorage.getItem(storageKey) || '{}');
                 existing[genKey] = itinObj;
                 localStorage.setItem(storageKey, JSON.stringify(existing));
@@ -6969,7 +7545,7 @@
             if (currentView !== 'itineraries') switchView('itineraries');
 
             addChatMessage('system', 'Itinerary saved! Check the new "' + escapeHtml(itinObj.name) + '" tab. You can keep refining it here or in the itinerary view.');
-            showCopyToast('Itinerary created!');
+            showCopyToast(isMulti ? 'Multi-destination itinerary created!' : 'Itinerary created!');
         }
 
         function applyAiDay() {
@@ -7184,6 +7760,231 @@
             return Array.from(document.querySelectorAll('.gen-interest-chip.selected')).map(el => el.dataset.interest);
         }
 
+        // Multi-destination generator controls
+        let genTripType = 'single';
+        let genSegments = [];
+
+        function setGenTripType(type) {
+            genTripType = type;
+            document.getElementById('genTypeSingle').classList.toggle('active', type === 'single');
+            document.getElementById('genTypeMulti').classList.toggle('active', type === 'multi');
+            document.getElementById('genSingleDaysField').style.display = type === 'single' ? '' : 'none';
+            document.getElementById('genMultiDestField').style.display = type === 'multi' ? '' : 'none';
+            if (type === 'multi' && genSegments.length === 0) {
+                // Pre-populate with current destination
+                addGenSegment(activeDestination, 5);
+                addGenSegment(null, 5);
+            }
+            // Update label
+            const label = document.getElementById('genDestLabel');
+            if (label) label.textContent = type === 'multi' ? 'Multi-Destination Trip' : 'for ' + (destinations[activeDestination] ? destinations[activeDestination].name : 'this destination');
+        }
+
+        function addGenSegment(presetDest, presetDays) {
+            const idx = genSegments.length;
+            genSegments.push({ destination: presetDest || '', days: presetDays || 5 });
+            renderGenSegments();
+        }
+
+        function removeGenSegment(idx) {
+            genSegments.splice(idx, 1);
+            renderGenSegments();
+        }
+
+        function updateGenSegment(idx, field, value) {
+            genSegments[idx][field] = field === 'days' ? parseInt(value) || 1 : value;
+            updateGenTotalDays();
+        }
+
+        function updateGenTotalDays() {
+            const total = genSegments.reduce((sum, s) => sum + (s.days || 0), 0);
+            document.getElementById('genMultiTotalDays').textContent = 'Total: ' + total + ' days';
+        }
+
+        function renderGenSegments() {
+            const container = document.getElementById('genSegmentsList');
+            container.innerHTML = '';
+            genSegments.forEach(function(seg, idx) {
+                const row = document.createElement('div');
+                row.style.cssText = 'display:flex;gap:6px;align-items:center;margin-bottom:4px;';
+
+                // Destination dropdown
+                const sel = document.createElement('select');
+                sel.style.cssText = 'flex:1;padding:5px;border:1px solid #d1d5db;border-radius:6px;font-size:11px;';
+                sel.innerHTML = '<option value="">Select...</option>';
+                if (manifestData) {
+                    // Group by region
+                    manifestData.regions.forEach(function(region) {
+                        const optGroup = document.createElement('optgroup');
+                        optGroup.label = region.flag + ' ' + region.name;
+                        region.destinations.forEach(function(destKey) {
+                            const entry = manifestData.destinations.find(d => d.key === destKey);
+                            if (!entry) return;
+                            const opt = document.createElement('option');
+                            opt.value = destKey;
+                            opt.textContent = entry.flag + ' ' + entry.name;
+                            if (destKey === seg.destination) opt.selected = true;
+                            optGroup.appendChild(opt);
+                        });
+                        sel.appendChild(optGroup);
+                    });
+                }
+                sel.onchange = function() { updateGenSegment(idx, 'destination', this.value); };
+                row.appendChild(sel);
+
+                // Days input
+                const daysInput = document.createElement('input');
+                daysInput.type = 'number';
+                daysInput.min = '1';
+                daysInput.max = '21';
+                daysInput.value = seg.days;
+                daysInput.style.cssText = 'width:50px;padding:5px;border:1px solid #d1d5db;border-radius:6px;font-size:11px;text-align:center;';
+                daysInput.onchange = function() { updateGenSegment(idx, 'days', this.value); };
+                row.appendChild(daysInput);
+
+                const daysLabel = document.createElement('span');
+                daysLabel.style.cssText = 'font-size:10px;color:#9ca3af;';
+                daysLabel.textContent = 'days';
+                row.appendChild(daysLabel);
+
+                // Remove button
+                if (genSegments.length > 1) {
+                    const removeBtn = document.createElement('button');
+                    removeBtn.textContent = '\u00d7';
+                    removeBtn.style.cssText = 'width:22px;height:22px;border-radius:50%;border:1px solid #e5e7eb;background:white;cursor:pointer;font-size:14px;color:#9ca3af;display:flex;align-items:center;justify-content:center;';
+                    removeBtn.onclick = function() { removeGenSegment(idx); };
+                    row.appendChild(removeBtn);
+                }
+
+                container.appendChild(row);
+            });
+            updateGenTotalDays();
+        }
+
+        // Build multi-destination system prompt
+        function buildMultiDestGeneratorPrompt() {
+            const party = document.getElementById('genParty').value;
+            const interests = getSelectedInterests();
+            const pace = document.getElementById('genPace').value;
+            const budget = document.getElementById('genBudget').value;
+            const constraints = document.getElementById('genConstraints').value.trim();
+            const totalDays = genSegments.reduce((sum, s) => sum + (s.days || 0), 0);
+
+            const partyDesc = {
+                'couple': 'a couple',
+                'family-toddler': 'a family with a toddler (under 4 years old) — nap time 1:00-3:00 PM is essential',
+                'family-kids': 'a family with kids aged 4-12',
+                'family-teens': 'a family with teenagers',
+                'solo': 'a solo traveler',
+                'friends': 'a group of friends'
+            }[party] || party;
+
+            const paceDesc = {
+                'slow': 'Slow and relaxed — no more than 2-3 activities per day, plenty of downtime',
+                'moderate': 'Moderate — 3-4 activities per day with breaks',
+                'fast': 'Fast-paced — maximize activities and experiences each day'
+            }[pace] || pace;
+
+            let prompt = 'You are a multi-destination travel itinerary planner. Generate a ' + totalDays + '-day itinerary spanning multiple countries.\n\n';
+            prompt += 'TRAVELERS: ' + partyDesc + '\n';
+            prompt += 'INTERESTS: ' + (interests.length ? interests.join(', ') : 'general sightseeing') + '\n';
+            prompt += 'PACE: ' + paceDesc + '\n';
+            prompt += 'BUDGET: ' + budget + '\n';
+            if (constraints) prompt += 'SPECIAL REQUESTS: ' + constraints + '\n';
+
+            // Trip structure
+            prompt += '\nTRIP STRUCTURE:\n';
+            let dayCounter = 1;
+            genSegments.forEach(function(seg) {
+                const dest = destinations[seg.destination];
+                const destName = dest ? dest.name : seg.destination;
+                prompt += '- Days ' + dayCounter + '-' + (dayCounter + seg.days - 1) + ': ' + destName + ' (' + seg.days + ' days)\n';
+                dayCounter += seg.days;
+            });
+
+            // POI sections per destination
+            genSegments.forEach(function(seg) {
+                const dest = destinations[seg.destination];
+                if (!dest) return;
+                const destName = dest.name;
+
+                // Group POIs by city center (same logic as single-dest)
+                const cityPois = {};
+                const allPois = [
+                    ...(dest.hotels || []).map(h => ({...h, cat: 'hotel'})),
+                    ...(dest.restaurants || []).map(r => ({...r, cat: 'restaurant'})),
+                    ...(dest.experiences || []).map(e => ({...e, cat: 'experience'})),
+                    ...(dest.kidFriendly || []).map(k => ({...k, cat: 'kid-friendly'})),
+                    ...(dest.markets || []).map(m => ({...m, cat: 'market'}))
+                ];
+
+                Object.entries(dest.cityCenters || {}).forEach(([city, coords]) => {
+                    cityPois[city] = { hotels: [], restaurants: [], experiences: [], kidFriendly: [], markets: [] };
+                    const r = coords[2] || 0.15;
+                    allPois.forEach(poi => {
+                        if (!poi.coord) return;
+                        if (Math.abs(poi.coord[0] - coords[0]) < r && Math.abs(poi.coord[1] - coords[1]) < r) {
+                            const catKey = poi.cat === 'hotel' ? 'hotels' : poi.cat === 'restaurant' ? 'restaurants' : poi.cat === 'experience' ? 'experiences' : poi.cat === 'kid-friendly' ? 'kidFriendly' : 'markets';
+                            const tagStr = (poi.tags && poi.tags.length) ? ' [' + poi.tags.join(', ') + ']' : '';
+                            if (cityPois[city][catKey].length < 10) {
+                                cityPois[city][catKey].push(poi.name + (poi.desc ? ' (' + poi.desc + ')' : '') + tagStr);
+                            }
+                        }
+                    });
+                });
+
+                prompt += '\n## ' + destName + ' (' + dest.flag + ')\n';
+                Object.entries(cityPois).forEach(([city, cats]) => {
+                    const total = cats.hotels.length + cats.restaurants.length + cats.experiences.length + cats.kidFriendly.length + cats.markets.length;
+                    if (total === 0) return;
+                    prompt += '### ' + city + '\n';
+                    if (cats.hotels.length) prompt += 'Hotels: ' + cats.hotels.join(' | ') + '\n';
+                    if (cats.restaurants.length) prompt += 'Restaurants: ' + cats.restaurants.join(' | ') + '\n';
+                    if (cats.experiences.length) prompt += 'Experiences: ' + cats.experiences.join(' | ') + '\n';
+                    if (cats.kidFriendly.length) prompt += 'Kid-Friendly: ' + cats.kidFriendly.join(' | ') + '\n';
+                    if (cats.markets.length) prompt += 'Markets: ' + cats.markets.join(' | ') + '\n';
+                });
+            });
+
+            prompt += '\nRULES:\n';
+            prompt += '- Use places from the AVAILABLE PLACES list above whenever possible.\n';
+            prompt += '- Each day should have a logical geographic flow.\n';
+            prompt += '- Include hotel, breakfast, lunch, dinner each day. Add sightseeing, optional, and nap items as appropriate.\n';
+            prompt += '- On transition days between countries, include a transit item (type "info") describing the travel method and estimated time.\n';
+            prompt += '- The first day should account for arrival, the last day for departure.\n';
+            if (party === 'family-toddler') {
+                prompt += '- MANDATORY: Include a "nap" item from 1:00-3:00 PM every day. Keep distances short.\n';
+            }
+
+            prompt += '\nRESPONSE FORMAT: Respond with ONLY valid JSON (no markdown, no code fences). The JSON must be:\n';
+            prompt += '{\n';
+            prompt += '  "name": "Itinerary Name",\n';
+            prompt += '  "isMultiDestination": true,\n';
+            prompt += '  "segments": [\n';
+            prompt += '    {"destination": "' + (genSegments[0] ? genSegments[0].destination : 'country-key') + '", "days": ' + (genSegments[0] ? genSegments[0].days : 5) + '}\n';
+            prompt += '  ],\n';
+            prompt += '  "days": [\n';
+            prompt += '    {\n';
+            prompt += '      "day": 1,\n';
+            prompt += '      "title": "City Name (Theme)",\n';
+            prompt += '      "destination": "country-key",\n';
+            prompt += '      "items": [\n';
+            prompt += '        {"type": "hotel", "name": "Hotel Name"},\n';
+            prompt += '        {"type": "breakfast", "name": "Restaurant Name"},\n';
+            prompt += '        {"type": "sightseeing", "name": "Place Name"},\n';
+            prompt += '        {"type": "info", "name": "Flight/Train to Next Country (Xhr)"},\n';
+            prompt += '        {"type": "dinner", "name": "Restaurant Name"}\n';
+            prompt += '      ]\n';
+            prompt += '    }\n';
+            prompt += '  ]\n';
+            prompt += '}\n';
+            prompt += 'Valid types: hotel, breakfast, lunch, dinner, sightseeing, optional, nap, info.\n';
+            prompt += 'IMPORTANT: Each day MUST have a "destination" field with the country key (e.g., "italy", "france").\n';
+            prompt += 'Do NOT include coordinates. Output raw JSON only.';
+
+            return prompt;
+        }
+
         function buildGeneratorSystemPrompt() {
             const dest = destinations[activeDestination];
             const destName = dest ? dest.name : activeDestination;
@@ -7313,8 +8114,34 @@
             submitBtn.innerHTML = '<span class="gen-spinner"></span>Generating...';
 
             refineConversation = []; // Reset refinement conversation
-            const systemPrompt = buildGeneratorSystemPrompt();
-            const days = parseInt(document.getElementById('genDays').value) || 7;
+
+            const isMulti = genTripType === 'multi';
+            let systemPrompt, days, userMessage;
+
+            if (isMulti) {
+                // Multi-destination mode
+                if (genSegments.length < 2) {
+                    errorDiv.textContent = 'Add at least 2 destinations for a multi-destination trip.';
+                    errorDiv.style.display = 'block';
+                    submitBtn.innerHTML = 'Generate Itinerary';
+                    submitBtn.disabled = false;
+                    return;
+                }
+                // Ensure all segment destinations are loaded
+                for (const seg of genSegments) {
+                    if (!destinations[seg.destination] && !destinationCache[seg.destination]) {
+                        submitBtn.innerHTML = '<span class="gen-spinner"></span>Loading ' + seg.destination + '...';
+                        await fetchAndLoadDestination(seg.destination);
+                    }
+                }
+                systemPrompt = buildMultiDestGeneratorPrompt();
+                days = genSegments.reduce((sum, s) => sum + (s.days || 0), 0);
+                userMessage = 'Generate the ' + days + '-day multi-destination itinerary now. Output raw JSON only.';
+            } else {
+                systemPrompt = buildGeneratorSystemPrompt();
+                days = parseInt(document.getElementById('genDays').value) || 7;
+                userMessage = 'Generate the ' + days + '-day itinerary now. Output raw JSON only.';
+            }
 
             try {
                 const modelId = (typeof getModelId === 'function') ? getModelId() : 'claude-sonnet-4-5-20250929';
@@ -7333,7 +8160,7 @@
                             model: modelId,
                             max_tokens: maxTokens,
                             system: systemPrompt,
-                            messages: [{ role: 'user', content: 'Generate the ' + days + '-day itinerary now. Output raw JSON only.' }]
+                            messages: [{ role: 'user', content: userMessage }]
                         };
                         if (genWebSearch) {
                             reqBody.tools = [{ type: 'web_search_20250305', name: 'web_search', max_uses: 5 }];
@@ -7378,15 +8205,46 @@
                 }
 
                 // Look up coordinates for all items
-                parsed.days.forEach(day => {
-                    if (!day.items) day.items = [];
-                    day.items.forEach(item => {
-                        if (!item.coord) {
-                            item.coord = findCoordForName(item.name);
-                        }
-                        if (!item.type) item.type = 'sightseeing';
+                if (isMulti) {
+                    // Multi-dest: resolve coords per day's destination
+                    parsed.days.forEach(day => {
+                        if (!day.items) day.items = [];
+                        const dayDest = day.destination || genSegments[0]?.destination;
+                        day.items.forEach(item => {
+                            if (!item.coord && item.type !== 'info') {
+                                // Try the day's destination first
+                                item.coord = findCoordInDest(item.name, dayDest);
+                                // Fallback: search all segment destinations
+                                if (!item.coord) {
+                                    for (const seg of genSegments) {
+                                        item.coord = findCoordInDest(item.name, seg.destination);
+                                        if (item.coord) break;
+                                    }
+                                }
+                                // Final fallback: active dest lookup
+                                if (!item.coord) {
+                                    item.coord = findCoordForName(item.name);
+                                }
+                            }
+                            if (!item.type) item.type = 'sightseeing';
+                        });
                     });
-                });
+                    // Ensure multi-dest metadata is present
+                    parsed.isMultiDestination = true;
+                    if (!parsed.segments) {
+                        parsed.segments = genSegments.map(s => ({ destination: s.destination, days: s.days }));
+                    }
+                } else {
+                    parsed.days.forEach(day => {
+                        if (!day.items) day.items = [];
+                        day.items.forEach(item => {
+                            if (!item.coord) {
+                                item.coord = findCoordForName(item.name);
+                            }
+                            if (!item.type) item.type = 'sightseeing';
+                        });
+                    });
+                }
 
                 // Normalize day format (label → day + title) for form-generated itineraries
                 normalizeItineraryDays({ _form: parsed });
@@ -7413,18 +8271,26 @@
             if (!lastGeneratedItinerary) return;
 
             // Generate unique key
-            const genCount = Object.keys(itineraryData).filter(k => k.startsWith('gen_')).length;
-            const genKey = 'gen_' + (genCount + 1);
+            const isMulti = lastGeneratedItinerary.isMultiDestination;
+            const prefix = isMulti ? 'gen_multi_' : 'gen_';
+            const genCount = Object.keys(itineraryData).filter(k => k.startsWith(prefix)).length;
+            const genKey = prefix + (genCount + 1);
 
             // Pick a color
             const colorIdx = genCount % GEN_COLORS.length;
 
             const itinObj = {
-                name: lastGeneratedItinerary.name || 'Custom Itinerary',
+                name: lastGeneratedItinerary.name || (isMulti ? 'Multi-Destination Trip' : 'Custom Itinerary'),
                 color: GEN_COLORS[colorIdx],
                 days: lastGeneratedItinerary.days,
                 isGenerated: true
             };
+
+            // Preserve multi-destination metadata
+            if (isMulti) {
+                itinObj.isMultiDestination = true;
+                itinObj.segments = lastGeneratedItinerary.segments || [];
+            }
 
             // Normalize day format and add to itineraryData
             normalizeItineraryDays({ [genKey]: itinObj });
@@ -7433,7 +8299,9 @@
 
             // Persist to localStorage
             try {
-                const storageKey = 'tripMap_genItin_' + activeDestination;
+                const storageKey = isMulti
+                    ? 'tripMap_genItin_multi_' + (activeRegion || 'global')
+                    : 'tripMap_genItin_' + activeDestination;
                 const existing = JSON.parse(localStorage.getItem(storageKey) || '{}');
                 existing[genKey] = itinObj;
                 localStorage.setItem(storageKey, JSON.stringify(existing));
@@ -7447,39 +8315,62 @@
             if (currentView !== 'itineraries') switchView('itineraries');
 
             closeGeneratorModal();
-            showCopyToast('Itinerary created! Check the new tab.');
+            showCopyToast(isMulti ? 'Multi-destination itinerary created!' : 'Itinerary created! Check the new tab.');
             lastGeneratedItinerary = null;
         }
 
         function loadSavedGeneratedItineraries() {
             // Called after destination loads to restore any generated itineraries from localStorage
             try {
+                // Load single-destination generated itineraries
                 const storageKey = 'tripMap_genItin_' + activeDestination;
                 const saved = JSON.parse(localStorage.getItem(storageKey) || '{}');
                 Object.entries(saved).forEach(([key, itinObj]) => {
                     if (!itineraryData[key]) {
                         itinObj.isGenerated = true;
-                        // Normalize day format for restored generated itineraries
                         normalizeItineraryDays({ [key]: itinObj });
                         itineraryData[key] = itinObj;
                         originalItineraryData[key] = JSON.parse(JSON.stringify(itinObj));
                     }
                 });
+
+                // Also load multi-destination itineraries for the active region
+                if (activeRegion) {
+                    const multiKey = 'tripMap_genItin_multi_' + activeRegion;
+                    const multiSaved = JSON.parse(localStorage.getItem(multiKey) || '{}');
+                    Object.entries(multiSaved).forEach(([key, itinObj]) => {
+                        if (!itineraryData[key]) {
+                            itinObj.isGenerated = true;
+                            itinObj.isMultiDestination = true;
+                            normalizeItineraryDays({ [key]: itinObj });
+                            itineraryData[key] = itinObj;
+                            originalItineraryData[key] = JSON.parse(JSON.stringify(itinObj));
+                        }
+                    });
+                }
             } catch(e) {}
         }
 
         function deleteGeneratedItinerary(key) {
             if (!confirm('Delete this generated itinerary?')) return;
 
+            const isMulti = itineraryData[key] && itineraryData[key].isMultiDestination;
             delete itineraryData[key];
             delete originalItineraryData[key];
 
-            // Remove from localStorage
+            // Remove from localStorage (check both single and multi-dest storage)
             try {
-                const storageKey = 'tripMap_genItin_' + activeDestination;
-                const saved = JSON.parse(localStorage.getItem(storageKey) || '{}');
-                delete saved[key];
-                localStorage.setItem(storageKey, JSON.stringify(saved));
+                if (isMulti && activeRegion) {
+                    const multiKey = 'tripMap_genItin_multi_' + activeRegion;
+                    const multiSaved = JSON.parse(localStorage.getItem(multiKey) || '{}');
+                    delete multiSaved[key];
+                    localStorage.setItem(multiKey, JSON.stringify(multiSaved));
+                } else {
+                    const storageKey = 'tripMap_genItin_' + activeDestination;
+                    const saved = JSON.parse(localStorage.getItem(storageKey) || '{}');
+                    delete saved[key];
+                    localStorage.setItem(storageKey, JSON.stringify(saved));
+                }
             } catch(e) {}
 
             // Rebuild tabs, switch to first available
@@ -7821,6 +8712,14 @@
             const flag = document.getElementById('mobileDestFlag');
             const name = document.getElementById('mobileDestName');
             if (flag) flag.textContent = dest.flag || '🗺️';
+            // Show region context if a region is active
+            if (activeRegion && manifestData && manifestData.regions) {
+                const region = manifestData.regions.find(r => r.key === activeRegion);
+                if (region && name) {
+                    name.textContent = dest.name + ' · ' + region.name;
+                    return;
+                }
+            }
             if (name) name.textContent = dest.name || 'Travel Map';
         }
 
@@ -7828,19 +8727,50 @@
             // Reuse the manifest data to show destination options
             if (!manifestData || !manifestData.destinations) return;
 
-            // Build a simple list modal
-            let html = '<div style="position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:9999;display:flex;align-items:flex-end;justify-content:center;" onclick="if(event.target===this)this.remove()">';
-            html += '<div style="background:white;border-radius:16px 16px 0 0;width:100%;max-height:70vh;overflow-y:auto;padding:16px;">';
-            html += '<div style="font-size:16px;font-weight:700;margin-bottom:12px;text-align:center;">Choose Destination</div>';
+            // Build region-grouped picker modal
+            let html = '<div style="position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:9999;display:flex;align-items:flex-end;justify-content:center;" onclick="if(event.target===this)this.remove()" id="mobileDestPickerOverlay">';
+            html += '<div style="background:white;border-radius:16px 16px 0 0;width:100%;max-height:75vh;overflow-y:auto;padding:16px 12px;-webkit-overflow-scrolling:touch;">';
+            html += '<div style="font-size:16px;font-weight:700;margin-bottom:14px;text-align:center;">Choose Destination</div>';
 
-            manifestData.destinations.forEach(d => {
-                const isActive = d.key === activeDestination;
-                html += '<button onclick="this.closest(\'div[style*=fixed]\').remove();fetchAndLoadDestination(\'' + d.key + '\')" style="display:flex;align-items:center;gap:10px;width:100%;padding:12px;border:none;background:' + (isActive ? '#eff6ff' : 'white') + ';border-radius:10px;font-size:14px;cursor:pointer;text-align:left;font-weight:' + (isActive ? '600' : '400') + ';color:#111;">';
-                html += '<span style="font-size:24px;">' + (d.flag || '') + '</span>';
-                html += '<span>' + d.name + '</span>';
-                if (isActive) html += '<span style="margin-left:auto;color:#2563EB;font-size:12px;">✓ Active</span>';
-                html += '</button>';
-            });
+            if (manifestData.regions && manifestData.regions.length > 0) {
+                // Region-based grouping
+                manifestData.regions.forEach(region => {
+                    // Region header with "Load All" button
+                    html += '<div style="display:flex;align-items:center;gap:8px;padding:10px 4px 6px;border-bottom:1px solid #f0f0f0;margin-top:8px;">';
+                    html += '<span style="font-size:18px;">' + (region.flag || '') + '</span>';
+                    html += '<span style="font-size:13px;font-weight:700;color:#374151;flex:1;">' + region.name + '</span>';
+                    const isActiveRegion = activeRegion === region.key;
+                    html += '<button onclick="event.stopPropagation();document.getElementById(\'mobileDestPickerOverlay\').remove();onRegionSelectChange(\'' + region.key + '\');loadRegion(\'' + region.key + '\');" style="font-size:11px;padding:3px 10px;border:1px solid ' + (isActiveRegion ? '#2563EB' : '#d1d5db') + ';border-radius:12px;background:' + (isActiveRegion ? '#eff6ff' : 'white') + ';color:' + (isActiveRegion ? '#2563EB' : '#6b7280') + ';cursor:pointer;font-weight:500;">' + (isActiveRegion ? '✓ Loaded' : 'Load All') + '</button>';
+                    html += '</div>';
+
+                    // Country list under this region
+                    region.destinations.forEach(destKey => {
+                        const d = manifestData.destinations.find(dd => dd.key === destKey);
+                        if (!d) return;
+                        const isActive = d.key === activeDestination;
+                        const isLoaded = loadedRegionDests.has(d.key) || !!destinations[d.key];
+                        html += '<button onclick="document.getElementById(\'mobileDestPickerOverlay\').remove();fetchAndLoadDestination(\'' + d.key + '\')" style="display:flex;align-items:center;gap:10px;width:100%;padding:10px 12px;border:none;background:' + (isActive ? '#eff6ff' : 'white') + ';border-radius:10px;font-size:14px;cursor:pointer;text-align:left;font-weight:' + (isActive ? '600' : '400') + ';color:#111;">';
+                        html += '<span style="font-size:20px;">' + (d.flag || '') + '</span>';
+                        html += '<span style="flex:1;">' + d.name + '</span>';
+                        if (isActive) {
+                            html += '<span style="color:#2563EB;font-size:11px;font-weight:600;">✓ Active</span>';
+                        } else if (isLoaded) {
+                            html += '<span style="color:#059669;font-size:11px;">Loaded</span>';
+                        }
+                        html += '</button>';
+                    });
+                });
+            } else {
+                // Flat list fallback
+                manifestData.destinations.forEach(d => {
+                    const isActive = d.key === activeDestination;
+                    html += '<button onclick="document.getElementById(\'mobileDestPickerOverlay\').remove();fetchAndLoadDestination(\'' + d.key + '\')" style="display:flex;align-items:center;gap:10px;width:100%;padding:12px;border:none;background:' + (isActive ? '#eff6ff' : 'white') + ';border-radius:10px;font-size:14px;cursor:pointer;text-align:left;font-weight:' + (isActive ? '600' : '400') + ';color:#111;">';
+                    html += '<span style="font-size:24px;">' + (d.flag || '') + '</span>';
+                    html += '<span>' + d.name + '</span>';
+                    if (isActive) html += '<span style="margin-left:auto;color:#2563EB;font-size:12px;">✓ Active</span>';
+                    html += '</button>';
+                });
+            }
 
             html += '</div></div>';
 
@@ -8140,17 +9070,19 @@
                 html += '<button class="mobile-trips-tab' + (isActive ? ' active' : '') + '" style="' + (isActive ? 'background:' + color + ';border-color:' + color + ';' : 'border-color:' + color + ';color:' + color + ';') + '" onclick="selectMobileItinerary(\'' + key + '\')">' + escapeHtml(name) + '</button>';
             });
 
-            // Generated itineraries
+            // Generated itineraries (single-dest and multi-dest)
             let genIdx = 0;
             Object.keys(itineraryData).forEach(key => {
                 if (!key.startsWith('gen_')) return;
                 const itin = itineraryData[key];
                 if (!itin) return;
-                const name = itin.name || itin.title || 'Generated';
+                const isMulti = itin.isMultiDestination;
+                const name = itin.name || itin.title || (isMulti ? 'Multi-Destination Trip' : 'Generated');
                 const color = GEN_COLORS[genIdx % GEN_COLORS.length];
                 genIdx++;
                 const isActive = key === currentItinerary;
-                html += '<button class="mobile-trips-tab gen-tab' + (isActive ? ' active' : '') + '" style="' + (isActive ? 'background:' + color + ';border-color:' + color + ';' : 'border-color:' + color + ';color:' + color + ';') + '" onclick="selectMobileItinerary(\'' + key + '\')">' + '✨ ' + escapeHtml(name) + '</button>';
+                const prefix = isMulti ? '🌍 ' : '✨ ';
+                html += '<button class="mobile-trips-tab gen-tab' + (isActive ? ' active' : '') + '" style="' + (isActive ? 'background:' + color + ';border-color:' + color + ';' : 'border-color:' + color + ';color:' + color + ';') + '" onclick="selectMobileItinerary(\'' + key + '\')">' + prefix + escapeHtml(name) + '</button>';
             });
 
             container.innerHTML = html;
@@ -8187,10 +9119,27 @@
             const itin = itineraryData[key];
             if (!itin || !itin.days) return;
 
+            const isMultiDest = itin.isMultiDestination;
+
             // Build day cards directly for mobile (with proper event handlers)
             container.innerHTML = '';
+            let prevDayDest = null;
 
             itin.days.forEach(dayData => {
+                // Insert destination segment header for multi-dest itineraries
+                if (isMultiDest && dayData.destination && dayData.destination !== prevDayDest) {
+                    prevDayDest = dayData.destination;
+                    const destConfig = destinations[dayData.destination];
+                    const destEntry = manifestData ? (manifestData.destinations || []).find(d => d.key === dayData.destination) : null;
+                    const destFlag = destConfig ? destConfig.flag : (destEntry ? destEntry.flag : '');
+                    const destName = destConfig ? destConfig.name : (destEntry ? destEntry.name : dayData.destination);
+
+                    const segHeader = document.createElement('div');
+                    segHeader.style.cssText = 'background:linear-gradient(135deg,#0d9488,#14b8a6);color:white;padding:10px 14px;border-radius:10px;margin:12px 0 6px;display:flex;align-items:center;gap:8px;font-weight:700;font-size:14px;';
+                    segHeader.innerHTML = '<span style="font-size:20px;">' + destFlag + '</span><span>' + escapeHtml(destName) + '</span>';
+                    container.appendChild(segHeader);
+                }
+
                 const dayCard = document.createElement('div');
                 dayCard.className = 'day-card';
 

@@ -1,5 +1,91 @@
 {
   "default": "japan",
+  "regions": [
+    {
+      "key": "western-europe",
+      "name": "Western Europe",
+      "flag": "🇪🇺",
+      "destinations": ["france", "spain", "portugal", "belgium", "netherlands", "germany", "austria", "switzerland", "ireland", "uk", "europe-ski"]
+    },
+    {
+      "key": "mediterranean",
+      "name": "Mediterranean",
+      "flag": "🌊",
+      "destinations": ["italy", "greece", "croatia", "montenegro", "malta", "turkey", "slovenia"]
+    },
+    {
+      "key": "scandinavia-nordics",
+      "name": "Scandinavia & Nordics",
+      "flag": "❄️",
+      "destinations": ["norway", "sweden", "denmark", "finland", "iceland"]
+    },
+    {
+      "key": "eastern-europe",
+      "name": "Eastern Europe & Baltics",
+      "flag": "🏰",
+      "destinations": ["romania", "albania", "latvia"]
+    },
+    {
+      "key": "north-america",
+      "name": "North America",
+      "flag": "🇺🇸",
+      "destinations": ["usa", "canada"]
+    },
+    {
+      "key": "mexico-caribbean",
+      "name": "Mexico & Caribbean",
+      "flag": "🌴",
+      "destinations": ["mexico", "bahamas", "turks-and-caicos", "panama", "costa-rica"]
+    },
+    {
+      "key": "south-america",
+      "name": "South America",
+      "flag": "🌎",
+      "destinations": ["brazil", "peru", "chile", "colombia", "ecuador", "argentina", "guyana"]
+    },
+    {
+      "key": "east-asia",
+      "name": "East Asia",
+      "flag": "🏯",
+      "destinations": ["japan", "korea", "china", "taiwan"]
+    },
+    {
+      "key": "southeast-asia",
+      "name": "Southeast Asia",
+      "flag": "🌺",
+      "destinations": ["thailand", "vietnam", "cambodia", "philippines", "malaysia", "indonesia", "singapore"]
+    },
+    {
+      "key": "south-asia",
+      "name": "South Asia",
+      "flag": "🕌",
+      "destinations": ["india", "sri-lanka", "nepal", "bhutan", "maldives"]
+    },
+    {
+      "key": "middle-east",
+      "name": "Middle East",
+      "flag": "🏜️",
+      "destinations": ["uae", "oman", "saudi-arabia"]
+    },
+    {
+      "key": "africa",
+      "name": "Africa",
+      "flag": "🌍",
+      "destinations": ["south-africa", "morocco", "ghana", "tanzania", "namibia", "mauritius", "seychelles", "mozambique", "uganda"]
+    },
+    {
+      "key": "oceania-pacific",
+      "name": "Oceania & Pacific",
+      "flag": "🏝️",
+      "destinations": ["australia", "new-zealand", "fiji", "french-polynesia"]
+    },
+    {
+      "key": "polar",
+      "name": "Polar",
+      "flag": "🧊",
+      "destinations": ["antarctica"]
+    }
+  ],
   "destinations": [
     {
       "key": "albania",
@@ -350,12 +436,6 @@
       "file": "destinations/slovenia.json"
     },
     {
-      "key": "south_africa",
-      "name": "South Africa",
-      "flag": "🇿🇦",
-      "file": "destinations/south_africa.json"
-    },
-    {
       "key": "south-africa",
       "name": "South Africa",
       "flag": "🇿🇦",
@@ -416,16 +496,16 @@
       "file": "destinations/turks-and-caicos.json"
     },
     {
-      "key": "uganda",
-      "name": "Uganda",
-      "flag": "🇺🇬",
-      "file": "destinations/uganda.json"
-    },
-    {
       "key": "uae",
       "name": "United Arab Emirates",
       "flag": "🇦🇪",
       "file": "destinations/uae.json"
+    },
+    {
+      "key": "uganda",
+      "name": "Uganda",
+      "flag": "🇺🇬",
+      "file": "destinations/uganda.json"
     },
     {
       "key": "uk",
