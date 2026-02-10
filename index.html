@@ -3663,17 +3663,10 @@
             region.destinations.forEach(function(destKey) {
                 var dest = destinations[destKey] || destinationCache[destKey];
                 if (!dest) return;
-                // Use defaultCenter as a representative point
                 if (dest.defaultCenter) allCoords.push(dest.defaultCenter);
-                // Also include POI coords for tighter bounds
-                ['hotels', 'restaurants', 'experiences', 'kidFriendly', 'markets'].forEach(function(cat) {
-                    (dest[cat] || []).forEach(function(poi) {
-                        if (poi.coord) allCoords.push(poi.coord);
-                    });
-                });
             });
             if (allCoords.length > 0) {
-                map.fitBounds(L.latLngBounds(allCoords).pad(0.05));
+                map.fitBounds(L.latLngBounds(allCoords).pad(0.15));
             }
         }
 
@@ -3768,22 +3761,6 @@
                     });
                 });
                 regionPoisActive = true;
-
-                // Zoom out to fit all POIs
-                if (regionPoiLayers.length > 0) {
-                    const allCoords = regionPoiLayers.map(m => m.getLatLng());
-                    // Include current destination bounds too
-                    Object.values(categoryGroups).forEach(function(group) {
-                        if (group) {
-                            group.eachLayer(function(layer) {
-                                if (layer.getLatLng) allCoords.push(layer.getLatLng());
-                            });
-                        }
-                    });
-                    if (allCoords.length > 0) {
-                        map.fitBounds(L.latLngBounds(allCoords).pad(0.05));
-                    }
-                }
             }
             // Update badge button state
             updateCountryChipStates();
