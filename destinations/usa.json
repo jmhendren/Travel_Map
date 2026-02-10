@@ -1114,6 +1114,31 @@
         "Photography Worthy"
       ],
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Sirena&center=26.705,-80.036"
+    },
+    {
+      "name": "Willett",
+      "coord": [
+        37.7849929,
+        -85.4611632
+      ],
+      "desc": "",
+      "longDesc": "",
+      "tags": [],
+      "gmapsUrl": "https://maps.google.com/?cid=5448365867476652132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 201,
+      "website": "http://www.thebaratwillett.com/",
+      "photoRef": "places/ChIJc7ZiSxRRaIgRZBBPyeN7nEs/photos/AcnlKN0JgZTatFBbquY2y4aMc_mBZWAJnnvfWPodKfq3vI7VMKWCNhBhQmIEeY68ByZ5EPv8iZ0mJ0YfrKBSanklPRMH-GbzKlYjYH_xKG80SiepBkd_zDAXog-q8l6zIdjy7fScEmPuveM5ysBK17VDN4Zi78bgwQqmq_wDRXFP-Tkv0og9CsUfyyU8TI4f3-qRaWd-oixPNpELOwJnHg-MLJIq6iIFs1c-UI9eK03Qw2IO-zfbhTSzHRyWMoj4biD9jQpjxaoPdFh4mJMTVg4kWU_qAKtglXNVwK21vQ3-HR0NUQ",
+      "photoAttribution": "The Bar at Willett",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 5:30 PM",
+        "Thursday: 11:00 AM – 5:30 PM",
+        "Friday: 11:00 AM – 5:30 PM",
+        "Saturday: 11:00 AM – 5:30 PM",
+        "Sunday: Closed"
+      ]
     }
   ],
   "experiences": [
@@ -1540,6 +1565,24 @@
         "Adventure & Active"
       ],
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Na%20Pali%20Coast%2C%20Kauai&center=22.168,-159.648"
+    },
+    {
+      "name": "John F. Kennedy International Airport",
+      "coord": [
+        40.6446124,
+        -73.7797278
+      ],
+      "desc": "Major international hub, departure point for transatlantic flights, world-class terminal amenities",
+      "longDesc": "One of the world's busiest international airports serving as a gateway for transatlantic travel and premium airline services.",
+      "tags": [
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17028024512003641840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 3.8,
+      "ratingCount": 54179,
+      "website": "https://www.jfkairport.com/",
+      "photoRef": "places/ChIJR0lA1VBmwokR8BGfSBOyT-w/photos/AcnlKN1j8aNhQS1XMdmiIos87jkYD0XSPWkLTh3_EO9cxTiDcHwpdm7hQsEp7U5GK_NAbqTwQKmKtDkcyWRN-HvEuBOpY5dZndX64a9EpVkIN2mXca9TO0qneR0litF0ldSpgPSmfs-9qsdbX8UKtkXlNT9kSzX55rov_KuI62QbnOCShX3q3tIgvMp0H5Snl-rEsX0BWYl7E-sH5E2JvmZY3ojTB7sxWaOebwQ_z_Dq5xaTEE-rBlm9dIFScgkzv48V_Wj6KQVuxFcHf8Bmu_RIPeP0L512MyubpBMpNhKNZDSAKqnBqLJsYpqqs6ewhvdjRxZ4BMz3Ij90bT5ce2DeMBNNoJQITlt6BejeDBRCEzsqKwno60RxhetPyhhksw559ZM-qKgvJCEz9YghtTMEFRHnnlXdmDKKkIJ-dCqvIJEWdig1njwcVhocW6z8i-p-",
+      "photoAttribution": "簡惠萍"
     }
   ],
   "kidFriendly": [

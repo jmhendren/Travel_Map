@@ -1,0 +1,42 @@
+{
+  "key": "ghana",
+  "name": "Ghana",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇬🇭",
+  "defaultCenter": [
+    7.9465,
+    -1.0232
+  ],
+  "defaultZoom": 7,
+  "hotels": [],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Ghana",
+      "coord": [
+        7.946527,
+        -1.023194
+      ],
+      "desc": "West African cuisine, jollof rice tradition, vibrant food culture",
+      "longDesc": "Ghana's culinary scene is defined by iconic dishes like jollof rice, representing West African food traditions and vibrant local flavors celebrated across the region.",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Cultural & Historical"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6113621310650438198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJx9baqM1a1w8RNtKT0DDy11Q/photos/AcnlKN0k5dQi6Xw8bVdQB0zi-XY21JezToZ2a2z7GxdZlsmEMvAAv3w1ZWHzh_BQN29rhHkmDn1NV3IfSzh6ICwKjqYVCJ4_TwrvnTeNYMjzE1irxhopYeSW4np9X65vIh3z_P3ThBm691QCGXa0GPakFweAL_5HKta92T8E3LWz2ldpR5kY8khMNQCMGvw6m3kZJWeWBtNzzdWIhbjVwMiABfdj7LIT9DKAlnsRVwrFKWfELw0J26h__jjG7xKASns3C8Sd_jV527kwxvEYlfRSd1W8pZ82OOA9AZ_x0xKwa0-L0DDGpuXY7CM8fE-nMbmnzuPlDdfiRNv1nyhQlm9KbfNxnFjh26NT6ljHzhvqdPcu_lAD9Z8ikF4v_aY2pdV0TThXEoaldsAZ9tFKVoF_rNO9ctlRgERysQv2z3gHNfI",
+      "photoAttribution": "Fred Kusı"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Ghana": [
+      7.9465,
+      -1.0232,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

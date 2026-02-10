@@ -1,0 +1,173 @@
+{
+  "key": "norway",
+  "name": "Norway",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇳🇴",
+  "defaultCenter": [
+    65.0618,
+    10.9962
+  ],
+  "defaultZoom": 5,
+  "hotels": [
+    {
+      "name": "Åmot",
+      "coord": [
+        61.3639261,
+        5.7305516
+      ],
+      "desc": "Riverside estate retreat, hand-foraged meals, riverside saunas, 19th-century charm",
+      "longDesc": "A historic Norwegian estate in remote fjords offering intuitive hospitality, riverside saunas, hand-foraged dining, and rooms steeped in 19th-century character. A retreat celebrating nature's simplicity and well-being.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa",
+        "Cultural & Historical",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7982055670339783539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 68,
+      "website": "https://www.amotnorway.com/",
+      "photoRef": "places/ChIJW-_6GowtFkYRc8v-Z1f1xW4/photos/AcnlKN13rGQMmaiEDGHe_OuXu6XlhvVF_4oYWeig4szRCuM37nDviSgV9UDunZ9mhQH6V3NC-bdjeqK6qX1Y_ttEA2e7p6ZeXeLKbPrZ7P3DWaURZuc7Upl4Ruz9N30U2MxGXFEMywqcsjosX9abGi3qLiJReGQ_JyZUcJ_y1w1aGgpNyzGQz5MYVXKdfpg0Pn3ALmNx9pOKj_OUuvCQ3Ht0yvKFbvXTnaPbWvLgmyYgGuK-w0k9p3MC0S_02rAim35V9BvSAMYU4yBzKBgVLxHCCD7hgB5k3zngAFP9xpoi69S0Eg",
+      "photoAttribution": "Åmot"
+    },
+    {
+      "name": "Juvet Landscape Hotel",
+      "coord": [
+        62.33250700000001,
+        7.4708615
+      ],
+      "desc": "Minimalist alpine lodge, dramatic mountain views, architecture-focused design",
+      "longDesc": "A striking modernist hotel nestled in Norway's fjord landscape, featuring floor-to-ceiling windows that frame dramatic mountain and waterfall views. Each room is a minimalist sanctuary designed for contemplation and nature immersion.",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12499760417263300385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 271,
+      "website": "http://www.juvet.com/",
+      "photoRef": "places/ChIJTURe7OQZFEYRIa93eN8ReK0/photos/AcnlKN0t6VTIna8KMF0h5Tbhz1VPTltuA3QevRof4lhwMVX8tKFx-ctWc1MKSm1xseBePblm45dFYT-FdCQO7liznPyPtu4if5Uj1eU9v-kqMJpnJ8RPfsEStI9PD4CgSmfHJWpwycAJueOQMXHQuiahFgj9_fVuPLRs3bTHfq1ijnnUs4wr3XpQEThdqDMbMideY9494NeYzbecbtwYFIu8Ow_5J-VVLg9V5buqBkR-bTMhf65gOR3ewTTbaYlkg1KrrDSnZfBpVWEYQLI6TcXjfCBCjMJiyTK838iABWDR5Ny8Pg",
+      "photoAttribution": "Juvet Landskapshotell"
+    },
+    {
+      "name": "Manshausen Island",
+      "coord": [
+        67.8348561,
+        14.772649999999999
+      ],
+      "desc": "Award-winning cabins immersed in nature, panoramic Nordic views, peaceful retreat",
+      "longDesc": "An exclusive island retreat in Norway featuring award-winning cabins designed to bring guests as close to untouched nature as possible, offering serene Nordic landscapes and peaceful accommodation.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14513420354131545689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 5,
+      "ratingCount": 6,
+      "photoRef": "places/ChIJV2t9Hhjt3kURWU7vq-oGask/photos/AcnlKN1AYmqaxMcl9L4d-ZmA4-cNtEQ1uH4cAmFrxoQHaZ_x4hcyLVLO0IVM1LdmSlJ9Co7hAijOg-hyumtishuVA5uzewlS7A8bkLV8iwE0oQZ3XvR6Mak-UyQww4_tAxXo6lr_obPtrad-S--w_l0tM71ajELolYiH-Zu7uJAdg88Ya-3fwUc0MujzgWWlEM5bHwCmKxeCPlhugII03DbyEL6o6E5lwqGdXlCIALzoN__nsDW4lQFrq9BvdM8C8He33XIlKtp9-7w17_OHSS9HHB5by6q1KsTi1uBkYzR4IHl66J7W6QSiTrHzhbTJjVJFVbhUKjJowsYNdUqDFCKpor5SyRP-BUV71fAEUJPOuRyxWSFjRYHL1lYhZjO0T4lPjG067xJN9NvjsQquK4iML_r7z_KpPXWI4RFhulHJZBKj8g",
+      "photoAttribution": "Mehmet Sarıgül"
+    },
+    {
+      "name": "Union Øye",
+      "coord": [
+        62.1926792,
+        6.6603251
+      ],
+      "desc": "Luxury mountain hotel, Condé Nast Gold List 2024, fjord views, bespoke experiences",
+      "longDesc": "An exceptional luxury hotel recognized among the world's top 68 resorts. Union Øye offers unforgettable experiences in a stunning Norwegian setting with dedicated service and elegant accommodations.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1149195629880282276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 676,
+      "website": "http://www.unionoye.no/",
+      "photoRef": "places/ChIJ9U5IA5CUFkYRpAxyMFbD8g8/photos/AcnlKN0uFZ4RpJ3o_KHrywfFc4vRmi-GNDgpnbgulWV_mJlbmg5D4er8L9C-V-F5WZJr3te_Y4t5G_fNiH4JcNxrKhh2Q7fgdLRb5RrgpdBA8oZtVkMva0YIgiaP2_lbj_CEUZL-gIweg4Oxy4TXpva4fHdNtPEy_RcKkrhzHPL1ynAgj-JNqkiSiUfcno51-P5LYJ8R7tvajFGSA6cgjqLSSHBR1T7J3HyhU010GVsc-je4JGMdKSheppjOIzggYJ97NHAtqT1MquBbkdNPTO_9uD0IBq673UvjviDmYeEXXa58Ew",
+      "photoAttribution": "Hotel Union Øye"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Narvik",
+      "coord": [
+        68.4384984,
+        17.4272612
+      ],
+      "desc": "Arctic Norwegian port city, final train destination, gateway to Lofoten Islands",
+      "longDesc": "A dramatic Arctic destination at the end of the overnight train journey, offering stunning mountain scenery, northern lights views, and easy access to the spectacular Lofoten Islands.",
+      "tags": [
+        "Photography Worthy",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8951158478221604493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJ_x_kxYeV20URjfaf7jXnOHw/photos/AcnlKN1whMDxjNI5fKm9ARnnNgq5Br0sjps2wxCixsTMlPwNgDCNJ8-kF8yJjAFEaMZ3YBiHPDmn15Xl0qBkCtkHZjhnZkLouHzoV62ebgImQL9OjDHrbib1Qu8qzqWyivpbz-m6Pa9qgP1uawSRLy45ujwJeEEHDtuYPF6CpF923U7zdea7_VckD03-LfShuZOpaBywNG6bpgIcI9Cf2nVAd_H3TjKwFiHH4lSdKxsZ5_bOJI_w48f4W26XSU-HIoGJ8K11ryIpuGSU8j6F9pwWOgzs-b6L__aAD2Z3-L1O8ElzeNx7PNQYvFBcFD2lU-fYwFI3cpn51Bh185vuAkh6837Z0oL6uifkAeBJ3AegR7ndN7yNB1Lta3hAzpa1nRm4muSmBtaMKpoiuvQr6dLuQFfaiXF4d-MZh08YYU6EhfztR7_v",
+      "photoAttribution": "Lisbeth Monica Pedersen"
+    },
+    {
+      "name": "Lofoten Islands",
+      "coord": [
+        68.20860685,
+        13.915736949999998
+      ],
+      "desc": "Iconic Arctic island chain, dramatic peaks, New Zealand-like scenery, accessible via bus from Narvik",
+      "longDesc": "A breathtaking archipelago in Arctic Norway featuring jagged mountains rising from the sea, accessible by bus from Narvik and renowned for its otherworldly landscape and winter northern lights displays.",
+      "tags": [
+        "Photography Worthy",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7033656590888352861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 1427,
+      "photoRef": "places/ChIJKejz42o_3kURXTz8S2eRnGE/photos/AcnlKN0YKD7oF47cozjrIhQ5xKTW7PzBHCg6fxcASBpK8RwMNzUVks2YULcaGG-SpDyjtLfn2DbYUYRZ3UOblcFg7cLI3eyb0pFWtS0k3NDQYgFbN48coc0WFyKGmeCftI5KZKJ6fJWhmMDLQNoVlgGfqQN6z3kFkWTHaRy_eQhMKd1HS8G3h99o9BoaqLCX9Xe3mj36nToYySajxa_KFHk-7X7ddpoUwKIPZEv2cI8yBgxRI9GfukXJEfHlhLUFEGEki1He1TbILuBkq_45L8qwwpNsZRnS-beKBr-rk_xyQjsjrS7vSC_R-QH8x7fDg3Bzxf04ePTn8kcTraHLhKbCF4v03HB2DqzRpIhP9GchSO7JK9Tbxczk3ctgb0_vtIgKnMRvvuyqkFvP_DjyQJaZxrmYdxSs0xTNeJHTeKP5u33UjME",
+      "photoAttribution": "أبومحمد اليافعي"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Åmot": [
+      61.3639,
+      5.7306,
+      0.03
+    ],
+    "Valldal": [
+      62.3325,
+      7.4709,
+      0.03
+    ],
+    "Narvik": [
+      68.4385,
+      17.4273,
+      0.03
+    ],
+    "Lofoten": [
+      68.2086,
+      13.9157,
+      0.03
+    ],
+    "Nordland": [
+      67.8349,
+      14.7726,
+      0.03
+    ],
+    "Geirangerfjord": [
+      62.1927,
+      6.6603,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

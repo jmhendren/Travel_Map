@@ -1,0 +1,146 @@
+{
+  "key": "montenegro",
+  "name": "Montenegro",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇲🇪",
+  "defaultCenter": [
+    42.4456,
+    18.667
+  ],
+  "defaultZoom": 9,
+  "hotels": [
+    {
+      "name": "Portonovi",
+      "coord": [
+        42.4350835,
+        18.6023251
+      ],
+      "desc": "Luxury Adriatic resort, Montenegro's hidden gem, breathtaking coastline views",
+      "longDesc": "A luxurious Adriatic Coast resort that embodies Montenegro's perfect blend of breathtaking coastline, rugged mountains, and charming character—an untouched yet refined destination.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15121612870502206294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 2940,
+      "website": "https://portonovi.com/en?utm_source=google-business&utm_medium=organic&utm_campaign=resort",
+      "photoRef": "places/ChIJU1oR6pM6TBMRVktCucnC2tE/photos/AcnlKN2MvlXfyTSOOZYNgoA9PzS4Sxds4rGdRfHw1LASW2HO_qEK8x_dkmS1KPsUT0zjVk1aO8SgCEOZNAJ_vy4tZmcW_wMnwaugHOyiyFcto4rFuwS6MsyknJRS_G3Oc3J0BL--9ko8PUvzztO9rBUfRDgwMBYBneIUhFSUQlm_-WngR44SN7FGJejY7_-xBdXc2yBKEhkSf2yvGi-jYk_SuIpjorG2ziLEuvj5gb3tCRMlMkoUFLuWwWOPNN8obeF2vmx_wM58-7kDuTlP_ijRdPaVi8SoPyLPY2OJwJXcnP0A3A",
+      "photoAttribution": "Portonovi Resort",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "One&Only Portonovi",
+      "coord": [
+        42.435378899999996,
+        18.5968481
+      ],
+      "desc": "Luxury Adriatic resort, guided mountain hikes, world-class dining, wellness pioneer",
+      "longDesc": "An exceptional one-off resort at the entrance of Boka Bay on Europe's 'New Riviera', offering guided mountain adventures balanced with chic waterfront relaxation and pioneering wellness experiences.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Wellness & Spa",
+        "Fine Dining"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=155078695785499551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 807,
+      "website": "https://www.oneandonlyresorts.com/portonovi?utm_medium=organic-search&utm_source=gbp&utm_campaign=gbp_ao_y_oopm_row_wt__ao__kz&utm_content=__&utm_term=one-only-portonovi&utm_id=n4j4dd",
+      "photoRef": "places/ChIJX46E4K07TBMRn4uGjkDzJgI/photos/AcnlKN0fFwLOOeJuJ1Fzo0gKLvAQKR6pCP0L6NE8NLxbM2MQqsUDAcCkV2pmJzJtINpiIaVHLVKmP0SufEZVNlJ3q4d7QzpgrmULJdOoq_3wdYguBMrfy2y4RqJ4EiL_c5uROPCSHWwqhr48V6SS3QYTV8sftm4UqMiEvlFAH5h4Pm0cW2yR2ymoH4eq1zpvpUN-EYbwIzJitLrs3fs_da1h2-WoVpBQIFkNeAjsuudbxXuJXY0Cx3JlPFgdZyprZ2aQy9ZvbzhPTJ7CtLF8UPwbcGecyYndKf0oAp_IGSX-I62Kng",
+      "photoAttribution": "One&Only Portonovi",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Heritage Grand Perast",
+      "coord": [
+        42.4871105,
+        18.697571399999998
+      ],
+      "desc": "Luxury 5-star hotel, waterfront elegance, Adriatic views, heritage charm",
+      "longDesc": "A luxury waterfront hotel in the historic Bay of Kotor town of Perast, offering 5-star accommodations with stunning Adriatic Sea views and refined Mediterranean hospitality.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14240729933130727706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.4,
+      "ratingCount": 537,
+      "website": "https://hotelheritagegrandperast.com/",
+      "photoRef": "places/ChIJa-c4ZgQzTBMRGoGHbmw8ocU/photos/AcnlKN3sHRrrZa3uPTFJ9Hdf9LF8rC7kc8wKI37hXbH539e9UksCsibThvWA5IYwi0Dkflnc_sHNUgv2Q1rLiZ2QsqY4a6wQZvpinlBlwaXjQU8FnbWAQaepWiZ-aC091-0IpbtJ8w-NaEc4MiNvHzgNR4WhQABdON9Cosj9_GUOh4dwJQrulCqI3m9sD80V18fh9FUeILA029GyrjCqTHuMeAzU7xgcWtkUDHa8uSyeJ4eF3v9eewj-9Q7_JVrSb8hfsZjdtOtJfRPlZRN4degZyRztO_XHsfw8K1ITZAFI__lStA",
+      "photoAttribution": "Heritage Grand Perast by Rixos",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Boka Bay",
+      "coord": [
+        42.424662,
+        18.771234
+      ],
+      "desc": "UNESCO fjord landscape, storybook towns, mountain-to-sea natural wonders",
+      "longDesc": "A stunning natural harbor on the Adriatic featuring picturesque medieval towns nestled against dramatic mountains, offering immersive cultural tours and fresh-air adventures.",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8823661481534853894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJG8lwPQYzTBMRBpMuIV7xc3o/photos/AcnlKN3wwT983ZIhnNnujqUHrzBFXkP24GaFCiF-4xN0UJFO0UHwBS_5BlsJUstryQ_yS3FYOewZkxGmRLMgwsUWYooQ5B3GNDQ83ybKymQPsNlmV5RFM2PA7Z3v8uK4nyb42e-OaiWzR7BX1jrj2DOVAaBoNJxEIX-HcK0rZBhWsBOv9JhbFpix8L5ZRAJp9B6yvUZ1C9buJNkkbwmMUgReH3jiYWwxI1CX4Xw1gkiExANqkZlX-Ufyyfol4C8YwBBT41UvSNma_NzYDE3e3KZZCmRrvckFje4OU1AbDJsqBlmef0TsUOTx-9yvzqzwowiKz13WSDo3BVzQPg9xYNacYkWPN4tO4lPg7ARLRM9f1aPEHaSmeUNGuaxSQoR3OZ2o2PSfKYRdxSGX3lt5FQy98rirGKxyZ0MJIi0_hzUvbx-Wxnw",
+      "photoAttribution": "Fitor Haziri"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Herceg Novi": [
+      42.4351,
+      18.6023,
+      0.03
+    ],
+    "Perast": [
+      42.4612,
+      18.6472,
+      0.07
+    ],
+    "Kotor": [
+      42.4247,
+      18.7712,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

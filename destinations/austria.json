@@ -1,0 +1,188 @@
+{
+  "key": "austria",
+  "name": "Austria",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇦🇹",
+  "defaultCenter": [
+    47.6771,
+    12.7795
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Rosewood Schloss Fuschl",
+      "coord": [
+        47.808966,
+        13.2557388
+      ],
+      "desc": "Lakeside luxury resort, See Club day passes, seasonal cocktails and cuisine",
+      "longDesc": "A sun-drenched lakeside resort where afternoon leisure transforms into warm evenings by the water, featuring the newly opened See Club with fresh cocktails and seasonal light dishes on the deck.",
+      "tags": [
+        "Splurge",
+        "Cocktails & Bars",
+        "Romantic",
+        "Wellness & Spa",
+        "Cultural & Historical",
+        "Fine Dining",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4682295930659706654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 1372,
+      "website": "https://www.rosewoodhotels.com/en/schloss-fuschl-salzburg",
+      "photoRef": "places/ChIJYxvrdmujdkcRHpc6UFfb-kA/photos/AcnlKN21qpdxFi13W2xLdr-TtjCj0FpF9d9UIv-q7gOYUSdUivdU_3G_L1eAMAK8VlPI1HSL8ltTMwkAozGAOuiFeAcaqGEGL4pOqxGoQnVCuKSfvxjSKrSTA4qZCwPUu5y9dXEzSsgZcmFPYb-QgDW8WnvhlJXCjnNvexhXM9Gc-aPZfidGTOXezlKMkhSsYbJL4NzYqGBEo5ies0ODD8l6YbRH_-QT0mbjVAWtgPN9nGbaUo5unM927Y8jnMSfu3Hyld_9gyUiq_MjOrifm8PX9rwesDRufuLxp5HeC-DlOesKiA",
+      "photoAttribution": "Rosewood Schloss Fuschl"
+    },
+    {
+      "name": "Forsthofgut",
+      "coord": [
+        47.439227599999995,
+        12.715772699999999
+      ],
+      "desc": "Alpine nature hotel, summer retreat, Austrian Alps, seasonal beauty",
+      "longDesc": "A nature-focused alpine hotel in Austria's scenic landscape, celebrated for its summer transformation and immersive mountain experience.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5276074687208735528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 1125,
+      "website": "https://www.forsthofgut.at/",
+      "photoRef": "places/ChIJI-ViNKT-dkcRKMOBY_lhOEk/photos/AcnlKN2Unw6l0_XoywGdYcoAqyZqYVTlFXOPqCFg9jhrn0Oso3xI40tD6ZAJjSsYkEDTrGPEynEl-35O7gIU8M9DpLvo1X06JYdrKMBNzbhjr5EMUdi8GxMaCGjTI0rbcSqvzmzemzE5XI7F6KFs8jBO8iOHM_CeZA4WLGUJWoBKp8Dksq8gIotKRExw8EumeotiEefqNU2jL9kgrPkm61PJh6fgy5tc2YY30qMPNobhfxQAVWtQ3g5qJ27jEK0f--UT8Kyc8j4FFyGnw2kQ5pd7Vgsfds05a-li24JGY6Ny8Wi5DQ",
+      "photoAttribution": "Naturhotel Forsthofgut",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "See Club",
+      "coord": [
+        47.808966,
+        13.2557388
+      ],
+      "desc": "Lakeside day club, seasonal cocktails, fresh cuisine, deck dining",
+      "longDesc": "A waterfront day club offering cool swims, fresh cocktails, and light seasonal dishes served on a sun-drenched deck, perfect for escaping to the lakeside.",
+      "tags": [
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Splurge",
+        "Cocktails & Bars",
+        "Romantic",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4682295930659706654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 1372,
+      "website": "https://www.rosewoodhotels.com/en/schloss-fuschl-salzburg",
+      "photoRef": "places/ChIJYxvrdmujdkcRHpc6UFfb-kA/photos/AcnlKN3QoLwOB4RmA0yOOAoDXuDU8WXiAr9VWxOHtI1I1p8O9CTrmygMG1P1MMW6t_uLZ1TY0_aLVaxf_F1Mix7kwWJuUA6wZ5G0ZyJcqgJu8kItv0bD12GH3U5-CKDeG4PHwroyQGHDSAMFQicAh1IDpVuxo4QailSnef9o8JO92sPPEmt6hQhCzD5sC2Pk9_ZqYLZ-kOa3EnAkztCfjvKhQQW8W_GFfnDixNBxkE_4HVDUucWnzCOx3JJOHraFMiC1Za4l7tCWMHbSuSvrkgFnEdlqC886C-SiWVwEuhHaPSlxsQ",
+      "photoAttribution": "Rosewood Schloss Fuschl"
+    },
+    {
+      "name": "Schloss Restaurant",
+      "coord": [
+        47.808966,
+        13.2557388
+      ],
+      "desc": "Gourmet dining within historic castle, fine Austrian cuisine, Alpine views",
+      "longDesc": "An elegant gourmet restaurant located within the historic Rosewood Schloss Fuschl castle, offering refined Austrian cuisine with stunning lake and mountain vistas.",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4682295930659706654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 1372,
+      "website": "https://www.rosewoodhotels.com/en/schloss-fuschl-salzburg",
+      "photoRef": "places/ChIJYxvrdmujdkcRHpc6UFfb-kA/photos/AcnlKN1d0diNcMdPatW1wX9YG-Lt-E2V5stErDPRaKDHmv8tcPaKzOkV5L2hiR2mY7fm17aKkLTMPK7eQUAiBdI4HFdlUXeIaWSYUJ30oiQVorgqMZGcDSOLi5t9haMlHcTGh_sosR2DAe80U2vRWWNZByU3oRjP7O311CEG2t1xgXLUSndEQzoCDpbi-G-jFoRquZ-Mtxc5JJLuyETKR8AGTdvwHk-M2BgOfPRTfOAD0ulZiuPtqmK5BxolsoSBvTC6RTZ1DtsO6Cnq1aIxkM2YT9ROH6nNphjzMup-MBkiVME4UA",
+      "photoAttribution": "Rosewood Schloss Fuschl"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Ehrwalder Mountain",
+      "coord": [
+        47.3873965,
+        10.938142299999999
+      ],
+      "desc": "Alpine mountain peak, cable car access, skiing, hiking and biking destination, 1,500m elevation",
+      "longDesc": "A prominent Tyrolean Alps peak accessible via cable car, long favored by winter sports enthusiasts and warm-season hikers and mountain bikers seeking alpine adventure.",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8296613250550123092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 5650,
+      "website": "http://www.almbahn.at/",
+      "photoRef": "places/ChIJC9hpGkgdnUcRVMrWRct9I3M/photos/AcnlKN2rLvBeM9PYykwgX3YrwH9yAj-Jcm6LoZEyzeKNEB5Zmv_PqATF5Qz636xcJ57bK4fqKYVth54GXO0kCuegXkN0Ky8ZZyldrviIKz6NN-8BvC7GpUh_XEhp7gNy6USzAQVelcd62iSeRiv3uUQr0o9vLVM2k9hoUQUScau7e4NfBflTd41Xu9YAuoMz9mopH6Z-BF2CV5YCwpGwkhYjRpy-xAU8aPUbOhl3IV1hDWRxI_kmZ654QY56Ve90lEbmJ160qgTAQm21lLyD1YgqZvSBo6RER2n0aoQkQRbDjWz2zoS3BBF_6AIpoUidVXrJuhlUBWvJ5TUNxIKlTiD8sAXeAOlEk8Rda5CqorciPPydBCD9QYXH19ng5KxLiqW4x_Sk7jaSj55NNjlnYPU1Ee5vE4wvXUD1PFd3qzbDdXXRApU",
+      "photoAttribution": "Martin Pertl",
+      "hours": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: 8:00 AM – 4:30 PM",
+        "Sunday: 8:00 AM – 4:30 PM"
+      ]
+    },
+    {
+      "name": "Asaya Spa",
+      "coord": [
+        47.808966,
+        13.2557388
+      ],
+      "desc": "16,000-sq-ft luxury spa, infinity pools, saunas, wellness retreat",
+      "longDesc": "An expansive wellness sanctuary spanning 16,000 square feet featuring infinity pools, saunas, and comprehensive spa treatments in a serene Alpine lakeside setting.",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4682295930659706654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 1372,
+      "website": "https://www.rosewoodhotels.com/en/schloss-fuschl-salzburg",
+      "photoRef": "places/ChIJYxvrdmujdkcRHpc6UFfb-kA/photos/AcnlKN13rVVqcpStyvg_tCBz0W9OgxyDpl6nFZ7BxOaBO5YNLUDct5Ke0f7hgq2yJA6vp6Z1MvAwAps6K9e3zYA00obsltPVqLxFvUg6xa8xnHNOmN0wO7Jjdiaedu7iEr2Nt7qCOAn3ZHCfXGkXJa7OS2ATNWVjzfeFxkS9dmTZm34fnt54kdCdOrmelGQypTlbtgisBkvswxZUjPP5cgot1_4l7dl3zsJl1IrQlSsQkqdym0d_EjCuaUV6XbHGJz66xkuf_ee5NC9-IE0GfgGvYcFsbdPAvpawuuLExZuRHmaSuA",
+      "photoAttribution": "Rosewood Schloss Fuschl"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Fuschl am See": [
+      47.809,
+      13.2557,
+      0.02
+    ],
+    "Göstling an der Ybbs": [
+      47.4392,
+      12.7158,
+      0.03
+    ],
+    "Ehrwald": [
+      47.3874,
+      10.9381,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

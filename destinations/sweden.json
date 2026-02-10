@@ -1,0 +1,124 @@
+{
+  "key": "sweden",
+  "name": "Sweden",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇸🇪",
+  "defaultCenter": [
+    62.2898,
+    19.3147
+  ],
+  "defaultZoom": 5,
+  "hotels": [
+    {
+      "name": "Ett Hem",
+      "coord": [
+        59.345602799999995,
+        18.0677011
+      ],
+      "desc": "Serene minimalist design hotel, intimate atmosphere, curated interiors",
+      "longDesc": "A tranquil Stockholm boutique hotel celebrating serene minimalism and thoughtful design, where every detail invites guests into a carefully curated home-like sanctuary.",
+      "tags": [
+        "Art & Design",
+        "Splurge",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=656910427315130008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 425,
+      "website": "http://etthem.se/",
+      "photoRef": "places/ChIJ5dbUPWqdX0YRmE5enY3QHQk/photos/AcnlKN3PZ1A-EiOYQmRPHrZbyJShNMA97qVDAN3lTPR9MMbvdB279WjVG4ECaWNfg_EU6w5w1x2oAyjPlJwId1HGbLM270WnQ0duQiforDc4qrFXEpbEYI65Ph7Y7W5B-usol3ry8D6jw-kay4iNvlfL8HGv5JIldP4t-m3uAnvN2PEsUYCWL7N9FGMfioDZhGRcrEKSMMdEQsy1i-hqOsPEuHeK2y7d91LbD34D9eTjRlP0s1ETvScwM0nZdZ7YuQCeVCPx-KMfJwf_El8Z542UGnylbOoHvYe0vD5KhICS2HdDcQ",
+      "photoAttribution": "Ett Hem"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Stockholm to Narvik Night Train",
+      "coord": [
+        59.3301476,
+        18.0582377
+      ],
+      "desc": "Overnight sleeper train through Scandinavia, northern lights viewing, scenic arctic route",
+      "longDesc": "An enchanting overnight train journey from Stockholm through Swedish Lapland to Norwegian Narvik, passing through icy fjords and offering prime northern lights viewing opportunities from first-class sleeper cabins.",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10936239468968065597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.2,
+      "ratingCount": 2695,
+      "website": "http://www.jernhusen.se/",
+      "photoRef": "places/ChIJbfIC9mCdX0YRPbpyttpTxZc/photos/AcnlKN0P2JqdgkDQ-xAVDxRwFBH5i6pSTstuhJCrCcnq2DiybNuejdbyzQ5BEm66W51_lNA8V75dLYJGFREXYUfXULNp9xS9Z81kJ3NAFdlWDx3l5Vl5myDzUZyfN6P0GkKUX5Z0xX5PS8Zp2uUPymT_arUcmZlaJgNr2YjoW5d0tJADfvr4BB0AxzP2buEWo-NUI9JDrsZu1BVuXsatZ5hu-zHSjNPv3wyKOe0A1Y1MuDuy4gDIdaT2IGbAL-Ex07dLamA_HdNr4729wZByww3Ou0qw0YL31Ei6HdzUyaOEzxktUO1VV8Xk8qSlhlppP5r48WHd--PBC5xZP3kG1j3R1Wc-nwwdxF1xpPwgM87P3g8eT4RZiD01yUPwLpA2_6tn6RAdfJQFxXNALdjG023sWmOr8b29lNvr91ggimvgMtaYjwY",
+      "photoAttribution": "vanessa carpanese"
+    },
+    {
+      "name": "Stockholm",
+      "coord": [
+        59.3327036,
+        18.0656255
+      ],
+      "desc": "Departure point for northern lights train journey, Scandinavian gateway city",
+      "longDesc": "Sweden's capital city serves as the starting point for the overnight sleeper train adventure to the Arctic, offering Scandinavian culture and urban exploration before embarking northward.",
+      "tags": [
+        "Cultural & Historical"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12109378761999087462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJywtkGTF2X0YRZnedZ9MnDag/photos/AcnlKN3u7QA5OGxNvwkgH0b3-8gDy8Gze57bFmDAp1Gkzwr7UAUyzwbnA3A15sRsK8xJkn9OG_kZOHVjaMNaDoYgMqNMdOeXXI5S6pbDW0rITTZ4neg6Q7k0SgXhlIVUpWMZ190OsbyBwLnj9I6pDaIOsB5kAV25jTcu3Pz2pbh7av644XkCZ98TqtBG1f7rBHWlr2Ijy_1rhCiJpJbugOWuuTLjeHBktOo6C1kQQiuCNfe8zLcM6NeC06KSTAWHGW6k2IduSWBV9JYsy0J5Hs6aQW-S0kGMOUNrv4OURJCw9LoDEdfTBr-peqtUXe905Oe8bHcA7L3quGZuiW2MAX49HVFns3Z409TKsAVA4bBFaTJCdEzJSKe8kTvEC75_TLg120GPYjuRTFs5cD_T5rgQ8CLRBo7mYnj7z0pMic_ihi8_sFo",
+      "photoAttribution": "Dimitris Kolokousis"
+    },
+    {
+      "name": "Luleå",
+      "coord": [
+        65.584819,
+        22.1567026
+      ],
+      "desc": "Arctic Swedish city, northern lights viewing location, train stop on route to Narvik",
+      "longDesc": "A northern Swedish city positioned in the Arctic Circle, serving as a stop on the overnight train route and offering northern lights viewing opportunities during winter months.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=289150696887715360&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJZ7jo0hRjf0YRIIaM3gZFAwQ/photos/AcnlKN06nkgoW7wmfubmK2YofWK2yVevkYyQ7mGyxiD6Bwblvp3wqe6rUjQZ9YOeQUeceLK9ujm6iYf-38KT76AK8E8wWp8k89WuhFEXurqZFqInRqLaQ3kyjPJDqAO73u1YWC4mBSFAyyyCNPuWo556sJHLT5usdPdvWO1FrdWOxL994nLnNvW-ENCzaLQI9pKNQ8ki7ZKGFbtK15Jf-kldvmtnjVKWM-x27XjsEse6xMrhLdnY5ywOwRZv4v1uEIvGKRQG-hGVlrDpOfPeB21sg3xn8vxKz2K_8jRdPRiX6oYGAkn-H4Y8iOuHMzvn9iRyvNfgXEEAZOaOLi-h-CaOW8lk9IkPkVnEaVAeUT0Es25_lcow8JaHmJXqyDkqSFNP9SXsvXFqkYQwfkFxtyzS_H5Be8__3cx17WJeFzhWMmH7jA",
+      "photoAttribution": "Carina Werme"
+    },
+    {
+      "name": "Kiruna",
+      "coord": [
+        67.8557995,
+        20.225282099999998
+      ],
+      "desc": "Swedish Lapland city, northern lights destination, train station on Arctic route",
+      "longDesc": "A legendary Lapland city renowned for northern lights viewing and Arctic experiences, situated on the scenic overnight train route between Stockholm and Narvik.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=289150696887715424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJK3wl5CqO0EURYIaM3gZFAwQ/photos/AcnlKN29HrSYeOODrMfQknvk36SN9dNZj07FSaqUdJUYeh1IKM5dVaDcxDnLwyAt-CO-JWi3lOYvg8CSPoPx1ONfb-IE7dKXhRneKY7IPrrEJGPexT1u3d_Otsu8qtfmmoRYllL_LXB7XOP4M-roApFfHWtrqQaV1RxblNm9NDSgjMRIuo7dnZ9s_sWZa3K4uh-mt-QCvclEqViW0h7DvBpG0pArzPtnKZ3aI8axrMLONvtrFoTLdkQ2Bvb0O9lU8epZ2PCILY0G34flPszETxNN6Y5PB93tiDQ_dIVzQUODggGguFlqP0dobf3E886RWk89ZYbW5D5Lg_Tq-hDOVxrqe2I6jivfSoKU2AJxuLhOk8b34r0X_Xwy48l7jAZetcr62Mh48rIMBBFuB3AMV-F7qb6ppjAZYyNEzMGNHozV5ymZ9To",
+      "photoAttribution": "abdelmajid ouazine"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Stockholm": [
+      59.3362,
+      18.0639,
+      0.028
+    ],
+    "Luleå": [
+      65.5848,
+      22.1567,
+      0.03
+    ],
+    "Kiruna": [
+      67.8558,
+      20.2253,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

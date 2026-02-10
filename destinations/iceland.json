@@ -1,0 +1,50 @@
+{
+  "key": "iceland",
+  "name": "Iceland",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇮🇸",
+  "defaultCenter": [
+    65.9444,
+    -18.9397
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Deplar Farm",
+      "coord": [
+        65.9443709,
+        -18.9397467
+      ],
+      "desc": "Luxury farm lodge, world-class spa, exclusive activities, stunning natural setting",
+      "longDesc": "An exceptionally luxurious farm resort in remote Iceland offering bespoke experiences, elite accommodations, and a spa of unparalleled quality, all set within breathtaking landscapes that redefine luxury hospitality.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=63266749973683923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 53,
+      "website": "https://elevenexperience.com/lodge-destinations/iceland/eleven-deplar-farm?utm_source=GMB&utm_medium=organic",
+      "photoRef": "places/ChIJz4j16T6_0kgR015GHsbE4AA/photos/AcnlKN0Q1t26XbcinFwp3-3bnZ-hIhOi0Xk-CNsVuvwg7j4DIpt5xh7Ua3_rh3apCdvSFdA5K9tmK3hFcBTYEjdqhDw7PGzAJfFIn5S2RLBTly-64jhS6PcLEDlSW2JdaW3yX3QBu7MC3hwnwZYQN6uMgjUkPc8-G7-oWryxya4q2EquQ6H2LtjQ_DL4d7oEiBxred_M7yn0FW6cn1Zs1NMeGqiOMazExnjFx_jRQKdrkyDAnKvUuSwBo6lo_yz5IBmZLD0y7TuKEl2rDoGepdFzpwuMvasXer2b5D4_2GJIR-g8iA",
+      "photoAttribution": "Eleven Deplar Farm"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Egilsstaðir": [
+      65.9444,
+      -18.9397,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

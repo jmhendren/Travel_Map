@@ -1,0 +1,105 @@
+{
+  "key": "germany",
+  "name": "Germany",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇩🇪",
+  "defaultCenter": [
+    52.7042,
+    9.344
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Stadtflucht Homes",
+      "coord": [
+        52.543865399999994,
+        13.36792
+      ],
+      "desc": "Berlin boutique home, urban creative hub, contemporary aesthetic, cultural access",
+      "longDesc": "A curated boutique property in Berlin's vibrant Mitte district, offering modern comfort and access to Europe's thriving cultural and artistic scene.",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7761896527793435758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 5,
+      "ratingCount": 10,
+      "website": "https://stadtflucht-homes.com/",
+      "photoRef": "places/ChIJK9IVSmzuH6URbjR3isTLt2s/photos/AcnlKN1l6YVP5KQGIyHw2veoVOa6j61DyEzw1aTLatl8Qvzpnen2chXkQdtHamPqyQDEPChqDyJlnMmctU4VC25yJilxq_CKns5oyV6rV-tw2XqSLmIG3-xXyIjTnIAxE00VE1F9ctCvMEZIG745Ch49Ca0Xxhp4DrtrRBEuBx-9tUJ7zFQn7KrSDuEAhdB7bEQhp0R22PniWyqL55G72lRyJWevus9ZL_snlFtabzRkupNusrQZxRBiltnvvIocWqtdvR2Fu1AkadxQYiHps7ioJ6IW152J453rOmvaBvqzZqYiTA",
+      "photoAttribution": "Stadtflucht Homes GmbH",
+      "hours": [
+        "Monday: 3:00 – 6:00 PM",
+        "Tuesday: 3:00 – 6:00 PM",
+        "Wednesday: 3:00 – 6:00 PM",
+        "Thursday: 3:00 – 6:00 PM",
+        "Friday: 3:00 – 6:00 PM",
+        "Saturday: 3:00 – 6:00 PM",
+        "Sunday: 3:00 – 6:00 PM"
+      ]
+    },
+    {
+      "name": "Lanserhof Sylt",
+      "coord": [
+        55.0137079,
+        8.423540599999999
+      ],
+      "desc": "Luxury wellness resort, immune-boosting infusions, Cellgym, dune and sea views",
+      "longDesc": "An exclusive wellness destination offering advanced health treatments like immune-boosting infusions and Cellgym sessions, overlooking the pristine dunes and North Sea with views of the charming town of List.",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18093244842720841735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 136,
+      "website": "https://lanserhof.com/de/lanserhof-sylt/",
+      "photoRef": "places/ChIJdwXG7uHbtEcRB1CLhFIeGPs/photos/AcnlKN2Uphlh42zOyglvDRlkLI9NfXKggAYQzfffZ0wkLlAKcoAyYLgfUKDrtGJVe5OZthDPznofAXr9SP_iXcDuLkhAPShTMbxkH15dgv0e91I9GcfqG2xKqqcEeBhAE_oJx2WsS-VHKb4tuh64cF6lluqzRw3YAmBtW1iuCne2RIEAE6JDqkNH4NiZ-g4drF0qPW58vJsO684Nj0EcTHYI4haM_x1xDjylmQRee1PNR6u2bQ4DmkgghNb7b2IIrE71ZG2J0W4dngsbWqu-T-KYlMAUUjkI9YqWOy5FX-dM6MGBqw",
+      "photoAttribution": "Lanserhof Sylt - Gesundheitsresort Sylt"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Monschau",
+      "coord": [
+        50.554899999999996,
+        6.2406434
+      ],
+      "desc": "Half-timbered houses, winding streets, cozy alpine village atmosphere, picturesque setting",
+      "longDesc": "A charming town with half-timbered houses and winding streets that create a cozy, snow-globe-like atmosphere. Monschau is known for its picturesque architecture and scenic valley location.",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Budget Friendly",
+        "Cultural & Historical"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=299314536935749712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.monschau.de/",
+      "photoRef": "places/ChIJ8Q0bntV-v0cRUHgqSvxgJwQ/photos/AcnlKN2ZHGH2hr6vWZCRSdhcOyuuGIDvqsZ180tS6ePXzt7xuW7qwc8fEPhTvJ4T5ZxCAge9UXjqxZxBOnvkSTdmtfS0fVdxtaSv6mchrzNr0lqn-dfzopRQioFBt0jJKGDtR1KIvrbKz0gcJPuAZkEwtEiuBFfBVodnRPIOg68xjomhWDfGHWpLcbZgAJ76D0jy9iph7VWuKFN1qXFJM9AQ6uvn6_nMQqzSa1qTG2-1PDg4lohGrfD5anWjgL81eVz3Xqfv4RZy2s0aalGufl3419c9M-uEWugIwrAlvmv5wnqNpKaxgo0LnqJC6U9zz8HQmq14KFJmwGU-CdN3W6F79iUrQbkS0XxExMEP0wLHI9jWrWF_Q-XYLBlw2g3XKjBag-tqgoI_aBVdkpu3imy69o5VmTM1dv3fQTdOVDYVl_Y",
+      "photoAttribution": "Birgit Pusch"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Monschau": [
+      50.5549,
+      6.2406,
+      0.03
+    ],
+    "Berlin": [
+      52.5439,
+      13.3679,
+      0.03
+    ],
+    "List": [
+      55.0137,
+      8.4235,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

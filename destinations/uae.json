@@ -1,0 +1,44 @@
+{
+  "key": "uae",
+  "name": "United Arab Emirates",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇦🇪",
+  "defaultCenter": [
+    24.4353,
+    54.6203
+  ],
+  "defaultZoom": 8,
+  "hotels": [
+    {
+      "name": "Etihad Residence",
+      "coord": [
+        24.435333999999997,
+        54.6203031
+      ],
+      "desc": "Ultra-luxury airline cabin experience, first-class private suite, points redemption available",
+      "longDesc": "Etihad's premium first-class offering that replicates private aviation luxury, bookable with points and approximately $500 for transatlantic routes.",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11155948304305574237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.5,
+      "ratingCount": 111,
+      "photoRef": "places/ChIJjWsCSK5IXj4RXVHBQuDj0Zo/photos/AcnlKN3iuk55-_WQ0So66VgNB6UDCBNFdSU0y6CK3Mkl5xKGXpnz11DLROcem08WAAXRwXHRd9U8ENDXFaSVv84LNU8eCnx3MGdYZnlvwoIheO4fL8P2qWrSE9w2Q3zgZ9IiQkd89SPvoA09KtyN6GLld4pu_2jDCtoyF31SPLyK_84CH0PbQOj1jzk5dJHKEEbiUM6r5Ak9OTCqVQNoZQBZxpM2qnsKM4Ec_00xEKWktp6YLd_8Twuw5rI-d8M8p5FkPnKgfwDt8NBV9nmQSpN6QmDbsHjb_nfVvm7bOg-8BnXNONxx6UP3qRoqibqV1k1WXyAHEgBwVr5O0PKmxYY18NWpkF2Xij2rBMGOO89CM6C3NhOPNvZJeYQqcatqzcWzCyvIANe5yvPg_S-lKQfZqsQcNyPlWyy1zHU0qnFTUTd9bg",
+      "photoAttribution": "Ansar ADORAI"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Abu Dhabi": [
+      24.4353,
+      54.6203,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -1,0 +1,47 @@
+{
+  "key": "croatia",
+  "name": "Croatia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇭🇷",
+  "defaultCenter": [
+    42.7204,
+    17.9131
+  ],
+  "defaultZoom": 7,
+  "hotels": [],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "BOWA",
+      "coord": [
+        42.720405799999995,
+        17.913089
+      ],
+      "desc": "Island beach club accessible by boat, turquoise waters, private cabanas, waterside dining",
+      "longDesc": "Croatia's most beautiful beach club, set on a secluded island surrounded by crystal clear turquoise water. Accessible only by boat, BOWA offers private cabanas, waterside restaurant dining, and premium sunbed lounging with provided towels.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6640210823015125523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 473,
+      "priceLevel": "EXPENSIVE",
+      "website": "http://www.bowa-dubrovnik.com/",
+      "photoRef": "places/ChIJf4jImVGMSxMRE1KF64_EJlw/photos/AcnlKN3f31WBzA6iIdUK5cjCViKc327ihtc8znedBy8INYD3vWaekXRLWxrmI4-gR6HwntF-BkmL7fJWcJbaoX5UylVl2ILm0nkEIb5uIrEEtcXumj5hbIEj7gHM92S3jLszx8j1cLHFEHj9IH0AI2lbAQ-1SuZS0JRJyose352pvofa3KihJ4FA2_Lm2QRHIy5rtb9xOMT_M7NF7zsR1w6LsMjfB4WfzkOqj6qcjB6_LCvyS3KcHx8IJ4WBls--FZnhrEssutNCVrnnpY6MokGypeG0g-5O_mT_PseSeEYMPYfgLjc379wYWg59_eaDUIAvxQIr3EBp4CA3Mof7zi4kQfa_k6OSfvFZ_n4aC1SBgiGoH7DEYUNIVhxk9OfpqeYJqdmf4HiwuCnl3lyxzMf01A36KBZFx93Dt-w6lb_-nmVcJEJJ",
+      "photoAttribution": "José Antonio Solozábal Benito"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Dubrovnik": [
+      42.7204,
+      17.9131,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

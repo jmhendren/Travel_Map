@@ -1,0 +1,80 @@
+{
+  "key": "south_africa",
+  "name": "South Africa",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇿🇦",
+  "defaultCenter": [
+    -33.8643,
+    18.6716
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Babylonstoren",
+      "coord": [
+        -33.823935399999996,
+        18.92635
+      ],
+      "desc": "Historic wine estate, luxury accommodation, gardens, restaurant, farm shop",
+      "longDesc": "An iconic South African wine estate and luxury hotel featuring beautiful gardens, farm-to-table dining, and wine experiences, operated by the same group as Over-Amstel and The Newt.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12292877332170461394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.5,
+      "ratingCount": 1729,
+      "website": "https://www.babylonstoren.com/",
+      "photoRef": "places/ChIJF3boO8iuzR0R0tB4m80Smao/photos/AcnlKN04Jqs_F4wIr6m2SGznpbw0n-apfGCQNhDD5qdtoXcmgAPofuPjU2nvUvPcw3PehRS9i4T9mvJPj-u7P5Pyre6XHNmlZsegDZgcFtr80ADtY6OpprL6UcabtmpPJbyc9UX-qh2beKjtY4WwoI6P5RvaCr6NLzBvJCNfFZwBpglxDFHSCwV0_uOuhvsLY2CKlGktuzV8z2ROVv3pdRvFLG8oADbi1N975wY1i5MQAY877Fc0REYDHdbdfbi4wTrkAxmZFNCDgZm8z-GZgb4_AKvWgcfBIEyVX_Wnd0y2TZj_FGFnxtyOkYmBv75HccFUQomlAKg0tIY4Nkm5b-6oNomMUNt7g5IOyCWWq_MqndWOaKZQ9McRd9Ho73XEZ-JC-5RHQjRPD_Gm1Toyw-zIOCaFVhvdq-_6uH_Dh5O9UTE8Fw",
+      "photoAttribution": "A. Basic"
+    },
+    {
+      "name": "The New Somerset",
+      "coord": [
+        -33.9046571,
+        18.4169286
+      ],
+      "desc": "Luxury heritage hotel, Cape Town, Table Mountain views, pool, South African elegance",
+      "longDesc": "An elegant luxury hotel in Cape Town offering refined accommodations with stunning mountain views and a distinctive pool experience.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18360725526774770883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 2.6,
+      "ratingCount": 368,
+      "website": "https://www.westerncape.gov.za/facility/new-somerset-hospital",
+      "photoRef": "places/ChIJb3z1E1BnzB0Rw2zbWZZmzv4/photos/AcnlKN1_LnZLfaUzsttjVEFRPbNe7Y5E9IaT0UGKSGYxDE660xq-7bErqQ3IiuD_Z5HuYd6ZgEaguVbjAGC0698G4Z141OWrV1t5VGND-8Q3j6sVyP6JSZ4lId1Qfj8NyAOzbmgt-7c7pTfAsZufcQgz4YdLA7ODbpMAfyq3hWKbeQuNpnPS5y6Iklo8IEwEQvLAhFZTu0WR7E0-glBxUdF_T3Noa-Vc_65IJuUYDAcyXqo8wPYd9QIxEbC6s-8iGmgFKzXL3--4mwM228jJ6kx2Tb8h8lXwLA_t7XCpzXQGuAcy5KwUAtQxJMLgRCLo1M65jY0Zmgk_138UVK2Xifk__F9dsIilYCX33kUAb_wMOh5ftQQOBAVVJZjVRevjO-NuQ0Cel3De76EbFZzzGaWpD--ZIsNl1V4i-Vg02-QmZnBg-u9X",
+      "photoAttribution": "Omar Hamdi",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Paarl": [
+      -33.8239,
+      18.9263,
+      0.03
+    ],
+    "Cape Town": [
+      -33.9047,
+      18.4169,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

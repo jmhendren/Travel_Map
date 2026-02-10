@@ -1,0 +1,238 @@
+{
+  "key": "morocco",
+  "name": "Morocco",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇲🇦",
+  "defaultCenter": [
+    33.3121,
+    -7.5424
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Le Jardin des Douars",
+      "coord": [
+        31.449628099999998,
+        -9.7052529
+      ],
+      "desc": "Boutique villa resort, family-friendly, wonderful hospitality, Essaouira",
+      "longDesc": "A wonderful hotel offering private villas ideal for groups traveling with small children, providing a sweet spot for family holidays with excellent service and accommodations.",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Toddler Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10145209457181238488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 421,
+      "website": "https://jardindesdouars.com/",
+      "photoRef": "places/ChIJKcHBFhmQrQ0R2KQ46z8Gy4w/photos/AcnlKN39bnyFNJyRuWsZWOSGKXCtM3xD_Iy7dcYpHPfchRG0oWbbeJLWbXtO8mrWPjcUZ487YbXZAwH0L13i-68TYnSoGw0y5VKEHEiJhQGtXfJOkPpO6iX4IKrUtlJ0pVxkLzfqsX52yrhcefrkOSd1Ll89rPGcyBaJ1l-9t9DTrC3kzK6WOiJ0QuHKTecYoRBE33zDvQiZC1fR38brsv9VPGG0TO8iGIvkLjcWs_PrsNTZFirMT7MVfgQgqfHn6IMj7BWYDYuTDuK-bIFltqg68_rx4I4l5HFV2KKbSp4K7cB7PA",
+      "photoAttribution": "Le Jardin des Douars",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Jnan Erumi",
+      "coord": [
+        31.656890999999998,
+        -7.9700574999999985
+      ],
+      "desc": "Newest boutique hotel, stunning interiors, Palmeraie setting, Marrakech oasis",
+      "longDesc": "A freshly-opened boutique hotel in Marrakech's serene Palmeraie district, gaining buzz for its exquisite interior design and peaceful garden setting that creates a true Moroccan oasis experience.",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7942756528473123956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.3,
+      "ratingCount": 46,
+      "website": "http://www.jnanerumi.com/",
+      "photoRef": "places/ChIJazq2dwDtrw0RdCwO6fpWOm4/photos/AcnlKN1vE20g63oyIRA8SwNeOUjhGxI6tlWa8_jyRBglyfNp2JpfbzGHyoxqJJHOha7SruiHi52zUDGPS3DG9kWvcBB_lTKcB10-4_8aJlwP62W5NbUwEcUeDH3h4IAnUABF1LWIR3Cc_izkfjVhbY4Yx_MnPNPesOgKxjhfpoA--S403i_jy5H2hFNAcs-M9hoOsBzPhjSUkAw837Kne-SHkvckhX_DNpN9bnmRK2Up9pSQMx3IAbvRBH-8Xqom1GNgntILDIzvDxNVnpkuv0vbcgD7J6lappiUfXqpWeQQRIpCQo37hNFqeBxLjfHR3ljzwScBB5AXph1XmZHivl_i2LbzgbojOhiRocYU5znP2k3RNMMvrWJrBcaXPjXQjZOYNbkPt7V560DvLzZyf8pjJlGJzy7x-rVXQ1KkFMWiOH9nHulkGqzKgZ4gSmokdTzi",
+      "photoAttribution": "Fadi Jaber"
+    },
+    {
+      "name": "Villa Mabrouka",
+      "coord": [
+        35.7892683,
+        -5.815852899999999
+      ],
+      "desc": "Luxurious Moroccan villa, traditional riad design, curated travel experience",
+      "longDesc": "An elegant Moroccan villa offering authentic hospitality and traditional design in the heart of Marrakech, featured in Tatler's luxury travel collections across Asia and beyond.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16620238041858391722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.2,
+      "ratingCount": 483,
+      "website": "https://www.villamabrouka.com/",
+      "photoRef": "places/ChIJE0x3qOB5DA0Rqj5n93DypuY/photos/AcnlKN3xhSP47jKKWh4DO9S2o22W17niO3aPOgUZUQeAZxUr_5S0w8wMztdaHrmMv8ajob9OInKHlbFp_id105iQV2Dt1-xIfw_GtyAtIPpHqkZuRTLXvrOAaXorLHjFbi6-SOyaihLWCmjOgT202TuBhyKS6a_MSc2jLGzCR7S8sjHD9_AeeLajf9_A0ChIq2gU8Mvd0T3fRLeXs41dHZPR57cXIn1EfzVnDbO4gi9Px2J9Cj-0fiOHYsa2AtkOUn4_omXejuecq1WLcOOr9lODK5Ed-HnOB8C2Apk8H-xLoIu55Q",
+      "photoAttribution": "Villa Mabrouka"
+    },
+    {
+      "name": "Royal Mansour Marrakech",
+      "coord": [
+        31.6251861,
+        -7.998378300000001
+      ],
+      "desc": "Ultra-luxury palace-inspired hotel, royal ownership, near royal palaces, opened 2010",
+      "longDesc": "A prestigious luxury hotel masterminded by King Mohammed VI and built near one of his palaces, Royal Mansour Marrakech has become one of the region's most sought-after properties since its 2010 opening.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11113661122060182822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 2279,
+      "website": "https://www.royalmansour.com/en/marrakech/?utm_source=google&utm_medium=local&utm_campaign=hotel-royal-mansour-marrakech",
+      "photoRef": "places/ChIJyx6ijl7urw0RJmV3ZuinO5o/photos/AcnlKN3BXX53TMfB-2SV0hNwJfE0N4N1enxtD_w9TZ25yRCw1l2yZzuaR5cRrK0h0So4WWxToP0S7MvUmjXlM2lh-8E3CMdqRpbVHm1WMS4IqW9SNmghxYKJLHRhHU6HxtEB7vqPAgOW2jAcWIdV1ub3-ATXUU485r8Nr_cw8LpmiD03OZKddbCbDEJ9IAPFPm1BSIQ68wkRA9o9tx1z-aOGVLNHwjCqMlchpLKDkERzmLsnRAWWb-SqkL-6Jry99-F76rZ1FJY10boiV0PN1GqZUixXhHR0Lbdy2qZhPnG-imwDXA",
+      "photoAttribution": "Royal Mansour Marrakech Hotel",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Royal Mansour Casablanca",
+      "coord": [
+        33.5969402,
+        -7.614334500000001
+      ],
+      "desc": "Ultra-luxury palace hotel, royal ownership, opened early 2024, contemporary design",
+      "longDesc": "King Mohammed VI's second Royal Mansour property, opened in early 2024 in Casablanca, continuing the royal family's foray into ultra-luxury hospitality.",
+      "tags": [
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6410841534578628410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 354,
+      "website": "https://www.royalmansour.com/en/casablanca/",
+      "photoRef": "places/ChIJU2ys9CDTpw0ROhfh22ji91g/photos/AcnlKN0kpF3mSa1Yq6CXTsU1FZZAJURgPFUnnCdVOwKivAoe16D4SZncmcPRVwFhzsH3AmC4H0lFIPJ_vt-gSy0cRuNEWgLVFULB0lXtJqQsh741cQGToyIG5VWugCNouX2-c3H17nUQqbAltXe0GRNZwvhqs-F6m1a0AGAWg8k4-mtZNq7dFy-4DDB_9PkObBVcgUhVW392JqxPdzoAe2euS9k9K_VZC9wi7MF2-YB9XsQeaYLjeLj_Qy3RaXgngyYE9ePFpDM46u8eBaXFztQHTPEQS81gGJkXZWnP7MNXH0qsxw",
+      "photoAttribution": "Royal Mansour Casablanca Hotel"
+    },
+    {
+      "name": "Royal Mansour Tamuda Bay",
+      "coord": [
+        35.7124293,
+        -5.3356024
+      ],
+      "desc": "Ultra-luxury coastal resort, Alboran Sea location, royal ownership, Mediterranean setting",
+      "longDesc": "King Mohammed VI's third Royal Mansour property, positioned along the Alboran Sea coastline in northern Morocco, representing the royal expansion into coastal luxury hospitality.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2201158212490308731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 196,
+      "website": "https://www.royalmansour.com/en/tamuda-bay/",
+      "photoRef": "places/ChIJCYuGIodfCw0ReyzrZbsVjB4/photos/AcnlKN3DmRbE9iPF0PFDOfQSZAKGQv9DLlqjxyJzGzUp8_xwoChuSqoqb2c-0JnPgWrxuVS5kNxOb4KahZXsSnkooUSN5UxduHWbCo76jRUXJ97iltGR4qLDtjI3hX1T43-RP8Q4WaemdksEyFTjBLbBuq9SLKv0N3uUGlQDb3cZE2IaTP0T9bq5wEui3TCzJWcyt2zwKVvPhPc0B-H9BPSCb_gTzxXo8Rx4DDfvGYwzE7N3Kxed6SlhTtWxcLF3fsJwa1N_LXQJYZv7rm0iA_R--hRSGrFDcAYnNqinzSdTFx5aTw",
+      "photoAttribution": "Royal Mansour Tamuda Bay Hotel"
+    },
+    {
+      "name": "La Fiermontina Ocean",
+      "coord": [
+        35.3052145,
+        -6.099365199999999
+      ],
+      "desc": "Luxe oceanfront resort, minimalist mid-century design, community philanthropy, Atlantic coast views",
+      "longDesc": "A tribute to Antonia Fiermonte's legacy, this luxury resort combines stunning ocean vistas with minimalist mid-century aesthetics and a deep commitment to local community support.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa",
+        "Outdoor & Nature",
+        "Art & Design",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15170533506250222757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 93,
+      "website": "https://www.lafiermontinaocean.com/?utm_source=gbp&utm_medium=organic",
+      "photoRef": "places/ChIJv9zlvAzJCw0Rpaw01diPiNI/photos/AcnlKN0ayGOSGImEmCw5e6BmZYR2CfALmEudLEO5wHqM_Aj2uXuCyiwLrgNZJYUzDHD7zXYlc8UPlDFjiperwmGiHZfxz2YH0n0i1TBZjR1AS1cYXQjJjCAZGoeWIISWgQUwpC8zhIa0N0kvtqXW6V7J-U2taPhnnCU6XhsSm6uyY9_Mouql-iE-DsOSORZTPJDIWVd70UBNyT7UuXrVQOKJKeGM5PJMKOl_2VQ_S7VjqSEdhxDU_HeYhGpxb9-Zs4bexXFbe3UZq_rF8gUZJkXcUu3tc5sGWblclS8yMZAmwUGMmQ",
+      "photoAttribution": "La Fiermontina Océan"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "La Mouette et les Dromadaires",
+      "coord": [
+        31.361570799999996,
+        -9.800326799999999
+      ],
+      "desc": "Local seafood restaurant, giant turbot, unbelievably delicious, Essaouira",
+      "longDesc": "A standout local restaurant in Essaouira known for exceptional fresh seafood, particularly their impressive turbot dishes that leave lasting impressions on diners.",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7166052508127908015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.2,
+      "ratingCount": 554,
+      "priceLevel": "MODERATE",
+      "website": "http://www.lamouetteetlesdromadaires.com/",
+      "photoRef": "places/ChIJx2ckGhKErQ0Rr9DC7MnucmM/photos/AcnlKN35hgyb12dTv82hau1KmDsOEDh7FE16ro5l3o2iC68of6icnYID7bZDgGPyb6teHwZtDDnY0A9iSVMj0QIw66umxPWsjj4cfASb24WJnQhRVsgFisbJhZJ2uk2tVJcO-1aCx2Sota8g60R14cj3LdMtfrUspiU8YuMPGGkTdqJHawVoY5htQwhU4qu0EPyHhX8nxKmg9bzQ9k0jqNIG4_wIwTxAB3V5uwvMI2OCCks1GJwneIvwYtCt7T9YhXLaNeeh3lMo0dHrybc-_pW4911nDUrZvLLpGmRW8LBvncGCdQ",
+      "photoAttribution": "La Mouette et les Dromadaires",
+      "hours": [
+        "Monday: 11:00 AM – 8:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ]
+    }
+  ],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Essaouira": [
+      31.4056,
+      -9.7528,
+      0.068
+    ],
+    "Marrakech": [
+      33.0238,
+      -7.2614,
+      2.102
+    ],
+    "Casablanca": [
+      33.5969,
+      -7.6143,
+      0.03
+    ],
+    "Tamuda Bay": [
+      35.7124,
+      -5.3356,
+      0.03
+    ],
+    "Morocco": [
+      35.3052,
+      -6.0994,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

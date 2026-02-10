@@ -1015,6 +1015,444 @@
         "Wellness & Spa",
         "Splurge"
       ]
+    },
+    {
+      "name": "Milea Agritourism",
+      "coord": [
+        37.5919828,
+        22.3831807
+      ],
+      "desc": "Luxe farm stay, vineyard lunches, mountain views, slow travel retreat",
+      "longDesc": "A sophisticated agritourism property in Arcadia offering sun-drenched swimming, farm-to-table dining by the vineyard, and peaceful rooms with serene mountain vistas for a restorative escape.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3890936266905764508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 75,
+      "website": "https://www.milea.gr/",
+      "photoRef": "places/ChIJczgRosgXYBMRnEKacOth_zU/photos/AcnlKN3O-mQlfE28LIaaERkp9wOAKfnHgh5MjncUURSnRDYHkzQep_S3s-qDUWZEcMK5yzFk-bXYLVRZWEAGkCdDyKE0585ODrup1diY8hAMsP91lrD8nqu1Oi2VqIw8JzIiWoxLSh6EERl36-rehNKUsz2q_ydEt2y2Og3Y52zeuDnvbzo9Hb8FAxqAplMa8G2pwKXimGXJ6c4TVFn4Ong6uU0IGYkbad2EviQbwhy3o-tjfUx1thi_8-ykmq3RD3p3SXt4vGbddz1vFh1Y0v_FXH_0xKdH11gReCw99JbJCtoXjg",
+      "photoAttribution": "Milea Agritourism"
+    },
+    {
+      "name": "Casa Mediterraneo",
+      "coord": [
+        36.1509301,
+        29.593442999999997
+      ],
+      "desc": "Mediterranean-style accommodation, island views, authentic Greek hospitality",
+      "longDesc": "A charming Mediterranean retreat on the picturesque island of Kastellorizo, offering authentic Greek island hospitality and serene coastal ambiance.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13797438496986927454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 30,
+      "website": "http://www.casamediterraneohotel.com/",
+      "photoRef": "places/ChIJyze39XjXwRQRXpE0BzZZer8/photos/AcnlKN3DIXlyZhvxF5WGDTMJoToppEAXvgqRkIWREJIdkgVWz2Igl3I_rXa5lMU2iiH2BKWwUnb0fmFOVkFvoi1RbMsKJy0UMbhPmH4JmykcuP86LG_3w50mCKWMU7Re3wU82FajCua9hKY9oSDReQOSxS1cUO7-XgIiCzvsiyee1ekXlUvfSrurs7fz_SezhXm9dS_l38cw-nHBBv9b-Lvp-H2sEvL9pmLOw-sQcxox-H9x-4axvC7ePKjWcQ7fM20PxDeaZiyNs9c5GX1ZVwOcwu3_SNVsYKnspXwTJ_kQEcbyyQ",
+      "photoAttribution": "Casa Mediterraneo Hotel"
+    },
+    {
+      "name": "Beach House Antiparos",
+      "coord": [
+        36.9817895,
+        25.0688919
+      ],
+      "desc": "Beachfront villa, Cycladic charm, coastal views, island retreat",
+      "longDesc": "A charming beachfront accommodation on Antiparos offering direct access to pristine Aegean waters and traditional Cycladic aesthetics, perfect for a serene island escape.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8424183776071177412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 3.5,
+      "ratingCount": 368,
+      "website": "http://beachhouseantiparos.com/",
+      "photoRef": "places/ChIJyQHJCN5lmBQRxNRU14K26HQ/photos/AcnlKN2X_8pHjdldKhEsaDLjmBesYmNcciKntrVbp45o22lal43px87jpWj0TalBXZkcK2Upj3qh3-ARUG-0dRGCuqJJIwCglOJjeJIOJo7A8x5coKQJwCgjg1-ykLlwlGW-Vgynczh1MJbJ1w9Cp2Y0JKv8QwgoYmQFS4in7FQ-nBMmUpJKIze_N-TAJuCxP6e9c-DVvDtMG5NHp2NeI1Xg7ZC64NbVUXKkh6lQyeVrdsKuQ3T7NP74gz5Id6__X9lsLRz0uBadaU7rX-kTuFHYDpmRudijRbaZNxjnUQvKkQCgPg",
+      "photoAttribution": "The Beach House Antiparos",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Danai Resort",
+      "coord": [
+        40.227984000000006,
+        23.6291142
+      ],
+      "desc": "Luxurious family-run resort, tranquil escape, northern Greece gem",
+      "longDesc": "An exquisite family-run hotel offering unforgettable experiences in serene Halkidiki, perfect for travelers seeking hidden gems and peaceful retreats.",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10790933883827276267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 339,
+      "website": "http://www.thedanai.com/",
+      "photoRef": "places/ChIJlVZ8RbeIqBQR60lAzDEZwZU/photos/AcnlKN3M2wS5t0Z2-b0SB2xlHEQDRJmYrPMJuTDrV67nfHIeMGi96j4H3K8R7OaAMOCKo4TsJY_d7VI45WgD3z0cxsfAAXeTnkILORlllgHKEe7tjHDHxHHTrDDdwS5auBCQ_j4_TFJ0a3y8kzwDa0_2hTdi3TjPyvxUdauetLTS3ZUp5UHns4JEIPqRPGpEaaNuBCp5IXhDbiiNX9EAwcR-FbP0EswlVdmUeJWhrMYKiSu_gOlGVdEbkVDDnwZg3Zr93miviwMRGPfNz3aGXy_YChUN6OuQcA0_yPNZTPcnU6n-Jg",
+      "photoAttribution": "THE DANAI"
+    },
+    {
+      "name": "Canaves Collection",
+      "coord": [
+        36.4617187,
+        25.3831366
+      ],
+      "desc": "Luxury cliffside collection, infinity pools, Aegean views, fine dining",
+      "longDesc": "An exclusive collection of luxury properties perched on Santorini's volcanic cliffs, featuring private infinity pools, whitewashed architecture, and panoramic Aegean Sea vistas that epitomize Mediterranean elegance.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3997468083513264199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 598,
+      "website": "https://canaves.com/",
+      "photoRef": "places/ChIJFQPn9-6VoRQRRwjF3grceTc/photos/AcnlKN3xaen7g3DbQKGB3swQc4nH6Ihg9rKTxPqapBGuGenQX3KMDsviRZhZRUz6iZUxpXjgsGpsS58xqpGs8L28kpAOylN0sPt7hKCkfnxzCpenYPVA5TcX1AFx7PAz2zzO_vXFr_lU0A0qK8uF9ZUH6fa6mY2C3uXo7pt_Pa9LXuqS0sbvFfnmo-MoMgNYamMlGD099nGVBVkPbvXMCPDoPd40xJEe0uLBnTP5j95PcKkgORyXPmptvhkUKcwW2qKzIuuKF5rFYwtgoZjgtrouuxyBpxUjmkqUq1SXn1utNVfGBQ",
+      "photoAttribution": "Canaves Oia Suites, an SLH Hotel"
+    },
+    {
+      "name": "Acro Suites",
+      "coord": [
+        35.4191643,
+        25.018140799999998
+      ],
+      "desc": "Cliffside luxury resort, architectural marvel, Mononaftis Bay views, romantic getaway",
+      "longDesc": "A stunning architectural hotel rising dramatically above rugged cliffs on Crete's northern coast, with rooms and suites carved into the earth overlooking the crystalline waters of Mononaftis Bay.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18358090942515702419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 339,
+      "website": "http://www.acrosuites.com/",
+      "photoRef": "places/ChIJk0qkX5NRmhQRk-r2ZnIKxf4/photos/AcnlKN0UflNoDg_TUbAhfSzyorOnRr17_27H2h03mlQDYp3GC7wTQ3tvY-loyaOP0xnUafvWkbritJEC1WJA54suPMvMpT0v_JxUbGGHOs0e8jB7kQcgyCkTxvT6Em3EYdpie-8oO5tnV05Yxnagw2BroAKzw3as2-zEUGcMulz5vXP5m0IFxjLiHdC8rYcIWZqw2BcsTHmetIUTtTM_lv_1TDnnztp5xi5WuhtuqidMomWVB1XgWmDVdAOznEnbGPRkF0UuSK54ATsTaRt7GycHk3W1S26E3_itOKEDgLah9vkiyw",
+      "photoAttribution": "Acro Suites - Adults Only",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Ariá Estate Suites & Spa",
+      "coord": [
+        36.666853499999995,
+        22.365709199999998
+      ],
+      "desc": "Luxury boutique resort, 16 traditional suites, infinity pool, spa, onsite restaurant",
+      "longDesc": "A secluded luxury village-style resort in the southern Peloponnese featuring 16 chic self-contained suites built in traditional Peloponnese architectural style, with an onsite restaurant, spa, and stunning infinity pool.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16905082273321776686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 271,
+      "website": "https://aria-estate.com/en/",
+      "photoRef": "places/ChIJzRwhPsvvYRMRLvYYuMLqmuo/photos/AcnlKN37_2lhPp4fL8n1jDpJQddxvTuTSj6NU9cg3w03PqKfOhfPStOsH-fCVvLZZxsOL1Z7v8clTRwW6RHTfZ2qSXXrVdivhCg3iXPadiwI3zEXWtklwCqWqxFUH9U7AyKMHP8zpoOUUu5Wy0SlLLW0HYHaDNWk2JkIX4kmrtt81qIbMurKxAjT-kE5zTPR_iB5a31_LOv8y5uMvYaHDvElUHUPIdIUVyi3C1vYs7p2E3meli3TxFZ2psmtxWBcE4vyNaJt4n5rvspwcPrrggUoK4wH-KGAuwakebOJZrCKURjTuw",
+      "photoAttribution": "Ariá Estate Suites & Spa"
+    },
+    {
+      "name": "Cali Mykonos",
+      "coord": [
+        37.442944499999996,
+        25.4258484
+      ],
+      "desc": "Luxury Mykonos resort, Travel + Leisure nominated, beyond ordinary experiences",
+      "longDesc": "An upscale Mykonos property recognized by Travel + Leisure's 2025 World's Best Awards, offering sophisticated luxury accommodations and experiences that transcend the ordinary.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=865462754425314994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 154,
+      "website": "https://www.calimykonos.com/",
+      "photoRef": "places/ChIJWfVgv0u5ohQRsh7aK8q9Agw/photos/AcnlKN0xNGrotNm8M-6W5L7YwFfbeRnEjycbmXwa78VPklTQ_7e9AsYY4tPHzZJ1_FWocjqWF98oGdcW7hmhJAufPl9_g5Mr_VUwLUYKgamAJN-xBfYxryZ3mgExmSNApaMqcmDksFVqtdP0RxRLsgBUuDVbcaEtCd1bhICo9XZEQxrPwFxLUcvSiBNn7X_wImX6avEM0sL3oicvVx1HOuRZN6oeVmhqZlsGFuxZdwEPCeF57Pt0MBg8UJEw2V-dEHEr3ZV2HmPD6FI3YSSgaJqBMLBB9kDKN68LKAmCZ6OHJqOW9A",
+      "photoAttribution": "Cali Mykonos"
+    },
+    {
+      "name": "Canaves Oia Suites",
+      "coord": [
+        36.4617187,
+        25.3831366
+      ],
+      "desc": "Cliffside Santorini luxury suites, infinity pool, sunset views, intimate retreat",
+      "longDesc": "An ultra-luxe cliffside property in iconic Oia, Santorini, offering private suites with infinity pools and mesmerizing caldera views. Perfect for a romantic, unforgettable Greek island escape.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3997468083513264199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 598,
+      "website": "https://canaves.com/",
+      "photoRef": "places/ChIJFQPn9-6VoRQRRwjF3grceTc/photos/AcnlKN2imJa-8QMqrwLW1BYpyWxYX3ZS-1OO6apZmMuhgFTygUjKv04DTZUTt0ob3yeBmc6QqUxKHzRN2x9AivHZryEryMDX3wWZZL1EJ8TIfMhD6Pv73J63qZdl6KwKIrZOw5zAX0R0zZa43n_XnY53K0Xt2TOrhybkm7oANf-IFIyQ_blKPtenpjsRaz6cuZrazPYNMw5GnBRQmMQErQeUYnQO45gPdpAZBhUC3cwoCfyk2WIPLqLi0WAbniGoYLS_IgdqYu_MrPV0Ljzl3UiCyABW72sYcVOUGbmg9Kl0GaDUTQ",
+      "photoAttribution": "Canaves Oia Suites, an SLH Hotel"
+    },
+    {
+      "name": "Gundari",
+      "coord": [
+        36.599518599999996,
+        24.915770799999997
+      ],
+      "desc": "Ultra-luxury Aegean resort, minimalist design, Mediterranean dining, spa and vinyl lounge",
+      "longDesc": "A spectacular 80-acre luxury resort featuring 27 earth-toned suites overlooking the Aegean Sea, Mediterranean restaurant, hi-fi lounge, and full-service spa.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13626014365801399812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 123,
+      "website": "http://www.gundari.com/",
+      "photoRef": "places/ChIJ4bm4z7GqmRQRBEb2Od9TGb0/photos/AcnlKN3BZAmLX1c05jhNwfgfRQSy_LUIN2b-bu47St2Wz5icYaPG71UM_ItMLynrnek8xPkVVxWRwyOyIt21NiIofs3zXOsX7gxxwfMssPoFT2NeeXWHe39AM6QjsH9vSfBgVUZyNeWD8NCEq-AkKTTwkTwUw4xuZCOicBZWczCWs_H7FRNtQYQKRI8P0xIXVmGGT7VADnEeyW9zWS_l3_joPHsjuCOE833TjltfyNsFqKNmdPfua816oiip4J0isAKEbsn4NYjAmYPDkUhV06KDv6oFe0x-YBryssMcQmAKuj7xXQ",
+      "photoAttribution": "Gundari"
+    },
+    {
+      "name": "Odera Tinos",
+      "coord": [
+        37.5522127,
+        25.121156799999998
+      ],
+      "desc": "Cycladic island hotel with distinctive pool, Aegean charm, authentic ambiance",
+      "longDesc": "An elegant hotel on Tinos island offering a memorable pool experience while maintaining the authentic character of the Greek Cyclades.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10137434304670549379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.2,
+      "ratingCount": 157,
+      "website": "https://www.marriott.com/en-us/hotels/jmkti-odera-tinos-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJm1pnfm_tohQRg0W_J8pmr4w/photos/AcnlKN1GkfAO3DQCiikvWzB8sH6hPIpyrWjdnOEfzgUG2oCfn2RcsK9lgAm-tt8T2PAr_Lkh69YmCGpF_QJSNngg4dfHYvZBhbolU_1PB7bjkC1il1OFikVCgSIR5fkUJa1PI6FCh1DugzIfC8rsE_t1tTsx-UDVdYfaRLXzJrthwi1azW5QCFiiwVQ4Ye6nryKmhp9H0O7wO0aVXkCMONVieyMfjIs-d26uO0vtlJGddwlmAGGxEhaHcvmAhYn3Y0JfAXaDYxRdZzj4Bsq_LLyTYiStHyyD44AMnOP6AkpurhF7ng",
+      "photoAttribution": "Odera, Tinos, Autograph Collection"
+    },
+    {
+      "name": "Michaela",
+      "coord": [
+        38.745882699999996,
+        20.727359999999997
+      ],
+      "desc": "Pristine white villa, 22m infinity pool, Ionian Sea views, private jetty access",
+      "longDesc": "A stunning clifftop villa overlooking the Ionian Sea, featuring a 22-meter heated infinity pool, terraced gardens descending to private sea access with a jetty below.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2895945252653776851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 5,
+      "ratingCount": 1,
+      "website": "https://villamichaelalefkada.com/",
+      "photoRef": "places/ChIJKQhcNQDLXRMR0z9oKd12MCg/photos/AcnlKN3UQwZmpWAsNIU8jzvpBU7kJ4bMqelH8kGFca5_MkFzYYHeYjQcEOPmZnjRj8VjVyJliu_UmMWOA2qhYz5tNZBJ2sVqjN2eb8GR5Cmu-Ss5N08jFICv40Rcfw_oueA3lnUKzZF-UC7vQnP7cefl_U349XabLBmYEyGkhkToGLDWTWKuAmCtIfMDam_1iZHFOZp1we_U09troqS7JvsPwgK7pDtVlKalL5i6IswlAzHUR8ITPBqkO46bSMo2oBGBvAyrH2PYTAW54UizjYVqvUmeQgFvGA8rPktr1UB3fK4OZOLhREVs6upr8jzlDSi4SDSu_OQzdupmNIJaim6T08M2OI-Df3Va_an2S3wM2pSxh8n27eQDXKUtU0PdKGTA-DkAuKpLuv0XPThpo4wjowDgXEhW1du4fDX0R1EisdouqcV74LJiankYVuN2Cs9q",
+      "photoAttribution": "Amir Barashi",
+      "hours": [
+        "Monday: 4:00 PM – 10:00 AM",
+        "Tuesday: 4:00 PM – 10:00 AM",
+        "Wednesday: 4:00 PM – 10:00 AM",
+        "Thursday: 4:00 PM – 10:00 AM",
+        "Friday: 4:00 PM – 10:00 AM",
+        "Saturday: 4:00 PM – 10:00 AM",
+        "Sunday: 4:00 PM – 10:00 AM"
+      ]
+    },
+    {
+      "name": "Skinopi Lodge: Kapari Villas (1&6)",
+      "coord": [
+        36.7280461,
+        24.4263038
+      ],
+      "desc": "Design-forward holiday homes above the sea, modern Cycladic architecture, panoramic ocean views",
+      "longDesc": "Boutique holiday villas perched above the Aegean Sea on Milos, offering design-forward accommodations with endless blue water views and contemporary aesthetic.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14261853002240565241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 62,
+      "website": "http://www.skinopi.com/",
+      "photoRef": "places/ChIJhzBSVbLYmBQR-R9jNb5H7MU/photos/AcnlKN0r2_CJ7dz8bvNvhaKOwe6cOq4PznN3GPu_leuGFtfjSkkhG_H_bAaRnV8MFQQX5QSg4Zr_HW6mXUfk1XU4vp-PhnR3tMYyBL8vNwjEh-TodNiapCtDAt1WdqEFyEm3lkDEcIloWQ-GmuOQf74sMPzAYTO1vMzbEbklnlqVnYFwIoyoMezrwOuJMkCrNxIBuXxhKRXQbxJfa4CHzgG-4zb3Eg-0y010aiOcFsYpmYt-7MqOlW3sXkgJqHLMhnsXKeR3Trz8FJkF_QB2W7FBz-chrVyeDbz6yiEwuXcnwZFGhQ",
+      "photoAttribution": "Skinopi Lodge"
+    },
+    {
+      "name": "Mimi and Coco Villas",
+      "coord": [
+        39.503968199999996,
+        19.854965699999997
+      ],
+      "desc": "Design-forward villas on Greek island, curated boutique collection, modern accommodations",
+      "longDesc": "Boutique villas in Corfu offering contemporary design and comfort as part of an exclusive Greek island collection.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9073920278309695749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 54,
+      "website": "http://mimiandcoco.villas/",
+      "photoRef": "places/ChIJlZbFZT-hXBMRBfHc3GoK7X0/photos/AcnlKN1oAPBgNnUJ-npR9MwpiuHV25j1H2mzGnhMW-aN0q40ri6YWEtAA59mIlFjgiRenJeZ2R78yjx5zKziAJZTtkqzMqAsi0spkbdWi4CI2NjJAK6BVhNgi0gK2hsa-qHyyCyP111IOWZiDmSHZdisPQg_uQBc0DN902qrWMHFySq1KVjrSPoxil3mg6YFIsKTqmg1f2b4dB4DR0Xn7RDGuSWs-Oqt4DMLTcYFVKwXOg_oBYLTvfPGPXYSlQsv0mL85J0jbZ8bDabPHuF35MOfSstP-PoEyIPwjMqaxj8G88OXhQ",
+      "photoAttribution": "Mimi and Coco Villas Corfu",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Omnia Sea View Villa",
+      "coord": [
+        37.7694969,
+        20.9133928
+      ],
+      "desc": "Sea view villa on Greek island, design-forward property, Aegean accommodations",
+      "longDesc": "Modern villa in Zakynthos featuring sea views and contemporary design, part of an exclusive boutique collection.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1337985518352088827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 16,
+      "website": "http://www.omniavilla.gr/",
+      "photoRef": "places/ChIJ30o8ExRJZxMR-z7-b716kRI/photos/AcnlKN24gaH-e7iSnJ2GVnmOsklHK7UM9P4z-eEsNTbbYaftJOYC35ILjmATrxDM1zbE-fzVPKSe_UdzhOFisyUehQ8MHUQkIj9R5BGLYLjNovQUKVaWAVyW3og_Tn3NPisc09SIUbr_ZUAOZODKqUO9xM1BnDIh9qnY_V_nTKFA6x2TQAzhBsQptcXVLMCpbpuVN_8dAxTzXCJAuXZBQkNfYAhOmc9C2TySvCT0h-FMZ-hzqyKZtE5SxtbhUv3O1EBPlhEkYaOr7wamrbA6t0k0zZZnxQGL5uAzvaWtWWVDOO6sZg",
+      "photoAttribution": "Omnia Luxury Sea view Villa"
+    },
+    {
+      "name": "Ohlive Beach Villa",
+      "coord": [
+        39.180109,
+        23.445286799999998
+      ],
+      "desc": "Skiathos villa with endless blue water views, modern design, beachfront location",
+      "longDesc": "Contemporary villa in Skiathos boasting endless blue water views and modern design, offering a design-forward beach stay.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13637600460680258051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 21,
+      "website": "https://www.ohlive.villas/villas-for-rent",
+      "photoRef": "places/ChIJmRX9hXbhphQRA-KMJ119Qr0/photos/AcnlKN0OhqTkShsQP0XpwPYlXTHfBmxunsHMRSqf7wlc4kfX7EqC8LJlDUM3mQ-03eGjB4Mc5WhLfS_yWcxxFpwZpHA0Hf8pm85GwxpdgLS0DkGgdypJ2DcZba4kyGYKcl2HBM-Zf_oJkxaQbCrPszpqpkM704auQXUgEK3IObxvna8T8075NG06YulR-eW1M5unnHbGBBxySfVU6xpTQCzDlk0uOF_hQBC-4L6Uaki-lhLeC652yOPh-yHbwyFeiyi6q3M-dVnUTltU-0Sh8HgE2pWpub6_W8c5H4N1oOJAmtRzCA",
+      "photoAttribution": "OHLIVE Beach Villa Skiathos",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Maison Kamari",
+      "coord": [
+        36.3920478,
+        25.4621639
+      ],
+      "desc": "Modern Cycladic villa in Paros, curves cliffside, design-forward architecture, sea views",
+      "longDesc": "A striking modern Cycladic creation in Paros that hugs the curvature of the cliffs, blending contemporary design with traditional island architecture.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5567275687555282358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 68,
+      "website": "https://maison.gr/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp_santorini",
+      "photoRef": "places/ChIJXwhcAQvPmRQRtrVmu73vQk0/photos/AcnlKN2xdrT_12kmOJVZN1KvHjLsJuvLsBQYSGx_K8NUs_6j6bTrvtzWxODIkoKjH_m3kSyLNvQiki0f75H8OBmQbJJdxQKD9asQDyk7l8Z8DO_Yi_chxibF6fB-P9Nm_inzu1-W_VQwQ2-sArAgBdcKJDpYH57dHapd8_XIytzi43H_NbHbeQzJiPv86YuSUqXFv6HdtC4A3mM_GeuYCrCjpzXNUmU2UwU02j3vT2mg3MnHWuiUwW3haIhrHEZD5aEzFkfgg72mtA6tn1P2J-tcpA8opDyKe8l_uHiwg2yAgrCuIA",
+      "photoAttribution": "Maison Concept & Objet",
+      "hours": [
+        "Monday: 10:00 AM – 4:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 4:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Enyalos",
+      "coord": [
+        37.5378013,
+        25.1633037
+      ],
+      "desc": "Modern hilltop villa, emerald marble pool, local Tinos stone architecture, Aegean views",
+      "longDesc": "A contemporary architectural marvel perched on an elevated hilltop above the Aegean Sea, featuring fluid indoor-outdoor spaces, locally-sourced stone details, and a stunning emerald marble pool.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1687014204118822225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4,
+      "ratingCount": 83,
+      "photoRef": "places/ChIJp97Y0mftohQRUW2K_3p6aRc/photos/AcnlKN3kLQYj3UGgRFDVjZic0Y23VQ06E8UU3to53jawYT83UQsEmy3paxfAVgYjhAmiIMEXGKxRLQ7JcbCbbIZfZKUqywZAHko113CGnKu0a9TWHTqTEvXRo8e560OoWqFg7o_c40qklbGuvoTYyed6H46vpXOvDqqLTjVfNoiKnRpknjk2vw5ympqmIH7teK3zEcG1OIqgRmDAV5kgGrek5quCvSMwpKq9u6lvuHw0_8QAvin8sZdaDdqg4ICJ5Z0sdAsi-gIvDbz0SXzQ3cb-rQiWtMWiP8IiPO4-vSceYRQ",
+      "photoAttribution": "ΕΝΑΛΙΟΝ",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
     }
   ],
   "restaurants": [
@@ -2478,6 +2916,162 @@
         "Romantic",
         "Photography Worthy"
       ]
+    },
+    {
+      "name": "Forty One Beach Club",
+      "coord": [
+        36.339923,
+        25.453981
+      ],
+      "desc": "Black sand beach club, sunset cocktails, luxury cabanas, Greek island views",
+      "longDesc": "A premier beach club in Santorini offering stylish cabanas on black sand beaches with signature sunset cocktails and upscale seaside dining experiences.",
+      "tags": [
+        "Splurge",
+        "Cocktails & Bars",
+        "Photography Worthy",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6098169734093816009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 1788,
+      "priceLevel": "EXPENSIVE",
+      "website": "https://forty-one.site/en/home-2/",
+      "photoRef": "places/ChIJ300ck-vPmRQRyUCzTBANoVQ/photos/AcnlKN31a7H1Fv66Uvr_PqQ_fUuT6ssqzAWoasHPDui4IToaNYpElSs2Dbo7gLhB1QlgpiSLfPHjm6Fa4th-nGS70cjnBk6l6_JhfYYk5f9f9SOSu_i-7JOtp9tHU4BFLyu2cY9lvE553OFj2z-Hcr4h_zjoDZWvKvGw1zpPhj1Noz4gbEYnD5xPerW1RIae6GbdgvE_MWwCgEoijpc87KkGaeJZlcf7rGrz71SfZcbjbXyln4ST6_hfqHGbFKEz9SjVDcLx0pfrKlbGXrcJaS_vjt_8fd-Y7KVptJ48-7DKy_8QXQ",
+      "photoAttribution": "Forty One 41",
+      "hours": [
+        "Monday: 9:30 AM – 11:30 PM",
+        "Tuesday: 9:30 AM – 11:30 PM",
+        "Wednesday: 9:30 AM – 11:30 PM",
+        "Thursday: 9:30 AM – 11:30 PM",
+        "Friday: 9:30 AM – 11:30 PM",
+        "Saturday: 9:30 AM – 11:30 PM",
+        "Sunday: 9:30 AM – 11:30 PM"
+      ]
+    },
+    {
+      "name": "Monastiri Beach Bar",
+      "coord": [
+        36.354525699999996,
+        25.4739684
+      ],
+      "desc": "Beachfront bar, cocktails, Santorini coastline views, casual seaside dining",
+      "longDesc": "A relaxed beach bar on Santorini's coastline serving cocktails and casual fare with panoramic Aegean Sea views and a laid-back island atmosphere.",
+      "tags": [
+        "Cocktails & Bars",
+        "Photography Worthy",
+        "Good for Dinner",
+        "Casual Eats"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7983280966748057683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.3,
+      "ratingCount": 1344,
+      "priceLevel": "MODERATE",
+      "photoRef": "places/ChIJc_iJ-SnQmRQRU7An9b1Pym4/photos/AcnlKN2l2D0WVXeZvqHrXG1295yIUSY94dRXtuskv245cKVQkm30cWC18V_qGUU5lIIaZH4aV_bZqGr7riwCpH5iRr28ShV3w629oPQr26qkGhOU0g5lGSUw9yMEV4AhKyspLvaaoh-WQSv3fUlqTLyDH5eCTBcTiRMFioMgQGKI3QUeVwtXL-mX12s4Wnmd9g4ZWc881r370FodSUWBhW9He_VnzdC4FBvgv47P6v2v0toA1MWiI4rWleaYlq_OhNXd4T7sQQs1TOswEmAHGvEIVoSa9Mx-x1AxKs1s07v_TMZSg2yhh8YhD1AVzShwcqJ6UXPJV4O9MMm1nldnf8Xq5AE-ckBAsMgjWMsPpWp-5PX_pWa8XkiOm7cm5xTVJvIOwstckUmOnlJcPymQThNy02rQiTBQM3O2MMly4Zn4rgjOhw",
+      "photoAttribution": "Mr. BIG travels around",
+      "hours": [
+        "Monday: 9:00 AM – 4:00 AM",
+        "Tuesday: 9:00 AM – 4:00 AM",
+        "Wednesday: 9:00 AM – 4:00 AM",
+        "Thursday: 9:00 AM – 4:00 AM",
+        "Friday: 9:00 AM – 4:00 AM",
+        "Saturday: 9:00 AM – 4:00 AM",
+        "Sunday: 9:00 AM – 4:00 AM"
+      ]
+    },
+    {
+      "name": "Cabana Beach Bar",
+      "coord": [
+        37.0937288,
+        25.1490632
+      ],
+      "desc": "Beach cabanas, sunset cocktails, black sand beach, Greek island luxury",
+      "longDesc": "A sophisticated beach bar in Paros featuring upscale cabanas on scenic beaches with cocktails and Mediterranean seaside hospitality.",
+      "tags": [
+        "Splurge",
+        "Cocktails & Bars",
+        "Photography Worthy",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13438432567167715348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.1,
+      "ratingCount": 1314,
+      "priceLevel": "MODERATE",
+      "website": "https://cabanaparos.gr/",
+      "photoRef": "places/ChIJz9K0zqqkoRQRFIgSUDjnfro/photos/AcnlKN2rfYC1AkjeqtXJ3_-YCa5ZCtaM94YvnvZkYcPkA7ogMeBYf26eeQDkzl7Q-zXP4q1p0jVU3SZKsBpEQli-fDs-jn6H3knkV10Dyt2fa0erqAPWhVGPAR-CKiWxa4REKAWLygZLdSBEMAkwsyv2TJRWFXFMBrjBH59jK8ydr6XdaBCV2QKfm_FkGuJi8C6DVhmJ_QWKIw_CN2FHqh-5-eqzkHG7pCM_KUzmWrmRUuxC6RtBpEchdxHjGci7WdxH3a9uJkFm-_wZbFGNrqp3V3CUs-vaoNefdHTj0-Wo7YzuwUHR8J8k9b_oZwchavhSyexeQL3V-J5AXM3ggaYZLJq3nQh8vjPRTwTs70u1NlQBK16DuZMjnBocUTp4pAuNGUfo1JXFhHdMj1XR4Pd9NrUkjzpfLYg3w-rX5rZU6t1NSoyuGOC-DqSqIfSCE9SB",
+      "photoAttribution": "Giulia Moschen"
+    },
+    {
+      "name": "Castello Hydra",
+      "coord": [
+        37.346434599999995,
+        23.455441399999998
+      ],
+      "desc": "Waterfront dining, stunning views, early dinner destination",
+      "longDesc": "A seaside restaurant offering dinner with panoramic views, providing an ideal setting for sunset dining on this car-free island.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Good for Dinner",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5088052340257418965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.4,
+      "ratingCount": 522,
+      "website": "http://www.castellohydra.gr/",
+      "photoRef": "places/ChIJnR-haqt3nxQR1W6jU6VknEY/photos/AcnlKN1XBcSkTsAI7fjhgmcaYCQFlwrl5OX33HyekSycyqP3hvipnRqnIPmRWL-PS4S3GOyBlg4y3ER3lYZ6vbemor-j_Va5-ATs-NB2jt_w7IqHClu2K30AW72CA8MT8uvggsXqtvdG5RuEpHfulVX_sMi1J3Vfu3lcg4A5zhHynM3RzWyG_Ui4TYIQEegZ8MGGKOVLxUPDypu0lvZUWL3UUAkkpZVmrOVDvrSKq4OxxRgOnrQhs2AiafOqawfs5Ec0ngOS48zGNw8m0eTzU8d3gJCuIptW1fN15uVFvxk3ob0HJw",
+      "photoAttribution": "Castello Hydra"
+    },
+    {
+      "name": "Kam.in Hydra",
+      "coord": [
+        37.3465427,
+        23.459122
+      ],
+      "desc": "Casual brunch and coffee spot, local favorite, laid-back vibe",
+      "longDesc": "A relaxed cafe popular for morning coffee and brunch, offering a welcoming atmosphere for travelers and locals alike.",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Casual Eats",
+        "Good for Lunch"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11901936365134890626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 116,
+      "photoRef": "places/ChIJRdZM-yV3nxQRgkYrnxAsLKU/photos/AcnlKN2aQ6bCFB6iaCdbColDUdye1NLzFubrKIp8G0cmaOVqsn9lltBGTbYeFCI7RC464oCuv0cYRLD1ktAQF5iBpxdCJ-5ROgL1JB7sW3lsQbyNhvLQzCnhORUiDfG1hBR0gnuN0FYFaKRlnzYQlY9mBzdg8oWdIzQTZG5VhL-JiTzSIDXZ9yvCilyCXXYaYwnhZyTc6y4ZWJ_GP64TdLe0ur0CyWCd-1I3KxgBZV23Ib57SnKL9XFb-RS1pwa6ITX1LNVwprsn22kRYcLsdTJFhMKDsjjIrK4tcK0SeYKv6DmccD_j-h386tTTQCyBYAXDxXoo_1QUrxY8zYbEIxSpS5dhuaP4DXmZ0SPzOP6ozmH_Exubbq59E29lWgJzoJ2dVJuyWH5UB0bHsjyxRQrv45EmxEJy2uzryRbaA8z16HBB44h3",
+      "photoAttribution": "Lola Vogiatzi-Argyropoulou"
+    },
+    {
+      "name": "Kodylenias",
+      "coord": [
+        37.347816699999996,
+        23.457656699999998
+      ],
+      "desc": "Waterfront dining, long leisurely lunches, scenic water views",
+      "longDesc": "A seaside restaurant specializing in extended, relaxed lunch service with beautiful water views and traditional Greek cuisine.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Good for Lunch",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4182331636019621887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 3.8,
+      "ratingCount": 750,
+      "priceLevel": "MODERATE",
+      "photoRef": "places/ChIJM_G0k8B2nxQR_-_TyXagCjo/photos/AcnlKN1sm-7oUMo3A7V09qakLPmcVZPZ2bkXzJdJ-Q6Wsr8wvPGuaCkD2PAlsHy-iXh08lWKecQwuvhpc7v-j7j4vctqibJ4abUzu2vOjR2TO4kMal3R1ZRUrPOLSGZImUeYA8bl2RYfVrjkG-wj5PiUvE8zsFY4lWeI1vR2XnY-cOmvSvnAfO-isyLONR8ScYd0EDXa5UFPaB-Gg5tu2vzH1gMDfaixV4-TSx3Go-hKteqQsQvAWA987xwoOqgn1-ZjULZs5AK7GOL6AROMEvwHGlSLFM_6AJkNktpdZbw-AH4mFbI5g1WlJuPRGQjPPuCTeVl6wB4bA63tVQ_d8MboRu97ji5BgINmdbsmG4TsUg_6HEGGhg-maokAsBBM-17X_zLW8XVJZrHLh8jpmJcSfUbgmOEDgw7J_3EJEJ_SG6vdnIQJ",
+      "photoAttribution": "Ilias Antonopoulos",
+      "hours": [
+        "Monday: 12:00 – 10:30 PM",
+        "Tuesday: 12:00 – 10:30 PM",
+        "Wednesday: 12:00 – 10:30 PM",
+        "Thursday: 12:00 – 10:30 PM",
+        "Friday: 12:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 12:00 – 10:30 PM"
+      ]
     }
   ],
   "experiences": [
@@ -3558,6 +4152,279 @@
         "Photography Worthy",
         "Rainy Day"
       ]
+    },
+    {
+      "name": "Serifos",
+      "coord": [
+        37.1562778,
+        24.4886232
+      ],
+      "desc": "Quiet Cycladic island with pristine beaches, shoulder season charm, warm Mediterranean waters",
+      "longDesc": "A serene Greek island known for its beautiful beaches and peaceful atmosphere. Perfect for visiting in shoulder season when restaurants aren't overwhelmed and temperatures hover around 26-27°C.",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14547235018693354040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 486,
+      "photoRef": "places/ChIJH4UcruK8mBQROCJXySwp4sk/photos/AcnlKN2pTV9n-Gz2ijyXU9hTrwfpNNkR4z4R75Y5uSSOysNXJ3GRRsyWGUh7PbekufEcEJ2tFSZ6_nuCq-fYpSUQx7KMQTEy9zTlqkvqYHidrXTAK-oKIyfBpE66589tfLzjJIT8bT_eBbfxLRAEq8e9njJ3IiBSU1i0MKYucim00A6tGbp0FLHikOdMB6NZb-BB6gLzCCHxixy7OoyBm0s33dbL-qfJH8g6RvGJpQnggeuaxtfACsxE9bG_uLwBTa71wgIA95Bys6u1cx6NIgnmtN9eVi_H0sWdPJTDWcvytqEEFgvcAo7IoOg2msfGTHL9WNAo_Pm5cEBCpRfInk3El1hlTJ2VNXsvCtbj5XbTOz60YXqyads03-EDasLcPwgvJRmoPytHfgxXNfTr2o151Sxsb5ML3rYbcAJmv_9vi1YkHMo",
+      "photoAttribution": "Maria Raptaki"
+    },
+    {
+      "name": "Sifnos",
+      "coord": [
+        36.967957299999995,
+        24.7024179
+      ],
+      "desc": "Food-focused Greek island known for culinary excellence and traditional gastronomy",
+      "longDesc": "A celebrated Greek island renowned for its exceptional food culture and culinary traditions. An ideal destination for travelers seeking to explore authentic Greek cuisine and local food experiences.",
+      "tags": [
+        "Photography Worthy",
+        "Local Delicacies",
+        "Casual Eats",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=288438376631748448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.sifnos.gr/",
+      "photoRef": "places/ChIJQ9EDkU_tmBQRYMe54iy9AAQ/photos/AcnlKN0QA-lWmKO5X0gfL6ZhjLchKjHFyCXID6k94LQljHvKVJHknuYJ5P-QVw7-PHDN6vCm-xbp4j6fyKeMp_VZ7BziltOZPulnzuYIsCfJTwEFENsUCz7UafbY7Ss3xWvqgyTyzHHmIFenbkqlXWkrDsYwazs5YkxhdnOIfdt3cuLQR9HwQ62xsXo92ouBqMnfgp1sjKVg5FaD10aKdiQDxXRDZYOoR2nVLQ_8KfLXYy1fNdAGi5Un9TG0Ahz2kxFhbQJNXukW7K-2U7eN02nEdRTmx2QObWy5lEEwcuZqcH3sKicsfKtV0j7-LuPyKVsKrFbXBbR7a0wa_0oISuiuE7plgRP0NTRTh5I08ZMutPGx4Qb6n3t56O97PoIISOEZi3NtBzuJemP_xVk_xItKf2Ohg5zCeZfwT9LR_O1b4ozP3A",
+      "photoAttribution": "Elena Filou"
+    },
+    {
+      "name": "The Rooster Antiparos",
+      "coord": [
+        37.018743799999996,
+        25.047898999999997
+      ],
+      "desc": "Unorganized beach with instant setup, picnic baskets, pristine Cycladic setting",
+      "longDesc": "One of Antiparos's most beautiful unorganized beaches, maintained in its natural purity. Offers instant beach setup and picnic baskets under the Greek sun with views of the Cycladic sea.",
+      "tags": [
+        "Good for Dinner",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Casual Eats"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12538772004174177983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.4,
+      "ratingCount": 238,
+      "website": "https://theroosterantiparos.com/",
+      "photoRef": "places/ChIJqXGCvERlmBQRvyZqXLSqAq4/photos/AcnlKN3JFnzAbdExnXLlaBRMliJNSTStbbSq8pnVkZiq5rPTATHT3dO1Z4vtTKJdKNbNBoJsdvZDe3T4PnpIzs6ZGF6saIlQQLRtpV2Z8d_Wu8Eeww49-7rXmtyBWtfF8QF_VNJ56fHl01iJ8xRMvDZrzSoE2VOUJ86-98ufCGsTg6AqNV-s9Vo-qhBoPp2Qnix10sf4SeDE9B_-vcVd2PpiGVdp0bTIzinApM-rq2vqBzu5n9Mqz2Se5wJVKz9QZqGWCj2fK6MrgyQ3fP2POdWphkia3GL-iEMmmThCEN5rjcS9A53U4Z4i_qGllRdxWEoQr4pmxnVvG3_rqrvdiuvzSmVGLbtDoiQdcVZq9q-FP-U0iCdZ9EFnrFNYO94qBpMj2y88fpnVyqELEqcyr_4zje8LwZb0KDKMZ6Q6_BqGJTwLDhc",
+      "photoAttribution": "Cyril FM",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Hydra Town",
+      "coord": [
+        37.3466624,
+        23.4659497
+      ],
+      "desc": "Charming stone alleyways, car-free village, donkeys and boats",
+      "longDesc": "A picturesque pedestrian-only town featuring winding stone streets, traditional architecture, and a relaxed Mediterranean atmosphere accessible only by boat.",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Cultural & Historical",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=288438376631747264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJsWDUsbV1nxQRwMK54iy9AAQ/photos/AcnlKN0YG-gb93x3s0aKLCUhbv1OIy2I6X9AmUAKzXjt0laGEVqtBjx7a-GklK8GgJgXxcGA23rOGKEPzgIRwBAYEgeTO_T94ElLezPsiOJ7xcE5mjs1SVox7kdXB37l010R-h0MRbuHCFO_5OTdHu34R0YaHmw_ujiQGqmmBqCoancNs5wzc-KGxMw3YN2Y-frpq8xx4pqPvtHjiLJih15Vc9MnZVRu25GlocpijX2KfcNqzk8HoKpQ5RiEMoDW8UIpbhTjqH88mKaDGJZIZ8xkoABGCX6rzNSYKXRKop5bEgH8HHizUAmFOIxHgvTAvrt0fR3eiqsMW3DIgwOz0KGv-zCudGjXhNxRiqzSv2IzNLhHplRUEZNa_f4sbVLEziKXDQJs5_X0iU5FBoHYgivcFdJoYhO64Pe2DH15kItGHUJVnhyK",
+      "photoAttribution": "Spyridon Moysis"
+    },
+    {
+      "name": "Spilia",
+      "coord": [
+        37.35175470000001,
+        23.4636426
+      ],
+      "desc": "Scenic rock swimming spot, crystal-clear waters, natural beach",
+      "longDesc": "A natural swimming area where visitors can dive off rocks into pristine Aegean waters, offering an authentic Greek island experience.",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16324321609665201292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.5,
+      "ratingCount": 1087,
+      "website": "http://www.hydradirect.com/hydra-holidays/out-about/spilia-beach/",
+      "photoRef": "places/ChIJjW1XxsV2nxQRjMRTlwOki-I/photos/AcnlKN2nrBqlMnRTBWQ2ECvd8TLVhvsznllv5Swth8pP6uNpocfIv5zsBy12_JBWARFuWfA7qDGAvhIgrFC0sRELHHr5fi7-XA40L7pGS6TcM2E8_z1i_7wT8FRNGnFr0zuWdZKj7fIzrPUomeTnvfeLSWyC3DnO_QsqRpnsk8US8tHMAkZuu8hlrVJ4CMyGKHFbhhNlYSgA2TkeDmMWLIF5aNtBJXkteA3hIG10hNGHAtcZJe5KUpp4h5Gi0DazqVlsXE9IdkGSc8eYWk35AJa7j852lJO2O0L3PgOBnFGMjrKgaYAOy4X0Fd6KDXFRRxRi_ysayoffl2z_R1RbQndfA1hl-IsivxlccbzD858jWkeqZSUUWi7Mn5aYMRzwDgIRePQ7puE7u0stWVNk-lmcdGzPHaVnruAYpESIy-9Wu-_F2g",
+      "photoAttribution": "Griechische Naturprodukte",
+      "hours": [
+        "Monday: 10:00 AM – 3:30 AM",
+        "Tuesday: 10:00 AM – 3:30 AM",
+        "Wednesday: 10:00 AM – 3:30 AM",
+        "Thursday: 10:00 AM – 3:30 AM",
+        "Friday: 10:00 AM – 3:30 AM",
+        "Saturday: 10:00 AM – 3:30 AM",
+        "Sunday: 10:00 AM – 3:30 AM"
+      ]
+    },
+    {
+      "name": "Hydronetta",
+      "coord": [
+        37.3519252,
+        23.462398099999998
+      ],
+      "desc": "Waterfront swimming spot, seaside access, natural beach setting",
+      "longDesc": "A scenic waterfront location perfect for swimming and enjoying the Aegean, combining natural beauty with accessible entry points.",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7970736474442358310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 203,
+      "website": "http://www.hydradirect.com/hydra-holidays/out-about/hydronetta-beach/",
+      "photoRef": "places/ChIJu28FNMR2nxQRJt5ivZe-nW4/photos/AcnlKN1VkbLBjItN-eibsfoEDCKe3fYBH_Qe29WGEEi5V0c-rc0mB5RcFBtp4UGaTn9LA2cXDMARtWiud7j1Y8R994dgCC1bQmU5J36NXwEs3TBpv7HVxr4Ba3JAuXDvo5LxJLhOHwgwjgXX0CfRvN_V0akrEXjvTSNyS7sF2cWbIkM2mjuUxSXtfb7Nr1OC67Kn2diFoSVgHXuothQkoD-skcjlnFEVaf2UKEmVKLSZXdVyY_D8_iyc1HZ4HsTDwVdMSpOZmeR9QDskEtUjv16TJicWs-7a8LtGoT8cP5LZVu5cODEfRIrDInyxRv22RXhsi4Cf_Q9okO1EbNtE6RoqHxV__xCh_elebQMeAMc54yMIn7bmjmpKqBY-eMMAH0TvZH_GIP56M42hjOk8FO6HMZybboG7yKY_FDF0i4NzDP2-hA",
+      "photoAttribution": "Michalis Anastasakis"
+    },
+    {
+      "name": "Paralia Kaminia",
+      "coord": [
+        37.3465628,
+        23.455209399999998
+      ],
+      "desc": "Scenic beach with waterfront dining, sunset views, early dinner spot",
+      "longDesc": "A charming beach destination offering swimming and dining experiences with stunning views, ideal for early evening meals overlooking the water.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2811786326438700439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.3,
+      "ratingCount": 303,
+      "website": "http://www.hydradirect.com/hydra-holidays/out-about/kamini-beach/",
+      "photoRef": "places/ChIJKz_D7L92nxQRl-WtM8R4BSc/photos/AcnlKN32p29_hAR3rz4IueXjnjg_cPSjv1R2T2jk8-1vvSZ6PfiG1DKzdJ7n_48adGDHvygTsfJBoRTNLrfbCGExGfkENXswY80dbE0bnM3Y2O_eJ7UciU4Ij3rJ_teIqTz_FAWw4coS7dU7FA2bjLEDEHL7itiyhuq-BIKXUIaIoKw83Amyn09Q_aLRDIhu3A7Y7b5sSEBGzyxDbOVz-pDrUv_-2WN7jaVK5nkR2C29uvhO_PjDci9cQrMGheAn_BuMgVeAPZinI7ahu5LmIUxxy56ECdSqoVjc72IAwI0cp3ezAu9Ey0NKCxvbonHmuzxVurg9bR_rF-NK_1RulWmVogfcjSQayxq2YTx2lDmwtIzZjIG9xexgm65wshqLsYBHdmD7CF-x0dVXwgDUcNb7EhWZGoxxeqt73Kwf9vsghFFg5w",
+      "photoAttribution": "Phil Coles"
+    },
+    {
+      "name": "Halkidiki Island",
+      "coord": [
+        40.3694997,
+        23.287084999999998
+      ],
+      "desc": "Hidden gem island destination, tranquil escape, northern Greece",
+      "longDesc": "A perfect destination for low-key travelers seeking hidden gems and tranquil escapes in northern Greece, offering serene natural beauty and peaceful exploration.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=216380782593819568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.halkidiki.gov.gr/",
+      "photoRef": "places/ChIJI8OM-QSPqBQRsMO54iy9AAM/photos/AcnlKN3aDpY4QUcVqkjigPh7rGX2_ap0pIXt8mCdyS7BLz4HuyQCsLHEj_c9hE33bk59HCA8_dpleftCrvuws9mIyjPZlPt6BP5DZDpJSddzv3peTpCnDDJJHnakWOep5Gwa-tVuE25F0lAoQeaIIVcTe-eOdpRU_kajdeuVcnjez8f4FtZS8VopLLOnm7iHtyyGlQ8lHGE2eHd2zKhBaCymqcNXV3B1TZre_zF6pE71sZoAahnIbtCKQXt8MjRllba91gABmmNMZcOnAWs-fIpFuRphGh7_C9aYwOIFe6kWtBBn8aV0bldAQhksg1gwOEx5D3EO0V9Zp8126jpcoIoXgAd3dVGKENgvQKdtMcHm-KonY3qtniFAyzZcoED9IfVIO9nlp-lZyjWzNzfm7mRzf8ILzUSOoBHg3Yvnq3EpcPs",
+      "photoAttribution": "Aleksandar Petrovic"
+    },
+    {
+      "name": "Paxos",
+      "coord": [
+        39.1977287,
+        20.170040999999998
+      ],
+      "desc": "Serene Ionian island, slow-paced living, pristine beaches, Mediterranean charm",
+      "longDesc": "A picturesque island destination perfect for travelers seeking a leisurely summer escape with authentic Greek island culture, crystal-clear waters, and a relaxed pace of life.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=288438376631735472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.paxi.gr/english/index.html",
+      "photoRef": "places/ChIJ-Rjp-diMXBMRsJS54iy9AAQ/photos/AcnlKN3ChZ7evMWAcS3J6v_nGufG7lNmFbTNvWre5B-Qkp5XpXF7t0gaq7Qa59CdssQJKgbNAoY-Y-xJ18K-fI0dl7-kPoWqjzz3xIoMHlVe76hUFgPi_Npt6WQY2-ghIKLtOBhfFg-EZd9MyRjZXVxw1MxUdRTLtnGpxyHpEiIuC_AdcTQCSuU9eRwuGCusyf8GFCx835X4bkOh2ZY2ZDLqOKhjyFvXLAdU5eveiJtMe3r9FfIqAOwv7bOCZs4AJCyFy4nMdSIE50HZl1aDGLGSYoQJ4_6fbQpfLqLCgT429bm8zJHpxvjfijcTCPzovbsshGCL4Xm7o1VrMr5kqQjRBxd78ChkDZNVxcWZzOYlcNNThCfEdZiCnofQkn8tHGsHpq_79iJjEZ4cGK2ROaFVxJau1QF8k5ItFnj-RIBPk9PndPc",
+      "photoAttribution": "Наталья Паклина"
+    },
+    {
+      "name": "Mononaftis Bay",
+      "coord": [
+        35.4156781,
+        25.0157365
+      ],
+      "desc": "Scenic coastal bay, crystal waters, dramatic cliffs, ideal for swimming and water activities",
+      "longDesc": "A beautiful and relatively secluded bay along Crete's northern shoreline, known for its clear turquoise waters and dramatic cliff formations, offering a pristine natural setting for coastal exploration.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11280855260816689952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.4,
+      "ratingCount": 1733,
+      "website": "http://www.bluebay.gr/",
+      "photoRef": "places/ChIJCURscZFRmhQRIEuTVxemjZw/photos/AcnlKN1QSRzu6kjZ-BhKqy9pUj1h1IsQQbTcpBzXjbVCHNy0kFKimhDzGE1j21eIgjEvDYS52xVi68OfZtfMAIlkti3rhbQvdTClWwe7oRsxpTbT1IkozvP-7btAbzP8WHq-aG2XPIZQwdmmRKPFFKkYYj3Qvlw6aLvVWvaZo0V00ReKrMYQbGvHS7kSNoZ_qVF0sBx-izBH59ei2bEBA8PmvyL-Y1yVBPwOEctOKSrlU6kxni8Y8PuJ48MeITDecCyeyLbD9wJtHWg-abP_Iacoc906NN_DtJBcjLfzhU4Wa8sVvA",
+      "photoAttribution": "Blue Bay Resort Hotel"
+    },
+    {
+      "name": "Limeni",
+      "coord": [
+        36.6810319,
+        22.3782696
+      ],
+      "desc": "Jewel-like coastal waters, scenic bay village, swimming and water activities",
+      "longDesc": "A picturesque coastal destination in Mani known for its jewel-like turquoise waters, just a 5-minute drive from Ariá Estate Suites & Spa, offering swimming and exploration opportunities.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12425635598960641610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJFYApZVLuYRMRSkZ_UL65cKw/photos/AcnlKN2XvrC0zwrr59MU0zen-2gDBqLMp5MqrTip7XI3nUW92X3FVP-L2D1JgChVQpC-DW6OnFcAp5onNVZlppRyjugdAMVlIDSvYydV6EowbNNz_FWeiv6TtfLGP8ZYvuE-1rY4hSLoPnWvQHrW6uA_j4nyjPO9gGLDfFiEc3VyctdHPq39o3YMxvNfC5LTo5hNxh1NSn-6Oc_3kKR6CglkasnHv-yj8X4khFH2z1icJtQJbSF_AXBNh0lR-K7xVEg8UG2SNG1gn_TIwOXEK7MKfVIAoMIuJRVijF170BTGvNUATx7yFErNITWMpoqKw6YcXA49-0dSRcLsFzCe4ojRNWru2FSab_gql3fMC7I1uerv6eH__X0x7x7xjFv2DMueT85oYxuKcVcLaVv4MEkJk2xsPT79QfxOFZXpm_tNGnTwcvSl",
+      "photoAttribution": "Μανώλης Βελισσάριος"
+    },
+    {
+      "name": "Mani Region",
+      "coord": [
+        36.7721873,
+        22.3814624
+      ],
+      "desc": "Historic mountainous peninsula, traditional villages, cultural exploration, outdoor activities",
+      "longDesc": "A compelling travel destination in the southern Peloponnese featuring traditional architecture, historical sites, and scenic landscapes ideal for exploration from a resort base.",
+      "tags": [
+        "Cultural & Historical",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10336399743938298023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 1616,
+      "photoRef": "places/ChIJWUQ1svTlYRMRp4Dhcc1Eco8/photos/AcnlKN10OrHJ8UChkHnok9-InYyXqAwRWJtNHah5rbGlwSluh4fuNWp5-0UBbD-LI-EsBEIdO7fjjpiBV_ksyuI52bJb3odDBGjUxF4DXBNTLHpi7PtcBs4AskTrLLPxjlqFsJFjZJXHKaeJFdMRcLan1zICI1vynsYJI6SsRrAIj9KZR6T-UEyq25VGwfW1X3YUIwZ3GMnwAflRf7Ao6skKs6DjQvJ7ROmbT8750vqJBS8HjEVlSfbq-dkieOQOpRaczW2zfQdaX3IGJWBP6OlOaXeSYbiVAM68uxG_5Fggxo7MUM1o7TRvqzDBnth6uop0heueRDxpPObW7YJe4DkNq95CwpTmkAPbuOaKKgIzAtpr0Fjj2euKisp5n_5x_xb96EHgoOU4jJKZ3fbyFKUVpC44tyBOECq-AD7CGvHT8BiOxKtx",
+      "photoAttribution": "Michael Magiatis"
+    },
+    {
+      "name": "Folegandros",
+      "coord": [
+        36.617145199999996,
+        24.916088
+      ],
+      "desc": "Secluded Cycladic island, unspoiled landscape, tranquil retreat, cliffside villages",
+      "longDesc": "An off-the-beaten-path Greek island offering a peaceful escape from tourist crowds, featuring dramatic cliffs, traditional architecture, and authentic island atmosphere.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=288438376631743632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.folegandros.gr/",
+      "photoRef": "places/ChIJ38jAymdVmBQRkLS54iy9AAQ/photos/AcnlKN3Do9fmHrV4al5brPC8XQuCVOiHafBIFgZPrt94U1WYkJfxWMYBB41pq5BgfiL_RXwt8giAS7a8P41Ux1ebKrQMnd_JW9QSvQKgBHT61Tx3XTVWQGqHPqnTtFtU36dUJY0-yzEQ53XGpYBIv3U6U_ofv6QvdgZ1sDkf42GYxJ6XzPFnZ_3Ghe7RYBSQ2w0ocnVFADI9c-hLUETqBX-BY51VrWMCFeyV56VzIg1IRy9Dfx4kLrWm-I7p_YwHUDj_ItTorWFGQToePBLMn6NOjDunc_ZVSvjO3exqv5ggEITMNNZ-Ckkl3sDqQvWYOxuCeJzMQ-gkG0H1N0RrDSHJRHLy_wny0C1Pz5aInwQW6sep8J3-zZuz0F2dVtnCv1DGrHvKEUF_5X1KolBSCB01sk6I1-aaKgAo0_O_uyj0nFDcwg",
+      "photoAttribution": "Montan Chr"
     }
   ],
   "kidFriendly": [
@@ -4572,6 +5439,35 @@
         "Budget Friendly",
         "Family Friendly",
         "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Drougas Bakery",
+      "coord": [
+        37.3510308,
+        23.467048
+      ],
+      "desc": "Local pastries, Greek coffee, best frappe on the island",
+      "longDesc": "A beloved local bakery known for authentic Greek pastries and serving the island's finest frappe, a daily destination for residents and visitors.",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17587945724666239017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 207,
+      "photoRef": "places/ChIJ8-oV_W93nxQRKdiUn3PvFPQ/photos/AcnlKN3k-R2hU6Ndr34ZkzHRIKGF3SrCeZd0U3UkhvvHNBl_rtI0DfIl5YDY0iAHA5ZGWXx6eatvCyBprLEPbmH1mMQ7DxzT26nnWlY5YbyehYfAkzqfiWQqgptYVxmlOvj7RizgpBbvKA64pA6UzgpiKX4Zw-KcDPecOh8bLahLRG7aV8jPcyiYCgob1ZfvAzgz_eYfuBJ6jsOp_AGUwU7Y1yi5pSxoU60CDpvyA8h7eyY7veUL5PIyH-9JatXkvhvAHsny0OoOkjEcuzou--FV7bjSUUUbJhoQ6ydlbnbtaDNOiMr0Y7zYDDmN_wrmXk_pFknEcyXvOSCV15rTL3ZrPdfDuO-BZLzOh7NZ_G32YMU0dQknOmZTgTm7f_ecBbNOL80FYRaqzP0O2ONCJg1jQRUdlb3-EfbfzOCnFToswhQOYA",
+      "photoAttribution": "Elisa Karberg",
+      "hours": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 10:00 PM",
+        "Saturday: 6:00 AM – 10:00 PM",
+        "Sunday: 6:00 AM – 10:00 PM"
       ]
     }
   ],

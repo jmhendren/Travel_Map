@@ -1304,6 +1304,101 @@
         "Photography Worthy",
         "Adventure & Active"
       ]
+    },
+    {
+      "name": "Eriro Alpine Hide",
+      "coord": [
+        47.3832515,
+        10.973669
+      ],
+      "desc": "Ultra-luxury alpine lodge, cable car access only, 9 suites on ski slope, all-inclusive",
+      "longDesc": "An exclusive alpine hideaway accessible only by cable car, featuring nine suites directly on the ski slope with all-inclusive amenities, spa, and adventure activities in the Austrian Alps.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa",
+        "Outdoor & Nature",
+        "Art & Design",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3787723782369653958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 35,
+      "website": "https://www.eriro.at/de/",
+      "photoRef": "places/ChIJq6FKm6kdnUcRxjRxO7aykDQ/photos/AcnlKN2c1gmWxr4iY0we1cG7tkTvfterQP7S3kGJVt2qkDBuicaRuXaZYrDxaKd-xMHCdhVKxvo7tb7i5ED84Z4fp8xTXUMxxcCyBGLUrfMcsybX4OqXMpOFlAiQ7Y6ndL_mZRasRDFiKriHswPkt3-zxBux5k7-Oi9h9Zy89iNHsXhWS5pk6uZwLptR2Y8wOxglDk4LERr8-ixx2kWLX_qfGVXUJLGcha7pZ6U3S0Ds75yPibPWkGnwAgg7kBKr75xAPqBfl394SW6fjipQPg-Wwp4TlSBhIp-YBlCejBQ_R3ScBw",
+      "photoAttribution": "eriro Alpine Hide"
+    },
+    {
+      "name": "Forestis Dolomites",
+      "coord": [
+        46.675755699999996,
+        11.7100308
+      ],
+      "desc": "Luxury alpine resort in Dolomites, comparable to Eriro Alpine Hide, upscale spa and activities",
+      "longDesc": "A luxury alpine resort in the Dolomites region of Italy, known for offering a similar ultra-premium experience to Eriro Alpine Hide, with full-service wellness and outdoor adventure amenities.",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3438911267233494057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 767,
+      "website": "http://www.forestis.it/",
+      "photoRef": "places/ChIJUzkj65AQeEcRKXSK0ZN3uS8/photos/AcnlKN1-XMuqD-Ej-n2_wGIIP4iPsUPuKiYf4aQT-JNhu6PDUXnSbSXNdXkF2Hlg1Mcs2Sm-lseaOyhFOWwpYIN1EsxaZWstWcTqhjNnHA_v-9imfl-DV_Wf7TYMRXWSBqcP1PAzA07T3p0l1qq4cX2RSZ-eB9SZ95IvbCXGlnIYJ1Bb0Cj4NUznvntmk0epsfrjBq4y2j9xO4gkZU_w5Y1-8SolT7sTt3JIENH08gLaPnY_E5DZu0rNhOnnm7oC6D2jms0d-3ILknH-F1mlM20AUhj-teD5sApJrvJYSWxe9dot_Q",
+      "photoAttribution": "Forestis Dolomites",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Riders Hotel",
+      "coord": [
+        46.8176345,
+        9.2650918
+      ],
+      "desc": "Stylish alpine lodge in LAAX resort, modern mountain hospitality",
+      "longDesc": "A contemporary alpine hotel situated within the LAAX resort area, offering modern design and service aligned with the resort's sustainability values and mountain lifestyle.",
+      "tags": [
+        "Photography Worthy",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13876717924426466880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 562,
+      "website": "http://www.ridershotel.com/",
+      "photoRef": "places/ChIJT-CipD_chEcRQEa8JW4BlMA/photos/AcnlKN0t7WZLuauKCjHB6r3kwSUbWIsHKtoVwTjcV_1xupo5gpG5T2jciqcNo6VeX0qUKEcwP9uLqt_REFn-CGOhBxjRuGPQdJipeVF4nZ2c_wn1-xFii6lSABtTBnztJH2EO7QiOmFn-3BckQxWDZ_eyCA12bymECBvdRlaLErcHsiAPzdRI8bC5A66xiE1ykAmbd3fPTGbCJTv55LlHjSFKveiVlnIb5Bz1npcccwOHhBDdYJPQayWPfcx2F5P8aepC-DUPu8xTbisZHEUVUCr66DnBN4YM97AbbYnP9Nhv9OgYQ",
+      "photoAttribution": "Riders Hotel"
+    },
+    {
+      "name": "Eleven's Private Mountain Huts",
+      "coord": [
+        45.6026009,
+        6.8860838
+      ],
+      "desc": "Two private alpine huts deep in the Alps, backcountry mountain experience with candlelit dinners",
+      "longDesc": "Exclusive mountain huts set deep within the Alps landscape offering immersive backcountry experiences with gourmet dining, local guides, and access to glacier trekking and via ferrata activities.",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=577416600016099220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.3,
+      "ratingCount": 12,
+      "website": "https://elevenexperience.com/lodge-destinations/france/eleven-chalet-pelerin?utm_source=GMB&utm_medium=organic",
+      "photoRef": "places/ChIJHdnOuWdsiUcRlJdfo1ZlAwg/photos/AcnlKN0vdPtJwkfD9b-Ryp3DxWBWMBxQkFgsLOh2fShC52EEYC_2KdQGRR58R6BLbovrFfmmxC-wXb_sRIWiYmZ2Pw9C9tsn_WAR7lvngXHHWNnoyCZrATWZanL61-iID928diZmKrIso4ohz4my9-suLWccmorhVbKuHdDxuyrZNYt_FL-WEn1xcoFJuFH2tyP4rfTmbCIikIv8yc_90PcjjXvP9NDq6HPfE58AVh_oomHM4M2D4LpduJrElOS-EQwXxh-md7Dx8Oo4eocwWSbgdvNsPzgJmzLuTBmmc4d-4PxsTQ",
+      "photoAttribution": "Eleven Chalet Pelerin"
     }
   ],
   "restaurants": [
@@ -2133,6 +2228,35 @@
         "Good for Dinner",
         "Casual Eats",
         "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Stalla",
+      "coord": [
+        46.855492,
+        9.2349208
+      ],
+      "desc": "Alpine dining in LAAX, mountain cuisine and hospitality",
+      "longDesc": "A restaurant in the LAAX resort offering alpine dining experiences with locally-inspired cuisine and the service quality characteristic of Swiss mountain hospitality.",
+      "tags": [
+        "Local Delicacies",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6133783072445562167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.4,
+      "ratingCount": 651,
+      "priceLevel": "MODERATE",
+      "website": "https://www.stalla-alpnagens.ch/",
+      "photoRef": "places/ChIJ8-t5xUbZhEcRN_1ryjSTH1U/photos/AcnlKN3i2wCH-froCFtMQwGq5GbYDQd6h0xqBIT31uKiPSeswnWstJFsGt_jqpYoyOqIk9EWRPEo7rJXWikQ5GNs7q6UMyPpZ3EKpUtR1BttfTa7mDqazkEnYqwzZIOX9kiIOPsNLMP1NFQVbqHl-S4Ha0c5v3xF2X9q9jfJVt_gCR8cQKsZM_atFfuQrSsCpHjhjq1dTHi1YrePpza_kHgw0pb6qbuD-MMIIlC3i2DKEhykV3knFopaPMjzd1Kx_EZUBctVODObF2FjJZD2-DjA3i7kaqqpJHT4_U4j0QiukfwO3Q",
+      "photoAttribution": "Stalla - Alp Nagens",
+      "hours": [
+        "Monday: 9:00 AM – 4:15 PM",
+        "Tuesday: 9:00 AM – 4:15 PM",
+        "Wednesday: 9:00 AM – 4:15 PM",
+        "Thursday: 9:00 AM – 4:15 PM",
+        "Friday: 9:00 AM – 4:15 PM",
+        "Saturday: 9:00 AM – 4:15 PM",
+        "Sunday: 9:00 AM – 4:15 PM"
       ]
     }
   ],
@@ -3442,6 +3566,46 @@
         "Outdoor & Nature",
         "Adventure & Active"
       ]
+    },
+    {
+      "name": "LAAX",
+      "coord": [
+        46.8091625,
+        9.2607783
+      ],
+      "desc": "World-renowned alpine resort, snowboarding hub, sustainable mountain escape",
+      "longDesc": "A premier alpine resort destination in Switzerland offering exceptional snowboarding and summer mountain activities. Known for excellent service, stunning views, and a commitment to sustainability away from the typical tourist crowds.",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4897496431936661734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.laax-gr.ch/",
+      "photoRef": "places/ChIJpdWEzjfchEcR5uhTig5n90M/photos/AcnlKN3q3XL1H-RORbw2iMsNqtR68BycNhr2qNGupRbM6LEq9PARe94RbmsPfTGhR6YYVb3a68IpivArAXEj5On0FTsA0TZiScQg8wBnVWCM_icwEss2CX8QJ5NoFmjxonCF24J91KP1hSS7-tn8S2RKhnliEUM-87VkNzkRWdCkVlIaO7wYbjYZ3v1Lsl4TCpKk674Fl4xtsGGme4bG_Dh495YVQH0fwlTCnCL3iH3sjjke-jq-4W8bI34VOaw1kscpgn5jseLyrcL2PvU8Sqnt1zK6zLiHCyIvPo9HsihROaaUAPApMCao4A0jXvIJ-mkX4O_jppIzXOIImyq2hXEyoeCHn0KMbA8QKtXDdSYqOoZw3cQVuoMgCLNp9KgwcjTudy6Mikn7Wiqq7NJ9R0lrdyjqd-ke_nTGkxd3_Snzi9U0TC_K",
+      "photoAttribution": "caRbonyca"
+    },
+    {
+      "name": "Courchevel",
+      "coord": [
+        45.4051087,
+        6.6316792
+      ],
+      "desc": "World-class French ski resort, luxury mountain destination, Three Valleys region",
+      "longDesc": "Courchevel is one of Europe's premier ski destinations, renowned for excellent snow conditions, luxury accommodations, fine dining, and access to the vast Three Valleys ski area.",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14751863086456795836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 5374,
+      "website": "https://courchevel.com/fr/",
+      "photoRef": "places/ChIJE7AILaN4iUcRvHJ0g1Elucw/photos/AcnlKN1nFDCANMq4guG6R5uHQrv-OejF6dEldTTVUwyU2bGumlJX5vI1F797SQo4FHmL8kM5DPdZ8eaN2QkTS6QOWLBJCQOCfrD_ESgsP_S2BGx8oJwZfaXMqiujiNr0I9mCqNQgCs-A4oj5IvS-GdZXo2jfDAEdJ4tP_3s87sW85Sin4-fa-T0HiX2iWHQkOSW4xgr41cTHVIqLMbqZ7UtI3NtinVy1IxfPX-ZALEZSjVmf3pRj6AxXnukIjxXwFu1cbEy-7dGZi3DHOUHMCLjhusSTavu48YCCdQNa1scpOoO64sD955l8q5UumWi5J4mO0euONFpO7v1r7clHoLG1TlsjpISESeq4M6Uf2KgF_uv5jloJyVkSPwiOZKfkJgV-hD2dhnBObKmkk0nvkIABuS8PwB0Un3gbkyMi4MHiBlPHcSM0",
+      "photoAttribution": "Martina Janoscova"
     }
   ],
   "kidFriendly": [

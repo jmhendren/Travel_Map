@@ -1,0 +1,115 @@
+{
+  "key": "turkey",
+  "name": "Turkey",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇹🇷",
+  "defaultCenter": [
+    36.6769,
+    28.6708
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Faralya",
+      "coord": [
+        36.482247,
+        29.116315999999994
+      ],
+      "desc": "Beachfront Mediterranean resort, private villa, infinity pool, direct beach access",
+      "longDesc": "An attainable luxury beachfront resort on the crystal-clear Mediterranean featuring private villas, stunning dining, and an infinity pool with direct access to the sea.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Budget Friendly",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10340849163227298254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJCRCjhMg-wBQRzvkOmoYTgo8/photos/AcnlKN23ocDJsdexgc6i5LpJkvJaL7Vr86OBB2RVT5dLncIiU_9e0ZPmdcXA_bQwea1jAS4tXYpR0mfi7kV6umoTL9EC_P23PKVfOKAKwTYCH5KJCqf3tta1rggkmYeb5f2H8CRBJbjkREDPd01ZylYXxK_itkMrz49WqtjyWDGr_mQnpK_1HOnMFnM-n9NL9pj3Jg8sG0-HBTSIf-Q30uI1-IbkjzQkxT732Fkxg_l6bNXEbc6mOco_msdvca-jV1RYCP6190HWovKr3mdpBy8XK9qMP_ffgeRxQL7SnRSi4Ivx2fN9W-x23YQ7z5fu2p2-3d_lxEHSC2w9OjYCrMXsDq8VRpRsTRDJpGHi3HGwpBDyjTWnnZRQ4pIMWIEZjx51JnGJU3peNVG9q_zuoljnT4lmZ6w8didEdIK4KTV0tjrBUA",
+      "photoAttribution": "Sinan Ekinci"
+    },
+    {
+      "name": "Perdue Hotel",
+      "coord": [
+        36.4820626,
+        29.108942
+      ],
+      "desc": "Seaside hotel with stunning sunset views, serene coastal setting, peaceful atmosphere",
+      "longDesc": "A tranquil seaside hotel where golden hour transforms the horizon into a meditative moment, capturing sunsets in their purest form against the sea.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6874762731925486874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.5,
+      "ratingCount": 389,
+      "website": "https://perdue.com.tr/",
+      "photoRef": "places/ChIJGQa135M-wBQRGj2D10cQaF8/photos/AcnlKN1mpTKXYtmyhmh5KbyyFLoWnEdZJU9PAvrf7mPnLw5Cuw5c_So3ql4q-J6p52LLaY9GZ83pl44wMUYdvgvuQonpdA3UXKAR95H7EbhbUkr3Gzkwn5zD9zR4mDLxlLuwAz_pYBKrY2lVyXediZ2OWsaIRHQZ0wBJWXZvRdzR-Z0a0brUmGPHDExvkbSXuaVLadcHI-BI4TvCJS7CRamePyAMbO8CpgBHqeqiey0eKXguOtBeyKGgi7q_scv3QrU12kQpbsWlbJ0-Ta9BVl8XOzD0vViyJTUL-oH7FJ2oI7h8hw",
+      "photoAttribution": "Perdue Hotel"
+    },
+    {
+      "name": "Presidential Hill Villa at Maxx Royal Bodrum",
+      "coord": [
+        37.1305802,
+        27.404457899999997
+      ],
+      "desc": "Luxury all-inclusive villa, girls weekend getaway, resort amenities, Mediterranean beachfront",
+      "longDesc": "A premium villa within an all-inclusive resort specifically suited for group celebrations among friends. Positioned as ideal for girls' weekends with full resort facilities and beachfront access.",
+      "tags": [
+        "Splurge",
+        "Nightlife",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14022486366906844201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 261,
+      "website": "https://www.maxxroyal.com/tr/Bodrum-Resort",
+      "photoRef": "places/ChIJXw4kos9vvhQRKYQ9bw7hmcI/photos/AcnlKN1jLuQiGrJ3rSIaPN3Tkhi8P85TTuRGSY9VsZarZoV2wxGTdJocXgeggpUlCbwTuSj4PeuBIgw2eKpiE50a_NMRVjQgBuIQApuF6ACpcdlaomgH4VsOXys_JHIS9ywyMPMnSf6tcb6udWB3_qHa9dlUGuMK3ndLUJhR8uq2DOZK2VjeQGQ6nIaibvQ6AMts0o4rjdLBQ2QMpwh9axm273b8PHQjkVrCB2E6oHCDy9Yn2AJwrlB978HtYUWKjMFxoOuv7jWzu5UNMpwxHPYJUQSbdfq_3KzlqTVqnFOqC583gQ",
+      "photoAttribution": "Maxx Royal Bodrum Resort"
+    },
+    {
+      "name": "Yazz Collective",
+      "coord": [
+        36.6128535,
+        29.053657
+      ],
+      "desc": "Secluded waterfront resort on Turkey's Turquoise Coast, accessible by water only",
+      "longDesc": "A dreamy boutique retreat tucked away on Turkey's stunning Turquoise Coast, accessible exclusively by water, offering an intimate escape from the everyday.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16628272154438195320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.3,
+      "ratingCount": 386,
+      "website": "http://www.yazzcollective.com/",
+      "photoRef": "places/ChIJvXQCqBNFwBQReNjOkWx9w-Y/photos/AcnlKN0YzKr0Y_OOaE9UacBMNJmnJ2B4VlY4Cotd0LKUwrWwyb41dUsOR5vFBtty5XwnR_LWCfU1y0S-lBugwRs7UJAxGZ2lFMcU0uj4VKtZGnYhjHotXhP4-_ujkSoXs02zGujzOIlgLB_d7X0ac2P0DTZCHZe1QKK1v3ta4dfrQHJk7XjGNrcLshbptTHBXDTqpC5SwN_SUGAHknZfZ9PW7NOfcclkfW5FavwObTADdSIKR_Rsry3lnsAPN-odUpNkVVL529i2rfUi29cg-p0H-YhTIQIhVgPnxSv_eNwGq5Sb5Q",
+      "photoAttribution": "Yazz Collective"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Faralya": [
+      36.4822,
+      29.1163,
+      0.03
+    ],
+    "Bodrum": [
+      37.1306,
+      27.4045,
+      0.03
+    ],
+    "Turquoise Coast": [
+      36.6129,
+      29.0537,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

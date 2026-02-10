@@ -1,0 +1,721 @@
+{
+  "key": "switzerland",
+  "name": "Switzerland",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇨🇭",
+  "defaultCenter": [
+    46.6226,
+    8.2463
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Hôtel Palafitte",
+      "coord": [
+        47.0046026,
+        6.9647212
+      ],
+      "desc": "Europe's only overwater hotel, suspended pavilions, lake access, 5-star luxury",
+      "longDesc": "Europe's only overwater hotel features pavilions suspended above Lake Neuchâtel with direct water access and stunning views. Originally built for Expo 2002, it has become a unique luxury destination.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2030410266366882850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 1560,
+      "website": "http://www.palafitte.ch/",
+      "photoRef": "places/ChIJk3Rph38JjkcRIrQaM2F3LRw/photos/AcnlKN1pEvLM3dwvh6RQ6uGLMyYhNzOI5uQH0hlW_eHq1gMokYwl8qP8bIhIXlSt9TifGZAUf0oKdOBVQ-5Jxkuf1w7VydY_9vrPUksm7a-fH8cfk116ui-f8Mp31QYI-4P6Tmhx9gOAHZ4oqY7EtDeeayEvEDXvkIAfFm6hqhti1aGRWlhmXMvfy6kVNqItk5NI0e4Hx9fSfu8qRmIVGj_PV2fC8TzbbD9GRje1iazCeJ9XYSiTI7siKVrhmVt20BW2XTdPZR8X5mq_NDkIH7wK4lYhTp7scmZBMCXMBL3y_EjiPQ",
+      "photoAttribution": "Hôtel Palafitte"
+    },
+    {
+      "name": "AMERON Luzern",
+      "coord": [
+        47.0501917,
+        8.307675
+      ],
+      "desc": "4-star lakeside hotel, Alpine views, Lake Lucerne setting, luxury getaway",
+      "longDesc": "A luxurious 4-star hotel nestled between Lake Lucerne and the Alps, offering a premium alpine retreat with stunning natural surroundings and modern amenities.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=829675418816383765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.2,
+      "ratingCount": 1825,
+      "website": "https://www.ameroncollection.com/de/luzern-hotel-flora/?ppc=googleHS",
+      "photoRef": "places/ChIJDxiLrJj7j0cRFYtsyWWZgws/photos/AcnlKN1ht8fcoc9wzLg522-eGEYs4E_fbnMjsOsBcORI4UoDA1Sn6MC7pBp_twVRCpf54cU0Rm4nRVWT-PDKZH_EePZ1k7tYEvnl92fP4ZjsdG4DRd7nbynmKYHhUSL49n631nv65ETeckSXXwTWafoST-k6JPQbO4SKGkU2zJEsVgKyGuN8bj-pv5AXmyKpgosgC7htLYCUjmxSMOPRjK4I_sw0VgKr0afNvZ3iJLsvukfYWMuxoe8GShsmzJFro2VpGUewJvTai2mny1H2nn9Ny7xco6mS3ElL4dieyRQ0HtVxMA",
+      "photoAttribution": "AMERON Luzern Hotel Flora",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "84 Club Chalets",
+      "coord": [
+        46.4921733,
+        7.2584766
+      ],
+      "desc": "Alpine chalet accommodations, Rougemont location, exclusive club access",
+      "longDesc": "A curated chalet collection offering luxury alpine stays in the picturesque Rougemont village, combining Swiss hospitality with exclusive club amenities for discerning travelers.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17920703342612222420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.84rooms.com/84-club-chalets",
+      "photoRef": "places/ChIJBRlnYgDzjkcR1JGO_b0gs_g/photos/AcnlKN3DNLD-rJp9kmDWZHCPWgArrinYGKr6MeuN8GS86O_yDQSzi9nLH8mdA88nXl2IHbJq8tNFIHCeSwMZVuEkNRXVKod5BgIA1hWnjNvqwh_yNA235qCU2ZIhFpFtfs-UpVIZGVUAZ74Ep_nUS90HeWsDPgs7gFcs4YQ6FDYu2yPX8JIUHAxRsLBrKU858KMNL71UNFVkjPo0_0gC7r8sRESFv3ZudFCYJZg56xQkvagDvRNhPkpu8LD-an5YkIzx-RYX3vTT15UCYPY7avXyUkPhVC4XQv6JDRua82e9kmT0Xw6l0oXYHwYIjSI0iX-MTSkYGmBrlVvbEqT0kfqov--bC0TsCuQBDfU7OoiJk9vOMKI27aJ9yacHCxbOoz4U8fye-z_ZSpMLKz9Y6-tH23ajT_QCGceVfgqHpJQ61UKTJj4",
+      "photoAttribution": "Lauren Taylor"
+    },
+    {
+      "name": "Gstaad Palace",
+      "coord": [
+        46.473142599999996,
+        7.2893590999999995
+      ],
+      "desc": "Iconic alpine palace hotel, year-round luxury destination, Swiss Alps elegance",
+      "longDesc": "A legendary Swiss alpine palace hotel renowned for its impeccable service, world-class amenities, and stunning mountain backdrop. A perennial favorite for discerning travelers seeking alpine sophistication.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5445349191155672147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 1027,
+      "website": "https://www.palace.ch/de/?utm_source=google&utm_medium=organic&utm_campaign=google_hotel-gstaadpalace",
+      "photoRef": "places/ChIJvYdRWanxjkcRU2TLGD3EkUs/photos/AcnlKN2w3l8iUGchZSgvFKrruUuSlf1CN4GuLLnBUWBdeFpZ_mKvgJ9G1C0ITX40i36siAa-EkBXVRLEvcuihUqbzhKN469zbOuhRUZ-1T1SQ7Kvw-N-n0pfg-Wim9gRiaG5bpQgauO1T9HNztRjVC4pywzmXq7JU_BBpF6UWMBHrx3OvA48WV0AvwGptZZspPKwf_QetfXV6BTQuH71kswy4lSBYIvOpsldsRfRg1Gc3dGjJ7OjMM3N8kd9L2rw1oV5-Udw0tDO7L_XsHnV50_1LgjmWSJJ6IwkhecLDdK7imB0bA",
+      "photoAttribution": "Gstaad Palace"
+    },
+    {
+      "name": "The Brecon",
+      "coord": [
+        46.4887757,
+        7.5536582999999995
+      ],
+      "desc": "18-room alpine retreat, century-old chalet, Mid-Century design, ski village hideaway",
+      "longDesc": "A transformed century-old chalet in Swiss Adelboden featuring 18 rooms with homely interiors and Mid-Century design moments, eschewing traditional ski lodge clichés for a refined mountain escape.",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=745320125011861054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 88,
+      "website": "https://thebrecon.com/",
+      "photoRef": "places/ChIJC4kb-KEDj0cRPh5Ib7ToVwo/photos/AcnlKN2PP9KOUxd7d7LFJ1nk2IoGbtOMoUnMu0CQ6ORWPbYwliKwrU-dDXJBvsNS9Ur5U58Rgmb0ekm0HCVwjI_kiLGOJ6p3C7z2S6bwp_K7ZoZ-9L0xnwUKe89Cxjge9f692iWKBJG57OfLswpBYG7F0XLs9VaFyoyAfb8RCUzQrx6HlnKQgAUQxUqRrk-RdsBd4F9Sfy6X5f4wPWOh682TdIcfK1lQLacu00raX6lhpkY6lezYVbi5zc6nrQVvHSGqp90pDA4rr3078R3sPLe5DYQpXnVfJQV6Qr3ZU2wkvpN4YA",
+      "photoAttribution": "The Brecon Adelboden"
+    },
+    {
+      "name": "Badrutt's Palace",
+      "coord": [
+        46.4975879,
+        9.8411589
+      ],
+      "desc": "Legendary alpine palace hotel, winter sports hub, fine dining, Swiss Alps luxury",
+      "longDesc": "An iconic Swiss alpine palace hotel in St. Moritz, world-renowned for luxury accommodations, championship skiing, and sophisticated mountain hospitality since 1896.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13382507381352043421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 1294,
+      "website": "https://badruttspalace.com/en/winter/",
+      "photoRef": "places/ChIJzQkBFcB9g0cRnROITY83uLk/photos/AcnlKN0F4oxxJtpS4D5QUTJ7Ky3Mq1jHLQYkZOQPudFDiCiDlzwWYKEUQ4BXon8ZJmzzZSf2BblMBq4HLRexelqVkAV2IngJgxY-ByRtJmmjNgpR5Jb3sf0zgdM-vJ7BgxZbqIXo9DleRClgEwL9XUQ7N5Si85Rsxcs8uiRsrY9xC6LpRuCq_i2UVhzsyjQzSooV9Jswoorty61Lhn3rDpgt2erZBQ0kM66wFTZMlKh4szNXkCBUV6CThlyXt337AVPhgSdOGW4HVzo3jvJScWk6p0XLrUVdDZ04TqeHL132k5blgA",
+      "photoAttribution": "Badrutt's Palace Hotel"
+    },
+    {
+      "name": "Mont Cervin Palace",
+      "coord": [
+        46.021130299999996,
+        7.747161500000001
+      ],
+      "desc": "Luxury alpine resort, Matterhorn views, 5-star mountain hospitality, Zermatt",
+      "longDesc": "An exclusive luxury hotel in Zermatt offering stunning Matterhorn views, world-class alpine skiing, and refined mountain elegance in the heart of the Swiss Alps.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13203867801083407105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 505,
+      "website": "http://www.montcervinpalace.ch/",
+      "photoRef": "places/ChIJIYjXKN81j0cRAWvL2M6PPbc/photos/AcnlKN0zS7AF8lYBspbEqOPwynjGc45PVzwbTvU2k5SVsFbeoBobZ6At68hoEDgbTfi068iz8qLuYK3strmXoaMKcZ8_iT-DBx4vkjnUHeh0Nc9AeWaAS3pJbWxAAJxLrBxQvVsc7ZvKtXpW9IEIdwihf70hxV7C6iV0ITQOk-6-b4QATVpWPl1iosxo1NSRCv0GkZkGNYW3ohpz2_nS4ihq03CDmyX2pn00t4iMmpfEduWOYsPyQWX1nsx4JW1AVQ7IwAQUggdbdqn1mRPInwf-HLXVONU53LmROrL-aS7uLpYP8w",
+      "photoAttribution": "Mont Cervin Palace",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Geneva Airport",
+      "coord": [
+        46.236979399999996,
+        6.109088799999999
+      ],
+      "desc": "Major international airport, gateway to Alpine region",
+      "longDesc": "Switzerland's primary international hub serving the Geneva region and Alpine destinations across France, Italy, and Switzerland.",
+      "tags": [
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16506160967457482288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 3.9,
+      "ratingCount": 19684,
+      "website": "http://www.gva.ch/",
+      "photoRef": "places/ChIJN5MjroBkjEcRMKa4TvKpEeU/photos/AcnlKN0O04qzdWHMC_rYvmM9niidroCuPf6Q0He1PXCzrY0YkXz6rplAv48f376Z5USlHbneBfsqjEsuaF1DzJftzjycupR8a08D0rE0HYO5ySnm5PEWJVsgvyZNp0vSd1NPeYWnCsC3zVfjheN3uuhtvKj_lCu-0Nku4dOrmHOODz-bVFvThGD_Vvj4B4dAiCv_Ck20yYk4aV1Q8b51nnKs50TuIRbJVU2AKlTPFPkc3bYhOSCvfVs7OqlHC1KDq7Jn8s8WXZCFP0B15YIBq-vOAdwHySM-bmsBJspvj0Y9jky9Bg",
+      "photoAttribution": "Aéroport International de Genève"
+    },
+    {
+      "name": "Lauterbrunnen",
+      "coord": [
+        46.593505799999996,
+        7.9090981
+      ],
+      "desc": "Alpine valley town, dramatic cliffs, pristine Swiss mountain scenery",
+      "longDesc": "An iconic Swiss alpine village nestled in a stunning valley surrounded by sheer cliffs and waterfalls, offering breathtaking mountain vistas and outdoor adventure opportunities.",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=376382326479793201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.lauterbrunnen.ch/",
+      "photoRef": "places/ChIJx2UROwegj0cRMSyQVbstOQU/photos/AcnlKN2Nmzdwu24adZHd4jbKZMAuz5lNxpBraWMlWqPa0XrphfLEAboGaDK-XTrqgb2XJvy1o1KynjQl6dCtOT3uEMk57vpH47VJ3ETWBCk2Jz_n0Q5P6j_mKbaaIe0UdoJXXveuG4v-faM3lw83OafJQoUtxWOy8foRWBB9K-POE-D_HTHaRenUTNLsITd8oY0fM0jsQgmubOCISQDV70xhp1vLeVS6DLIkGuevrLwEyHBvmHOqq2JLrJeJgV_LEnL-74OoH2b3ExBBEAd3tSPiA8njAn9fwkZJyDOXECKYUUuC19cAukLjD8jHDQOLfIDQ-YMaQLrymqYH8_DixG4QqYDPdlNgzUKHG5WNWbs_IA9_z2sQorMDDbnB_a_Flr8CZccSxkplSUEzduy19tfk6peuWB1VcWdOOC_yJUBgoWVtM3w",
+      "photoAttribution": "Muthuraja S"
+    },
+    {
+      "name": "Glacier Express",
+      "coord": [
+        46.6370205,
+        8.5933548
+      ],
+      "desc": "Iconic 8-hour alpine train journey, 291 bridges, 91 tunnels, gourmet dining",
+      "longDesc": "A legendary Swiss rail experience connecting St. Moritz to Zermatt through the heart of the Alps, featuring a three-course meal, panoramic windows, and an unforgettable passage through hundreds of bridges and tunnels.",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15110372117898495652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.3,
+      "ratingCount": 627,
+      "website": "http://www.glacierexpress.ch/",
+      "photoRef": "places/ChIJW78sotZuj0cRpIZOD2LTstE/photos/AcnlKN2wthUsz_Tgb7S0FLM0cgkPHAvux0dMcZYGTWmdCiyPhiiSiEFwcSOAOAhLlxLFWlnNkT3gIqPzKBEUoYBIBo7gZvO3wRz08rvuzUQZ4LLrCHphQjloAgmFSlREBJPmDf2RAkcsvx2Jbz70QdKkg3ZibzXTJZv-GPCgPVNav7JgTDlmsAxZN8Mc6g9rXeEaQO7GOldHgtuVHhEegRCz6TZGZsyPIB4a_U-rWC1eB3pjJ1VmUdKyt6b-IgbOKtS-X_xEB-0yqW9IONPpc2VY75E7wkRv2OzZwuiV8fXFayWwYQ",
+      "photoAttribution": "Glacier Express",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ]
+    },
+    {
+      "name": "St. Moritz",
+      "coord": [
+        46.4907973,
+        9.8355079
+      ],
+      "desc": "Legendary Swiss alpine resort town, luxury destination, winter sports hub",
+      "longDesc": "A world-renowned alpine resort in the Swiss Engadin valley, famous for its glamorous heritage, exceptional winter sports, and stunning mountain scenery.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2855242294624876581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.stmoritz.ch/",
+      "photoRef": "places/ChIJexrAbQeChEcRJXjJPr3bnyc/photos/AcnlKN3lQqHAuXcmBSvU4jc_yemQlX6OwGAhker9tEve0svJe683M6QyJSTftPzY7ae2K1yVMi3G0szkgvJiwrHGxhlHvlhvgt0RH-y6dlPRGQMAcWNZL7jmcLlpfL5V613PoWTxKL9nPs_CDbcYFNdonhkRwn6Zma0oaY3Ob3QLHZJkOaTZ5M6JRDgK5OgCjt_VClBXbBXg4eCBWUdG3Jrrygfam5nz9VEX3lFPc-jhwgaU0Wixi9urjsmby2Bxz1PiR0WLCX3GyzZMhHgYlZ_9mqk1RzGIWLUuYjhNEExIxJ95dOk3T2L_S6jiE9fUBIJNbg1jLWqqwGLhF4UBUBDM7TG_IQQpGjlGmNWd6XqikO4GPWfHSijtixEpCqoGDVFdHaR6gW66cYYggtek6YkBVsf5IuEFpB1ysopC9cEhm4KPaQHd",
+      "photoAttribution": "Emily Jovita Escanilla"
+    },
+    {
+      "name": "Zermatt",
+      "coord": [
+        46.0207133,
+        7.749117000000001
+      ],
+      "desc": "Iconic alpine village, car-free mountain town, Matterhorn gateway, stunning views",
+      "longDesc": "A charming, car-free Swiss village nestled at the foot of the Matterhorn, offering world-class hiking, skiing, and breathtaking alpine scenery.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=288511336807755632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.zermatt.ch/",
+      "photoRef": "places/ChIJzeUuKaI1j0cRcG8ZQIj_AAQ/photos/AcnlKN2TYPLh4cakTX5AS4Ms2_Lns3JhEfI5KXKq3r4Z4K9J1EJQF8otpq-KnyKmPlBSc1qxw7tbCEWRXTN5TNtHMlFTwLwjzMdUW6eFfJpY4SxDbh5Ku2d-cDMUE6rBscrBPxtP1xhHzwtAVUdb8S4aCuEu7RMje7jMe5enUP4mtjdoyuRWMEEM1s_75hcaL44ORvnZ46n-I4dpqqpiKIcBGa0R-RM0_OQwKY6wODfMRKGwGKN0F0YgXy1bUb2UMJWsmCwc35iPaaf5DtMgeVPRMBeiRbIivcmAkaSC4PRkXRpkXR98AF9qGlVYxtqwW__MtQnpOIU1A9VDZ7xfDJqUY3-fCgR508BXSI0rI5Ub3TQovoUMXLg68MyLceTdqEs62iZe3Li7Qz2kEv43R_dnEJ8DopU5Xxr18y9DXCZDxFChtg",
+      "photoAttribution": "Slavomír Jurc"
+    },
+    {
+      "name": "Hot Tug Boot Buochs",
+      "coord": [
+        46.7549798,
+        8.037875
+      ],
+      "desc": "Heated boat experience on Lake Lucerne, fondue dining, alpine scenery, autumn and winter seasons",
+      "longDesc": "A unique wellness boat featuring 38°C heated water where guests can relax while enjoying stunning Alpine views and optional fondue meals on Lake Lucerne during colder months.",
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Photography Worthy",
+        "Family Friendly",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6627231729381665612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 675,
+      "website": "http://www.pirate-bay.ch/",
+      "photoRef": "places/ChIJsyVm2KCXj0cRTOv9MSWo-Fs/photos/AcnlKN3b64K2VrK8sJnm82uGkIY8qhZXT-Ohq6xwwUc1x1aoU2INoIAb2PkBDxAiFb9uYB3wHlQvnLCCB9Q3m5gQWuEIMARORfJobtLOmHpzA65RGSqMETFCoS7-j-kAIy5T33HrYyvnxPtEmct0FO5XOCWL4kXGECLIpSBFCiz0A88yl_hnT_a6_4f28zDVbOCc6neKAm07vd0lqFsBMbbLYuHREcBS7qb91YkRkzaz6tbSwVJ_NPMS7ArRp2fLUzQ79lv2vPYB8fdN7dv53KNbyHJIL3G8CIbyQr8VkDK3JMCrdg",
+      "photoAttribution": "Pirate Bay Nautical Center + Hot Tub Boat (HotTug)",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ]
+    },
+    {
+      "name": "Lake Lucerne",
+      "coord": [
+        46.9735985,
+        8.420352
+      ],
+      "desc": "Alpine lake with scenic mountain views, water-based activities, popular for wellness and recreational experiences",
+      "longDesc": "A pristine alpine lake surrounded by dramatic mountain scenery, offering visitors a serene backdrop for water activities and wellness experiences throughout the seasons.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15590230484447854960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.buochs.ch/",
+      "photoRef": "places/ChIJaUkelOD3j0cRcAH7ZwagW9g/photos/AcnlKN3JOZL9PqsH1whAgj0oq-q3-0TVrzGVpwXBqDRknFAbpNrHgUNnQV6rsR9jtkcMpsWhgrgH80HfW_bmxQd_J9l6c-VUId0eSiT-xthY2_JGlsl49IOTRFNB5AbL-x5HDpnwjwU2JSiwDRiFL2KkhqxiHjA8bferJN8Ueb-KxuPQuhF4k546SiQvJNoBoh1rUhrQtkNTmcjfbKS_d08xOn3iOjVInlpe5U0oYOqJH3E3M6gvDaHis1ZYFAdXBY4HnrOENAGaUaAN6TEH4JKpiPz2YgD1h2uvrrsm_kZuz3uU4f-DYty66eKeXJiOupKrYTmnIofzz5eHMRiejL1Suokr8VDc0bJ1d32xHHmWiuB2AZFNN2Pdi69I2E_RfQD_p_SX4I66i1xrIUULjyBQH9IdCf7tAsN4BW8VOtr1xAI",
+      "photoAttribution": "Jos Beckers"
+    },
+    {
+      "name": "Preda-Bergun Toboggan Run",
+      "coord": [
+        46.588283800000006,
+        9.7773313
+      ],
+      "desc": "6km thrilling toboggan run through Alpine landscapes, viaducts, scenic descent",
+      "longDesc": "A thrilling 6km sledding run through stunning Swiss Alpine landscapes, gliding under beautiful viaducts from Preda to Bergun. A must-do winter activity combining adventure with panoramic mountain views.",
+      "tags": [
+        "Adventure & Active",
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5327373584820663752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 507,
+      "website": "https://schlittel-bahnorama.ch/",
+      "photoRef": "places/ChIJtz6hB-2chEcRyPUIvQyi7kk/photos/AcnlKN1tXKUJZpfsQPm_pHxYY0D04ctYBdus9GjKiclvcWsLb3sE6AktTVBfSnepe12Fxg8BXF0672q9wcyop2Cl--sQUdqCb07Yeb3Q0stFxpgzUpNo4jSiI94FytFiBmpPQFGdD6thVzRfLmtSboRud3jspRbv3aPtCCEIkqagx91eqvz6vjnlHreZTRIXU937oCBNYupm6BF0MTE0cSjTeIIvoh3Z7xYM5aolkAXkzj90zbwDPMjMIzGM9Is1bgZdS-eZX1KmJZdREFgvDCcAVpaIjkMCkzHBK0qDIeov-Fd87Q",
+      "photoAttribution": "Preda-Bergün Schlittelabenteuer",
+      "hours": [
+        "Monday: 9:30 AM – 5:00 PM",
+        "Tuesday: 9:30 AM – 11:00 PM",
+        "Wednesday: 9:30 AM – 11:00 PM",
+        "Thursday: 9:30 AM – 11:00 PM",
+        "Friday: 9:30 AM – 11:00 PM",
+        "Saturday: 9:30 AM – 11:00 PM",
+        "Sunday: 9:30 AM – 11:00 PM"
+      ]
+    },
+    {
+      "name": "Preda Train Station",
+      "coord": [
+        46.5882716,
+        9.7773744
+      ],
+      "desc": "Alpine train station, gateway to Preda-Bergun toboggan run, sled rental hub",
+      "longDesc": "The scenic Preda train station serves as the primary access point and trailhead for the famous Preda-Bergun toboggan run, with convenient sled rental facilities on-site.",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11170645798903410617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 12,
+      "photoRef": "places/ChIJWx4qReychEcRue9YYysbBps/photos/AcnlKN0JVsKdg1lSFdvgbUjYw1Km70_tc4MUQcoDj4MtAj-gq90kixN1zEVW2ykcnGQm6yl_L8-L2NqP5u3sGvzZ6CszDjE3Cpu4tyMDN3kApLVex98-4gyCxyLv_XRWSlIUrsyhG-DNR-qeL9zonqjfXLRa72CaL7tQT_YJ0fMas9O6xilYYPlIbzDYjVmNxLuoMVtJFBGanMIZjWvP-Pc55ZyRiiKSBUwicWP3F2yiBzt-T2n7JvWEPSQo95fTZ1BEwyA0L294faVMgOlyDl8q8ZE2q9Bb1ukNt6pjHaH8krwX2e0urkuQsGlUEm3uZsCR2OyiBbPb_6zh9pe47O1d4CIuCvYvM2_WW7uVU5jCFGwI5YYq67AWUqKeyryitf8nsQA4eZRsbd8l12kHvOn4FtPzlbPQOUa_-wydPyyr79s",
+      "photoAttribution": "Hugo de Haes"
+    },
+    {
+      "name": "Bergun",
+      "coord": [
+        46.6290177,
+        9.7453786
+      ],
+      "desc": "Alpine village, endpoint of famous Preda-Bergun toboggan run",
+      "longDesc": "Charming Alpine village in Graubünden that serves as the scenic endpoint of the thrilling Preda-Bergun toboggan descent, nestled in stunning mountain terrain.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6831960877750634647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.berguen.ch/",
+      "photoRef": "places/ChIJKWrXrDmchEcRl0ixlTgA0F4/photos/AcnlKN3kPlWeWjbrz32dQpV5T6tBFq_RDXitXQHwx5yzcVrI5jZoU4TTLyUrK1abmB3i_ukPO70ZtDGE82hk7iaSW0exRjzlDxI0UdhydR-FIWGhYXKhmAA4D9K81U0bfdnEmKn7NhZ3XDoTDQ3ujIJQrxNBzu7nNSuI5OQZMBcGAOouDpIg3-dRk2WjSPRvJOcE2AOe3xzIH4TCXxhR_wN5vKd-8YZVQXiQOjL_H0MpwWizYygVpFEkRUmsRN1XyedgSIzREwdSSTd316KruM2R_5fpaw5z-9MTK4QZ3zkt2ziIOylshgwDkMyFOeW9ULnXjPeAzd86R7c6ek3_GdzjB50J6L76PLrhge1EoKsbwZ_n4pOqJ0gUYdgZIbncCanXqU_zclpoHjkn8zdg06QPFLX6MO1Lxtr7R2xG3vCAk-4owrh3",
+      "photoAttribution": "Ulla Richards"
+    },
+    {
+      "name": "Fronalpstock",
+      "coord": [
+        46.9682209,
+        8.6372684
+      ],
+      "desc": "Famous Swiss ridge hike, stunning views, scalable difficulty, family-friendly options",
+      "longDesc": "One of Switzerland's most celebrated ridge hikes offering spectacular views at every step with flexible difficulty options, from easy family walks to challenging alpine adventures.",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14482062540813833095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 559,
+      "photoRef": "places/ChIJXyw1MvVPhUcRhxMz0Caf-sg/photos/AcnlKN19pEsmLDybHBrXXGRwpDqVV6fCbwbjqxIoslCrKVDeCTUGzSbfvCgr9Jo_gMAsLdiZU8WimVrpbnNiPFId0x2K6ukeVh86SGv-fWjXItIeN9HoR0mvCr9aGdc3AJmu-1Rszpo70kueHEGydKWyzi1oi-yqTdXH6u4bNK6-AIUxA__gdnx3YcHcl7ib9sXYoY0Qna7ZJmldp-Ruux-S66MlvmfAV-WMGpkP7qsPI8hCbzQFZc04ie8XEB8wNDyCPM9rTKdjjB0tEaPNQ42AUZbdpfCyImF69M9Dq_pWJHl7pOy35XlXT4Rxl2aS-49U0BOeqZDXQAcGV7Tq1IOMoNZUkENu7SpSUnHCGc4svJodJEJbdahzrea4NLNqTbcTNjgq_Z1n2C7tRgY-uywlb41XOXvVuxjXWSPLgb62Tppvkg",
+      "photoAttribution": "Huan Ying"
+    },
+    {
+      "name": "Stoos Funicular Railway",
+      "coord": [
+        46.9913555,
+        8.673339499999999
+      ],
+      "desc": "World's steepest funicular railway, unique alpine adventure, gateway to Fronalpstock hike",
+      "longDesc": "The world's steepest funicular railroad provides a thrilling ascent from Schwyz to Stoos, offering an adventure in itself while providing access to the renowned Fronalpstock ridge hiking trail.",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10226675197334239630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 1396,
+      "website": "https://stoos.ch/",
+      "photoRef": "places/ChIJld6O8Z9PhUcRjrlnouhy7I0/photos/AcnlKN1mCDDmZS13E5hGTVemc9D_9uyO2wuMP9vc76yNLzbU02CMfbQXltyZp0N6ZjFK5UMfyeareTLe8uC6qbKSkYsEEja04Gngg5QncY94iImD9Zjj1HoxkAO1D_aCirRG6_ii-1Jh_O-UG0kJe1hr2yNdJt-s68PPkRUnysxIVe9Ct8UYxqpcYIvl7unhlBADWBs31n6tTDAS4qeGMvzDa3RwIgkngH0B0L3Hdt6oRRMNrGLc6_WkmuVTvJPSFTYJX8vyQj6bsCPFgMz3JmlQlgcS12M2Z8k4IgvaCuz_CypenA",
+      "photoAttribution": "Standseilbahn Schwyz-Stoos Talstation",
+      "hours": [
+        "Monday: 7:10 AM – 9:40 PM",
+        "Tuesday: 7:10 AM – 9:40 PM",
+        "Wednesday: 7:10 AM – 9:40 PM",
+        "Thursday: 7:10 AM – 9:40 PM",
+        "Friday: 7:10 AM – 11:40 PM",
+        "Saturday: 7:10 AM – 11:40 PM",
+        "Sunday: 7:10 AM – 9:40 PM"
+      ]
+    },
+    {
+      "name": "Chlingenstock",
+      "coord": [
+        46.957221999999994,
+        8.674722
+      ],
+      "desc": "Alpine hiking landmark, starting point for Fronalpstock easy variant, scenic ridge hiking",
+      "longDesc": "A key alpine waypoint on the Fronalpstock hiking network, serving as the starting point for the easier 4.5km ridge hike variant offering accessible access to spectacular mountain views.",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5918398898645698645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "ratingCount": 215,
+      "photoRef": "places/ChIJi76R7I5FhUcRVQjX-HBgIlI/photos/AcnlKN2XcAPKXFWKIG8_VNvTy_G4sYSU-F2sWERQZDU8zjnabYa-t6Ya1cbxeiwcqiOMN6ImhI2gY7_KmQ9l1vtBdeLRua8Cpq-oxibPQHSLpzTMvCNFLD6XMTvNx4W0cdWM_a4QG3Ez3RrHbBjLhTr-qVKZxSNPsFJBt4mR0AoJEyaGqU5U-0YhM9i-IOudJXzCOSK8EQWzoQzR4t-N6poXix7DYu3WmuOPmWj2GsJv_ZNQuQLsgQcSClcQ9RIVEFpOP0JzP7XbYF8Br4n9o6qhqkZ9vx3-loxqCwzXPQdXuL-qNA0j7sZ-4-sdZseu-cE6ccj6Z6f-0w9ns_CnyucxOHAWYpJ8dWBP5Zdayg8LGC8pE9CAwPOkKX5FGgNal2chL83QVJOtIPpEZDfe4SmqDULgMN3VBqk0AnU8h5MxU0SbCQ",
+      "photoAttribution": "Dimirar Radichev"
+    },
+    {
+      "name": "Interlaken",
+      "coord": [
+        46.686348100000004,
+        7.8632048999999995
+      ],
+      "desc": "Alpine village nestled between lakes, autumn foliage, mountain vistas, outdoor gateway",
+      "longDesc": "Interlaken is a renowned alpine destination in the Swiss Bernese Oberland, offering stunning autumn scenery with crisp air, clear mountain views, and vibrant fall foliage that attracts travelers seeking natural beauty and outdoor experiences.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11245799368185527808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.interlaken-gemeinde.ch/",
+      "photoRef": "places/ChIJBRqSMWqZUxQRAL4CTPEaEZw/photos/AcnlKN0g9IbE70n3K3atX_kojOvEL7S0GJyz4dPqcuVUST8w-iT6leBDTYHDMKaH8OPavyIHMkMKEdaFKOZ_jeZUVbbrEFw5PiwOCD9VwknRlY94eJaMbmQrfNhrzjfw0__xYjuTUhF4BuTnoFRYu8fyw3M2ZxCrwf6IJVcPQIEbmhf2A0CDB78upEY7uIFmaZ4E3vQWIWH4gT9a4fMNmpMRcK8OTlc5E9GaNVJrEVZ7lqwWaJK45MidtiFRc7b5CGEW8PZQG4VZf0TfF-UkSMrVc3w3wqLQhrfS3Usd5KLOvjkEx4K9mzr0En_OIclXvb9OwKpY-VczfC_OOTacGOS4xEJYz1ohrV_3fD9mi7mR9-wbcYwtn8R3Bg4ADK2SybLTtKGWY_8EBtxe6jN5jjnK9pz4ZUhO_ljOCTJfqfunr3cVtPM",
+      "photoAttribution": "Murthy D.T"
+    },
+    {
+      "name": "Bernese Oberland",
+      "coord": [
+        46.6335708,
+        7.850828699999998
+      ],
+      "desc": "UNESCO region, alpine peaks, scenic valleys, hiking and outdoor adventure destination",
+      "longDesc": "The Bernese Oberland is a spectacular mountainous region in central Switzerland known for its dramatic alpine peaks, pristine valleys, and world-class outdoor recreation opportunities throughout the seasons.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14845524910984289229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJwdzuHS8Bj0cRzVtuZ0DmBc4/photos/AcnlKN2pNQ9EZVxjP__nqnNn8hPHJuMrmN2ha9h1iVUvpT3v034wfZzvv-4MEWd5fnO5DbY_NMCIx1-zfXz7y5h-jZO63nwAphhiqDuZCeRiErlqcc0rVTyBvkGgi49PfSviElNfdUAVoxQRdluA7UCiP6qI8XlomG8Yo3Fjg1G-j2yWN937dvnCR8qt-S_5JsBPMlHXkRG_5IHcLKDubsQojHGrZuaMdYhbON5AHnUreIgqnwo2AL3nT7Cj0_NUJpSTAEl5G8WkowjwFnLidP1PlUQUbCYE2Sf0vj4Psxk2pS6lScZ8TsmYnN_60yV91WRZKhgL0WWTIlsCkgJ3tgoBCkkuBYBMAMnw57i4-gkE2xwSxu1Gf1L1CxSWX5KnZcs1Qy1l37GGY1jVeIEnTRA2sKVQldwRfsI7oS25vm9lwPsj-Q",
+      "photoAttribution": "Martins Barkovskis"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Bort Alpine Playground",
+      "coord": [
+        46.6462491,
+        8.051712799999999
+      ],
+      "desc": "Mountain playground with alpine views, family-friendly equipment, accessible by hiking or cable car",
+      "longDesc": "A scenic alpine playground nestled in Grindelwald offering children interactive outdoor play equipment with stunning mountain backdrops and fresh alpine air.",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3205029984771679579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 60,
+      "photoRef": "places/ChIJS0zhAdubj0cRW6XKSMqNeiw/photos/AcnlKN1MDP1cSGhjXe6Uq1K1bKZqpntEsN4s4qKIvY0j83q0YHgrx1V-MxxXRnKimbiShT8L8VESvza6054y0Yd1OGnltDnsr35igbhQgCPust8p54tDeDfPlL45VeDn6DUxq6hsIyk1hgIp67GnwwVsakyhHxS41lmvKS49HDvTa7p2mO26FfQEkRESUTSZjN9W02Lz7CBpbyPzwY4t64nR7DnWh3p8rg-JZESLekGpcnCP0OL02FtnFpW3Yy-srusUwLDtOcBTCFlobSDOwxZBQA5WiA7KemAXb8ww9Y9M0fJ41oBL_algf63BVSIQzGeBuCfiRITnMgdjQqcLaY5Sv8QJ5XU2dAY4YpWijA_PnVA_Y9UjODm52AyYed8ofiDTrSQwvwa9x1e-BQ9uhZdZSG3p8Y9O1fJ1Sn17RDYkfNyQ_uDdv2feCcmvetmem-5Q",
+      "photoAttribution": "Diego Torriani",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Alpine Herdsman's Playground",
+      "coord": [
+        46.610919599999995,
+        7.942194899999999
+      ],
+      "desc": "Traditional alpine-themed playground with herdsman heritage, mountain activities, family adventure destination",
+      "longDesc": "An authentic alpine playground celebrating traditional Swiss herdsman culture with interactive equipment and spectacular mountain panoramas in the heart of the Swiss Alps.",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18298903116397692007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 5,
+      "ratingCount": 29,
+      "website": "https://www.maennlichen.ch/de/sommer/erleben/sennenspielplatz.html",
+      "photoRef": "places/ChIJ1QlkauKfj0cRZ0QswG7D8v0/photos/AcnlKN3FGhFgGNMUCGO7_bno8H9kGf3aiFHWp82Ck686cXz_Ke_LzNjRxn8Lpqd0dprz3i4C2-2UP4gZVKkVMOVp-tbSND-v71ItrFkPKmSw9B0GIGDfaoraNmY_EhPvvLvSeXD7UMcaAR-uxERCAj4LjyuCY4KB_aSU_hpAdmUupbNCM7PTf5OQxXw0GEYdhI26nfsBxaD6w4vlzEgU591wXYGbr-bZcNND4fsl5TnXH1LZobiFD5Y18Q8mPnoIJqh5RG3t-v93SoydYZk196z6CTpRgbdtO4pbGl_Nu4jxu1alH80RHUnr2xq43ktGTd3oPuSsuP-666GPQ4QN9cLcDdiYQ6aKvANADu1akVn-DfGeyFWXoTUd_upOU6G3lPDVaQ5gsa5j6hUnXBM4-d0bgmj4kb_I3BV8TnFrX-MtYQyS0Q",
+      "photoAttribution": "George Kontogouris",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Flower Park",
+      "coord": [
+        46.5636272,
+        7.8888873
+      ],
+      "desc": "Alpine flower garden and family park, botanical displays, scenic mountain setting, kid-friendly attractions",
+      "longDesc": "A delightful flower park in car-free Mürren featuring seasonal alpine blooms, family-friendly activities, and panoramic views of the Bernese Oberland peaks.",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10043975893506807504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 84,
+      "photoRef": "places/ChIJAX-cSGWgj0cR0FYPIdxeY4s/photos/AcnlKN0xYkNQY7N7KBLoiahxPKKOQmuyjiv4v9EAm_VoDc67RYGHAsfZucoQ2QTfhrwsbFmG7Q4KpalKrXhsrfoh20yBZBJQUU_v0UDOnv9SCdgeKjH_VOg8ehP1sOb1PlOHRXgH3e9KiqIuU6gFEGUL_P-9btBXDVpZDSab6aqcCNxztDRy63Jz0XMF7SDA-V1xobvvurJhwg6SGbn5UuUxUTXETj4AuMqNOXJtGZWl6wjs8M9yPDTVapbjIOoG0hYNFVSPqxcvGboyALaVeWz5W9oF0JvaetjHVFXJBmZrnkO0BSMPIkNldwHtEduUFFatMcx6yiplCEcY4pJo52OlsxAIZH_bsVgyTHI_6XUoqTzWS25mE-XUYqdEQzA-T6Hg0kiWwLX_dCPTF04KQw9WVpCPoxlJZtYhVo-L6EOqq-xtI-w",
+      "photoAttribution": "Tom V.",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Staubbach Falls Playground",
+      "coord": [
+        46.5896276,
+        7.905226399999999
+      ],
+      "desc": "Family playground near famous waterfall, scenic alpine setting, children's activities with natural backdrop",
+      "longDesc": "A charming family playground situated near the iconic Staubbach Falls, offering children outdoor play equipment surrounded by one of Switzerland's most spectacular natural waterfall displays.",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3736036307951616692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 4016,
+      "website": "https://www.jungfrau.ch/de-ch/lauterbrunnen/staubbachfall/",
+      "photoRef": "places/ChIJU-KeMrWhj0cRtAJrSzoR2TM/photos/AcnlKN1YXSE4_Na3qLzJIGtPvt6sgNDwrJGXLJjJj6ilxgA06bHoNYh1ptyuvyCA8fTL02U5evtwJpJBdM2fUdL15bMxe73o66ZABnOYbfsFbq9ZLXIdvNdKfHCMHFOyf4Bkjr4QxQ_pHU6eTjUAqsHkiBWk_vvYzKAz9nYOGmtq7z6uweUD5LsDtK9NJkr76EXLbKPKIulEVolsqIJTT2KSt5nVKkEfYpt1ITZq48PsM1nf3uppl9IYnxKXqATILHddcuGP-sinT1bn7UXEZkCN95NcFHUuqLiSMbyVWPT8z6uSinRZ6s3xdv-RC7gzou2UeauaqN6JfEpyZewXmoN3tH3vM7LKXNI5Bw70t4fDMT_WOdSP-B1fZ56TtB3z35MhA8E9xfVqeKf7Qd4WYNUQLOoe0on3RpNMQCToUlzUaCd7CA",
+      "photoAttribution": "동균",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  ],
+  "markets": [],
+  "cityCenters": {
+    "Grindelwald": [
+      46.6462,
+      8.0517,
+      0.03
+    ],
+    "Männlichen": [
+      46.6109,
+      7.9422,
+      0.03
+    ],
+    "Mürren": [
+      46.5636,
+      7.8889,
+      0.03
+    ],
+    "Lauterbrunnen": [
+      46.5916,
+      7.9072,
+      0.022
+    ],
+    "Neuchâtel": [
+      47.0046,
+      6.9647,
+      0.03
+    ],
+    "Geneva": [
+      46.237,
+      6.1091,
+      0.03
+    ],
+    "Lucerne": [
+      47.0502,
+      8.3077,
+      0.03
+    ],
+    "Rougemont": [
+      46.4922,
+      7.2585,
+      0.03
+    ],
+    "St. Moritz": [
+      46.5418,
+      9.4233,
+      0.644
+    ],
+    "Zermatt": [
+      46.0209,
+      7.7481,
+      0.021
+    ],
+    "Gstaad": [
+      46.4731,
+      7.2894,
+      0.03
+    ],
+    "Adelboden": [
+      46.4888,
+      7.5537,
+      0.03
+    ],
+    "Buochs": [
+      46.8643,
+      8.2291,
+      0.211
+    ],
+    "Preda": [
+      46.5883,
+      9.7774,
+      0.02
+    ],
+    "Bergun": [
+      46.629,
+      9.7454,
+      0.03
+    ],
+    "Schwyz": [
+      46.9723,
+      8.6618,
+      0.039
+    ],
+    "Interlaken": [
+      46.6863,
+      7.8632,
+      0.03
+    ],
+    "Bernese Oberland": [
+      46.6336,
+      7.8508,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -1,0 +1,237 @@
+{
+  "key": "peru",
+  "name": "Peru",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇵🇪",
+  "defaultCenter": [
+    -13.0421,
+    -73.4145
+  ],
+  "defaultZoom": 6,
+  "hotels": [],
+  "restaurants": [
+    {
+      "name": "Central",
+      "coord": [
+        -12.1526483,
+        -77.02245789999999
+      ],
+      "desc": "World-renowned fine dining, repeatedly named best restaurant globally, innovative tasting menu",
+      "longDesc": "Virgilio Martínez's acclaimed Lima restaurant has earned multiple accolades as one of the world's best, offering innovative cuisine that draws inspiration from Peru's diverse ingredients and culinary traditions.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Photography Worthy",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6871806548421292316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 3422,
+      "priceLevel": "VERY_EXPENSIVE",
+      "website": "http://www.centralrestaurante.com.pe/",
+      "photoRef": "places/ChIJ01sth-G3BZERHLHau6WPXV8/photos/AcnlKN0auoi1Qv3TOcoL-oov7o4yZhgxTMNT2oJuOHCvHmQIsKyaonrOFA43gV-Jzafjn6jO3WNGAFaMSU_Ymzl6djbGQaIL-gslhZ1UC1SuQ44gElgjSXDzy-xoZBGN79YmcOhKKpTG8fYl8ubw12eIYBQ_lDZCfl_QJskhqv_8LoOdK1n-np063b3vDTgvvQRFjBiuNQ4j3y-BA5YPCvEEsrWYirelePkjRfWLKdgxYG5WdrPJxo59a_g3fJ5f2evN_YHcPFi78cDBi4f6rchrxAXcbTFp7WlNKjeEwAVrY2wK1Q",
+      "photoAttribution": "Central Restaurante",
+      "hours": [
+        "Monday: 12:45 – 1:45 PM, 7:00 – 8:30 PM",
+        "Tuesday: 12:45 – 1:45 PM, 7:00 – 8:30 PM",
+        "Wednesday: 12:45 – 1:45 PM, 7:00 – 8:30 PM",
+        "Thursday: 12:45 – 1:45 PM, 7:00 – 8:30 PM",
+        "Friday: 12:45 – 1:45 PM, 7:00 – 8:30 PM",
+        "Saturday: 12:45 – 1:45 PM, 7:00 – 8:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Mil Centro",
+      "coord": [
+        -13.332746799999999,
+        -72.1967971
+      ],
+      "desc": "Fine dining in Cusco, chef Luis Valderrama, modern Peruvian cuisine",
+      "longDesc": "A high-end restaurant in Cusco helmed by chef Luis Valderrama, part of Virgilio Martínez's culinary empire, offering contemporary interpretations of Peruvian gastronomy.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16916027771244651570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.5,
+      "ratingCount": 200,
+      "website": "http://milcentro.pe/",
+      "photoRef": "places/ChIJ44w-0C3DbZERMiSuC6LNweo/photos/AcnlKN3ZBYko4yfR_Dz3z_UVxeX1hFU-I1EBboQO32FWaTJI1axAE5QmcfVzR_4W5pnzBU7u-maV8mpkKuWIP5Dj9gX5RYobLIG9CAV1PRCs6qIQSAFwXit-3E3vWNV7o2xTuwdxrjzr8Ei2cYN7Fz7d12DdtamrAeUqlZ7-aEsBZatbzcBPuQbm1t498b7_qLhmTzwlXyTPRApF_TcwxJ4Dvp3_BwZFq-jzCixRRSOUay0I1TiAAC-DmUpWPJFBwoSdW2ELXNS_8ycDKpOUN3QPFSnQv03v2n2w1SH3N7cWdnUECQ",
+      "photoAttribution": "MIL - Food Lab and Interpretation Center",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 2:30 PM",
+        "Wednesday: 12:00 – 2:30 PM",
+        "Thursday: 12:00 – 2:30 PM",
+        "Friday: 12:00 – 2:30 PM",
+        "Saturday: 12:00 – 2:30 PM",
+        "Sunday: 12:00 – 2:30 PM"
+      ]
+    },
+    {
+      "name": "Kjolle",
+      "coord": [
+        -12.152689899999999,
+        -77.0224626
+      ],
+      "desc": "Chef Pia León's restaurant, innovative Peruvian cuisine, Lima dining",
+      "longDesc": "Chef Pia León's restaurant showcases innovative Peruvian cuisine, representing the creative culinary vision of Virgilio Martínez's wife and collaborator in Lima's fine dining scene.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16501602222721309970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 1163,
+      "priceLevel": "VERY_EXPENSIVE",
+      "website": "http://www.kjolle.com/",
+      "photoRef": "places/ChIJr1L1USC3BZEREp0Z1sp3AeU/photos/AcnlKN2FryUlYEZz06KTWgOsnLOS_S9ru3h6aBtBVukWIG9JsaYPs2Eq0EbqPgmhhBuYipqXk816JfVb3DH8PaoQQ8ol_9riHzR-jT4iOUrqYJQiLWe05HOfSQ4Vo4-MN86X3lVBsHfYJFOVoTRIDXrq9i_YGEz1d08kG1jF_hc7ujGrTVqZ0Dg0YZ_zNlP2m1_nD9AsABPMJKFHnCITxMK7mtV4VimueqQKpdHxj_PwPbeNaPQ4t0AFYDyVDB60FDMcoIKRkPdVlb5l0352G5dAkyE_kTv8d8mLyD0TcETQ3V7qYg",
+      "photoAttribution": "Kjolle",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:45 – 2:30 PM, 7:00 – 8:30 PM",
+        "Wednesday: 12:45 – 2:30 PM, 7:00 – 8:30 PM",
+        "Thursday: 12:45 – 2:30 PM, 7:00 – 8:30 PM",
+        "Friday: 12:45 – 2:30 PM, 7:00 – 8:30 PM",
+        "Saturday: 12:45 – 2:30 PM, 7:00 – 8:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Cusco",
+      "coord": [
+        -13.53195,
+        -71.96746259999999
+      ],
+      "desc": "Historic Incan capital, colonial architecture, cultural gateway to Sacred Valley",
+      "longDesc": "The ancient heart of the Incan Empire, Cusco blends pre-Columbian ruins with Spanish colonial architecture, serving as the cultural and historical starting point for journeys to Machu Picchu.",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3074154024163357021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.cusco.biz/departamento-del-cusco",
+      "photoRef": "places/ChIJMYRZJtjVbZERXTEYI8yWqSo/photos/AcnlKN3J5Va7M4lA844Ij34T9x7FlTZQD1226cNciB0qM8KGC05zcGD74x1TG3Tnu-xXYAXW1g4lkcH-myBw_A8LaVJjb1FKImyAh85tryi-FJtLcg2bFmHBndPMOortVgQJEuU2UDc3BUfl8u0z7KSeeHkag2MfoPTckNX4fPo14KgGMHeKSxDvCSPX1cATjqRypEdyg1NRbkzRVEBVunM-SWDjCDkhwX9U0o2siiq6UB9IJX33EoGumV6wIs7xtHzfvzNxXFTMM9mOpX0VzrwoqgSwyRZX4ktNMdoa9fblRFn9b0x1nysTYPthNd9li9hLEw0eLyoXidqI7vqMm3eKyrxEv8oEqkVlO49P0lB8b525rKZEj-QGPkhVJS4ssJkjpvfUe-h-3XmlDtbWIr8cXCzzN_oTihufHNizeO2ExozPAC05",
+      "photoAttribution": "John edwin Gutierrez Fernandez"
+    },
+    {
+      "name": "Sacred Valley",
+      "coord": [
+        -13.332816300000001,
+        -72.0844649
+      ],
+      "desc": "Valley of Incan heritage, terraced villages, mountain scenery, cultural heartland",
+      "longDesc": "A stunning Andean valley dotted with Incan archaeological sites, traditional indigenous villages, and spectacular mountain vistas, offering authentic cultural experiences between Cusco and Machu Picchu.",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1063782736900670681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "ratingCount": 546,
+      "photoRef": "places/ChIJXxd_sGfcbZER2UQoV8NQww4/photos/AcnlKN22e72VSpYgLsa15lPun1y5Zd_b12fhkScMFlFNcWQXtPsjas_8fcfNjjY69WOfBT9UMSszPTqjFEiNJmSt-mmzmiQepEumEcnJhpaILkuoYUdo-IiKNET2fgLPeWfODexWSIwZpv8e32FATa4YKBySbAUaKbnOI7_snUgNui5_YTOjkIVMhMG7GG0f4rRGcLeG2dF9zPQe_dIyOtViIcj_jAmeYHmGnvVtCZbojBJyETWh7m0TWCNbvYSjuUDfYBCyTDwMWfTW-cQGJCXzhepfQO_4PrsxjStKNq6dyJcawqmD6Y-YThJOFdKx0Zxrl86TG_0jDIivP2TN1smPHqWbqgW1oGlVNrjByuoJfNX-H6_DWADXKKxcZSuDAeUQ6jg9p-dzd0w6RkLTeI1aY57d6WigDCHLPGm4y3_dwts",
+      "photoAttribution": "Kevin Xu"
+    },
+    {
+      "name": "Aguas Calientes",
+      "coord": [
+        -13.1547062,
+        -72.5254412
+      ],
+      "desc": "Gateway town to Machu Picchu, mountain setting, thermal springs, train terminus",
+      "longDesc": "A charming mountain town nestled in the Andes that serves as the primary access point for Machu Picchu visits, famous for its thermal hot springs and the terminus of the Hiram Bingham train.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9550350451910988162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.munimachupicchu.gob.pe/",
+      "photoRef": "places/ChIJNf_BuIOabZERglGl1iKpiYQ/photos/AcnlKN0kAt0tu_9K4dKRC82RgEAE7JLdalFl0ml6RnuvlY8mDs_vXDVTa1cY08J8WbN-iAf7qgnd9mMwRweOVCvR8oyUCKJMc5DVXutTmDWlMuoVv_QMrmmPjpAxmVrLxfp-ajfi4C4X4eYKHhY0XY_dFyqbubqp8jLnrI4pqgqzi3iSBRfVfmug7X394yG7NbouScnxx9_hqZYcGr8YK0Ph9XMat2OtVh0Sgk9EWfqoQKe_eX6J1XphkUPxemg_aQ3s8XquXDfhXaYP-vJ6UU7HgxZSVsAG1UxHCLljD68eEVakQVkR9vVyjXlSw9JE6J10gzN9p08Y077MYa0iCzNgXcs7m04pzuAPVWemMUq4qfAEoLpkAJAWdv5hz2eQiH3F2ZhvrDFv_SbsrsOLiIx2c_6kIFWbWdWAkAhHGvdU2zbA5dXI",
+      "photoAttribution": "Walther Andrade"
+    },
+    {
+      "name": "Machu Picchu",
+      "coord": [
+        -13.1547062,
+        -72.5254412
+      ],
+      "desc": "Ancient Incan citadel, mountain sanctuary, UNESCO World Heritage Site, iconic landmark",
+      "longDesc": "One of the world's most magnificent archaeological sites, this 15th-century Incan citadel sits high in the Andes Mountains, offering breathtaking views and profound historical significance.",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9550350451910988162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.munimachupicchu.gob.pe/",
+      "photoRef": "places/ChIJNf_BuIOabZERglGl1iKpiYQ/photos/AcnlKN34_d62UchHtj10OIb5UF0KCFlt4dIDqZYVnivykxBlFT-w7_6RClg7Q5-vro5wpYa0bKXGkIzqW1yj5AuuCB8T3KqXVrowTHXsR0j-_3DRDjQy0j1v_0KoJ8sKhiNhURzM_mQH6h-Vc1ijprUyKiZLRGLOFgYKm5-GAnIuDp6PmpQYs7eyUA90DO-CZNAXKg8sg3viUbiM4FvwVPS9fRRuwyxZQtTu7lcYeW11RhmE2_NwoVwqEyFjKV-ou6TZzi4dMLydXWx3jSIQ7gevG6eHjHoNT6QVsc_SIdJrdYjrqFIwmQuEubPo2s0LMH3PVy4OO200-3ARAeNkR4fcHpNlURX5bLjA58CWdYfQnhh3XiQeDtl9s66rw2y2XhLBEgv_Ac7EZkL33s8pjfk9hI-Hg7oc5KeksM1hZ0oLmslKdTpC",
+      "photoAttribution": "Walther Andrade"
+    },
+    {
+      "name": "Belmond Hiram Bingham",
+      "coord": [
+        -13.524476499999999,
+        -71.9714961
+      ],
+      "desc": "Luxury scenic train, four-hour journey, Peruvian cuisine, observation car, iconic rail experience",
+      "longDesc": "An opulent train journey through the Peruvian highlands connecting Cusco, the Sacred Valley, and Aguas Calientes, featuring gourmet dining, cocktails, and panoramic open-air viewing cars.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Fine Dining",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2126557824667244496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 3.9,
+      "ratingCount": 10,
+      "website": "http://www.perurail.com/",
+      "photoRef": "places/ChIJ8UOc-lzVbZER0FeeFRMNgx0/photos/AcnlKN2sfvt7H6nZQ8pZf9n7TcqvP2Lok4gnrr2r5rzbvJKg6s-bR4Jm7NNnyqjITYlHatrnmJIwJEVH21wZX3YXLb-E-N4X9ac6MsmgeZijYwzJiL5Bz1NDPNZuE9X61pDZ7MVIRRdLqc261w2NbIXfABMlzda_f5WEygq7UiwrH9HUL8k3YYfMkG5fxVAHn8p9RLT_Y_F8dNRWIeRL1YDSPt96cveQRb0H3di-qB58GTjLNr3G21v-bv5aVVAAiasR_207xJb2bBs-HGjgd3_6NlZRPq8ejhyHVTzv_ZiDDTBrbQ",
+      "photoAttribution": "Hiram Bingham, a Belmond Train",
+      "hours": [
+        "Monday: 7:20 AM – 8:50 PM",
+        "Tuesday: 7:20 AM – 8:50 PM",
+        "Wednesday: 7:20 AM – 8:50 PM",
+        "Thursday: 7:20 AM – 8:50 PM",
+        "Friday: 7:20 AM – 8:50 PM",
+        "Saturday: 7:20 AM – 8:50 PM",
+        "Sunday: 7:20 AM – 8:50 PM"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Cusco": [
+      -13.4323,
+      -72.0821,
+      0.135
+    ],
+    "Sacred Valley": [
+      -13.3328,
+      -72.0845,
+      0.03
+    ],
+    "Aguas Calientes": [
+      -13.278,
+      -72.3408,
+      0.297
+    ],
+    "Lima": [
+      -12.1527,
+      -77.0225,
+      0.02
+    ]
+  },
+  "itineraryData": {}
+}

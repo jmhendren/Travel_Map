@@ -1,0 +1,196 @@
+{
+  "key": "ireland",
+  "name": "Ireland",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇮🇪",
+  "defaultCenter": [
+    53.1135,
+    -9.4116
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Glin Castle",
+      "coord": [
+        52.5697784,
+        -9.294635699999999
+      ],
+      "desc": "Historic Irish castle, luxury accommodation, honeymoon destination, County Limerick",
+      "longDesc": "A distinguished Irish castle offering exclusive accommodation and event hosting. Notable for its aristocratic heritage and use as a luxury vacation rental for high-profile guests seeking authentic castle experiences.",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Cultural & Historical"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15021861896389222117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 217,
+      "website": "https://www.glin-castle.com/",
+      "photoRef": "places/ChIJTYVhCuEmW0gR5V5BN85feNA/photos/AcnlKN1lsD2B0Te6Kj5Fu2_qIc1q-jPkS6NM6dQysp9k--_v2DWghsYXTjgXhJ8bjFWKoRe-B5jDhHgihs9eszH8aW1MZW8JRlAyBLCbsBtqowR8k8HdAL614zDUUQaRDBfnN5l_gzvNbGqsyBLkeadCxdueiLd_YHAieDTI0WaCg5ROh0LkEc58bNhAAI69yzjL1fd3vRzj0CBuzeKZ7r1xXLtwhPWDa4FG8QDJqBSBl_nI53FJUmpEnlPGG4CnDDImNuzvILizPJNARkrXVo7mbDCD6tG2XccCYhy1CPaUpC144g",
+      "photoAttribution": "Glin Castle"
+    },
+    {
+      "name": "Ashford Castle",
+      "coord": [
+        53.5345934,
+        -9.2848658
+      ],
+      "desc": "Luxury castle resort, horse riding, grounds activities, Irish heritage",
+      "longDesc": "A stunning 13th-century castle turned luxury hotel in Connemara, famous for equestrian experiences, expansive grounds, and authentic Irish countryside charm.",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Adventure & Active",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13014177471908200630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 4028,
+      "website": "https://www.ashfordcastle.com/?utm_source=google&utm_medium=local&utm_campaign=hotel-ashford-castle",
+      "photoRef": "places/ChIJgVZlMP-PREgRtsD6aHWlm7Q/photos/AcnlKN1hDJfsKjjALXBm1Fkb9LkP6Zez2hTR4YlBTyYwCeTLXaWFSwQqHZf-H220MLAZWjrTAtMEfR7f-YK4E4FkjSLmF1d9LdSR3VNbpY4FQcJv08HgE3GvxqWvKGNGnp8EazHuNuPImYyoHlWySyI4WevSptPeiJtVvmJEP5xzJJUZGkTfQ2baHvE-YTwLxdN92T4NkpNn2L0qXkizBmJ-yMXZEQGk8isSTor3kI2COxt5kQSOipumzz6Q0kvLwsZTXxa_dhGuUOxh2DJ9DUESnsWmbo9ALy-OYUbvASZeLT-StQ",
+      "photoAttribution": "Ashford Castle"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Homestead Cottage",
+      "coord": [
+        52.992714299999996,
+        -9.402998199999999
+      ],
+      "desc": "Michelin-starred cliffside dining, fine cuisine, Irish excellence",
+      "longDesc": "A one-of-a-kind Michelin-starred restaurant perched on a Clare cliff, earning its prestigious star within six months of opening. An intimate culinary destination showcasing Irish excellence.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14463671583304199373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.5,
+      "ratingCount": 202,
+      "website": "http://homesteadcottage.com/",
+      "photoRef": "places/ChIJB0Nyrn4HW0gRzSzCVqxIucg/photos/AcnlKN3LmQ1WMiQo8uwVgmQT1Y4FW0rPkGoROOrrXnIdSr_yIlFbrcqrrVXNS-72CrrTYNmz9405t0MZmk_969g-Lq2FW6k7k48u7-9pj-SmrQaE8H8J4NkGb8Z1trk-YIofIoBvGFEQqkKa_ogZAMBytSn7ntIRAp_ziKCr2aipLh7vAVqonFSixQydQN-25HCv1FE-woK8Q1nSYFWFOnKcaD5ZEogRzwIsKdvDw8dycp92eBIi5KVFquylLI0i67NiKxP4ilZDCxe2ipLsSEyjgiqMUGvB-J1MKdQRIN6gWNmFqw",
+      "photoAttribution": "Homestead Cottage",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 6:30 – 8:30 PM",
+        "Friday: 12:30 – 2:00 PM, 6:30 – 8:30 PM",
+        "Saturday: 12:30 – 2:00 PM, 6:30 – 8:30 PM",
+        "Sunday: 12:30 – 2:00 PM, 6:30 – 8:30 PM"
+      ]
+    },
+    {
+      "name": "Linane's Bar",
+      "coord": [
+        53.1559592,
+        -9.075834799999999
+      ],
+      "desc": "Traditional Irish pub, local favorite, authentic atmosphere",
+      "longDesc": "A cherished local pub recommended by the owners of Homestead Cottage, offering authentic Irish hospitality and traditional pub experience in the heart of Doolin.",
+      "tags": [
+        "Cocktails & Bars",
+        "Local Delicacies",
+        "Casual Eats",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10494175191858656146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 2140,
+      "priceLevel": "MODERATE",
+      "website": "http://www.linnanesbar.com/",
+      "photoRef": "places/ChIJb-BxspmYW0gRkrNzibzMopE/photos/AcnlKN1LhADMtUSZrWl5i8Wuc9osnRPMb4rFin3nO1iOKMP7iXhAqhkOedAaILT--6xhcvXIt6Fkvz4vC-QQggjg4TyAbCEAkAIPiLuZy6FqEOXYkuxgrCmBC_ze9OLnBGzjSzsxeCbiRXbdk-8PsvlT-JP70_VsJw5MzKxtxaZwLDgXwOP2X23EEKYFnhvTytPdWBzIugQmy1kGamyXbJ8EuETFN_dmX1i-J9LZMufQFPDTbEKCSUFnnBH-UZ2xLLYLLJ30ofgM7-yDOZMEcei_j2JrZVtwn6FQBakougjDLI8C_Q",
+      "photoAttribution": "Linnane's Lobster Bar",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:30 – 11:30 PM",
+        "Friday: 12:30 – 11:30 PM",
+        "Saturday: 12:30 – 11:30 PM",
+        "Sunday: 12:30 – 11:30 PM"
+      ]
+    },
+    {
+      "name": "Vaughan's Anchor",
+      "coord": [
+        52.9385814,
+        -9.390816899999999
+      ],
+      "desc": "Authentic Irish pub, local dining, traditional fare",
+      "longDesc": "A recommended local dining spot in Doolin, chosen by Homestead Cottage's owners for its authentic Irish pub experience and traditional cuisine.",
+      "tags": [
+        "Cocktails & Bars",
+        "Local Delicacies",
+        "Casual Eats",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8013964487865987302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.5,
+      "ratingCount": 1234,
+      "priceLevel": "MODERATE",
+      "website": "http://www.vaughans.ie/",
+      "photoRef": "places/ChIJTXcWgF4BW0gR5vDY7T1SN28/photos/AcnlKN2kuF8NZhAjVxNQL2ffTbCNM9RG0xT_BnYoVJyZ64Xx_ILnD0FD6o9fhOCIxWX0F9aJ1UPHxPBIKx-kL1v9hmjEWVtL70hTgFsHzkch51y9T98Y-NLD6t9vGJa7I2GZzofB8ANgp__1WoZw6A1FGglfXEmMaoaI3gGm1uOdQTCJCEH1bNBqBkj7gSjalYehz4Gank-HmLO-tTRpx3LWmmxvIzof5Tk4iCUI8B_SOhVA7QpXjmfzxzQD4etlW124cY7Do9bdhVktlmusUn6Lpe-5rOShjHu2upmmg0QcwBGdC1fKANM7EOWGwxxQRQP5j7i_uyOhYAlO7ySwBqDmJiFsC7lpGnoC3sAgGEDy7SbhVkKwAVn1F7N8o-2WHL8k_hSg19Ds4k5PvSEAzWgGHeri0XwrUufP00DeVc5VWHI",
+      "photoAttribution": "Igor Gulii",
+      "hours": [
+        "Monday: 12:30 – 8:30 PM",
+        "Tuesday: 12:30 – 8:30 PM",
+        "Wednesday: 12:30 – 8:30 PM",
+        "Thursday: 12:30 – 8:30 PM",
+        "Friday: 12:30 – 8:30 PM",
+        "Saturday: 12:30 – 8:30 PM",
+        "Sunday: 12:30 – 8:30 PM"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Connemara",
+      "coord": [
+        53.4891088,
+        -10.020311600000001
+      ],
+      "desc": "Scenic Irish countryside, mountain landscapes, horse riding trails, coastal views",
+      "longDesc": "A picturesque region in western Ireland renowned for rugged mountains, pristine lakes, traditional villages, and world-class equestrian trails through dramatic natural landscapes.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6531942507307843435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "photoRef": "places/ChIJwaMokQM1WkgRa79bSRofplo/photos/AcnlKN2B8DiesZgtB_Y5JZ55bteuqofL_UStUL4tKJr2ZEOR83MGvpN6l6FvZEoEYwrUx5ZLqKtd0XMW_e-S7QkQZEo8icDd2uoYS84eFF4xW7G1ykAooNjRXZ8PvBCYorx3ku8iR8-DJ9Aitq7aCeiqz6cfwy5yoM9X2WUQgSBrDhhKfQ835esY1uRxKYn1jrqv1-5JRhIOHG7jNvc-pkS4UkjlhjsJgofa3pfHt0iuKCrT3IzJRYDDGC26fV9EOYFzp_ZYNFVrn6lNwN78hrKzdRadsvLSiUZDaSFNDujZN_0-W0FpU1dJwymttVqemBpYTS3eGUCQrTsvySEQbtKI__YwOc4cZ-rfCxLSV-pjsGsG_cYkMlDuEnQS94YlpqAE-YeoniHsQljZB0dnyJFbr5JRAHPz3a3ZRWkLVzp_VVtYPQ",
+      "photoAttribution": "Shane O'Malley"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Glin": [
+      52.5698,
+      -9.2946,
+      0.03
+    ],
+    "Doolin": [
+      53.0291,
+      -9.2899,
+      0.184
+    ],
+    "Cong": [
+      53.5346,
+      -9.2849,
+      0.03
+    ],
+    "Connemara": [
+      53.4891,
+      -10.0203,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

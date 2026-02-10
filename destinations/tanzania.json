@@ -1,0 +1,46 @@
+{
+  "key": "tanzania",
+  "name": "Tanzania",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇹🇿",
+  "defaultCenter": [
+    -2.0865,
+    34.4931
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Singita Sasakwa",
+      "coord": [
+        -2.0865226999999997,
+        34.4930855
+      ],
+      "desc": "Ultra-luxury safari lodge, Serengeti, infinity pool, African wilderness elegance",
+      "longDesc": "An exceptionally exclusive safari lodge in the Serengeti offering luxury accommodations with a stunning pool overlooking one of Africa's most iconic landscapes.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10310516219419411806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 151,
+      "website": "http://singita.com/lodge/singita-sasakwa-lodge?utm_source=gmb&utm_medium=organic&utm_campaign=singita-sasakwa-lodge-gmb",
+      "photoRef": "places/ChIJDdVR2qVUzRkRXsVlxd9PFo8/photos/AcnlKN1ZeWYwAfyLwIi3vlOq5R-bbdP3FxwAQToYT_smJFcCYKWEDCb45cneJKJo8Hu6xwadh-UzJSHTDpf9b_XRnVkIWip1_PkP4okDSwVIr_Q9gu3x3m5IZktyUS8XPl0XRJN2vR2RV-UinGQT8YdfG4zED8H4vWOGL1fHGnJ3xjf3dRm1Vhfx4B4cXSUjjBpnuF7C1xIgKqwOvg_xjGosje_EMK8gAXsxRq4jmOMq0U1EpftPPWuQOgvlNe2AejpM-BuzZnnDQfYYIIf1G0TkWyso1Yhk7ALaE9JYqUgDEKoZ7w",
+      "photoAttribution": "Singita Sasakwa"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Serengeti": [
+      -2.0865,
+      34.4931,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

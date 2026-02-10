@@ -1,0 +1,41 @@
+{
+  "key": "ecuador",
+  "name": "Ecuador",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇪🇨",
+  "defaultCenter": [
+    -0.209,
+    -78.4539
+  ],
+  "defaultZoom": 7,
+  "hotels": [],
+  "restaurants": [
+    {
+      "name": "Sacha",
+      "coord": [
+        -0.2090485,
+        -78.453924
+      ],
+      "desc": "Award-winning fine dining by Chef Sacha Hormaechea, innovative cuisine, world-class recognition",
+      "longDesc": "A globally acclaimed restaurant led by Chef Sacha Hormaechea, renowned for innovative techniques and exceptional culinary artistry that has earned international recognition and devoted following.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Photography Worthy",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16943989168917672376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    }
+  ],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Quito": [
+      -0.209,
+      -78.4539,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

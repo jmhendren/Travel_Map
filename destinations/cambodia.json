@@ -1,0 +1,45 @@
+{
+  "key": "cambodia",
+  "name": "Cambodia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇰🇭",
+  "defaultCenter": [
+    11.5761,
+    104.9184
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Raffles Phnom Penh",
+      "coord": [
+        11.5760788,
+        104.91841199999999
+      ],
+      "desc": "Luxury Cambodian hotel, riverside location, distinctive pool, colonial elegance, iconic",
+      "longDesc": "An iconic luxury hotel in Phnom Penh offering exceptional service, riverside setting, and a memorable pool experience in Cambodia's vibrant capital.",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3951589830072630970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "ratingCount": 2198,
+      "website": "https://www.raffles.com/phnom-penh/?goto=fiche_hotel&code_hotel=A5E0&merchantid=seo-maps-KH-A5E0&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTIzNjE0NDAtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+      "photoRef": "places/ChIJK8tA1kJRCTERun6GlwPe1jY/photos/AcnlKN0f4NKsEXgzCUSOCiC51Yf2vkTm1QIn360gUVE0l-DE5NyxYK4k_eIuiINXysfeAxYP_NOVn326oi1nvSMEF2Dr9ON21StaJQidgVZnOAsW3ee5WuWvGOOLiS4qEGHK7JpRNpgVwn719t4BHMFMonTe2jV1oKuy-WBJnV8rxyr2KuKddfpS9xokqwPQUhRKVewUBObD-rQJh0HZZKvkwAcpE3p7dIJKYF_9yugh0y89NluYEiLI8B_n4OJvMErPWVWjbBuw5cj5tVBnjmBw9uWr05YlFeohPPI_hxFbhIqMhA",
+      "photoAttribution": "Raffles Hotel Le Royal"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Phnom Penh": [
+      11.5761,
+      104.9184,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

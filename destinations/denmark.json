@@ -1,0 +1,56 @@
+{
+  "key": "denmark",
+  "name": "Denmark",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇩🇰",
+  "defaultCenter": [
+    55.6893,
+    12.6109
+  ],
+  "defaultZoom": 7,
+  "hotels": [],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "La Banchina",
+      "coord": [
+        55.6893015,
+        12.6109311
+      ],
+      "desc": "Waterfront venue, summer dining, magical atmosphere, Copenhagen harbor",
+      "longDesc": "A vibrant Copenhagen waterfront destination offering summer dining and entertainment with a magical, enchanting atmosphere perfect for unforgettable experiences.",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Good for Dinner",
+        "Nightlife"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5405695602507565630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "ratingCount": 1619,
+      "priceLevel": "MODERATE",
+      "website": "http://www.labanchina.dk/",
+      "photoRef": "places/ChIJe2R04ddSUkYRPspah4LjBEs/photos/AcnlKN3qmyxEmiZlKpucg7HMLHsQsVGUaip2WGogVi-iNQTbkeOb45L8IwuWksNAlUoJA1EcPWRaMOOQPl61md6UFB8QXw-mXOXLrBEZ83XFfbsNCFeQ5BDOLefluAHwYzyD3JVYyai2v9negpBisXrJ3-MTseGRTan6yn3NliM3VDGJJqiSytID2T7aK8QoF87QYUpvMTq89ERPfnl1lTVg0_qlBbuWaXLFXzo-JDY9TDZegPq94pxDo_OTCvVHrqqCCWYVNg2q_Q9e3xJhDIURhJo7IscbZsWUbho55grTw2DsBRf_AQ6iK2kHpvmnGHnB-s7TB1ypo0BnQkJev63gjM9LAMCBXBjT-_0UdZEY-Mac0KvHK1M5atBAq5-6SJJoH64TWevHtApcVfxBMF8MOfUyDKwoh77_IfWEfYq3OH0SKS9s",
+      "photoAttribution": "Choko Lars",
+      "hours": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: 8:00 AM – 4:30 PM",
+        "Sunday: 8:00 AM – 4:30 PM"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Copenhagen": [
+      55.6893,
+      12.6109,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}
