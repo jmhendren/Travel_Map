@@ -315,6 +315,263 @@
         "Saturday: 5:30 – 11:00 PM",
         "Sunday: Closed"
       ]
+    },
+    {
+      "name": "Buffet van Odette",
+      "desc": "Sunny lunch spot, feel-good casual dining, neighborhood favorite",
+      "longDesc": "A beloved casual restaurant perfect for sunny lunches that feel restorative and joyful. Known for fresh, comforting food in a welcoming neighborhood setting.",
+      "coord": [
+        52.3623386,
+        4.8890787
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=784772762569546014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJKSEjycMJxkcRHhlcbqsS5Ao",
+      "address": "Prinsengracht 598, 1017 KS Amsterdam, Netherlands",
+      "rating": 4.2,
+      "ratingCount": 1028,
+      "website": "http://www.buffetvanodette.nl/",
+      "photoRef": "places/ChIJKSEjycMJxkcRHhlcbqsS5Ao/photos/AcnlKN0453jHdEMvovXbp6Co-28yZMsBIQxDRDBwCamRnqVoUZMGd_SeUzkvth5DkatWn6n61sQsLghW1qpOHa1JCZCkGvTjCxromhkeK_aKIdLhoqzBC-GeZWH2zxmv94Rx5eH6jQKnu0wdGpf54H-8kKYxqOru5flql80MbXgZJcdPogiqMAz33ltuHJwLwZ8NvDQllkzwq3AEHTltB9a9sBTitOCl6CxvfQCOFClYuXOSi0UHC7y7uZGUZ78xjnba8ZG0SVyjACCINsKYzeTtIZxs3reDuoIzBsY91sb2yLk",
+      "photoAttribution": "BUFFET van Odette",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ],
+      "hours": [
+        "Monday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+        "Tuesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+        "Thursday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+        "Friday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "phone": "020 423 6034"
+    },
+    {
+      "name": "Cafe de Linden",
+      "desc": "Breakfast, drinks, and snacks, perfect for any occasion, versatile spot",
+      "longDesc": "A versatile neighborhood cafe serving excellent breakfast, refreshing drinks, and shareable snacks suitable for any time of day or mood.",
+      "coord": [
+        52.380255299999995,
+        4.8857725
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5163170336692811821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJkUG37IEJxkcRLbhoyRBEp0c",
+      "address": "Lindengracht 65, 1015 KD Amsterdam, Netherlands",
+      "rating": 4.4,
+      "ratingCount": 125,
+      "website": "http://www.cafedelinden.nl/",
+      "photoRef": "places/ChIJkUG37IEJxkcRLbhoyRBEp0c/photos/AcnlKN2GW1G8_1thwOKGpErKJqEXzUakoGWTcPcBAf8877kLq5m0U1bRZI3KFY2Ux6hmsgpk4FRtJGudSzl3QWRAM1SRBstH12PGAx26ZGoYVkhjHPcWc7aDyOXw8cSdoxr0FrhU2c1uBRim25sLAHCuP6Bd2Kthr81yAmcLSIEi6GgaC1xhSHisF9dop1iAFbV8xp-vgtwF3c-DZGf1kT_wyaHSazmHfyHCva8faNikyWiS1C0pisD-FNoklXbxNJpbEamfbs4_dAydFMyOapEV2Tz2kD1WV74EWwvHV-h6O424Dw",
+      "photoAttribution": "Café De Linden",
+      "tags": [
+        "Coffee",
+        "Good for Lunch",
+        "Casual Eats",
+        "Rainy Day"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 12:00 AM",
+        "Tuesday: 9:00 AM – 12:00 AM",
+        "Wednesday: 9:00 AM – 12:00 AM",
+        "Thursday: 9:00 AM – 1:00 AM",
+        "Friday: 9:00 AM – 2:00 AM",
+        "Saturday: 9:00 AM – 2:00 AM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ]
+    },
+    {
+      "name": "Saint Jean Bakery",
+      "desc": "Artisan bakery, fresh pastries, quality baked goods, neighborhood gem",
+      "longDesc": "A charming neighborhood bakery specializing in fresh, quality baked goods and pastries perfect for starting your day or a sweet afternoon break.",
+      "coord": [
+        52.3803056,
+        4.884282400000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1072463508424207136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJN7y6C78JxkcRIKsx9uAn4g4",
+      "address": "Lindengracht 158h, 1015 KK Amsterdam, Netherlands",
+      "rating": 4.4,
+      "ratingCount": 2792,
+      "website": "http://www.saintjean.nl/",
+      "photoRef": "places/ChIJN7y6C78JxkcRIKsx9uAn4g4/photos/AcnlKN1ZKeVIelziHKKh4UISweAvIw8kpN8yyNgOyfseHmwoDYO6P0etO6nomrpLErMtsXMhPFKEYQCv3Y8S-nAw9CCrHOgnpBDJzYxtBPyWFDwCeQd3-USIpcuhbven9cAUqL8lSOZZxfAEU1GYTdXGgYWscCgyrs5eWjTtIpdC9VZ7MGL--BGtqI6IWGMv1lS7wHeHcbFfUToM40JE95UVvIFaFvPT39FdZLjOZg3lz2guPhKEJYW12bE6MlEAQvWyF8t4YKXLq-nn2yshR7HsdSvlaxeGe9B4IWln6Pnqv9xVWw",
+      "photoAttribution": "SAINT-JEAN Bakery",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Budget Friendly",
+        "Good for Lunch"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    {
+      "name": "Kitchen at Carmen",
+      "desc": "Stunning breakfast spot, beautiful ambiance, delicious elevated dishes",
+      "longDesc": "A visually stunning restaurant delivering an exceptional breakfast experience with beautifully plated, delicious dishes in an architecturally impressive setting.",
+      "coord": [
+        52.364008000000005,
+        4.8896118
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15406675242485296066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJyWvYHNAJxkcRwiskRoGBz9U",
+      "address": "Keizersgracht 600, 1017 EP Amsterdam, Netherlands",
+      "rating": 4.8,
+      "ratingCount": 81,
+      "website": "http://www.carmenamsterdam.com/",
+      "photoRef": "places/ChIJyWvYHNAJxkcRwiskRoGBz9U/photos/AcnlKN3Clm9gJWcSE-e9NHQBwzPBYbUTUIe9UktyEQcbHYFKK-vbBsAe8p9rq4PVyblyiGr81NiMzh485Li9FbL37VaA0FLGmhuaWKqWQuPavYuPMEKz-iMehIEU1HanMXJJYPqvsooa-qq8uaihZWS0LkAqZ1my8Hey5wuaMYWQAsDBIjn9xYnjmRQFXROKdAXeQ0c5npWVZpSkeh6epOI3r7J-dVlfnDiGJt585MqXfGdD72JpjnL6h__n1ubTz9aPEkkUI1VSMHMeY4Jb6OP5VbW9Gr7NuKQHtfHA7sT4r7tZSg_AMyYNeWQuw3gOd3RGLiTJInZO7bTqi1YRjGSH04mHNdgqWntKoYLNNTIKs37D85k14jtq6VJ0D3F1xSoq5QKNmaNRKX1lBO0NDfYhZb7yhT-uLcL-RKDlK-QpmaOlPg",
+      "photoAttribution": "YB kimji",
+      "tags": [
+        "Good for Lunch",
+        "Photography Worthy",
+        "Casual Eats",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 6:00 PM",
+        "Friday: 9:30 AM – 6:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: 9:30 AM – 6:00 PM"
+      ]
+    },
+    {
+      "name": "Kikkie Amsterdam",
+      "desc": "Great beers, smashburgers, cozy indoors, fun sunny patio",
+      "longDesc": "A casual neighborhood spot featuring excellent craft beers and quality smashburgers, offering both intimate indoor charm and vibrant outdoor seating.",
+      "coord": [
+        52.378028,
+        4.8866371
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4371713686031725134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJBWJ5NSoJxkcRTnKiY29yqzw",
+      "address": "Prinsenstraat, 1015 DD Amsterdam, Netherlands",
+      "rating": 4.2,
+      "ratingCount": 676,
+      "website": "http://www.kikkie.amsterdam/",
+      "photoRef": "places/ChIJBWJ5NSoJxkcRTnKiY29yqzw/photos/AcnlKN3PD5ksGOxWOtdsGMw0GOCuFfdDeZSvFS6Meo7JE9SK9s_OEQFsQ6jQqEIDjJgPG0wxaOQj1Q5KuNd8rHPWnTMOz3OBKbQMrTYfXMl_nUrYPRDJtewn2o3kiJ5xaAzFpI9raL-N1T3IYY_SdHJSyHThuYqgOrn-1MSkOp7_wHC6YOpyVUUFgKG9x_FS2RYYeov35kJU3_CB_yz_rhLCPecvGiAVBubBR34iAxpSIeB7hP4_Qd-tOWxbDcfWYiRZ4NPzAmLjvL_0Bx8hNUiofLTPVvkGRT84S9tM-JbJrJFF6uoBY2k8IFxJCDJ-SJjODMz6F0GT2u-G_KyEzAbH9V_-TaNFP5au7r40FF7dfdo21L2Zvrll7NbeSpW2l_jLJ-jlFNqfgubW3OQ_Jpx7T57yCFLx08WXd3pksSR3eLQ",
+      "photoAttribution": "Aloysius L",
+      "tags": [
+        "Cocktails & Bars",
+        "Good for Lunch",
+        "Casual Eats",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 12:00 AM",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 1:00 AM",
+        "Friday: 10:00 AM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "phone": "020 224 6022"
+    },
+    {
+      "name": "Buurt Cafe de Tros",
+      "desc": "Natural wine bar, delicious small plates, curated selections, neighborhood charm",
+      "longDesc": "A neighborhood wine bar specializing in natural wines paired with delicious, carefully crafted small bites in a warm, welcoming atmosphere.",
+      "coord": [
+        52.360455099999996,
+        4.9254231
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10866508861198861009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX1HjG3QJxkcR0YJkbDyYzZY",
+      "address": "Linnaeusstraat 63H, 1093 Amsterdam, Netherlands",
+      "rating": 4.7,
+      "ratingCount": 461,
+      "website": "http://detrosamsterdam.nl/",
+      "photoRef": "places/ChIJX1HjG3QJxkcR0YJkbDyYzZY/photos/AcnlKN2d2eKESBRMr0cAQEAd8y15J9KbBSNkT9IVMvVYvOk6L_jJK5jIVnCc14-BfPmn6jCcbSUuxznKRYZMMQem2VhxUUBBKAqU8yMIEE8R7aVLxDubjHIRlr0eK_0VvVS-05fkdKTyDzBKrJn1YKGqbGG9ROBQGnoGGIX1tkRdkxtTzKJIUVWV7ZyrJhS4iToQi6GSHuGFLFLYRCiqqjmEynKqrvHzhQkvvIa-0jJLWYbPUtUwWZiLPfA928cOTkQs_pk_JEaACvMWc0Es13rz-Xib0hJidNB3SJ3pH0zHkAOIyQ",
+      "photoAttribution": "Buurtcafé De Tros",
+      "tags": [
+        "Cocktails & Bars",
+        "Good for Lunch",
+        "Casual Eats",
+        "Rainy Day"
+      ],
+      "hours": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 1:00 AM",
+        "Saturday: 12:00 PM – 1:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ],
+      "phone": "020 227 9803"
+    },
+    {
+      "name": "Counter Amsterdam",
+      "desc": "Counter-style casual dining, quality food, neighborhood gathering spot",
+      "longDesc": "A casual neighborhood restaurant offering quality food in an unpretentious counter-service setting perfect for a quick, delicious meal.",
+      "coord": [
+        52.371140399999994,
+        4.9315321
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12089142265375967813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJbaGc_5cJxkcRRUrl3tZCxac",
+      "address": "Czaar Peterstraat 174, 1018 PX Amsterdam, Netherlands",
+      "rating": 5,
+      "ratingCount": 118,
+      "website": "https://counterams.nl/",
+      "photoRef": "places/ChIJbaGc_5cJxkcRRUrl3tZCxac/photos/AcnlKN1iXJKqj2eoSvSh_YPwVt3YzY8FdPHxoMLBUv3SAN89INaN0yTrMwHcov9XuyB7UHSeCPi-EtBMBrjlg2cLr-q_CgzTKEH2eZ9PIKv0I_G_gUQi2uMhKPE455S2kWiuoH5CX9fiDOhC1N758mKOY1wkI8aDJfWh7Je5WbQYa6DBpCpDTCuNAf_s7bFWa1I-bdbqC0aMN4n99fIBAbdxXRWX39Uic4_UVR7ibrt32ku68-QadIx4QCVq_czEeUlyu5-ncaYtd2qFm3zNMNyn26TLLneK_1HhFw93JUxMz-Zp0A",
+      "photoAttribution": "Counter",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 3:00 PM",
+        "Wednesday: 11:00 AM – 3:00 PM",
+        "Thursday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
+        "Friday: 11:00 AM – 3:00 PM, 6:00 PM – 12:00 AM",
+        "Saturday: 11:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "07909 072727"
+    },
+    {
+      "name": "Turbo Amsterdam",
+      "desc": "Casual dining favorite, neighborhood gem, local honorable mention",
+      "longDesc": "A casual neighborhood restaurant earning honorable mention status for its approachable dining and consistent quality in Amsterdam's food scene.",
+      "coord": [
+        52.360634399999995,
+        4.9253402
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16435042107070040376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ-V9HqLsJxkcROEl_RLj_FOQ",
+      "address": "Reinwardtstraat 1, 1093 GT Amsterdam, Netherlands",
+      "rating": 4.5,
+      "ratingCount": 212,
+      "website": "http://turboamsterdam.nl/",
+      "photoRef": "places/ChIJ-V9HqLsJxkcROEl_RLj_FOQ/photos/AcnlKN193cTLhAYqO0nsqTYSR4c1fVRwzjhmyAFbw7WSKB8199j1dUOBxA-r0DiWtDp2fkrMsJ6ymBSW2tEjprxjKJV2Z_h-PzGwr0O014nLmCtKTco1OWupMgHBgCr_Imxb482tLSFZHGUSw7jk7-zKcPhlhrkgjGh5qr3rOTKdSSyRkEKldRaXokW88_Eq3WfKldkfm8C6L7fCwfkY7OCqEO8C9jzsFqRFJezRChTcogXhl5kV976Hb3efVYpVKDEPlMZSoDjhhsoJXu-PH8ycQyRglM8Nm48NJinUbOlqoWERb8tC8XVTl2pnTitbBI4K7Kb6S5LUToNyrvmcBANTADh5QHYGgWKNMJLA9Hfk37QUJQmwhihwcTtawUAfcM93SB1i8lwsLnQoEnqMiSEKyesa8MkLGjWbEw-wxl3-mkSdZbAfPd7H-UuMqUEJYQ",
+      "photoAttribution": "Marie Marguerite",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch"
+      ],
+      "hours": [
+        "Monday: 5:00 PM – 12:00 AM",
+        "Tuesday: 5:00 PM – 12:00 AM",
+        "Wednesday: 5:00 PM – 12:00 AM",
+        "Thursday: 5:00 PM – 1:00 AM",
+        "Friday: 4:00 PM – 2:00 AM",
+        "Saturday: 12:00 PM – 2:00 AM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "phone": "020 692 2506"
     }
   ],
   "experiences": [
@@ -373,6 +630,124 @@
       "ratingCount": 246,
       "photoRef": "places/ChIJPdcBy8AJxkcRliIZlE9jFj8/photos/AcnlKN3YR8cjZl-UEIKouUu2bcqNV0UcRWjLynHDRdMg0tLPyNKhH5QEeVy4bts91VJBXECl5gywSut_vmNooay9qf-0nx5vVkImgt1fr0S_yy2gkOnP1xmB2qWBQYzbpjkqDESWuBEFQa2cd8ui2BejrR1jQguEYpy6v8bgO-ksZKzJV6PBfQ-lGCcIpVRgsQK6qBTXYNXV4cevg3BnJWT34l_wQAVpFIb3yvgRCsr-jK-7kf5wobQop1_3Bq4Y61b4saZXR4SeC2g9ZHWi6vqJGbTh79iXr5_zsZ78Z__TnA6MQbwC1b6pfI0l3QwNIUOSChMIHbJ3YGDBxHucTAJC2RzASHiiCZNhWGwOpvu_qBIODP6BOEd1KusZaF0_Qc8p3TzVnwMhUGksNFCmRZMF56SIF4ILG6oZWl-10Dg7xOJGMX3f",
       "photoAttribution": "Krzysztof Różański"
+    },
+    {
+      "name": "Antiek 58",
+      "desc": "Charming antique store, perfect finds, delightful owners, curated treasures",
+      "longDesc": "An exquisite antique shop offering carefully curated treasures with warm, welcoming owners who make the browsing experience genuinely delightful.",
+      "coord": [
+        52.3751159,
+        4.8817207
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8252580199333711508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJPY00JtsJxkcRlE61nfcNh3I",
+      "address": "Bloemgracht 58, 1015 TL Amsterdam, Netherlands",
+      "rating": 4.3,
+      "ratingCount": 8,
+      "website": "http://www.antiek58.nl/",
+      "photoRef": "places/ChIJPY00JtsJxkcRlE61nfcNh3I/photos/AcnlKN3ysciKGgAuluBjcxvq2UlFPugZ2YX35K7w4jmWb0Ol62u4mK-sIW4cWNooTBW1oLiLgVW3fLCc8fFsvocKhHH9e3h_egrUkGV-IFSFGj3xI2dEbVj3lHdBUp6lfid0XqhVtL9GDkCtmRz2Zv7kL57pNPvYgRDVqBgGVBner-miKg2xYylMGNbk9jxhZMuwZDNJUrDV8gm4QZD5MiauAh2F84826_oOK2Hu25bKUWVyDLdhuo5z5NBtf2BJc84P4ICMv65czT7XyVxgk4LjAdanda1tiK_IQ_y0s_6D7TAt0A",
+      "photoAttribution": "ANTIEK 58",
+      "tags": [
+        "Shopping",
+        "Photography Worthy",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00 – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "06 81349510"
+    },
+    {
+      "name": "Tony's Chocolonely",
+      "desc": "Premium ethical chocolate, fair trade, quality confections, conscious shopping",
+      "longDesc": "A renowned chocolate brand dedicated to fair trade practices, offering premium quality chocolate and confections with a strong ethical mission.",
+      "coord": [
+        52.375574799999995,
+        4.8967595
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16821297428466585972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJL1vfcbgJxkcRdFHxXONAcek",
+      "address": "Oudebrugsteeg 15, 1012 JN Amsterdam, Netherlands",
+      "rating": 4.3,
+      "ratingCount": 4134,
+      "website": "https://nl.tonyschocolonely.com/en/pages/visit-us",
+      "photoRef": "places/ChIJL1vfcbgJxkcRdFHxXONAcek/photos/AcnlKN0Cm7QjkVanvFcmIaAxFh9TfXiQzznF0fRH66lr70fFrrmfSRhigJu8u0V0bKeH68iJAdQuVI0xsGPRg7m1mtvaGhnw-vkPxNb18YMmj6CUDd4pf3berHxfS4rHEayH-rYHVJb1vsPnJRKINBY_xCgnIMkBFAXPy9wt_kWf8AX11xhcezUS0S5DLbxm0QWAiyhqVJ5UngwaIi-2Y256Thci88KTwaT73xg3_y_zwllo0iinnkAiQlb6SW6995cRCJNicPB6N9LqOJSDgz4QmAh5WN73nfr8mZgCyY7OrVVHKX8yCn3jEkMTS7qAUpSLk8UtS1K7SBvEefc_kp04lbK-RLtgZYBIyqQ9k65908xWH8o2HmznkmJTyOV1NHv74I8mhDX-Rsvp_AVbIpjA6Izsci8Z-2YEdOvoMqwUPcoawBrx",
+      "photoAttribution": "mar moral",
+      "tags": [
+        "Shopping",
+        "Sweet Treats"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: 10:00 AM – 7:00 PM"
+      ],
+      "phone": "020 205 1200"
+    },
+    {
+      "name": "Auto Drop",
+      "desc": "Traditional Dutch licorice, candy selection, local sweets, iconic shop",
+      "longDesc": "An iconic Amsterdam institution famous for authentic Dutch licorice and traditional candies, offering an authentic taste of local confectionery culture.",
+      "coord": [
+        52.37823950000001,
+        4.8880609
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14549679350805212470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJI4Q0Zs8JxkcRNq2UNEjY6sk",
+      "address": "Keizersgracht 62, 1015 CS Amsterdam, Netherlands",
+      "rating": 4.9,
+      "ratingCount": 40,
+      "website": "https://www.adtchauffeuramsterdam.nl/",
+      "photoRef": "places/ChIJI4Q0Zs8JxkcRNq2UNEjY6sk/photos/AcnlKN0-1QVHGDtvC6jloCa5WP2CBekmFxCuRzNmgwT-4kmlZmHge0OJ_dmiu5imR1lHEMOme2DLAZPsXCsTJClDx59TUOBhvQfc9kJ-uEHySHeUZK_X4FRaoX0v6qutgGM0BUS0qqDaFRHm72Po_5MV1Pht0UtTpsBNgQvd8TtNTDkNN1DOmId-sXkBnuUjAkTn1gtxyT1A6xsU5AzyApxixtMJckC-uWgsjAhrw05euexmz5G23aMC6FGSYS8TihY4zLI0hwujXgZvPFeaQ8_2tKHOtCDqN-n8xZ_f4wW-Sv2Qkw",
+      "photoAttribution": "ADT Chauffeur Service Amsterdam",
+      "tags": [
+        "Shopping",
+        "Sweet Treats",
+        "Budget Friendly",
+        "Local Delicacies"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "020 308 6064"
+    },
+    {
+      "name": "Tulip Fields",
+      "desc": "Vibrant bursts of color bringing springtime to life",
+      "longDesc": "Expansive fields bursting with color during springtime, offering one of nature's most spectacular and Instagram-worthy seasonal displays.",
+      "coord": [
+        52.2836659,
+        4.5174696
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6115204775302139238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJe7qspX7rxUcRZg2o6FeS3VQ",
+      "address": "Herenweg 366, 2211 VH Noordwijkerhout, Netherlands",
+      "rating": 4.8,
+      "ratingCount": 59,
+      "website": "",
+      "photoRef": "places/ChIJe7qspX7rxUcRZg2o6FeS3VQ/photos/AcnlKN11gJwhAC4wTlGLSzvk27gar2fyHTxP96omc5f4xjS6Dv1X_uQ1gWEG93IzYshr0kfNEnQrtp6RBNdcq2ps4p5k_zzgTEJdbLywtSBP4WI02yi6jooZUIz_obyuKQzYAeKxbNF9uGZ-ec2toxL2bofM0FrABqfE3Hy9MOTy2bhD7Dpctu8a001b4Eq2H2HpMAu20-R35uwzWSuVKU8Z-OUfeOkr8HrzqUPl3QIoNu7s9SRNN1z6P-khkmKZvn7U1G3c3x_fgj2oM2g-Kg7ovXrXTAVpCELiJUHSvpkeUuSD9nSbyeewQSs18UaSmED4PMLR4gyvnKk2ReiLhW-u2NJ3gxb2yPPzodwPbxuvpLdC0Ja6wL_2Q1Q6jvSU-qk3xvbtUKIp6J-GMyokGi4X1cc3MGq-3kxwe_JsIzRrjjvHrO-NSP5Jm0fQWVHTHg",
+      "photoAttribution": "Preetham Gowda",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly",
+        "Romantic"
+      ]
     }
   ],
   "kidFriendly": [],

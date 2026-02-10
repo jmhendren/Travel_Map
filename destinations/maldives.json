@@ -1,0 +1,251 @@
+{
+  "key": "maldives",
+  "name": "Maldives",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇲🇻",
+  "defaultCenter": [
+    8.9519,
+    56.2245
+  ],
+  "defaultZoom": 4,
+  "hotels": [
+    {
+      "name": "Six Senses Maldives",
+      "desc": "Luxury resort with magical ambiance, flexible cancellation policies, exceptional service",
+      "longDesc": "A magical luxury resort destination offering exceptional hospitality with flexible booking options and significant seasonal discounts available.",
+      "coord": [
+        1.8171277000000001,
+        73.4050224
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10190025752744203609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJsZRy68UrSDsRWZVm3G4-ao0",
+      "address": "RC93+66F, Laamu Atoll 15090, Maldives",
+      "rating": 4.9,
+      "ratingCount": 977,
+      "website": "https://www.sixsenses.com/en/hotels-resorts/asia-the-pacific/maldives/laamu/",
+      "photoRef": "places/ChIJsZRy68UrSDsRWZVm3G4-ao0/photos/AcnlKN2hfNs9NZPJF-aCazpgndh8XIhaeQL5z6fkPqAlEZFLoNzx2C04pogIYyz9fm2tPnJP9L2G6YNjddxjADiljpCn0ROiwZKF32lkBxt35xGO5KOc-rd-TzDb2SDRUUWPJUsJlZ9fvltqvM6x1UQkWpVOEcDZh5eExr9DeANx_tr_cmXbxT04u90tRJTZ9tPdQ05W_cU4HyFTwAiUXgDAVXgK3sH7pSkXhwOvzedJRz3jq8VkKPOTXTuf_Z0HvI2DnHWpWB-3WtC9s1LClvaXJYELXCXaNBQXXhYyLFPDZg-FanApVs2BQe0gkNHurmY7lxw2MxyfEit4-7_IQ-qWGrS4Lf3tfyJlekDd8IckihGA0C2WY9i3gOKtFLBjH_ZrKD8i0ZcO9bsZOQNw1fTgLYQ4_uKKm_8N4hw2J0pCART3_PRnGHRLvGd1aG8eSC7m",
+      "photoAttribution": "Monika Müller",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "680-0800"
+    },
+    {
+      "name": "Private Islands",
+      "desc": "Private island edge marked by water light, ferry access, exclusive isolation",
+      "longDesc": "On private islands, the edge of day is marked by light on water rather than schedule, offering unparalleled exclusivity and isolation.",
+      "coord": [
+        44.646485299999995,
+        -63.5704086
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12263056539309978502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJy7FTXssjWksRhjMaNvMgL6o",
+      "address": "1601 Lower Water St Suite 602, Halifax, NS B3J 1V4, Canada",
+      "rating": 5,
+      "ratingCount": 3,
+      "website": "https://www.vladi-private-islands.de/en/",
+      "photoRef": "",
+      "photoAttribution": "",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "phone": "(902) 423-3202"
+    },
+    {
+      "name": "Bvlgari Resort Ranfushi",
+      "desc": "Bvlgari luxury resort, Maldives island, late 2026 opening, Indian Ocean paradise",
+      "longDesc": "Bvlgari Resort Ranfushi opens in late 2026 in the Maldives, delivering unparalleled luxury and elegance on a pristine tropical island getaway.",
+      "coord": [
+        4.6041761,
+        73.58039579999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2844343190605211405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJb08p9ayJPzsRDSdT1w8jeSc",
+      "address": "Fari Islands North, Male 20013, Maldives",
+      "rating": 4.8,
+      "ratingCount": 324,
+      "website": "https://www.ritzcarlton.com/en/hotels/mlera-the-ritz-carlton-maldives-fari-islands/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJb08p9ayJPzsRDSdT1w8jeSc/photos/AcnlKN0zMpy0LYfIDrP4r403TJHv08o4jTOdeVpRWWdDQseckI7dYICEt_MQypME2asstYlv9T0qTJH1sGtwmpYfMZ38prpPilY2XdGtU4-aoCvyKP6ojt8iSvhqgDURNQA5AO2pAMTQ6Jz6EY2nLhW-4B7QfCgM5gtrgCrskoRMZKdWT1Fs29Rh167IEzEr_r4l8-fESDiJEGEC5toTid99RPtUkKbDmQ6eEzt1W07A4pbwS66vfFoFqv8EMrGR2q_HYUu6D6FHO_rh8zvkq8SKTfu6c5uTpEyRHBGeC4EXeoh8qA",
+      "photoAttribution": "The Ritz-Carlton Maldives, Fari Islands",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa"
+      ],
+      "phone": "400-0999"
+    },
+    {
+      "name": "Cheval Blanc Randheli",
+      "desc": "Ultra-luxury Maldivian resort with exclusive owner villas and helicopter access",
+      "longDesc": "An opulent Maldivian sanctuary featuring the prestigious Owners Villa with elite amenities and helicopter services for discerning luxury travelers.",
+      "coord": [
+        5.6918486999999995,
+        73.3408297
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17981654149321223874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJC1-JR6cxazsRwm44jC2ri_k",
+      "address": "Randheli Island, Maldives",
+      "rating": 4.7,
+      "ratingCount": 154,
+      "website": "https://www.chevalblanc.com/en/maison/randheli/",
+      "photoRef": "places/ChIJC1-JR6cxazsRwm44jC2ri_k/photos/AcnlKN3NoOAvtZgtGNAdpmyFZdHrBPpLgQHI8dOAnILV1TQV7_kIdkA72l-SkdJ-PmAszeUONt-f-Ee2mrjqAUpfDeTSBHEfztsE_RMht_dIK5wEjrCBUNqyrzIR1PLpeIiNrl721GBF5M-n3TpGeDdn4vx2KAfQwWGWt0UXhD_xCppoLyVRDy-1NOBFwP9AvoL3YI7d_7rTe4CiyJtw2c72TFmrOSJnz-9k47QDbisaVpueSD2AF8mPpyCCOpjEAOh_Mk3SLojDHkgUIHyhVelTnxyxPQHLr7jdAvwbDWTZ8_Qp7Q",
+      "photoAttribution": "Cheval Blanc Randheli",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Fine Dining"
+      ],
+      "phone": "656-1515"
+    },
+    {
+      "name": "Mivana",
+      "desc": "Exclusive Maldives island resort, overwater luxury, turquoise waters",
+      "longDesc": "An ultra-luxury island resort in the Maldives featuring overwater villas, pristine white sand beaches, and world-class diving in crystalline waters.",
+      "coord": [
+        3.8749890000000002,
+        73.4586944
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5619669221226164682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJe1uyGXqgQDsRyrFh5mET_U0",
+      "address": "OZEN LIFE MAADHOO Maadhoo Island South Malé Atoll Maadhoo Island, 20094, Maldives",
+      "rating": 4.6,
+      "ratingCount": 631,
+      "website": "https://theozencollection.com/maadhoo/?utm_source=google&utm_medium=organic&utm_campaign=ozenlifemaadhoo&utm_term=gbp",
+      "photoRef": "places/ChIJe1uyGXqgQDsRyrFh5mET_U0/photos/AcnlKN0IzH8yv8scLp0MaPdErGr0pDc7BHEucFPT6_BUuS9hr54caWZnZeV6tABVeacvHZbm0q4b5sj58WPLM54NcIgEj4BESgiFx_5szf0AcSzLCLfb_iSsFR_MMh98UzMS8XDnK53TgwY3qyiHPwsrbmvmvMhS85uDIAM8S4wCL-uRu_jHkXlO8Hg9FGDu_7egWuJ2LW9YP2v4DJSkVL6VrUndEND8T5fO9TwMCpQPPT2L6XBHv91sATF23XpXOJUP8HJr9guwI08zG0yb0Z0Fppt2KR-cseVAo1PMSvlrr9zduQ",
+      "photoAttribution": "OZEN LIFE MAADHOO South Male Atoll",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "400-2222"
+    },
+    {
+      "name": "Gili Lankanfushi",
+      "desc": "Luxury overwater resort, beachfront paradise, turquoise waters, exclusive island escape",
+      "longDesc": "An exclusive beachfront resort offering ultimate luxury in the Maldives with private island living and world-class amenities.",
+      "coord": [
+        4.2948930999999995,
+        73.5580944
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17246568017163252381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJA4fHn1WBPzsRnfKgQTweWO8",
+      "address": "Lankanfushi Island, North, 08920, Maldives",
+      "rating": 4.8,
+      "ratingCount": 328,
+      "website": "https://gili-lankanfushi.com/?utm_source=gmb&utm_medium=link&utm_campaign=gmb_hotel_listing",
+      "photoRef": "places/ChIJA4fHn1WBPzsRnfKgQTweWO8/photos/AcnlKN3bsbRBKwrk50q01oczuipT66UXB_YTlrDH5QfKtB1C81RAvLFTn3jO8g-twvsb-XvTvorLy0jpf8sG6Tcyf_1a0zK-xygzENty6Ofx8yvzjvuMnZJlpFpNQz-gS-sgqCYLbzZaaxZAiKsia34dR8U6qXIadx6c2-i4Ar874GdY6KBAJDCRxM_ye7OPV9StgziHx3C7nIDGms7ATjabYUuGBFTH7dPtIpbxB1ga-74nvcKokvNLSwUVQqPxtORY-4TNCSEHXXx8tp7jcCP6dydW2PdrqC65dknKiEm5LebB9g",
+      "photoAttribution": "Gili Lankanfushi Maldives",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "664-0304"
+    },
+    {
+      "name": "Maldives",
+      "desc": "Luxury overwater villas, calm seas, manta ray diving in endless blue",
+      "longDesc": "Discover the Maldives' calm seas and 28°C warmth, ideal for diving with manta rays or luxuriating in an overwater villa surrounded by endless blue waters.",
+      "coord": [
+        3.202778,
+        73.22068
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4703176250004693641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJvXv7qr-ZtSQRiWKVgeEJRUE",
+      "address": "Maldives",
+      "website": "http://www.visitmaldives.com/en",
+      "photoRef": "places/ChIJvXv7qr-ZtSQRiWKVgeEJRUE/photos/AcnlKN3s-T183AMJwwzubHai4MW9ko5MJNFWzKiBWmNko6tczbw7uuOLgrep9Dbvkh2E9uEuBPaoAXv9CA1Zgi5R2_NORKfffzZHDp4bQiEuUD-MJgEMtVm8IVifL8j9sFXitVOQqBJjLE_K-jFrEveSMHy586VxTZICEhjhnm24NIK3Opl17wZCTsh7IJMToepGVafp4VKfwDLm8H27oWiL-IkMEuvIxqNjCcNDh3mp6HeM6ShI0IYMo2buyER_96XEcgOCUSr-rA-tUby5wzwCtdra4IfSikIydV5PCwaf2REI-W4AJU3_lnO6ABmVUHqiiTsm1eYj03Ta488f4lbFGjgMdvot3s8Tfs7LEwmx7RJz3TWRKB3w36c00y7guabWnQ9q8mePma_p66aTSYUxQXzbMR8ubQx2uH8ghcDlLQT2dfe6",
+      "photoAttribution": "Chitrita Ghosh",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ]
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Maldives Beach",
+      "desc": "Breathtaking beach sanctuary, luxury villas, world-class spa, fine dining experiences",
+      "longDesc": "A soul-soothing luxury beach sanctuary offering breathtaking scenery, exclusive villas, exceptional spa treatments, and fine dining that creates an unforgettable escape.",
+      "coord": [
+        3.4832212,
+        72.8024587
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6054273078083397909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJVXegYUspRzsRFSlfoEkZBVQ",
+      "address": "Nalaguraidhoo, Maldives",
+      "rating": 4.7,
+      "ratingCount": 5038,
+      "website": "https://www.villaresorts.com/villa-park",
+      "photoRef": "places/ChIJVXegYUspRzsRFSlfoEkZBVQ/photos/AcnlKN2egj2Pxnyq04Q9jfq66I30XtporMnl9-Q_8uVn5YIzeENB5LVG4aAgqrnTFOg2qtMWZDCZAFvydCZsBwXeFx7SHoIpOBqWuCsybTz8d82MaPTlJgMTt2-y1zjIbmsu37c73z8HwJhyZhoHNvQgWTbiqG1ithxqhMQvO7__kWOCLRCBGNYC8eD8hU4DdBr9A0z8h1f0ViImyhSjCxLS7cBF9JCKJ_klUCETc_uzUX_xUj0w13ytRaJRG0K6HtuS2PCtCslTksGiTa1HfpoIfulorMy6h3HBfWcvUqJUH_P56g",
+      "photoAttribution": "Villa Park, Maldives",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa"
+      ],
+      "phone": "668-0088"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Maldives": [
+      3.5487,
+      73.1922,
+      0.03
+    ],
+    "Ranfushi": [
+      4.6042,
+      73.5804,
+      0.03
+    ],
+    "South Male Atoll": [
+      3.875,
+      73.4587,
+      0.03
+    ],
+    "North Male Atoll": [
+      4.2949,
+      73.5581,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

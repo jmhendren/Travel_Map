@@ -1,0 +1,96 @@
+{
+  "key": "chile",
+  "name": "Chile",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇨🇱",
+  "defaultCenter": [
+    -42.1949,
+    -72.0582
+  ],
+  "defaultZoom": 5,
+  "hotels": [
+    {
+      "name": "Chilean Vineyard-Integrated Hotels",
+      "desc": "Chilean vineyard-integrated hotels, new-world wine estates, immersive landscape experience",
+      "longDesc": "Experience Chile's renowned wine regions from hotels seamlessly integrated into working vineyards, offering direct access to South American winemaking traditions and stunning vistas.",
+      "coord": [
+        -33.478617,
+        -71.4768974
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10358001735109992078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJl82lhSdCYpYRjl4c9LIDv48",
+      "address": "Fundo el Rosario - GGCG+W5, Paso Rosario, Cartagena, Valparaíso, Chile",
+      "rating": 4.7,
+      "ratingCount": 922,
+      "website": "http://turismo.matetic.com/",
+      "photoRef": "places/ChIJl82lhSdCYpYRjl4c9LIDv48/photos/AcnlKN3_uy1JfdLeK2yKc5RV0Ih5w8vkdj2vOgGptcwb3KLnW0fQZyDuXoFSSCOL6t92xZZhH41fOPpF-rdJA5Evqqm3Dif0J6M5zo6JQAa7e42LrTQi2Qyq6Nn7ZnsI0Ruj-BgAoAeVprTlUa4akOlB-qCS8Olh3Ba_2aMSnUdBj9GiciXuhj13t9bXcfD2BrsibMhe9SE1DUoL6oDdbwxcjEAwrodeRG2KC655LiyMKtaUelSQTFkZXWz8SJzD5EfbzgYLOWB7hsce-F6QCxwJzBqf7ZZS_-mvmAwHLI9YRDTskg",
+      "photoAttribution": "Matetic Vineyards",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "phone": "(2) 2611 1520"
+    },
+    {
+      "name": "Awasi Experience",
+      "desc": "Patagonian luxury lodge, glacier exploration, high-altitude mountain escape",
+      "longDesc": "An exclusive luxury lodge in the remote Patagonian wilderness offering world-class hiking adventures, breathtaking glacier vistas, and an unparalleled cool-season alpine retreat.",
+      "coord": [
+        -50.911227999999994,
+        -72.639504
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1391282788527066442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJddGPIL_Nur0RSk1FKFPUThM",
+      "address": "Estancia Tercera Barranca, Torres del Paine, Torres de Paine, Magallanes y la Antártica Chilena, Chile",
+      "rating": 4.8,
+      "ratingCount": 94,
+      "website": "http://www.awasi.com/",
+      "photoRef": "places/ChIJddGPIL_Nur0RSk1FKFPUThM/photos/AcnlKN0Kt2n2n_rvBnmglgNtuT2hbOpuEl3iUq4VE3uKmpUEzyM1DJEMpioP0ExHXiakneV0VHXDeyRtYmDEU4I3185i6DGYapwLikRknbMCLFIWfZKsQ7hE7lqY0lqPKgcP-x3vdTSFRXhPU-87DVBSJD_C6kQczMA_PhhZ5qjY2bUNB-JZnrCsF9wgo9SbbmYnuuK76cqQ4E1DrmF7ahMgIgD7MvTJ21GYiWa5sZGB_h36niUYmterTQf39VEiyN_HbDadeW4Pbtd8m64jkw0AFZrx2E4J0eLJiIJRbZ3W9o1IUg",
+      "photoAttribution": "Awasi Patagonia",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(2) 2233 9641"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Multiple": [
+      -33.4786,
+      -71.4769,
+      0.03
+    ],
+    "Patagonia": [
+      -50.9112,
+      -72.6395,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -8,7 +8,31 @@
     -73.4145
   ],
   "defaultZoom": 6,
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Explora Lodges",
+      "desc": "Immersive all-inclusive lodge experience, two new properties, explorer-focused itineraries",
+      "longDesc": "Explora's expansion into Patagonia with two new properties offers deep-dive exploratory experiences in one of the world's most dramatic wilderness destinations.",
+      "coord": [
+        -51.1164588,
+        -72.9917932
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18343196840301255160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJq6qqqqoapb0R-Fk5_1YgkP4",
+      "address": "Torres del Paine National Park, Torres de Paine, Magallanes y la Antártica Chilena, Chile",
+      "rating": 4.6,
+      "ratingCount": 282,
+      "website": "https://www.explora.com/lodge/torres-del-paine-lodge/",
+      "photoRef": "places/ChIJq6qqqqoapb0R-Fk5_1YgkP4/photos/AcnlKN3xCDU63nlmLsVL7pRHo9P-mSXY49rOa9ohy2lk1O57rMoo-caFSRP9ePFwNDM97d9lMf5VvoQLLHDTCTlmj8g_plxJVf4j9vikEsy4rT9GJmW8tR98S5yYyzPmHdppayTP2142_jSbCB1QxIpOl2nvdbWQXVAlXh-i7knAZ1fu4X38cbTavH_vqVLl-nD6VNpo68EiCakJTZiV2OuujYjYuAOIcjppTWJDpYA9b4pd7LmtblBri1VxtwPfxfcJiRHiE0gGyKxUkgV8_BlsoZ_v54SmemuBCBBXUJr4ydEeGg",
+      "photoAttribution": "Explora Patagonia Hotel Salto Chico",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "phone": "(2) 2395 2800"
+    }
+  ],
   "restaurants": [
     {
       "name": "Central",
@@ -206,6 +230,79 @@
         "Friday: 7:20 AM – 8:50 PM",
         "Saturday: 7:20 AM – 8:50 PM",
         "Sunday: 7:20 AM – 8:50 PM"
+      ]
+    },
+    {
+      "name": "Legendary Expeditions",
+      "desc": "Luxury expedition company offering curated Peruvian adventures including Machu Picchu",
+      "longDesc": "A premier expedition operator specializing in immersive luxury journeys through Peru's most iconic archaeological and natural destinations.",
+      "coord": [
+        -13.5242419,
+        -71.952004
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15896521049256188178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJP7OvfhPXbZEREllvwavJm9w",
+      "address": "K-5, Cusco 08000, Peru",
+      "rating": 4.9,
+      "ratingCount": 81,
+      "website": "http://www.lifexpeditions.com/",
+      "photoRef": "places/ChIJP7OvfhPXbZEREllvwavJm9w/photos/AcnlKN0YRYaa_Xbt2h6CzAXFcenH5ubHMRrEHJMpvbi2oJvOB4qwxrF6fXDt9ZEmYxOwiWoJ4KoctyAtEyn3yK5Z0l5H3pQCiyo4y4qkUtUVkxbp1p5LfK_3rnsrckpv4Y9CB1jKP-EDR6Xtvnp8XNabhFp60h0tgIfMBw822luhMe5Rxj2ggWc5777H_yS7O_IGWBtmvxp6B1DEdxv-kmsYjkT93rCrrPKTQYJhgc965KFD6613IEmhPrA4ESjwjGsuwis2JY5Dh1QhtTaDNDZOdyxeafEb6XpXCwZZM7y2605dkKFAAhGfacS3NRCZsKGYh3Ud7tiSrYVTUF75uLrE_eianZeT_tWbF7iKIg6F_59tuPcZmf5IMjLZuvyGAHq9t65mLk_EEfmPpTwaCG9eRsyM5WGWnHOGrjoo1SUlIL-7dA",
+      "photoAttribution": "Germán Vicente Herrera Lozada",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 6:30 PM",
+        "Tuesday: 9:00 AM – 6:30 PM",
+        "Wednesday: 9:00 AM – 6:30 PM",
+        "Thursday: 9:00 AM – 6:30 PM",
+        "Friday: 9:00 AM – 6:30 PM",
+        "Saturday: 9:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "970 811 976"
+    },
+    {
+      "name": "Arequipa",
+      "desc": "Vibrant colonial city, underrated alternative to Machu Picchu, local atmosphere, fewer tourists",
+      "longDesc": "Experience Peru's vibrant second city with colonial architecture and authentic local culture. A refreshing alternative to overcrowded Machu Picchu with remarkable street life and heritage.",
+      "coord": [
+        -16.4057001,
+        -71.5400994
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11800739522970656822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJs7mFd0hKQpERNiCUuRKmxKM",
+      "address": "Arequipa, Peru",
+      "website": "http://www.munarequipa.gob.pe/",
+      "photoRef": "places/ChIJs7mFd0hKQpERNiCUuRKmxKM/photos/AcnlKN1xwiocYDtKPwwOOG1R2stsnyYCzrhlZEMrYF7WVqIBhXsL2Ehr_GDfmfc1SdG8bu_anzK77unt4iGOZB3bwQ08tNkJw9V5rzRuhzRmB5MF-JGhmkoC_05LJ3iX9jH2-aY4fZgEXTkpco31XDc8-5zhoY70buPljl-rOuJ_YySohbOLfUBKhxXoHJToEWhuDzC-SqmiuD53spXtVHZkNA3oZdTlLC-omk6XdJK0DsheVMxUYTUNCuIpnaPyJSQ5YhjHkYZjuF8tqdQ_mIbOJDFc52jzu7BAAA4LhiVJX46qwaCNcfg30GZfI5LBtlYhR1XsUT0Uh04Rw0GH8TXN5aFk8m-5xrz-ZOyjDN5gldKEsktVLr06k2tTFa09dcsfPjblXRtoqcKcYxrAwXZvAVIrE4u_q0JRzz324N4KTIo",
+      "photoAttribution": "Javier Rischmoller",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Budget Friendly"
+      ]
+    },
+    {
+      "name": "Patagonia",
+      "desc": "Wild luxury deep in wilderness, dramatic mountain landscapes, remote adventure",
+      "longDesc": "A remote wilderness destination offering wild luxury experiences amid Patagonia's dramatic peaks, pristine landscapes, and thrilling outdoor adventures.",
+      "coord": [
+        -41.810147199999996,
+        -68.9062689
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17690206990693294872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJswo0Eqyt770RGONnA4g9gPU",
+      "address": "Patagonia",
+      "website": "",
+      "photoRef": "places/ChIJswo0Eqyt770RGONnA4g9gPU/photos/AcnlKN3Dnf0XnMwiewcojn-ZXFgGAL_W6jI6uL2iLje54LJArCkPlZvtjMoczFVTlkkmXVYV48X3xIvhPnrIv6vMkRKpmHqLjEG_hPdoHMXOVo9RkomY7Nett-nM7QjteoCxRQrXmAcJHYxJY1VPKPOA9O0g2QRYFkZ4w2oG6hQqZKFEOkEyERdqWFZ0aDsXTPYbgWDdU2Z1lye4s-MrXLRiO3U7hjLq43QUCKghc4lKEt3wm8m5Dnmk0Qjc2YHALY34kBwaYPKCC8efIu_VF-MUBAiiebDk5X0pYnD7_26TRBoc-VgfEDMopUHZsUtAOfvdReCAFl27GWT-zpawJb9tW-f5b28gZzCwIME0KteEXW6E8lysdfb-mz-N5W70jxjIk7wYspHKeE-BK3ljk0E8LrGV3JB_Tqbh8L8hCgPvATHBcJM",
+      "photoAttribution": "Jan Kegler",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     }
   ],

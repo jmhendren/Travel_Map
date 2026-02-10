@@ -1,0 +1,47 @@
+{
+  "key": "bahamas",
+  "name": "Bahamas",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇧🇸",
+  "defaultCenter": [
+    23.8927,
+    -76.2617
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Musha Cay",
+      "desc": "Ultra-luxurious private island villa, exclusive retreat, billionaire getaway",
+      "longDesc": "An ultra-exclusive private island villa in the Bahamas offering total privacy and unparalleled luxury for the world's most discerning travelers.",
+      "coord": [
+        23.8927366,
+        -76.2616704
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17574370008648668204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJV9TiyAToMYkRLFTI7Gi05PM",
+      "address": "Musha Cay, The Bahamas",
+      "rating": 4.2,
+      "ratingCount": 34,
+      "website": "",
+      "photoRef": "places/ChIJV9TiyAToMYkRLFTI7Gi05PM/photos/AcnlKN0chojFvCFQkcve-_hDinruBFXwryhiOt6c3Rz6ZsObTvkWtd2d8hnbxFjPXxL5utPtHuBdn3Bj1_rEVQagw3_YDsnMGsn61_eLOEyfQiH5OMfkHYoz_eNTDHUDi0VXQPNoIo-14Qfwr8MVQHlXJKiDJJ7npGm7Y_HCF9XSnJSyzG6e0zK7jrMu6mn8LKaqLv7vysSlUlDotcunJHJpTYo3sch10gK6DVJuYgahY9sTya1g_fNawJfC4rKKXki7jpD1meY-BiPt_1brK8M89VUsm_1HeXOWIOWSleDa068YXZ92iG1ndGS8uAbqrVaGwQNa_dpyQC0RW--b2rbrJFndgmCj2uwSxHGU0lz8dwO7VmRP6ctt4FdPmf3czux49rrQEKjqqb89jndQN-NiEog2XU9Z8cmcv1LMrwu3L399KxQ",
+      "photoAttribution": "Saeed Ullah",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature"
+      ]
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Exuma": [
+      23.8927,
+      -76.2617,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

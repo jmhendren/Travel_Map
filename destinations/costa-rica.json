@@ -1,0 +1,49 @@
+{
+  "key": "costa-rica",
+  "name": "Costa Rica",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇨🇷",
+  "defaultCenter": [
+    10.6301,
+    -85.6833
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Nekajui, a Ritz-Carlton Reserve",
+      "desc": "Off-the-beaten-path Ritz-Carlton Reserve in Costa Rica, boutique luxury immersion",
+      "longDesc": "An exclusive Ritz-Carlton Reserve nestled in Guanacaste's pristine landscapes, offering off-the-beaten-path luxury and intimate boutique experiences surrounded by Costa Rican nature.",
+      "coord": [
+        10.6300931,
+        -85.6833293
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7701274016407095209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJjeAjxX6BdY8RqQfkMepr4Go",
+      "address": "End of the 253 National Route, Peninsula Papagayo, Provincia de Guanacaste, Liberia, 50104, Costa Rica",
+      "rating": 4.7,
+      "ratingCount": 83,
+      "website": "https://www.ritzcarlton.com/en/hotels/lirrz-nekajui-peninsula-papagayo-a-ritz-carlton-reserve/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJjeAjxX6BdY8RqQfkMepr4Go/photos/AcnlKN3xPlyrkpbccZu_gr6StAdy7rpt9MtlE7AUqm9wLPh94edA_CE0agpmWXQwuVYZBmbcpZ2KNsUOcnZlrhy3pWYm267S9PFCQc-7Juq8dl9l9lX3qGs6lCjR9QRfmpYSdWTR4USlOBI9VYiC3MRn7gdqxBlM5PAYYW_JET9qrLzESW7NY8xmrn-usMtD4OZD7AJ7mocWnPXNOv2JRzpu7w-ssGfCRyNfc5ojZu9d1gXtVMYZOdEYuLC95nsMte0xfHwyyr1wkUGUxrxIsgMP-DbrcTXEGDHifgQVgGxQHjehnQ",
+      "photoAttribution": "Nekajui Peninsula Papagayo, a Ritz-Carlton Reserve",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic"
+      ],
+      "phone": "4081 1221"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Guanacaste": [
+      10.6301,
+      -85.6833,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

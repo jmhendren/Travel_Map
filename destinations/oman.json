@@ -1,0 +1,79 @@
+{
+  "key": "oman",
+  "name": "Oman",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇴🇲",
+  "defaultCenter": [
+    24.6624,
+    57.2348
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Six Senses Oman",
+      "desc": "Luxury resort with discounted rates, flexible cancellation, premium amenities",
+      "longDesc": "A premium Six Senses property offering luxury accommodations with special promotional pricing and convenient cancellation terms.",
+      "coord": [
+        25.7091674,
+        56.2728385
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=79979888334359305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzWx5aPUr9D4RCUtY4UglHAE",
+      "address": "23°33'04. 58°39'35.، 8\"N 5، Dibba 800, Oman",
+      "rating": 4.6,
+      "ratingCount": 808,
+      "website": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/",
+      "photoRef": "places/ChIJzWx5aPUr9D4RCUtY4UglHAE/photos/AcnlKN2fxliAlT_JKVhnXvJZHTcAUBHIXxda39CSrFwsn1WB8MXp6St6lBLVStXjkQD5DlaKoFGUPJ-BYqsC556yBYSQL53CQ0rqxiqFw91DCjwvsdk1xVPjc1ca72OrZCwKGKxIedg8LunqVLw8k5g9BBTKnAm4P28YNDfGZMgbSz32XH03aFbjbfvCkbROD0d_Y19hlh0Vylih_Z9ucVwnDOd4OsLRMe_NUdTXjCqhD3Tz1OmxVuzh42zTye1cIjFwdCYJn9G-I0vqwGjTU7EpYL2OZWG1Swier99y0aWVn3FNZC3TQ0H9tX23EQ_6w3S870rwoAWsiNySsBtb5o06eGTgKllvS901LHhTg-ijwOYpV_z1Ra9I5blV8fjti0b8WCMmoUi48c-U9OibPf1svtj5iaGlMl20ASdLxuEM7g7H3A",
+      "photoAttribution": "Alexander Beller",
+      "tags": [
+        "Splurge",
+        "Romantic"
+      ],
+      "phone": "26 735555"
+    },
+    {
+      "name": "Malkai Oman",
+      "desc": "True untouched escape in pristine Omani wilderness",
+      "longDesc": "Malkai Oman offers a genuine, untouched escape for those seeking authentic solitude. This exclusive retreat immerses guests in unspoiled desert beauty and Omani authenticity.",
+      "coord": [
+        23.615649500000004,
+        58.196771299999995
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17231657251216688813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJD5f5KT39jT4RrQYOBvkkI-8",
+      "address": "J58W+8P3, Al Mazoon St, Sib, Oman",
+      "rating": 5,
+      "ratingCount": 1,
+      "website": "",
+      "photoRef": "",
+      "photoAttribution": "",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 12:00 PM, 4:00 – 9:00 PM",
+        "Tuesday: 8:00 AM – 12:00 PM, 4:00 – 9:00 PM",
+        "Wednesday: 8:00 AM – 12:00 PM, 4:00 – 9:00 PM",
+        "Thursday: 8:00 AM – 12:00 PM, 4:00 – 9:00 PM",
+        "Friday: Closed",
+        "Saturday: 8:00 AM – 12:00 PM, 4:00 – 9:00 PM",
+        "Sunday: 8:00 AM – 12:00 PM, 4:00 – 9:00 PM"
+      ],
+      "phone": "9220 1547"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Oman": [
+      24.6624,
+      57.2348,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

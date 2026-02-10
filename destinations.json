@@ -2,10 +2,40 @@
   "default": "japan",
   "destinations": [
     {
+      "key": "albania",
+      "name": "Albania",
+      "flag": "🇦🇱",
+      "file": "destinations/albania.json"
+    },
+    {
+      "key": "antarctica",
+      "name": "Antarctica",
+      "flag": "🇦🇶",
+      "file": "destinations/antarctica.json"
+    },
+    {
+      "key": "argentina",
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "file": "destinations/argentina.json"
+    },
+    {
+      "key": "australia",
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "file": "destinations/australia.json"
+    },
+    {
       "key": "austria",
       "name": "Austria",
       "flag": "🇦🇹",
       "file": "destinations/austria.json"
+    },
+    {
+      "key": "bahamas",
+      "name": "Bahamas",
+      "flag": "🇧🇸",
+      "file": "destinations/bahamas.json"
     },
     {
       "key": "belgium",
@@ -14,16 +44,52 @@
       "file": "destinations/belgium.json"
     },
     {
+      "key": "bhutan",
+      "name": "Bhutan",
+      "flag": "🇧🇹",
+      "file": "destinations/bhutan.json"
+    },
+    {
+      "key": "brazil",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "file": "destinations/brazil.json"
+    },
+    {
       "key": "cambodia",
       "name": "Cambodia",
       "flag": "🇰🇭",
       "file": "destinations/cambodia.json"
     },
     {
+      "key": "canada",
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "file": "destinations/canada.json"
+    },
+    {
+      "key": "chile",
+      "name": "Chile",
+      "flag": "🇨🇱",
+      "file": "destinations/chile.json"
+    },
+    {
       "key": "china",
       "name": "China",
       "flag": "🇨🇳",
       "file": "destinations/china.json"
+    },
+    {
+      "key": "colombia",
+      "name": "Colombia",
+      "flag": "🇨🇴",
+      "file": "destinations/colombia.json"
+    },
+    {
+      "key": "costa-rica",
+      "name": "Costa Rica",
+      "flag": "🇨🇷",
+      "file": "destinations/costa-rica.json"
     },
     {
       "key": "croatia",
@@ -50,10 +116,28 @@
       "file": "destinations/europe-ski.json"
     },
     {
+      "key": "fiji",
+      "name": "Fiji",
+      "flag": "🇫🇯",
+      "file": "destinations/fiji.json"
+    },
+    {
+      "key": "finland",
+      "name": "Finland",
+      "flag": "🇫🇮",
+      "file": "destinations/finland.json"
+    },
+    {
       "key": "france",
       "name": "France",
       "flag": "🇫🇷",
       "file": "destinations/france.json"
+    },
+    {
+      "key": "french-polynesia",
+      "name": "French Polynesia",
+      "flag": "🇵🇫",
+      "file": "destinations/french-polynesia.json"
     },
     {
       "key": "germany",
@@ -74,10 +158,28 @@
       "file": "destinations/greece.json"
     },
     {
+      "key": "guyana",
+      "name": "Guyana",
+      "flag": "🇬🇾",
+      "file": "destinations/guyana.json"
+    },
+    {
       "key": "iceland",
       "name": "Iceland",
       "flag": "🇮🇸",
       "file": "destinations/iceland.json"
+    },
+    {
+      "key": "india",
+      "name": "India",
+      "flag": "🇮🇳",
+      "file": "destinations/india.json"
+    },
+    {
+      "key": "indonesia",
+      "name": "Indonesia",
+      "flag": "🇮🇩",
+      "file": "destinations/indonesia.json"
     },
     {
       "key": "ireland",
@@ -104,6 +206,36 @@
       "file": "destinations/korea.json"
     },
     {
+      "key": "latvia",
+      "name": "Latvia",
+      "flag": "🇱🇻",
+      "file": "destinations/latvia.json"
+    },
+    {
+      "key": "malaysia",
+      "name": "Malaysia",
+      "flag": "🇲🇾",
+      "file": "destinations/malaysia.json"
+    },
+    {
+      "key": "maldives",
+      "name": "Maldives",
+      "flag": "🇲🇻",
+      "file": "destinations/maldives.json"
+    },
+    {
+      "key": "malta",
+      "name": "Malta",
+      "flag": "🇲🇹",
+      "file": "destinations/malta.json"
+    },
+    {
+      "key": "mauritius",
+      "name": "Mauritius",
+      "flag": "🇲🇺",
+      "file": "destinations/mauritius.json"
+    },
+    {
       "key": "mexico",
       "name": "Mexico",
       "flag": "🇲🇽",
@@ -122,10 +254,34 @@
       "file": "destinations/morocco.json"
     },
     {
+      "key": "mozambique",
+      "name": "Mozambique",
+      "flag": "🇲🇿",
+      "file": "destinations/mozambique.json"
+    },
+    {
+      "key": "namibia",
+      "name": "Namibia",
+      "flag": "🇳🇦",
+      "file": "destinations/namibia.json"
+    },
+    {
+      "key": "nepal",
+      "name": "Nepal",
+      "flag": "🇳🇵",
+      "file": "destinations/nepal.json"
+    },
+    {
       "key": "netherlands",
       "name": "Netherlands",
       "flag": "🇳🇱",
       "file": "destinations/netherlands.json"
+    },
+    {
+      "key": "new-zealand",
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "file": "destinations/new-zealand.json"
     },
     {
       "key": "norway",
@@ -134,10 +290,28 @@
       "file": "destinations/norway.json"
     },
     {
+      "key": "oman",
+      "name": "Oman",
+      "flag": "🇴🇲",
+      "file": "destinations/oman.json"
+    },
+    {
+      "key": "panama",
+      "name": "Panama",
+      "flag": "🇵🇦",
+      "file": "destinations/panama.json"
+    },
+    {
       "key": "peru",
       "name": "Peru",
       "flag": "🇵🇪",
       "file": "destinations/peru.json"
+    },
+    {
+      "key": "philippines",
+      "name": "Philippines",
+      "flag": "🇵🇭",
+      "file": "destinations/philippines.json"
     },
     {
       "key": "portugal",
@@ -146,10 +320,34 @@
       "file": "destinations/portugal.json"
     },
     {
+      "key": "romania",
+      "name": "Romania",
+      "flag": "🇷🇴",
+      "file": "destinations/romania.json"
+    },
+    {
+      "key": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "file": "destinations/saudi-arabia.json"
+    },
+    {
+      "key": "seychelles",
+      "name": "Seychelles",
+      "flag": "🇸🇨",
+      "file": "destinations/seychelles.json"
+    },
+    {
       "key": "singapore",
       "name": "Singapore",
       "flag": "🇸🇬",
       "file": "destinations/singapore.json"
+    },
+    {
+      "key": "slovenia",
+      "name": "Slovenia",
+      "flag": "🇸🇮",
+      "file": "destinations/slovenia.json"
     },
     {
       "key": "south_africa",
@@ -158,10 +356,22 @@
       "file": "destinations/south_africa.json"
     },
     {
+      "key": "south-africa",
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "file": "destinations/south-africa.json"
+    },
+    {
       "key": "spain",
       "name": "Spain",
       "flag": "🇪🇸",
       "file": "destinations/spain.json"
+    },
+    {
+      "key": "sri-lanka",
+      "name": "Sri Lanka",
+      "flag": "🇱🇰",
+      "file": "destinations/sri-lanka.json"
     },
     {
       "key": "sweden",
@@ -198,6 +408,18 @@
       "name": "Turkey",
       "flag": "🇹🇷",
       "file": "destinations/turkey.json"
+    },
+    {
+      "key": "turks-and-caicos",
+      "name": "Turks & Caicos",
+      "flag": "🇹🇨",
+      "file": "destinations/turks-and-caicos.json"
+    },
+    {
+      "key": "uganda",
+      "name": "Uganda",
+      "flag": "🇺🇬",
+      "file": "destinations/uganda.json"
     },
     {
       "key": "uae",

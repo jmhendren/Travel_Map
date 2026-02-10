@@ -1,0 +1,120 @@
+{
+  "key": "new-zealand",
+  "name": "New Zealand",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇳🇿",
+  "defaultCenter": [
+    -43.0791,
+    171.3345
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Minaret Station",
+      "desc": "Helicopter-only luxury chalets in glacial valley with fine dining and Fiordland adventures",
+      "longDesc": "Helicopter-only access to chalets set in a remote glacial valley, paired with fine dining and Fiordland adventures.",
+      "coord": [
+        -44.7235617,
+        169.2445282
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7357701384565404796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJQaCWO_BL1akRfLRrLm3OG2Y",
+      "address": "10 Lloyd Dunn Avenue, Wānaka 9343, New Zealand",
+      "rating": 5,
+      "ratingCount": 8,
+      "website": "http://www.minaretstation.com/",
+      "photoRef": "places/ChIJQaCWO_BL1akRfLRrLm3OG2Y/photos/AcnlKN3rrxhRWnK4g9rn2vZYRH9P1isRCj1kDdcXy90TOScnno9Scm-N63XwX3aavj3FbfEEXjlsMXeWiAmW9PBOUDESM3BdUbnc1sTJvkSkt7dwWtHdQndcRpoFk7lRasDE_0sOdVZHNkJzKsfG6txJspc9YUoCLcDmkN5EsnG5oEhPGMV9KxbZ7-2EYKyGQfkdB6UyOZxVkhSUDk0h1myzvP5GtGqA_Cn7d89V1TDezlP0JsBUV-K2UKQ5q8cbzJ8IlHNpS1OPIjZz-QZRiqfewfE-62m86vRRejpf0SxcWmMj8Q",
+      "photoAttribution": "Minaret Station Alpine Lodge",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Fine Dining",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ],
+      "phone": "03 443 5860"
+    },
+    {
+      "name": "ROKI Collection Queenstown",
+      "desc": "Luxury hideaway lodge, scenic New Zealand setting, elevated retreat",
+      "longDesc": "An exquisite luxury lodge in Queenstown offering an elevated holiday experience with curated comfort and stunning natural surroundings.",
+      "coord": [
+        -45.0340898,
+        168.6549804
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11382629040798041888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJKwroWCId1akRIAfQCs44950",
+      "address": "2 Brunswick Street, Queenstown 9300, New Zealand",
+      "rating": 5,
+      "ratingCount": 23,
+      "website": "http://www.roki-collection.com/",
+      "photoRef": "places/ChIJKwroWCId1akRIAfQCs44950/photos/AcnlKN2lHdN-ENiy_49oIsmrY2KJ2nw7oBINmYnvBUPBE4l-FGjhJmWZD53VJKeALxjdXwXyuNob8V8L61VL-LITGzXvxLde6sNG9zdjqfYFUOi2N5xExkFQ5Nf3E12NxWZJ2OfLfi4eMaXBw2PKvi3mlB6rUG57C02_8mmR4MfChDNHXEUMC9tNcWb5sq8KhND5vMkqeVk7Myzt6gPKx1XySYfFIuXdwASMCFgOZXRjUdKCiQdmqhXGqJNpI3KDMNVDbzOqSZwbf8oZU2MIf_xbsr44JgsG2qmI9kE-U8UZ1nfM7w",
+      "photoAttribution": "Roki Collection",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "03 442 4112"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "New Zealand Alpine Valleys",
+      "desc": "Alpine valley silence feels like architecture, helicopter access, extreme remoteness",
+      "longDesc": "In New Zealand's alpine valleys, the silence after the helicopter lifts away feels like part of the surrounding architecture itself.",
+      "coord": [
+        -39.479747599999996,
+        176.1040279
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6446193933279144509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ5ybQB8Mlam0RPaphmjp7dVk",
+      "address": "Taihape-Napier Road Moawhango, Taihape 4792, New Zealand",
+      "rating": 4.7,
+      "ratingCount": 14,
+      "website": "http://www.alpinehunting.com/",
+      "photoRef": "places/ChIJ5ybQB8Mlam0RPaphmjp7dVk/photos/AcnlKN1E3F4MQL70IdgldaHHDzC5pYAYSmmcctKxnkSAeaaeoSx6iFJL23CRcqIsELF1uGZynRowz3md-G-zm0ogDMQoqGgSa9eBWzq_qwTfj47u9DswjoEMDmZyNsOaCfD5yI4vtYxpTbUgnAAkw4CgPsQHyl_2r3AE4hr06WtzooeXEslyWkrS_SsWVE3EOFxStDus7uxbWPi9SVEcPtqqKuTCJ0EIbm4-QN_p6AgipZgUdgfpOOysyvYwzwZXqotmp-4YTmGIOxqQCpsRnr6XZFHdPWNrGt6u3DMFYfdlkbWm2g",
+      "photoAttribution": "Alpine Hunting New Zealand",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "06 388 1344"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Fiordland": [
+      -44.7236,
+      169.2445,
+      0.03
+    ],
+    "Queenstown": [
+      -45.0341,
+      168.655,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

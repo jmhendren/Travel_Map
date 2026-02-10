@@ -2107,6 +2107,234 @@
       "website": "https://www.marriott.com/en-us/hotels/listi-the-ivens-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
       "photoRef": "places/ChIJ_erly340GQ0RVmVT1rEiJvk/photos/AcnlKN2SfZw5EYSVd_rAYh3XM9XZ1JUGs2ZnzM6b0tl4ERu-_y355RZVgMbS_NbMed2t7suw-_DRkHVun1pMT3hgHQHedOMCWeD1rVrfKT8soL5GVW0yHvVy_LiaFaaOMom0WxhOiKmxLvycFTSgVo2dpgkevSUw8Ktk9fS1slAAS9HWVtk751ZA9R3fLPnynMjhkkyoKCcw3zKIhyCC3GSUDMdKYGnwk4rO_53YcHXwN4sAqOpAO_7JiLO6k__Bimb-B-5Tb8fbrV4JfpMVPbPT5tKBAx_1lXetnr10ECwP3l4Fdg",
       "photoAttribution": "The Ivens, Autograph Collection"
+    },
+    {
+      "name": "Oceanfront Villa - Ribeira Brava",
+      "desc": "High-tech oceanfront villa with dual pools, gardens, rooftop stargazing deck, perfect for families",
+      "longDesc": "State-of-the-art oceanfront villa designed for families, featuring infinity and children's pools, lush gardens, stargazing rooftop, and a sky-lit library overlooking dramatic seas.",
+      "coord": [
+        32.6716362,
+        -17.0600095
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12926501739242965141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzxz-mAZZYAwRlcgLJNgoZLM",
+      "address": "Estr. do Moreno N° 40, 9350-105 Ribeira Brava, Portugal",
+      "rating": 4.5,
+      "ratingCount": 11,
+      "website": "https://www.atlanticholidayrentals.com/",
+      "photoRef": "places/ChIJzxz-mAZZYAwRlcgLJNgoZLM/photos/AcnlKN0GnzWievoC3ULSS4veZdZIVRhisbP8ekydp5rQoL5N3pCNA7eX5U04vNN5jdSPXlbFA1vpL5r0fIRNI9l_GJBeXPlP_c3Q6DKQ_EsUodRqcFo3t1JzZWu3Ilpfe07gm7QaX9EENET-nNqgI_hSfs_CmW2Tck0oa-WusKVAbXo8vVD1PXloA6C1ATtN6p_NMo8iYU1M_HLYxkmmy4ew5wEIvvKW-SA8GBNpJh2UyOTySa2Z26ooos5qFtnzZHRusaTuOLGhOfkZt8jywH7LVapGajDUjnZ2NsECfPTxgdrH2w",
+      "photoAttribution": "Villa Ocean Haven by Atlantic Holiday",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Photography Worthy",
+        "Toddler Friendly"
+      ],
+      "phone": "926 614 444"
+    },
+    {
+      "name": "Palácio de Tavira",
+      "desc": "Boutique rooftop palace, two pools, spa, walkable old-town location",
+      "longDesc": "A newly opened 36-room rooftop hotel blending white-walled Moorish architecture with quiet luxury. Two skyline pools, full spa, and Mediterranean dining in the heart of historic Tavira.",
+      "coord": [
+        37.1283519,
+        -7.6493687999999995
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17892563327512014189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ7RgKr_4DEA0Rbe2IKYwnT_g",
+      "address": "Praça Dr. António Padinha n° 35 e 37, 8800-637 Tavira, Portugal",
+      "rating": 4.7,
+      "ratingCount": 31,
+      "website": "https://www.palaciodetavira.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_profile&utm_content=website",
+      "photoRef": "places/ChIJ7RgKr_4DEA0Rbe2IKYwnT_g/photos/AcnlKN1rVrP_yM5Wx7tdfKt0VgcQ2yBzmPD0HFqYrnLkA-4-XdeIc3EkYe9eMTxFJwjxA-H3ecFmUuSirGChRE_w4X_ZXJcRxq2kISSuWt3FT853r0gjVEdkOxxfSwoNNEJVpAmHddXY6jTP89EDED_XeJ0YhVYmW7-PnFS--g9ZlLqRvLA7yNxZwQTYTneu3E1xFlE_mGct_NNl1YwN0e6nWqUnc7ncdmLK3sjiTJRhHmHMzkSYVgMt5ULPV6DMJjek2ksI87UlZy-rka16q_7z940i2-_OP76aBWQkUnrkj1mRFw",
+      "photoAttribution": "Palácio de Tavira",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "phone": "281 512 600"
+    },
+    {
+      "name": "The Blanco Bungalow",
+      "desc": "Seaside ranch resort with farm, spa, pool, natural wine shop, ponies",
+      "longDesc": "A charming 2-acre seaside ranch in Portugal's World Surfing Reserve offering rustic farmhouse accommodations, natural wine experiences, and coastal tranquility.",
+      "coord": [
+        39.059781,
+        -9.4090217
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8429687062929270633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJfVia8hglHw0RaeeaqbhD_HQ",
+      "address": "R. Bairro da Quinta 34, Assenta, 2560-191 São Pedro da Cadeira, Portugal",
+      "rating": 4.9,
+      "ratingCount": 25,
+      "website": "https://www.blancobungalow.com/",
+      "photoRef": "places/ChIJfVia8hglHw0RaeeaqbhD_HQ/photos/AcnlKN0fcZsARdXYfAeb6S2M_iq7B7d9YjxyODpx22BKUWDtzQjMROu6VkJ0M18ZVfnfqgbNRkUDXzI6PiFJI0W5MyKukms5Lcnxnd0iefVmj5jbIk4t3vtxrqudFgBro9s2MD5f5QqBtAY2tpB7iffNufdNASst5UIsGWDX2N-Z-pWBSCF5qwrmIKQxWWZih0XuFJz3e-VbMn2h-stTsTBEfS7wG_HR5N-SmkNrjH2wL49Ga3pIwoRvMc4kbSrKdilNaLrIu2wPt9dnHDzvKJERlRfSVkPikCwC929PiHEeJAnqHw",
+      "photoAttribution": "Blanco Bungalow Ericeira",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "NA PRAIA",
+      "desc": "Luxury resort between Atlantic and estuary, minimalist design, preserved nature sanctuary, opening Spring 2026",
+      "longDesc": "Set between the Atlantic and Sado Estuary in Comporta, NA PRAIA is a coastal sanctuary blending paired-back luxury with architectural excellence, honoring Portugal's raw beauty across 340 preserved hectares.",
+      "coord": [
+        38.3809097,
+        -8.8035364
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15927812080314776498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJg1quPOZgGQ0RsntWqLL0Ct0",
+      "address": "Praia da, 7570-789 Comporta, Portugal",
+      "rating": 4.6,
+      "ratingCount": 15075,
+      "website": "https://www.cm-grandola.pt/pages/536",
+      "photoRef": "places/ChIJg1quPOZgGQ0RsntWqLL0Ct0/photos/AcnlKN0SvdX5ACmUQ6mkCupb6BU3BaDcxmJzNpjo4gNFWlvoQ9ClZHxqxownZoYmwKzoq_gL675dndpfORhQsSSdDygzvikDuEcmNVXBjF1mVvD4c4_F1Er2dh-CiEDKXJCRrzH7gwrx34pX09p48TO50C1t0-_-CT_3YH9zivxIOEp2SWAJdf8oPMIOch8z0m3c9HJc-5E21IMPVtQG7TY3Ig5pXIbZcDZ1J_FtqWglfvtf3ZGDckS6hiDZ0HUxvxFy5pVxHXGoDiaIPcDrk3Hzw2AaCO-rDTr655hKNrkQQyRXX0o0jyq-41Ct3Mjbz9RvN150fFuveD6iAlV6UdreKheyjORw1Opo-DWL6TqbISPWJmUbXhwdjEkEjcVhZHyfnXJ_7eyry-RPvfjDTa4ZyDXpsUSpSI9RmNMuZWH1nCC_Zw",
+      "photoAttribution": "Aurelio de Cespedes (ACC003)",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa",
+        "Fine Dining"
+      ]
+    },
+    {
+      "name": "Palácio Príncipe Real",
+      "desc": "Luxury pink palace, fine dining, cocktails, elegant accommodations",
+      "longDesc": "The iconic Pink Palace offers luxury accommodations in Lisbon with elegant dining, sophisticated cocktails, and refined Portuguese hospitality in a striking architectural landmark.",
+      "coord": [
+        38.715871799999995,
+        -9.1506735
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10596648582446713806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJp0ilx6wzGQ0RzgtiBr7bDpM",
+      "address": "R. de São Marçal 77, 1200-419 Lisboa, Portugal",
+      "rating": 4.9,
+      "ratingCount": 144,
+      "website": "http://www.palacioprincipereal.com/",
+      "photoRef": "places/ChIJp0ilx6wzGQ0RzgtiBr7bDpM/photos/AcnlKN3RIIVDjKJ6r_OJnq7WDPjA86_bgAka4TQ_pE-CeF7i5P30pLhCjJI15xsEVi6XwWZ0B-8QNSZtESjsLTv-P7jKFU--LIj_pKGu6Jp9CaCtDqqy2LBDnvMoyi32mrXYUCRci8aNw94nvHgxLY-3bS7cyps3oZdR0kFwYpae9DyU_klSHtSGCpFoDoO0nu1ySLdC4Zy45YPTdqih_ycIrCXx8JhEPc9P4izU5blCy_IG3czCyYXoieCJ0-fHzxVhldudjTZvj-CClMLWH728Z5wqOg3tkfsALmqcor5HmnBlkw",
+      "photoAttribution": "Palácio Príncipe Real",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Fine Dining",
+        "Cocktails & Bars"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "21 879 2000"
+    },
+    {
+      "name": "Quinta da Côrte",
+      "desc": "Portuguese wine estate in Douro Valley, terraced vineyards, scenic valley setting",
+      "longDesc": "A picturesque Portuguese wine estate nestled in the Douro Valley, featuring terraced vineyards and breathtaking views of Portugal's wine country.",
+      "coord": [
+        41.1618628,
+        -7.5466703
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=259165892518840724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJZ-I9jedbOw0RlIl7kQG-mAM",
+      "address": "Q.ta da Corte, 5120-491 Tabuaço, Portugal",
+      "rating": 4.8,
+      "ratingCount": 151,
+      "website": "https://quintadacorte.com/pt-pt/",
+      "photoRef": "places/ChIJZ-I9jedbOw0RlIl7kQG-mAM/photos/AcnlKN0koEUXTXwjcDEVKPF8kYY2MTmGoafb_zH9WcbRyOFi9NXHErilT_pV2ekobZ0BQR7EJhRPyIifF0xW76FAL53K5-zR5S8k_SJCpzsd0oEeuqgLj9zDmj953YHFO0g6lUjVhQbgvcYw5hNmobiSyarYRbc0kwvMacRN3T60Ac0YfDPoJJnRZ8go5REVUzoLXpCMw9jaNPLiyI43aziiqPVfuBqOBVDHJaoBs1M-D7uN6dfzMWCvOBVANsK4lLvrCDL69iEsFY70Rnh7Wu-kxZLRZpQnmt4Iw2cVT6rxPR7oEySw_78FKCp9rKvQ3ASGvwFUWpYNvyYgpQW3T8JpoVeSucEm_hmSnt2tmLfIUp854lK0g8oUrHcJxw-oDF7tjmbVgHm3MM_OMiaTl1VQ5bT3bSbfGNQnG6jSCexpRkO_IY0Z",
+      "photoAttribution": "Celine R",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ],
+      "phone": "964 536 200"
+    },
+    {
+      "name": "Herdade do Ananás",
+      "desc": "Portuguese wine estate on São Miguel Island, Azores vineyard, island wines",
+      "longDesc": "An exclusive Portuguese wine estate on São Miguel Island in the Azores, showcasing unique island terroir and distinctive Azorean wine production.",
+      "coord": [
+        37.7539198,
+        -25.643043
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14864093303577604855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJU5dEUDzVXAsR93IBNBveR84",
+      "address": "Canada dos Prestes de Cima, 21 São Roque, 9500-450 São Roque, Portugal",
+      "rating": 4.8,
+      "ratingCount": 407,
+      "website": "http://www.herdadedoananas.com/",
+      "photoRef": "places/ChIJU5dEUDzVXAsR93IBNBveR84/photos/AcnlKN2jaaaFprLgmbWpE9_HS47IC5cnSF3AK6o9DjR1o5KLALpcHNHRpJh6_WhYkf_EejunWcd03tghHDGzf_l-MekfK3YxroasvhVRkQQNkRm4RkaEyi65NnkNDe5pTY2Z4a6IyZbGwF0WRiFAKVI2susMj1jcKrIrAUXpymYHrh8Yi2BGsJC_i_HNq5qVFvnMk38V9JZb7L0SB7K6G8y_vvfXoX5kZSp629p7AYBdAkOlVRvyDZpfX32yPUWUhIEJXVoEyWF2opg7VPUtqmWM3DaeZ--qIC3tDKQCTqesGTlzlA",
+      "photoAttribution": "Herdade do Ananás",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "919 293 000"
+    },
+    {
+      "name": "Comporta",
+      "desc": "Barefoot glamour, coastal elegance, relaxed luxury vibes, pristine beaches",
+      "longDesc": "An exclusive Portuguese coastal destination celebrated for its effortless barefoot glamour and sophisticated relaxed luxury amidst unspoiled natural beauty.",
+      "coord": [
+        38.3815245,
+        -8.7855323
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=948999882491349649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJZc5IQhlhGQ0RkcrId12GKw0",
+      "address": "7580 Comporta, Portugal",
+      "website": "",
+      "photoRef": "places/ChIJZc5IQhlhGQ0RkcrId12GKw0/photos/AcnlKN3b0Qgte1Y-mUC7iHl_cEZ9MlXKSbkYyGfo09iR7erw4Sy3iHdtUBh880BjojlAuiwiT_tnV-hBHmym9yV4B3RPxp4mYNo-4TAMy-zgqDMH9GlsTwKlS6pdRYE5Di86urBO3FKW_fCNC-Xji3RwHxKq97VX2x03Lxq_nHC473tKAAMhz6sM9DMAEI0UPQAqqqU0QarkX3H7rGu2iroixrUeFnUUMyCMYKyQiINsiQjRx7INpBcb6zCBx7amQ7vz8bwyl58e3I7jsmZ6SheSESMDOZ2l1xOm5zSY9GwQKwgZGCgknLvglT3eH50ykK-YhbuqhAqIPWHCmWULN8fyfNsGRNhSPwkfZfkmjoEO5gwMPqXF4twkh7xZ9Lvv8deQC8E6wl6b9qimL3HIBv8mFRdpv4QgZE8coIMpxkXCOd57Iqnz",
+      "photoAttribution": "Marian A",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Casa de São Lourenço - Burel Mountain Hotels",
+      "desc": "Boutique mountain hotel, cozy ambiance, traditional Portuguese charm, snowy season stays",
+      "longDesc": "A charming mountain boutique hotel offering cozy accommodations within Serra da Estrela's stunning snowy landscape and traditional stone villages.",
+      "coord": [
+        40.4187376,
+        -7.5398494000000005
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11239384429656546591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJPx8BmdPZPA0RHx28B5dQ-ps",
+      "address": "N232, Km 49.3, 6260-200 Manteigas, Portugal",
+      "rating": 4.7,
+      "ratingCount": 563,
+      "website": "https://casadesaolourenco.pt/",
+      "photoRef": "places/ChIJPx8BmdPZPA0RHx28B5dQ-ps/photos/AcnlKN1FG4daXL_gkf94hi_vtuzM_lPVdVfEYAjG-W367f40sR26Arf9CvrHgZBcf5vzcdGSCtzY36WI82aQaYGjOaDBinQqGgUziL6kArefFQiUelH1bKYGpz6bH29f5QwnMBsTAj5PgZc3en4cPG7oxMiKUtOv52ua9i9ae73kHyjg1o0ftaY7RPiNmi0aiVMkKA5SpYd6ICWVf3Y8SWl_jyIK1utjLTkjUW-xv9z9T6G6dbtWNAucxe_X8a6SsYPMlHl_j_H2SN4mdVUNOxW8o2-wVA5-fOf7RrMvKrE-HqIS8g",
+      "photoAttribution": "Casa de São Lourenço / Burel Panorama Hotel",
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Photography Worthy"
+      ],
+      "phone": "275 249 730"
     }
   ],
   "restaurants": [
@@ -4690,6 +4918,187 @@
         "Saturday: 12:00 PM – 12:00 AM",
         "Sunday: 12:00 PM – 12:00 AM"
       ]
+    },
+    {
+      "name": "Cache Comporta",
+      "desc": "Beachfront cocktails and shared plates, perfect sunset dining destination",
+      "longDesc": "A stylish beachfront restaurant and cocktail bar offering expertly crafted drinks and shareable cuisine in the charming coastal village of Comporta, ideal for sunset gatherings.",
+      "coord": [
+        38.2937842,
+        -8.776681199999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9092176175594759481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJsdgmSGvfGw0ROWWYLQ_mLX4",
+      "address": "Alameda da Praia do Pego, 7570-783 Grândola, Portugal",
+      "rating": 4.2,
+      "ratingCount": 41,
+      "website": "https://bookings.zenchef.com/results?rid=376576&pid=1001&fbclid=PAQ0xDSwK05GJleHRuA2FlbQIxMAABp-zbOtPTYAzBSyp5Qk93HrflMjFAkQ-QgE1CcgE5abYlsRQCZQ1S2IHQWlG3_aem_i9AUlfnqBOl1HCQ1S_G3cQ",
+      "photoRef": "places/ChIJsdgmSGvfGw0ROWWYLQ_mLX4/photos/AcnlKN0oJ75cPpyfuhXl88XwLIcwEkCcUHhF0835hA7zScWWYQ58hp6b6f7n7A2DY28qZwT3JkTUMXhXtODdZ3-l5e0HyxpqBS73soaDa_kuUv7hv5ELEQCx_ZJe_58mSYKz871_8TX129uNZncVi2RfiD1C87kl299bVy8RO2-romKdBkIvQuaovEDMB9InTcTboImH2-mEqUI0K1mFV7QLY8slew-JP7AhIb4B-D8kMQI-glyYDJc4lZrjj7DAcDBw95OGZ0Ugg5SEV5Zr8jo5pMI4aIu5IUzAcI8chr6kJ8ii1A",
+      "photoAttribution": "Caché Comporta",
+      "tags": [
+        "Cocktails & Bars",
+        "Good for Dinner",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "933 096 490"
+    },
+    {
+      "name": "Armação Beach Club at Vila Vita Parc Resort",
+      "desc": "Beachside dining and dancing, vibrant nightlife, resort luxury",
+      "longDesc": "A vibrant beachside venue combining fine dining and dancing with stunning coastal views and resort elegance.",
+      "coord": [
+        37.1018506,
+        -8.379326599999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5898889059431988042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX4iNCUTRGg0RSrvhjFgQ3VE",
+      "address": "R. Anneliese Pohl, Alporchinhos, 8400-450 Porches, Portugal",
+      "rating": 4.8,
+      "ratingCount": 2808,
+      "website": "https://vilavitaparc.com/",
+      "photoRef": "places/ChIJX4iNCUTRGg0RSrvhjFgQ3VE/photos/AcnlKN01tGRdtpPDzd3u5DUhI_1E-rRq0Jii6Q5nSXEMmVj60a01dSxkBgyU8pUjSpuAds8m0Yz7QN0kAe3AT4iga2njt0eUfdEhpm1R-mf2KyVsxo6Vjtshn9X87zl7gY7170YtA9naL-89FZJarqvOdjj64_gYR0rXTpnY_1YwX-CU6R6wGQItlmevlLZ9L1pxDS_cKNf6TnQCz55V6jZ1xD4anDsYdYv9jfd9SG0civolS_wO5_N5dgsANgJ1ZatwShJOjCMV74ewtmaBlCclUPowME8s2laqGeK2aUm64m7f7Q",
+      "photoAttribution": "Vila Vita Parc",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Nightlife",
+        "Good for Dinner",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "282 310 100"
+    },
+    {
+      "name": "Cacé Comporta",
+      "desc": "Beachfront restaurant-bar, signature cocktails, shared plates, relaxed elegance",
+      "longDesc": "A charming beachfront destination in Comporta serving expertly crafted cocktails and shareable cuisine in a laid-back yet refined setting.",
+      "coord": [
+        38.3815202,
+        -8.803412699999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9275354099697104186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJA6EUAudgGQ0ROrVoJmmtuIA",
+      "address": "Praia da Comporta, 7580-621 Comporta, Portugal",
+      "rating": 4.2,
+      "ratingCount": 1655,
+      "website": "http://www.comportacafe.pt/",
+      "photoRef": "places/ChIJA6EUAudgGQ0ROrVoJmmtuIA/photos/AcnlKN2-UwB0zHM5xqslT7_Un4wIwLPr3p3i0cc1IBDJUIEjjetqh6a3wZ_wrcKLuA5AgFHd5oHXGWd3BH0p_f1gpSfjJqNbi5X8cPurODvsDfI26_pSJgu5D7noRGoDcQPIydO3Aca7ErwrAloce55SUkDasZFutL5FyXWI8mqj0ajLL70Q--9s4I9yhtilCh9IMkCOuFbFIWuzHM68U34mGggXs3kbwKxoRZ-Thr44KSdQ7e9yNJRbtpQbt7FG6_rus9YwVmrZoG8jBT6FmxcQKTwyeterVKAIFGlupydrTuNYEg",
+      "photoAttribution": "Comporta Café Beach Club",
+      "tags": [
+        "Photography Worthy",
+        "Cocktails & Bars",
+        "Good for Dinner",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:30 – 7:00 PM",
+        "Wednesday: 12:30 – 7:00 PM",
+        "Thursday: 12:30 – 7:00 PM",
+        "Friday: 12:30 – 7:00 PM",
+        "Saturday: 12:30 – 7:00 PM",
+        "Sunday: 12:30 – 7:00 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "phone": "933 976 520"
+    },
+    {
+      "name": "Mirsal",
+      "desc": "Mediterranean restaurant, Algarve-inspired cuisine, hotel dining",
+      "longDesc": "The hotel's signature Mediterranean restaurant celebrating local Algarve ingredients and flavors with refined coastal cuisine.",
+      "coord": [
+        37.1283519,
+        -7.6493687999999995
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6982867261489975396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJJyTnxpIDEA0RZJDQCscg6GA",
+      "address": "Praça Dr. António Padinha n° 35 e 37, 8800-637 Tavira, Portugal",
+      "rating": 4.9,
+      "ratingCount": 39,
+      "website": "https://www.palaciodetavira.com/gastronomy?utm_source=google&utm_medium=organic&utm_campaign=gmb_profile&utm_content=website&utm_term=",
+      "photoRef": "places/ChIJJyTnxpIDEA0RZJDQCscg6GA/photos/AcnlKN3yhQmCdL8-U7B1dWNkzBT8guCl9Mbp5ZGrrF0OWa6m5Ni42VA6jiZDG0dob8TxkHj-tjyCwMkIpaH64y6qmUr0pD7S5rzDZX8JPEeJI5hINv_ToktgO20lDX2RXcOIItFskQbpykfpLhplyFbHiZ0T28FpR-cUjhYkIWk7CTOBWbhaO_SYTy6FikxHRXR5X8JdUcZSAPW4T1GaVrrM9qGjnb216WKRoQOwZXTP6hSc9JD4ooxtaGRh9qgrhjgIPViXOaDuuj_N_V7VmoSQYIdzW-ZYilTUu1A8X2N_x-ndxQ",
+      "photoAttribution": "Mirsal Restaurant",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "hours": [
+        "Monday: 12:30 – 3:00 PM, 6:00 – 9:30 PM",
+        "Tuesday: 12:30 – 3:00 PM, 6:00 – 9:30 PM",
+        "Wednesday: 12:30 – 3:00 PM, 6:00 – 9:30 PM",
+        "Thursday: 12:30 – 3:00 PM, 6:00 – 9:30 PM",
+        "Friday: 12:30 – 3:00 PM, 6:00 – 9:30 PM",
+        "Saturday: 12:30 – 3:00 PM, 6:00 – 9:30 PM",
+        "Sunday: 12:30 – 3:00 PM, 6:00 – 9:30 PM"
+      ],
+      "phone": "281 512 600"
+    },
+    {
+      "name": "Bar da Lua",
+      "desc": "Rooftop cocktail bar, slow drinks, evening ambiance",
+      "longDesc": "An intimate rooftop bar serving carefully crafted cocktails perfect for unhurried evenings under the Algarve sky.",
+      "coord": [
+        37.114033,
+        -7.690478
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8564047487458840913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJx_fw9ksBEA0RUZGPydCb2XY",
+      "address": "Bernardinheiro 1622 X, 8800-513 Tavira, Portugal",
+      "rating": 4.9,
+      "ratingCount": 62,
+      "website": "http://www.quintadalua.com.pt/",
+      "photoRef": "places/ChIJx_fw9ksBEA0RUZGPydCb2XY/photos/AcnlKN1sqBiRPe7WmQn9XwXTPsWRuTrtMDUWXsmtKNuL2IARXIN9Om00e2igtS8sF2DFFObLhqUTL88zMATuUDM7fAh0lAK33hUVrRB7JCJDncUQClwuZeFm-ZPSyJtk54IP4I1Mlzz0ZND-7tuZZjxDW5xrksiNJFFhZ8uFtjuNIJ2m6Sca37afLFYvK_hjVDc_Psy4RI6e5I7UJULXGqA0eQKuw3u0wZP3VlRkm-IkBCjZLJo1bXilhrZXypw6HfrpYu8Um2Ef54DZTWRz7G6d-qr5-dWnLEu9x2-nHzRZwS44UVzO0CxC_dZrOxiheUX6AZQE_gac3J8AP97VlinPGt_2Pj36yRSrZMRGbnYoAX8_SINy2otJbNL3598jgoQtqSw2d4frrs7LIIiVWqxPAloLqntIlQfbtUf8W7MPWZBkf50",
+      "photoAttribution": "Carlos Alexandre Branco",
+      "tags": [
+        "Cocktails & Bars",
+        "Romantic",
+        "Nightlife"
+      ],
+      "phone": "964 696 417"
+    },
+    {
+      "name": "Cacimba",
+      "desc": "Beachside cocktails and shared cuisine, welcoming family gatherings",
+      "longDesc": "A charming beachfront venue where families gather for expertly crafted cocktails and shareable plates, creating effortless memories under the Portuguese sun.",
+      "coord": [
+        38.305943299999996,
+        -8.779261499999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11979500101476271508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJTaXoTvHfGw0RlMU_R9-7P6Y",
+      "address": "Alameda da Praia do Carvalhal, 7570-782 Comporta, Portugal",
+      "rating": 4.4,
+      "ratingCount": 1548,
+      "website": "https://sublimecomportabeachclub.com/",
+      "photoRef": "places/ChIJTaXoTvHfGw0RlMU_R9-7P6Y/photos/AcnlKN1flQfHII1QJmnsNU7xrprTV0eJhob89Re0ycQAFx6nzNT-LGI1tbguy5cmn9GKweJydbnggyR4WNZjud3RP27YUiPLDEFtUEYCYd3Oa1d96L7M7bpoToTLjkEBNMdEeW_1sSpg-pn8Kpqt98iFoWfQB-CecbgiZrArfFs9gW7euPPD6VyyFcxT9diCpDUU4DZPulesotTaX5MTIin4R-a1gsi3WsohWM5PccEgUrDkqDH2ol3LxiaPy6-ndM44GjhtqUmgR23McgJ5qXKsL54OqrA-DxxQGgVf81GX6XXSHJ-_VNa9XGtCKwYxliWp7P4HeF1wpDTyNxyKYoej9JR5wl_zU4KxJZxoQ_uITbkk1Z7ri26-B5p-c1lSKZbQ8zSRjjSRy4sCv7oLkhm90slR9oa_nOfnSLi0hBwAoNIvXQ",
+      "photoAttribution": "Bruno Paixão",
+      "tags": [
+        "Family Friendly",
+        "Cocktails & Bars",
+        "Good for Dinner",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 12:30 – 7:00 PM",
+        "Tuesday: 12:30 – 7:00 PM",
+        "Wednesday: 12:30 – 7:00 PM",
+        "Thursday: 12:30 – 7:00 PM",
+        "Friday: 12:30 – 7:00 PM",
+        "Saturday: 12:30 – 7:00 PM",
+        "Sunday: 12:30 – 7:00 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "phone": "21 145 2423"
     }
   ],
   "experiences": [
@@ -7140,6 +7549,153 @@
         "Friday: Open 24 hours",
         "Saturday: Open 24 hours",
         "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Pego Beach",
+      "desc": "Pristine sandy beach with sun and sea, gateway to Comporta's coastal charm",
+      "longDesc": "A beautiful sandy beach near Comporta offering sun-soaked relaxation and scenic coastal views, perfect for a complete beach day experience.",
+      "coord": [
+        38.292767,
+        -8.778591
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1188557478457263046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJV2R2fxDfGw0RxkOUurqafhA",
+      "address": "Praia do Pego, 7570 Grândola, Portugal",
+      "rating": 4.6,
+      "ratingCount": 1968,
+      "website": "http://www.playocean.net/portugal/grandola/praias/praia-do-pego",
+      "photoRef": "places/ChIJV2R2fxDfGw0RxkOUurqafhA/photos/AcnlKN2gKokU_yhhggslNP5uaZF_HfR6sDhc_nUI1f-fvvXYYqu08AGdOIwc9-hIVCBR0P7zTE2OXfewJaLm06aDyRb3oXFGdzy8z5D-dZ-zKxinKJXV-GMTFZdB-lwLF2EhkDa9OiZRRRtoLAd35nXGOCaXg7R-wQEO7Ij6gTna4aKRXO4alju9al2ja3mFppvDn6BUUNvO7xKDrZCem5Zrjt7HBxGyiTHaCcorIuMAsziOwfuZmR6ngp7VSR8WPLk2M2gArGKjahyraWCq10qN_gluZNghcFkBRvYsxZAbY1giyQySfH425zTVdDDUcTtsON8s84USb9wqaDPSwKhpBCkI2KQZXzG1bENEGyd8MN1x6ctyEBnY_KkTnUiZVF8TIu8okOLx_3SV4W-0Vt3ylkiHlsjusjexxYFkfGdkq-cpnBkl",
+      "photoAttribution": "Kattia B",
+      "tags": [
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Made For Spain and Portugal",
+      "desc": "Spain and Portugal, finding the true heart and soul of Iberia",
+      "longDesc": "A service for travellers looking to find the true heart and soul of Spain and Portugal through curated, authentic travel experiences.",
+      "coord": [
+        40.4244906,
+        -3.6818551
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13025126926955231675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ2ef7UYkoQg0Ru7mKE-6LwrQ",
+      "address": "Calle de Castelló, 23, Salamanca, 28001 Madrid, Spain",
+      "rating": 4.7,
+      "ratingCount": 27,
+      "website": "http://www.madeforspainandportugal.com/",
+      "photoRef": "places/ChIJ2ef7UYkoQg0Ru7mKE-6LwrQ/photos/AcnlKN3I_CcY52RtSRydKiAxjTcW1yH6H96PJmiyBzwUAlShSLMRAOd81nrFWopB4wnoKR6265uBAg4qaPSZHlVDCa5z6-63L9s3cpc6eAYjkYRCy6uUIJuJFES2gsw8azZDfSQvdnRa2KOXO1jJ3hOwxO2AYb4D28Fo2Rxl9hXq37XlrLV2mFzXP8WDC9Cpygzn5GqcJuq6cNSYHb3YAuXK-JzBU320chGxqeXP3cHLcGtLxqc2QVJjwnIkVi5yF7mmOvHRej-zkE_7QiyFdSqTpuN2USgjlBzlM_VeXG9Qhri_lw",
+      "photoAttribution": "Made For Spain and Portugal",
+      "tags": [
+        "Splurge",
+        "Cultural & Historical",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "910 63 36 00"
+    },
+    {
+      "name": "Portugal",
+      "desc": "Sunny pre-summer destination, warm Mediterranean climate, budget-friendly",
+      "longDesc": "An excellent pre-summer escape destination offering warm weather, affordable travel options, and abundant sunshine for vitamin D seekers.",
+      "coord": [
+        39.399871999999995,
+        -8.224454
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3078292847809458241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ1SZCvy0kMgsRQfBOHAlLuCo",
+      "address": "Portugal",
+      "website": "http://www.portugal.gov.pt/en.aspx",
+      "photoRef": "places/ChIJ1SZCvy0kMgsRQfBOHAlLuCo/photos/AcnlKN3qU6OUpoYzM5hOba64GzsqIP91JakLJAi6lOIN7Q03UxS8hmaPOHMGf76LofeEPP9fAvcQzO5b3sbN7RQoPcwzaq6Uw8nzT1K6VKWT1Ei9EeTw-JQ4CWG_CnN6SSHdOgwBfI3uu2bOTHtbI0UWNExc33nddaQIgBn_vMr-LsNp_MlPzuGrjJjmrrza9-gbtO6f9r-zc2ugWS8qNsfygWXflymS2nENvYfznmesnidw1Abf_YuUCFvFTe5gKQcjc5vuX69454FO4kk9pGhPN1LoyHWE5CMYg4e4q6LT0eiyV0dBP6QyVYq45ww6b5p5E9cy69P71eGce_kE_qmqeNLauyLacqpBbw2LAVwl_8Mna0aVCKZlgMgyFFERl0Zpj4mQsNnRS_FpO8CBdZtql45tiDDjaZmfMmvnyw_w3TxP1tQC",
+      "photoAttribution": "Andreas Fiedler",
+      "tags": [
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Six Senses Douro Valley",
+      "desc": "Luxury vineyard wellness resort, expert health programs, Douro Valley views, wine country retreat",
+      "longDesc": "A stunning Portuguese wine country resort combining luxury wellness programs with expert practitioners and breathtaking vineyard landscapes for transformative restoration.",
+      "coord": [
+        41.144117400000006,
+        -7.812800999999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11757783191195002049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJUZmnMbytJA0RwaQ8WYQJLKM",
+      "address": "Quinta Vale de Abraão, 5100-758 Samodães, Portugal",
+      "rating": 4.9,
+      "ratingCount": 1770,
+      "website": "https://www.sixsenses.com/en/hotels-resorts/europe/portugal/douro-valley/",
+      "photoRef": "places/ChIJUZmnMbytJA0RwaQ8WYQJLKM/photos/AcnlKN2opMgjcDhFvA8ZrpYXKD5mrY_xq1GoXYG5ZbvawVd8m96-NV3ac91o0unBG9plWiuQ3cXMimB5JXKYXlObv9e6d9XR3_zO-bNm2twBjQRM0_5GcSOpjFe4cd2p23pj2ZojEwJ0uB86NqTQlzt-cByD8G6BPzfPtUg2gufnQAc_YC4sj0eDNmU9Q9U5v5s2tDWy9XKDx7OOnbF9XP609XJEQPZ84Rk--VB0KdYNtsrXK4OBBQwu4AABWAEACyy0rkDTXe6ITq-v3g3Yhsf2Mk0TcXciBkS2r6XuW8CZzdEchg",
+      "photoAttribution": "Six Senses Douro Valley",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "254 660 600"
+    },
+    {
+      "name": "Sintra",
+      "desc": "Fairytale palaces, colorful architecture, lush gardens, magical setting",
+      "longDesc": "Sintra enchants visitors with its iconic colorful Pena Palace, fairytale palaces, and verdant gardens nestled in the Lisbon region's misty hills.",
+      "coord": [
+        38.8028687,
+        -9.3816589
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1393966067328440124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ6Q5Rp8HaHg0RPFcPsMBcWBM",
+      "address": "2710 Sintra, Portugal",
+      "website": "",
+      "photoRef": "places/ChIJ6Q5Rp8HaHg0RPFcPsMBcWBM/photos/AcnlKN0166mxuWsjDmomPJSxI4_Zw0t9zHNkI0jitpDVWGu0n50iulqpMy5DUGYmKWwKwVbRY9qn7VUpxm7Rl-WQJy2aMmzmweuK59y5mcJ_au5XXRV_VwU87NwK2lEzq6DuWl5ZXWvR_8auwW_2rem2DVQjuBmLEluhI-eAkqZ0aNFXTYCbVYkIINL6j3DjDH77WpqsOBLkLt06dvxl2QrT5x2-yLHNl9b8xWFrdxELgWrK_5oLjxOwjeBf2p_UH_JZLzupQztkqj1cVyLOQmLWjoCca85VYoEvJiRpd9aeT2GFo6vrP2auaaorQueQb89qdyvBxTTEHOvK3h13kx1dc0FYrDS_gFWfT7cPig97yri03KqXMu5eThnHMyVY8kzso9oSS2HNuzCXgI6WXrXDzFFarcO7D01N0e2g97TLSHasefHZ",
+      "photoAttribution": "Manuel Nogales",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Family Friendly"
+      ]
+    },
+    {
+      "name": "Madeira",
+      "desc": "Epic hiking trails with jaw-dropping ocean views",
+      "longDesc": "Epic hiking trails wind through dramatic landscapes with jaw-dropping ocean views at every turn, offering unforgettable adventures for outdoor enthusiasts.",
+      "coord": [
+        32.76070740000001,
+        -16.959472299999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=898438883186466415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ7y75-KDpXwwRb166dGfldww",
+      "address": "Madeira, Portugal",
+      "website": "",
+      "photoRef": "places/ChIJ7y75-KDpXwwRb166dGfldww/photos/AcnlKN3sl3GKBZ2Th7tWG01uQrpmfR2YDPeHOPJx060q0UapfV7gl6X1kwVLvfKzfs4JrpRP3MGQTsdAcI84nJRCtBnerVXykKVLEZndAAa5ahpBv9oOvEQHqLlPMoJX8yvryqrrtHIv9Fdk_NpbroGXMV1A4J3u7KjY2ReVfvf8w_gc-YWTTB_GjzU_dBOWPwR9XrvjsavrUgxAM9ih7ZfCSPzJewhGA9sWwlXz4c2adfp4h3_rJv5Gg25yomOJk5tfmcbmBADwc9B8X65D-mwV3390taliz5QTBU0SfqVYAsGeI5cnslWlRQvCX24dxr_Ru3ES2vWJ_9Vi1IdUbQh6rFX3Ew0JAU1DHE_teApOF21zgGEDp6mfVNsnGHfkLbFyJRu_SGiFBQpWo-Q_xDpIARCYjmMmyFA4LKw_N-vpKrH7Sg",
+      "photoAttribution": "Berti im Schlaraffenland",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     }
   ],

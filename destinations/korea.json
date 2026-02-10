@@ -3188,6 +3188,61 @@
         "Local Delicacies",
         "Family Friendly"
       ]
+    },
+    {
+      "name": "Rakkojae Seoul",
+      "desc": "Traditional Korean cuisine, cultural dining, authentic local flavors",
+      "longDesc": "An authentic Korean restaurant serving traditional dishes in an immersive cultural setting that showcases Korea's rich culinary heritage.",
+      "coord": [
+        37.580259399999996,
+        126.98598399999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15314223749701898746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJKzfOLcWifDUR-hHVs1wNh9Q",
+      "address": "218 Gahoe-dong, Jongno District, Seoul, South Korea",
+      "rating": 4.6,
+      "ratingCount": 110,
+      "website": "http://www.rakkojae.com/",
+      "photoRef": "places/ChIJKzfOLcWifDUR-hHVs1wNh9Q/photos/AcnlKN0nUAZsg-QLIXLvtqsjDCgyOWQhO0vlqz1WiAb7DpmyaksufXqExZ7QXUi2JkIK8rJUnhyzukzqKiUlCKsd_OudKiGF2AuwYO0ng0KDbvlQQZqe-T23DMlmnlOlzM-ZoDPBJn-aFgq05M1EpfiAJEm94M1AklqF5-_P2wwDtHRBkVfnu5T3FQ8XRGu0XC_Mp0SO--4Ii8OZ9PZvRQ51rBPBaEXHlLkokeBkvlQxSDEpL3WnkzB7TGKE2CoDoIRq2FPdNvvxbOntfk2dfitO52xOhIXyNxJIYK_n7u_Qi0FngA",
+      "photoAttribution": "락고재 서울 Rakkojae Seoul",
+      "tags": [
+        "Local Delicacies",
+        "Fine Dining",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "phone": "02-742-3410"
+    },
+    {
+      "name": "Bukchon Binkwan",
+      "desc": "Historic Korean restaurant, traditional cuisine, atmospheric hanok location",
+      "longDesc": "A celebrated Korean restaurant housed in a traditional hanok, serving authentic regional dishes in an atmosphere steeped in cultural heritage.",
+      "coord": [
+        37.5822431,
+        126.98422079999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7258808574775479691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ9-LgFh-jfDURi00NoPB3vGQ",
+      "address": "10 Bukchon-ro 11ga-gil, Jongno District, Seoul, South Korea",
+      "rating": 5,
+      "ratingCount": 25,
+      "website": "http://www.rakkojae.com/",
+      "photoRef": "places/ChIJ9-LgFh-jfDURi00NoPB3vGQ/photos/AcnlKN1oRPI1gWlxWddxOXRwTV0LielIA0d7VFBD--dracTz6XKqwD7KcWtoS4nykDSDMw02HIzRz2ha1E6K2d9Me7IRBurL4F-mh4s2eVIr4MwagcMhyt1pNXKWW_KyettO4PmMFtRVFj180mYdkv4h98rE8zem0u1i9RXEZIxWlVFOon2Cnh5FRvgqxSXG2W-yBrU8lKYEovXJSJehboGk--ACwgbq4Pw9tvB9VcX3udKvaSFrbcb2f8a-M76YtfG4ZfbogHHj32EKCTvDfQmxy5o6VsJzkgQ13065w3l0Uywj3Q",
+      "photoAttribution": "Bukchon Binkwan by Rakkojae 북촌빈관 by 락고재",
+      "tags": [
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
+      ],
+      "phone": "02-742-3410"
     }
   ],
   "experiences": [
@@ -4842,6 +4897,236 @@
         "Local Delicacies",
         "Cocktails & Bars",
         "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "Hoan Clinic",
+      "desc": "Premier skin clinic, professional treatments, glass skin expertise",
+      "longDesc": "A top-tier skincare clinic in Seoul specializing in professional treatments and glass skin solutions, recommended by skincare experts and beauty influencers.",
+      "coord": [
+        37.533940099999995,
+        127.00928699999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1963380388536767453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJvU3QAPmjfDUR3dOzmQ9UPxs",
+      "address": "3FL, 78 독서당로 용산구 서울특별시 South Korea",
+      "rating": 5,
+      "ratingCount": 52,
+      "website": "https://hoan.clinic/",
+      "photoRef": "places/ChIJvU3QAPmjfDUR3dOzmQ9UPxs/photos/AcnlKN1ENT7USGJR95XirFIyxR8jnhr2_SD8izIZKPBaR_nF65LK7PugIxQ6oLk2sOmC_5eh0-cxKFddEltAl_-Txh16ln5PpcEJ4nUjhybmpIltRYrW-rE7l9aJLs0GZ9EEgaObt_MCisppCpAWTfL0Cku-8qUySo3cFi57676aLMwPb3Y9i_xBpmFsvEoDQOpHun5cPocOSX6hf8wZgXsOCaVe1BekfGFdB08gjjiCMqUAyg6uO9sH4ARG-UMWd20tRXHlSmk5eAhWma3zmzyYKO2bmKb8Sln1AdEw6pYNFmx5vnu3wHihHoOymMGXony-Bz5Br9w4vOCWEAm9ESiBMsNTLIiZ3d7J-qy3zPBERfYxmbUWPBI2dbCNw97UmWWoBHWZNGREETKajxNQG5i685F1WyEciPmpdLl8wrsrVWrWHYDNtj6yu4f10IxCAkyy",
+      "photoAttribution": "叶升平",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: 11:00 AM – 8:00 PM",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 2:00 – 9:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "02-6497-5050"
+    },
+    {
+      "name": "Dr. Mielle",
+      "desc": "Expert dermatology clinic, professional skincare solutions, specialized treatments",
+      "longDesc": "A specialized dermatology clinic in Seoul offering professional skincare treatments and solutions for achieving glass skin, trusted by beauty professionals.",
+      "coord": [
+        37.5237261,
+        127.04087020000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7060928404009441756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJNdGSCl2lfDUR3NlyGfl0_WE",
+      "address": "South Korea, Seoul, Gangnam District, Dosan-daero, 415 미엘르인청담의원 2층",
+      "rating": 5,
+      "ratingCount": 12,
+      "website": "http://m.mielleclinic.co.kr/",
+      "photoRef": "places/ChIJNdGSCl2lfDUR3NlyGfl0_WE/photos/AcnlKN1Q8RlxOU6C8KRtlPXYUIUwbikyBrM3LxMo6GjyLZSq16I1tE6Qg3MzFRED_aD8Y0hdWFbdTWgC9FquvvsfLhZcbtZCg1nE2sQAU-i_LqkGRJI8HgpijC0jHLRkb4Nu6Fn_ZaNWj0KN7Rl4-tjoPpN-QynEtKiCwUiAcz2jvPxH8fFWJMfldcXfwncXogv5BQAeO85gIRPNSxQOXf7LpvNwBxl2RGwqFMAfQM05JXiuu3YR4YgGApvl48mA_zYQp2Sf7nbTz62kcIscxqimP7KPN6TUAxDTLdYx5B3E40U",
+      "photoAttribution": "미엘르인청담의원 Mielle in Cheongdam clinic",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM",
+        "Tuesday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM",
+        "Friday: 10:00 AM – 1:00 PM, 2:00 – 9:00 PM",
+        "Saturday: 9:00 AM – 1:00 PM, 2:00 – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "02-544-0110"
+    },
+    {
+      "name": "Lien Jang",
+      "desc": "Professional skincare clinic, expert treatments, glass skin specialization",
+      "longDesc": "A renowned skincare clinic in Seoul dedicated to professional beauty treatments and glass skin expertise, recommended by international beauty influencers.",
+      "coord": [
+        37.4984101,
+        127.0266569
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4739517152341690089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ4S42bQejfDUR6YYyML0lxkE",
+      "address": "403 Gangnam-daero, Seocho District, Seoul, South Korea",
+      "rating": 4.6,
+      "ratingCount": 1376,
+      "website": "https://enlienjang.com/book-now/",
+      "photoRef": "places/ChIJ4S42bQejfDUR6YYyML0lxkE/photos/AcnlKN0uOPGb-KMy0xLU8EU6eRks_370pgRbG1TiNDWdQIXtTqro_EMfaP0g30aS7nLlmwjeT7n8LddlMybMUIHySlh4S4A-7oVocQXjg1KXZC51BLFlmji4KPDRa7mO5swiCPbi2PCaJNoGrNwKt2qilQHo-IgUWN-zZObkLgyoCz3RVz-YStiDHa-ZS9zm8oKARBDdl4XDNBNX9FesWN1vk8m039jHApBYLXoL9tcdJhJ22uxcwLEkHF_fKaksafzUl8-2Ia8UAiZjjRZ-8LQSxYt141BdcyR-MX-xaSJRwXTEkTQBdPobSVQLVG6PWX4JMvEmmXRkxydvqnb6z7xAOJZbPnLGBWHuySA8sR1peh0IKeK6sV4O3bYqd7XhQyQBbck7MoVrQpmq9w-i_b8hUdCI8OKiUp8dHYueCpDH2u5Qa2E",
+      "photoAttribution": "Ayessa Lopez",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "phone": "02-591-3625"
+    },
+    {
+      "name": "Gangnam District",
+      "desc": "Luxury spa district, high-tech anti-aging treatments, wellness tourism hub",
+      "longDesc": "Seoul's premier wellness destination offering cutting-edge anti-aging facials and luxury spa experiences that have driven the city's booming medical tourism industry.",
+      "coord": [
+        37.4966645,
+        127.0629804
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12912267752180333418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ-4m1XyOkfDURartwxRuXMbM",
+      "address": "Gangnam District, Seoul, South Korea",
+      "website": "",
+      "photoRef": "places/ChIJ-4m1XyOkfDURartwxRuXMbM/photos/AcnlKN1EqUyXtg4x16i-vXEhUbetsIBO0Bfj71ds5W1Dcn3AUXDGz4a-TcvITEskIFBAs-NwhEKmDWEoZOl6KajqC4jt7hgZLEJKRPx4NkWraNCBrOI5UzDpNyuKPqA2E0ntOge1oWeHQqxVdpj_fjFUhdrJB3Lf1hZPJBI8Evu9oEdBwMM-ehf4zdsQVpRkhz0lQm4FVLyOs_90EVI0VWIE_eGYg4GKQ_4ScGIHx20JbdGhhUNHrsgRsUOoDNQKnCBvxCTT7TVNf70QjiUikxi8lermUjqc_uUlktyjZUN7xqXvdgAGqTgjn2zE4A1Ua_yc0kbBJBSubWaCzG9767NJE523nMkZYIpMK1xEyALYTvfWW3UytnfiWCYnQo3PXkLNgJVho0TQMsV-hHvMOb3rpnPrJvV61yue_SJ1GAdDaYVePQ",
+      "photoAttribution": "Dee Nevel",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Art & Design"
+      ]
+    },
+    {
+      "name": "Retreat Signiel Seoul",
+      "desc": "Luxury wellness retreat, premium spa therapies, elevated relaxation",
+      "longDesc": "An exclusive wellness retreat offering premium spa treatments and immersive relaxation experiences designed for ultimate rejuvenation and self-care.",
+      "coord": [
+        37.5131008,
+        127.10343340000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2798135997574051279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ6VrJPnOlfDURz3WiWN351CY",
+      "address": "South Korea, Seoul, Songpa District, Olympic-ro, 300 86층",
+      "rating": 4.7,
+      "ratingCount": 15,
+      "website": "",
+      "photoRef": "places/ChIJ6VrJPnOlfDURz3WiWN351CY/photos/AcnlKN2vECF5Q_glpaFx7jPvCvOQxZ-SNwcX70JtGDAJCb5I88mLt8BeOLLQ2KTjk_5K78inNXmBCHXkaowqcC3fzsSVkmdV64iNEBbGtZMDg10xrLRcz-0yu3X9bHkMZ2ScRcO5ZmRlhn5F-Gm64T4ahwkSVdv6Pgdq_DTNzqkFuFqREGSmitqXF-wdQ6RY-Yoy3u_eErQr3_4meoc9pu6iMjf4GmiS9X9boSylBUv-WlRp867BGsT4CLcyD8O2tg59AbrXwL_WB3yNI-aaf-jMo54wd8dgsmHmOA4a0PSQwl3w0YCeCKFq0I1dVSc1J4BCK_Eun9Ua2racPBQRd5X-3seX_VAEPly-zzw6v7-50AhT-EAJ_jOquyelQw3utTIt_CBy7Pd9MhHh_2u_fM9xC791vXWgRtbhXFzrQzP6R2k74Q",
+      "photoAttribution": "욮퓽",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "phone": "02-3213-1383"
+    },
+    {
+      "name": "Forest Therapy Programs",
+      "desc": "Immersive forest therapy, wellness in nature, therapeutic experiences",
+      "longDesc": "Traditional Korean forest therapy programs offering immersive nature-based wellness experiences and mental health rejuvenation in pristine natural settings.",
+      "coord": [
+        36.8576085,
+        128.47250929999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7079675254271596583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ18XYEokIZDURJ1j7TyIPQGI",
+      "address": "209 Therapy-ro, Bonghyeon-myeon, Yeongju, Gyeongsangbuk-do, South Korea",
+      "rating": 4.6,
+      "ratingCount": 212,
+      "website": "https://www.sooperang.or.kr/indvz/main.do?hmpgId=FT00001",
+      "photoRef": "places/ChIJ18XYEokIZDURJ1j7TyIPQGI/photos/AcnlKN3cLXbDtwNr6wSN92laaq3iIvt086y0dApBrAJbDr9FqizvKf_2r1wRRwfun5R6HbHSP9LqEO6n2Uec4hHNEl6n8FvLz17DvXblWVLfAyT4knb-xeIdWL_7NQCrKPxkkK0eICuClshBpVUxwiHOZP1u6qtmTL56vEk9Y5lBaOMEjCq3pAXpIzM5kuaUc33E030h_g6VKkFhwjs7GMiLCoq8EiYVwqGobjx1GjimybzGl1mmnXlWnYa7GWFj51nRt7ChH7zCQ78WR6z_hIBcgG6PuENRB8ABivLQW4iKU454ua-gg5cM0GCxIVz9bDq4wQWwYSvKR5KAG1XvkBxhiyHDcIGZxBkZNXgTCujOZSIlHRSNypaIVbIIwJjc7ZOHteRmW7KkeY4MUg3pxJvcJH0kfLpxw4fvdVmJ3Ro9nV0PpVQ",
+      "photoAttribution": "정숙송",
+      "tags": [
+        "Wellness & Spa",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "phone": "054-639-3400"
+    },
+    {
+      "name": "Jjimjilbang Bathhouses",
+      "desc": "Traditional bathhouses, hot springs, authentic local wellness culture",
+      "longDesc": "Iconic Korean jjimjilbang bathhouses offering traditional thermal bath experiences and relaxation, central to Korea's distinctive wellness culture.",
+      "coord": [
+        37.4582415,
+        126.6746489
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9733015406975658326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJo6lVCpt5ezURVikw5vGdEoc",
+      "address": "446-5 Dohwa-dong, Michuhol-gu, Incheon, South Korea",
+      "rating": 4.5,
+      "ratingCount": 25,
+      "website": "http://진성불가마사우나.gajagaja.co.kr/",
+      "photoRef": "places/ChIJo6lVCpt5ezURVikw5vGdEoc/photos/AcnlKN3sLN0AweLZjJBaKj1qqhOkzHCjqZYvNWYJ-eejt00Zhz9jNWtJnc9a2SLA-qL0_rflJrJwRyRXivr8-Ia4DFuKSbkLKClZGtymKxkI07FIWUse42uHrYZga35ULIWcQtL7_ocjnwpoiO6O66tj4UYW19AQwGWEZI-IN4tM1g2BuIhURodgxuep0pYAbFdlYhxnbhG4ZKj01xIYJefgfueHitDjDZVQysu-DyEKHsANod9IdVWC6pqDGWZztL1ujMIGa-s0Vn5hb6Lf-cEX2V8eH_44C_krMGs_4U5dFh8X3h9WqprIq34wRODlTaNkhlPM79Kh2VTzf5CAkmPtQmMtGhbs_1unbW-ga4c8EjzMj8b0dhIgdrhJXbzmd5JEyCjna19Qn1-l0eSU9TjrLP-6GOEdoouoESIM1TfKx7AJfA",
+      "photoAttribution": "marie sun",
+      "tags": [
+        "Wellness & Spa",
+        "Budget Friendly",
+        "Local Delicacies"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Jeju Island",
+      "desc": "South Korea's most beautiful island, swift getaway from Seoul",
+      "longDesc": "One of South Korea's most beautiful holiday destinations, Jeju Island offers a swift one-hour flight escape from Seoul, making it an ideal quick vacation spot.",
+      "coord": [
+        33.378561399999995,
+        126.5661908
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5973899348587070131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJtcMT0y1pDDURs0J4dM6N51I",
+      "address": "Jeju Island",
+      "rating": 4.7,
+      "ratingCount": 163,
+      "website": "",
+      "photoRef": "places/ChIJtcMT0y1pDDURs0J4dM6N51I/photos/AcnlKN084TLFBXm2eOi0BFT7jGu0aGQx3UgSe2Darb258AJ0NVgOafqUX3ltXlz9LgVbPMoj3MSHaKmm8S71hOzoFHFb_-BvC_6d7lzicjbaPOdz_QEj-OaJd9W8TpTLn3JR3HvWuU_8iY8ZVqAk96OpI0kuZXAgGb8dN67AJkQxI1A1sJfYM1V1N7u3RnSD8yhNgctG12oL1zrOB8vqAzUIEYHwTVMqP3F7hgAt6QfDPqKnpPrfLgswiFiBEuY3FUdk2Sud6lGnr_YmAxz2zvFn65j8m_aOW0SVDhu58WGJSM3OnJDy3t8gwGOZY3Xu4oFYbagfcxwp6K6prALsauiQihAR1uIhULFqeFG_YQq5QxT0tOjlXsfKQWI-UlzkonB1d-xFjRAAMDPzO4cNLEtDztZpRQlduD9T5u53ABQyc186CA",
+      "photoAttribution": "Татьяна Сушальская",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     }
   ],

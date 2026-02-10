@@ -1,0 +1,160 @@
+{
+  "key": "philippines",
+  "name": "Philippines",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇵🇭",
+  "defaultCenter": [
+    10.4945,
+    122.734
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Amanpulo",
+      "desc": "Island luxury resort, no walls or doors, tropical paradise, exclusive privacy",
+      "longDesc": "An exclusive island resort offering an architectural escape with open-air design, where guests experience ultimate privacy and natural beauty in a pristine tropical setting.",
+      "coord": [
+        11.3563099,
+        120.72709569999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14593072364750687768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJlc70UrzysDMRGM6Ikv8Bhco",
+      "address": "Pamalican Island Cuyo Archipelago, Cuyo, 5318 Palawan, Philippines",
+      "rating": 4.6,
+      "ratingCount": 480,
+      "website": "https://www.aman.com/resorts/amanpulo?utm_source=Google&utm_medium=Yext&y_source=1_MTU3MDczNTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJlc70UrzysDMRGM6Ikv8Bhco/photos/AcnlKN0v03EGUFBjE8L9KQMWvE1qduUEZlXSv48ZAWcWCcPysDqKrazOtPY7GT6z_RsL3iW0GcaXGSAkgS6RivbEuRWcwAHClY-3RwAlD93xn1vmlaKWzOs1x-0t9txDpnL7bEi8QBdJwa3wU57MDctF5I6KIC1irdrAijI-Ainc1K0QAOEB68o04rqOMyZR7GJXmkwws70qSGw2yWk_Bv4DGAibI95Pa-1v0zk6cSIvb2cJXc417jh-ZxLwyBAgD8rWmhK48oxF0-2w--DDhie_gg8S66Tu-HcsRc7ziyQythH2XQ",
+      "photoAttribution": "Amanpulo",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "phone": "(02) 7976 5200"
+    },
+    {
+      "name": "Manami Resort",
+      "desc": "Beachfront resort with spa, wellness, exclusive offers, serene atmosphere",
+      "longDesc": "An exclusive beachfront resort offering wellness and spa experiences in the serene shores of Sipalay with special travel packages.",
+      "coord": [
+        9.6710728,
+        122.40348589999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3846803713695924460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJyTLr7oVVrDMR7MB_q5iXYjU",
+      "address": "MCC3+FC3 Brgy. Cayhagan, Sipalay City, 6113 Negros Occidental, Philippines",
+      "rating": 4.8,
+      "ratingCount": 181,
+      "website": "http://www.manamiresort.com/",
+      "photoRef": "places/ChIJyTLr7oVVrDMR7MB_q5iXYjU/photos/AcnlKN2-tzsfnv_a9wZshoLRgcmeB3r0rlV-ob3TehtdNwKktLf0A4gTiwxFfIi3ItspyE3Dn6i8e2TqxNBezXgXF4n_cLUdsxp33ZRDeGBaNI3J2hnpyIEEvf8EGqCBCg8TsANWU7Te_LTTznqrpevWd818LJe3pNk7wenvl3IRTCbcVNK6isSw9S76JQnTgux-d3z6cWYhDnwugz7sUDGFFhT8eyMv4t-DrLgLHvX6ZpcXIGxOpsOOESqXHiAgfxRN7bNOzsn6ZvhH8hFMpzsUlyycrCUfs8F0mPOrWTOg37yY7g",
+      "photoAttribution": "Manami Resort",
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "phone": "0917 179 2611"
+    },
+    {
+      "name": "Nay Palad Hideaway",
+      "desc": "Tropical paradise beach hideaway, secluded island resort, luxury island escape",
+      "longDesc": "A hidden gem beach resort in the Philippines offering a secluded tropical paradise with pristine waters and exclusive amenities for discerning travelers.",
+      "coord": [
+        9.757785499999999,
+        126.1227646
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11008492529988235130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ71iklgX3AzMRem99aqEFxpg",
+      "address": "Malinao Rd, General Luna, Surigao del Norte, Philippines",
+      "rating": 4.9,
+      "ratingCount": 301,
+      "website": "https://www.naypaladhideaway.com/",
+      "photoRef": "places/ChIJ71iklgX3AzMRem99aqEFxpg/photos/AcnlKN00818C6YMbCFs7NMxu5OuV6DNswJDDVgp1AxsMKkt9xcZiXp16INpq5x8ki6Y0LL0cKBG_-327cMrUCpqgw_Dj5_5x4juiMkeamEY-iy-MjjjZIPgLGwbqwTYq8uQnD7-I9JBze1iqYm9qcewY_0yl6TQCh2NJC1LViDWR-avI3h1WNs9FUFZD0oeMsgmx4JjirXCWNgB2FAIC0GbJxdpwaWS09AEcUWruar3_pXpNNDd0AZ701PTJYOHcBTqWBafu4G8NnlqZuUNTgYt-dFmytfTyuu_dEXigcXUl4UuXCw",
+      "photoAttribution": "Nay Palad Hideaway",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "0917 701 7840"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Sipalay",
+      "desc": "Crystal-clear waters, lush landscapes, vibrant sunsets, serene shores",
+      "longDesc": "A serene coastal destination featuring crystal-clear waters, lush landscapes, and vibrant sunsets perfect for unforgettable adventure and wonder.",
+      "coord": [
+        9.719788699999999,
+        122.4920088
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13513724301806216372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJv2XGOsRRrDMRtCS5Wadkirs",
+      "address": "Sipalay City, Negros Occidental, Philippines",
+      "website": "",
+      "photoRef": "places/ChIJv2XGOsRRrDMRtCS5Wadkirs/photos/AcnlKN0AALbsEQiAGVxagqmF3Qqpm4FUE7lb6HxwnbzgPJkkXAosnPTEI4o5M5B2UuEpd0mad6OJYw7hjelp52IT6sfGCP70CWrrRr4Bt6Iz82MjI8oZnsvRBXYnUOJjidOcNEi-LSb2xli1M2ZOcxeOiIsWEv7OU-ux58ljOfjeLguYV-wvf3xAqcaSnc9LF-HIyzDcRWnAhlUh5OpsK3NmeKtElj7hqOj6qr1qEoSlabtsZHIEZNZHyfpwDDmGPbhr04DbcYfDae9GNmNkOnumBkxAmOdmRStTNWq8ODNmKkLpOmWEbMZAi7SCa2dtfRkIxweyoey7DWXBfnCGcmTDCOpJNoTH2vahm3SiDWj-acIeQkkPiRku-DA_QgAyVcevJaZQpxnZUwlFfla_HjS2qkTN4jMpqH-FOSD1DClxG882rA",
+      "photoAttribution": "Echool",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature",
+        "Family Friendly"
+      ]
+    },
+    {
+      "name": "Boracay",
+      "desc": "Stunning tropical beach paradise, white sand shores, ideal vitamin D destination",
+      "longDesc": "A gorgeous tropical beach destination perfect for pre-summer sun seekers looking for white sand shores and crystal-clear waters.",
+      "coord": [
+        11.967375299999999,
+        121.92481500000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12049636020160682550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ505LMi88pTMRNtptXh7oOKc",
+      "address": "Boracay, Malay, Aklan, Philippines",
+      "rating": 4.6,
+      "ratingCount": 4047,
+      "website": "",
+      "photoRef": "places/ChIJ505LMi88pTMRNtptXh7oOKc/photos/AcnlKN0s32kGJOWBH8tDp-aByDQs9BQ6sATBcr1UZb0NdUtsJn9pywESJf1pP8Ecka4K0JzfPtekEYTGY-aUeYV6HjQBPmIeBDLwfbukoE3PgjHb--auomCNfkSQuEEzfVwCwmbXBF_InT9JvBc5hHGlasXUZpp6OFb-H8zxFLFeouXoSy5CClTMzbYouS-MGzrCYA8QXk7OQllGGsR9a-d1TqTchUvZC-WzHFmow2jl-iP6wMg3xqTXMfQATK1XeC1SW8pNKSalq_XI81oikJG6GePvSgOUryegLBAT0Wq4ap8xnY4UunVhazOU_82PbHCPerd20Sf4aX00h-r9F4JOUTw5-n4mpRcoMDAT9ElgrmRaYdzHwyzZ-PNX8E7L3aI86n4oNnb6FoZjj3dILrO_EMZ4WtRTO3Ofc9BevgiA2b2Lb5QH",
+      "photoAttribution": "Reza B",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Palawan": [
+      11.3563,
+      120.7271,
+      0.03
+    ],
+    "Sipalay": [
+      9.7144,
+      124.2631,
+      0.03
+    ],
+    "Boracay": [
+      11.9674,
+      121.9248,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

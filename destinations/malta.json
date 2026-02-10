@@ -1,0 +1,128 @@
+{
+  "key": "malta",
+  "name": "Malta",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇲🇹",
+  "defaultCenter": [
+    35.8948,
+    14.4788
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Casa Bonavita",
+      "desc": "Restored family home with luxury design, Sicilian marble and Murano glass accents, opens May 2026",
+      "longDesc": "A meticulously restored 17-key boutique hotel housed in a centuries-old Maltese family home, blending local heritage with exquisite design and luxury amenities.",
+      "coord": [
+        35.8918892,
+        14.4437807
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12627937749211954270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJQfbyezJRDhMRXjyGK3pyP68",
+      "address": "147 Triq San Anton, Attard, ATD, Attard 1285, Malta",
+      "rating": 5,
+      "ratingCount": 3,
+      "website": "https://www.casabonavita.com/",
+      "photoRef": "places/ChIJQfbyezJRDhMRXjyGK3pyP68/photos/AcnlKN0hDsmt9Iw1FeeIhpjDRRyI7UXnjFnGrbN6WOvtZyVaHxnWnGBmU9EjIXqPcp6Hxi01vhp1uKsaGJqU606szqBp4bshI4biQs9It7-x5pCs3V8Vaj9Qf3_mHrqdGznhygiOSVlkbjFBYNABGlFQ4cAApdVKhRQJ2jukfzd2u_epVaZfPgePwfaiBhKOkB5q4F58dwY4YB1yIuck5qHCTCOGodDGS1u8qeQ8lpgfwSkL2jtuxQvgH1daW4fE8Jv9UMoWWLvjc0M8FqbsyIMo_ijESceCboeJYmboD3sBYHkesUzsXvl0CmFVmdLAh7yp4i6rOEb40Dc9H43I9-zAcb-g8poJq8D4_etC0lDTEC9W9QLle0fCPqozuLUzxW_V6SD0RJsMW7IsxQ3k8YB1emH1q6jZRYkNqIGBl415ZJA",
+      "photoAttribution": "Alicia pfefferle",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Art & Design",
+        "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "Casa Bonavita",
+      "desc": "Luxury boutique hotel, Attard Malta, May 2026 opening, Mediterranean elegance",
+      "longDesc": "A charming Casa Bonavita luxury boutique hotel opening in May 2026 in Attard, Malta, bringing refined Mediterranean hospitality to the island nation.",
+      "coord": [
+        35.8918892,
+        14.4437807
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12627937749211954270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJQfbyezJRDhMRXjyGK3pyP68",
+      "address": "147 Triq San Anton, Attard, ATD, Attard 1285, Malta",
+      "rating": 5,
+      "ratingCount": 3,
+      "website": "https://www.casabonavita.com/",
+      "photoRef": "places/ChIJQfbyezJRDhMRXjyGK3pyP68/photos/AcnlKN0hDsmt9Iw1FeeIhpjDRRyI7UXnjFnGrbN6WOvtZyVaHxnWnGBmU9EjIXqPcp6Hxi01vhp1uKsaGJqU606szqBp4bshI4biQs9It7-x5pCs3V8Vaj9Qf3_mHrqdGznhygiOSVlkbjFBYNABGlFQ4cAApdVKhRQJ2jukfzd2u_epVaZfPgePwfaiBhKOkB5q4F58dwY4YB1yIuck5qHCTCOGodDGS1u8qeQ8lpgfwSkL2jtuxQvgH1daW4fE8Jv9UMoWWLvjc0M8FqbsyIMo_ijESceCboeJYmboD3sBYHkesUzsXvl0CmFVmdLAh7yp4i6rOEb40Dc9H43I9-zAcb-g8poJq8D4_etC0lDTEC9W9QLle0fCPqozuLUzxW_V6SD0RJsMW7IsxQ3k8YB1emH1q6jZRYkNqIGBl415ZJA",
+      "photoAttribution": "Alicia pfefferle",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Cultural & Historical"
+      ]
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Valletta City Gate",
+      "desc": "Monumental 16th-century gate, historic entrance to UNESCO World Heritage capital",
+      "longDesc": "The grand City Gate marks the entrance to Valletta, a UNESCO World Heritage Site layered with centuries of architectural history and cultural significance.",
+      "coord": [
+        35.8959993,
+        14.5136593
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7468474845692098099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJjb76xt9FDhMRM_Zqb01apWc",
+      "address": "VGW7+9FV, Liesse, Il-Belt Valletta, Malta",
+      "rating": 4.6,
+      "ratingCount": 107,
+      "website": "",
+      "photoRef": "places/ChIJjb76xt9FDhMRM_Zqb01apWc/photos/AcnlKN0FenilSKckv1aaQGZVtzKnrzbphzLwygGZRq12O5UUXVpBwq2_yCShOK-f_2K6-wARLIgifCoYdF2o072HWPqce1KQ1Mpt1r07FkNqwiTVQL0VnoLm_12AtiNCqXkubiT19zaU64tWzGSUIZvkGw68tn8Zdl5TXStxY7VnxXxi7DDm0OxaHuAUY7JlSGvU3aUBrM4aDk-Q0mwIDL20md9leUow2Pe6jO36bC-4AZeFxBxQdWLsLYJ8iGYXl5274M1VgVNUcZcTil8nROh37RCO21ldRCmNpjmGHPixw-4ov6em1RT_FHKdQ-ijwTXM6W1RfuxhOzJE35uH60AZJE5KdDocmIi__kxIdn347k4uq0GcWwJxGBUcLAI_xlDyM2LFyzpX4nLeQ_64tezp8-VtWuGG01oopa4dWAPED4e9CxwijzYiGVHYqD_90A",
+      "photoAttribution": "Krissi",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Family Friendly"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Valletta",
+      "desc": "Living palimpsest of Phoenician, Roman, and Knights Templar heritage, architectural layers across 136 acres",
+      "longDesc": "Malta's capital unfolds as a living palimpsest where monumental ramparts, Baroque domes, Art Deco details, and prehistoric temples coexist in quiet historical harmony.",
+      "coord": [
+        35.8992375,
+        14.5140996
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8384246266938444055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJxUeGHShFDhMRF8lC4o7TWnQ",
+      "address": "Valletta, Malta",
+      "website": "http://www.cityofvalletta.org/",
+      "photoRef": "places/ChIJxUeGHShFDhMRF8lC4o7TWnQ/photos/AcnlKN2TLb6HExTi8cx3JfJifcobqRzVmC1r4j1C4qJpk5z3q6ApCciMlAauLVIdF4z-LWm0PqC99XQjk1ewHvKInaR17MstAn02XVgzkIWnpu6N4QQklhD6sU8eoLRHvMcApiyN6_oA4VtJa0546NbzmI1NhegErwIqb6vIPcXGsjl_592VAFuEg6Mq63aGfsp6VBMRWo91kvoqAf70FxYujigLYrw5gkd9pbn5pJUVxcuhYfONmdZl0PfNdKR8bmeHpckK-YYvb3emWkRX22qczrffjTvqchuqTWwxcMMVqQwIi9o0xSP_Ke6OmAKFs7kz28Y6yDB5AS7XaEruc7Dty5YNUhZkhiCfWzZw7iPjAb6cCszLwHm3sAL_6InzbaVpe-jwAPC_2W5XMd9WJ26z5t67d4JnBUHwO32gbZd068VQEOg",
+      "photoAttribution": "alfredo luigi zampieri",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Romantic"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Valletta": [
+      35.8976,
+      14.5139,
+      0.03
+    ],
+    "Attard": [
+      35.8919,
+      14.4438,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

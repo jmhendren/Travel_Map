@@ -1,0 +1,50 @@
+{
+  "key": "turks-and-caicos",
+  "name": "Turks & Caicos",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇹🇨",
+  "defaultCenter": [
+    21.9362,
+    -72.0536
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Como Parrot Cay",
+      "desc": "Beachfront luxury wellness resort, spa programs, island serenity, expert health coaches",
+      "longDesc": "A pristine private island wellness resort combining beachfront luxury with comprehensive health programs, spa treatments, and expert practitioners in Caribbean paradise.",
+      "coord": [
+        21.9361926,
+        -72.053601
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10945044187695375254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJLyiz1Q1cS4kRlmOJCrOb5Jc",
+      "address": "Parrot Cay, TKCA 1ZZ, Turks and Caicos Islands",
+      "rating": 4.5,
+      "ratingCount": 174,
+      "website": "https://www.comohotels.com/turks-and-caicos/como-parrot-cay?utm_source=Google&utm_medium=GoogleMyBusiness&utm_campaign=GMBprofile",
+      "photoRef": "places/ChIJLyiz1Q1cS4kRlmOJCrOb5Jc/photos/AcnlKN3xhJaOIHo5G_rjzRgXX7CrAsfEOGBsIdIUp1yCtVOJ28zpQ0kDzTiu5dEmyE4lgehmD_rAkXBKjxmU_14c3SOZaKR-OwRmm6yPhDt7s9XxY_SOYsj4NqC8HET2PDssqXH9OZMCTYZZlwYA2eVKuKH4-6hfvizqmGIRxgw59HFVXBUe8rbJAT892Fx6V-HeSC0g919eTDVWDMhr42CIMu8aJGydWcHPGhw0VS8FRDpNUR0nPM9fKrV3ov7M484KGcrk-GElmqB5pvVQVFroKOlaiGaG75Zkf-pn2BiVreNTXA",
+      "photoAttribution": "COMO Parrot Cay",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "phone": "(649) 339-7788"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Parrot Cay": [
+      21.9362,
+      -72.0536,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -1,0 +1,58 @@
+{
+  "key": "argentina",
+  "name": "Argentina",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇦🇷",
+  "defaultCenter": [
+    -33.6147,
+    -69.2823
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Argentine Winery Estate Hotels",
+      "desc": "Argentine vineyard estate hotels, new-world wine region access, immersive design",
+      "longDesc": "Stay within Argentina's premier wine-producing regions at hotels designed to immerse guests in vineyard life, offering authentic winemaking experiences and spectacular regional landscapes.",
+      "coord": [
+        -33.614738599999995,
+        -69.28225619999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9337154502002644658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJwcYctf83fJYRspbOmIw8lIE",
+      "address": "Ruta 94 Km. 14.5, M5560, Mendoza, Argentina",
+      "rating": 4.5,
+      "ratingCount": 622,
+      "website": "https://www.casadeuco.com/en/home-en/",
+      "photoRef": "places/ChIJwcYctf83fJYRspbOmIw8lIE/photos/AcnlKN3OowRaReOydviU8rNjncWZiCLBszGNIm2prt3J9JEgDpbUFbS_lpTjyW-Rtp5kp3LE29e4ZlGVd1YPccnY_xih-Y4MGR_sVsXdTUgSgRsU9lL6c4selLJyKCFRnQ-QqXiKsirksHEW5d0YUZUd_aS087K0XkBOcUUKKTHMdlkZC0WNbQ7VvnGbzSIsOKIVx0iDH_7OFDOxnqqGiSd5GsnpshaAgTzfC2Np6zy_byvB6q-P8ELFls47rZuWQCvq3JufaFC22xt1wE8toZAGbdIOxyGidaaYqGMF6PtJi3T0Ig",
+      "photoAttribution": "Casa de Uco Vineyards & Wine Resort",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "0261 476-9831"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Multiple": [
+      -33.6147,
+      -69.2823,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

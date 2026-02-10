@@ -1,0 +1,132 @@
+{
+  "key": "fiji",
+  "name": "Fiji",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇫🇯",
+  "defaultCenter": [
+    -17.2663,
+    -0.8274
+  ],
+  "defaultZoom": 4,
+  "hotels": [
+    {
+      "name": "Laucala Island",
+      "desc": "Exclusive island resort with private submarine, beach horseback rides, jungle villas with lava-rock pools",
+      "longDesc": "A celebrity-favored private island sanctuary featuring a personal submarine, pristine beach horseback experiences, and hidden jungle villas with natural lava-rock pools.",
+      "coord": [
+        -16.7527144,
+        -179.6863219
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8622449323042543860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJjxdNWiJt4HER9BjCwfkXqXc",
+      "address": "Laucala Island, Fiji",
+      "rating": 4.7,
+      "ratingCount": 53,
+      "website": "",
+      "photoRef": "places/ChIJjxdNWiJt4HER9BjCwfkXqXc/photos/AcnlKN0rDtihljNK3ICVkRrvRcVwsILQr6NTm7Pqp2Q8XNqPoLzMM0fZjw7YztHYQA_pFGylsZnXfa8UK4g3wXQw1zLzEArcwEu4KZUtAM2LS1tWUeUt-wEeVU7Fv5vyvf6o9hIkbcY1xi_Q4UuZFAzjHrT99yWsB8x3Wc9nJiTlcFuZbb-hbJnNic4JISyK3SlnYKwiv7Jz9RLRix0fZyIwwb9i8_-KFvwpNcn5Ey7vLy3qnihIK3XWLve56V2F0R1wgLOvNBA1TwfX2dQZetIyHtWSuo1d6x5yQ_QDb3HD28HfbPPsUG7j16MrZ_pK1hEyRkV3esJuqiQ4GJp4Cpgwd6E2fSSsTS5m8btCPyUDERVwggeDMdR4eq8587hE4ZGDR3PGqVLwU0AD5qNMppcCHLf8oS-hh7FMdtcRa5CxJVfgMw",
+      "photoAttribution": "Randolfo Santos ·",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Kokomo Private Island",
+      "desc": "Ultimate private island escape offering unparalleled seclusion and luxury",
+      "longDesc": "The pinnacle of exclusivity, this ultra-private island resort delivers unprecedented seclusion for discerning travelers seeking complete tranquility.",
+      "coord": [
+        -18.804533199999998,
+        178.5297195
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16480714787818200812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJx8XeMiaeG24R7F5u7MdCt-Q",
+      "address": "Yaukuve Levu Island, Fiji",
+      "rating": 4.6,
+      "ratingCount": 123,
+      "website": "https://www.kokomoislandfiji.com/",
+      "photoRef": "places/ChIJx8XeMiaeG24R7F5u7MdCt-Q/photos/AcnlKN3oFn9mJEC0PW_T1oyXgacTHE-9eu8NYuCOeR-NDH1PTlrZZxEnZtazA9K1Qm0Em5MhrsJlLVTXgCuhKe9xZBoqw0eFRSHCHJ6Tr0eH6BTaJQkqJnDKtk4F2C-s1dP_znNWmenkadOzuPfHa8yYn9xRi8lBP6aEaWdaDi_SBF_kc4Uh6w0r6yonCD_0yQ52viSONFGmCOc093FZYI-hGr8aAHqnEwqvnkXfciVJ4Ewij5JBAEA7CLVKtL8s9uHm9QiIXf7VWG7V6O0H_Y4TgdO28-IixhsXnyurbZUr6i4SPQ",
+      "photoAttribution": "Kokomo Private Island Resort",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "phone": "776 4441"
+    },
+    {
+      "name": "Yasawa Island Resort",
+      "desc": "Island resort with inspiring sustainability practices and beautiful tropical setting",
+      "longDesc": "An inspiring island resort committed to sustainable tourism practices while delivering an unforgettable tropical island vacation experience.",
+      "coord": [
+        -16.764167999999998,
+        177.52982799999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12323895668915579194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzad2WDSAH24ROimw6tBFB6s",
+      "address": "Yasawa Island Resort & Spa, Yasawa Island, Fiji",
+      "rating": 4.4,
+      "ratingCount": 128,
+      "website": "http://www.yasawa.com/",
+      "photoRef": "places/ChIJzad2WDSAH24ROimw6tBFB6s/photos/AcnlKN3DG9nK4ubuMmwMSyh6uMW7RrFVr1vR5vnsLIk9-GDSpdN3pw0dbyhrWmEzrZOrDckaA1oT-YGpBITVvBXkxyE0nDt6X__WrwguqZrgDuRg8ySOj-rGuBG6lNPa_9tdAAWktVKYctzyMWCDrzglU7H_PUfacEqEScfa1qsUen3F756n2l2xeDd_aVzty9P1NYSeHKDradDhGdK2dHrtb7gwcMM8pBs39rC-P3PdOtxCwyK5wiUPMQZKgq3kcujSeRbzNR5gcFenP23tazsC2ONJeqHdksu639wDxQwYSJGd1g",
+      "photoAttribution": "Yasawa Island Resort and Spa",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "phone": "672 2266"
+    },
+    {
+      "name": "Como Laucala Island",
+      "desc": "Luxury private island resort, exclusive service, once-in-a-lifetime experiences",
+      "longDesc": "A world-class luxury resort on a private island offering exceptional service and exclusive experiences for the ultra-elite seeking tropical paradise.",
+      "coord": [
+        -16.7435909,
+        -179.6827171
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9653709233470353610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJj_BeK0Bt4HERyrDoeWbd-IU",
+      "address": "Laucala Island, Fiji",
+      "rating": 4.7,
+      "ratingCount": 65,
+      "website": "https://www.laucala.com/",
+      "photoRef": "places/ChIJj_BeK0Bt4HERyrDoeWbd-IU/photos/AcnlKN1fBGWV7EjovixJs49UtJTucuz_S9l-zLi-jETyrW0vqagVXomXAzoRFv9FZmNqGzCJnXhKRbXVvte_2qZs77gFk8zfJ-uQ2MVN9zhREdSSpRto0qKvG8oNEbCzKqs-WfwNKHltbA5WzM4YtE3GVVx1uQKanCWbmIowuwU84tXktA4YDvvIuQ_kciF0j45giE8xo-oeeSreEThIJm0vTo9jVg3Fnc_l7r3UqxTsZVyw764MmAmaAnu5WuGOmEcUdEB26QQl_eLf3W4VTO62cGJahHLfaD6cytzOeAeUd5Q7eAUIdLfWgUYUwBUHaOR0eCZ_pirUiH7bUHmN6SGjnc0-sj6zb5Q53r0h_zCSS7UwJ9M2HgMBhRGNsaNOrRAI6Lgk9yDqFYOuYdmAdntunPHYscw3HopEoBw5PqnTWXl68A",
+      "photoAttribution": "Youssef Hamade",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "888 0077"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Fiji": [
+      -17.4336,
+      -60.2798,
+      0.03
+    ],
+    "Yasawa Islands": [
+      -16.7642,
+      177.5298,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -63,6 +63,62 @@
         "Saturday: Open 24 hours",
         "Sunday: Open 24 hours"
       ]
+    },
+    {
+      "name": "Sonnwies Family Resort",
+      "desc": "Kids hotel specifically designed for families, in a league of its own",
+      "longDesc": "A specialized family resort designed exclusively for children, offering dedicated amenities and experiences tailored to kid-friendly hospitality.",
+      "coord": [
+        46.7456633,
+        11.774536
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10551175820976719189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJAb2KJZUbeEcRVQUCtIFObZI",
+      "address": "Via Alter Rungger, 20, 39040 Luson BZ, Italy",
+      "rating": 4.6,
+      "ratingCount": 573,
+      "website": "http://www.sonnwies.com/",
+      "photoRef": "places/ChIJAb2KJZUbeEcRVQUCtIFObZI/photos/AcnlKN0bs8FlnYpbPEfSgXFkxGAZqiuAZeCsPW3wBmXUuEznRcBcbuJAv__0CwV6wdHUSa5AVTIeTEqIrYJiMO7dX9YYskFbGs5OfVjI12j5qMhM2p9z8eVX23m7Om8aS447B72Ny-cf_AHC8b6X8g6pHhtwHeByyH0ggu0L-yYh02_QeFkkJteUmVPS-8Of1OTyTDXFGKeHvTVUVXPbnB3dlfsY70yhv7XNCCnaFBFDrmnKpeDBpIJV2k_iy9AXukCizO4fx_V3wupdRIN_o4Ny5ZBeIrZ2Ij-P1ksXDUSsyaklaQ",
+      "photoAttribution": "Kinderhotel Sonnwies",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Splurge"
+      ],
+      "phone": "0472 413533"
+    },
+    {
+      "name": "Natur Hotel Forsthofgut",
+      "desc": "Nature-focused alpine hotel, mountain design, sustainable luxury retreat",
+      "longDesc": "An environmentally conscious luxury alpine hotel offering design-forward accommodations with emphasis on natural surroundings and mountain wellness experiences.",
+      "coord": [
+        47.439227599999995,
+        12.715772699999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5276074687208735528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJI-ViNKT-dkcRKMOBY_lhOEk",
+      "address": "Hütten 2, 5771 Leogang, Austria",
+      "rating": 4.7,
+      "ratingCount": 1125,
+      "website": "https://www.forsthofgut.at/",
+      "photoRef": "places/ChIJI-ViNKT-dkcRKMOBY_lhOEk/photos/AcnlKN1a-KkyXoY-Qb_U0gUcojoCbLV_hbq-zvrivTb1SzMRxd0tdUTQUlynxNSMs0h3Gw_C_RnyoRNxGm3MB6OkOlunIpvMvEOT2mb24Ig8Gdq42GUO-ZHKaIi6R8E5n-MPYHgZzCkzEn9HXApOXzd2lfx-AfMsABi81Z2y2IrxTqD-kJNvhs-mj5QnX7BXgCyqv_iPjL7-MN_kmmNS0PPGmg8CTSfp8UqcyDIynHP0ZTwdkTy4iGBiUEGuDDDQFFRx7JCO-UHQ6HKZpUhtShFlmt-JzuvfrkECNAYcKS7n-o0kfw",
+      "photoAttribution": "Naturhotel Forsthofgut",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "06583 8561"
     }
   ],
   "restaurants": [
@@ -163,10 +219,85 @@
       "website": "https://www.rosewoodhotels.com/en/schloss-fuschl-salzburg",
       "photoRef": "places/ChIJYxvrdmujdkcRHpc6UFfb-kA/photos/AcnlKN13rVVqcpStyvg_tCBz0W9OgxyDpl6nFZ7BxOaBO5YNLUDct5Ke0f7hgq2yJA6vp6Z1MvAwAps6K9e3zYA00obsltPVqLxFvUg6xa8xnHNOmN0wO7Jjdiaedu7iEr2Nt7qCOAn3ZHCfXGkXJa7OS2ATNWVjzfeFxkS9dmTZm34fnt54kdCdOrmelGQypTlbtgisBkvswxZUjPP5cgot1_4l7dl3zsJl1IrQlSsQkqdym0d_EjCuaUV6XbHGJz66xkuf_ee5NC9-IE0GfgGvYcFsbdPAvpawuuLExZuRHmaSuA",
       "photoAttribution": "Rosewood Schloss Fuschl"
+    },
+    {
+      "name": "Hallstatt",
+      "desc": "Lakeside village nestled between mountains, magical winter vibes, peaceful and picturesque",
+      "longDesc": "A charming Alpine village tucked between mountains and Hallstätter See lake, offering magical scenery and peaceful wandering opportunities year-round.",
+      "coord": [
+        47.5622342,
+        13.649261699999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1639703174046990765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJY0ZBbm82cUcRrcEmalllwRY",
+      "address": "Hallstatt, Austria",
+      "website": "http://www.hallstatt.at/",
+      "photoRef": "places/ChIJY0ZBbm82cUcRrcEmalllwRY/photos/AcnlKN0Jpu7rZ6NXzlOPQfMn_4_4aZVzotYPNaoyZX9QIPBHvvifTZWWZS0KS3tqH8MdVAMe9DAQfRJPCZ40WoVE53PV-AHdv1fLUcaaNJ2-mcoWR8oPrpXtur_5LI667OazofPWdi7weljz6ElS-Vy_fARIRPc4IPXxHDCR9QGutt59iLiBfvZup-4ixFSt7nlIjnRm7uB0YxRUrRn5QCjXaQxUXUMQ7XFBiSD-PQEGFa7J2FplVVmlGq5IKYZ7AcQeKWayzCcy_9iLcpwJZs4jAPZEoF12oSF6wysY9YQp1PvZMWM-RJvjGL-UpZHh6_5XNkN-tR5BO7vb_E-x39vstF_N3jV35NoX8ya9myXFj5lGkOjQKbre_TUS7xK-Hp_GIbdMKnhzBlHkbRt4IFITUpRoPddHim4BqMHCIb1pGPDuLVE",
+      "photoAttribution": "Rolf Kapitein",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Family Friendly",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Hallstätter See",
+      "desc": "Alpine lake offering stunning mountain views and peaceful winter scenery",
+      "longDesc": "A pristine Alpine lake that frames the picturesque village of Hallstatt with dramatic mountain vistas and serene natural beauty.",
+      "coord": [
+        47.5786078,
+        13.6628771
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7453419122660606194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJb6x8KAM2cUcR8gBKwDPdb2c",
+      "address": "Hallstätter See, Austria",
+      "rating": 4.7,
+      "ratingCount": 2075,
+      "website": "",
+      "photoRef": "places/ChIJb6x8KAM2cUcR8gBKwDPdb2c/photos/AcnlKN1-NSHlVKNxbYRmTQJ8VM88CaUxfk4jfk9pXeK5D-mcWyxeIfGW0x5XOMwbdQdw8sdbSQqqcwTFMqujMJYbwBXVxm3-7npB2_JpJ2_rkOm11KC2UuzqNoPTOR9N_e2aVYGHLrDaeG9xS-E9ZXLJ94LQSQIuSfP_tLWL4L_9yf-MMNEnQYcq3W3QfNB14Obl48yaGIFyqXL6zmC38MicKMO77U85wkZOpAQ7HLzNbbtJ6f-2B_7Wj3_QCkVxxI-jJTvS_vLgmaG278f5b_615N5gVqbV08YDkYTbPefKkbRp3OcE2UHdps9wl0GJcFOrWCOZwgxGG8nU63neie-6hYFyCron-fY-aeIGplW6YocsD2NIfB0RuNR8jfhw0NczE7rwL2NrQvn7LSVcalS1zDTbxBHvtvpntSWfNVrrdcyiG-D8Zjp2zvU5TxEm3MXy",
+      "photoAttribution": "Lorant Orban",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic"
+      ]
     }
   ],
   "kidFriendly": [],
-  "markets": [],
+  "markets": [
+    {
+      "name": "Hallstatt Christmas Market",
+      "desc": "Exclusive annual Christmas market held just one day per year",
+      "longDesc": "A highly anticipated seasonal market that operates for only one day annually, creating a unique and exclusive festive experience in this magical village.",
+      "coord": [
+        47.5624068,
+        13.6492914
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16530980495413342635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJK-ysTW02cUcRq_EF-izXaeU",
+      "address": "Marktpl. 45, 4830 Hallstatt, Austria",
+      "rating": 4.7,
+      "ratingCount": 1047,
+      "website": "https://www.hallstaetter-see.com/hallstatt/",
+      "photoRef": "places/ChIJK-ysTW02cUcRq_EF-izXaeU/photos/AcnlKN3o6r2OCkeNwa81ToH5RWD2eIpqgpkjLoOMtM0dA_-bPZQgibMkM14r7Wg19hKQexnwCr1yzA5KoVNhrFWWgL_6RDB-8qB8rQfOI3NB9ffKLres3tpCei2o3q-6dC51lhpCmYea5Ob-A21gJKCi6fwGUTudbm9BsvR21rv1eiyjsysz3bNbwoTGNgE8tSnGdz-A-D3Lr8GFvL2Kn65060jExiyfmil6dzDz7dl7sWY1iqzRHElNGZEWrGLi2z0_4Am4SUtdolJE17bfzFIULf_lraZ1Yl7pH1sWeEdj5GuOWh_Wza3AzfMYWs6DF9v7A0YgBUm_Dd6-fUPjCk3whGuD0yb32pA9R1-hY9_JwCWGPeRp1_2zCMnIs3w8IHfrwrlqBwWUAMx8uWVty8vbOgZFE6GvxUp065OMZieJbz1AwAX-",
+      "photoAttribution": "SHARLICOHEN",
+      "tags": [
+        "Family Friendly",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "059 509 530"
+    }
+  ],
   "cityCenters": {
     "Fuschl am See": [
       47.809,

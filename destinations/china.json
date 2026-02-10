@@ -953,6 +953,165 @@
         "Cultural & Historical",
         "Wellness & Spa"
       ]
+    },
+    {
+      "name": "Asaya Hong Kong",
+      "desc": "Urban wellness sanctuary offering integrative medicine and holistic healing in Hong Kong",
+      "longDesc": "A sophisticated wellness resort in Hong Kong blending integrative medicine with luxury hospitality for urban transformation and healing.",
+      "coord": [
+        22.295372399999998,
+        114.17615579999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1661002887216293405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ12QKa5sBBDQRHeZsV1MRDRc",
+      "address": "6F, Victoria Dockside, 18 Salisbury Rd, Rosewood, Hong Kong",
+      "rating": 4.6,
+      "ratingCount": 21,
+      "website": "https://www.rosewoodhotels.com/en/hong-kong/wellness",
+      "photoRef": "places/ChIJ12QKa5sBBDQRHeZsV1MRDRc/photos/AcnlKN2alhnBWHeKa3w6F_j-ApcolZe4U7vD1pivv1XC_m9zMC1os1Xj5D7bI4XjW7vKNSRG7D7BRZMesCBnyoxQ5YqfkOMrOjMhYugvNXkciqXPAI2Z8QvKS5exTinmqmX1deLsV4Hx1VHlKP7WMDRE55lIIlWNUoqUP7KH0kGPi-TPiVeh6Dih1aXydeq5rWt_slrXEl6A6HdyAIhbDSfVgY9k-3dfeO5dNd8zJ4YBYyj9mnu868jv1TJUOTpeHurVHFHuWL6KGlDIUmuOTNcJw3GdyMkGi0qryc8xjBzdBHdDeg",
+      "photoAttribution": "Asaya",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "phone": "3891 8588"
+    },
+    {
+      "name": "Restored courtyard residence",
+      "desc": "Heritage courtyard residence, authentic Beijing setting, architecturally significant",
+      "longDesc": "A restored courtyard residence shaped by Beijing's heritage, where traditional architecture and local context create a deeply specific, non-interchangeable experience.",
+      "coord": [
+        40.362617,
+        115.999258
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14852784533756470416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJl1NE37lS8DURkGT4C9ewH84",
+      "address": "Yanqing District, China, 102112",
+      "rating": 5,
+      "ratingCount": 6,
+      "website": "",
+      "photoRef": "places/ChIJl1NE37lS8DURkGT4C9ewH84/photos/AcnlKN36Uk1e9fXPXD2KHSwzN-nNdZDj7OkvTJR6ORDUZFPO6WqwwRt3IBaMqKzZmysajVmX_mx_WRn1xGh_f_hIm8WWMf4PK2J2rzJdsl3qhi3_1fvuzJDDa9eoWnbwSykzpGIfEfVm0YUkMdho8DKyPMjfUdtprLv4kXwe4zRXZ_9EwJ4kmsj574Dwcw9ckDoZ_th2KGDRLeqjJTAQdlcl2HSnxVJyzQ_2SFLivPYMYdtx4fJR1tX-IW29vx_wU7YaZLYth29jcLAlcN4nnGUvB1U7uj8O2nXDc1-apP7piItZRhNpuF6rr8N20X5Z_4S6ioiIl-VwAVskCKAIV3OOD1BXNaO5CPh69IYScwvfzNjLW6jQ0kSsJtXTP7Ev5aW2wxHpGZdoIVg0sBSYfdq9TZk79qD5UUq4ejlu-0NGa4I",
+      "photoAttribution": "Lucio Graça",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "010 6912 1156"
+    },
+    {
+      "name": "Shikumen enclave",
+      "desc": "Shikumen enclave hotel, Shanghai's historic architecture, immersive neighborhood experience",
+      "longDesc": "A shikumen-styled hotel enclave capturing Shanghai's distinctive architectural heritage, offering guests an authentic neighborhood experience rooted in local history.",
+      "coord": [
+        31.207802100000002,
+        121.48420469999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17190655417826731088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJSVErbYJ6sjURUOS0wwV6ke4",
+      "address": "China, Shang Hai Shi, Huang Pu Qu, Zhi Zao Ju Lu, 228号-2 邮政编码: 200023",
+      "rating": 5,
+      "ratingCount": 1,
+      "website": "",
+      "photoRef": "",
+      "photoAttribution": "",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "phone": "021 5307 8777"
+    },
+    {
+      "name": "Water-town retreat",
+      "desc": "Water-town retreat in Wuzhen, traditional canal-side setting, serene landscape",
+      "longDesc": "A boutique retreat nestled in Wuzhen's picturesque water-town landscape, where traditional architecture and canal-side settings create a peaceful, memorable escape.",
+      "coord": [
+        30.748009999999997,
+        120.49185399999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7232914234692696815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJUWMZmKJJszUR73q5wSx5YGQ",
+      "address": "China, Zhe Jiang Sheng, Jia Xing Shi, Tong Xiang Shi, 石佛南路18号 邮政编码: 314501",
+      "rating": 4.8,
+      "ratingCount": 213,
+      "website": "http://www.wuzhen.com.cn/",
+      "photoRef": "places/ChIJUWMZmKJJszUR73q5wSx5YGQ/photos/AcnlKN3_xjlUtaEUx0yWFVGLzTIJfdoN5a0pVYPMYBE1lhrItbVgx_FGsmygiDgZw651CrboJlBPAlHeQLSEWgGxQ6oQk79RfABmPeUOJmLihBmJ_bzLzr-nLtOCYK7S6CwE6DbXN-VO-3TXG4f0VphscFKy_BxLCGG-qabhiyK-4TIBiBg7jrSaYn4gPqEZ4GNt0Ha6GDXNBBbVL9AyJTeGB9IMnV0Em8ix6oiAdaOsxSA21i8UY7_ae16YRDeYctR8Aq_zfgwMJBMInWwsKPaJDcEwcn6WxzGpTzbmZS5e_XWrPGbQ87cwvBi7CiDQmCUsE31oDIegW3-YFalifUXjbTPPEy_n-cFAxE3j8zjXb78CVQSssZzSFlPp3keLFt8wOnVBL3L0-5IWR-cETiBzV8zFyn6N7Ykc0r6y8H67aIXjLp4R640Vj7zmVLBlnsX0",
+      "photoAttribution": "Taylor Chen",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ],
+      "phone": "0573 8871 3991"
+    },
+    {
+      "name": "Mountain retreat near Jiuzhaigou",
+      "desc": "Mountain resort near Jiuzhaigou, high-altitude wellness setting, outdoor-focused",
+      "longDesc": "A mountain-set boutique resort near Jiuzhaigou offering high-altitude wellness experiences, where dramatic landscapes and slower outdoor days define the stay.",
+      "coord": [
+        33.291934399999995,
+        103.8130314
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16501316460590827371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJC4cQbDKU9zYRa4fSp-RzAOU",
+      "address": "26 二组, Jiu Zhai Gou Xian, A Ba Zang Zu Qiang Zu Zi Zhi Zhou, Si Chuan Sheng, China, 623402",
+      "rating": 4.6,
+      "ratingCount": 53,
+      "website": "https://www.ritzcarlton.com/en/hotels/jzhrz-rissai-valley-a-ritz-carlton-reserve/overview/",
+      "photoRef": "places/ChIJC4cQbDKU9zYRa4fSp-RzAOU/photos/AcnlKN3LZcgD38_O8fXomsNKe37t3y9sj8gPH57R0Z1jWDmfLoSS95CVZqNSajs_dBvrJUlWdeFkJ08Q1z0Fzej1x6j2JxmCyET8NIeCFvSFrmFfKOdZojCNjPXul8xLYCxTO9bKv_jIJAa1rEqS_QrwilfoF6NQE3qt8Tyt1vAlIrU2OqTgx-hqKyZ5VxrKXmoXc4OeYcauIAcBYaiLg33nsdSfbEQVY1iMo1Tp57PZwY_V76Za_ZZ0VqojiRsyQ8YDwrkeC9lALeHaSrUv-f2o6yUhMRK1hV3YGk_NqcwW-PUt55r-H6P0wvuQ23hgFuymzBeZ3NkwOj-Kb0G5fu7SwS9Xt-o5N8j_OxwT3Zd3WhXcLlHIf0XlSqc50nEoQDYtU1SuaPlRU6YDy237nNWy2oh6TkrcAlz-iCOcSFmF5rCHOTt2EOnPL53o8GkBtSiv",
+      "photoAttribution": "Eddie Chen",
+      "tags": [
+        "Wellness & Spa",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Splurge"
+      ],
+      "phone": "0837 819 9999"
+    },
+    {
+      "name": "Mountain setting near Lijiang",
+      "desc": "Mountain resort near Lijiang, high-altitude landscape, heritage-infused setting",
+      "longDesc": "A place-specific mountain retreat near Lijiang where high-altitude landscapes, cultural heritage, and slower-paced outdoor experiences create an unforgettable stay.",
+      "coord": [
+        27.125833,
+        100.244686
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9565502092484855554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJEztAwInAIDcRAsfQEHl9v4Q",
+      "address": "46GV+8VM, Yulong Naxi Autonomous County, Lijiang, Yunnan, China, 674106",
+      "rating": 4.6,
+      "ratingCount": 435,
+      "website": "",
+      "photoRef": "places/ChIJEztAwInAIDcRAsfQEHl9v4Q/photos/AcnlKN2Tq8kjUVXpSE8ieWUtI53D6Tu4MNZ96RwIe8jVtYVliQz2dg3AQAd8Y5rCO4Twu0_N_Bv70U_ke4YyYbcOdeN7IKGynezJouEwkpD2D_DG3-F0BCNVVy69REfuN0ghbDmS1eiDYINuV2A1l3tTWNvDk-ixU4ov6GHiDYyo68KeCyiN07yZxz8VhvquIJE5cb6rEWL2IkAhGrGnz3TGFJvqYx6ylcv7eVreftoXECpeAWtqruhfmioNijNhAJXv3_tMwARRb6ydrOH1w82ih2Hw5pkEcHv7B4ll8WGgUbqlhB415hADTU3_GPG-jXyH1pmvK-IziDedB1UZdlHT6cfbl6hNbq4MsU9da9VBYYkvak1re1PgKfhnCyBwpWZ9dcyI7fiizZN8EfRW9O-3qmVPJPAEgEX332cSFTLF5Hw",
+      "photoAttribution": "Eid sinai",
+      "tags": [
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Adventure & Active"
+      ]
     }
   ],
   "restaurants": [
@@ -3038,6 +3197,141 @@
         "Family Friendly",
         "Casual Eats"
       ]
+    },
+    {
+      "name": "Artifact Bar",
+      "desc": "Subterranean speakeasy with water reservoir aesthetic, ethereal lighting, downtown Hong Kong location",
+      "longDesc": "An underground speakeasy bar designed to echo water reservoirs with ethereal ambience lighting. Located in the basement of BaseHall 02 in Central district, this locally-designed venue blends art and nightlife.",
+      "coord": [
+        22.2829697,
+        114.15926280000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5910236310008097686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJk-OHxxwBBDQRluulNJxgBVI",
+      "address": "No, 1 & 2, Shop 5 & 7, LG/F, 1 Connaught Pl, Central, Hong Kong",
+      "rating": 4.6,
+      "ratingCount": 103,
+      "website": "https://www.artifactbar.com/",
+      "photoRef": "places/ChIJk-OHxxwBBDQRluulNJxgBVI/photos/AcnlKN37Fyy4PIwqiGKAWmFd2iKqrntfso1Rt4F5dymd0B7L-PEnNCmtF2NUegTU4yMb5uU4PwJhWWSeYiDyUgK_AXjK42j3sGKVcz31FAiKnYmet_2pFODQK8j-qPUHZS-YeuWfTDAczomcTnc7-09VK728AZu3BMisMBIKw4PhPhB8MdcXaDEuh75PER9Lm-Oas8yodsg0xz3hlL4VsvrmwnMlrDrWb7Wgi29nLOsBpXD_blueynpRvsfCwEl2wNCUtGAc2puz7dUwHVCr7cOeJOWLvrYGAfmat-n2Y27t5zGR43CG0f6ummmWUAe_2IDpxNeH9HXgGKTqC0DzQE8RwONTkMYnBYR6wmvXom9d0nbSEIlwyImLtJuGlc49sureijER2Dn04F1RDucIXJMHy7ihq0VxFCMyU_KlT4jhTTE2wTyE",
+      "photoAttribution": "BradinHK",
+      "tags": [
+        "Nightlife",
+        "Art & Design",
+        "Photography Worthy",
+        "Cocktails & Bars",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 PM – 12:00 AM",
+        "Wednesday: 5:00 PM – 12:00 AM",
+        "Thursday: 5:00 PM – 12:00 AM",
+        "Friday: 5:00 PM – 1:00 AM",
+        "Saturday: 5:00 PM – 1:00 AM",
+        "Sunday: Closed"
+      ],
+      "phone": "6468 8762"
+    },
+    {
+      "name": "BaseHall 02",
+      "desc": "Food court in Central district, home to Artifact Bar speakeasy, local dining hub",
+      "longDesc": "A food court venue located in Hong Kong's Central district that houses the acclaimed Artifact Bar speakeasy in its basement, offering diverse dining options.",
+      "coord": [
+        22.2829697,
+        114.15926280000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12274916268890341592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ5-pbH5IBBDQR2EDfrk9DWao",
+      "address": "LG/F, 1 Connaught Pl, Central, Hong Kong",
+      "rating": 4.2,
+      "ratingCount": 401,
+      "website": "http://www.basehall.hk/",
+      "photoRef": "places/ChIJ5-pbH5IBBDQR2EDfrk9DWao/photos/AcnlKN3h0x3I4hqxG3y7C3pqF9RyywHAUg-ltxsU6ZdkQMAG_Q4cjBS-LoSgMI1BNWwtITU6LfGSauefdsbulyUvMq_Aqmc3Oh4lYV52HzrQ50aN91VjJ8MkSCp2fU6Qyjo5Cln-1B2aivmIiI-JBnsiY3Mb2ZxWiLQW3sT_mugFPTuP0pRLBerpsN_n08cY_FfonkkQvUFp5INwUMIY3SnuiXOYRdMF7OXY4Y-GzDLQQ3p60_YYmtID6NV7OXaKLjBrFXCmfGpwdybiLMg_L7HNuOVMLX8p5sXN6eho8bhAotxo0A",
+      "photoAttribution": "BaseHall",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Chairman 2.0",
+      "desc": "Iconic Cantonese restaurant, newly reopened, refined dining experience",
+      "longDesc": "Chairman 2.0 marks the highly anticipated reopening of a beloved Cantonese fine dining establishment with a dramatically redesigned interior and refined culinary experience.",
+      "coord": [
+        22.2848237,
+        114.1530091
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9448908868861483999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJhcOtY3wABDQR39uGw41EIYM",
+      "address": "3rd Floor, The Wellington, 198 Wellington St, Central, Hong Kong",
+      "rating": 4.4,
+      "ratingCount": 735,
+      "website": "https://www.thechairmangroup.com/",
+      "photoRef": "places/ChIJhcOtY3wABDQR39uGw41EIYM/photos/AcnlKN1V9AZ-55DC6zZoKmv3sDdbrEy8aFw5Vw14gCFbdbAzV1zoTN2ofHVGIVLwew2pndbNxH9OeNVsf8bF_l2BlFXUieoWVJZ1llBSI2tcm21xGNsdgf6LGZ7ATz26YDiXcUNWouK4OD4R5T8bebLWfG9xZo7ct3uYLQocxkZIoirf6J_nv1Khx29M-6PTrn1MvBtoEldGceJZgF-p89IunmQOC1OP0hWXqzjCYcA0P2Kzob9VLBDeTYDQ0XW7mHI1poUElvBG2_yw-rJZp_-XtYc18BpXAB_zo3RoZWx3OkPvXw",
+      "photoAttribution": "大班樓",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Photography Worthy",
+        "Local Delicacies"
+      ],
+      "hours": [
+        "Monday: 12:00 – 3:00 PM, 6:00 – 11:00 PM",
+        "Tuesday: 12:00 – 3:00 PM, 6:00 – 11:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 6:00 – 11:00 PM",
+        "Thursday: 12:00 – 3:00 PM, 6:00 – 11:00 PM",
+        "Friday: 12:00 – 3:00 PM, 6:00 – 11:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 6:00 – 11:00 PM",
+        "Sunday: 12:00 – 3:00 PM, 6:00 – 11:00 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "phone": "2555 2202"
+    },
+    {
+      "name": "Restaurant (Chef Daniel's establishment)",
+      "desc": "Dreamy peach consommé dessert, champagne pairing, gold leaf plating, masterful creme anglaise",
+      "longDesc": "An exquisite fine dining establishment where Chef Daniel crafts ethereal desserts like peach consommé with champagne and floating islands with impossibly light meringue, a culinary dream.",
+      "coord": [
+        22.281925299999997,
+        114.1584888
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=689458101316667092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJwVykxpIABDQR1MZ-gH1ykQk",
+      "address": "Shop 403-410, 4/F, LANDMARK ATRIUM, 15 Queen's Road Central, Central, Hong Kong",
+      "rating": 4.4,
+      "ratingCount": 801,
+      "website": "http://www.robuchon.hk/",
+      "photoRef": "places/ChIJwVykxpIABDQR1MZ-gH1ykQk/photos/AcnlKN2iix9owk9LL7wSmCrxint8lgigJKcmZggaxKJRM7fW0aEic5dJ-2pQg9ik7gQIrgS6U3TP0J6uSlr7_J2IK0rqAExlzrJEHizUKmnOHnvpBLaamFxEugp4xoum0edYvRha8oQ7DO5BRmjRp-dRPnZSbZpwFUIHKTWO21ZZtqUcj-0Yk4Bfr-Bt1TdYuzTUi4yeucD_EnJBcqBJZMHSI_l-kd9jSsqAD6UJRAw5C3Yw8nMJgF_YI8GThFQ0EQB5pRyBz1j6GDYbk3lcy7XvMXfd2AXInmHtmaman1EV65b8VA",
+      "photoAttribution": "L'Atelier de Joël Robuchon Hong Kong",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Photography Worthy",
+        "Sweet Treats",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: 12:00 – 2:30 PM, 6:30 – 10:00 PM",
+        "Tuesday: 12:00 – 2:30 PM, 6:30 – 10:00 PM",
+        "Wednesday: 12:00 – 2:30 PM, 6:30 – 10:00 PM",
+        "Thursday: 12:00 – 2:30 PM, 6:30 – 10:00 PM",
+        "Friday: 12:00 – 2:30 PM, 6:30 – 10:00 PM",
+        "Saturday: 12:00 – 2:30 PM, 6:30 – 10:00 PM",
+        "Sunday: 12:00 – 2:30 PM, 6:30 – 10:00 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "phone": "2166 9000"
     }
   ],
   "experiences": [
@@ -4728,6 +5022,180 @@
         "Cultural & Historical",
         "Photography Worthy",
         "Rainy Day"
+      ]
+    },
+    {
+      "name": "Pitangui Plastic Surgery",
+      "desc": "Premier cosmetic surgery clinic, expert surgeon, comprehensive laser treatments, attentive care team",
+      "longDesc": "A highly-regarded cosmetic surgery clinic in Hong Kong offering comprehensive surgical procedures and advanced laser treatments like ultherapy under expert medical supervision.",
+      "coord": [
+        37.5164116,
+        127.02121349999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17206039377333467857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ49MJqumjfDUR0TpY9aYhyO4",
+      "address": "South Korea, Seoul, Gangnam District, Nonhyeon-dong, 3층 2-15 5층,7층",
+      "rating": 4.1,
+      "ratingCount": 51,
+      "website": "https://ipitangui.com/",
+      "photoRef": "places/ChIJ49MJqumjfDUR0TpY9aYhyO4/photos/AcnlKN2WbXE9o7PrMbV4Hr1ZLQFmOUbD8dtcZtswCVP3H_OxSTZZq4Id_pFW0e4iUDpX0T1XoB3CKWYUEHdWH95arRkAJo4aedVRvbgvucUehVjWzDe5UXpRXwzZ-HN1UumwQNxs6MGAfnmmrNDl-excQHs_oSWphyL90aBL0h6ANkxXWBPSsVQCETlx_CKa_9QwHNzeOELuoXsH2aeQlWwyZm-r1lElKD345zJiHEz3wikc7S2Ok8V7h2nsut9yB7hLpwWC6BfQCrdhafnabwFkNCQDah9FXq98t8v00IwN2Tx7qQ",
+      "photoAttribution": "Pitangui Medical & Beauty",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "010-5490-7203"
+    },
+    {
+      "name": "Hong Kong",
+      "desc": "Vibrant city known for excellent food, great drinks, local dining culture",
+      "longDesc": "Hong Kong is a culinary destination that excels in food and beverage experiences. The city offers vibrant nightlife and authentic local dining opportunities throughout.",
+      "coord": [
+        22.3193039,
+        114.16936109999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17332863731023661436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJD5gyo-3iAzQRfMnq27qzivA",
+      "address": "Hong Kong",
+      "website": "http://www.gov.hk/en/residents/",
+      "photoRef": "places/ChIJD5gyo-3iAzQRfMnq27qzivA/photos/AcnlKN1a4THJlmKfp-uywqZ35XTEVXJ0GU4VtL_Xt-vondn69CKv0yefvUEa5sD8UrIqhvoTH8g7MKTWDCnNPlzygJv4drolMUWfdM07N8_8AEq-BEzuWc47MrfzThXK66u7ivLqePI4qQRpeuWh-ZFNc1-QE-t4GXC1Hj8uwYq-ga6v3v2EOW0I9MNlGLM_LBYC_Fu1RFTpG621ZmsHMa0drvbD3ANjrlK55vA5DWF_NVQN8nNDdCImPBLKE2kewI39tfhn7egMgmuHTyFnaMNFPiSgdZUmJSnBJikYhFiglpUQE9a8FSSg5J_zHvarITLiZuCK2tzosu3aTV3DBaBEO-dcavgaUPvAOorBNtaOoTxwIWcwdLkAZ8J1_JAOo7qRWx-5auWz7l0fknuHGSFNg1hfRx_XwQJeu5VHPIoreUO_QdVm",
+      "photoAttribution": "Kwokon Lam",
+      "tags": [
+        "Local Delicacies",
+        "Cocktails & Bars",
+        "Nightlife"
+      ]
+    },
+    {
+      "name": "Classical Gardens of Suzhou",
+      "desc": "Historic garden complex, classical Chinese design, thousand years of history",
+      "longDesc": "A stunning collection of over 50 masterpiece gardens spanning more than a thousand years, showcasing classical Chinese garden design through water, architecture, rocks and plants.",
+      "coord": [
+        31.324225,
+        120.62996899999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18179719224013445493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJKc-Kws-mszURdVmpX1BWS_w",
+      "address": "178 Dong Bei Jie, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215004",
+      "rating": 4.6,
+      "ratingCount": 65,
+      "website": "",
+      "photoRef": "places/ChIJKc-Kws-mszURdVmpX1BWS_w/photos/AcnlKN3bzcU8y4_G4_RfNunFwrHWBKVXV6gYRd5j9MCLI2UT5uv1OZuOVKq1UGGCuHUuDgjol1Q7xKw5O17N7ORes8lXgEUQZ4BpaoL53CjfnXav6M_wG9c55MmlsX-gv_OyWZr43ynmHB1xXozQeMSPqD1YDPQII3KIiwi9eAZJiaebzm2ojlr5rSrkD0HsgYWvRhjrl9rZlJ4CI0wfcA5w4h8zBBmjZTeYnXxNFHO3HWISmcaPG2ZD7sg4uTXhn4yJejvAUW6E818TuB9qbuzq0n3d1N05LYKwj8urHi1Ekc3eu-Hxa5f1kQg6w6xck9oddfqpMNXu_NC-iQs7QIlaZ2I36eRb_wxPyxI4ejmlCIv2w0ejampd2QC2ePCOwzjlG8SAjwHHI-HUJRegpv8RWzsiURmhbDeTMoCZgYNIVnMCgt_m",
+      "photoAttribution": "Jennie Nguyen",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Humble Administrator's Garden",
+      "desc": "Largest classical garden, 16th century masterpiece, ornate design and landscaping",
+      "longDesc": "The largest and most renowned of Suzhou's classical gardens, created in the 16th century by government official Wang Xianchen, showcasing ornate classical Chinese garden design.",
+      "coord": [
+        31.324223999999997,
+        120.62997000000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14480611266386760977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ95Kf4M-mszUREZWApzl39cg",
+      "address": "178 Dong Bei Jie, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215001",
+      "rating": 4.4,
+      "ratingCount": 2835,
+      "website": "http://www.szzzy.cn/",
+      "photoRef": "places/ChIJ95Kf4M-mszUREZWApzl39cg/photos/AcnlKN0Z4H4EaxdOFeNNWLmIxylg_d56G8ZsCY4EJdYQ_1JUNEQKM51wboyqkJzIM2orGtWVCSYvd5OJhjfQiqjzCRN2uMKpar1GcmJG2ro7Yvn4gmHOln2WL6poGgF8fRNDDm-nltNSQI553WJamp_7XvyW8kqmetQSocj0jAhrag4LwsSk_nAcDm1WEF0XYb68vVcUgUKRHhtnZkEQ8rwfG2moH3KKUfr5m05Pyjx2VDKutMfQUCBD3s86qololeRhGX_oeCEVvdebXh5H29HtO_RyoVJjRv8V_yVGIkn1LB4h8I94sE_dA3Xc1kh7Z6ke3TbuJt6g3zMnLyV7qoTCmHxVSj0c0gMW3ck3C69QjcnjffdkLYDNTU9nF2zjthKXcPMboNPG9VO2BVyIMCZF1JGjpEgLnD3XjoK76m1Q5E8osmI",
+      "photoAttribution": "winterlumen",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Outdoor & Nature"
+      ],
+      "phone": "0512 6751 0286"
+    },
+    {
+      "name": "Shanghai",
+      "desc": "Major Chinese city, excellent food scene, urban exploration",
+      "longDesc": "A vibrant Chinese metropolis known for its blend of traditional culture and modern architecture, offering exceptional dining experiences and urban exploration opportunities.",
+      "coord": [
+        31.230416,
+        121.473701
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=186075387070211233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+      "address": "Shanghai, China",
+      "website": "",
+      "photoRef": "places/ChIJMzz1sUBwsjURoWTDI5QSlQI/photos/AcnlKN2pJNTLpP6CTVhe8TeQGHTOXJI3EziccoPc4t8DfX8wXY82xYu2hx_4INbP_b5yJsc6pUMhHYDEM8lo6YQigmrpKkZ8b_qvdeEmpfa52mP5uNWPyb6iFQ5DRI8ta4hJZgEM8xMAiNXfp_ed0MekZ9Hhpu3XfkdIMcUxACKivAFxdKcIDFunn5HIQRFjPNhzC4rZcUSfdIbt9ggLxAztXa1oMnHCNqqatf2KPBCebVr5WJno9ECPRsgMM9RQY4F7U2MLGBUPqFU9WtkVL9VNDKtdn1P8cYytBNCjXZghRGQmw_RjVPATs-X7LOWoa50wZnWuyQ_v9j-QLZPThXha0x6BDtWRwtWLa5c-z24-XnPTEhxMWlnpVdI4M6D4y_4vMVQy11iiJAeIZSI9G3cIenuIZibQrfU_qWqSnSfL047_-A",
+      "photoAttribution": "Walter Galvani",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "Chengdu",
+      "desc": "Sichuan province city, famous for spicy cuisine, cultural richness",
+      "longDesc": "A charming Chinese city celebrated for its distinctive spicy cuisine, panda sanctuaries, and rich cultural heritage nestled in Sichuan province.",
+      "coord": [
+        30.572259900000002,
+        104.0665099
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13368463589386751490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJIXdEACPF7zYRAg4kLs5Shrk",
+      "address": "Chengdu, Sichuan, China",
+      "website": "http://www.chengdu.gov.cn/",
+      "photoRef": "places/ChIJIXdEACPF7zYRAg4kLs5Shrk/photos/AcnlKN1_OtblndKAiCdxjN_r2ppObTQL8z-dNKmBxwvDSMCP7QdCaFG8N6EDWx3hBDYfwc8V-AQEz_etGWIMAA_CthjXGLPIKpgeE3GDThcnugE3oV5US54JvaBq1wNiSuqL7G6O721rIvBnem1kSJDaFmXzAlMZvRvSY3kWlkEzZ21peCNeyPVZe7oUsdVwSa3XRwLN18cHgcnmZmoyj1XtL6Ia5zT0NxNLo1p78v5oFLaPYvKgLUkE1AJVYtLzOWUVajp98FVfrIhjPJPY5wlnzCT8RfTOzQ9fAtA-egEA_RxQt0RXbswvEgHo4NZIni8PyyvQFp83u9bsSYI38UrmVB37JfC_FLIrXUCmkU5Dl-BonVZ6r7YQ3npaOJ7b-_5ZdhHR9cEMrIQseff-Bb4ZPo7WKnXsR67hopMu9RVXejk",
+      "photoAttribution": "BRAJ MOHAN",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Local Delicacies"
+      ]
+    },
+    {
+      "name": "Beijing",
+      "desc": "Historic Chinese capital, ancient villages, cultural exploration",
+      "longDesc": "China's storied capital city, home to magnificent ancient sites and cultural landmarks reflecting thousands of years of history and tradition.",
+      "coord": [
+        39.904211,
+        116.407395
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13358334143110293898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJuSwU55ZS8DURiqkPryBWYrk",
+      "address": "Beijing, China",
+      "website": "",
+      "photoRef": "places/ChIJuSwU55ZS8DURiqkPryBWYrk/photos/AcnlKN0QyHM7txIp72aZ_ZrHrP8t9xr2GL0T8J3d4bJbuXaHTxY16HJjQnT00KIfIRtkwBlScFWjqSZ2n5KJQgqwnY3Uz6ZfmjPazsxHhbLOr9LnvSEtMzdOGHXcbXkW9wYD5jwgdxRYQPkjIbQTo-_RH1OoQhpUIq7AzfS46hgs3YWiWf7T6O4cge3ZKlndnSi8zObUk_70l7IKhfCaXy-Eo39b3rUetuJ2tVVuQxzciDxdURYRlHq4FX-02schi4Xuz9HAnqt60T1rmtBSb2jg5sjotYbiwYHp72oijAN8NXDct8E7SQx_rQ0z2riY9GHVpZyL04p8ov-HIjjy1a6J8ujt4IK4Zk7H5ITEhBzLDX8lp8SGKIdkH7kVe-hY4oSvYjE8jjPM5OKm89RmOAQ9qzPaDxC9dk0y4DkNNc_1qri_EQ",
+      "photoAttribution": "Reality",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "Yangshuo",
+      "desc": "Ancient village with stunning karst mountains, tranquil lakes, lush valleys",
+      "longDesc": "A picturesque ancient village surrounded by spectacular karst mountain landscapes, verdant valleys, and mirror-like lakes that reflect the sky.",
+      "coord": [
+        24.778429900000003,
+        110.49663
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5119436470979788805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJZVKVEX6lpTYRBQDurljkC0c",
+      "address": "Yangshuo County, Guilin, Guangxi, China",
+      "website": "http://www.yangshuo.gov.cn/",
+      "photoRef": "places/ChIJZVKVEX6lpTYRBQDurljkC0c/photos/AcnlKN0yVUmIJtWY6SgM-xM9uyucSqYm70oPzpz41_La9Ht6pBG9Ltv1zWAqahNz2pYiTuIyuDj7zd4iBsioRdThyzMwLqf8X3reqfQs8GZEkiWIM-Yz641aqqRDv5Bd6uWgrtmY0v76F2DNpSkIGs9kS5SFEYSS-BUDRYZKZWIVYJ1DbhHpXqA_o4fjemqjqNnDq7D1Q59xBNfE1dTvKZNuGGn7r1x39hCw-G3ZSXvlZqMcT_IqMIoq0D0egsNeRiyh4z4ATVm2fFHpq1fx6Q8Km4pzB8TcrfoFEaIfWCys9zVDwas58H4u9hFyN4KBU2ciNbawEIgfU4z5DNdTQOSanMQGHDU9xz1o-Etxkf_reh99SI7m-5HpuLdAJZsd0v7W4BJuKZ8R6i27iEH9VLuiKYY2yHM8PapN0GdY_hVpvq0SiQ",
+      "photoAttribution": "Massimo Deligios",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
       ]
     }
   ],

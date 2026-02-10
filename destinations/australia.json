@@ -1,0 +1,244 @@
+{
+  "key": "australia",
+  "name": "Australia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇦🇺",
+  "defaultCenter": [
+    -29.2591,
+    141.6812
+  ],
+  "defaultZoom": 4,
+  "hotels": [
+    {
+      "name": "1 Hotel Melbourne",
+      "desc": "Eco-luxury city hotel, sustainable design, contemporary elegance",
+      "longDesc": "A luxurious, environmentally conscious hotel opening in Melbourne in 2025, combining sophisticated urban hospitality with sustainable design principles for discerning travelers.",
+      "coord": [
+        -37.8229387,
+        144.95023
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3144833273878805660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJu8kGUgBd1moRnPxfVzOxpCs",
+      "address": "9 Maritime Place, Docklands VIC 3008, Australia",
+      "rating": 4.7,
+      "ratingCount": 260,
+      "website": "https://www.1hotels.com/melbourne?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
+      "photoRef": "places/ChIJu8kGUgBd1moRnPxfVzOxpCs/photos/AcnlKN2jsSt_xmxBmajvHROFQDQ1GGY5Q18nfh6ez-f-v5LhpyaF_x8b3bcF4WB0KDvgzokZ11_CXpyBmQFdoI-de7FDLt6M3ctANmt17mY13dKKP5c51gzj2eE3rN1kncCaqx4hXsiY5NHA3rgZU-xGmRHsB5NWFF_yb3Zso9sYsJezlzydoM9x6TElXByogDvV90yQi50ImJV_8pCMVrGwXf-I7U5Hb2k4JzP34JTJgOJZkLTkdFv_4P6tvJtF9cIWwT5IDvSdiUJP4kX9P-eoVJu1VNL84X7Of39dna2a38O1gA",
+      "photoAttribution": "1 Hotel Melbourne",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Photography Worthy"
+      ],
+      "phone": "(03) 7053 0888"
+    },
+    {
+      "name": "Turong Gates",
+      "desc": "Cabin resort surrounded by wild kangaroos, unique Australian wildlife experience",
+      "longDesc": "A distinctive resort offering cabin stays in a natural setting where guests wake to wild kangaroos roaming the property.",
+      "coord": [
+        -33.1389008,
+        149.89381229999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=558073855464673652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJR-A0NnzlDWsRdJFn-Tatvgc",
+      "address": "942 Turon Gates Rd, Capertee NSW 2846, Australia",
+      "rating": 4.6,
+      "ratingCount": 277,
+      "website": "http://www.turongates.com/",
+      "photoRef": "places/ChIJR-A0NnzlDWsRdJFn-Tatvgc/photos/AcnlKN0l44jmX6l557KtSgCM8bOdH_FQnLQYS3fsN1M9r6YMTBTLYkRCW32Gw7L4Ow12VHIg7wen6GUZKtEUOrECR13NpTdn1bEAWseFWgzbuG7UqkE2nsQGXpNGAu3szAX8RroD7hxUyYSFVmxuMwy0jw2OJH3PMuyBfIS0N7kjGJnDUjyb0Zfaw60fcXpZngrNaPXAl8fWb2SbPY7q2vL0kbxd8Tl5gf4MEKhMvxHDEPBgdmtBZRx6V7X2_LSeLiGZTExmylDzEbQCIq52021OIxH5kBzhmPdJ1JqhekjGBSFEPQ",
+      "photoAttribution": "Turon Gates - Mountain Eco-Retreat & Pet Friendly Camping",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(02) 9969 3818"
+    },
+    {
+      "name": "Australia Hotel",
+      "desc": "New boutique brand, immersive experiences, conscientious travel",
+      "longDesc": "An innovative new hotel brand launches in Australia, offering fresh approaches to immersive experiences and environmentally conscious travel.",
+      "coord": [
+        -32.049239899999996,
+        115.7490695
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9455779717279924185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJj6xuMmShMioR2T_Q0o2tOYM",
+      "address": "1 Beach Street, 2/4 Parry St, Fremantle WA 6160, Australia",
+      "rating": 4.1,
+      "ratingCount": 306,
+      "website": "",
+      "photoRef": "places/ChIJj6xuMmShMioR2T_Q0o2tOYM/photos/AcnlKN1tmI-y7EU9u-8LeNwPaMZDTM-MkqqKK8yOtEEeqbkibvJ0dbmEgSIM1Ma5oIt21iS8HdJz_qiXktui5Bjh7reQ2bO66RLtMMu95u6N90lTEhcAG0Qh8XB5nxQ1nDsVrhK8PmUUAc5msDdrL1g0Wm61hQuBqBLWAO8GcBiyoAaNoHgNrERGvPOHW42-e7ruNAeWWPqpfR8uXa5bvvQSYu0XFuHWAHmXX0pdATz398fd9pQVYdck_IcAesC35ENB-4wkJ-77Dt5G9Ria5USjrDqhBKCLmbOdwVrlNqnybD07837MrTXlQGad6xiZOUWclOTiNCG-1Um1fLZMsiacnL8GDtQ-41s6SEz1u9nanTo7dpg46EynuCj3GBmeKE3jCKciDrzTTD1dAZq0q4He6Z-T2kz9xR9vsmfHx78YvJY1zX9jeyA5b107wV0TpISP",
+      "photoAttribution": "David Cano",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: 7:00 AM – 5:00 PM"
+      ],
+      "phone": "(08) 6256 5656"
+    },
+    {
+      "name": "Longitude 131°",
+      "desc": "Luxury lodge overlooking Uluru, nestled among rust-red dunes, breathtaking panoramic views",
+      "longDesc": "Baillie Lodges' flagship property nestled among rust-red dunes with sweeping views of Australia's most iconic natural landmark, Uluru, in the nation's rugged heartland.",
+      "coord": [
+        -25.2503589,
+        131.0080575
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6608035561491311298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ24TZRSNAIysRwqrWEVV1tFs",
+      "address": "Yulara Drive, Yulara NT 0872, Australia",
+      "rating": 4.8,
+      "ratingCount": 204,
+      "website": "https://longitude131.com.au/",
+      "photoRef": "places/ChIJ24TZRSNAIysRwqrWEVV1tFs/photos/AcnlKN0wfdIPvzEpibExJ76UyvBuTeda6AhiEkqVQN2X3ISA3htx-oT_bTWTVJihdQi8MV7EKj6cjUvlJ3rx6vfnymcHSMUvUSedZePlqhZ_-xDYa9VTCYAZIo_wSwl91gZz0X2GaJd9lgToy_OsgTU-IRubi9f9W3b8kHQ0oR2EkcktfZPRCmMPeK3_7-K_sbnAlIimMsrzlomIGirFqgfhOxAXNB7KRKoi9h4eHHEPCDidtPeVsJW8PKVGzOVaZi7ly5w6cdyVXaj9jzErAbyrqHEEucejKuzzV03hJjlhvQoymw",
+      "photoAttribution": "Longitude 131",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(02) 9918 4355"
+    },
+    {
+      "name": "Lizard Island",
+      "desc": "Remote Pacific private island resort, azure waters, exclusive seclusion",
+      "longDesc": "Exclusive private island resort surrounded by azure Pacific waters, offering remote luxury and serene seclusion for unforgettable getaways.",
+      "coord": [
+        -14.6676469,
+        145.44834079999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6644250580918719405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ_____1sgnmkRrdNXWrMeNVw",
+      "address": "PMB 40, Lizard QLD 4871, Australia",
+      "rating": 4.7,
+      "ratingCount": 144,
+      "website": "https://www.lizardisland.com.au/",
+      "photoRef": "places/ChIJ_____1sgnmkRrdNXWrMeNVw/photos/AcnlKN15YJxwUHb6dLloboEPvzOqcxpS0PVs1ZtZI6AkxB2M7M8i1Kg44g6DxCmQGarqGt4YNQ477dOVuGOitgESjHeqYnX6irqM2HJSQ2urCGmOxPliV_8kLn7DZ3O1JZ-qfMRLRLxMVm2oMfDf7kdw_j-KvnyH2Elex9eWp7vCl0DDBx6-eOl4jUTj4v5obKQjKUAWcGYcKADjeRKZJnfwX7-S5w2eehJdARVHG5LcAAvOf0LIgEKL3qv5w2xUZMO6EPZRcPbba5-C6l7DFy3P2F51TyyBOqDTl6lj8sJQ0oAS9Q",
+      "photoAttribution": "Lizard Island",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "phone": "1800 867 169"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Greenhouse The Bathhouse",
+      "desc": "Bathhouse with vegan cafe, wellness-focused dining and relaxation",
+      "longDesc": "A unique bathhouse destination combining thermal spa experiences with a plant-based cafe, offering wellness and mindful dining in a serene setting.",
+      "coord": [
+        -28.1294841,
+        153.4197787
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10783836312857811716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ2eOB6KoDkWsRBBvZx_3hp5U",
+      "address": "268 Tallebudgera Creek Rd, Tallebudgera Valley QLD 4228, Australia",
+      "rating": 4.8,
+      "ratingCount": 441,
+      "website": "https://greenhousethebathhouse.com/",
+      "photoRef": "places/ChIJ2eOB6KoDkWsRBBvZx_3hp5U/photos/AcnlKN1Vy2_wKW5yHoAb5wODNg4w8eMSvTrILIDGHZRdfgvVq-aFQhbiEl0gS3E2vfsuc73eiEOpUW2tFEJO5w8j7hfIRr2ob6AW37_p7SxIlg-rcR_Qah0hYjOfIFC5ojOjWUJAjMnAFvDK4F-6dN94vawJE1GaHqT-FYhLIexddtkoP1AFYBGsGQhKeL60sJlQqMjE7Gr1Z_9zKGgH4Eat8UMuHrllqYwyJi3yQ7QH_9LprMX0IK5SRFIJJ-jwHT3s06CxrEAf6PuzGbwWmF2ugX67eHeqPSGYYRKnvgFEFy1ACQ",
+      "photoAttribution": "Greenhouse the Bathhouse",
+      "tags": [
+        "Wellness & Spa",
+        "Casual Eats",
+        "Budget Friendly"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:30 PM",
+        "Thursday: 10:00 AM – 4:30 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: 10:00 AM – 4:30 PM"
+      ],
+      "phone": "0435 137 364"
+    },
+    {
+      "name": "Sydney Rock Pools",
+      "desc": "Natural rock pools, scenic ocean swimming, abundant Sydney locations",
+      "longDesc": "Sydney boasts 34 spectacular rock pools nestled along its coastline. These natural ocean swimming spots offer unmatched views and the authentic thrill of wild ocean swimming.",
+      "coord": [
+        -33.7552112,
+        151.2991089
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13718747484524986827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJY_ZobZmqEmsRy0Fl8ibIYr4",
+      "address": "Oaks Ave, Dee Why NSW 2099, Australia",
+      "rating": 4.7,
+      "ratingCount": 841,
+      "website": "https://www.northernbeaches.nsw.gov.au/things-to-do/recreation-area/dee-why-rockpool",
+      "photoRef": "places/ChIJY_ZobZmqEmsRy0Fl8ibIYr4/photos/AcnlKN0I6fVOuD8I2hTmDgwDXWTkdZALZvomn86JfolDevNecEw5v3Kxikg-Iex29KwqCBD0QSj7JYXcGCh9r0PuELDYtdy5rvfi7HHWWUNnUu2VsndnIkWgFnp17SKOsVPsETO4vRVs64kZGAcb2NaR8HBOm3emFpmHSmrgfFM1O0Nlu6qFNaoSbcV0rgWTBJpiHakmhMD8VOpia-gSLa0qm8NgBCVNJ4fIcIckrZ2oDxccaISJvgjzidQUkUOJY5LgDJPSdaT1abaASdohDAjW4C0LJLrhtZHNyYE7zIg6paN1qhJvCAVjDHeS0sFIolXPxCg9Ju6ilL-o9VpTQVgBnzvxW9qSoIiINe5fCbb-rgXh4stD39ZXXrEdNaGzofF6v3YPeg1-_yg8Qg7dhnF4GAQvZ_jDcj6fuy2jyepkT4hmeRg",
+      "photoAttribution": "Mushfika Immi",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Melbourne": [
+      -37.8229,
+      144.9502,
+      0.03
+    ],
+    "Uluru": [
+      -14.6676,
+      145.4483,
+      0.03
+    ],
+    "Sydney": [
+      -28.1295,
+      153.4198,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

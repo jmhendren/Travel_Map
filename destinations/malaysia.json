@@ -1,0 +1,84 @@
+{
+  "key": "malaysia",
+  "name": "Malaysia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇲🇾",
+  "defaultCenter": [
+    3.9768,
+    102.5616
+  ],
+  "defaultZoom": 8,
+  "hotels": [
+    {
+      "name": "Park Hyatt Kuala Lumpur",
+      "desc": "Luxury city hotel, prestigious Hyatt brand, panoramic views",
+      "longDesc": "An anticipated luxury hotel opening from the prestigious Park Hyatt brand in Kuala Lumpur, offering refined hospitality and elevated city experiences in Malaysia's vibrant capital.",
+      "coord": [
+        3.1418445,
+        101.7006433
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6632777937244079985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJOzR3HpJJzDERcUd7V2RcDFw",
+      "address": "KL118, Presint Merdeka 118, Wilayah Persekutuan, 50118 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "rating": 4.3,
+      "ratingCount": 221,
+      "website": "https://www.hyatt.com/en-US/hotel/malaysia/park-hyatt-kuala-lumpur/kulph?src=corp_lclb_google_seo_kulph&utm_source=google&utm_medium=organic&utm_campaign=lmr",
+      "photoRef": "places/ChIJOzR3HpJJzDERcUd7V2RcDFw/photos/AcnlKN1VJMHSYhiUZXYpLjPxDmCZBGzBuWV6gPQCs3HH3UFmwANKyKnv_emypay2n4Nmz0Na6YimuE0iiG6x1hE13-EvUGlodxOq-O_mH5eIjr35eTLzjYkCj9RInjY4fSS5AF_LLtVZKhQKz3I01P_-X3hpFneLQeUPD8YmectsZff4MbDA8dlG9Tvtwe3aCGNCwm93udYmgQ6k2s59GyefvDF6rbjmcf-uSfCw-PmcTr_UInmCGCwRB6KlUa0g1ucmioVzYSjIb6hh68mHlGujYZSzbHV9GvEs0_ObXxw05FHBvQ",
+      "photoAttribution": "Park Hyatt Kuala Lumpur",
+      "tags": [
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "phone": "03-2333 1234"
+    },
+    {
+      "name": "Tanjong Jara",
+      "desc": "Beachfront resort, tropical design hotel, serene coastal escape",
+      "longDesc": "A sophisticated beachfront resort on Malaysia's east coast, combining design excellence with tropical tranquility and conservation values.",
+      "coord": [
+        4.8118345,
+        103.4225697
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16725814132191791563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJawaVEEYEyDERywmACFYHHug",
+      "address": "Batu 8, Off Jalan Dungun, 23000 Kuala Dungun, Terengganu, Malaysia",
+      "rating": 4.7,
+      "ratingCount": 2347,
+      "website": "https://www.tanjongjararesort.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "photoRef": "places/ChIJawaVEEYEyDERywmACFYHHug/photos/AcnlKN3JT3z48Y0Ry_zniydjxprG5QsjVjjl25v14WgflVB98LxzbVhgz-Wbv5WaHwPhrmG-TgjZRXtBP5RoBGdadItV7CvTS7w9ZTZY_kYPFJ8421Iyy15qUcykojT3n1tmHPutPrkrJogV36QWXg7hn3yW2wtafBVWXKqszg6b_aU_aAUUnDWBO-emRtvUCNR7Sg4bz-9YdsTrW7cMF_3ecpEKj2OY8waGiZlC3wZUafDlZbFkd5sxocglWcduqvs2VS5PrUcoYYVqnZNlRumXubv7nI0l-TaJdJkTp-xPFoYyBw",
+      "photoAttribution": "Tanjong Jara Resort",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "09-845 1100"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Kuala Lumpur": [
+      3.1418,
+      101.7006,
+      0.03
+    ],
+    "Terengganu": [
+      4.8118,
+      103.4226,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

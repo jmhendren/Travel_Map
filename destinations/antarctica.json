@@ -1,0 +1,41 @@
+{
+  "key": "antarctica",
+  "name": "Antarctica",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇦🇶",
+  "defaultCenter": [
+    -82.8628,
+    135.0
+  ],
+  "defaultZoom": 10,
+  "hotels": [],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Antarctica",
+      "desc": "Uninterrupted ice horizons, charter flight access, extreme remote isolation",
+      "longDesc": "Antarctica offers an uninterrupted line of ice and wind where distance and geography create genuine separation from the world.",
+      "coord": [
+        -82.86275189999999,
+        135
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12721835759599404999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ4Ql4Koj_nbARx8fIXTgKjbA",
+      "address": "Antarctica",
+      "rating": 4.8,
+      "ratingCount": 5,
+      "website": "",
+      "photoRef": "places/ChIJ4Ql4Koj_nbARx8fIXTgKjbA/photos/AcnlKN0KStU33ZAMPgf0JMVNHGVMoVn0IW3knNe2sqguixbse9OxSR1YjwhPmntS9U5NWEUcyumygJQB0a_pS_gXYZW-ndN_X0U_26KnhRYW3Yn5g6s88GXVjtclmfLdjGAbS_BFvj9_PnUGXo0zSRkaAvwEJ-fX1S2GhOBo2TfJgj-FlTgApm25QgG-zMuZ1jfQvWIGKH6ftuIuEPk6L9HNC1adZ_7nKStTJ65Y74kaF6DDHd4Nme94J6nWRJG2lyavarzsDTe1Sxu1HjxZhzWzwGMckA3vxmOvxAMRpxoD_aoPHTQRp0d8_IFNmm0fUSMk0_KqbUfJXs6dYkLpY5b8T0C0pHISsZDlxZgkH3qJwakCYronCh4b2TP-OhlOQsA67T1JZBKtMKL6Kekl3uZoGVskkJma4SS51bFL4i3qu44",
+      "photoAttribution": "Randolfo Santos ·",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Splurge"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {},
+  "itineraryData": {}
+}

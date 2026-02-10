@@ -1,0 +1,49 @@
+{
+  "key": "saudi-arabia",
+  "name": "Saudi Arabia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇸🇦",
+  "defaultCenter": [
+    25.7129,
+    37.2393
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Desert Rock",
+      "desc": "Luxury resort carved into mountain, sustainable design, renewable energy, nature-integrated villas",
+      "longDesc": "A stunning eco-luxury resort seamlessly integrated into Saudi Arabia's Red Sea landscape, featuring 64 villas powered entirely by renewable energy with minimalist design principles.",
+      "coord": [
+        25.7129375,
+        37.2393125
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11415611525146551423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJN1iWL5BxsBURfyQ3GjNmbJ4",
+      "address": "7GQVP67Q+5P 48561, Saudi Arabia",
+      "rating": 4.7,
+      "ratingCount": 488,
+      "website": "https://www.desertrock.sa/en/",
+      "photoRef": "places/ChIJN1iWL5BxsBURfyQ3GjNmbJ4/photos/AcnlKN2dNPeUVRJfgDkvvtGDKxv34vbHU4-wnXK7fFYhv3BhBTnEEKHATD6EdqBz-wx0dKnnxBQCM_iarZig-LY328it8wkeh3mEHAWVrXQg4d4xRQ_9NmsG80ZZ2NUQuUMMEFY4ZghNmLIOVrXVfUf5aRmqZuEIgu-rDkWklKo_xD4ffYnlkLclaubCkb62snYl3zso3EpMPurojKreA1pbLFaEHeMqdg8OVBd7Kt0ZxkYAiY5tCyEubGEvgHVI5ZPB5cCzS0zaPygnKUL-9wgrGfc76ecVJpRL8pckgLhAmKsvog",
+      "photoAttribution": "Desert Rock Resort",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Wellness & Spa"
+      ],
+      "phone": "9200 11099"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Red Sea": [
+      25.7129,
+      37.2393,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -1,0 +1,428 @@
+{
+  "key": "india",
+  "name": "India",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇮🇳",
+  "defaultCenter": [
+    26.4342,
+    76.8058
+  ],
+  "defaultZoom": 5,
+  "hotels": [
+    {
+      "name": "Ananda in the Himalayas",
+      "desc": "Himalayan wellness sanctuary specializing in Ayurvedic transformation and ancient healing",
+      "longDesc": "A luxury wellness resort in the Himalayas offering transformative Ayurvedic treatments rooted in ancient Indian healing traditions.",
+      "coord": [
+        30.157787599999995,
+        78.29142530000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2916180119016509406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJiwNZZGE9CTkR3g8JH15aeCg",
+      "address": "The Palace Estate, Narendra Nagar, Uttarakhand 249175, India",
+      "rating": 4.6,
+      "ratingCount": 2555,
+      "website": "https://www.anandaspa.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GoogleMyBussiness",
+      "photoRef": "places/ChIJiwNZZGE9CTkR3g8JH15aeCg/photos/AcnlKN10R-e8ZfFyvoKLHuBst-yR5LrZOZINILh4vN4sYezDy5d6XwwJizkLwjzoOMBk61b-HHM6uXhW1zCHwLmShIRKOkCVDLpbfyTNkAxN2aWZMA7f8Dh_-DIoIUppKdp0T3OVRZ0jCAY1_gKGe5QPYN3Ju8JPhcG3rwNvx2DhLRVer72oMYGuMvY5SIsLgDcvjC8eEOiSKS58c5S0DPDQT9edYmNfUgEcCXhFODwi2VEf5zEZf8XECUWVYqHcXTS4Suqbw_rev8keEu_u6uE1rjfmhyybQ5IbQvAWI3wwWN4fwA",
+      "photoAttribution": "Ananda In The Himalayas",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "080 6975 0000"
+    },
+    {
+      "name": "Ennismore Hotels - India",
+      "desc": "Ennismore's India debut, luxury hospitality expansion to Asia",
+      "longDesc": "Ennismore expands into India with a flagship luxury property, bringing the brand's distinctive hospitality philosophy to the Indian market.",
+      "coord": [
+        28.5254659,
+        77.10025739999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5578504462627518558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ_X7HKP8bDTkRXjjYqEDUak0",
+      "address": "National Highway, 48, Rajokri Road, D Block, 6:Samalkha, Samalka, New Delhi, Delhi 110097, India",
+      "rating": 4.3,
+      "ratingCount": 11068,
+      "website": "http://www.theumrao.com/",
+      "photoRef": "places/ChIJ_X7HKP8bDTkRXjjYqEDUak0/photos/AcnlKN0Bt2kGXSQVHdHuGyoWoXthDxTzqChhi96IiebrEvaKcmbnbQEVoyS3bnrAHYQBZuKSTMHik9UrmaVi3BNWc_WfzYRpyFSfb82SRZ-4zQm6PCeyEi3oGYpULdIgQYEjYty8-6zmyMR-FAWkTzzqwy87S8POsS0zS6TM0-qrBNJSO2ElVz4Wk2oEk_HuB2nk6COoAoLMXSFSTeU4tJmTkRJTPQUPqexR5YBUOU-6DMhTWA0UmpQq0NjLme0wQEcVXg1IQczZFjmG1pejGznXNKR7tlxEv06QIxgTHWM6qOzT2A",
+      "photoAttribution": "The Umrao",
+      "tags": [
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "011 4770 7070"
+    },
+    {
+      "name": "Lake Pichola Palace Hotel",
+      "desc": "Floating palace on Lake Pichola, serene waters, palatial luxury, architectural grandeur",
+      "longDesc": "A breathtaking palatial hotel floating on the serene waters of Lake Pichola, offering luxury accommodations with stunning architectural grandeur and romantic lake views.",
+      "coord": [
+        24.5754433,
+        73.6800308
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2812662043869934659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJiwt_-OzvZzkRQ3QXDjqVCCc",
+      "address": "Lake Pichola, Pichola, Udaipur, Rajasthan 313004, India",
+      "rating": 4.8,
+      "ratingCount": 7480,
+      "website": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur?utm_medium=local&utm-source=google&utm-campaign=taj-lake-palace-udaipur",
+      "photoRef": "places/ChIJiwt_-OzvZzkRQ3QXDjqVCCc/photos/AcnlKN12dpF_7ZpEhCfiRVbtnz2FQGmI0PEN6GbEDAlI50x7nad3RCJ3YwMEBLeVdgP2q7TFWmmgEuTiMXYWhzSyGVHBSJKSMrjMI1440-CYamCdwBzwil7NeoHTztRdoSKzbSJ_foUkjzLJ6RTyOdp5oQje20_Zh8HAKz2V89-9I_1MQxzZFymsYBubkoLD6AhrMSPiDHYCJuuXgWjNelbyFY1jksM8QnoBoXpwRbgV5v-oZPocjFjfLMhkDHcCybf1o8CRDd49o6X4Kvr31LEwIuA-TzFqEQmxsk3xUx_LZP4NTw",
+      "photoAttribution": "Taj Lake Palace, Udaipur",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "0294 242 8800"
+    },
+    {
+      "name": "Ancient Fortress Resort",
+      "desc": "Five-star resort built from ancient fortress, heritage architecture, palatial grandeur, luxury experience",
+      "longDesc": "An exclusive five-star resort constructed within an ancient fortress, blending historical heritage with modern luxury and palatial elegance for discerning travelers.",
+      "coord": [
+        11.4458928,
+        77.0040767
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2866218326628282392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJFQAAwNHCqDsRGLBk12Haxic",
+      "address": "Aracode, Tamil Nadu 643216, India",
+      "rating": 4.3,
+      "ratingCount": 93,
+      "website": "http://kokode.co.in/",
+      "photoRef": "places/ChIJFQAAwNHCqDsRGLBk12Haxic/photos/AcnlKN3BVfMNXPerP3Gl62osvwqzStZILJ6_2wYyZfXps4W0T87bDJczmbfY67UUkMBb4RH5YIsJpZTneXnHzQ-MopWm3qpKtmsT1giGW3_amtqNev0rKPwxvGtOGIWqlEgV_q9wPyVAyZ0EdSoSCRObv285r5H0koJVdofQDNG9aJGRqZRItVwz9Dx4CN9JT9Ve4wutrv8uDZuhd5Ez5uSJ5rKGdTekOASjLV_Ya8k6V40SULeN29ZsAg0RkafNVXnN5DdfnhgW0FEz0b86mzP0tZvqXvDKwmOXqBMmeiBBOls4zsvd0S2ORWJZCc7_S9C4FZNBFqdbSYQdmdXMw8OnU9mLOWg3sQbAWlvEf4O0GHXEkXYXq3Njvb0SthoNF5b98uaEbwsMk1ZJIu43LZ8SDGo4BLcaQhzW5e8qlpu_Z0m2vpH_",
+      "photoAttribution": "Mahendran Vellapandi",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "099160 87965"
+    },
+    {
+      "name": "Villa Palladio Jaipur",
+      "desc": "Newly opened luxury villa with bold patterns, fantasy aesthetic, magical ambiance",
+      "longDesc": "A recently opened luxury villa that transports guests into a fantasy world enveloped in bold and striking patterns, offering a truly magical and immersive experience.",
+      "coord": [
+        26.924201,
+        75.91743919999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=210898683262474656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJWXx9Z665bTkRoBl1KzxD7QI",
+      "address": "Abhay Niwas Palace Sumel, Jamdoli Chouraha, Sumel, Beermalpura at Mukandpura, Rajasthan 302031, India",
+      "rating": 4.2,
+      "ratingCount": 205,
+      "website": "https://www.villa-palladio-jaipur.com/",
+      "photoRef": "places/ChIJWXx9Z665bTkRoBl1KzxD7QI/photos/AcnlKN20-3STuSuVt5lWbDlzVPTjoBMTtMRQLPHmwA-Pq8RLIP1efYrj7tLvLoxIPkTx6nrgmwfXaQVouMpXE91GJmOWVOsoghNN0fji3q1rYmozqU8gPLX2kFwP0dslaOUqXHF1zDKhqTz7W-BpjBz5hV2AVO9KtB-CO_Ny91UJgMjxGx4K3HAYAoE9WY5sllXnf6DQpQnaaN_e4TNMDCP1AgZ-NVwugfW1NkU-hrE2gWNfCU5C9XYXrTby5Yp590b-5rMBpzCBWceJ17DeEwgHeNEbh4HVKUhzOOD5gZAVMLIW1w",
+      "photoAttribution": "Villa Palladio Jaipur",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ],
+      "phone": "0141 296 9762"
+    },
+    {
+      "name": "Aman-I-Khas",
+      "desc": "Luxury jungle resort, tiger and wildlife viewing, sunset ambiance, crackling fire",
+      "longDesc": "An exclusive wilderness resort on the edge of Ranthambore National Park where dusk brings crackling fires and opportunities to spot tigers, leopards, and deer in the pristine jungle surroundings.",
+      "coord": [
+        26.0636546,
+        76.4412208
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9636342027793985827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJn44ap_HYcTkRI_HTzAQqu4U",
+      "address": "Village- Sherpur, near Ranthambore National Park, Khilchipur, Sawai Madhopur, Rajasthan 322001, India",
+      "rating": 4.7,
+      "ratingCount": 1429,
+      "website": "https://www.aman.com/resorts/aman-i-khas?utm_source=Google&utm_medium=Yext&y_source=1_MTU3MDc0OTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJn44ap_HYcTkRI_HTzAQqu4U/photos/AcnlKN2z6v-5glxzYl46KKIktZsybp_q5kiVwTkuBq1QLKnAy6zrxfCDgj3yGhi5hx5v2MUjfFRgtgLNUf-aEDGlpqkfFhraH8iP29QOxXKlYZA-D9kExBDPWJa7j1n2LqYAirFwOyLLbM3w3HuNT-hwrQQhFQe9SY0N6B35v2rCq9xO1ZAIzK_NMfoe-fNrx5v9xWG1PstBj4dyJUzmHixVOvhhZWGA_92z7HcqRAls9R2415ybRPwY5qz3G7zEJbaYljfL_ix1EPYJPKvR-4pGbckapDrYYgpe4pRwBqaxc5G08A",
+      "photoAttribution": "Aman-i-khas",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "phone": "07462 252 052"
+    },
+    {
+      "name": "Shakti Himalaya",
+      "desc": "Himalayan wellness retreat, mountain tranquility, spiritual winter escape",
+      "longDesc": "A serene wellness retreat nestled in the Himalayan mountains, offering cold-climate rejuvenation and peaceful alpine spirituality.",
+      "coord": [
+        28.479326,
+        77.078181
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17312189291571567308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJR_AEvxgZDTkRzNpx0G9AQfA",
+      "address": "903, Vatika City Point, MG Road, Sector - 25, Sushant Lok Phase I, Sector 25, Gurugram, Haryana 122009, India",
+      "rating": 4.5,
+      "ratingCount": 2,
+      "website": "https://www.shaktihimalaya.com/",
+      "photoRef": "places/ChIJR_AEvxgZDTkRzNpx0G9AQfA/photos/AcnlKN1nwEgoYjHpTPko7alUpCyzYjhDJ9BhmaRGw5B6h3a8FrIyVjsX3J75z0YNfUxognjmV83e49uvgylu0FBdI_p9lCVSNN8II_ZuWByJaZxY3_aIKT5nO8Ro3wqmkxRiuY5OD9opf5vWxlY3c62xkAk1MeB2RtTzjtzbOGZX-7MF7YE2AverUMD1TpMLmzDnkmbqo6G_D_bUW9KWhSfuqmko3wjY-yRSiMqUeF5ZiwI1ghxaYbUKdbsuXvRQfUChKWHiadbQILBmvs9AdnFVH8CWPBAS1sy_FdPCoJmD3EtNkA",
+      "photoAttribution": "Shakti Himalaya",
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Splurge",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "0124 456 3899"
+    },
+    {
+      "name": "Six Senses Vana",
+      "desc": "Himalayan wellness retreat, Ayurvedic programs, transformative experiences",
+      "longDesc": "An exclusive wellness resort in the Himalayas offering comprehensive Ayurvedic treatments, holistic programs, and serene natural surroundings for rejuvenation.",
+      "coord": [
+        30.373621699999998,
+        78.0766201
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13808423386056965009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJZ0bob7bXCDkRkTsf0uhfob8",
+      "address": "Mussoorie Rd, Malsi, Dehradun, Uttarakhand 248009, India",
+      "rating": 4,
+      "ratingCount": 152,
+      "website": "https://www.sixsenses.com/en/hotels-resorts/asia-the-pacific/india/vana/",
+      "photoRef": "places/ChIJZ0bob7bXCDkRkTsf0uhfob8/photos/AcnlKN3fgwS9EfIYHNSbrLNqFs0N6GRL293UCwuB_uf7BS1swL6XJMM6QPQzKSHcUXZbFUeIejSQqAaa50doPDNqAItsZmZwL6hRCHhO4VKjpvQZOkc4pMqJ6BOGGWdXuH6rQlrT5v2wB0ywKV4aODfwiJMoR89VqyBE49LKgVtE7zqdXqsKlpWb2QksLeg1Q02rrVPg4qvgH1i9SRrHwjs54crr-OvtdBxPKvM7KCe1Qdy6Xa-wqY_lyaRDWmAN06twUODzxCm_XlI-TBkO7yIrvDFdrOJ6c-spnLBFPHKu4k5-JQ",
+      "photoAttribution": "Six Senses Vana",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "0135 351 1111"
+    },
+    {
+      "name": "Shakti Himalaya",
+      "desc": "Sacred Himalayan retreat, spiritual immersion, holistic wellness programs",
+      "longDesc": "A transformative luxury retreat in the Himalayas dedicated to spiritual growth, yoga, meditation, and holistic wellness in a serene sacred setting.",
+      "coord": [
+        28.479326,
+        77.078181
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17312189291571567308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJR_AEvxgZDTkRzNpx0G9AQfA",
+      "address": "903, Vatika City Point, MG Road, Sector - 25, Sushant Lok Phase I, Sector 25, Gurugram, Haryana 122009, India",
+      "rating": 4.5,
+      "ratingCount": 2,
+      "website": "https://www.shaktihimalaya.com/",
+      "photoRef": "places/ChIJR_AEvxgZDTkRzNpx0G9AQfA/photos/AcnlKN0F9MPYgbEhC9y-DJVc7aKBkY3cvuqBOsoXwqw-gY9lWTaDqad47APryw_hLUpylO7qeKCNzlTPkWL7P0gq2rReMG1YQCBtREUP_YTQgJQwXU2U7WkJjl_tWIeXY3SnqeGKqFZyrVf3VYWcTD71QrJXmFG_UzEo-4uCbZhqqZ1Tz4ZrJAmS_w_BxM0AXuLTj9CAGaFMSinJhi3sbKzpH0yE40xGMFsuDxwKRTzLs0Nv1qljsOZsjNrwpXPI_zHurPYMsysBMKxN5-wIs1rlYJwFCllLI0uCSwC8YrALEu60Sg",
+      "photoAttribution": "Shakti Himalaya",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "0124 456 3899"
+    },
+    {
+      "name": "Six Senses Batwara",
+      "desc": "Luxury spa resort, intentional design, unforgettable wellness experience",
+      "longDesc": "A meticulously designed luxury spa resort rooted in its location, offering transformative wellness experiences that guests return to again and again for the lasting impact.",
+      "coord": [
+        26.0505702,
+        76.1579884
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12540999061134532782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJc8S5Ib8-bjkRrmBudzOUCq4",
+      "address": "Six Senses Fort Barwara, Chauth Ka Barwara, Rajasthan 322702, India",
+      "rating": 4.7,
+      "ratingCount": 2760,
+      "website": "https://www.sixsenses.com/en/hotels-resorts/asia-the-pacific/india/fort-barwara/",
+      "photoRef": "places/ChIJc8S5Ib8-bjkRrmBudzOUCq4/photos/AcnlKN0mbWkX8qxvVXrXCdwzWJh39QX6VY0xon5ePi6Ay3zJcAReY8BVBCzCeV6QMHQUUynnPi792T2HmkTyWK_2tqdgmbIbGtFPN3nDkItlWaX5c-0vPdjpUSNMwaZNXDrtIuzMN5p6r5OtsSMo8XMrNKZiFlU1WuBcU788OYwNMdl3p2vrGwvvkr-ybf3aYN_1sRYVGxfQBaTV891BzcD-IUS7YSZgeEAWQ-AxQ12afcI0US7THpwZg6mDfTUPd06JApX3HZCTB1A3lbyuMvgYAvLLzzJ_IjZJHhRcVmn0Zyr3dw",
+      "photoAttribution": "Six Senses Fort Barwara",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "07462 257 777"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Ranthambore National Park",
+      "desc": "Protected wildlife sanctuary, tiger habitat, diverse jungle fauna, untouched wilderness",
+      "longDesc": "A renowned national park harboring tigers, leopards, and diverse wildlife species within pristine brushwood forest and jungle landscape.",
+      "coord": [
+        25.9775867,
+        76.5532869
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7978680392858913061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJF1XWaPbYcTkRJcm6YIv3uW4",
+      "address": "Rajasthan, India",
+      "rating": 4.5,
+      "ratingCount": 12163,
+      "website": "https://www.tourism.rajasthan.gov.in/hi/sawaimadhopur.html#ranthamborenp",
+      "photoRef": "places/ChIJF1XWaPbYcTkRJcm6YIv3uW4/photos/AcnlKN3WH7WmIlbNzROMel4jZh2LBK-tDXc4fOHXYbmc-4nXHwsKWC6c2S-7x0ap69JyC-LfWHsEpVN3IUpHl1q5T-G0MeAIIFFNhGTEiisbQtrrj4ZebdBZspqL4LGTKpJlb6AmMse3vfmJb3GfodYqqbopgbL2apEOQjtw2Y8lgMlgzs-gUuBT_eLR6y08myH_65_fYDK_lTjVbtVLaqlZiSeo3Npwb8l7kp8VJAyotembBkq_rGtmmxkt82zd5rxm1z86qQCrHBnk7NROZPEwKXoISLxQnh9FOIl9AMG0b7caYGJMX8rk4Xl07bsRyNqjCVn9vZOFn-69WmleUVrEp60CDU1SpI1qTyP4l7xCcFcQvUOIOqzEPEs8acGEhgSLErgVt23lJsimVhnthqlrjz1bbS4OlDqdfEle9w15MVNzqw",
+      "photoAttribution": "Huzefa H.N. Wala",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "phone": "0141 515 5163"
+    },
+    {
+      "name": "Himalayan Chakra Cleanse Spa",
+      "desc": "Chakra cleanse ritual, Himalayan mountain setting, spiritual wellness practices",
+      "longDesc": "Experience a transformative chakra cleanse in the serene Himalayan mountains. This spiritual wellness retreat offers holistic treatments rooted in ancient practices.",
+      "coord": [
+        30.157787599999995,
+        78.29142530000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2916180119016509406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJiwNZZGE9CTkR3g8JH15aeCg",
+      "address": "The Palace Estate, Narendra Nagar, Uttarakhand 249175, India",
+      "rating": 4.6,
+      "ratingCount": 2555,
+      "website": "https://www.anandaspa.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GoogleMyBussiness",
+      "photoRef": "places/ChIJiwNZZGE9CTkR3g8JH15aeCg/photos/AcnlKN07yVA1SpW-Nl6TguVmKmXgKw--oDCgwVHEwEEObcg8u5pnmBHe9o2sHjsmBtWm6dJc7QvS0XB_W17C219eg6OmIEoZRde_EBP-DOEBErNCRaXWA1zWW7Uwck5JXciJ1vEBOKlmmay9zjpQp697i080yLDI9jdzR-ozCF_P1THqGGEOUJYx-vFA1PqfcbywOThT68EE0Pc7gvLX-EYcfGRkqu6Jb9SBUOPmH95ZfjWIB3qRZuu6CjGIRl5CeJXVorQkU_FveF5c6aFpvH_eqp3CmKWXEgztzXojrQG6mPqWoA",
+      "photoAttribution": "Ananda In The Himalayas",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "080 6975 0000"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Rishikesh": [
+      28.1042,
+      77.2247,
+      0.03
+    ],
+    "Delhi": [
+      28.5255,
+      77.1003,
+      0.03
+    ],
+    "Udaipur": [
+      24.5754,
+      73.68,
+      0.03
+    ],
+    "India": [
+      11.4459,
+      77.0041,
+      0.03
+    ],
+    "Jaipur": [
+      26.9242,
+      75.9174,
+      0.03
+    ],
+    "Ranthambore": [
+      27.2715,
+      76.7597,
+      0.03
+    ],
+    "Himalayas": [
+      30.3736,
+      78.0766,
+      0.03
+    ],
+    "Dehradun": [
+      28.4793,
+      77.0782,
+      0.03
+    ],
+    "Batwara": [
+      25.9776,
+      76.5533,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

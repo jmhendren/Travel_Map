@@ -1,0 +1,116 @@
+{
+  "key": "finland",
+  "name": "Finland",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇫🇮",
+  "defaultCenter": [
+    62.6315,
+    24.5811
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Balder Lodge Levi",
+      "desc": "Arctic luxury resort, downhill skiing, unforgettable views, Lapland wilderness",
+      "longDesc": "Luxury meets wilderness at this exclusive Lapland resort offering pristine downhill skiing with breathtaking Arctic vistas and an intimate Arctic silence experience.",
+      "coord": [
+        67.767072,
+        24.940744000000002
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8673610949839138953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJq4g7CM6s00URibAZQTTbXng",
+      "address": "Isotaalontie 65, 99130 Kittilä, Finland",
+      "rating": 4.4,
+      "ratingCount": 11,
+      "website": "https://balderlodge.eu/",
+      "photoRef": "places/ChIJq4g7CM6s00URibAZQTTbXng/photos/AcnlKN0WwplqONa1BWkzPF2L2eTbtqAjklyuV-3_CJWSNfnZrG3bPjH1xgDaJCuva7BVTIcFDr-oGdLpPFeO5YT_MkeIpfcSK-CeX76JG3GdBu6hf2WtVHYydvnH0A9rCdqDonEAMzP0lYOYmf2rLG7Z9NJm0rs7uYa0erYNuz5fa_TrOz10GpgFro_jyGu7wtYnyaqeWjlhpWgH28HC4bzadWEWfbjlYdkixFBCi77QxG3-l2Cmu4IRXVc6BcbGolHTifesna22oRx1d33KQEgJeA0rm_WmAoQB5N1GXtglfVPDok6p_7rrJKzoDmIOjf4McAXkrqy03ta_8KHxWsJBCkvTTBwzbXmxs05CDwMJw90lmgxZis4w94ORPV8MJSVrlp4GOg_adtpF981MABTn8P_ht89bYdtdpEHymH-h_oIZijX1hin8BqNUuNqhWbBw",
+      "photoAttribution": "Mary Massoumi",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "phone": "050 3228755"
+    },
+    {
+      "name": "The Baro Hotel",
+      "desc": "Luxury hotel with fantastic sauna, wellness-focused, relaxation destination",
+      "longDesc": "A premium Finnish hotel celebrated for its exceptional sauna facilities and comprehensive wellness offerings, providing an authentic Nordic relaxation experience.",
+      "coord": [
+        59.975279099999995,
+        23.8723153
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8265688263516641408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJQRRHmJOhjUYRgFgGo66ftXI",
+      "address": "Barösundsvägen 679, 10270 Ingå, Finland",
+      "rating": 4.5,
+      "ratingCount": 151,
+      "website": "http://www.thebaro.fi/",
+      "photoRef": "places/ChIJQRRHmJOhjUYRgFgGo66ftXI/photos/AcnlKN36JW8wh2GXkN0yLfPgUHpy0qxncufyvVfeCzCoR2vWoRHTxkYCnBKdNFzwFBeNZBIl3doQkSealefur-RPWq6nZp2MuYH-cWHF8lZnZUYzTjpLE0x9sRcNmfx_JMNSNohVCrfbGTTcNjvoKN8UxULDj9kf3DUX8WxH-uwU59M1zvF9XvdQokNwhz_fg-sHNshDpqKmxKfr0S0k2-IQeB3VJXEinwNXO2sUBGkNi0f-G8dCcQ6RETLmSBshSGnfuckAbYuRLlaSV3j0xiZo_DmwUQSn7fDMADgVBems0LvfzA",
+      "photoAttribution": "The Barö",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Romantic"
+      ],
+      "phone": "050 5517022"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Löyly",
+      "desc": "Traditional Finnish sauna, waterfront, wellness experience",
+      "longDesc": "A celebrated sauna complex in Helsinki offering authentic Finnish sauna culture with waterfront views and wellness activities.",
+      "coord": [
+        60.15206559999999,
+        24.930273699999997
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18050897817322099748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ7WWs57ELkkYRJJRbVu2rgfo",
+      "address": "Hernesaarenranta 4, 00150 Helsinki, Finland",
+      "rating": 4.4,
+      "ratingCount": 7384,
+      "website": "http://www.loylyhelsinki.fi/",
+      "photoRef": "places/ChIJ7WWs57ELkkYRJJRbVu2rgfo/photos/AcnlKN1ZuR5h5tq3qSRbEnKLZNl5p5BbZKwPLnYpFHmhb6IX562N470xOZnlyQNUUVAmtvK75D_Rk950uZo6b1vmaGa0HOwaacV6HKlYkMb3gF10XWOnEAomnJi_F4Fp0yzTNr4_nN2qjrXjCYJZFQASXmNOJ_uccnggrImB5vVrbJ2fuZt8FuoMb-38Y146Zp8g73Xz2hbhNMUz2pp8DQpAYQb4MvEOtpReOGd3ZZE51LmSNHbZStJOqbPNIKG0Mcj7XeuMSFCuArBj5kb-h9iDw3ZScBx_VqL6eLwhGb2nn-MHVA",
+      "photoAttribution": "Löyly Helsinki",
+      "tags": [
+        "Wellness & Spa",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "phone": "09 61286550"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Levi": [
+      67.7671,
+      24.9407,
+      0.03
+    ],
+    "Helsinki": [
+      59.9753,
+      23.8723,
+      0.03
+    ],
+    "Finland": [
+      60.1521,
+      24.9303,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

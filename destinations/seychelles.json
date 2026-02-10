@@ -1,0 +1,124 @@
+{
+  "key": "seychelles",
+  "name": "Seychelles",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇸🇨",
+  "defaultCenter": [
+    -4.8807,
+    55.5154
+  ],
+  "defaultZoom": 8,
+  "hotels": [
+    {
+      "name": "Fregate Island",
+      "desc": "Fregate Island luxury resort, Seychelles private island, October 2026 opening, exclusive escape",
+      "longDesc": "Fregate Island opens in October 2026 as a prestigious private island resort in the Seychelles, offering ultimate seclusion and tropical luxury.",
+      "coord": [
+        -4.5837397,
+        55.9386424
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=355222501081717438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ8S53TC-6HyMRvpozkfsA7gQ",
+      "address": "Fregate, Seychelles",
+      "rating": 4.6,
+      "ratingCount": 65,
+      "website": "",
+      "photoRef": "places/ChIJ8S53TC-6HyMRvpozkfsA7gQ/photos/AcnlKN36zTx4ROlAmj8BIoSvk1K8EfhJlS3-p-WqPF2KOUSB4rNM8ZuzQAPweNiovYBVd9V4zUqiRFms3CvflK6LvNM2WprFhJReGNUHM-63T2F_-KSFWQzfiuqNjMH_oSe-CfZeepmWEc67k1GvfTMhn2QGD92yLj__kt5Sqw_8GzvyY9e1BAkT1xFRyuDVp-JLGvOieJchPqFKHHeBZGtLcbfX-AHZJLqLpS-T-NU5d5RRUjDpnu0DW9qS2azFsWqlza5XvSLHwDfq0qo-Fw7xbz4gNBTA6kOKnLGl-zE4AqGe-dmTD6uCAN8geTRVU857uyCQJOzSENBsZF9ujHPX9aNSqHkWnEg7rUg0g2YQB-8MMIBJMSJQr24qmk-qa6oO_LD6Y-WZzlTFgH8LK28Xj_7MsI5rV8m0g8e0pWFvaYw",
+      "photoAttribution": "Verde Speranza",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Seychelles Platte Island",
+      "desc": "Waldorf Astoria private island with villas, private plane access, wellness experiences",
+      "longDesc": "A one-island, one-resort sanctuary from Waldorf Astoria featuring 50 pool villas, private plane access, and world-class wellness.",
+      "coord": [
+        -5.863654599999999,
+        55.3848803
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2694953249901331919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJR3bEkECH4iIRz0WnyrNlZiU",
+      "address": "Platte, Seychelles",
+      "rating": 4.8,
+      "ratingCount": 11,
+      "website": "",
+      "photoRef": "places/ChIJR3bEkECH4iIRz0WnyrNlZiU/photos/AcnlKN2dPooj8VjUMJ5UoXjgfwNGUbDK2Scka1CeJ-R66CkNSf9oHUf-Ia1NxYvglz8G2TQkycfBP3u6cp-MilL8jOx-sxFfpbxzsOjTU7EPo66sRMI3AzfgfJq5VjxFvUI-ZN8aslJGrKrc7h9RNdRFcndZ3XtiOiGJ6tN21y8KV5iyc3a0ip4pr14ZfSzcXP7IfL4eTeUkJ4fZt6Lg9abrXvyY1GzHgscRtDTFx2WAuA6eezWx3dYqby8r7vDA-Ua3qUkt8Dw_Mfd_jWbiKcIvexsXwBVJ8VpVC2qDs9DMkvj7nsqqpV3Jh5Jpow1EAQDsxz6RRAMIMVIyRq8gTLVua0G-yHMC3NwD0IN4aXf0GapDTW0iLiIn5SiA8Hy-Uin1englg7aEj8Tf-3a6hNz3uDtu2QGuZsfcgfh2w9WqUeSBqHKFdmYeBSojnm3N1fpP",
+      "photoAttribution": "Sebastian Dobrincu",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Romantic",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "North Island",
+      "desc": "Private island luxury resort, exclusive access, unparalleled service",
+      "longDesc": "An ultra-exclusive private island resort offering total privacy and once-in-a-lifetime experiences reserved for the ultra-elite seeking ultimate luxury escapes.",
+      "coord": [
+        -4.3957605,
+        55.246075
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13197387543945508904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJBx8_hfIW4CIRKHgJaAyKJrc",
+      "address": "Ile Du Nord North Island, Seychelles",
+      "rating": 4.2,
+      "ratingCount": 61,
+      "website": "https://north-island.com/",
+      "photoRef": "places/ChIJBx8_hfIW4CIRKHgJaAyKJrc/photos/AcnlKN00Inqme2u8hqKLgS4F3y5ag0w3716EQGqzRYPF_rPg5aBXW6wXkM01yIQ9WnYYHqXPE1eWPy25ssVcN5nJl6dOACRreq-MQpdPsKGYHSwR0MlVUOq20m_o7TddKwCCodNMM5pIFBb1EYIjIG9w2vZEovV-697x9lhzuOkp0ZClNPHAfV_dUkmAL-SH96LmYPvuMaZtBPp6f5eyXCOUfS-KX2nKY8SneFvfeBJRaEp6UnzavEJhLm_iCEHq3gso2gZboHBQbOGMqQTPeH3eXzya4KfP3hnRdeFwO4YlmYwArQ",
+      "photoAttribution": "North Island Seychelles",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "phone": "4 293 100"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Seychelles",
+      "desc": "Calm waters, soft breeze, pristine island paradise",
+      "longDesc": "Experience Seychelles in May with calm, gentle waters and a soft tropical breeze perfect for peaceful beach days.",
+      "coord": [
+        -4.679574,
+        55.491977
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3662500311140522743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJO62-cP0hXCIR99pJ06DQ0zI",
+      "address": "Seychelles",
+      "website": "",
+      "photoRef": "places/ChIJO62-cP0hXCIR99pJ06DQ0zI/photos/AcnlKN21OXR82ObvhfrMgzbfX8VslCdy3N3WIsQRZU4kv881vXo7WSu7-ecO2WU1YPjPRQsmDxEs-fJcHG8LDHHKKb4K1bYN39CPjxLt7OMD8dqTTjDrwbbxA0MLaJwzcOFu9X2Ibiip9DcwS-Bsy0Aq5TIhGSziD__Sf4OgCN6bNBDr9CFjCZ6QoqTO2jm86oLfRw7chOQYNOIooaRVgJYdPg2JBNkB7XbQGWGI7l_UO0DmqWEBGfZ5FMZ19rvgNbrx2eVWxxCV4b5fGRbtKEjJX2Lj96QwgYnWq5TrCUuXhSOr5t20oDUb_vFZgz_TmjmQnztaHduj3Ql_zwbFNp0ZAG0bO-qnp6k5rRk_UqcMy1MRhpdZMoBYuxtMFEX7oKIgb1gCYhr4Rm0mrZTDYEcvsgAm-raJoeHEizmwZTN3AcRIFg2K",
+      "photoAttribution": "Jean-Marie Hullot",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Fregate Island": [
+      -4.5837,
+      55.9386,
+      0.03
+    ],
+    "Platte Island": [
+      -5.8637,
+      55.3849,
+      0.03
+    ],
+    "Seychelles": [
+      -4.5377,
+      55.369,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

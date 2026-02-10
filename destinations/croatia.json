@@ -8,7 +8,31 @@
     17.9131
   ],
   "defaultZoom": 7,
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Adriatic Luxury Hotels",
+      "desc": "Coastal luxury, eco-responsible practices, Adriatic charm",
+      "longDesc": "A collection of upscale Adriatic properties committed to sustainable hospitality, balancing Mediterranean luxury with genuine environmental conservation initiatives.",
+      "coord": [
+        42.6512591,
+        18.061022899999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9115637390161127742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ9Y8VSk11TBMRPqnS3eg_gX4",
+      "address": "Masarykov put 20, 20000, Dubrovnik, Croatia",
+      "rating": 4.7,
+      "ratingCount": 2426,
+      "website": "https://www.adriaticluxuryhotels.com/hotel-dubrovnik-palace?utm_source=google&utm_medium=organic&utm_campaign=Google-places",
+      "photoRef": "places/ChIJ9Y8VSk11TBMRPqnS3eg_gX4/photos/AcnlKN1833qCqQY2W2MBADtw4QT_lyzIEzfLkEydLkqb0xW8YvgRJYeUpoBmlkRTXeNh43urOdzahjRUGJqAlrGzGIedGEPzS2sGNBytZfH0MbF1uRrjJjbVPgubZN46HgBfsipRpB2WPXRZEmCoR6XxceLtdm2P20zbVQ_GcYem_OftabIMISR86so0Lv4dHJhIIIHTFc9y7xc9wt489BhSgChxPVTuyHV5KEz_wDrpeyV4-oMKjqqSuE3XHDbgsERc33_ulJ-Id7cyjwKo0KTY8S74WEjiifkYzSMqZ-3FNOPo0w",
+      "photoAttribution": "Hotel Dubrovnik Palace",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "020 430 000"
+    }
+  ],
   "restaurants": [],
   "experiences": [
     {
@@ -32,6 +56,114 @@
       "website": "http://www.bowa-dubrovnik.com/",
       "photoRef": "places/ChIJf4jImVGMSxMRE1KF64_EJlw/photos/AcnlKN3f31WBzA6iIdUK5cjCViKc327ihtc8znedBy8INYD3vWaekXRLWxrmI4-gR6HwntF-BkmL7fJWcJbaoX5UylVl2ILm0nkEIb5uIrEEtcXumj5hbIEj7gHM92S3jLszx8j1cLHFEHj9IH0AI2lbAQ-1SuZS0JRJyose352pvofa3KihJ4FA2_Lm2QRHIy5rtb9xOMT_M7NF7zsR1w6LsMjfB4WfzkOqj6qcjB6_LCvyS3KcHx8IJ4WBls--FZnhrEssutNCVrnnpY6MokGypeG0g-5O_mT_PseSeEYMPYfgLjc379wYWg59_eaDUIAvxQIr3EBp4CA3Mof7zi4kQfa_k6OSfvFZ_n4aC1SBgiGoH7DEYUNIVhxk9OfpqeYJqdmf4HiwuCnl3lyxzMf01A36KBZFx93Dt-w6lb_-nmVcJEJJ",
       "photoAttribution": "José Antonio Solozábal Benito"
+    },
+    {
+      "name": "Brioni Archipelago",
+      "desc": "Historic island archipelago with Tito's villa, cultural transformation project, quirky heritage",
+      "longDesc": "Croatia's obscure Brioni archipelago features Marshal Tito's summer villa and a rich history of notable visitors. Curators aim to transform these whimsical islands into a cultural capital.",
+      "coord": [
+        44.914962942450266,
+        13.754112184906534
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17073918898993939949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJSa30m9fRfEcR7cVc8sa-8uw",
+      "address": "Brijuni, Pula, Croatia",
+      "rating": 4.4,
+      "ratingCount": 285,
+      "website": "",
+      "photoRef": "places/ChIJSa30m9fRfEcR7cVc8sa-8uw/photos/AcnlKN3X9kmwHCsduCoyIMPi2BgwuxUSLYnQZe-dBju73Uj10PSDmUo-LXysHTW7KbT-F6R5N96ad7Ct90Tq4yiOP6u8kh7OSsCngEHzzlA-3ZJoCEK4nnZtzevxfBBlw8cdde6dT3aUFweJWsAYhY-flAAOJLCk_r5i_5Hpqd0EXJppjLaDkFp9ALY-t2IgeHdkijLL6EN9fN-ykTAx0CHXx096aNFD_3KirvSxxGyqo1jfTQzU9AHcRO-yUP57swArfc4YByZJ3glK-_I7nMXQ3TU-e1mOaKsNs1cYR05W9FvBPF4hRQW2XtgkuuIySTT-VPuL4Uar881gnOit-1gL_SGU_iG9qgMmz2QdiS9_oOTxILBl4T2aN7G1DlMjIgqTuF3tLVrPjPAxxAvCtciYqkn4n2uvSBK146vg-eU4T-ftoIg",
+      "photoAttribution": "Mirko Popovic",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Romantic"
+      ]
+    },
+    {
+      "name": "Villa Primorka",
+      "desc": "Marshal Tito's former summer villa, historic architecture, cultural significance",
+      "longDesc": "Villa Primorka stands as Marshal Tito's impressive summer residence on the Brioni islands, showcasing historic design and cultural importance for Croatia's heritage.",
+      "coord": [
+        44.904557399999995,
+        13.768136799999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3316354797647612250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJhwokzv3RfEcRWsnyHh4PBi4",
+      "address": "Veliki Brijun, 52100, Pula, Croatia",
+      "rating": 5,
+      "ratingCount": 2,
+      "website": "https://www.np-brijuni.hr/en/accommodation/villas-of-the-brijuni-islands",
+      "photoRef": "places/ChIJhwokzv3RfEcRWsnyHh4PBi4/photos/AcnlKN3WjZ_p66LrAQD2GtqvC3AF-Yq2QzMVUjiF2jPL9xwynNlfSJ-JVm8ScshkdiOOsfe_dkjzybNVsFnwFsShpICXvC2wjI1V9ISh3sbgsT7dLqZkgwK_aC2bqawLRRjvMiMTiZqmQxpcjV3jyAEIFGncFa3LUlyP9HeRyNOJZNu9KtsFtfG-vHBt5THClofz1WJ2ah8ECOtXNdwLpXDnFdJUzIzH5y7BRSn2xo_duWKdNgDXTbPwDXvAnNMmRVk8L-ZRmDUNfyCXsrXaS40r1dbvOLq7y15cBoOT93wkwSyUlg",
+      "photoAttribution": "Villa Primorka, NP Brijuni",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "052 525 807"
+    },
+    {
+      "name": "Venetian Tower",
+      "desc": "Historic Venetian tower, only habitable structure after Kupelwieser arrival, architectural heritage",
+      "longDesc": "The Venetian Tower represents the sole habitable building surviving Kupelwieser's era on Brioni, offering glimpses into the archipelago's complex historical layers.",
+      "coord": [
+        44.837925399999996,
+        13.829600099999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3768310612912129110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJcZzvMWHTfEcRVkT2fYm6SzQ",
+      "address": "Verudela 16, 52100, Pula, Croatia",
+      "rating": 4.8,
+      "ratingCount": 748,
+      "website": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-hotel-brioni-pula?cid=a:se+b:gmb+c:emea+i:local+e:rco+d:cese+h:HRPUYBPU",
+      "photoRef": "places/ChIJcZzvMWHTfEcRVkT2fYm6SzQ/photos/AcnlKN1ChpttVqP-1mucn-Ih33Q4BTtPMqPH8r5n0P4UhC7mhNNiVqQPP-PX30p5P_8XjQOR2Lq5zlmEPQfOk-ewl9xvevhctb_htDI8wW_W47gFzZZy8Ich8T3aMVhpHaspCVTaYqNTT2Aha615cqufGSZlPGoouxB3bbywL3xfIikgw5I7l-phkg-WDqHFm3YRn9T0OXb8iiiYZTu7H48Jqkivyt_6f2rSRP55AhioV6jf9vsTSW5l6vYMtSFxIA-I51oOJOCtKNimjI_fTXNQ-lRFlf8hvAVeUbNyqG7i3YtPZg",
+      "photoAttribution": "Grand Hotel Brioni Pula, A Radisson Collection Hotel",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy"
+      ],
+      "phone": "052 378 700"
+    },
+    {
+      "name": "Plitvice Lakes National Park",
+      "desc": "Wooden boardwalks through turquoise lakes, cascading waterfalls, pristine nature",
+      "longDesc": "Walk along scenic wooden paths through crystal-clear turquoise lakes and marvel at the stunning cascades of waterfalls surrounding you in this UNESCO-listed natural wonder.",
+      "coord": [
+        44.8653966,
+        15.582011900000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=367764615831641712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJPQ_Z_mxeYUcRcF6aN_iPGgU",
+      "address": "Croatia",
+      "rating": 4.8,
+      "ratingCount": 124389,
+      "website": "https://np-plitvicka-jezera.hr/",
+      "photoRef": "places/ChIJPQ_Z_mxeYUcRcF6aN_iPGgU/photos/AcnlKN2GProGGTAP5gIvZHEVUpBjD1yedy1f2e4XUzBF09u4wUamZvl3vkykQ3xjQknjgpSAkDuq9attMC0Ica_SM9VA8qyMF15dPn0R_kHpa8LcZTIDj6KP2uqhIi4syucj-Y826Y4InSR59mo0G2sa8Wd3e-eBPiponzucYa2ynJ1c_ykEMm04OhetNLc8H5SILFHszMde_QuI3ez1VLjxE91rkH9Y23ScIWLYF8fN_qYDBDAWTqR0VFeCmvg7r-5imkZRr5c4AJ24ODumfNDWG397z0zX8E7GQgKLXixTJk2iqQux4pqSasqkKXx9JKMKw_RVLog33YWLIeheI_W1TfPUK8uBz-wyCWQK3Tp5vcIfO2FGq_7OHNi7JIjdemj9ryICu0w6NTQtFKBpPxbcmF_HLH6u5Klr-sGltmRKJ9ATxZlrV0x7Qt2H9jLsH9X9",
+      "photoAttribution": "Pavlin Toshkov",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 7:00 AM – 2:00 PM",
+        "Tuesday: 7:00 AM – 2:00 PM",
+        "Wednesday: 7:00 AM – 2:00 PM",
+        "Thursday: 7:00 AM – 2:00 PM",
+        "Friday: 7:00 AM – 2:00 PM",
+        "Saturday: 7:00 AM – 2:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM"
+      ],
+      "phone": "053 751 015"
     }
   ],
   "kidFriendly": [],

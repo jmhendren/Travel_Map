@@ -1,0 +1,50 @@
+{
+  "key": "nepal",
+  "name": "Nepal",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇳🇵",
+  "defaultCenter": [
+    28.7808,
+    83.7163
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Shinta Mani Mustang",
+      "desc": "Himalayan luxury lodge designed by Bill Bensley, showcasing local textiles and materials, mountain vistas",
+      "longDesc": "Visionary luxury resort high in Nepal's rugged Himalayas, curated by renowned designer Bill Bensley with locally-sourced materials and rich textiles for an immersive mountain experience.",
+      "coord": [
+        28.780768,
+        83.7163058
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15047083221144030378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJj-XWqlsPvjkRqswHfnf60dA",
+      "address": "Marpha-5, जोमसोम 33100, Nepal",
+      "rating": 4.8,
+      "ratingCount": 47,
+      "website": "http://www.shintamanimustang.com/",
+      "photoRef": "places/ChIJj-XWqlsPvjkRqswHfnf60dA/photos/AcnlKN3YHQlgM9flHLMbLlvQzKqr5EwNssSW4xHWwk2vz0avSDIkOa2ZrJdKyY64OAr6voxGTc-xtUpT6wHcGr20ISKpQc5gj5jne_VPaROhaspS71LsqiqsPW-gqP0qg8BJoGJXHE2NmxlYh9l3hFNativ-ygr19ERLompB9KU7EHZqwpAlAr6MWC1-FnhLprGLLinYH9BGI2N_GrmyxPkSWIaJZ4-jnobOgROUvog7KDgMwNPJkuKKtxswkqOdUc0QHI_nqr6j6VntUr8xroiyvT00mS4-xQqCnHGd0Zx7aoylXg",
+      "photoAttribution": "Shinta Mani Mustang",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "phone": "980-1192031"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Mustang": [
+      28.7808,
+      83.7163,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

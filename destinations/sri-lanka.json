@@ -1,0 +1,171 @@
+{
+  "key": "sri-lanka",
+  "name": "Sri Lanka",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇱🇰",
+  "defaultCenter": [
+    6.9402,
+    80.9954
+  ],
+  "defaultZoom": 8,
+  "hotels": [
+    {
+      "name": "Wild Coast Tented Lodge",
+      "desc": "Luxury tented cocoons hidden in forest, jungle safari paradise, leopards and wildlife abundance",
+      "longDesc": "A secluded forest retreat offering private cocoons nestled in nature, providing exclusive access to Yala National Park's diverse wildlife including the world's highest concentration of leopards and other exotic fauna.",
+      "coord": [
+        6.2623095,
+        81.4068908
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4001540251598446777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJBYn-8_KD5joRueDzYqhTiDc",
+      "address": "Wild Coast Tented Lodge Palatupana, Yala, Sri Lanka",
+      "rating": 4.7,
+      "ratingCount": 622,
+      "website": "https://www.resplendentceylon.com/resort/wild-coast-tented-lodge/?utm_source=google-my-business&utm_medium=organic&utm_campaign=Wild_Coast_Tented_Lodge_Google_My_Business",
+      "photoRef": "places/ChIJBYn-8_KD5joRueDzYqhTiDc/photos/AcnlKN3Xdzo5okNvbYpYvsYUZyxssBsL9eUZQfPWxBkuXP5yjfiNi6556MuVDToV2GGN-X4NzeAMgMbI4ehg7CT-hnJoDOdR5We7kXWa_uHc4klyIWOUjpNivZcWO0SGIsf27uB5H83GI-toKfRfE5DdCBctmPKo6BIn1S21jneBzVf_Evtt9O4dvJI8Bal3cc5cEEnuQmViDq8nhmW-AIjWqPVH6UxqadkEEmGtp2fir26P9g88_3rzbacA8XuISJLSi44SNFx-QUplzhsHNX5GoWTov_VOhP6hDCEZGsPprW2bXg",
+      "photoAttribution": "Wild Coast Tented Lodge - Relais & Chateaux",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "0477 036 000"
+    },
+    {
+      "name": "Kalkudah Beach House",
+      "desc": "Beachfront luxury villa, chic coastal retreat, Sri Lankan paradise",
+      "longDesc": "A sophisticated beachfront villa in Kalkudah combining luxury with coastal charm, perfect for an unforgettable tropical escape.",
+      "coord": [
+        7.880345299999999,
+        81.564638
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16577525701405820534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJx8QLWnfZ-joRdsYzP8szD-Y",
+      "address": "Kalkudah Beach House, Kalkudah 30410, Sri Lanka",
+      "rating": 5,
+      "ratingCount": 17,
+      "website": "https://www.teardrop-hotels.com/kalkudah-beach-house/?utm_source=google&utm_medium=GMB&utm_content=KalkudahBeachHouse",
+      "photoRef": "places/ChIJx8QLWnfZ-joRdsYzP8szD-Y/photos/AcnlKN2Oza6tBBasnONI0r-lo32DSDsZPNL2LxSBcIfp-CRH1G2bW9zXySMfj962P7wLxNHD7hjTuL1QqpTE5FibPjehpUU3iO1OVVji9M2uDqpyvJeRgWSFBExuw67fJU-iGinJ2tEMlzchqxL2--12Q120uShZ2OoICma2EESa8J6-7wd02Myj2MyOrfLfHTUntxlMm4X1P8nSWWhStsZlq0olZ78T7xHrjU9jW8eicAKZXbznCMtoVE4msV14j2QGz1pV4m8K-5UQRs7QU0cHEIAR2R3ADOSdQ4sbbX6PRWZEJw",
+      "photoAttribution": "Kalkudah Beach House",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "phone": "077 363 8381"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Pekoe Trail",
+      "desc": "Epic 50km trek through tea plantations and forests, four stages, local village interactions",
+      "longDesc": "An incredible 50-kilometer hiking journey across four stages through breathtaking tea plantations, peaceful forests, and charming local villages where trekkers can immerse themselves in nature.",
+      "coord": [
+        7.268543,
+        80.6330254
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9275709499468404720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJt-y-371n4zoR8NeHG6XwuYA",
+      "address": "Hantana Rd, Sri Lanka",
+      "rating": 4.8,
+      "ratingCount": 52,
+      "website": "https://www.thepekoetrailsrilanka.com/",
+      "photoRef": "places/ChIJt-y-371n4zoR8NeHG6XwuYA/photos/AcnlKN1yq-dDpzw_d3Yf-Bi22bYdPPbUlnsUH1cKQ3LiezaDoUQ7NTwmzRKDCBlBWaE4eQK9LkVnlnoaKSE3VebSDaDRFY4RHvT4RI5XdUnNPJ1tFp3KWKdfIcOggayKqf5ikt6sBAqmEDWIBH64Z1q25e9Zfbg8K6sP__ZRwjYYUv2erLPu0XBfAbNh1sSSpnkQ6gmmjJ3uylTR_ZOZ_tLXh2kRJGJ1CQbMYlWjH6-DZ84ybeR9YWUhVYiuEW2SEb7JGax5_sc1a3AHrHSHpktCGUkKee-4jE3cxS_Gd0JAEhhPnHuVSTD21bqn76rdmcT4M08eyWRnR39Sk5rogE13QcB5L-YYpI66Zcdw9Kz35dmBaE1KwXmY1s97dfkSDz-Tf2cge5AcbN9611Br-5ihuAHK0l9AepXOBDz_aScJEek",
+      "photoAttribution": "Sandun Kavinda",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "Yala National Park",
+      "desc": "World's highest leopard concentration, diverse wildlife encounters, elephant and sloth bear sightings",
+      "longDesc": "Sri Lanka's premier wildlife destination featuring the world's largest concentration of leopards alongside elephants, sloth bears, and abundant bird species within a pristine natural ecosystem.",
+      "coord": [
+        6.366667,
+        81.516667
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10357904647661548007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJJdv2JDPV5ToR5_E7BWarvo8",
+      "address": "Yala, Sri Lanka",
+      "website": "",
+      "photoRef": "places/ChIJJdv2JDPV5ToR5_E7BWarvo8/photos/AcnlKN0LOs6iWN_nvGzQzis6f9_dm87zGPFtKC3KfhTZ1R-R3MCKuKYBJj7JiFXqpG5dzgdjblE82uxp2Y6xccSoaH29WbdfWTkuoloMmoMyrtJofaQKS45UmUnF3KMHTsnKxp_Sk-36-xkwKB_VyjeOiFvHQ7W7thn0V8ReJ17ue4pS0LAbngJEiw7KCx_-HnbB11ghFA_cTM6SaztO-3h68xn3x-3Td6Gmhg0xPYZlT46EovJ_hwDDvJBjReGOUMqqWkyVeS1FtvXOGlg2GrutOAf8z7-sSU9t4JUjXjU99sO3dqnLdFMoo0jN15fhw1YFQ55grj9yOiE4wUdQclXcLQxMY8GT2c5HpDpvYmQvSw4rVoRR3OhpbtPPshGLG9avPCX_fpg7Hh3m98DCTqff2F5pz4_I1qca9zv_V6fTIEl_vLj6",
+      "photoAttribution": "duminda manopriya",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
+      ]
+    },
+    {
+      "name": "The Fabulous Getaway",
+      "desc": "Sri Lanka's rich culture, history, natural beauty, breaks the surface for authentic discovery",
+      "longDesc": "These trips break the surface of Sri Lanka, tempting you into the country's rich culture, history and natural beauty through immersive, authentic experiences.",
+      "coord": [
+        6.9232797999999995,
+        79.8558288
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17595123479285194667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJO77rRhRZ4joRq9_t2ZRvLvQ",
+      "address": "140A Vauxhall St, Colombo 00200, Sri Lanka",
+      "rating": 4.6,
+      "ratingCount": 16,
+      "website": "https://www.thefabulousgetaway.com/",
+      "photoRef": "places/ChIJO77rRhRZ4joRq9_t2ZRvLvQ/photos/AcnlKN1jcmq-sj-DDaBeBWEJx9ZOjwoGJLTpn00zQzTa4QGcQfUZ1vvou-manwpiRFXdD-9LXEvdDBsRFWLl6zytNwuVYXL6rUmOd3s-rFF1cOi3dxM4tGFJKSfy_2i4OkKevSF1ltcnblgB79k0-lEiAJqJAZOvBoJ90xCZL37qWWCXOLk1KGRIalQkUoXX4BaM1oWqypzFsIUf4UkUhdYCyRUU_xSHKacAaZB2jl-_dllEkRG9emlmBQFpzpVUv8gupjUQDuzZidngLcMCKf6_QjGX0BBOJhLmyMZ48r5UPdcy5Q",
+      "photoAttribution": "The Fabulous Getaway",
+      "tags": [
+        "Splurge",
+        "Cultural & Historical",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: 8:30 AM – 5:30 PM",
+        "Tuesday: 8:30 AM – 5:30 PM",
+        "Wednesday: 8:30 AM – 5:30 PM",
+        "Thursday: 8:30 AM – 5:30 PM",
+        "Friday: 8:30 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "0117 895 820"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Central Highlands": [
+      7.2685,
+      80.633,
+      0.03
+    ],
+    "Yala": [
+      6.645,
+      80.6862,
+      0.03
+    ],
+    "Kalkudah": [
+      6.2623,
+      81.4069,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

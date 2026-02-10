@@ -1,0 +1,985 @@
+{
+  "key": "indonesia",
+  "name": "Indonesia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇮🇩",
+  "defaultCenter": [
+    -7.634,
+    115.6409
+  ],
+  "defaultZoom": 4,
+  "hotels": [
+    {
+      "name": "OO Mandarina",
+      "desc": "Intimate jungle resort in Bali with tropical pools and Balinese-inspired luxury design",
+      "longDesc": "A secluded Balinese resort nestled in lush jungle surroundings, featuring stunning tropical pools and refined aesthetic.",
+      "coord": [
+        -8.6321201,
+        115.14936069999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14172563415734500634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ9SUd-OY50i0RGj2NT1YPr8Q",
+      "address": "Jl. Raya Babakan Canggu No.4, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Indonesia",
+      "rating": 4.5,
+      "ratingCount": 58,
+      "website": "https://www.instagram.com/mandatinacafe/",
+      "photoRef": "places/ChIJ9SUd-OY50i0RGj2NT1YPr8Q/photos/AcnlKN0KfJ3lSGOhQkLeXVQHPkYyk3N8GpXefBCTfwQJ6WVEYAvx6GzlNqotiJsldIBS87jBo5haWNBNGb_Nr4ev6Lnrr_mRY9nFGwo0wKtGgXwqink_svAn2uYw7CvkpbCZxG1THpDYEyTDSEpifIhOq3etpLi_Ec2m7rIielCDIYxJ2Tx0-HcZcNQs55Gvk41cvjwK-f0Hqbs3HB4h9INgm5WACe0olKUThjPut0DPfrjJv-rkoQbeZxNXKv7zFDf4bbfQ2b49gsxe993NV9Hjp-kGS-dm8xF6bIITPEtKD7RPCA",
+      "photoAttribution": "Mandatina Cafe Canggu",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "0812-3703-7790"
+    },
+    {
+      "name": "Capella Ubud",
+      "desc": "Ultra-luxury Balinese resort overlooking rice paddies with wellness and cultural focus",
+      "longDesc": "A refined luxury resort in the heart of Ubud, offering serene rice paddy views and world-class wellness experiences.",
+      "coord": [
+        -8.4482091,
+        115.2681117
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2668733494160064892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJY0hnMyoj0i0RfAGZL_k-CSU",
+      "address": "Jl. RY Dalem, Keliki, Kec. Tegallalang, Kabupaten Gianyar, Bali 80561, Indonesia",
+      "rating": 4.8,
+      "ratingCount": 755,
+      "website": "https://capellahotels.com/en/capella-ubud",
+      "photoRef": "places/ChIJY0hnMyoj0i0RfAGZL_k-CSU/photos/AcnlKN0X-EHPiy2bD5MP61ARb_JY_7IAzSoDb4VSyV1ptAMvIzjNXmIGggITMk8yIUY_RDqLH2NnnTsig8PAPof02wG4OTvuIcKrtaCUp2hsd-er1-c9cDBPjJwyNqHSb9tgQBaUd7Is9cX_E1IbBMUvgCMvyXjGgEqXPUWh086K-ca4KmDgZyazU4-6WJmg-P5qtYMFPCE8l2gl_acLKVFLu4MuK_2GVjL8XZUyJVL6pIP86M3MnJxGmPv3UdDb-qqKCB6BZMJZheX2oN0scPanMwBgj5Bigyu4bIx3E5hhfURydw",
+      "photoAttribution": "Capella Ubud, Bali",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0361) 2091888"
+    },
+    {
+      "name": "NIHI Sumba",
+      "desc": "New luxury island resort from experienced NIHI Sumba team, tropical getaway",
+      "longDesc": "A new property from the established NIHI Sumba team offers another opportunity to experience their signature island luxury hospitality in an intimate setting.",
+      "coord": [
+        -9.777630799999999,
+        119.3762222
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3134813873617609482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ3_Tt_a-dTCwRCqPx7ZsYgSs",
+      "address": "Hoba Wawi, Wanokaka, West Sumba Regency, East Nusa Tenggara, Indonesia",
+      "rating": 4.2,
+      "ratingCount": 858,
+      "website": "https://nihi.com/",
+      "photoRef": "places/ChIJ3_Tt_a-dTCwRCqPx7ZsYgSs/photos/AcnlKN0KmEnFzofiBmd_XE7Gr6ScOcXIf7wopIzxbSiUk8Jd_sMY6zoXyR1pQZ7MMmVcqUOaViIMj1GMAlZXWAZLX3566YBgP3HgCVe5kE15QkYk7RrcthEJEW365FvR67dI0cF1rQhYIkIMs3JPFQcJ7xXkVuS6LJEwSfqKcRW3-wNTApb-EE66CEZ-HJ8djWsOU-7eDMkWCcG6hxNWnU67ZwZ-YxFVgTKK7z6ALRWmiFvkVlhrItMfER_SmvnmAhu6oa2PaypBeJcc_5IJ2j-GSH75awOpXcMv76dWqepiCLCcaw",
+      "photoAttribution": "NIHI Sumba",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0361) 757149"
+    },
+    {
+      "name": "The Sanubari",
+      "desc": "Luxury resort on lesser-known isle, thatched villas, wave sounds, ultimate meditation retreat",
+      "longDesc": "The Sanubari sits on the lesser-known Indonesian isle of Sumba, where thatched-roof villas create an idyllic soundtrack of lapping waves and rustling breezes, perfect for serene sunlounger meditations.",
+      "coord": [
+        -9.751373599999999,
+        119.30793500000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16595777272235247995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJIUZkBTDlSiwRe0kVO4ALUOY",
+      "address": "pantai Dasang, Harona Kala, Kec. Laboya Bar., Kabupaten Sumba Barat, Nusa Tenggara Tim., Indonesia",
+      "rating": 4.8,
+      "ratingCount": 171,
+      "website": "https://www.thesanubari.com/",
+      "photoRef": "places/ChIJIUZkBTDlSiwRe0kVO4ALUOY/photos/AcnlKN04YwK9ZHML01XNoQjcTgheL5j6jVQMW-E3auBtmWUh0DiQQlQLDiaNp7OfUjGWse8J-qbr3hAz8eNBFTVa32sD_RfkITYO9CkQESNEGvq1DcyMl2_yJrt5qbXkZ-b52B8fv1PTjbughu8cMXAkmiSFBXfISIQKhucEfXwq5lvMEw6KACbaH21Qj7ndnNndGZCprjeDEZcMQUCoDyZnegUhnbQra2VXIhABHv21ReJiHt9NMlgfAPKlRWZ4GF90o-0B0D7bnUxjnQrngWTSL37WmoSH3OJ95n53xNj_O5MZJQ",
+      "photoAttribution": "The Sanubari",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa",
+        "Outdoor & Nature"
+      ],
+      "phone": "0821-4639-4499"
+    },
+    {
+      "name": "Como Shambhala Estate",
+      "desc": "Sacred forest wellness sanctuary in Ubud offering spiritual healing and transformative experiences",
+      "longDesc": "A luxurious wellness estate nestled in Ubud's sacred forests, delivering transformative healing through ancient wisdom and spiritual practices.",
+      "coord": [
+        -8.450783200000002,
+        115.23545069999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15666187172441454509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJl8UJr6oj0i0RrXcn9jp6adk",
+      "address": "Banjar Begawan, Desa, Melinggih Kelod, Kec. Payangan, Kabupaten Gianyar, Bali 80571, Indonesia",
+      "rating": 4.8,
+      "ratingCount": 352,
+      "website": "https://www.comohotels.com/bali/como-shambhala-estate?utm_source=Google&utm_medium=GoogleMyBusiness&utm_campaign=GMBprofile",
+      "photoRef": "places/ChIJl8UJr6oj0i0RrXcn9jp6adk/photos/AcnlKN33CIKPUzplsggS4TPB8HLWwzZxSTFlB_aSWmHnMVglcM3RzRjFyQCevo7XUthyRVZSZfozZsN2MElZohbcfRxT0z69ixP20-tpDVE0JT6ax9rhWUzowbB_J634NyZ_EJ2uLa4USh_adO_DcsGS9pc_Dfy4hl4df_fHeu3bjTzs6KJG3NLzGVKh7stfsRRDJDNedR5LzSp3imkefnphHUNhY9Vr1g-TktSRroZSqsL50qoQIJwVznhi5wPXXn1jmtgdk8slpikP8NaGc45sDR3Ou6GZy9urcdqPOYUT9OJpag",
+      "photoAttribution": "COMO Shambhala Estate",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "phone": "(0361) 978888"
+    },
+    {
+      "name": "Further Hotel",
+      "desc": "Barefoot luxury resort with breezy villas, gentle waves, lush surrounds",
+      "longDesc": "Further Hotel epitomizes barefoot luxury with breezy villas nestled amidst lush tropical surrounds, where gentle waves and endless summer vibes await every guest.",
+      "coord": [
+        -8.6431643,
+        115.12897050000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4483126488444609863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ75YB74E50i0RR6Xi4slDNz4",
+      "address": "Jl. Pantai Pererenan No.84, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351, Indonesia",
+      "rating": 4.7,
+      "ratingCount": 498,
+      "website": "https://furtherhotel.com/#utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_id=9366298527",
+      "photoRef": "places/ChIJ75YB74E50i0RR6Xi4slDNz4/photos/AcnlKN2o2n2t9J0Dd5GpuZYpmc3xoyO_4x1hEhABcDfYY1jhIZK4PmEzt3hqdYopGQ0b2KeMkNiogbGkRf6VlVQe4taGWdPyEfaJNYkw8K8f6IzxFbSm4jHDbCS-eeFdW3C2kzcfDMB67JK1pptgJ0zJggxzLU_8T0u_SLVnjwJ7CTgVsDLgWNuAh7v-8EzqrreKrPZ8uB2pkEgdP1mTnJbhcJQ7_4Xr8TqPOj_qzkf9mEe_Orrx_sr-iV_ym9bUbm6tXd18y0s39tBRKu529DnZmxRpAIfNty-IwWHfGJiIQ2H4mg",
+      "photoAttribution": "Further Hotel",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "phone": "0821-4769-8770"
+    },
+    {
+      "name": "Nikoi",
+      "desc": "Family-focused island resort, sustainable design, tropical paradise setting",
+      "longDesc": "A family-friendly island resort emphasizing sustainability and conservation, offering peaceful tropical surroundings ideal for families with children.",
+      "coord": [
+        1.0525,
+        104.7091667
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17090245245854402708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJR3bCxPxc2TERlMh1y4C_LO0",
+      "address": "Nikoi Island, Teluk Bakau, Gunung Kijang, Bintan Regency, Riau Islands, Indonesia",
+      "rating": 4.8,
+      "ratingCount": 65,
+      "website": "",
+      "photoRef": "places/ChIJR3bCxPxc2TERlMh1y4C_LO0/photos/AcnlKN3BcN8j0x6E16BwzdLPO7uJ9JUDin4VgnN7oA8vEcT7G28C1pphRtoM3BTqV0ghkG8SAfdKvjv_YkKDJaIiXpGheAkk7CE1hsCGLqzzwZOCVFyFEL3XL8WgBRYfketFNK-P7SHKtIxxjqWVbNlJLHWYu9oZrZYMWZYanpLOw09VAeWcxmEy9KXIkN9HDtHve8BmPps71ADqwbpZFIQoJyTpHYB6nHf8oJOfwyex5qTmIaAPsEPqT6rhbjpAF4sY94esiLhlFwkgvyvaXFW7nM_pbRrhWBXKIOmUnMDxp714IrnRpPyqy_a5k0cFor35DqFQxdiNwkmJDhi4CZoILkBBpiciYWPeqCFnVtW-29gD2YpFoPnIRtzLOiDbLG6PY6GPoIfa1KWM2148OQG2XaE23847JB-wDhJhCLbpOZVfwA",
+      "photoAttribution": "Mohit Vatsa",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Cempedak",
+      "desc": "Adults-only island resort, romantic retreat, conservation-minded design",
+      "longDesc": "An exclusive adults-only island resort offering serene romantic experiences with commitment to conservation and sustainability principles.",
+      "coord": [
+        0.844522,
+        104.70375600000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2155792191842971629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ_aeZk6k_2TER7W9cnJPp6h0",
+      "address": "Air Gelubi, Bintan Pesisir, Bintan Regency, Riau Islands, Indonesia",
+      "rating": 4.9,
+      "ratingCount": 246,
+      "website": "https://cempedak.com/",
+      "photoRef": "places/ChIJ_aeZk6k_2TER7W9cnJPp6h0/photos/AcnlKN0w6nT0PFtlhW31DaFXDzb9FgWrSNNcAiwh_qoxPtHY6xib7-4RbQV4ohek1wuN2aWX_ddYfik9AP6tUDEsgdgZa2jh1aIG4MZK5WKnPS_vS5Ymh8UWNeI7WOJihEQCAempi-TafBOSq83-XmRpy--S8c60X23QzqNuK6-pfNrxYk00S62J5P4XkOz0WxVr20yiFt3fYfgsAfiTBJBMTAY_BEBg9ZeirE_TDkMCRpOsa5I4GStEeoJglsnCAlvagjL2xMq2i5bxIapC_2_0ORE5GI8_JvfIHZetdLHpbVIAGA",
+      "photoAttribution": "Cempedak Island",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "0811-7008-040"
+    },
+    {
+      "name": "Soori Bali",
+      "desc": "Luxury private villas with infinity pools, spa facilities, harmonious design, exclusive retreats",
+      "longDesc": "Soori Bali offers private pool villas ranging from one to ten bedrooms, each featuring design excellence, infinity pools, spa, and gym facilities. An unparalleled escape embodying harmony and exclusivity.",
+      "coord": [
+        -8.5770431,
+        115.0548037
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5814933941818286546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJs0fKp88w0i0R0uFwepzLslA",
+      "address": "Banjar Dukuh Desa Kelating, Kerambitan, Kelating, Kec. Tabanan, Kabupaten Tabanan, Bali 82161, Indonesia",
+      "rating": 4.7,
+      "ratingCount": 537,
+      "website": "http://www.sooribali.com/",
+      "photoRef": "places/ChIJs0fKp88w0i0R0uFwepzLslA/photos/AcnlKN3tCmSGzE5pnxNHu8atvvzB_duMr3-WdDhxzgfOgTtFEdaEiYtvSQzwd-QiyOaPr0Oa92SJmaomSfMyRaLvWIw-gbcBlpQIx_DSqL1Xeo6wy9BwBDa4AxPY-4CY6UMEHHuTXRyGGtTbfXGQSYo6qYYIcFcoSRBHpYo00qsbZR_JOnN0-cb-H6OHXs82rPQX3oFsgLoPPsDTCxSpIjZs2YBwDbG8_sMvSH19HllUZTb2rUtEMaXTl0U-dvVSEF-n7RUOiZk5wnKsEU1K75o6FFXVjyYjHpNX26JA2ow2PGmaMA",
+      "photoAttribution": "Soori Bali",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0361) 8946388"
+    },
+    {
+      "name": "The Legian Seminyak",
+      "desc": "Luxury beachfront resort with tropical gardens, ocean breeze, serene setting",
+      "longDesc": "A luxurious beachfront resort in Seminyak where lush tropical gardens meet the soothing ocean breeze, offering a serene and verdant escape.",
+      "coord": [
+        -8.684717299999999,
+        115.15393399999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13511543066888610348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ01gUBBBH0i0RLKJJBdWkgrs",
+      "address": "Jl. Kayu Aya, Seminyak, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+      "rating": 4.7,
+      "ratingCount": 1636,
+      "website": "https://lhm-hotels.com/en/the-legian-seminyak-bali",
+      "photoRef": "places/ChIJ01gUBBBH0i0RLKJJBdWkgrs/photos/AcnlKN0qFvVgOB3bwcu9hj0rPpguOIewyY_urPYqLZxs0HOui_k0pLxdq-p01DdoFM7mLFz5iho-IWenu9ydukm-11R7223o_grL2ySwz8jYXX7KsU283BQzYxDDLZNq0wJRMEyO_vBH8cOUeXeLFTlxsW0KY-KxUsyzLNSaSZrQcmzLwPxA2w-jiOyWfstHH2A97mg1gPOMrjgEMwyrEZ3nYOY1gfwRawKIH8r_3AuyuIVUXdOzb3kbEOyDF8EdnfGn-TEnwLkl50RzYF96S7D-wWOxDAnYPvBojm8vQGBhwZv5yA",
+      "photoAttribution": "The Legian Seminyak, Bali",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0361) 730622"
+    },
+    {
+      "name": "The Sanubari",
+      "desc": "Private beachside villa, understated luxury, remote paradise setting",
+      "longDesc": "An exclusive beachfront villa nestled on Sumba's remote south coast, embodying understated luxury and offering a shipwrecked-in-paradise experience.",
+      "coord": [
+        -9.751373599999999,
+        119.30793500000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16595777272235247995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJIUZkBTDlSiwRe0kVO4ALUOY",
+      "address": "pantai Dasang, Harona Kala, Kec. Laboya Bar., Kabupaten Sumba Barat, Nusa Tenggara Tim., Indonesia",
+      "rating": 4.8,
+      "ratingCount": 171,
+      "website": "https://www.thesanubari.com/",
+      "photoRef": "places/ChIJIUZkBTDlSiwRe0kVO4ALUOY/photos/AcnlKN04YwK9ZHML01XNoQjcTgheL5j6jVQMW-E3auBtmWUh0DiQQlQLDiaNp7OfUjGWse8J-qbr3hAz8eNBFTVa32sD_RfkITYO9CkQESNEGvq1DcyMl2_yJrt5qbXkZ-b52B8fv1PTjbughu8cMXAkmiSFBXfISIQKhucEfXwq5lvMEw6KACbaH21Qj7ndnNndGZCprjeDEZcMQUCoDyZnegUhnbQra2VXIhABHv21ReJiHt9NMlgfAPKlRWZ4GF90o-0B0D7bnUxjnQrngWTSL37WmoSH3OJ95n53xNj_O5MZJQ",
+      "photoAttribution": "The Sanubari",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "phone": "0821-4639-4499"
+    },
+    {
+      "name": "Cap Karoso",
+      "desc": "Artisanal resort with Sumba decorations, French textiles, carved wood motifs, tropical modern design",
+      "longDesc": "A boutique retreat where every room inspires exploration through carefully curated artisanal decorations, French textiles, and traditional carved wood, celebrating design as a universal language.",
+      "coord": [
+        -9.5291259,
+        118.9356799
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17604368321769214112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJg9k1RLm7SiwRoJAxerdHT_Q",
+      "address": "Pantai Karoso, Ate Dalo, Kec. Kodi, Kabupaten Sumba Barat Daya, Nusa Tenggara Tim., Indonesia",
+      "rating": 4.8,
+      "ratingCount": 274,
+      "website": "http://www.capkaroso.com/",
+      "photoRef": "places/ChIJg9k1RLm7SiwRoJAxerdHT_Q/photos/AcnlKN2cKhZ4fmGo8rfnRcgyAD9TVSMDfFjBvlznp_KeyzUI4CZSrCOO6Rnabo3ZEsDNRfKy352aLsW3vLmxJJeS_04lFStVIkJniwjxAUkuttqoLXTTwvZTad4bvMRi0-eTXZpv-J8heV3AHj-CGwo2eWhH7xvth5ZDD3fVDZwz_me3E7upRIrvsoBAFfOLU_CnWs89RHEFnuHgfeUjzrPuTm2VlygmNPrQHQ9TPSEyfxt4G5E0yQWVhYaO0uA0Wd65bejfyf1VPfrOy5yS4qU9bz8YTW9zCyAY9BFfkX5I3-hi4A",
+      "photoAttribution": "Cap Karoso",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design",
+        "Romantic"
+      ],
+      "phone": "(0361) 6201805"
+    },
+    {
+      "name": "Buahan, A Banyan Tree Escape",
+      "desc": "Jungle resort with seamless indoor-outdoor design, river views, traditional craftsmanship",
+      "longDesc": "Nestled deep within the Balinese jungle, this award-winning resort celebrates its landscape through innovative design that envelops guests within nature, featuring panoramic views of the Ayung River and surrounding peaks.",
+      "coord": [
+        -8.365373,
+        115.2384718
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16162883799342399233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ08JGd_0h0i0RAT-4TS4ZTuA",
+      "address": "Banjar Selat, Buahan Kaja, Kec. Payangan, Kabupaten Gianyar, Bali 80572, Indonesia",
+      "rating": 4.9,
+      "ratingCount": 402,
+      "website": "https://www.banyantree.com/escape/indonesia/buahan-a-banyan-tree-escape",
+      "photoRef": "places/ChIJ08JGd_0h0i0RAT-4TS4ZTuA/photos/AcnlKN27vBqQvZ_NJPzHMRx3pgHuVvuzbTHrIwEGvjPcKn1RvF-mcq9A97QC2SLCXlyAmNP3TBhGmx5HmkoPQFnvbEGIpXGm_IORN4gptns983TUuEblWnOICb_pXSicvX77C2t3KuLA8QF68g1ntGS0xqoSAHVIYmjDVCNG3adpJCZGpbAFa5Bck5v7l7pIL93t0Iw-VW1yp_OGafH6cDR6tQGxakMkbZ8aQVx8mYGe-eGDmB0ETqsvowwg3_HlWZtb2Uen_iUikfM9ZguMePguc4XYoM1rXpN23UDlqSebfOdi2Q",
+      "photoAttribution": "Buahan, a Banyan Tree Escape",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Wellness & Spa",
+        "Outdoor & Nature"
+      ],
+      "phone": "(0361) 6208181"
+    },
+    {
+      "name": "Tugu Hotels",
+      "desc": "Magical boutique hotel, design-forward aesthetic, culturally immersive experience",
+      "longDesc": "A magical boutique hotel in Canggu that captures the essence of Balinese design and culture. An unforgettable destination for those seeking authentic luxury.",
+      "coord": [
+        -8.658567099999999,
+        115.1306922
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13837457834569761236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzz1es3g40i0R1AH6J5aGCMA",
+      "address": "Pantai Jl. Pantai Batu Bolong No.117x, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",
+      "rating": 4.7,
+      "ratingCount": 596,
+      "website": "https://www.tuguhotels.com/hotels/bali/",
+      "photoRef": "places/ChIJzz1es3g40i0R1AH6J5aGCMA/photos/AcnlKN3plrbTsmCLi0N4tbexC7pvZ1bsDH8egEjk6X5rdxDIQ7G1ceDj_0aqOYHl-V_xcOkT_tPWlqu25qtINlASjd_-VdaDMWOS3p0edyWWSB44W1QhOygUoTG1Or8-LO34Z9SHdkIex5HRHMHvzg1oGfkBMrVrhZbuhRswZuNsgCIAQlO3KjvKxFNcNuUVvy__cK1a5FYjiCoo6MqsEE86p3OBmUXrtsmqKYTAyce-JKrVw2xunihRf0zcI7P6AOp_rnO_58cgsbOIjFP8u8K946ppSDirx_YofpBLgMZJM_Ovbw",
+      "photoAttribution": "Hotel Tugu Bali",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Art & Design",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0361) 4731701"
+    },
+    {
+      "name": "NIHI",
+      "desc": "Award-winning Spa Safari, luxury wellness retreat, holistic experiences",
+      "longDesc": "An award-winning wellness resort offering transformative Spa Safari experiences designed to reconnect guests with a life well lived through holistic rejuvenation.",
+      "coord": [
+        -8.7195169,
+        115.18279849999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6004049328413991632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ786XZh39SiwR0OIJqg2rUlM",
+      "address": "Kuta, Poleng Complex Blok D No. 6, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+      "rating": 4.4,
+      "ratingCount": 95,
+      "website": "https://nihi.com/",
+      "photoRef": "places/ChIJ786XZh39SiwR0OIJqg2rUlM/photos/AcnlKN2aj_CHNqS8H6NS7NzEWh59WduAqv5m7dE_eGwqQJtLbz7GOhjJQOXhk-Euhe41zyqI-xRjF2Fqya2VtA_sz39ctzvtu_M22uwM1UeEOJUCFU6KCV7yY8OamU8COgKzYM5aBL1wPeQ4Yd4HEa_1BxKrv0rQ7DYOoNJl53TwnHIGezA1skU8d2iLYOvkcijoDakpY8aTAZv6zfKJ-_DqHtzaJ9SitGYv7bfSI1rv6S6Pu6J_poQcJhRm1fxptodsxy6QNLyFt6rJ4CnpIUF8Eo-FO-_CScO_wLLLDo1F1PE8ow",
+      "photoAttribution": "NIHI Sumba Bali Office",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "(0361) 757149"
+    },
+    {
+      "name": "Mandapa",
+      "desc": "Jungle-bound Ritz-Carlton Reserve, intimate luxury, immersive nature experience",
+      "longDesc": "A jungle-bound Ritz-Carlton Reserve property offering intimate luxury immersion within verdant tropical landscapes with anticipatory service and limited room counts.",
+      "coord": [
+        -8.4856961,
+        115.2440913
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4501694768053777965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJI_3sXcMi0i0RLXYUYYo7eT4",
+      "address": "Jl. Raya Kedewatan, Kedewatan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+      "rating": 4.7,
+      "ratingCount": 1832,
+      "website": "https://www.ritzcarlton.com/en/hotels/dpsub-mandapa-a-ritz-carlton-reserve/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJI_3sXcMi0i0RLXYUYYo7eT4/photos/AcnlKN0Cmjb_kBScS_bREbFehm72Elxf1_zbWNIx3__itvzkCogT8j2M-X_aPIk1ZSfcjQPTpoAsp5avKDrW3mjhtRA3mOLQGr0jD6ijTBF8YQEHju3CLgMy7GDHbWzBcNyH7FhdHaXhQjHnbZVCSklq0c8Ipdb45w880_wm2r-QBevfrk3S_Hi0ezUgRoam62Ly4XJgczYOtauy4Es-e3HCBfmWT_qP2vtX0evhsUETuB4dwHaO_px2Im5dOW8lzSFaf-6E9EBZxYE-E136OXsd6PuNkzzIBiF6-rVda-7h1rTg8w",
+      "photoAttribution": "Mandapa, a Ritz-Carlton Reserve",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "phone": "(0361) 4792777"
+    },
+    {
+      "name": "Capella Ubud",
+      "desc": "Luxury resort in Ubud, serene setting, exceptional cocktails, peaceful ambiance",
+      "longDesc": "A tranquil luxury resort nestled in Ubud's lush landscape, offering a calm yet beautifully designed sanctuary with exceptional cocktails and serene surroundings.",
+      "coord": [
+        -8.4482091,
+        115.2681117
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2668733494160064892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJY0hnMyoj0i0RfAGZL_k-CSU",
+      "address": "Jl. RY Dalem, Keliki, Kec. Tegallalang, Kabupaten Gianyar, Bali 80561, Indonesia",
+      "rating": 4.8,
+      "ratingCount": 755,
+      "website": "https://capellahotels.com/en/capella-ubud",
+      "photoRef": "places/ChIJY0hnMyoj0i0RfAGZL_k-CSU/photos/AcnlKN0X-EHPiy2bD5MP61ARb_JY_7IAzSoDb4VSyV1ptAMvIzjNXmIGggITMk8yIUY_RDqLH2NnnTsig8PAPof02wG4OTvuIcKrtaCUp2hsd-er1-c9cDBPjJwyNqHSb9tgQBaUd7Is9cX_E1IbBMUvgCMvyXjGgEqXPUWh086K-ca4KmDgZyazU4-6WJmg-P5qtYMFPCE8l2gl_acLKVFLu4MuK_2GVjL8XZUyJVL6pIP86M3MnJxGmPv3UdDb-qqKCB6BZMJZheX2oN0scPanMwBgj5Bigyu4bIx3E5hhfURydw",
+      "photoAttribution": "Capella Ubud, Bali",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0361) 2091888"
+    },
+    {
+      "name": "NIHI Hospitality Academy",
+      "desc": "NIHI hospitality academy resort, Rote Island opening, April 2026 launch, luxury experience",
+      "longDesc": "A groundbreaking NIHI Hospitality Academy launching in April 2026 on Indonesia's Rote Island, blending luxury accommodation with immersive hospitality education.",
+      "coord": [
+        -10.937460399999999,
+        122.8433056
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4239165791695800914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJL-ZFrSrbUCwRUgoE1tOK1Do",
+      "address": "Boa,Rote Barat, Boa, Rote, Kabupaten Rote Ndao, Nusa Tenggara Tim. 85982, Indonesia",
+      "rating": 2.2,
+      "ratingCount": 42,
+      "website": "https://www.nihiroteisland.com/",
+      "photoRef": "places/ChIJL-ZFrSrbUCwRUgoE1tOK1Do/photos/AcnlKN0bigwMQOgWcMb52Fl9ubUg7gYR8TF_7Bj6g2bXNX4uiH2hR38mgngXuaza2YeIMj-UmETVAoWAao0HuASCVEHByyAXxofZWWtx8qaoDorHijxShZogOK_PPNmBy0RVw_clcM15Edn1D-AFyBB5astAMRg48Wksx62cnNS0TqVVu8Ru3XswOaPFt9Q6qmQ7h9mbulddtCRavia4kPidCV1jv_myhbFE6hLe-TH5FNDbGUaroD8Rsj78DCyesOdLoQD_oBBftC-BVMQoCCkoGmz_CT2iNTHLXFEsV6FqNzEP4A",
+      "photoAttribution": "NIHI Rote",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Wellness & Spa"
+      ]
+    },
+    {
+      "name": "Desa Potato Head",
+      "desc": "Artistic luxury resort, Balinese culture, creative design destination",
+      "longDesc": "A culturally-inspired luxury resort in Bali combining contemporary art, design, and Balinese traditions with exceptional hospitality and immersive experiences.",
+      "coord": [
+        -8.679322299999999,
+        115.15075689999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6855431284523512593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ4f9QNY9H0i0REbMfgG5iI18",
+      "address": "Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",
+      "rating": 4.7,
+      "ratingCount": 8715,
+      "website": "https://seminyak.potatohead.co/sleep?utm_source=google&utm_medium=gmb&utm_campaign=gmb_desa-potato-head&utm_term=creative-village&utm_content=landing-page",
+      "photoRef": "places/ChIJ4f9QNY9H0i0REbMfgG5iI18/photos/AcnlKN0GuPSMl99tpOz62RhnHRrdajtC94B54B8iNdgasI1hoCljzNedkWaO_Sri6yW7u-PskPIQxbMa98jHAaj73h-5WDoHfGPQfes9PFL9CVOOeSh6lfVvSTEPwb4uRPUP0kdzi2F4bQof3AbWhNWBkEgAhq-lDelkVaeMCJoTbGcDlyWGV6HgYpeSuYvATl7N1XtA0ssd1v1z3Fw02X0BoGtQ8j1C370akzw-_g31iuhbednqp24iWBsWgysLdqv_rsM2mkIGl_PvI1IzEq_Cz8Pr1ZG8LuhKI_88REQnfizvHw",
+      "photoAttribution": "Desa Potato Head Bali",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 12:00 AM",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 10:00 AM – 2:00 AM"
+      ],
+      "phone": "(0361) 6207979"
+    },
+    {
+      "name": "Capella Ubud",
+      "desc": "Rainforest camp with pools designed as rainwater reservoirs, authentic jungle immersion",
+      "longDesc": "A luxurious rainforest camp in Bali that stays true to its concept with uniquely designed pools shaped like natural rainwater reservoirs, creating an immersive jungle experience.",
+      "coord": [
+        -8.4482091,
+        115.2681117
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2668733494160064892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJY0hnMyoj0i0RfAGZL_k-CSU",
+      "address": "Jl. RY Dalem, Keliki, Kec. Tegallalang, Kabupaten Gianyar, Bali 80561, Indonesia",
+      "rating": 4.8,
+      "ratingCount": 755,
+      "website": "https://capellahotels.com/en/capella-ubud",
+      "photoRef": "places/ChIJY0hnMyoj0i0RfAGZL_k-CSU/photos/AcnlKN0X-EHPiy2bD5MP61ARb_JY_7IAzSoDb4VSyV1ptAMvIzjNXmIGggITMk8yIUY_RDqLH2NnnTsig8PAPof02wG4OTvuIcKrtaCUp2hsd-er1-c9cDBPjJwyNqHSb9tgQBaUd7Is9cX_E1IbBMUvgCMvyXjGgEqXPUWh086K-ca4KmDgZyazU4-6WJmg-P5qtYMFPCE8l2gl_acLKVFLu4MuK_2GVjL8XZUyJVL6pIP86M3MnJxGmPv3UdDb-qqKCB6BZMJZheX2oN0scPanMwBgj5Bigyu4bIx3E5hhfURydw",
+      "photoAttribution": "Capella Ubud, Bali",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0361) 2091888"
+    },
+    {
+      "name": "NIHI Sumba",
+      "desc": "Exclusive Indonesian wellness resort, transformative experiences, pristine beachfront",
+      "longDesc": "An ultra-luxury wellness destination in Sumba offering transformative holistic experiences, pristine beaches, and world-class hospitality in a serene setting.",
+      "coord": [
+        -9.777630799999999,
+        119.3762222
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3134813873617609482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ3_Tt_a-dTCwRCqPx7ZsYgSs",
+      "address": "Hoba Wawi, Wanokaka, West Sumba Regency, East Nusa Tenggara, Indonesia",
+      "rating": 4.2,
+      "ratingCount": 858,
+      "website": "https://nihi.com/",
+      "photoRef": "places/ChIJ3_Tt_a-dTCwRCqPx7ZsYgSs/photos/AcnlKN0KmEnFzofiBmd_XE7Gr6ScOcXIf7wopIzxbSiUk8Jd_sMY6zoXyR1pQZ7MMmVcqUOaViIMj1GMAlZXWAZLX3566YBgP3HgCVe5kE15QkYk7RrcthEJEW365FvR67dI0cF1rQhYIkIMs3JPFQcJ7xXkVuS6LJEwSfqKcRW3-wNTApb-EE66CEZ-HJ8djWsOU-7eDMkWCcG6hxNWnU67ZwZ-YxFVgTKK7z6ALRWmiFvkVlhrItMfER_SmvnmAhu6oa2PaypBeJcc_5IJ2j-GSH75awOpXcMv76dWqepiCLCcaw",
+      "photoAttribution": "NIHI Sumba",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0361) 757149"
+    },
+    {
+      "name": "Bawah Reserve",
+      "desc": "Private island eco-luxury resort, pristine beaches, exclusive remote retreat",
+      "longDesc": "An ultra-exclusive private island resort offering pristine beaches and eco-conscious luxury in one of Indonesia's most remote corners, perfect for those seeking ultimate seclusion and natural beauty.",
+      "coord": [
+        2.5144517,
+        106.0469894
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11555275848534760749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJv9nX40a8wjERLZ2QaSmWXKA",
+      "address": "Bawah Reserve Anambas Kiabu, Pulau Bawah, Kec. Siantan Sel., Kabupaten Kepulauan Anambas, Kepulauan Riau 29791, Indonesia",
+      "rating": 4.8,
+      "ratingCount": 200,
+      "website": "http://www.bawahreserve.com/",
+      "photoRef": "places/ChIJv9nX40a8wjERLZ2QaSmWXKA/photos/AcnlKN27oisQ0JqIyEIkD8zecLvLkyQZst_c1qLZzzao3gtZ58tXXv51zpeZ2ckZSVoPQbaOoCs-bc6ukAFgVOvGqtgqNOf5OMxN0X73jJNPBN6ox3F0A3CUb0KOU5a-3FWlQECSUb6zDYz4IYJjbMRO9UFcHZjTeRVoJt-61yLvSBzpSJVWD4xRfgt2GmtghAyII9hOrSFK-x0I5NpatkLi9XYpuTlj5BSdTea1p4csrA8WPIzwOHR4WNhdJ4Ie8XXBUqL4z0gdKT7c-p8_RTy8xdQ4voOgmypmxBZUJNUNr2TPow",
+      "photoAttribution": "Bawah Reserve",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "phone": "(021) 50889668"
+    },
+    {
+      "name": "Amanwana",
+      "desc": "Luxury tented suites on secluded marine reserve, ultimate privacy and exclusivity",
+      "longDesc": "Experience unparalleled seclusion at this ultra-luxury resort featuring private tented suites nestled within a protected marine reserve, offering world-class hospitality and pristine natural beauty.",
+      "coord": [
+        -8.2630038,
+        117.49869330000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15691709049721840717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJxb1phiWTyy0RTeRzEz4mxNk",
+      "address": "Moyo Island, Labuan Aji, Labuhan Badas, Kabupaten Sumbawa, Nusa Tenggara Bar. 84313, Indonesia",
+      "rating": 4.7,
+      "ratingCount": 186,
+      "website": "https://www.aman.com/resorts/amanwana?utm_source=Google&utm_medium=Yext&y_source=1_MTU3MDc5OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJxb1phiWTyy0RTeRzEz4mxNk/photos/AcnlKN3incNNRmDJFFttoRhYGCblAjwO07_RHtyAzuEneCUja24g69uePuA2Y76Y73PHbScFPFyNeBx7ody6-NzMBrK7pBgH5M6JXyNUOzBGk8r7E5EovExsWpzeGRQ0tFM6qizlCee9QrdJNuo9ARDNm9gpfsKkfkBvnaE8l0VjSxEPPASfHOhPfOhpaSzxj_Mbzx43I0k68LyqfwWCwMwgb8v1FVCTcPQdjEpE686BOTurtBe-JVzV2kdJSid_DWPrlQOLfNs4tZTY7kuK8PKKheXXiPPytHwFnAed5MX2GJLuOg",
+      "photoAttribution": "Amanwana",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "phone": "(0371) 22233"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Canggu",
+      "desc": "Trendy beach town, popular tourist hub, vibrant dining and nightlife scene",
+      "longDesc": "Once a hidden gem, Canggu has become Bali's trendiest destination, though it's increasingly crowded. Perfect for those seeking excellent food, cocktail bars, and a lively beach atmosphere.",
+      "coord": [
+        -8.6490446,
+        115.1378565
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=361145571182050608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJZZZY9GE40i0RMP2CyvsLAwU",
+      "address": "Canggu, Kuta Utara, Badung Regency, Bali, Indonesia",
+      "website": "",
+      "photoRef": "places/ChIJZZZY9GE40i0RMP2CyvsLAwU/photos/AcnlKN2fLiNqDEED1TFcbE7pa4iOTQluFS0C5NS68rh9SN9gMJu-gKYqa00SlNt7fKGjWcuFo3Nz4jxR0P73Ex4Wm0VIVSBRCz_E5hnZSS1ZbXXu-HE7WqsXYPogtKa8A0UeaaFNqUyNKzoWFY7pRZyKlFyOHjMUSVvOqgyjOVM4DCNhWE5i4x7ulXeX4thpTPU2arG7LHG0rgPw3po0hxfK8nlAjY0FTZRSUqW6CxA7xZ24jxwS8l6RODznYRYi5-3yTwqRHBYQWe0xcfLLoHlFNtxDXGgD13jETaKVJs6YDDDHmq6lFXCDA4j50kJb_xcueONwcSo3r0yTT80NCEJrUcOss9qAitzFQcbV4X3-SlXpamB0w7fEERyTLf2DONrTNDalXqtOR4qfNGSINvIq9jNCgAj4fVq3BdQHb-73Usn4cw",
+      "photoAttribution": "Joe Sampouw",
+      "tags": [
+        "Photography Worthy",
+        "Nightlife",
+        "Cocktails & Bars"
+      ]
+    },
+    {
+      "name": "Tabanan",
+      "desc": "Quieter alternative to crowded Canggu, local charm, less touristy vibe",
+      "longDesc": "A lesser-known neighbourhood near Canggu offering authentic Balinese experiences with fewer crowds, ideal for travelers seeking a more local and tranquil island experience.",
+      "coord": [
+        -8.5375566,
+        115.1246918
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13245299616305078617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJQ0yA6Vs60i0RWWF7DdPB0Lc",
+      "address": "Tabanan, Tabanan Regency, Bali, Indonesia",
+      "website": "",
+      "photoRef": "places/ChIJQ0yA6Vs60i0RWWF7DdPB0Lc/photos/AcnlKN1fWmRjPGFSUthnQKYYj-PpZKzXGe_cXYHA0nlTAzhTI27sO36rz3EFab-i7B0t-w9HPaigrKcNTExlFXo8X7Jg_jIaVnI6ISx5YGR8HZz2Wf1gn5oDizom9Q_GyYgZ6Y44fWWg0LrJs5rV8hpib04cUOISzwM0PO7TQ732kigenAwm5ud1e5-XUC8_whOLhK6gRqHQYsdxjFcNwMUWM1a5kjpEuPhfL0cEov88eYOabpRIjX6kTUvF2y3VBK-A61TG-cGay10PFy5ZxDSnDPxKCg352F9QfDoIJUQd1hLm9AWRLcLwZapGQIjJfXtgI9B5PArRbTC_6EIqrTppiWl1AOq61SJS0NaoqhvVBQVK5aqoaIYotUsRa4BSCCeDRCAmS6aQssauhGiZAncZlexmYf5J_ePnlDCi2D7RcqCe1MjW",
+      "photoAttribution": "I Ketut Sudiarta",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies"
+      ]
+    },
+    {
+      "name": "Seseh",
+      "desc": "Charming village near Canggu, authentic local atmosphere, off-the-beaten-path",
+      "longDesc": "A picturesque village surrounding Canggu that offers a more authentic, less touristy Balinese experience for those looking to escape the crowded main tourist areas.",
+      "coord": [
+        -8.615366999999999,
+        115.12845349999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16929548157029112884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzaQrEU040i0RNNyWK1rW8eo",
+      "address": "Seseh, Munggu, Kec. Mengwi, Kabupaten Badung, Bali, Indonesia",
+      "website": "",
+      "photoRef": "places/ChIJzaQrEU040i0RNNyWK1rW8eo/photos/AcnlKN08H-zx5XsR0flrGurNqOiQSdq4CDizfTWzMYmiCswBXCrG9WiKWj2lMZdDZhDw7yqUgma98NQ2Vx81tVU1EQU6SlJsbCwlVaQnuVhoqUgFDMss8JESKTaUQLVY7NEy1baiudgksz5UQmkD8XqNJHmbJVeCECYqrgPOJLWwpTy5GMNGiVCYio0DeP-6hsn3XucoMfiqyw8SuXUW_bFg9Yy2EroXje1S6W-XxLtav5-J9TxgLblWwM7eLcHrNrIGJHHCqpDjfNhwpBtO3HpTDWBrJNIy6VtovArJBgx3Itbl4d31IWCTNwk9e7ycCUM_pxeB7LgFOJ2UTHB9sQM5AafSL3AwoJnheToFM7UCk-QsRBxsWRHcvaqqZLnbwSRKdDnBcLXMvsC4Llwvx_WOzcg6K9RV2TC75I-imrTiDzkUmw",
+      "photoAttribution": "Yolande Pianet",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Pererenan",
+      "desc": "Emerging beach neighbourhood, quieter alternative to Canggu, growing food and drink scene",
+      "longDesc": "An increasingly popular neighbourhood near Canggu offering a more relaxed atmosphere with emerging brunch spots and cocktail bars, perfect for a 48-hour escape.",
+      "coord": [
+        -8.640230299999999,
+        115.13072590000002
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11792180481483788115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJg2bkD2Y40i0RU88ilqs9pqM",
+      "address": "Pererenan, Mengwi, Badung Regency, Bali, Indonesia",
+      "website": "",
+      "photoRef": "places/ChIJg2bkD2Y40i0RU88ilqs9pqM/photos/AcnlKN15kWJ9yjOBOQwHqlsbIYEbSYXXGYrcvF3PC2jMgxqA28_ybMF8rq04ztZU-po_1QL9Px-mR6FO4EBkwU9J7DnEk3DyBtCiNj5qXH6zxLxuOE32Dohtr0N5bLrbbaimt1uwF5JNa3khv__83vYBVAqN9A-7QPbvQJd2C8u6AjBiNrkYsai8yZwZhx-rnfDyxwhJWLg46T_CbTKup7kT1B3vODpgMJ7WYcGNuFNdCBaSv1icAri5NDKIMTNq_tFyzNV_Wq_cm_NeeaMW9EPDeEILkPkM-wgfjyPIqmxiTIn0xdcKCcUJwbBxQaBeBwLpDmianP3K56AvH3Wkl5S1W2SqSO6LOqV7IJTmEUZWXS5CbIyFr3mbd2OFRjpD2Gvor79A9dQerY_XMFgcROkMENEMfVKUS1vhwJQl-YoVVMhijD5x",
+      "photoAttribution": "Dwi Satotok",
+      "tags": [
+        "Photography Worthy",
+        "Cocktails & Bars",
+        "Casual Eats"
+      ]
+    },
+    {
+      "name": "Komodo Pink Beaches",
+      "desc": "Pink sand beach, scenic beauty, off-the-beaten-path destination",
+      "longDesc": "A stunning pink-hued beach offering natural beauty and fewer crowds than popular Bali destinations. Perfect for photography and peaceful seaside exploration.",
+      "coord": [
+        -8.6560487,
+        119.5592623
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10064465412188913822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJj4Bj4ir5tC0RnsC58_cprIs",
+      "address": "8HV5+HPJ, Komodo, West Manggarai Regency, East Nusa Tenggara, Indonesia",
+      "rating": 4.9,
+      "ratingCount": 820,
+      "website": "",
+      "photoRef": "places/ChIJj4Bj4ir5tC0RnsC58_cprIs/photos/AcnlKN2Cj9MNEhusA3mgnvSL5Peh0L3fKkOet54RRtD8wleZiVA5KlI5KiwHYNJ8vqzb0LydShxi6YfOAe2CJTasOYSOmW7E5BkER8Vh0dIlL51ml4h-_8nxjKwpmlmB1MK90x8umpXTePH42J9zhsDbfnDsBeHZ5xwS9PWBAg4J4vn_2DDOMhukeB83WBtTwaWHYZgvSTxeMm-EXahrp94dsjarYcZX6YS0sQP_Ah0EPmqhB4dQTBCXOO5_g9ubQDKQJWs-BAu2QB-a5pCvh04fjDr7blQBKxFWFGvl5nLrMzRVaNhkZMREnVHrP00tLdiJ8yd6iSxv4mLJOgfcRGwWCL9koC0w3sWepuBawulV_axsoxh7I4vD9lkbN0kiMLgwtJtwb0L1jx-S3Ni38gV11E2ZvpEjSZ7afwROdPLilL3Muw",
+      "photoAttribution": "Jacques Lebouleur",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "hours": [
+        "Monday: 4:00 AM – 10:00 PM",
+        "Tuesday: 4:00 AM – 10:00 PM",
+        "Wednesday: 4:00 AM – 10:00 PM",
+        "Thursday: 4:00 AM – 10:00 PM",
+        "Friday: 4:00 AM – 10:00 PM",
+        "Saturday: 4:00 AM – 10:00 PM",
+        "Sunday: 4:00 AM – 10:00 PM"
+      ]
+    },
+    {
+      "name": "Raja Ampat Reefs",
+      "desc": "Pristine untouched reefs, world-class diving and snorkeling, exclusive marine paradise",
+      "longDesc": "An exclusive marine sanctuary featuring untouched coral reefs and abundant aquatic life. Ideal for diving and snorkeling in a pristine, less-crowded tropical setting.",
+      "coord": [
+        -0.4504898,
+        130.69214270000003
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14695938225028845212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJKV4Eht0BXy0RnM7tB_R18ss",
+      "address": "Pantai Yenanas, Yenbeser, Kec. Waigeo Sel., Kabupaten Raja Ampat, Papua Barat Daya 98482, Indonesia",
+      "rating": 4.7,
+      "ratingCount": 224,
+      "website": "http://rajaampatbiodiversity.com/",
+      "photoRef": "places/ChIJKV4Eht0BXy0RnM7tB_R18ss/photos/AcnlKN2d5exikvDCAovjjd85cpXrN37iilsBozBVk04MTGbiHT4fYv-zsqq6WXxKOEwGK2aTMD-07qvTVr3PwTNlUnsogs0GV-6E81uFEtQTSwaYAXs18nNeJoiZZgXU6YAQwojRaBrwA0MkFLF8lTtNcK2R7jhgDaZ4236Tb6yNQnqh8l23IH21pNNUp95NNiR0JiHXLXMgypJFZJdjUdDDOeQsSJRBEc_GMb7VKI6qCcR6lovxePSpJoxnHHzWF5Qe5VjSoLffyIooZxyGQ_j597FE5vt09kTKDV8hI1atXk1Fig",
+      "photoAttribution": "Raja Ampat Biodiversity Nature Resort",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "0812-4881-3677"
+    },
+    {
+      "name": "Karoso Beach",
+      "desc": "Pristine beach with wild shoreline, luxury resort experience, stunning lagoon views",
+      "longDesc": "A breath of fresh air surrounded by miles of untouched shoreline, Karoso Beach offers an overwhelming sense of freedom and luxury in Indonesia's Sumba region.",
+      "coord": [
+        -9.5291259,
+        118.9356799
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17604368321769214112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJg9k1RLm7SiwRoJAxerdHT_Q",
+      "address": "Pantai Karoso, Ate Dalo, Kec. Kodi, Kabupaten Sumba Barat Daya, Nusa Tenggara Tim., Indonesia",
+      "rating": 4.8,
+      "ratingCount": 274,
+      "website": "http://www.capkaroso.com/",
+      "photoRef": "places/ChIJg9k1RLm7SiwRoJAxerdHT_Q/photos/AcnlKN3HO60tfatvkUBR21UkSH4mRYEpmA-g62qDSALmofbdy-u3AOf2qULOSB5YtlBSqsQXOktnqY8-usoPMRyTuxRJmzSHyOpwy2tVkzRzoPHepGeM08QnLywMi1xB_Csx0tBjzLTh6JeAm7ju7o5SAARaqJP8CSVGp1Sh2oQUjXQ-3RZmiNMsDLSyh1oQVZo2iStakCT6Ln7pDEU9SYrckZtc15fCwIxStfiocDFo4IAQ6MDlgD8GBbNlcVhQZCSakzJ71Z7dc9syti6Fl6YWp_zOg62GwXeEybXBO4-6-yi5EA",
+      "photoAttribution": "Cap Karoso",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "phone": "(0361) 6201805"
+    },
+    {
+      "name": "Ubud",
+      "desc": "Jungle-surrounded cultural hub, luxury tented camps, artistic communities, wellness retreats",
+      "longDesc": "Ubud's jungled hills offer luxurious tented camps and a thriving artistic community. Perfect for those seeking wellness, culture, and natural beauty.",
+      "coord": [
+        -8.5068536,
+        115.26247780000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6098871141424119068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJw8kin3M90i0RHD13a_2Ko1Q",
+      "address": "Ubud, Gianyar Regency, Bali, Indonesia",
+      "website": "",
+      "photoRef": "places/ChIJw8kin3M90i0RHD13a_2Ko1Q/photos/AcnlKN0E_7d_M2BsHJ5M0b1iWRQazgIxSdMiXNobLvzioyZTu5CcBu-0I4uiotbfzILeQADhIaD_lSSdvcGedpip_4L3dKYaaGKskSOkCek57KbCiBgYhp0EyqKHnbjHSmPkoeBdsWdH9qfB-uHXw5eDteFKhO70-BRE1KJRAk-Q7FzfLuQ4jNrslSgR-hH0USuGg2GYMwmD9BOHPacoD9fu0GAh1RZLzVYzIhE53bJH1mXhyoLQMNeQWVaftu98-CkKW8Si1Cmx2nQnkpchY-3Ogg_FRV6LOdR0v2PN8pFGJOE97PyLUPVEw9UlMtcJDPL8H6qkzTogTCHR3ifQOEJEE5OhSptcGOTzj1aXG1FBsUiPUyec8te_pkPA00HPwj6ZAWC922a1sQYmrVzcWlOgoY42wLF985Y2ekwXZTqvqUApY94",
+      "photoAttribution": "Krzysztof Chmiel",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Art & Design",
+        "Wellness & Spa"
+      ]
+    },
+    {
+      "name": "Canggu",
+      "desc": "Trendy beach neighborhood, pillow-strewn beach clubs, vibrant nightlife, modern dining scene",
+      "longDesc": "Canggu's pillow-strewn beach clubs offer a perfect blend of relaxation and vibrant nightlife. The trendy neighborhood caters to surfers, party-goers, and digital nomads alike.",
+      "coord": [
+        -8.6490446,
+        115.1378565
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=361145571182050608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJZZZY9GE40i0RMP2CyvsLAwU",
+      "address": "Canggu, Kuta Utara, Badung Regency, Bali, Indonesia",
+      "website": "",
+      "photoRef": "places/ChIJZZZY9GE40i0RMP2CyvsLAwU/photos/AcnlKN1AjkgUWSdXiYUqW0KTNO0QJ305jsHdHzQaaijBgmwXbwuHeqea31bNDtAMC6aJT_Y167C7EXgmLIT7Mo4h3yoMVEGFr4-tMpnztoE8m9y34v6EW0oZGEGlS6NQrL1QW1KuTrUxGn6baSbkI_SnGqk8mwjkEX0ksn5pgC42uQhcK9liafjhQLswnHJ9y6Ydpcld73gahYYLNX5gXEinJdwtMyvjnYULkE-aVqixWMyn_mD778VoizY9a5Hdolu76BCj5zzS75Gx826E8ToVlgui9UI16EljnISw0Cg4lkTUw76_wDTI6dl6Wh87RAubY0oWKu-AIXm20sL5XsYq_B-PVqO5BsmYy6rFGLaECqkhLcEaSSHrzrmSUc6zrixQVVkxwYBiqllU45PQFrbVDiaG76NjWemiKL8rVZc1MpHvFg",
+      "photoAttribution": "Joe Sampouw",
+      "tags": [
+        "Nightlife",
+        "Photography Worthy",
+        "Cocktails & Bars",
+        "Casual Eats"
+      ]
+    },
+    {
+      "name": "Ubud",
+      "desc": "Jungle destination with stunning starry nights, tranquil nighttime atmosphere, exceptional for sky photography",
+      "longDesc": "Experience unbelievable starry nights captured in the serene jungles of Ubud, where nighttime tranquility creates the perfect backdrop for stunning celestial photography and nature immersion.",
+      "coord": [
+        -8.5068536,
+        115.26247780000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6098871141424119068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJw8kin3M90i0RHD13a_2Ko1Q",
+      "address": "Ubud, Gianyar Regency, Bali, Indonesia",
+      "website": "",
+      "photoRef": "places/ChIJw8kin3M90i0RHD13a_2Ko1Q/photos/AcnlKN0E_7d_M2BsHJ5M0b1iWRQazgIxSdMiXNobLvzioyZTu5CcBu-0I4uiotbfzILeQADhIaD_lSSdvcGedpip_4L3dKYaaGKskSOkCek57KbCiBgYhp0EyqKHnbjHSmPkoeBdsWdH9qfB-uHXw5eDteFKhO70-BRE1KJRAk-Q7FzfLuQ4jNrslSgR-hH0USuGg2GYMwmD9BOHPacoD9fu0GAh1RZLzVYzIhE53bJH1mXhyoLQMNeQWVaftu98-CkKW8Si1Cmx2nQnkpchY-3Ogg_FRV6LOdR0v2PN8pFGJOE97PyLUPVEw9UlMtcJDPL8H6qkzTogTCHR3ifQOEJEE5OhSptcGOTzj1aXG1FBsUiPUyec8te_pkPA00HPwj6ZAWC922a1sQYmrVzcWlOgoY42wLF985Y2ekwXZTqvqUApY94",
+      "photoAttribution": "Krzysztof Chmiel",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic"
+      ]
+    },
+    {
+      "name": "Menteng Tennis Club",
+      "desc": "Distinctive tennis club with architecturally notable courts in Jakarta",
+      "longDesc": "A notable tennis club in Jakarta recognized for its exceptional court design and construction, standing apart through thoughtful architectural planning.",
+      "coord": [
+        -6.1980093,
+        106.8391295
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12264785368557435699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJdVg_BwD1aS4RMztGo09FNao",
+      "address": "Jl. Surabaya No.8, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "rating": 4.2,
+      "ratingCount": 279,
+      "website": "http://www.commongrounds.co.id/",
+      "photoRef": "places/ChIJdVg_BwD1aS4RMztGo09FNao/photos/AcnlKN0pTIfNaF8y9FEy70oas1IHxccffK1R9E7meJNYSEj-fNveeu1XejwyLajPtF74GRe8QaRWaVcclgSVpHsOK_ICSmyljWD0M0dwrZanGpRXaP4QQseJNXBIEBOjZB0qyyb8_jEPrATzSB36qkbYj6i0DPzDS727AcRx11fqsMi0cDPJUDd6zSXv3wPudJZc7m53Rqlf4MAIRnv0bNlSSRK83OHC_Cxl8618VPYxh64qA81vWkweKn22KKWftYPaxXOPoAqgvmwWMQnWY57MYejZAWnZyIhx3xC8C_uuqhCNRg",
+      "photoAttribution": "Common Grounds Terra & Menteng Tennis Club",
+      "tags": [
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 7:00 AM – 8:00 PM"
+      ],
+      "phone": "0819-2227-700"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Canggu": [
+      -8.8909,
+      117.3414,
+      0.03
+    ],
+    "Ubud": [
+      -7.1416,
+      114.0581,
+      0.03
+    ],
+    "Sumba": [
+      -9.3738,
+      117.8474,
+      0.03
+    ],
+    "Indonesia": [
+      -8.6432,
+      115.129,
+      0.03
+    ],
+    "Bali": [
+      -6.0375,
+      112.6969,
+      0.03
+    ],
+    "Bintan": [
+      -9.6402,
+      119.1218,
+      0.03
+    ],
+    "Komodo": [
+      -8.3654,
+      115.2385,
+      0.03
+    ],
+    "Raja Ampat": [
+      -8.6586,
+      115.1307,
+      0.03
+    ],
+    "Seminyak": [
+      -8.4857,
+      115.2441,
+      0.03
+    ],
+    "Jakarta": [
+      -8.656,
+      119.5593,
+      0.03
+    ],
+    "Rote": [
+      -0.4505,
+      130.6921,
+      0.03
+    ],
+    "Bawah Island": [
+      -8.5069,
+      115.2625,
+      0.03
+    ],
+    "Moyo Island": [
+      -6.198,
+      106.8391,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

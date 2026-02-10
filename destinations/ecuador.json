@@ -8,7 +8,73 @@
     -78.4539
   ],
   "defaultZoom": 7,
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Tierra Hotels",
+      "desc": "Luxury hotel collection specializing in curated Patagonian adventures and natural experiences",
+      "longDesc": "A collection of luxury hotels positioned in Patagonia's most breathtaking landscapes, offering adventure with refined accommodations.",
+      "coord": [
+        -51.0349807,
+        -72.5834045
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6952306753332979728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJF1gP2WvKur0RECj2QSiOe2A",
+      "address": "On the edge of Torres del Paine National Park, Torres de Paine, Magallanes y la Antártica Chilena, Chile",
+      "rating": 4.8,
+      "ratingCount": 256,
+      "website": "https://tierrapatagonia.com/",
+      "photoRef": "places/ChIJF1gP2WvKur0RECj2QSiOe2A/photos/AcnlKN3i2DVR9gRn5qGxL6Q5GD9DB5q8rVoqt7iYmZSW6XJf25f7duPpGSV9Qym2fUvwinBnZGiS9HgQFAVdTv0h7VlhdlAo_wqso8yJjan8Ctt9896MXZnjkk3OU-cH4vuk23RwwuyTvvxOpwiMxH5OAOLV7-rfi_QKZlrD2n4eTyWCpI3inY45zwW1wtpK_Hur1BM5EUdGLwXiyu5V52LuVUVEUtEEQO7fvFT06XB9JLUeVpbPM4VVWF25IBholOIoXmgldPTeERreGBsF22ZR2uItdwSLI8MkrknXXizRKdHbew",
+      "photoAttribution": "Tierra Patagonia",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(2) 6469 0518"
+    },
+    {
+      "name": "Mashpi Lodge",
+      "desc": "Cloud forest eco-lodge, mountain hideaway, immersive nature retreat",
+      "longDesc": "An intimate eco-lodge nestled in Ecuador's misty cloud forests, providing a serene mountain retreat with exceptional biodiversity and sustainable luxury living.",
+      "coord": [
+        0.16598569999999999,
+        -78.8782851
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15226756967797620023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJd7Id9nyHKo4RN_3HkslOUNM",
+      "address": "Reserva Privada Mashpi, Mashpi 150150, Ecuador",
+      "rating": 4.8,
+      "ratingCount": 711,
+      "website": "https://www.mashpilodge.com/",
+      "photoRef": "places/ChIJd7Id9nyHKo4RN_3HkslOUNM/photos/AcnlKN1jfS9CeZTXNLq9sPuSvQWf6supjfTv31H1wGByvMVNFcmwyfQYW8H-Yh698EKJOO_LTnbfucLdcptFCfTgrqPClBu9wzXlie48oe_1FJCNN9JOG2E1w_7k_X7xmqHdvVXNzKVJV5YdIcSu0XWcIc507M0n5s0_9E4wMY6BB8qu3VwH4PFo1uYbZjyDpaaNZW327GwnJApLaCVBfEXtN7VVBszq1_8yvVzbz7Z_qYEbGQGp19YCc9bAee09rkFhtt4AGmUcIQ4Qc6q2Bu_zgsy-_b33siDAsWz-Y32ly2wxhA",
+      "photoAttribution": "Mashpi Lodge",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "phone": "(844) 738-5895"
+    }
+  ],
   "restaurants": [
     {
       "name": "Sacha",

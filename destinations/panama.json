@@ -1,0 +1,100 @@
+{
+  "key": "panama",
+  "name": "Panama",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇵🇦",
+  "defaultCenter": [
+    7.9796,
+    -82.0288
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Islas Secas",
+      "desc": "Exclusive Panama island resort, pristine wilderness, ultimate seclusion",
+      "longDesc": "A secluded ultra-luxury island resort in Panama offering pristine beaches, exceptional diving, and exclusive access to protected marine sanctuaries.",
+      "coord": [
+        7.978394400000001,
+        -82.0276265
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11936575850775802036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX_ioRYDtr48RtHD_W348p6U",
+      "address": "Gulf of, David, Provincia de Chiriquí, Panama",
+      "rating": 5,
+      "ratingCount": 12,
+      "website": "https://islassecas.com/",
+      "photoRef": "places/ChIJX_ioRYDtr48RtHD_W348p6U/photos/AcnlKN3_4Nq8X3jQl31RLNF4INP0_Mjjb5mm3JAphNxwEsdYQ6li1YkaK7UbYFvm-lQVdSh8RcwRQYhPF_CNyuWTaQxnEwdMViV7GjhGWzhzmc19IzilK7oQ3rFOGCgUEQjLwvgptVnHAvPkJNlEcSKx6cCbYR1vSm4cJTVKqgDPWkS00C2nnjhFNtPtNRysFhHn7Mo2zD-HcV1G_g25OIIg1szLOmpyZmbieT2aM-qz20YTFlaew5IXp225wihqNayiJsFYorn-8rJLiLUkZj96kh6RpYH0GKtUfS8ZZpiJVcd9cw",
+      "photoAttribution": "Islas Secas Resort",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "phone": "(800) 377-8877"
+    },
+    {
+      "name": "Islas Secas",
+      "desc": "Island paradise villa, luxury amenities, private setting, group getaway ideal",
+      "longDesc": "An exclusive island resort villa providing ultimate privacy and luxury amenities, perfect for group getaways and creating lasting memories with family and friends.",
+      "coord": [
+        7.978394400000001,
+        -82.0276265
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11936575850775802036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX_ioRYDtr48RtHD_W348p6U",
+      "address": "Gulf of, David, Provincia de Chiriquí, Panama",
+      "rating": 5,
+      "ratingCount": 12,
+      "website": "https://islassecas.com/",
+      "photoRef": "places/ChIJX_ioRYDtr48RtHD_W348p6U/photos/AcnlKN3_4Nq8X3jQl31RLNF4INP0_Mjjb5mm3JAphNxwEsdYQ6li1YkaK7UbYFvm-lQVdSh8RcwRQYhPF_CNyuWTaQxnEwdMViV7GjhGWzhzmc19IzilK7oQ3rFOGCgUEQjLwvgptVnHAvPkJNlEcSKx6cCbYR1vSm4cJTVKqgDPWkS00C2nnjhFNtPtNRysFhHn7Mo2zD-HcV1G_g25OIIg1szLOmpyZmbieT2aM-qz20YTFlaew5IXp225wihqNayiJsFYorn-8rJLiLUkZj96kh6RpYH0GKtUfS8ZZpiJVcd9cw",
+      "photoAttribution": "Islas Secas Resort",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "phone": "(800) 377-8877"
+    },
+    {
+      "name": "Islas Secas",
+      "desc": "Exclusive volcanic island resort, nature trails, whale watching, surfing, scuba diving",
+      "longDesc": "Voted #1 Resort in Central America, this exclusive archipelago spans 14 volcanic islands offering immersive nature experiences and water adventures in pristine serenity.",
+      "coord": [
+        7.981983199999999,
+        -82.0311778
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7282882060368117635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJe62ZVGTtr48Rg39OxaX-EWU",
+      "address": "Islas Secas, Chiriquí Province, Panama",
+      "rating": 4.7,
+      "ratingCount": 34,
+      "website": "",
+      "photoRef": "places/ChIJe62ZVGTtr48Rg39OxaX-EWU/photos/AcnlKN1738nrQOl4B6z3aU7t8pTgvpLaoV4NnU3hSyd-afAWZEUJ-lMWXHR8QiH4nSIbbC4oxSyJG4riE2OGletoioubsusSpXGn5_odbGZW293nEAnWtZTgZBdLfYXYxmtrk1vkTD4wMNCFwXVk1OKoJ9hJKR6D0CaLo7tAFBeY-Co52y90ov8gZiN_LX0idJT3T189nIY_2Rx40y08wLvw7q6TwJ4bgoud7PFEmonvnpjdBDjFns4u5D5cOI_3L3DwO_43KIr1cev_baz1M6yzrfkOimbDIa-hHDD4B95v7Nd6yUaKfqRP25KFXqsbh69va5KO-wwtcUc6Ge-bqdVxc58JvQxuWpK_QSTA6vZip1CCqLgbV6GPNMcAIMRhKJzVBxU0si6By2ETY389vFQ5UoSNefT5OOEIb9ikiVrm6sIE6Pen",
+      "photoAttribution": "Javier Valdes",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Adventure & Active",
+        "Photography Worthy"
+      ]
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Bocas del Toro": [
+      7.9784,
+      -82.0276,
+      0.03
+    ],
+    "Panama": [
+      7.982,
+      -82.0312,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

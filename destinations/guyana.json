@@ -1,0 +1,45 @@
+{
+  "key": "guyana",
+  "name": "Guyana",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇬🇾",
+  "defaultCenter": [
+    4.8604,
+    -58.9302
+  ],
+  "defaultZoom": 10,
+  "hotels": [],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Guyana",
+      "desc": "World's fastest-growing economy discovering ecotourism, pristine natural landscapes, emerging adventure hub",
+      "longDesc": "Guyana is rapidly developing its ecotourism offerings using oil wealth, positioning itself as an overlooked paradise for nature lovers and adventurous travelers seeking authentic experiences away from crowded tourist destinations.",
+      "coord": [
+        4.860416,
+        -58.93018
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5252191569475617856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJs8LYYK_vr40RQETltmeI40g",
+      "address": "Guyana",
+      "website": "",
+      "photoRef": "",
+      "photoAttribution": "",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Guyana": [
+      4.8604,
+      -58.9302,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

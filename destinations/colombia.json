@@ -1,0 +1,71 @@
+{
+  "key": "colombia",
+  "name": "Colombia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇨🇴",
+  "defaultCenter": [
+    10.3869,
+    -75.5577
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Four Seasons Cartagena",
+      "desc": "Luxury beachfront hotel, colonial Caribbean charm, historic Cartagena setting",
+      "longDesc": "Prestigious Four Seasons property set in historic Cartagena, blending colonial architecture with modern luxury and Caribbean beachfront elegance.",
+      "coord": [
+        10.421845099999999,
+        -75.5469835
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13123778973447610396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJXdWd1Tsv9o4RHOAVj3EHIbY",
+      "address": "Media Luna, Cra. 8b #8B-44, Getsemaní, Cartagena de Indias, Bolívar, Colombia",
+      "rating": 4.8,
+      "ratingCount": 10,
+      "website": "https://www.fourseasons.com/cartagena/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-ctc-hre-mid-seo-na&utm_content=na-na&utm_term=na",
+      "photoRef": "places/ChIJXdWd1Tsv9o4RHOAVj3EHIbY/photos/AcnlKN2oEqh2KK9mU9B3uj9BfiB8NpaMyxZUlkW4t3_5DG-h9XINSXfcWBGVCq8VcKOfAUS2Lk_zv4O3e_vXlVNckxf7Y-A38xnqkDqqL11svbOSR9XQ8xY-Zw-11TcKOttz-yM_fYpTKwDQUm2wp8dROfuGo88HQicXp90T2PUve88AUzKpS7EmpzS9t4MPcyILdtMz8OZFTQzBas_SCYOfmyGl0qHL9L3PPB0GUIpq4R4LBvzmI0dPKkzO4CNJ95jq40FxLPHJ1MdXSfLWyfFDpGjEdU1YNVGu6plTTRlLavYahw",
+      "photoAttribution": "Four Seasons Hotel and Residences Cartagena",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Cultural & Historical"
+      ]
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Tierra Bomba",
+      "desc": "Island escape from Cartagena, fewer crowds, beach setting, local island life",
+      "longDesc": "Discover this serene island escape to avoid Cartagena's crowded streets. A peaceful alternative offering authentic Caribbean island life and uncrowded beach experiences.",
+      "coord": [
+        10.3519651,
+        -75.5684254
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16194493185191956998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJo-Ers-Uo9o4RBtLZ9L9lvuA",
+      "address": "Tierra Bomba Island, Cartagena, Bolivar, Colombia",
+      "rating": 4.3,
+      "ratingCount": 427,
+      "website": "",
+      "photoRef": "places/ChIJo-Ers-Uo9o4RBtLZ9L9lvuA/photos/AcnlKN3RgAS0uL7RVsbx8f95KWMlKuzhn4exv2p7skky0_IlzndB6_c-kdmw5W3pNaCO8tEQEQPjZcTi3p_cksBWC82Yy0hxtIfVDKJJGjnIhpJ-ePqQ33Jg2uYapXPX6p8gyf3e1C9IiZFMnotG-5hBmWFBfKzHBjrzYE45lp462xymtFeMgKroO1TwaUN055lCfnv4ob3f63wXWRM0FxGaGs5oddNgrh_8RMechOynUtzzYT9TTHixuda6QgsNsCtDpUAp2wX1XVBWESYyGVspEWYmt4pTnftmJdDtDRl7-J_FNMnPZh2p7FjJo4mDfy1RyuIyn2xPCxoi1BfHyNXGc9IWrgsDneKvqrf89zSl_iUWiNVdbE9DEalnTsJPrqb9ZBkbxmrpKj6B4Xg3S2_tIhiaNcyNPXIpHZZ00YszM2a0ThSg",
+      "photoAttribution": "pablo andres estrada",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Cartagena": [
+      10.3869,
+      -75.5577,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

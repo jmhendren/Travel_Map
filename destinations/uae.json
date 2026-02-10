@@ -27,10 +27,362 @@
       "ratingCount": 111,
       "photoRef": "places/ChIJjWsCSK5IXj4RXVHBQuDj0Zo/photos/AcnlKN3iuk55-_WQ0So66VgNB6UDCBNFdSU0y6CK3Mkl5xKGXpnz11DLROcem08WAAXRwXHRd9U8ENDXFaSVv84LNU8eCnx3MGdYZnlvwoIheO4fL8P2qWrSE9w2Q3zgZ9IiQkd89SPvoA09KtyN6GLld4pu_2jDCtoyF31SPLyK_84CH0PbQOj1jzk5dJHKEEbiUM6r5Ak9OTCqVQNoZQBZxpM2qnsKM4Ec_00xEKWktp6YLd_8Twuw5rI-d8M8p5FkPnKgfwDt8NBV9nmQSpN6QmDbsHjb_nfVvm7bOg-8BnXNONxx6UP3qRoqibqV1k1WXyAHEgBwVr5O0PKmxYY18NWpkF2Xij2rBMGOO89CM6C3NhOPNvZJeYQqcatqzcWzCyvIANe5yvPg_S-lKQfZqsQcNyPlWyy1zHU0qnFTUTd9bg",
       "photoAttribution": "Ansar ADORAI"
+    },
+    {
+      "name": "Atlantis The Palm",
+      "desc": "Mega resort with water parks, multiple kids clubs, pools, and family dining",
+      "longDesc": "A sprawling luxury resort offering endless entertainment including water parks, kids clubs, pools, and family-oriented dining options.",
+      "coord": [
+        25.1304426,
+        55.1171498
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=402045504285854405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJeckJNj4VXz4RxUqAikFalAU",
+      "address": "Crescent Rd - The Palm Jumeirah - Dubai - United Arab Emirates",
+      "rating": 4.7,
+      "ratingCount": 101396,
+      "website": "https://www.atlantis.com/atlantis-the-palm?utm_source=googleplaces&utm_medium=location&utm_campaign=atp&utm_content=listing",
+      "photoRef": "places/ChIJeckJNj4VXz4RxUqAikFalAU/photos/AcnlKN0c8FMbFwQsiaNU0_jP5E73CYgRK_VV4dw2OoAgjPExJElpABs7J_3JjE9r0ke9riRdLPgalQIZ9tLkrgESsZjgtxZPLDNtZIPfTQkGeggZIfBR7ZzvCOeKKnTZTJXyhp5bRMO5stT1c_MSaw4TQFmiiVlw_mPLAKbq7_bogx5A7UcYGy74_SHsgdy_mRW94Ot8EEA-2Hng_9ufUh1DjrHh-0gNndawAX9bYfVnhyqYqcOuqrYvjCwNlJH2EHIN2RsMoRWx6N5YP1_PzSX0Y_9vRRrGys6n1oLu3Hz9gDg7rA",
+      "photoAttribution": "Atlantis - The Palm",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Toddler Friendly"
+      ],
+      "phone": "04 426 0000"
+    },
+    {
+      "name": "Six Senses The Palm",
+      "desc": "Six Senses luxury resort, The Palm Dubai, mid-2026 opening, iconic location",
+      "longDesc": "A prestigious Six Senses resort launching mid-2026 on Dubai's iconic The Palm development, combining luxury with wellness and sustainability.",
+      "coord": [
+        25.100423799999998,
+        55.117727599999995
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5906549926597808883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJe3F4Z-sVXz4R89L4Lt1H-FE",
+      "address": "Palm Jumeirah Rd - 4429+539 - نخلة جميرا - دبي - United Arab Emirates",
+      "rating": 4.8,
+      "ratingCount": 18,
+      "website": "https://select-group.ae/development/six-senses-residences-the-palm-dubai/",
+      "photoRef": "places/ChIJe3F4Z-sVXz4R89L4Lt1H-FE/photos/AcnlKN0V-c3V4adwxFCeoaKWg5dl381-d17FQBagjhCvpAIVJ4GHr1hcxuraKBMFPrQB-JGGz8oAyqag8D3U3UMIDeftF0nVGpYu0UVFtFU9PJ-3eGLBh3HIth5Rcmt4y7y6sabmNl-_of5x0l1L1UCcMWFvnTlpo9-u6MaZVGRsuLVJ4B7srARxXiL1Q9y0O4ZNWxfi1Wb3SDMwvCsjgu3qLyLxtG7H3LnIjs5bciqfQL0P75k2gsLY6AoMbMZAt18LZr9rvzKjbJAI2DS9T-gpTK7DwOflgkceNP4gcLqVD6RcKc3kxdZONdW96VFmIigmz5OSW4v17fUJi0AqNBimBPL3b_stZz3dgvIGQcbZsa1NzzTrrmeibq2W_6w3h30eJHWvT7Au-VHgjzppga5HQoKRKU4aF5MS-CnTWCJNcSsvkN6q",
+      "photoAttribution": "Amol Rathod",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa"
+      ],
+      "phone": "04 368 3355"
+    },
+    {
+      "name": "Jumeirah Marsa Al Arab",
+      "desc": "Luxury beachfront resort, world-class amenities, premium Dubai destination",
+      "longDesc": "An ultra-luxury beachfront resort in Dubai offering exceptional accommodations and world-class amenities for discerning travelers seeking premium coastal experiences.",
+      "coord": [
+        25.145103400000004,
+        55.1892621
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11061070641589681180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ7yNA5vtrXz4RHHx0-yTRgJk",
+      "address": "Jumeira St - Umm Suqeim Third - Umm Suqeim 3 - Dubai - United Arab Emirates",
+      "rating": 4.2,
+      "ratingCount": 1070,
+      "website": "https://www.jumeirah.com/en/stay/dubai/jumeirah-marsa-al-arab?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+      "photoRef": "places/ChIJ7yNA5vtrXz4RHHx0-yTRgJk/photos/AcnlKN1B0yzrgmmt404IctVUkrX2mbsnuq9dR4Xm6kr8s4RAyt0joKh7vn67ewrqIIEtqxwzTqG2MHZyynFlXnvNHGc1IIWlxGS_nUBByukH0V9rbUVaNA6jHa4i2E47WR1DMaKWwnMzbM2gAiQqBtxc_6YMiz8UAJ43c9FbESKuQNkCOOP2ll3G8jqTUMDTM9BLnWWn4qAYNLYA3s_VUW_Zzykgr_fv4d_k6jJ4X8ULBcc68B6-2AxF3kG2OqJyHBj9UX_us5EvVjCJNxRJQkq8LXyajdKTmXDY3lcOje6d0M67YA",
+      "photoAttribution": "Jumeirah Marsa Al Arab",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "04 540 8888"
+    },
+    {
+      "name": "Bulgari Resort Dubai",
+      "desc": "Exclusive Dubai waterfront resort, Bulgari elegance, modern luxury",
+      "longDesc": "An ultra-luxury waterfront resort in Dubai showcasing Bulgari's signature design excellence with world-class amenities and contemporary hospitality.",
+      "coord": [
+        25.210697000000003,
+        55.236428
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6797802974819943753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ8-LpJSNCXz4RSYU8D8qlVl4",
+      "address": "Jumeirah Bay Island - جميرا باي - جميرا ٢ - دبي - United Arab Emirates",
+      "rating": 4.6,
+      "ratingCount": 3825,
+      "website": "https://www.bulgarihotels.com/en_US/dubai?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJ8-LpJSNCXz4RSYU8D8qlVl4/photos/AcnlKN33E-ywt96pWeEsM-OHWAbeOEakKHCU1RywVQ2e9Wqms2V0uqVweXu_KAzmVThaJ1t1B0tf9QUCNgDsCJWKy4KG1M6DC9s9FnLzX3ap7BjnVaGEDF_YTIZh8UtiXVTGiXVkAS5AtVf_kt2rDc_fd5SKcm5-Ik01cpXdj6LJsQddWELJKyiu9cGYkUG_FUtKcYl9hQZhhK_vH4zq77b2YsgnsLaS7XH_he6-2RDpo-Mwqc5c91G-W21HFvqFUVma-Zl3Lellp6f2Ob0kps1d5dir0NGceZHLE6KA6aKjqWKm2w",
+      "photoAttribution": "Bvlgari Resort Dubai",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Art & Design"
+      ],
+      "phone": "04 777 5555"
+    },
+    {
+      "name": "Saadiyat Rotana Resort & Villas",
+      "desc": "Beachfront resort villas, Arabian Gulf luxury, contemporary design, exclusive amenities",
+      "longDesc": "A luxurious beachfront resort featuring private villas and world-class amenities on the pristine Saadiyat Beach in Abu Dhabi.",
+      "coord": [
+        24.541618900000003,
+        54.430689799999996
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17645516135989947737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ4xWKNFlnXj4RWa0ajG934fQ",
+      "address": "Abu Dhabi - Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates",
+      "rating": 4.7,
+      "ratingCount": 8019,
+      "website": "https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/saadiyatrotanaresortandvillas?utm_source=google&utm_medium=local&utm_campaign=hotel",
+      "photoRef": "places/ChIJ4xWKNFlnXj4RWa0ajG934fQ/photos/AcnlKN3dWuGkRXHW8bKL6nCTzzYH6yV2vYBpGxifFgWBaG-XFgEl4ZGZMxXyVbRyz5Kx5sUYsyqU1iiZsk_xuA2EQvbRlvHAUeHOwlGQEjh-w-gRyXnLxONS4LO_E_-ImL7TrE_tSWxMv-tQRodBp7Kmx_XOWgINCRDbex8tYCreflgSTdgcuipPzO2pTDpVLuLkTGBuq69ujwtiJIfeZNsL5qEmfIZcHrxRaTSeF16qDRoob4usRAezu89LxyoGW68aIR6UKV4IwXS-LIVrkH9kmwdQBvY_T50Zok1jM-hqQXXNSg",
+      "photoAttribution": "Saadiyat Rotana Resort & Villas",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "02 697 0000"
+    },
+    {
+      "name": "25hrs Dubai",
+      "desc": "Contemporary design hotel in Dubai with varying coffee quality experiences",
+      "longDesc": "A modern design-focused hotel in Dubai offering contemporary accommodations, though coffee quality has received mixed reviews from guests.",
+      "coord": [
+        25.2191726,
+        55.2842261
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16555089194137923704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJJxfJggxDXz4ReLB_0eh9v-U",
+      "address": "Trade Centre Street - off Sheikh Zayed Road - Trade Center Second - Dubai - United Arab Emirates",
+      "rating": 4.6,
+      "ratingCount": 7743,
+      "website": "https://25hours-hotels.com/dubai/one-central/",
+      "photoRef": "places/ChIJJxfJggxDXz4ReLB_0eh9v-U/photos/AcnlKN1ovWojD_pd3hOeRq-hLE705d4KySiFDRU6baEK7QkajwdH2MQVJ_X3yH7rUL3FYYJWcON0kxRR5Q4hTU5Bk-oB5JxK0HjaptVUZgvqwHjU8XYFnj2OEOXLknZrZzHNzntLzudKtHwq7DGCGUzWHsTHHSJ4DA5InAZfw21snTuIegrz9Ff34d86y8EhtSwo_ZelbhoMivJmU-yeTHepPJhCWf6YjbfUvUQSggl4JIQbkn_g_mZB0MT53Nw6WX7-o7-9fRy_Powd1jV9IZQAmZJEaXwbeYPGrzmON7RHYmw",
+      "photoAttribution": "25hours Hotel Dubai One Central",
+      "tags": [
+        "Art & Design"
+      ],
+      "phone": "04 210 2525"
+    },
+    {
+      "name": "AlUla",
+      "desc": "High-design luxury stays, desert beauty, cultural heritage experiences",
+      "longDesc": "A premier luxury destination renowned for sophisticated high-design accommodations nestled within stunning desert landscapes and rich cultural heritage.",
+      "coord": [
+        26.6031391,
+        37.929482
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=259993098247505366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJGWgTqZarpRUR1oUYaViumwM",
+      "address": "AlUla Saudi Arabia",
+      "website": "",
+      "photoRef": "places/ChIJGWgTqZarpRUR1oUYaViumwM/photos/AcnlKN3vQPVKwXNcnHPvJ8elxJ0Tim1m9ZaHprEJjcBUx98TY_izzdkBVUJCVS0N3zwtR_rprOaixJGJo1-hT52YBdC7Xni81BTLUv-KqrSjaeZzA16QcYSMEszNNr0HMXViMlDsmqw-ZA0grQ0oUDXz1tCPV7T1nQ7VkTqv2GAe9S3RnTXKZ6LX8w4cXbEdLYVSACflaBOQyyBSwUkLJSm7n5EZP3KrhLdHijT7JuIowQmMv5l8W1jlsUB_jO0vOZgS-d69pDu7yP8AMoLCiUgRZn0YUkF5eK0frpY6Uvdg322X_qrV-Lnw6ebg5sHCIGFhU-hG9ezZ3UHRgX0_MLigNTA8cZMDYrqT3BvjTPKlA_Ff26n14ON4hCNFI0r0eOc0kihrrqtkP_fXNdTMV3Wrs8Y2eT7gF-oDSLyvLtn7jlcw0Q",
+      "photoAttribution": "fayaz awadh",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Art & Design",
+        "Romantic"
+      ]
+    },
+    {
+      "name": "Habitas Ras Abrouq",
+      "desc": "Luxury resort on golden west coast, UNESCO biosphere reserve edge, tranquil waters, nature immersion",
+      "longDesc": "A soulful luxury resort perched on Qatar's golden west coast, designed for human connection and self-expression. Nestled at the edge of the UNESCO-protected Al-Reem Biosphere Reserve with tranquil Arabian Gulf waters.",
+      "coord": [
+        25.5862667,
+        50.833119499999995
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6209446532506013204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJu7ZghW2DSD4RFE7N5bhiLFY",
+      "address": "Ras Abrouq Road Zekreet, دخان، Qatar",
+      "rating": 4.2,
+      "ratingCount": 356,
+      "website": "https://www.ourhabitas.com/ras-abrouq/",
+      "photoRef": "places/ChIJu7ZghW2DSD4RFE7N5bhiLFY/photos/AcnlKN0vQ8QDGtUPHhx3Jf1QIFoSjEyWgKpyqF3c58HzQGfa2RtC-LrllsLTO94A6TiAYH2cjCo1xvu19zK1m53VKr0FWkHkOcrVUfeZ_BUMEp0kotrwnDz3pytfSKR5B8yNtQi7IvxGKLADxQfZDUq0GpmZyIuzsmwi-WcR-zt5UDQb8_WC6qhMfaR8Kmbami5fSkO38yXfnxLY9bBaKd2Od2FqPjQAYtLwAcqvhvd7JEJecUsrQLfsMSWtHjM1Ouw--uctVcYZLxwqFqUsTl7EwiUuMuDCc21gi2fa3Ixw3Jw",
+      "photoAttribution": "Our Habitas Ras Abrouq",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa",
+        "Outdoor & Nature"
+      ],
+      "phone": "4023 0666"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
+  "restaurants": [
+    {
+      "name": "Tama",
+      "desc": "Community dining experience, shared meals and stories, present moment focus",
+      "longDesc": "Tama brings people together over shared meals and untold stories, creating a space for presence and connection through communal dining experiences.",
+      "coord": [
+        26.767844099999998,
+        37.848292199999996
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15516759897049653901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJG9s_N2-xpRURjeKrQOqaVtc",
+      "address": "QR9X+48, Shlal 43570, Saudi Arabia",
+      "rating": 4.1,
+      "ratingCount": 816,
+      "website": "https://www.ourhabitas.com/alula/dining/",
+      "photoRef": "places/ChIJG9s_N2-xpRURjeKrQOqaVtc/photos/AcnlKN2Nn-QKClvKXc-1ZkOLFMpBj2tNhXqOgPrdSqH6PSx3uHUc20LTCLxQp7T_ffChPWJNb6xYwZ4JtWHLzvMzCVv5QNGEYkRVnHWt5RoybdUTXeTM6dzP3fxMXV5Fff01Xsuosk2kIBJZ1R0tQeChkzZNIMQq63f2Q2YT8vEYvj3Ebig2sn6YhvI83dwzz_zId4kriP2DSWLgo3B4BWx2EiKVJI1vsuCZubyFODkx9ioeB7FXopSB0tMVaFlrSdhHvgVInwM0d4gwV8pYnlLy0H8BNiILwNzPHn8VFjJT8KlljKmT-fHmUkpjU1FccDLoRMato_yO5Tcl31d2yZQv2Toe8tLLyHZjpiydZBYd5s4EtkUBsG7CQW5MS8MA7qFLwikrrwoB3QUe0XbSuO0enkTTEvvCZaNDsHKDjROipK6zEwGmzb8EkneUugQ0v7-a",
+      "photoAttribution": "COLNEL Y",
+      "tags": [
+        "Romantic",
+        "Cultural & Historical",
+        "Fine Dining"
+      ],
+      "hours": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 12:00 AM",
+        "Saturday: 7:00 AM – 12:00 AM",
+        "Sunday: 7:00 AM – 12:00 AM"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Desert Dunes",
+      "desc": "Vast desert dunes offering immersive desert landscape experiences",
+      "longDesc": "Oman's expansive desert dunes create stunning vistas of golden sand landscapes perfect for slow travel exploration and desert adventures.",
+      "coord": [
+        20.3828112,
+        57.9415013
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7971680288072629926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJI07KvV9Bgz4Rpn6NefwYoW4",
+      "address": "9WWQ+35J, Al Khaluf, Oman Al Khaluf, Area, Oman",
+      "rating": 4.4,
+      "ratingCount": 121,
+      "website": "https://sugardunesresort.com/",
+      "photoRef": "places/ChIJI07KvV9Bgz4Rpn6NefwYoW4/photos/AcnlKN1qR3MHn1dqmT0Ivb2WFtPHvjyEux9sqrIL8XxFeEgEMLMUAJUZu3yCg0MnZ_Rbi4oxrb_tfF3eV2dvx5spir7nkHT-_aSKIx3yVm6vZ4Sa2zURJf3zsmsMEW6RM8fV-uywvNTM8rCuMRPkLCpkGru6bYqgE6_LLtOBLq5HSNz2P8N_cbV9WeAdrBbegeQMurPtcTlrbNXJlvwPGFf5VmH_1RoXoosXMhwh4OgZd3YvJ_sw5ue5L4YUZnOwFLSY2ntczAbIJJTcdgofe4PkQx8Rnw1a79paG0AG4UDdFIKl1A",
+      "photoAttribution": "Sugar Dunes Beach Resort | Opening in 2024 November | Best Beach Resort | Best Attractions | Oman",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "phone": "9588 5302"
+    },
+    {
+      "name": "Turquoise Wadis",
+      "desc": "Natural turquoise pools in scenic wadis offering swimming and exploration",
+      "longDesc": "Oman's stunning wadis feature pristine turquoise waters nestled in dramatic rocky canyons, ideal for swimming and natural landscape exploration.",
+      "coord": [
+        23.1690012,
+        57.84737380000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2448174954718087536&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJbw8nmtxpjj4RcMn6eyaq-SE",
+      "address": "5R9W+JW5، وادي قري، Oman",
+      "rating": 4.6,
+      "ratingCount": 150,
+      "website": "",
+      "photoRef": "places/ChIJbw8nmtxpjj4RcMn6eyaq-SE/photos/AcnlKN3jO6Fzedt_OjvtWaJFG2Gr493vZXBq7yBdzV92XGyivibFMw-Se3OgV1VZNr6uBobk_EUrm3q9b7opOSz-fUjnKdg48Q_mRALuuXbd8vu_EQjNuC9pITjJ9W3ZjxLbGj0-kQiJULoJUfkzrUWjUHxOLinK5_OTsa9B5n_AArdONnb_HcX808lgljCnHgE77-aw6FgzUJimp6t_flKOwYKPnGRDesnxZzS5nD-b1XxJRGEXMSAnexoQoeYEgdA4QPehZRM6MEcI8LuP5raQxGYzb-NOsGCI4npHbRM2zsJbB8WAkB08n8b2HMgH9bZygateHe15lHQhjf1gszMSNXhqF00h7clXPF2evkgx7-BtFC5ef3EhzUjuJW_jQcthLF6VVQsPqgEqrSQja5KibjSMgFlqK046hEAArxfzEPY",
+      "photoAttribution": "Croyden Menezes",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active"
+      ]
+    },
+    {
+      "name": "Dramatic Fjords",
+      "desc": "Dramatic fjords along Oman's coastline offering spectacular road trip scenery",
+      "longDesc": "Oman's striking fjords showcase dramatic coastal formations perfect for slow travelers and road-trip adventures with breathtaking scenic vistas.",
+      "coord": [
+        26.096434199999997,
+        56.3316757
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=935366981548763746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJr3JlhFaM9j4RYurXXVAX-ww",
+      "address": "Unnamed Road, Oman، 38WJ+HMF, Al Khasab, Oman",
+      "rating": 4.6,
+      "ratingCount": 583,
+      "website": "",
+      "photoRef": "places/ChIJr3JlhFaM9j4RYurXXVAX-ww/photos/AcnlKN3eZbghO_6zvlhEk6D8xSoK6ox9u9GMeYOI_fY5W8LytoWrMJNIjHjoksrIVbVCZIxJjlXATWoZHWKgmXQaOMYML8V3pW_hUec7_VLilGPOjYIAUbLWbvLcHRdbwAztXHVgqfQWIfoKqqKsnd7lTMqpcAyi98Nqi0hmIv_wFxHP2NuBICfXSZXCE0OyTAW3QhtTlO5jMe4CoXozGvlFuHjsM60JzrOu5-Eg2-K260ugHyxSNsvfvV-gKwrVbIuksqb7r5qKo4YSDK2Y_7cwbSwlFGg3kbmBZw0aoKGVRh553TyUbWEa9bnlK5liQsoSKbAK6UPTcbju7Gzvfk5CAesg-vBbsZtPsr4tK7g7cWVXm1rx8knAQif1DmBWgzJevkorhy7ITBQ2r2vJYyNtr7aNWVFFDx35lMKaIZg5wO9_7Q",
+      "photoAttribution": "King0_0 Gaming",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Al-Reem Biosphere Reserve",
+      "desc": "UNESCO-protected biosphere reserve, pristine natural habitat, Arabian Gulf ecosystem",
+      "longDesc": "A UNESCO-protected biosphere reserve offering pristine natural landscapes and awe-inspiring views of the Arabian Gulf's tranquil ecosystem.",
+      "coord": [
+        25.2877914,
+        51.5110495
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13306489288809507549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ1cfYdNLaRT4R3eoH44Elqrg",
+      "address": "Al Reem St, Doha, Qatar",
+      "website": "",
+      "photoRef": "",
+      "photoAttribution": "",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "Luxury Land Cruise Trains - Saudi Arabia",
+      "desc": "Five-star luxury train experience, Saudi Arabia exploration, hotel-style accommodation",
+      "longDesc": "New luxury land cruise trains are opening Saudi Arabia routes in 2025, providing five-star hotel-style accommodation for exploring the Kingdom.",
+      "coord": [
+        24.8556454,
+        46.7629905
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7875642132135989567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ7VWtQt_5Lj4RP9EQ0MrmS20",
+      "address": "مطار الملك خالد الدولي،، VQ47+755, King Khalid International Airport, Riyadh 13422, Saudi Arabia",
+      "rating": 4.3,
+      "ratingCount": 707,
+      "website": "http://www.sar.com.sa/",
+      "photoRef": "places/ChIJ7VWtQt_5Lj4RP9EQ0MrmS20/photos/AcnlKN18iRET2CMVCB64-xr0Sk-j4bnUftELjr2Q1Ttd2JJgnZrzFfvLe261DCPKBcm8-R3fvnM3MxhTYqpJ_wzZpEzRRbrgZymMHgCTNCnZS4lwu8bXePhVKhfD-F539XtE-3tfh7131C4vPzmUkxsFeZJpDisWC0KlnTFnfvbU77QjkV2ksiHwwQv6BWBxbq62Ik1moF-G9hEEURBoPYl_sYBfMi2PirIxDLN2ZudcRTY-mx8GsPzesrXSN1mHVL0sTf6U89bXFWPspiyK3CsL9zsNxQ9Ma3wtg_ugaAuztAhyVtAy4_FdJAGfQCP_osw7j_YyaHEajo-X5H02G-Vq6wdE1aV4w1Y0qIDUGDDcwl0cg8mBqpvs9aJLzLv2MfZPwMKOeYHrfxbRmkNZ3X90iiNjyMhq8e04XoiE6LxCaq3S8W-PeBX3oiAoHQfs2Q",
+      "photoAttribution": "Ali 8D",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 8:00 PM",
+        "Saturday: 7:30 AM – 8:00 PM",
+        "Sunday: 7:30 AM – 8:00 PM"
+      ],
+      "phone": "9200 00329"
+    }
+  ],
   "kidFriendly": [],
   "markets": [],
   "cityCenters": {

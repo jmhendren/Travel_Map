@@ -173,9 +173,386 @@
         "Saturday: Open 24 hours",
         "Sunday: Open 24 hours"
       ]
+    },
+    {
+      "name": "Edenroc Ascona",
+      "desc": "Vibrant boutique hotel on main promenade, designer Carlo Rampazzi's colorful aesthetic, lakeside charm",
+      "longDesc": "A recently renovated boutique hotel positioned on Ascona's main promenade, featuring a fresh new look by celebrated local designer Carlo Rampazzi, known for his joyful and colorful style.",
+      "coord": [
+        46.1506719,
+        8.773166
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1949893988473533934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJwUDBrVzIhUcR7nWiZEBqDxs",
+      "address": "Via Albarelle 16, 6612 Ascona, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 586,
+      "website": "https://tschuggencollection.ch/de/hotel/hotel-eden-roc",
+      "photoRef": "places/ChIJwUDBrVzIhUcR7nWiZEBqDxs/photos/AcnlKN3xUcxV9tXCnJyG2H_R6IKLz8jCyczFI_j9i5k76Za1MazInLSGU54Upz7AVieH4xXGdV5QOMYTutrhF1SBjqf454Uo2Qt0eIdrZxijlJAKLAYJtO1-vWTaKnBPiAZZQmLhwPMP9-Lpo7i58yKo5BHHkx9UukDO1idorKoHmQ4ZKFt69xNpg2dNH8cc5WaFuJc6s9tfsxeKykmjEkW0KB3wlXFsf1dJ0AkHJRk4QH5hKnUtYnsgPt16Unhr_pxPi-JJRY27rCD34GiWO0_HsxW3kY7saI30sjh0RfwrFFUJu1DyIVmQ-8Z3v6lGwTEfHO5RaIE9utOGxpOnhWkdOKjovGYLjbWu7HGWSR3XRNhhVGOj7GlWOtLMafsAtZANTj_A7K1RPyxrmUmXYafRNOs6ww4F0f--K55MPqUOLuanUwCoOnvNchD47dJWeyyI",
+      "photoAttribution": "Kerstin K.",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "091 785 71 71"
+    },
+    {
+      "name": "Castello del Sole",
+      "desc": "Ultra-luxury resort on sprawling estate with vineyards, spa, culinary excellence, lake views",
+      "longDesc": "An ultra-luxurious resort set on a sprawling 346-acre estate featuring private vineyards, a world-class spa, exceptional dining experiences, and direct lake access overlooking Lago Maggiore.",
+      "coord": [
+        46.1521949,
+        8.7922577
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2676731116859149584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJH3dKJbPJhUcREM2f08SoJSU",
+      "address": "Via Muraccio 142, 6612 Ascona, Switzerland",
+      "rating": 4.8,
+      "ratingCount": 354,
+      "website": "http://www.castellodelsole.com/",
+      "photoRef": "places/ChIJH3dKJbPJhUcREM2f08SoJSU/photos/AcnlKN0VeOehbD_4wI209qpzBFvxoa98LcwlPMcfSQIhbWaNPUOZY0nrrUWOiNZmqVKyRMgTJttPSFuyvdxguHXUIx-YUGdP_oy6IxM9uTYEsLeakn0t-4VU9VWysSFp3INaASFTusDyIaFSFSwT7gUKXc9NCSP351WmiJ-nrMzkRgL9N4Mnec5_fyDKP_wgHVMy2hC36NTtW4A9f_Q2uXTrCv1RZvljRK9WknUINnw-65RE4YFjoym_acJBk82p5ZCmM76KuUeb1M1VtSmpL4SsiM6mHEsFYXaBsnS_I8InhJHwgQ",
+      "photoAttribution": "Castello del Sole Beach Resort & SPA",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Wellness & Spa",
+        "Fine Dining"
+      ],
+      "phone": "091 791 02 02"
+    },
+    {
+      "name": "Chesa Marchetta",
+      "desc": "Artfarm's Swiss debut blending art, crafts, Alpine luxury, aged cheese",
+      "longDesc": "A sophisticated mountain hotel created by Iwan and Manuela Wirth, seamlessly merging contemporary art with curated global craftsmanship and regional culinary traditions in the heart of Engadin.",
+      "coord": [
+        46.4289291,
+        9.763564599999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11962825148197645543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ_____w-Ag0cR5yxuLBd-BKY",
+      "address": "Via da Marias 88, 7514 Sils im Engadin, Switzerland",
+      "rating": 5,
+      "ratingCount": 5,
+      "website": "https://chesamarchetta.ch/?utm_source=google&utm_medium=organic&utm_campaign=google_local_chesa-marchetta",
+      "photoRef": "places/ChIJ_____w-Ag0cR5yxuLBd-BKY/photos/AcnlKN39Kh9OEbIvLb5wIYH5sg9d8QuT6ESiPI6SvChXbxPKv9SiVjivP6SI5zgmJgMYrh4lV_XXRixWg1Kkw7vOKZ33QQ1vhrgBXaXdANDgZSVdeowbId40PvilxdlRFyM1L6uU_-bzGIphMp27HGl9ByMQxS5G049VMfXt2rwVQBej36phsRxAqiGDP1-SLIX67LURMTzI8a5S39GL4aw-b8wpumXrgB7yLkBGRvd8NqkbI_pQThhJxy67iCd0ZAsQm4vvEVbUpMMXbgrpBie1HBgPMm65nG_Eu6rqPvt_ertrfQ",
+      "photoAttribution": "Chesa Marchetta Hotel",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Art & Design",
+        "Romantic"
+      ],
+      "phone": "081 838 40 40"
+    },
+    {
+      "name": "Vecchia Dogana",
+      "desc": "Swiss luxury hotel, Ticino elegance, exclusive collection",
+      "longDesc": "A refined luxury hotel in Ticino, Switzerland, combining Alpine beauty with sophisticated accommodations for the most discerning travelers.",
+      "coord": [
+        46.01531,
+        8.8054505
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9948062387593680443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ-wje_ATShUcROxbyzwieDoo",
+      "address": "Ara Dogana 5, 6999 Astano, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 18,
+      "website": "http://www.vecchiadogana.ch/",
+      "photoRef": "places/ChIJ-wje_ATShUcROxbyzwieDoo/photos/AcnlKN3xUNNN8mTzIuMWroj-K6qqwxHGcDFWGiFKK1Zmq1vsJLorD0NtX8FtVWHZXbka7vYt0IIwAZGUuBTB7YtaHCvR5o5oNUcDxeCCty1AJpboJLOZyQ-BTDIatmVc7_gSZWwYG7O-I38iVv1xYOCVJ_zm_28RP649gIOmUZDTEpxJ-NKnyErj6R28d5Xj2Lk9LN6xielalnynh3lwOFr7zD6ZrW1TyZW5hXwqlMdZm76teh0xVkvfRej5ebnFaqqsGqCB-9VCMiZHLevy2U4Z8IIGEwztfDzQP1aJ4t_RUTyR6g",
+      "photoAttribution": "Vecchia Dogana Guesthouse - Astano",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "phone": "076 428 06 43"
+    },
+    {
+      "name": "Berghuus Radons",
+      "desc": "Alpine luxury hotel, Swiss mountain elegance, exclusive collection",
+      "longDesc": "A luxury Alpine hotel in Graubünden, Switzerland, nestled in pristine mountain landscapes offering exceptional hospitality and exclusive experiences.",
+      "coord": [
+        46.560901400000006,
+        9.5532164
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4842760135881607193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJyyhTycmRhEcRGUilf6_wNEM",
+      "address": "Berghuus Radons, 7460 Savognin, Switzerland",
+      "rating": 4.8,
+      "ratingCount": 444,
+      "website": "http://berghuus.ch/",
+      "photoRef": "places/ChIJyyhTycmRhEcRGUilf6_wNEM/photos/AcnlKN06yfSazELOUhVjk06_xTXgzeXl9B64yWb6J2bCeqa7S7TP7HHpKyMe8B5JHJY9LvDb0gwlrBWNKBYvkWpZTCht0RCMvx1m2faoQZPV-Vjajy7YXEK3p2Nm7cc_K03WquJVbILb5hIHVkXZewtaqqz0wqYFhF0ldUSlhzdgBggFnELi1zi5hH5rjVrq11IPvsZ3igqscYT6NxQ2ff7bJlDtgTgotTjL07hSdmDsOZxzBOyUMBC6w0b--piUoQ_Zmdu6SHeRGO1gimaipuApHo5TrmcClKhwc5nAMoLOs1dKIwriX6oxMp1hXFWhbx_5mL8o074BbsODbncMHlDU7RDbdzDP-jYm_GLASF1Gm1RMYDOhigZLMa85qqZVNRSLv_0IPwnaMJ2aBracUZWOk0yKrQ_13y-q_96_oIfNYTIHEA",
+      "photoAttribution": "Beat Kluser",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "phone": "081 659 10 10"
+    },
+    {
+      "name": "Ultima Hotel Gstaad",
+      "desc": "Luxury alpine hotel, wellness spa, fine dining, mountain village charm",
+      "longDesc": "An exclusive luxury hotel in the prestigious Gstaad mountain village, offering refined accommodations, spa facilities, and elegant dining experiences.",
+      "coord": [
+        46.465522,
+        7.2854005
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5372395080534109912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJd16Oq7HxjkcR2K5KkNyUjko",
+      "address": "Gsteigstrasse 70, 3780 Gstaad, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 102,
+      "website": "https://www.ultimacollection.com/our-collection/ultima-hotel-gstaad",
+      "photoRef": "places/ChIJd16Oq7HxjkcR2K5KkNyUjko/photos/AcnlKN2LbLquhC2ru_e4ZWCutjuojGfCfD7Ov92-I-vsI48IB0TfTwNE02X9zBHvZ0vqO5DYq6U8JFoH92TRZchRzW8llqhRvCf9HCOe9teMGJ5dvqHdsRWmLwkfZRBOa7RB-3dB84LS40c7PnB-pDRPpjTlo2NrwYeInpEXrCdvps_0Gckl6-kSZIn1a75_wZPK93SUwJbzu_0gEa55YiKVRB9jQ4vzVa71RzNRYdUk8VGNmnhrA5u_PEtX61UZd1Xcz1A0nuf2o-lae8P9L8siZrlvNpBdTgWGNVWqmMdfjvNLmg",
+      "photoAttribution": "Ultima Hotel Gstaad",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "033 748 05 50"
+    },
+    {
+      "name": "Room 18 Zermatt",
+      "desc": "Boutique alpine hotel, intimate design, mountain village location",
+      "longDesc": "A charming boutique hotel in Zermatt offering intimate accommodations with contemporary design and convenient access to alpine activities.",
+      "coord": [
+        46.0226243,
+        7.7469948
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10066711653944401443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJs9g-SIM1j0cRIx6k3ekktIs",
+      "address": "Bahnhofstrasse 18, 3920 Zermatt, Switzerland",
+      "rating": 5,
+      "ratingCount": 7,
+      "website": "https://www.room18.ch/",
+      "photoRef": "places/ChIJs9g-SIM1j0cRIx6k3ekktIs/photos/AcnlKN2jO3uGwQ4QfMq99U1NFB8nxx8FBwWeo61hApQZK1Xi6XdMdMc97ZG3NRjIRY4CHPlckpiKCWpnSHvDY1GB4z1_9jEMxGsyZkHHBEMUM1SNrfSLgRSwrrNMMatO8Eu9o_Nm5iPFLuM_9STNavYCTb1bYyvGiJPZp2OSwh8KwtM3ZL5sJpRHqNa6RkLRSLzM_aMwMDKNZx5TE_BJ6Ug3wfVzfa8ty5PNIXcw4DphZ8VbnIsrYlSZxs9Pdke69XqYeJZubDJNOTN2K9_P_u4hIDymwE9h__QFct7FUgImORqXheUXJE4NMRZ3y27oQlmZtXVoRkkYG1vzJxZYrhwfRw6dBXAgArd3k2E69xDi6WX807mcri9rpFIajDJ4V19wkimINwEIndaHZa6BIsA2EmojkRpUY6BQQmc6YzNPgjUyK_aHAOfvvqqx4p2U-ZIg",
+      "photoAttribution": "Jordan Kwast",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 6:00 PM – 1:00 AM",
+        "Wednesday: 6:00 PM – 1:00 AM",
+        "Thursday: 6:00 PM – 1:00 AM",
+        "Friday: 6:00 PM – 1:00 AM",
+        "Saturday: 6:00 PM – 1:00 AM",
+        "Sunday: Closed"
+      ],
+      "phone": "027 967 67 00"
+    },
+    {
+      "name": "Eriro Alpine Hide",
+      "desc": "Alpine wellness hide, sauna, mountain scenery, retreat",
+      "longDesc": "An exclusive alpine retreat nestled in the mountains offering sauna experiences and wellness activities amid stunning mountain landscapes.",
+      "coord": [
+        47.3832515,
+        10.973669
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3787723782369653958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJq6FKm6kdnUcRxjRxO7aykDQ",
+      "address": "Ehrwalder Alm 4, 6632 Ehrwald, Austria",
+      "rating": 4.9,
+      "ratingCount": 35,
+      "website": "https://www.eriro.at/de/",
+      "photoRef": "places/ChIJq6FKm6kdnUcRxjRxO7aykDQ/photos/AcnlKN0aOrL6ALHv--kXkP4mgZTp5EaRn7hajoXL4EnrDp_aaKbos01LhYynqrDXuFUSjkyn1ITrCM2CrgRX6M1oXwUuYrOHWUyRi4uExC8KIflt0LzzsLZxisPh2Dk_fxogPJkuqR_bcjX1hcJaxSiEgolAozfSulZi3OZO6nBLEVZZotwl0Rp07BFvaUBAes-c3PODYSb3g61QLiuGeQVR1f3vOyKZE6IPQiTN3nhGRDcXal2yVklSyciMd1MiwHOvpbY-rBWMBe1kQlFbx2I5TvgoAUeS6_BvGOhyGlFmPnTE7Q",
+      "photoAttribution": "eriro Alpine Hide",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "phone": "05673 40506"
+    },
+    {
+      "name": "Suvretta House",
+      "desc": "Iconic St. Moritz alpine resort, luxury Swiss hospitality, mountain grandeur",
+      "longDesc": "A legendary Swiss alpine resort in St. Moritz offering classic luxury, stunning mountain vistas, and world-renowned winter amenities.",
+      "coord": [
+        46.484771099999996,
+        9.8196414
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1861151118826894241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJPYHXbPx9g0cRoXP_7hQj1Bk",
+      "address": "Via Chasellas 1, 7500 St. Moritz, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 613,
+      "website": "http://www.suvrettahouse.ch/",
+      "photoRef": "places/ChIJPYHXbPx9g0cRoXP_7hQj1Bk/photos/AcnlKN1gePFlx9mblruEWqHwZSPwTO9NWrLPC4AKAQEXBuHbR3Qn5LrbPs3_4Ze_6jZemQai8uQ0exPtyiKk2Gn3Klhcew2DK0hegCSK4dS7G6z1SJ-gq9LvwDgtVvV6HdoeKVKz1cvrUqO_spg9poTJ0fbQyS2D4QFGG9lGiffXBTqN0-RdGqLbSkRyfVKMTsgdR2GKeDCPwTHKHz7Mt6qC2MmW8VlnCgygyegeuh-ujzS2th0B50mwXCMxBNZUbO_tfPUYRgkfRtIbD4AA0Rj3ut1FfUJHewS8DbzddPZ8ER3hZQ",
+      "photoAttribution": "Suvretta House",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "phone": "081 836 36 36"
+    },
+    {
+      "name": "Ultima Collection Crans Montana",
+      "desc": "Luxury Swiss alpine resort, Crans-Montana elegance, winter grandeur",
+      "longDesc": "A premier luxury alpine resort in Crans-Montana offering Swiss sophistication, stunning mountain panoramas, and exceptional winter experiences.",
+      "coord": [
+        46.3132428,
+        7.4643061
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2214760552640914950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJBSbUtf_hjkcRBqa1Av1ovB4",
+      "address": "Chem. de la Digue 15, 3963 Lens, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 21,
+      "website": "https://www.ultimacollection.com/our-collection/ultima-crans-montana",
+      "photoRef": "places/ChIJBSbUtf_hjkcRBqa1Av1ovB4/photos/AcnlKN2AzPSzKYsFl_82ZBvYazqJGp5JeebBpcDOAvCgpWFexnjb2zS5Jw47drOCEqco6H6A7rWOQqwrlc6OexmId921Cb-ZV5HhyOolG8bMCRLNf41uS7gvxeoFT0RoS0JspnMBb9bzgY5E26rdNXjJ9pvrFpHzCiD_qVf9ApMeWfHGT4L_zQyw64JRRZXExSiiD_dFFKTb3P-hf8dJDycK6WpvPHflCTx07r1rkwUmwpunKSoK8FdNr6JaKICrM9jDaV2y2r0Dm1BdK6Dwnb23hwH-OzjrMmANy29HL6WzdU6AkA",
+      "photoAttribution": "Ultima Crans-Montana",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "022 779 33 33"
+    },
+    {
+      "name": "Six Senses Crans-Montana",
+      "desc": "Luxury alpine resort, spa treatments, high-altitude mountain escape",
+      "longDesc": "A prestigious high-altitude luxury resort in the Swiss Alps offering world-class spa experiences, stunning glacier views, and the perfect refuge from summer heat.",
+      "coord": [
+        46.3089668,
+        7.464275000000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4810211462340459376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJC9O74DPgjkcRcLtQ49ZNwUI",
+      "address": "Rte des Téléphériques 60, 3963 Crans-Montana, Switzerland",
+      "rating": 4.5,
+      "ratingCount": 257,
+      "website": "https://www.sixsenses.com/en/hotels-resorts/europe/switzerland/crans-montana/",
+      "photoRef": "places/ChIJC9O74DPgjkcRcLtQ49ZNwUI/photos/AcnlKN2b7pG07MgVlD70AJbojUZ7Fkn19UYlLFYYAPCYH4LL4vYkrQhgH_Af54xGmf4bSkh76JPzbahGUW8zMEWXPKhD_x8TaUg6yXibgUxpo6tW_o_rMhprDcaDYIP8B59E2HfA4898x-sYK_nczSiXOA26fC4GWjYQGze5Rt8Xzv4NbnxEd012ehxSuisSBL9avCf2hWsgALXk-VcCv0ko9P9zbMEizDPkDxUWY9iM-TvOy2GFTgM_efcPMRf0UBOeH3LB74IwRjxCyiwzu1Ar6QUGpzihpn6aWAWzDypPHNknnjj0jjT5NtYca5IhlDsE5pQ3Wb8ojlWSJSmWo3XrzzumyGJh_ZfcD-BvGej5fgtZ7mSpcDMNcEv41qCNJPND_sG99mX2qX2gjRvTdVEQTG7BZ2ecaAcsQnCRvLj8vD1A1-Hm",
+      "photoAttribution": "Patrice Simon.-V.",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "phone": "058 806 20 20"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Chez La Misami",
+      "desc": "Fine dining restaurant, alpine cuisine, mountain village setting",
+      "longDesc": "A refined fine dining establishment in Gstaad serving alpine cuisine and local specialties in an elegant mountain village atmosphere.",
+      "coord": [
+        46.021466499999995,
+        7.746182999999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7001154969103090239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJwZywIaU1j0cRP8LZxlkZKWE",
+      "address": "Tempel 6, 3920 Zermatt, Switzerland",
+      "rating": 4.6,
+      "ratingCount": 73,
+      "website": "https://www.mrsamigo.com/chez-lami-sami",
+      "photoRef": "places/ChIJwZywIaU1j0cRP8LZxlkZKWE/photos/AcnlKN0oJNGSBLHnzaHz9pnVc3AW0ZnlG9y7JLgbEIckGDNMdTlRm2MWQFv6vTsYtcp-yjGnNCQsGSk2AMEApb1r9quvu_7tVxG5_vLNZIcggE5THbGzXwusj86pTYYHA6AnbcpTotM83Q8qp4pSFld9HYrv652wK8hZUC3DQ0S6X1LnI5V8Y897N7NB1Malx4loG_9A6aW73FR4ifeCo7WCu2XzlKHWiDrtpZ2iaJrH7kQUYJmckkQkyXJ1Uji12Yk17UuE5sE5arAmGGEr3yWEmOkAAuM1hx9FkTxr8lsU-SYRRA",
+      "photoAttribution": "Chez L'Ami Sami",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Local Delicacies"
+      ],
+      "hours": [
+        "Monday: 6:00 PM – 2:00 AM",
+        "Tuesday: 6:00 PM – 2:00 AM",
+        "Wednesday: 6:00 PM – 2:00 AM",
+        "Thursday: 6:00 PM – 2:00 AM",
+        "Friday: 6:00 PM – 2:00 AM",
+        "Saturday: 6:00 PM – 2:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Poubel",
+      "desc": "Mountain village restaurant, Swiss cuisine, alpine setting",
+      "longDesc": "A notable restaurant in Gstaad offering Swiss and alpine cuisine in a mountain village setting with local character and refined dining.",
+      "coord": [
+        46.474211600000004,
+        7.285915500000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14285796047890067220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJr5FHjKjxjkcRFK8q8NBXQcY",
+      "address": "Promenade 55, 3780 Gstaad, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 47,
+      "website": "https://steblergstaad.ch/",
+      "photoRef": "places/ChIJr5FHjKjxjkcRFK8q8NBXQcY/photos/AcnlKN3wEUG0s8bR7JNs78nuFLsBZaaltYko5JUyB-HLmI_yeptjw5ljXYE3-bVibp5SFrTchV8CoYur0qbNnh0FDrO2s_whvLGZfenpDh_aGMSdRulTuoVCwr_cS7HCJ0yMt_rxkXkZxmvUyZdSjQnsDQgnG8eMIiMTe1MLT3Oa8AC20ThwDdRLjAqObMPFCJ0GJx-tY36Ec6NbsW1gYwkNuN7NvQ-lISLalrVrWWzk4oJmwuDXH57s6Ei0kSqdsORj7H_LMygd7YZi78FMeLk641qITXNQxzQVgquFDbN_e-P6EA",
+      "photoAttribution": "Stebler Gstaad AG",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: 2:00 – 6:30 PM",
+        "Tuesday: 10:00 AM – 12:30 PM, 2:00 – 6:30 PM",
+        "Wednesday: 10:00 AM – 12:30 PM, 2:00 – 6:30 PM",
+        "Thursday: 10:00 AM – 12:30 PM, 2:00 – 6:30 PM",
+        "Friday: 10:00 AM – 12:30 PM, 2:00 – 6:30 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "033 744 11 22"
+    }
+  ],
   "experiences": [
     {
       "name": "Geneva Airport",
@@ -502,6 +879,197 @@
       "gmapsUrl": "https://maps.google.com/?cid=14845524910984289229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "photoRef": "places/ChIJwdzuHS8Bj0cRzVtuZ0DmBc4/photos/AcnlKN2pNQ9EZVxjP__nqnNn8hPHJuMrmN2ha9h1iVUvpT3v034wfZzvv-4MEWd5fnO5DbY_NMCIx1-zfXz7y5h-jZO63nwAphhiqDuZCeRiErlqcc0rVTyBvkGgi49PfSviElNfdUAVoxQRdluA7UCiP6qI8XlomG8Yo3Fjg1G-j2yWN937dvnCR8qt-S_5JsBPMlHXkRG_5IHcLKDubsQojHGrZuaMdYhbON5AHnUreIgqnwo2AL3nT7Cj0_NUJpSTAEl5G8WkowjwFnLidP1PlUQUbCYE2Sf0vj4Psxk2pS6lScZ8TsmYnN_60yV91WRZKhgL0WWTIlsCkgJ3tgoBCkkuBYBMAMnw57i4-gkE2xwSxu1Gf1L1CxSWX5KnZcs1Qy1l37GGY1jVeIEnTRA2sKVQldwRfsI7oS25vm9lwPsj-Q",
       "photoAttribution": "Martins Barkovskis"
+    },
+    {
+      "name": "Ascona",
+      "desc": "Charming Swiss lakeside town with Italian flair, Film Festival proximity, elegant promenade",
+      "longDesc": "A picturesque lakeside town in Switzerland's Italian-speaking Ticino region, just 90 minutes from Milan, offering cultural charm and proximity to the prestigious Locarno Film Festival.",
+      "coord": [
+        46.1615793,
+        8.775013099999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=788713007135187995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJyQzCAn3IhUcRG-QFHE0S8go",
+      "address": "Ascona, Switzerland",
+      "website": "http://www.ascona.ch/",
+      "photoRef": "places/ChIJyQzCAn3IhUcRG-QFHE0S8go/photos/AcnlKN2TgPf3f6jra5w-gqosAjE08ULgLe3V83B74Od37PMrJnxkeU76hrTtwrgDEFegjvw43ZuhzVS5sIfUQKYyPZc3hSxAbyFn7nfmvxaZojfCBjwo4JhG7KVULQaU7wWqvdTu0d4Nhs5sdElulbAWef7LaoHXTUp9CTfJ3Y2E8qg0JiW0hgkzt0FsDRot4fp67vomSW9TssoesWVGxBRdGG2GQ_Gd6GSnjdD-9o73VjYde-Kbzeg8st8FSXcSyXyiZY514IJBYhuTTPI4jfOwUMPILbsCzVssk3cmB594J8FRvj9IutqKTXnwNqkhlhrH3koQSWsNvJduguxxGWBJp_9jy1hmxdVK0D_UXoxzWOvavI02hSYP0KDToCcVBibeFIHG9YaGS-TWwFL_kRLNZuujhTyHShdDVCuKWaWwVg8j24H8",
+      "photoAttribution": "Guido Wassermann",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "Locarno Film Festival",
+      "desc": "Prestigious international film festival on Lake Maggiore, annual August event, cinematic celebration",
+      "longDesc": "A renowned international film festival held annually in August on the shores of Lake Maggiore, bringing world cinema and cultural prestige to the picturesque Ticino region.",
+      "coord": [
+        46.168322599999996,
+        8.794463000000002
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8425822255571276252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJudxxWy3IhUcR3BHoE7OI7nQ",
+      "address": "Via Franchino Rusca 1, 6600 Locarno, Switzerland",
+      "rating": 4.3,
+      "ratingCount": 88,
+      "website": "",
+      "photoRef": "places/ChIJudxxWy3IhUcR3BHoE7OI7nQ/photos/AcnlKN2v5rSazWhS51a8LpNBPhkQghoYVub5UkSjx9I3LE5kLfZ8-vm8mjkNVCGXrjTXe9mhMvtqRU_QGwptA65fFR9CufzwcK1s-pu7TlMiCf7gHZVWe7u40q_syCF5W_FCdVHWlxyBSPsWl84rJtUl_BrB1Q9s--JIKBFw1SSil8PfHnwPLI3hu5aeKvGFZ2equ9WKvZNWOncjpVLfR9aWMvspjd2SWU2rJ-n1Y_pw-qZ2MB9900at_bg9cKsOXm63RPhZnqdHu44VsM7CYuLiaf_dDCZZIB4oW49E98ttIIwbzg",
+      "photoAttribution": "Locarno Film Festival",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 12:00 PM, 2:00 – 5:00 PM",
+        "Tuesday: 8:00 AM – 12:00 PM, 2:00 – 5:00 PM",
+        "Wednesday: 8:00 AM – 12:00 PM, 2:00 – 5:00 PM",
+        "Thursday: 8:00 AM – 12:00 PM, 2:00 – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM, 2:00 – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "091 756 21 21"
+    },
+    {
+      "name": "Lake Maggiore",
+      "desc": "Stunning alpine lake bordering Switzerland and Italy, Film Festival location, scenic retreats",
+      "longDesc": "A spectacular alpine lake straddling Switzerland and Italy, providing the stunning backdrop for Ascona and the prestigious Locarno Film Festival with pristine natural beauty.",
+      "coord": [
+        45.9676218,
+        8.6532586
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6331753445422961390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJkT1mADDahUcR7pLKJzbo3lc",
+      "address": "Lake Maggiore",
+      "rating": 4.7,
+      "ratingCount": 4032,
+      "website": "",
+      "photoRef": "places/ChIJkT1mADDahUcR7pLKJzbo3lc/photos/AcnlKN31N7ATokaFBKu8Pv-2Z-w5VPFb3E8K1Q9mfJAa5t02dfYGY6nk40L_JZFPwKJvRcw-VZN-bvj6EiYsL1-8mezn8DmM7FBfTHRPCKVhepUjXIgKwCuSSNMzKwA_HjeASqXkckZfX23DTQA70eOWX2IZyhC4U6ib8gNEYaHIoZ__kG7ExJdAJ-g1s5TgEM11DepHTBX3ItpfJGsqXk8_x7mCrMKK_oRGfMbRw9TNz4u6CgnLma3NGC_PWXmkVmdBli-S7YD2Uetd42itAzPNc1kNRwBuGnq2r5pXXEsI8Qyc_9innOywWR-uJ0miwa8_6_N5nwMnEtd5Lq-Wh3TacDx8tQ_3PzEVLNNlw9vadRv6W5UJrqCEp6vA57yPlkjASBY9xPCGfCKRsZwTh5OEEvr7Zi6ZqVyR0jNRWngf-EaAQ1GB4cieHIX711tn6h1d",
+      "photoAttribution": "Imtiaz Aleem",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Lake Geneva",
+      "desc": "Iconic Swiss lake, Via Alpina 1 starting point, alpine scenery",
+      "longDesc": "A stunning alpine lake where the Via Alpina 1 trail begins, offering pristine waters framed by dramatic mountain peaks and the charming town of Montreux.",
+      "coord": [
+        46.4312213,
+        6.9106799
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14753927068440664135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzVC2zSCbjkcRRxhtxH96wMw",
+      "address": "Montreux, Switzerland",
+      "website": "http://www.montreux.ch/",
+      "photoRef": "places/ChIJzVC2zSCbjkcRRxhtxH96wMw/photos/AcnlKN0GRQ9IgMegXyR27thMGYACG0JY6myRguo-6EtmUcqDbLJODPa1Y3JtyWGyKFuP8BkFunoCgCuG6MV7q73BIfwegeXMggobVsMXCYg6W8AlcjJSSFdj8ecc8I0jzH-icOlECCdhXJraTVXh-RPH64sNpRFOd-Bq2mxJbJfdlcHabGdwW5aG8_LnNnRHfEXJgKZXxdZBnFsIcD3tX2aTnX3OjROqrr4wWOlK5KP2SCSN-sYtcpU1cryZasxhujdh73zHPv2i90IOFokQyUDQQcOOb8wR_A3YvZ5mOJWZFYGF0sjxGVXGFWqIg1XnWinccwkc7dRZMUXFFV5vPR2ZRCCFfZkWtX_VPGYax8DmE3TAyHSBpbHPyg_kYDJFgTZQxHklvjgVAVJ6uGhOek0zTNUj9_Y22leP_uFl29HSPNWFPg",
+      "photoAttribution": "Antoine Ober",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Liechtenstein",
+      "desc": "World's smallest country, Via Alpina 1 endpoint, alpine destination",
+      "longDesc": "The world's smallest country and the destination endpoint of the Via Alpina 1 trail, offering pristine mountain landscapes and unique travel experiences.",
+      "coord": [
+        47.141039199999994,
+        9.520935000000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6983593419437945225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ_S9HHUQxm0cRibFa3Ta16mA",
+      "address": "Liechtenstein",
+      "website": "http://www.liechtenstein.li/index.php?id=54&L=1",
+      "photoRef": "places/ChIJ_S9HHUQxm0cRibFa3Ta16mA/photos/AcnlKN0o6LY6tbGppulNcCzU2jghJq1BNtPYm2aQI35_2kgqY0TWNqdUn2KNIuO1_wLarqn-W-UjLXTy25b6W8_vX-0eTIYBPHCtoByQjnFWqU6pW-P25TydU2IBX1N6vNlWdfqB8IRvgdVL78hAPkUbRcIHMcFHGw3Je-T9TVMU24aggm4vDGihyqwZQKNvSBD5RAbmxKfDNOEzqwBKLgpMJewCDemARxKEjCA-b_VP5OcccM0-4-ITN94tzvJL1bpA0falAzfWyXQXqI7ne9Yr8oglarPka6cH0r-FkMjRZZNDAW1yJvqVDVw2noEJwIEPQ_vpi3EdZ4hT4laZexn_41fZ9nWOo6DAk4D7Gjjo9eP79uFD3ZR36RQVB4dPTJJwniBzIIgPyCWh1zks48L0eR9Msc7A22Ikknqpqb43zRU0Aw",
+      "photoAttribution": "צחי גולן Tsahi Golan",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Ultima Promenade Gstaad",
+      "desc": "Luxury shopping promenade, designer boutiques, upscale dining",
+      "longDesc": "An upscale shopping and dining promenade in Gstaad featuring luxury brands and refined establishments in the heart of the prestigious Alpine village.",
+      "coord": [
+        46.472759100000005,
+        7.2871659
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15274986351617653814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJy-sBddbxjkcRNjwcDSin-9M",
+      "address": "Alte Lauenenstrasse 6, 3780 Gstaad, Switzerland",
+      "rating": 1,
+      "ratingCount": 1,
+      "website": "https://www.ultimacollection.com/our-collection/ultima-promenade-gstaad",
+      "photoRef": "places/ChIJy-sBddbxjkcRNjwcDSin-9M/photos/AcnlKN0SecPma-QIZxGeC124D4Dt7sz7BEW0txD84gpGLFLfHJwmIQ65SYmaoVH-OBgBRa5ZwYEldzYgCBND591ChZ6iK59E0-XOWkVXmZor0YC3wmEY_Q1_UnuaTOxf6wTmAO2PXt_cVnXGPaek4Yr17hTbI20uv-UQQFAPY52RDXo0DKyX8fBg1vFn7nefjlZWQ6oxoVAD4qcPU061SbkCcRF4zLgXMbitft77e_6KctLYG5Be4txgF5qKXv7k3EQ2eK8WPs75twy4FM-2xJn92xWa2t6YxxHObYws8AJaT0AzVmOuo59LJv2LZLcneKMlC9YD23K6zNBc_JkZk278Fkuj39_XQT9EU8YvQlBkGvtXIhLs_eX7e-g3fc5rAr_uwUPfmi7fn7lpRJTKVDmxgkUPX8iA6dzTuNaCjlupsNj1jdIj",
+      "photoAttribution": "Scott Rustenhaven",
+      "tags": [
+        "Splurge",
+        "Shopping",
+        "Romantic"
+      ],
+      "phone": "022 779 33 33"
+    },
+    {
+      "name": "Alpine train routes in Switzerland",
+      "desc": "High Alpine crossings, panoramic views, historic trade routes, glacier vistas, engineering marvel",
+      "longDesc": "Experience dramatic Alpine landscapes from specially designed observation decks on scenic Swiss rail lines that cross mountain passes and frame glaciers at their most spectacular.",
+      "coord": [
+        46.853878099999996,
+        9.5291943
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=918343114558432734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJUdn1R3fHhEcR3mUudTKcvgw",
+      "address": "Bahnhofpl. 1, 7000 Chur, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 4346,
+      "website": "http://www.berninaexpress.ch/",
+      "photoRef": "places/ChIJUdn1R3fHhEcR3mUudTKcvgw/photos/AcnlKN1_01OlfX2R6gZgh3eyjTRLQ887ZQmDFgcpjqtOU6hOD_wcgH9TCWlnm4sytK4_NfwPz0v17YuD-87F-B24ZAfTJtY-7dJ0GRv6oup2MotTZxN4araWtRY_GibctHmMBS1gST-MXPrmsyqxxqcQiVY8LZfBxlNB_I-68rAx8rOd6aZdVghDZj0fOOagbG5DgstblPEgW8mkn0o31s4Wl4x2u7xi4SXU8Twu7OWkMTOBnvjYmuwSPxQ3G7v9SKZCuTXvqbRRzLFcU5hLAoKm4P0S2kBBtftcMEd9xXM9KXlMDTV5VksthFxn7AezfsWCbREIibfm_r3SbK55A5TM9SIC0-oUuxJgn4baqDoU4z15A7NLeFKDNpzyUsR3EorIKV2Iofvo2tyedeAn4A9ucNyl68pwGk5JuplrQLvHktYQXA",
+      "photoAttribution": "Angelo Padovesi",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ],
+      "phone": "081 288 65 65"
+    },
+    {
+      "name": "Vals Bathhouse",
+      "desc": "Iconic Alpine bathhouse with renowned architecture and thermal waters",
+      "longDesc": "A celebrated thermal bathhouse in the Swiss Alps, famous for its distinctive architecture and serene thermal water experiences set in a stunning mountain landscape.",
+      "coord": [
+        46.6216484,
+        9.1817063
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9279442132037238238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJe4lkeKjkhEcR3n3fWXQzx4A",
+      "address": "Poststraße 560 7132 Hotel, Poststrasse 560, 7132 Vals, Switzerland",
+      "rating": 4.2,
+      "ratingCount": 268,
+      "website": "https://7132.com/en/therme/thermal-baths/",
+      "photoRef": "places/ChIJe4lkeKjkhEcR3n3fWXQzx4A/photos/AcnlKN1G1BseRwBT9IHPjw0V2nASe-OGE2Rtm4B7hdF25yxng7bQxnAWALKqQpv9heTEeBwyek-mXE3jqGP7FTqCiJxtuYWkPbW8TQei2BW6mqz5PENOyLknhQc0rtgiZ3bJen6S1VljAEGl119tRl8q3zlDplcQVfuDtf3N5I-RyZdExxXcDFxmJZx1shdQnCRA9ANZtrk15Od881zdcxFZI-qjoePmSigdt0jJT4IsxEp516-zd3L5SLpuosKNED_IXmD37pYVO8LDBhTKveq4dfiooLEtUhkWXoAWnMpx0S6KhQ",
+      "photoAttribution": "7132 Therme",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ],
+      "phone": "058 713 20 00"
     }
   ],
   "kidFriendly": [

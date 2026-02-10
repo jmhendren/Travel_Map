@@ -1,0 +1,95 @@
+{
+  "key": "french-polynesia",
+  "name": "French Polynesia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇵🇫",
+  "defaultCenter": [
+    -17.0228,
+    -149.5959
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "The Brando Resort",
+      "desc": "Picture-perfect paradise with sunrise canoeing, private blessings, starlit dinners",
+      "longDesc": "A secluded luxury resort offering sunrise canoeing, private Tahitian blessings, and romantic starlit dinners in the heart of French Polynesia.",
+      "coord": [
+        -17.0227819,
+        -149.5959077
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5967887006355655398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJUWiPJxOnkHYR5op_8Zwx0lI",
+      "address": "Arue 98702, French Polynesia",
+      "rating": 4.7,
+      "ratingCount": 248,
+      "website": "http://www.thebrando.com/",
+      "photoRef": "places/ChIJUWiPJxOnkHYR5op_8Zwx0lI/photos/AcnlKN39xanQ3aFNeNgxiEqCEdWWFSx5GUZW4oMKkSQC0IrKb8PwSVdKr_a7_oCF3Nwe72wyu8oYEkkcXA8AJbsNDlH12xjXPbd5j8opkzg0PuIQbBifVZJcvhHjmurgtjRkXZnFrIGBC9_cAmlNrCn50Krek395cPKsq83b_pwnsaW-0IKSxmwyT7XFuq-rzJZqktz_PHSZsHEQhjbEifDav8EbxFtCXZcqjQCtgIOp4bCDolgtcuVmsWmNBAmUgUaLcmBBFJfanh8M0CcdnU36-2Fh9VOT812C59u4v1Xmqi7lyw",
+      "photoAttribution": "The Brando",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Fine Dining"
+      ],
+      "hours": [
+        "Monday: 12:00 – 11:59 AM",
+        "Tuesday: 12:00 – 11:59 AM",
+        "Wednesday: 12:00 – 11:59 AM",
+        "Thursday: 12:00 – 11:59 AM",
+        "Friday: 12:00 – 11:59 AM",
+        "Saturday: 12:00 – 11:59 AM",
+        "Sunday: 12:00 – 11:59 AM"
+      ],
+      "phone": "40 86 63 00"
+    },
+    {
+      "name": "The Brando Resort",
+      "desc": "Marlon Brando's private island resort, luxury escape, exclusive paradise",
+      "longDesc": "An iconic ultra-luxury resort on a private atoll offering total privacy and exceptional service for the world's most exclusive travelers.",
+      "coord": [
+        -17.0227819,
+        -149.5959077
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5967887006355655398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJUWiPJxOnkHYR5op_8Zwx0lI",
+      "address": "Arue 98702, French Polynesia",
+      "rating": 4.7,
+      "ratingCount": 248,
+      "website": "http://www.thebrando.com/",
+      "photoRef": "places/ChIJUWiPJxOnkHYR5op_8Zwx0lI/photos/AcnlKN0TCUO2Ho6-JvqqYYdUo5w5zYzf-z3KDQtlsBj8gt6Lq7ALm7_OUQHCKDKcWd5lwQtrBAuU-V1kCGJiCT7JwZmtIPD0fHba4CpGIHafQnzlMKtLAozU4koVoQvPVGfgbKWFVQNoqPjxNSDpQbQ3WHpCMaor-FWvUNJP58ANdS7cabozDzVLbojj0OmougLPKrBS1VY-cMyVHZwbUn4rBW7jmFqnzfLrvvy3bqaM5HkK0tUidTt08Q4olfbxgfiH146fKlV4GlgMXE1tGQoLKZiMeczGHNECD5nVNbWzFbghSA",
+      "photoAttribution": "The Brando",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 12:00 – 11:59 AM",
+        "Tuesday: 12:00 – 11:59 AM",
+        "Wednesday: 12:00 – 11:59 AM",
+        "Thursday: 12:00 – 11:59 AM",
+        "Friday: 12:00 – 11:59 AM",
+        "Saturday: 12:00 – 11:59 AM",
+        "Sunday: 12:00 – 11:59 AM"
+      ],
+      "phone": "40 86 63 00"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Tahiti": [
+      -17.0228,
+      -149.5959,
+      0.03
+    ],
+    "Tetiaroa": [
+      -17.0228,
+      -149.5959,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -1,0 +1,58 @@
+{
+  "key": "latvia",
+  "name": "Latvia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇱🇻",
+  "defaultCenter": [
+    56.9552,
+    24.1305
+  ],
+  "defaultZoom": 10,
+  "hotels": [],
+  "restaurants": [
+    {
+      "name": "Kalve Coffee Shops",
+      "desc": "Specialty coffee shop, artistic designs, local artist collaborations",
+      "longDesc": "Contemporary specialty coffee cafe featuring limited-edition coffee cup designs created in collaboration with renowned Latvian artists, celebrating visual arts and craftsmanship.",
+      "coord": [
+        56.955180999999996,
+        24.130543499999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10153727447696179889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzxtsO2XP7kYRsYIQIlFJ6Yw",
+      "address": "Stabu iela 38, Centra rajons, Rīga, LV-1011, Latvia",
+      "rating": 4.8,
+      "ratingCount": 607,
+      "website": "https://kalvecoffee.com/gbp",
+      "photoRef": "places/ChIJzxtsO2XP7kYRsYIQIlFJ6Yw/photos/AcnlKN1ERBrwtiCISQQWBaGDSyYb3iejwGG74oYpFaS7dpz_LAAYtGA104YMKdaymQCEpusKddgjOmq1Z0E82TvwvniIa5sakaRwSFEVQwrxM3I0xDwnxhNVAG42HfO-vLI7h6K6Np3jfN-jTcBey7SJmU7RqGA4UoQ4F9HrM7OzLXZMUDwwVwOrBo4sBczWry9LL7VX-bUROrPUZhxUSNyGkP5mjpxe8JTtUhNYTXXgE5tXb0qfjsjMeYAjPeL2hs_vc3mhZcMur9oUQERL7qQoZSqCqLOjRTlrOthWOzJ-_XSCrQ",
+      "photoAttribution": "KALVE Coffee Stabu",
+      "tags": [
+        "Coffee",
+        "Art & Design",
+        "Local Delicacies"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "phone": "25 755 575"
+    }
+  ],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Riga": [
+      56.9552,
+      24.1305,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

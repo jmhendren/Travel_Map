@@ -1714,6 +1714,714 @@
         "Saturday: Open 24 hours",
         "Sunday: Open 24 hours"
       ]
+    },
+    {
+      "name": "Jardin Tropezina at Airelles Saint-Tropez",
+      "desc": "Riviera day-to-night escape, seaside elegance, luxury beach club",
+      "longDesc": "An exclusive Riviera day-to-night escape offering coastal sophistication and refined beachside experiences in iconic Saint-Tropez.",
+      "coord": [
+        43.2451703,
+        6.6670764
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=304856014826975708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ67-ZXizBzhIR3DFnJ-4QOwQ",
+      "address": "325 Allee De La Mer, 83350 Ramatuelle, France",
+      "rating": 4.3,
+      "ratingCount": 779,
+      "website": "https://jardin-tropezina.fr/?utm_source=google&utm_medium=yext",
+      "photoRef": "places/ChIJ67-ZXizBzhIR3DFnJ-4QOwQ/photos/AcnlKN2zFIBsRihgWYSJTt-2DiW4RnekShNE7XqgNfR_eCYaGutUlURyURs7ad8pEsolTM3nH8RG1PRarCA-33Mt8zJnt5WgtHGyJsqZ3Q7N3i1x7BgfaiKZhlQXvddutrCICld0YPKRfaonU091IMWSaG1jlulCIBKdJXt6QjgPNDM4Qm6piuRPKOyvuNhRUrUSkFPP3-jDJPUZHm8D5sUHc2utov2xIzr27FqdGBjq72jDvTYjtg_Y5T72aZngQEC2so4cpC8PsUy7od9GrOdyOj_IV-bwZUOCxVLfB4iFCGC_uQ",
+      "photoAttribution": "Jardin Tropezina",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Cocktails & Bars"
+      ],
+      "phone": "04 94 97 36 78"
+    },
+    {
+      "name": "Moulin Moulin",
+      "desc": "French luxury hotel, countryside sophistication, exclusive collection",
+      "longDesc": "An exclusive luxury hotel in Hauts-de-France, offering authentic French countryside charm and refined elegance in a curated collection.",
+      "coord": [
+        50.591713999999996,
+        1.6172195999999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6534302778880979155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJdUU73grT3UcR03AM1sGBrlo",
+      "address": "40 Rue du Ctre, 62187 Dannes, France",
+      "rating": 5,
+      "ratingCount": 106,
+      "website": "http://www.moulinmoulin.fr/",
+      "photoRef": "places/ChIJdUU73grT3UcR03AM1sGBrlo/photos/AcnlKN1Hm7qjjC1uM8-eXwRQWPSoUxUxK2YMYG0AXLDh7gyLWnVIgoB-m0OTRIH0fPyq5IE_nr3OeVRECxHK9z6O6_24GqvvKACwkp1EbYCXzPeRC7jWzGJr9koD51kIwMApS2peNM6xDb_6V3edstUPQalQe3r7_LvFRGGrpD_7UYN0mdn7f7pSoqOm1sLYd7cvsa-46ba6JTOHBcQGzw3Z5zPfkE_IB4Z81gB6kmCr0KpK5A0sKCMRH6oipsBmqGq14rkBnXUzkuiXx5GpH2jxOWRdQg8ioBNYf_bvJOAhuPmQaA",
+      "photoAttribution": "Moulin Moulin",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "06 25 53 57 23"
+    },
+    {
+      "name": "Villa Haute Guais",
+      "desc": "Breton luxury villa, coastal elegance, exclusive collection",
+      "longDesc": "An exclusive luxury villa in Bretagne, offering seaside sophistication and authentic French coastal charm for exceptional travelers.",
+      "coord": [
+        48.6230676,
+        -2.0430405
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4564919283511203011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJZ-m7-tOADkgRwxQEAufZWT8",
+      "address": "17 Av. de la Vicomte, 35800 Dinard, France",
+      "rating": 5,
+      "ratingCount": 13,
+      "website": "https://www.villahauteguais.com/",
+      "photoRef": "places/ChIJZ-m7-tOADkgRwxQEAufZWT8/photos/AcnlKN2k8Mr1yiYGxgaT1D2Z_nYtJGRTdet05mkfglRiKhMK0lRKDYkEQxaLSsG3T1xvOpssiN8QkPZTVaRE8uL3N7dnVduhPSzPRrl1JBaNQUeJ7toIpCYLGcE5ulK7qsn7kqxe-CPMzEMGUDs5qVCwI4FOr6EC9FAKZL3mD1lryrR3IKy75P5ZI6o2QmH9CDzqsi3T0ha2MCb9no-V8iuBUpMB-_0tUFc_Rv4MEFTqy_MpzfMLC77EqHS4T-D9S0j8QVYgCwRL91gmDsLyS11_b00oQjMXb8foKn7kIXTy36Y4_g",
+      "photoAttribution": "Haute Guais",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "06 85 89 67 85"
+    },
+    {
+      "name": "A Casa Reale",
+      "desc": "Corsican luxury villa, Mediterranean charm, exclusive collection",
+      "longDesc": "An exclusive luxury villa in Corsica, combining pristine island beauty with refined Mediterranean elegance for discerning travelers seeking exclusivity.",
+      "coord": [
+        42.6978864,
+        9.4517711
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15192108128997718907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJdzqYJJAl1xIRe7s7Ito11dI",
+      "address": "4 Rue Commandant Bonelli, 20200 Bastia, France",
+      "rating": 5,
+      "ratingCount": 27,
+      "website": "http://www.acasareale.com/",
+      "photoRef": "places/ChIJdzqYJJAl1xIRe7s7Ito11dI/photos/AcnlKN2EA9xkF4bQgwiyWRVzWugujAI_8xZL1Y9dJUpWoiqqlLGfC1kArgurTQHVXtb7DZNMYHuwH7kjO4rfbmXWRC27B6Dy81MBZ9ggZJTIe14ELECm28frhjMhy99G7CyBEhbfJHAWPhvL09kAIcVXxP2gjHsVYpFcJao7B6s2UJ5aUxJJ44ZtWGpeORlLqXTN025a7e46U8PEaWHJ-YLdLfuL5kgREPmf-YD6gjUASDbZWykfrwXC2IrAepQz4iQaMpQWFURspsMhHbIscVO80IThxoSfdPHQVhDeLw44zochNg",
+      "photoAttribution": "A Casa Reale",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "07 86 08 72 92"
+    },
+    {
+      "name": "Eden Roc",
+      "desc": "Iconic French Riviera luxury hotel, premium pricing, legendary status",
+      "longDesc": "The iconic Eden Roc is a legendary French Riviera hotel known for its premium luxury status and commanding prices in Antibes.",
+      "coord": [
+        43.5483462,
+        7.1216026999999995
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4562198646629823593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJgUQSbb1_zhIRaXQjX38vUD8",
+      "address": "167-165 Bd J. F. Kennedy, 06160 Antibes, France",
+      "rating": 4.6,
+      "ratingCount": 1148,
+      "website": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/?utm_source=google&utm_medium=organic&utm_campaign=google_local_hotel_du_cap_eden_roc",
+      "photoRef": "places/ChIJgUQSbb1_zhIRaXQjX38vUD8/photos/AcnlKN2DZPKz7azIAfssDWy3RAnZMA1XwqZ-SoWJCrQ94DIFpBR2u9kU1AlVnyCtq5ND_H8DiT-p8Y-5nGNtLqoaCx8r6Y7SHKi-IUOJePwj9QoNg3SlBgQ9Td6PuD3kxTOZjP4p559loLH0fqppnYxL4q-Ixks-FcEQjeSz8Hx6m7BmMZ86gn3j8v36f4y2qGIie6znPaCHq148G-zpzwCxdcj5bPGuo9kkFwziT_cSS15vsrnb-68b1U4fYq4s4y5fEIExbTwZqibYrOCkJMp4Sup2Ujfk21MYVCV7QSl3dqNb6g",
+      "photoAttribution": "Hotel du Cap-Eden-Roc",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "phone": "04 93 61 39 01"
+    },
+    {
+      "name": "Cap d'Antibes Beach Hotel",
+      "desc": "Recently renovated beachfront alternative to Eden Roc, excellent dining, fresh interiors",
+      "longDesc": "A smart alternative to Eden Roc, this recently renovated beachfront property offers the same prestigious cap location with excellent food and fresh amenities at better value.",
+      "coord": [
+        43.561473899999996,
+        7.1181345
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16885162299201211020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJmX9xuI1_zhIRjMq0UqYlVOo",
+      "address": "10 Bd Maréchal Juin, 06160 Antibes, France",
+      "rating": 4.4,
+      "ratingCount": 431,
+      "website": "https://capdantibes-beachhotel.com/",
+      "photoRef": "places/ChIJmX9xuI1_zhIRjMq0UqYlVOo/photos/AcnlKN0IvRHXDsOQiSDXJo5VZpXojBE6Bk7HWJhQfEcAXOOamVNJQoRvs9XrBbEPZDppr5Gi2S2yWICHjeOfScG1w88PyXkrrk971qhchBFn5JF2jLWICKB_BXcJLsyPgcYPzacAw9ad0BCu49RHuay5VqnvNMXUB_GW0wM2g2bARqf1zIFgadnCpa-2W1fy3f8k3mFnoQH8TKvtlhbbBzYm8D0IFzasmdG_ToezZofR3Ewgi-wpsjbJ6UU5-IpiDcz-CX31Ir85AvRKUq0KR_kHWTXb_kFilhBzvVJ892rAT7QfLw",
+      "photoAttribution": "Cap d'Antibes Beach Hotel",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Fine Dining"
+      ],
+      "phone": "04 92 93 13 30"
+    },
+    {
+      "name": "Château La Commaraine",
+      "desc": "Historic château hotel in Burgundy wine country, luxury French experience",
+      "longDesc": "Château La Commaraine is a storied château hotel nestled in the renowned Burgundy wine region of France, offering sophisticated elegance and wine country charm.",
+      "coord": [
+        47.010252,
+        4.794074
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11563591613688373966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJIyrucbv18kcRzuKUXU4heqA",
+      "address": "24 Grande Rue, 21630 Pommard, France",
+      "rating": 4.7,
+      "ratingCount": 3,
+      "website": "https://www.chateaulacommaraine.com/fr/",
+      "photoRef": "places/ChIJIyrucbv18kcRzuKUXU4heqA/photos/AcnlKN3mMypY8UylmO1EYpXF1BrPXwTDebtsUZPGI37yxUvC594R_IyLzwiob396fdjV-URmtJwPC6mpAMYJHnI5mMDhw4c3Uh3a4ANHeGRX7cZfYI7yRqpKRgmIugCjSHBXiJA7zYDcBRIaeD1Kf-_p7QBxqsAXWgjk2htJxNsRRR2ltJWAI7Me1xOnyJUJYDCqH0KtEkJ9iUHdRVPHoGeuvn5H-lZnqnYnyaQTwVisY3vBJjv4V9CKtmCpYQDmaE9FFPUiRKSRdmk9T3S_cT0Q1FNl9G1C4slo0BcQ2UB66ITD-g",
+      "photoAttribution": "Château La Commaraine Hotel, Spa & Cuverie",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Cultural & Historical"
+      ],
+      "phone": "03 75 83 43 34"
+    },
+    {
+      "name": "Provençal Winery Estate Hotels",
+      "desc": "Contemporary winery suites, Provençal vineyard estate, immersive regional experience",
+      "longDesc": "Discover contemporary luxury suites on working Provençal estates, where sophisticated design meets centuries-old winemaking traditions in France's legendary wine region.",
+      "coord": [
+        43.2557258,
+        6.600113299999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13586179373748196383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJaVdDu8rHzhIRHxQAYyjOi7w",
+      "address": "1 All. du Vivier, 83580 Gassin, France",
+      "rating": 4.7,
+      "ratingCount": 130,
+      "website": "http://www.mesanges.com/",
+      "photoRef": "places/ChIJaVdDu8rHzhIRHxQAYyjOi7w/photos/AcnlKN01ZdSMIGsQ3JcB7DN-96qN4Yy8A8bGryth3mbnAEUzfmStiuTZoNilLoktegkPFvb_vUVHBuYqd5h0zOsWPca4o6mvf6gQsweiH92IpHLfAcmXtrKXMDSrhL6Es8QrV9YPl0nhOg9Vezj8XCue8OnKN8X3Qert8fRtr4o53M_c_8ne1iBEgGLbWByCQlHeyRZ3mITsZK8_9x-VsfvwiLoIenHOSwwSpc6sHgrW1IN0-EW9a_yHI3Li8LqffNZLZdQ1QevqcoopuiH614uC24pWVtwbAsQrljE6lb7eRsO8Tg",
+      "photoAttribution": "Domaine Les Mésanges - Maison d'hôtes dans le Golfe de Saint-Tropez",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 6:30 PM",
+        "Tuesday: 8:00 AM – 6:30 PM",
+        "Wednesday: 8:00 AM – 6:30 PM",
+        "Thursday: 8:00 AM – 6:30 PM",
+        "Friday: 8:00 AM – 6:30 PM",
+        "Saturday: 8:00 AM – 6:30 PM",
+        "Sunday: 8:00 AM – 6:30 PM"
+      ],
+      "phone": "04 94 45 24 59"
+    },
+    {
+      "name": "Château Sénéjac",
+      "desc": "Prestigious Bordeaux wine château in Médoc, elegant French winery, world-class wines",
+      "longDesc": "A distinguished French wine château in the prestigious Médoc region of Bordeaux, renowned for exceptional wines and elegant vineyard hospitality.",
+      "coord": [
+        44.9622241,
+        -0.6868913999999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6816288486231514636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ-z97CXfTVA0RDB5qlENSmF4",
+      "address": "67 Imp. du Château, 33290 Le Pian-Médoc, France",
+      "rating": 5,
+      "ratingCount": 113,
+      "website": "http://www.senejac.com/",
+      "photoRef": "places/ChIJ-z97CXfTVA0RDB5qlENSmF4/photos/AcnlKN1_ERg21Yh-NSbTInM9RbKu-HnwNfez1ehqvt-GsHz1PFtDdKhnMqEX1Uy9LlQqtTe92lq8HspRmd3CsfOGyih4eewibwFrBZVUaWCfWFGZsC-JZKU5hg8Z26WTKmxMk74kmzckMy5WS7EqFR6BrphnaZwvSLQGEA6xeWTjfoFL0JaYpvTuX_BjxuICCze-hWvG4EQKgzcfmOUPj3Kji9KsAuYdzlAztfGL1OkFZB8cD8nNlLGPX2NvG5IKZXxVjm2XxdCRrVoFhXd5Jod6nXNm0irIOYvk0B_VrxdFeU3pLg",
+      "photoAttribution": "Château Sénéjac",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Fine Dining"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Tuesday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Wednesday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Thursday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Friday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Saturday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "05 33 09 50 67"
+    },
+    {
+      "name": "Cabanes Perchées",
+      "desc": "Unique treehouse villas, nature immersion, romantic escape",
+      "longDesc": "Enchanting treehouse accommodations offering a unique escape into nature with romantic, Instagram-worthy settings perfect for couples seeking adventure.",
+      "coord": [
+        44.0003558,
+        1.6347855
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7946220572516908143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ1SpPX9I7rBIRb3zFg4KlRm4",
+      "address": "lieu dit la male, 4925 ROUTE DE MONCLAR, 82800 Puygaillard-de-Quercy, France",
+      "rating": 4.9,
+      "ratingCount": 582,
+      "website": "http://www.domainedelamale.fr/",
+      "photoRef": "places/ChIJ1SpPX9I7rBIRb3zFg4KlRm4/photos/AcnlKN19oCEOy861MlwNJfBHTC4EGtEfTXmhDmMKbm4J6i5zh2C5c4fOaeRDasmwSFTyZ4KeEPwZVrXUrvtpjIXRoTY53vAep-3DlIsNhvv4WrUn3wny_h-ha_QiKBtJo7jfiUNkdgOcvmMaNAlqYXyD9a3c6aet6fd65haQepHeuNvx_NgaOdSoRkSIYvtqJPHxPSG4AG8IGquPYpXVixQj-M1q2l7agiYoJnOYJQFoOiVkr3n5QqVSiNYVkUkrvVuWMv9N_ZyhgtNmUkil_oKAeQv0zigXo7IqvNDvMk-uwkbIaw",
+      "photoAttribution": "Cabanes perchées & spa du Domaine de La Male",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "phone": "06 71 60 66 03"
+    },
+    {
+      "name": "Les Carrasses",
+      "desc": "Boutique French resort, stylish design, seasonal retreat",
+      "longDesc": "A refined boutique resort offering elegant accommodation and curated experiences, ideal for those seeking a sophisticated French getaway.",
+      "coord": [
+        43.344078499999995,
+        3.0251612999999997
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5177168848166272031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJoWHpDpmmsRIRHzwrOaP_2Ec",
+      "address": "Route de Capestang, 34310 Quarante, France",
+      "rating": 4.5,
+      "ratingCount": 540,
+      "website": "https://www.lescarrasses.com/fr/chateau-hotel-narbonne-occitanie?utm_source=google&utm_medium=lescarrasses&utm_campaign=fiche&utm_id=utm+les+carrasses",
+      "photoRef": "places/ChIJoWHpDpmmsRIRHzwrOaP_2Ec/photos/AcnlKN2vORqLM0prFkybzyG6uA7nzSmZaI4_cvlXoLhWg52RpcqO93UHelJiTXoIB-uqgMpCX3olng1Abblo7cCCD8hmfUIV-UFuABNJwWla0YiWYyk4Z4-v9-uJt-W7Aj6DIA29YXXMDmgybz0_JBOW6zfK7X26OR8Z8dco6uSZnsnw8qI-QbyPIvF6nSAlgbhXdFgR4IT1tJyhC-JJC4Iw2IB_yYBcf6LIv-WUap1uF5eYOpvIOUub4QjnZtLsARxU8mpn3iAdw-Q2GWElHJuDYPl3QhV44-eprX8Zs0QqM_JPkA",
+      "photoAttribution": "Château Les Carrasses",
+      "tags": [
+        "Romantic",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "phone": "04 67 00 00 67"
+    },
+    {
+      "name": "Le Galinier Lourmarin",
+      "desc": "Boutique Provençal hotel, charming village setting, stylish retreat",
+      "longDesc": "A charming boutique hotel in picturesque Lourmarin showcasing authentic Provençal style and character, perfect for a romantic French village escape.",
+      "coord": [
+        43.7663109,
+        5.3634907
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3412408709621030920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJa48gBTQfyhIRCCBpRaRPWy8",
+      "address": "D943 Av. du 8 Mai, 84160 Lourmarin, France",
+      "rating": 4.7,
+      "ratingCount": 75,
+      "website": "https://www.beaumier.com/fr/proprietes/villa-le-galinier/?utm_source=google&utm_medium=organic",
+      "photoRef": "places/ChIJa48gBTQfyhIRCCBpRaRPWy8/photos/AcnlKN3Bbe8ne7kuvkI5Flj6uaGioMM_txQXZP7Z5U_4xXUE4H_aMJpTRdxZHzsfaLKpeV6kRF111PN62EkHWg7OcCO0klcMxQMc6ThzVXNf_xV9U8oxoyJtPT-6rtrWytTfM81G6QDvrNCyNb2mG52wp8UtPh_tEFb3gdNyc6bC7xX5EqdZ7W7p6Fe-1fdv_POCO6qg3qibu4KDpwPF_PICbB6ICtczSQo_SxkOGBHqYDtw_Aj0Eud3w4F4IyTQpAC4Nvxe77mZT_u3QUGRQqWOfufWdvqdTN6AZiWLDEsPB_gAvw",
+      "photoAttribution": "Le Galinier, Lourmarin, a Beaumier guesthouse",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Art & Design"
+      ],
+      "phone": "04 89 81 40 75"
+    },
+    {
+      "name": "La Pogee Courchevel",
+      "desc": "Luxury alpine hotel in Courchevel, premium winter sports, mountain elegance",
+      "longDesc": "A prestigious alpine hotel nestled in Courchevel's charming village, offering luxury accommodation and world-class winter sports access.",
+      "coord": [
+        45.41194240000001,
+        6.6331123
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4491909028323546782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ2dqBDKt4iUcRnlaYTHZ3Vj4",
+      "address": "5 Rue Emile Allais, 73120 Courchevel, France",
+      "rating": 4.7,
+      "ratingCount": 118,
+      "website": "https://www.oetkerhotels.com/hotels/lapogee-courchevel/?utm_source=google&utm_medium=organic&utm_campaign=google_local_lapogee_courchevel",
+      "photoRef": "places/ChIJ2dqBDKt4iUcRnlaYTHZ3Vj4/photos/AcnlKN3UhFkYmEF6ZPyBRVWX2rJFwaLZ5vl7nC2LdXHOaKBGY1VJautHR7ruqlSyLqjegAurTQuZGTL-l5GlNL18L8X99RXoVnF61QMSRC61WJSlIrkhLcFhrIxw8Z3D-XaeFoojrH2KCRIII9RVxEMCbNePXZ_BB4Sr72XMDaXiwVDFZL4WGxwGpZPaTM0U1TK8YlGylXMmcRe2jkVfeuxPXShikntY2DPdw0mHarmuZtlvonk5iqd6lw4fNZQNS0bss0wyvWgGJDUiuc2va_h6p3epzJB9tWb9JUOVz99Q5NBB1A",
+      "photoAttribution": "L’Apogée Courchevel",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "04 79 04 01 04"
+    },
+    {
+      "name": "Abbaye des Vaux de Cernay Hotel",
+      "desc": "Historic French abbey hotel, medieval charm, winter romance",
+      "longDesc": "A beautifully restored historic abbey hotel offering medieval charm, elegant winter accommodations, and quintessential French hospitality.",
+      "coord": [
+        48.683845899999994,
+        1.935847
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12185802339008762845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ7Wua8ewp5EcR3dO9B6qqHKk",
+      "address": "Domaine de l'Abbaye des Vaux de Cernay, 78720 Cernay-la-Ville, France",
+      "rating": 4.3,
+      "ratingCount": 2909,
+      "website": "http://www.abbayedecernay.com/?y_source=1_MjgxNDAzMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+      "photoRef": "places/ChIJ7Wua8ewp5EcR3dO9B6qqHKk/photos/AcnlKN2Uzh1PMr2a3nUeMZsDtXqVTeqGVYq5k2jiJJXltCG1zX97lGM-OW7BbEcmgU0qLrK_oKei8rhVqVuVZOijHnCIAxz-_1qJOAoK7j35TUW5zNlJWo4rCxQ3OPdg08Y8yOS6wO4TvPNfCwGBRgNO6nSpEejvGTbW9K901ghYdL8oVnJcDa1SK_clXtyczQjBtMGmuNfkjrz6nriU8KqwbmiNCT7q2ouiIKgIVCP1C3Qq9p6ajQs_f_fPU25ss7EsapoeZ47ax2O2znWjjst9Tpit4rSb1RL_bKu0A5VrqpwB5w",
+      "photoAttribution": "Abbaye des Vaux-de-Cernay",
+      "tags": [
+        "Romantic",
+        "Cultural & Historical",
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "phone": "01 42 80 76 76"
+    },
+    {
+      "name": "La Reserve Paris",
+      "desc": "Sophisticated Parisian luxury boutique hotel, sophisticated elegance",
+      "longDesc": "An intimate luxury boutique hotel in Paris renowned for its refined aesthetic, personalized service, and distinguished reputation among sophisticated travelers.",
+      "coord": [
+        48.8697628,
+        2.3132848
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8133551870418437937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJA1PHDM9v5kcRMUeBLlUu4HA",
+      "address": "42 Av. Gabriel, 75008 Paris, France",
+      "rating": 4.8,
+      "ratingCount": 1230,
+      "website": "http://www.lareserve-paris.com/en/?utm_source=google&utm_medium=local&utm_campaign=la-reserve-paris",
+      "photoRef": "places/ChIJA1PHDM9v5kcRMUeBLlUu4HA/photos/AcnlKN1GduieLpTGB03y5BOGcuU4K_CmEV5ci7wdtkPgw162Tn7RLA7-Q7GYzvHHM5eIRojsAZX_yD3FrohmH8yDYxQ_cSD8UGnY4Qm83Lncowcr5_FE1MWm3adPh0sHrPbRQQ7bYEYNBcF5wdM_Hy1L06PhscNPHfHxqv3mpjIYl3G9zkZqinRLerpER4VJPYFNQlWE-nwODPrXTs4-S1zneOqpxEFqr7CsfPntkopfGfxBE2ytPoNtpVWAvbBFGbpnF5ta7ZNFOzS8TOum17MFTrgd7J5tW106WBEBOVbz7G3fLw",
+      "photoAttribution": "La Réserve Paris - Hotel and Spa",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "01 58 36 60 60"
+    },
+    {
+      "name": "Les Bassans",
+      "desc": "Rugged coastal manor on Côte de Granit Rose, secluded French escape, dramatic granite cliffs",
+      "longDesc": "A hidden gem manor situated on Brittany's dramatic pink granite coastline, offering an exclusive and atmospheric retreat away from typical tourist paths.",
+      "coord": [
+        48.8198429,
+        -3.4363034999999997
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8018614026695585808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJxbro7RkuEkgRELAnDPnWR28",
+      "address": "67 Chem. de la Messe, 22700 Perros-Guirec, France",
+      "rating": 4.6,
+      "ratingCount": 454,
+      "website": "https://les-bassans.com/",
+      "photoRef": "places/ChIJxbro7RkuEkgRELAnDPnWR28/photos/AcnlKN0i_WkxvCOE2ItsXKPqDYChSF3TmSQx0Dng8ovsNVOoBOwgl6iP4UJDEK94rPdcuO3aqBQn2xFFL95VNboT6kGrYcAKAVWA5zxP8doKr9ZhS_y-cMgXu1DPgmLELt_DfQiN8HOY0-qAsfy6qaXTDgogHLMQfJRxpK2zK3Ur4GHVZbbjXmb4-WL7QY-5A4DrBg9GV9f579Gs0lkc6td1WLTuvcWB4O7RfrG0I0xWsAe7PTmF5jTluThvm2LBjyGNoSae1_WNm90NQTd14hmDPuFd3ukQGWzZb1EnDJgq4K2DOw",
+      "photoAttribution": "Les Bassans",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "phone": "02 96 23 25 42"
+    },
+    {
+      "name": "La Taurene",
+      "desc": "Elegant Provençal villa featuring an exceptional swimming pool",
+      "longDesc": "A charming Provence villa offering an enchanting pool experience surrounded by the picturesque landscapes and rustic elegance of southern France.",
+      "coord": [
+        43.8049886,
+        6.8453303
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9342379844998829008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ7YGIH_A7zBIR0JPskfjMpoE",
+      "address": "2651 Rte des Châteaux, 06750 Andon, France",
+      "rating": 4.7,
+      "ratingCount": 2154,
+      "website": "https://www.reserve-biologique.com/",
+      "photoRef": "places/ChIJ7YGIH_A7zBIR0JPskfjMpoE/photos/AcnlKN1H_zdAeRMKTwRzggIc3rUFSZ4diuUjVLaEZ3Y2knu8soaPlLtIvIluE_BrzIkRbKMpevrq1h-P-MYSVYRw1eMzplIZU-lK09pBCFXmTVteIsnXCxeARXiezHbLzriSit-xtQQqvQuoWEXFhBz7JzFMeexRX846Li5JJsNT32wUJlPDKZs8abAEi3dazJfgEJo3TQ7aQFNTLumhbxOzxseIrEv-99lPd1XBGw3AVxrKq4Ds1KWznCIDTxvLna5sngcwOesjOqka9k4zaQUsXCxJurigTgantQQ_3HtskNrrYQ",
+      "photoAttribution": "Réserve des Monts d'Azur",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "phone": "04 93 60 00 78"
+    },
+    {
+      "name": "Domaine De La Cavalier",
+      "desc": "Grand Provençal estate with stunning pool and country charm",
+      "longDesc": "A magnificent Provence estate offering an exceptional pool experience amidst the serene beauty and timeless elegance of the French countryside.",
+      "coord": [
+        43.3977084,
+        6.4154871
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18369038118715577680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJj234AEmzzhIRUNWme9ju6_4",
+      "address": "1265 Chem. de Marafiance, 83550 Vidauban, France",
+      "rating": 4.1,
+      "ratingCount": 17,
+      "website": "http://www.chateau-cavalier.com/",
+      "photoRef": "places/ChIJj234AEmzzhIRUNWme9ju6_4/photos/AcnlKN3EglHF3F_GKq_DuF21Tm0prGeWFuAB2ILlLiFyo4jYZx4tihD0CKD6JrUXBbaBXiytsdwlNzKHqzgCnsNBY5C3zMjBKq-VMcsKBdy1TS3WF5XQPP_qG1q0pkSwX88u0p-r5KZ5AmjGA8h71wk7RpVLXaU9QNG5PC8edi_o9c35afaymV4NGMTFGVJvlrBI1O8V5lYQGpQ1g8WHz8_vDHJxsLy-QzYLfSJaQdR52QmQqCyPH5kcrxv9yKX2lOCIBKHP2OVcWS0SUs5l8Cz9g-Ozit_rR6KXy2tKMF6hqtUO0g",
+      "photoAttribution": "Château Cavalier",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "phone": "04 94 73 56 73"
+    },
+    {
+      "name": "Byblos Saint-Tropez",
+      "desc": "Iconic French Riviera hotel, artistic design, curated elegance",
+      "longDesc": "A storied Saint-Tropez institution where design aesthetics meet Mediterranean allure, providing discerning travelers with an atmosphere infused with artistic vision and Provençal sophistication.",
+      "coord": [
+        43.270325799999995,
+        6.644041499999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13670730781837684429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJva0ApD_HzhIRze5uJzcxuL0",
+      "address": "20 Av. Paul Signac, 83990 Saint-Tropez, France",
+      "rating": 4.6,
+      "ratingCount": 566,
+      "website": "https://www.byblos.com/",
+      "photoRef": "places/ChIJva0ApD_HzhIRze5uJzcxuL0/photos/AcnlKN1xmGj8y80hSJ1-ltwBwlkqhn_2iLPPYidhQ761R1UI8JDELti-NFaqK5jZw8cP--lqYq9PbZ2JBAj6XUVnRLHLTov3SS3ZjWhn4cG0lEtSt0VKNnTNevDcOoitEpSxjIaKTKiloEPwPwqsTOH2OGlc0cr4hPC_DW4-s2MVXZGxOePyv735xGSJ-aNQiTvA22eVR5E8tfQ5fNSDht9jVMXwJ8jVDAQ6etKv-BdRx0yMdIKQHDn9F6AHQlnhy8CPg5ovuSTVjlPRw0g1z5al6FPCZIyyg_bRHbyBDEN8RXNjgg",
+      "photoAttribution": "Hôtel BYBLOS Saint-Tropez",
+      "tags": [
+        "Art & Design",
+        "Splurge",
+        "Romantic"
+      ],
+      "phone": "04 94 56 68 00"
+    },
+    {
+      "name": "Hotel Amour Paris",
+      "desc": "Parisian boutique hotel, artistic design, authentic storytelling",
+      "longDesc": "A Parisian treasure where thoughtful design and artistic curation create intimate spaces that whisper stories of creativity and romantic allure to every guest.",
+      "coord": [
+        48.879633399999996,
+        2.3393971
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12247876389012000680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJPebtwUZu5kcRqE_0C68y-ak",
+      "address": "8 Rue de Navarin, 75009 Paris, France",
+      "rating": 4,
+      "ratingCount": 998,
+      "website": "http://www.hotelamourparis.fr/",
+      "photoRef": "places/ChIJPebtwUZu5kcRqE_0C68y-ak/photos/AcnlKN2rWftoLZmj_wYESoKFVUdvt79tOypBge9PAFDXuE7_5A8ERRyBmkhuKA4vqrei9muz8oIsf2TGADjf-t6SRcrJJ0BYArZvAAUpZMzw9PmR_DLov-OgnzwbJYC8lq2-2LiA19nrd3Mkb5o0NPyH56jBAXta7bVylWMi19pWqFx84g4Ijvtxlyxdnjqlvx2EWw7czI6nznXOWEad-NEoPSDUkX7F7Yt5RWWiFjN5u6-4ZwLev4ZOygwVO7aSd8iG6MjBdFb_lL7Ds2bvSgkspjMsssIcb0fXbaRXcH4IVB303Q",
+      "photoAttribution": "Hôtel Amour",
+      "tags": [
+        "Art & Design",
+        "Splurge",
+        "Romantic"
+      ],
+      "phone": "01 48 78 31 80"
+    },
+    {
+      "name": "Hotel Balzac Paris",
+      "desc": "Luxury Parisian hotel, wellness amenities, superlative sauna experience",
+      "longDesc": "An elegant Paris luxury hotel offering exceptional wellness facilities including a renowned sauna, combining classic Parisian sophistication with modern wellness travel.",
+      "coord": [
+        48.8732946,
+        2.300488
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3162092439011318870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJn82-Depv5kcRVtw33lEC4is",
+      "address": "6 Rue Balzac, 75008 Paris, France",
+      "rating": 4.3,
+      "ratingCount": 512,
+      "website": "http://www.hotelbalzac.paris/",
+      "photoRef": "places/ChIJn82-Depv5kcRVtw33lEC4is/photos/AcnlKN3JDR6ZLMQ3ksX_sm0OsUDw8WDWNVE8dBqIRj_25axIqQlYnkRN03lg8lsOG3YQVXXq48sNkUxTUKfvl0CHfHrFhW4LOJUPhao_lziWgvuPVrHtt4kofNrDNpvVzvM58HCYlVuIqj9RG-R-nhBHLH-cokrReKVcz5eBeA4sDRu1wocDbrXEeSmMMbYziiO2xQ7jt-RsUgzBnzAzavZ4F502n3Os-hjycwkIXZhMkxNLP7tnHfqqhtjh55W_KmW9ktxIGg4Tgsv8GsGGEReLQOmlvBysf9snQ4YIMzSJRRxCeg",
+      "photoAttribution": "Hôtel Balzac",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "01 44 35 18 00"
+    },
+    {
+      "name": "Nice Historic Hideaways",
+      "desc": "Historic hideaways in Nice, embodying French Riviera charm and leisure",
+      "longDesc": "Charming historic properties in Nice blend timeless elegance with Côte d'Azur sophistication, perfect for culturally-minded travelers seeking refined relaxation.",
+      "coord": [
+        43.6953004,
+        7.263005899999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7555783765748322305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJIdtTwwrQzRIRAZAXfU2J22g",
+      "address": "13 Prom. des Anglais, 06000 Nice, France",
+      "rating": 4.5,
+      "ratingCount": 3220,
+      "website": "https://www.hyatt.com/hyatt-regency/en-US/ncehr-hyatt-regency-nice-palais-de-la-mediterranee?src=corp_lclb_google_seo_ncehr&utm_source=google&utm_medium=organic&utm_campaign=lmr",
+      "photoRef": "places/ChIJIdtTwwrQzRIRAZAXfU2J22g/photos/AcnlKN0WfqRBdPlHBQ9SHhK9zYoPsow7k7y9E6oPjdSTNk-lQRmlX9LeY1-wjrgICdcBrwRRZ1qutA6ycChjc_52QxEtjxK_SMB5Ds61TiTxaMvmLWQ84zMDw2BWBcCUu7ydWHg8uGYDcpu5ejPErcJrQBY27ikqIYR8rE_HHinRU3P8LQFQFaZ5cIoPcIqzkHdCtkjLq1AzYdVj02yVdzCi9ZP-eTMLJ4NPZDrBLCz1tgmPxvAEWgFNhmekoNURYN0agqNuH0vGsnqT4Avfwb6vN2YwQ4b1eeNewkYAMVJLFdKy7A",
+      "photoAttribution": "Hyatt Regency Nice Palais de la Méditerranée",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Cultural & Historical"
+      ],
+      "phone": "04 93 27 12 34"
+    },
+    {
+      "name": "L'Hôtel du Couvent, a Luxury Collection Hotel",
+      "desc": "Luxury Collection hotel, Condé Nast Hot List winner, French Riviera elegance",
+      "longDesc": "Prestigious Luxury Collection property on the French Riviera, celebrated for refined sophistication and honored among Condé Nast's best new hotels.",
+      "coord": [
+        43.6971767,
+        7.278835599999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2036539807090919163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJfUqOdgXPzRIR-8aYHCo-Qxw",
+      "address": "1 Rue Honoré Ugo, 06300 Nice, France",
+      "rating": 4.4,
+      "ratingCount": 494,
+      "website": "https://www.marriott.com/en-us/hotels/ncehc-hotel-du-couvent-a-luxury-collection-hotel-nice-france/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJfUqOdgXPzRIR-8aYHCo-Qxw/photos/AcnlKN3CF4j87CpGz-BPfsl3cQGdz-MKdpJfRRh9CuSdK8qHx2BSgiDVBhKTRW9oIDDbdb0Zp0oo5lmhA5dPdAhT3b8TNiBXtzy0cclf0E-ojQ2wlrM3HroR-VSkIXQHib9J-6g1Ykd10U7rGPp3J79YdJMJOZd7yFEy_KduSMCJlIObp5n0RyTvEYIo4sPN_Cel5JBNvPN0XDcsFx2OTpGSJEJBeWIyZH_rJvc65uo3FL6IYPBbVFPXivOkr5JpSH-gHpNaQgVHu4pKrROpL0NL3AdPHpjxc9cLlNxmShZoOPoiRg",
+      "photoAttribution": "Hôtel du Couvent, a Luxury Collection Hotel, Nice, France",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Cultural & Historical",
+        "Photography Worthy"
+      ],
+      "phone": "04 12 05 55 60"
+    },
+    {
+      "name": "Hôtel Villa Miraé",
+      "desc": "French Riviera villa, Mediterranean luxury, Côte d'Azur elegance, refined sophistication",
+      "longDesc": "A luxurious villa hotel in Antibes on the French Riviera, featuring Mediterranean charm and refined elegance for discerning summer travelers.",
+      "coord": [
+        43.5547227,
+        7.1336609
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18081979036835474268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJneSMqXF_zhIRXGujriEY8Po",
+      "address": "770 Chem. de la Garoupe, 06160 Antibes, France",
+      "rating": 4.9,
+      "ratingCount": 37,
+      "website": "https://www.villamirae-capantibes.com/",
+      "photoRef": "places/ChIJneSMqXF_zhIRXGujriEY8Po/photos/AcnlKN0CmVrPFKs33SMOF1cAJbdyZ_DlTAsxIfkbKXDuR8DaNib7jbOqZtj08Jz73e6y3jHAzBqMppE41EoCeqlMgr9sF_QvsAKOQzbgW_24qgUoQWuieeWuKH14su7769IN167goEgMROXbgP4EjO-HNoq8nw_7XiXW3A5RhFCqhriZZVnsi227RgK1AiyG5wK5XpZVsDrnbiK3GYp3kdXnBVJPFjJNxV6AN7kmFlAlCTUzx4CL3D-7LthwwlQDGRyV79PgbsHwZGne5ZgBL_Q2KpdIBJU6F7Msz5zwg_NfdJiPYg",
+      "photoAttribution": "Villa Miraé by Inwood Hotels - Cap d’Antibes",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "phone": "04 92 93 31 61"
+    },
+    {
+      "name": "The Brando",
+      "desc": "Eco-luxury island escape on private Polynesian atoll, sustainable five-star luxury",
+      "longDesc": "An exclusive eco-conscious luxury resort on a pristine private atoll, combining environmental stewardship with sophisticated island-getaway experiences and uncompromising comfort.",
+      "coord": [
+        -17.0227819,
+        -149.5959077
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5967887006355655398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJUWiPJxOnkHYR5op_8Zwx0lI",
+      "address": "Arue 98702, French Polynesia",
+      "rating": 4.7,
+      "ratingCount": 248,
+      "website": "http://www.thebrando.com/",
+      "photoRef": "places/ChIJUWiPJxOnkHYR5op_8Zwx0lI/photos/AcnlKN0zh6FBx7is0d2wV68bfYHwAHFQoy9fZuiXWNW3A1MAV70C8MKa4Pdt51JkNk1bsl2wAuxEeRODxMKZe7BSUaIZW-Qh-BA9aGtVGIenUxYFcgAKw7eGy51gvVG6Ub_bMB19yP9U3GwMpxFp-iKWZ_OZ71GJKPW5rS7r4CkGH9nm0TTEai8YNBmpcpcn370_XOyvIlMbBjfjsB4tCNOx-iY9VrtU8aK7b6x7LZJmQjTAWYiGrD5EVpB26NWTFNM1B80iWD0W101pTEX8KaRrziCj-lqvGc-QausgGF0Hz9guXQ",
+      "photoAttribution": "The Brando",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 12:00 – 11:59 AM",
+        "Tuesday: 12:00 – 11:59 AM",
+        "Wednesday: 12:00 – 11:59 AM",
+        "Thursday: 12:00 – 11:59 AM",
+        "Friday: 12:00 – 11:59 AM",
+        "Saturday: 12:00 – 11:59 AM",
+        "Sunday: 12:00 – 11:59 AM"
+      ],
+      "phone": "40 86 63 00"
+    },
+    {
+      "name": "Hôtel Restaurant Clos des Sens",
+      "desc": "Luxury hotel, fine dining restaurant, alpine lakeside setting, gastronomic excellence",
+      "longDesc": "An exquisite luxury hotel with an acclaimed fine dining restaurant overlooking Annecy's pristine lake and snow-dusted Alpine surroundings.",
+      "coord": [
+        45.9178663,
+        6.1444746
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10840563891621858147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJqWNssZePi0cRYwsMdWxrcZY",
+      "address": "13 Rue Jean Mermoz, 74940 Annecy, France",
+      "rating": 4.7,
+      "ratingCount": 982,
+      "website": "https://closdessens.com/",
+      "photoRef": "places/ChIJqWNssZePi0cRYwsMdWxrcZY/photos/AcnlKN0uFXLC73J55CtiZNGd92Sy4JbhP-fjA7Y4rmbepcO0tFsTK0DDV9U45lomuZ6PU4TSEdQ5CX9351E6LbpWMv2D4YP20qXVdSsxsE7ojuoRceI2RtAfcRHIKkV8MHtfTdh4VXXAOg8q_DLq34MtqJBeRGVeifKhvihF7mCEyCw8nMTKr1rcbtZWRAYDemtDD1nlEkt8an1BsdfO_KHF6ELseAH5jt-DJH7niy2j4XBBHo9Z01OhOckeLIUCTi7IsMPlz0IXGOFeU20cTk-DmEo18nSsQf4pR3RKtbqtDYWQ4A",
+      "photoAttribution": "Le Clos des Sens",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Romantic"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "phone": "04 50 23 07 90"
     }
   ],
   "restaurants": [
@@ -3975,6 +4683,82 @@
         "Saturday: 12:00 – 2:00 PM, 7:30 – 11:00 PM",
         "Sunday: Closed"
       ]
+    },
+    {
+      "name": "La Plage Blanche",
+      "desc": "Gant-branded beach club, French Riviera location, upscale coastal dining, designer partnership",
+      "longDesc": "An exclusive French Riviera beach club featuring a Gant takeover, offering sophisticated dining with Mediterranean views.",
+      "coord": [
+        43.5082242,
+        6.940461399999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18087864486429118938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJcyK3dl6DzhIR2tECs-oABfs",
+      "address": "Prom. de la Darse, 06590 Théoule-sur-Mer, France",
+      "rating": 4.1,
+      "ratingCount": 754,
+      "website": "https://chateau-de-theoule.com/fr/page/la-plage-blanche.29634.html",
+      "photoRef": "places/ChIJcyK3dl6DzhIR2tECs-oABfs/photos/AcnlKN1K-UliuLuny3cMjIJZhg-DzpsCRvj8t1FkXR81V1rxS_JhyhP2HZX4AV8IHPC_uETlHoWMc73xPj_Mr94XnLksSEAWEOEwjfEkhTDLuTdXFH6-ggS1ANQ3DGvktcS79aC4LjRRAx3wJy1zni9tsG_wDfHLPkjHmJLBFrvmcwxxAcSR9rybTmv5095V5kEg5AZek4i7faXpF01un5GvpDa5oZORiUkngWfIUpfWuyC2AVccMc90rZe9j-Hf9wFGyTPdUSTyYcNpABBMQZ-LAWKwTvenp4RWekLKpRgZVPTHfQ",
+      "photoAttribution": "La Plage Blanche",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Fine Dining",
+        "Romantic"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "phone": "04 81 09 50 98"
+    },
+    {
+      "name": "La Guérite",
+      "desc": "Iconic French Riviera beach club with storied elegance and Mediterranean charm",
+      "longDesc": "A legendary Saint-Tropez institution where the glamorous and fashionable gather for Mediterranean cuisine against backdrop of azure waters.",
+      "coord": [
+        43.271392999999996,
+        6.6389321
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15691068496318246431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJCzqKOGXHzhIRHy5fnanfwdk",
+      "address": "25 Quai Suffren, 83990 Saint-Tropez, France",
+      "rating": 3.2,
+      "ratingCount": 68,
+      "website": "http://www.restaurantlaguerite.com/",
+      "photoRef": "places/ChIJCzqKOGXHzhIRHy5fnanfwdk/photos/AcnlKN0Eth0BvZx9VclPvbLkF3Kqz1kF30FOX9L7DFzXcOAInqms6kkCrthIr2ntl6_8N3Sis_83FfALxe-Yuq-aUpudQjBs_5GjLYS9N81CFOx6nqxyaWRsGbIr6CM0eHepdh-pIcZx0JoyEx9txPxbLc8nF7BbIKlDM0xWVE6ddIrzgAi_WE9TUPPmsadw6U8SFT_Zd2qQdxkYNsOvPt_5tMcBDpOiB9PGJmJBgkv_lI9bgWmYuiWr-IsBlfhMRua-JH8exFAAz683DGSpAsymVDvaHRTsHy9wK4K8t_Nz6qSCqTa28d_h0P30mX53PvzskinJsttM4Tnj0eW6xqsbiT9NmieDBuxKleD3uShsf8d9S17-GPgXW3Bh-SfCtTJNDmgwS099SWf5Oj4y3OoipZg3YBEOPDzOFq2PlJ2fx8oC8lgW",
+      "photoAttribution": "Jean Ed",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "phone": "04 94 97 00 56"
+    },
+    {
+      "name": "Le Club 55",
+      "desc": "Legendary French Riviera beach club where movie stars and stylish crowds dine",
+      "longDesc": "An iconic Saint-Tropez institution synonymous with Mediterranean glamour, where the sophisticated elite gather for timeless coastal elegance and fine dining.",
+      "coord": [
+        43.2275238,
+        6.661304299999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10232036951813607025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJe-wZgLPGzhIRcU6FYWV__40",
+      "address": "43 Bd Patch, 83350 Ramatuelle, France",
+      "rating": 4.1,
+      "ratingCount": 2214,
+      "website": "https://www.club55.fr/",
+      "photoRef": "places/ChIJe-wZgLPGzhIRcU6FYWV__40/photos/AcnlKN2Iqzfji4AwQZHaWK_9cyJ6Jz9TEsJ16NUCBJ4rfsOndaEBEAeAZ0KaPzukKJfHccW2M7SMFik08YRUwBkNrAiGcuOfA8-FJb-_CF80mPTGFTuvfGKt-beT-ghbDYsJH84rIY-ytz-X4lasIb2adJyOQaZcdzYUXA0g-K21zHNz2XTlWoUkiAQvcpfW7pzI14abk85lBQZ_zH2YCt0BHuA3wuPx7jrEHp9Qc9x0j_rYf6OFVPXjcoV70SmHxQBbK199lKPc44MUZD461z91K0F2XZ8X8WUKDFCaaKbpQt6-nDzgcfdiP0sYlmf-Qmho3GEeewS5tobCaDLvgAl44JrUsn6VZlwsszS9LmiIYUDTO_WFqaaKVxDsaGDPQh1IzRogmJr7eCdKED_rwP8q9MZctGJytQEKkVe4Z-MljeyV7A",
+      "photoAttribution": "Tanja Petry",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "phone": "04 94 55 55 55"
     }
   ],
   "experiences": [
@@ -5851,6 +6635,125 @@
       "ratingCount": 261,
       "photoRef": "places/ChIJ1bX9S5rJlkcRnf6Lr8gGVS8/photos/AcnlKN2ar1iP3ZlI8HHA5iRaWld5RJgJkLbQVQpyTLAYyUPyFkF9CIEQN6c9rG5xAI25LDxNDBC5tfsVI7PNK1z_ZF0fsjMDYMytEPzXAxKVta8idfa2e-_k_pNJpVCMLkhuDYVRAy3fr_z7xuT2u8Gzshm-PtWeOxjaQZeO8eVExGP4F17Qgx_Umyl8Gu58Sm2VdGzwKxkmOxw0Pn2wB7gyDIOJ6280790TxVGsiiLGtTXo1AYQi6AAjNu5L76AkX5VH8sE5xF2Gbf7SBBr1-KRmSJQzW1KYdqN0ESUFdGSVEEuG7r2Foq7srm21S_8Jx9NN8RLLSTnA8EmtV3Rg4-8MwCvVRCnFRGNRG2lgqm3wTEDXCDKA_u01DRoHGPTpBHmys143HlCJQUb7rBtNZ-98QkA_HxRR2NYEpgapAPIppHw27fu",
       "photoAttribution": "Alin Bejenaru"
+    },
+    {
+      "name": "Lac d'Annecy",
+      "desc": "Crystal clear alpine lake, mountain scenery, swimming and leisure",
+      "longDesc": "One of Europe's most pristine alpine lakes, renowned for exceptionally clear waters and stunning mountain backdrops perfect for swimming and relaxation.",
+      "coord": [
+        45.8615248,
+        6.167323199999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12382001715460163691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJh0c2UTKQi0cRa8hHIvW01as",
+      "address": "Lake Annecy, France",
+      "rating": 4.8,
+      "ratingCount": 4404,
+      "website": "",
+      "photoRef": "places/ChIJh0c2UTKQi0cRa8hHIvW01as/photos/AcnlKN2OzD7IiDK1tn2KHQHGneLHUdzG-t9Ypm7wB_kIPMI9Qj9zGwjRe12x7mRs0qzRBEyFXSMQ-712-PYgy2ap8BCaexQYlpHSlz3nYONX3-aCYFzoO8FUkYyvaCVJePt0Z4w3YSpFU2pB7vukPnMgMjIyLk5sQjgkMQi3Trr6FFIPhGj6LcFMBAGPJQzeLigzOa5gfeWccoD6LANqoc5EtKsNVMkCHtrlQYYBRO4OwMUNUUHWvr3lequSfh0eq_KqUv7Z5gory9n-ZIGicLSg8huyrL1tpNrUcdtkyLpt3ypR5EiFh54AsAu_pVEC1_rU9jDI7B2SKlM4sEAmfWdybzlccIvRAzMmtIiI9faNOVCInnwpLugmfY7qgT2s3CxMILCu2Cp-vxNMM9qEFPy-bH5w0l-IjQhzuWbEpD9pO8H0EYMb-Hb3nGVKv9SwfiV2",
+      "photoAttribution": "kimozec",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Family Friendly"
+      ]
+    },
+    {
+      "name": "Paris",
+      "desc": "The City of Light, a perennial travel favorite for romance and culture",
+      "longDesc": "France's iconic capital known for world-class art, cuisine, and romantic ambiance. A destination visited repeatedly by seasoned travelers.",
+      "coord": [
+        48.857547499999995,
+        2.3513764999999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=291470376679806048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJD7fiBh9u5kcRYJSMaMOCCwQ",
+      "address": "Paris, France",
+      "website": "http://www.paris.fr/",
+      "photoRef": "places/ChIJD7fiBh9u5kcRYJSMaMOCCwQ/photos/AcnlKN1tQSwpar0rb6HJuKWm1x-jg1JAK-Bo7No7Y91STW-S5aTgmoBPrBszz_WU1DLXNfzpB9sk5gBu_D-Pa1blbrd9PTuadcxPnw1Ue4Gb3TNwIvQa00qLtPG68xFmchJV_nkttc9JR5rLErh987G-G8e7XY8SuKnPWTvivKPzKlwkw23onOyBpQQm-UjihqYhDEvI4ZkQr5wjr7H43ifpa-uxfhymu9FXUbzlYcgDUcGFu2m6EHie0bqEVeTRUAd7ek7KaKSifP96aVoxDSwZP1_5hn3pF9fM8s37m9vqvVpwgCinqUBgIGelu7hndBq3QofwL9zHw4Xs64Kd0Tsntav1Tgjaeb37B5m4-1eDFdEPKV41XbGVXHEVcsrybo38St8ESUtc4znBpc3XMPM83UklDxD4-3pnrRewfOwV8ikFvQ",
+      "photoAttribution": "Laas",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Fine Dining",
+        "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "Bon Secours Beach",
+      "desc": "Tidal beach in Saint-Malo, natural ocean swimming experience",
+      "longDesc": "Located in the charming walled town of Saint-Malo, Bon Secours Beach offers tidal swimming in the Atlantic. This Breton gem combines dramatic coastline scenery with refreshing ocean pool bathing.",
+      "coord": [
+        48.648669399999996,
+        -2.0292054
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15813614329740994493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJP83CqhuBDkgRvSc943I-dds",
+      "address": "Plage de Bon-Secours, 4 Rue de la Crosse, 35400 Saint-Malo, France",
+      "rating": 4.6,
+      "ratingCount": 1373,
+      "website": "https://www.saint-malo-tourisme.com/decouvrir/la-nature/les-plages/plage-de-bon-secours-1829325",
+      "photoRef": "places/ChIJP83CqhuBDkgRvSc943I-dds/photos/AcnlKN2PYvIMJ3gcufXmSdTt1VDf-NFLwosJE2A-SfuBsyi79gifU2hPUNDUdnk6YDGKFO9xbaWFnSSH0mw_tmo2QnAMmNsCCLajeScqRtKiPR7kyB9Ir7SwfJfbzytSsKZl2tiXviWPnkRkkiJM67xCRGvnffdzgAs23EcCwF_qw8enrEwfTfFnVRTelMoSczWLk15eKgu9-mQWIcB_uleh3Yr-1fOGrS2L0FORqjOjaIhfZSzdYwmi23ZCkvFSPPMqfFnhisaW58AcKGGHCnZ1NW1F3A27uXggJW_YGbc3x_Sj8G4g6-tphGfUD-NQoYJcoqCZ4Imta6FuNjC0iiAT3JGrTSiHoHuEbytn1WmoEbNdl_ptNTZfRn4fHR4T5B5eoUTaTJsgbwt8bNpQVsd-vCZu6Jk8s-9mqVKsmve1pUgwO08",
+      "photoAttribution": "Yoann B",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "phone": "0 825 13 52 00"
+    },
+    {
+      "name": "Annecy",
+      "desc": "Alpine lakeside city, scenic canals, snow-capped mountain views, picturesque charm",
+      "longDesc": "Discover Annecy's enchanting canals, pristine alpine lake, and surrounding snow-dusted peaks that earn it the romantic epithet 'Venice of the Alps.'",
+      "coord": [
+        45.899246999999995,
+        6.129384
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4789602948659623098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJyVEFHPqPi0cRujQFYoEWeEI",
+      "address": "Annecy, France",
+      "website": "http://www.annecy.fr/",
+      "photoRef": "places/ChIJyVEFHPqPi0cRujQFYoEWeEI/photos/AcnlKN3aBrCWjxPO4BJ-ZbBUxXF8lI00VQJEt8bJDJOM4riwt1pBgWZExmfiIemil990Pdi5STKkxyo4yYsMIKNTcp3QOA6eV34G_rbp3ZIdoyyk7lEN6NPi_tM2wtwCsWQQpy-7T3ccPmuV7m5m0_9wy_cKfqfALHUsjLMQu58EuaT0HLCRQUGJSB5OiDg3MVt_kiaLyZcu0SbeT4NQDQqlJB7m3sKNtkh2WeFu3Ycjg7nOesUUYU6icLVSyOjjiMhSfPY6LPvShAkgt3VMokwdD8AHBjgriTi460QLk9x0_n2AgDtsgcyFH1lYEMqkKcty3YegA03VwSdw7q91ieUzrgLG3wtsECS3TEDWofPrz2vwUKLFjUMoTZ9fV0Zlk2aEHJ9fn6yUwXAwOXqSSz8yiMF1drTzHgiRUIMStQZV9AwXCRJx",
+      "photoAttribution": "Franco Grieco",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Luxury Land Cruise Trains - France",
+      "desc": "Five-star luxury train journeys, scenic French routes, hotel-style amenities",
+      "longDesc": "New luxury land cruise trains are launching in France in 2025, offering five-star hotel-style accommodation and unforgettable rail experiences.",
+      "coord": [
+        48.8470654,
+        2.3674546
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15375395551455259579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ___7RQly5kcRu6ucrcpgYNU",
+      "address": "8 Bd de la Bastille, 75012 Paris, France",
+      "rating": 4.9,
+      "ratingCount": 117,
+      "website": "http://www.discoverytrains.net/",
+      "photoRef": "places/ChIJ___7RQly5kcRu6ucrcpgYNU/photos/AcnlKN1fPBmISC1TsKnCRKqMZFXVkkM79mLc5KFmdZsxs9j0-ZJNRqoKdeDrrdBwRIazWSj55Bx_Du9ibmDgxGRUs_g21567i-x_1EsW4Ohc4FYuk7Be5Iw_tF39nb7BsERENiyrKyTob3T7X9B-bIxWDG6h5mRIl8hzy4ijq7dlrle74HBXnDX9ps_Qt7h716NdvgaWr20323xu_t9DiIiprs0InNJzzs2_7YBNWq2gp71PDG-9JApuiHHP3O6V3UGnR5o6sShTp-7V0-2SYMEn24rsztuS5K_VWiYV2bhKH6zKGg",
+      "photoAttribution": "Discovery Trains",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "01 82 83 09 24"
     }
   ],
   "kidFriendly": [
@@ -7680,6 +8583,46 @@
         "Friday: 8:30 AM – 7:00 PM",
         "Saturday: 8:30 AM – 7:00 PM",
         "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Epoisse",
+      "desc": "Historic cheese producer, artisanal heritage, patient craftsmanship",
+      "longDesc": "A legendary French cheese shop steeped in over 160 years of tradition, still crafting bold, aromatic cheese using time-honored methods that honor land and milk.",
+      "coord": [
+        47.506161999999996,
+        4.174018
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12863727513891577461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ_V5YAZf87UcRdR7t2AQkhbI",
+      "address": "21460 Époisses, France",
+      "website": "",
+      "photoRef": "places/ChIJ_V5YAZf87UcRdR7t2AQkhbI/photos/AcnlKN3eAxEbxIw_5dC2f7W1wM-gGrVaqAv-NoM1iEVbLUJ8OZ1A6GT6hxFWzwDXdc223d6TrPdiFm5yuviPYca2NOvLCleEmHBLN54idF9wQQ-eLyFzHOamBJb4xYAGO7DTP0kLTG7dELJcC3TrEfLNehxLySDq_2X8IXwoJtY97rYCJE_8DtEe2SHGUDuiqfyPkHMsEsWvIc7YgSzdcuHHM5IgtIiPtKiX9mViMBZcxJQNS0UX28a7uo63xoGfDPKIzqDKq666OEQAqpWUmLgNlJb3UqpOptUdVV9RZo0Ki4kHTIwvgtILZRs0gMRgyYb2FHPTMCI7QCmkDd_al8AsEaIIumHWNFS6ll17B8QSq0woX0vFf_T-_pFN5GPu7UW-tvcasgM6XlLtMLbFARVG-vSFmibm5qvdOvXfTz7mD5cixSg6",
+      "photoAttribution": "Benoit Moritz",
+      "tags": [
+        "Cultural & Historical",
+        "Local Delicacies",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Langres",
+      "desc": "Traditional French cheese producer, creamy artisanal cheese, historic legacy",
+      "longDesc": "A storied French cheese maker near Époisses, preserving centuries of tradition through slow, patient production methods that celebrate local milk and terroir.",
+      "coord": [
+        47.86683,
+        5.334297
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10801866943713995024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJAZYjSvIj7UcREGkbK8Hw55U",
+      "address": "52200 Langres, France",
+      "website": "",
+      "photoRef": "places/ChIJAZYjSvIj7UcREGkbK8Hw55U/photos/AcnlKN1nWuSf8M2qXXJpda0Xkst0qkU5yPQdJTqlnQNFEz6SEjm6F710ljV_YYRLhwEwQ2r6wLc3kfiTR0oOrGbLxjOLKB96dmF073MtgJM_iHyPLB3LI1J865p6tVEkwLGat0u4eVGKnV908k7KnJhIm6X00mkSWHQ1tKV16b3J1kfUswc9M97Sz4mHAdknTDeqGK8TZ-aHjQX3Dyqrb0eZatFNMSvbnX4z8hMZ0YAeCgzcUN6CifniJO3hRJ9gzEaE5v6nGxx1o_vFjQNX-YBSyvLnF0ANwPK3674my1qQJp6HtoGBooQp0J-riAuVorVMj9xIgvCttVJnBAs_Lwa_lOOWwrFnAJYH2FyZZecOvGW8DP994fAzQMfYxho6_ALV0CrkgsQLNXk4wJ45sE2dM9c3fnuiVIJzTFrApS6-xtDvuw",
+      "photoAttribution": "Valentyn",
+      "tags": [
+        "Cultural & Historical",
+        "Local Delicacies",
+        "Photography Worthy"
       ]
     }
   ],

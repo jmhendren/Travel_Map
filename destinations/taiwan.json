@@ -6087,6 +6087,60 @@
         "Casual Eats",
         "Photography Worthy"
       ]
+    },
+    {
+      "name": "East Coast Highway",
+      "desc": "Epic coastal road with endless ocean views, perfect for road trips",
+      "longDesc": "A stunning scenic highway along Taiwan's eastern coast offering breathtaking ocean vistas and ideal conditions for memorable road trip adventures.",
+      "coord": [
+        23.0201614,
+        121.3245523
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14319223753061249440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ82el9vKgaDQRoDGNDCMauMY",
+      "address": "No. 25, Xincun Rd, Chenggong Township, Taitung County, Taiwan 96144",
+      "rating": 4.5,
+      "ratingCount": 14313,
+      "website": "https://www.eastcoast-nsa.gov.tw/zh-tw",
+      "photoRef": "places/ChIJ82el9vKgaDQRoDGNDCMauMY/photos/AcnlKN2Ra4S4U8qXeuJO75m-nYcewY5H_2famwd0jvRHL-_NEwmmHAGsjFrgy_n9KFvbVW-UwO2lrP8mYbhKt1FUcRCL8xlxul6pr46KGyvjqgZldHpBtA1m-0QzbraMvjaC3VQxUZJezKLvAz5vx1hDyy_n7oL0g-5faWscsjd7iZEKg-mrL7UUmKjYj83HBH-ZhI3-HO6HgFZU6mmcysKyaPEOwbfPtc2sdulaHHpXbkfQeWFyWO8FGUMHwqf8qx4YQEBEvlEzuMf_bCtG7HHz6p1KSUuZR1nYVAcAFzce8zyvd2WadVcnmcc2BGOm6GB0PbXTOOJ_nrm0mmo5t8JcE3qhuz9WDrUfjegiaQ0Zp8N8ncP_Sq03CLte_D5rNRRsfeTDwmoct8ccSOJ_A9fMGzFBMCMQV5FEGqnvLxN3lzvs0Qwo",
+      "photoAttribution": "黃耀東",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 5:00 PM",
+        "Sunday: 8:30 AM – 5:00 PM"
+      ],
+      "phone": "08 984 1520"
+    },
+    {
+      "name": "Hot Springs",
+      "desc": "Steaming natural hot springs offering therapeutic relaxation and wellness",
+      "longDesc": "Taiwan's renowned thermal hot springs provide rejuvenating natural experiences amid scenic mountain settings, perfect for unwinding and wellness.",
+      "coord": [
+        23.4966667,
+        121.34361109999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8345723581137921645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJa43KxQRGbzQRbaZTJ2H30XM",
+      "address": "Jui-Sui Mineral Spring, Wanrong Township, Hualien County, Taiwan 979",
+      "rating": 4.8,
+      "ratingCount": 9,
+      "website": "",
+      "photoRef": "places/ChIJa43KxQRGbzQRbaZTJ2H30XM/photos/AcnlKN1H25ZacYfBO6mzyL6pvhFiELZ3xPZy9XLNQ7r4Uq_D0syewRKw7K2-5U-NDAlbYVJocmJrUphjk0ZKXoM7mwjdZu0sv_mu_rxqp8h2P59XgqULgyc7yczixpvT8T2UE5U12hYRzJAYrKsRGwH4uUAVh_63DDb9J-Ep6zpPnVNUEdiDwXCdRUOmnnN1p7pUy9gECIhGUoQySQwBp1vpW7TmBqDi9kHZp4-JguriwwsQRm5FJzaulMbJCkOF5QubD7FV2i0yOtj5ujLQGa5KvjCc-VqZbdeOnmY0wEeJkWJjFlOY7yQv7G6leCSPwU8w6pnOdY95rf56dyafRXne4UiKLyz5OS3-H3TPnodBXLEK_Z3jGDRzyZw8QVcpaawdMI39l_wcx_RZOjJCDauzxIQy6gEwRV0offjedCpnS84",
+      "photoAttribution": "Janne Vanhemmens",
+      "tags": [
+        "Wellness & Spa",
+        "Romantic",
+        "Outdoor & Nature"
+      ]
     }
   ],
   "kidFriendly": [

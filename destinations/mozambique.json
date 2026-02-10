@@ -1,0 +1,50 @@
+{
+  "key": "mozambique",
+  "name": "Mozambique",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇲🇿",
+  "defaultCenter": [
+    -21.909,
+    35.446
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Kisawa",
+      "desc": "Luxury island sanctuary celebrating local design culture on 5km of pristine coastline",
+      "longDesc": "An island sanctuary on Benguerra Island maximizing privacy while showcasing rich design culture that celebrates local craftsmanship across five kilometers of pristine coastline.",
+      "coord": [
+        -21.9089541,
+        35.4459805
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6601506912414784692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ-wsAcM5bJh8RtNzEgI9DnVs",
+      "address": "Kisawa Sanctuary Benguerra Island Inhambane, 1304, Mozambique",
+      "rating": 4.6,
+      "ratingCount": 28,
+      "website": "http://kisawasanctuary.com/",
+      "photoRef": "places/ChIJ-wsAcM5bJh8RtNzEgI9DnVs/photos/AcnlKN1qUSzXWQCBqsrI15ixfM5F8jSEnnq8X9JfEuybvTi6HJZb1HagIEVzFbPPOGLrjMap001Yv3kOQGzU45eZu2iWJxSLnAJHx6mRVeFNkcUcLKOUiFGVP7TF36YQeNHQWN5U-kRMgNEbNAXSd2oCSNuDX0cWkersOz9tTbziA73YN8OvZgSGId4asXGQ9u76bnYqXvdOVBpHoNja8yGeF2TDrm4TOMic71pL7HaKzJ-EwWEdURVSVYIhloxp6GWMVz2t7UlZzY6_WwNRCoR610sTZgiFtdriw2IVHEd-K8dERQ",
+      "photoAttribution": "Kisawa Sanctuary",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Art & Design"
+      ],
+      "phone": "04 875 2323"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Benguerra Island": [
+      -21.909,
+      35.446,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -88,10 +88,316 @@
       "website": "http://www.yazzcollective.com/",
       "photoRef": "places/ChIJvXQCqBNFwBQReNjOkWx9w-Y/photos/AcnlKN0YzKr0Y_OOaE9UacBMNJmnJ2B4VlY4Cotd0LKUwrWwyb41dUsOR5vFBtty5XwnR_LWCfU1y0S-lBugwRs7UJAxGZ2lFMcU0uj4VKtZGnYhjHotXhP4-_ujkSoXs02zGujzOIlgLB_d7X0ac2P0DTZCHZe1QKK1v3ta4dfrQHJk7XjGNrcLshbptTHBXDTqpC5SwN_SUGAHknZfZ9PW7NOfcclkfW5FavwObTADdSIKR_Rsry3lnsAPN-odUpNkVVL529i2rfUi29cg-p0H-YhTIQIhVgPnxSv_eNwGq5Sb5Q",
       "photoAttribution": "Yazz Collective"
+    },
+    {
+      "name": "Macakizi Hotel",
+      "desc": "Luxury Mediterranean resort on Turkey's stunning Aegean coast",
+      "longDesc": "An exclusive Turkish Riviera retreat combining luxury accommodation with pristine Mediterranean beachfront and sophisticated coastal refinement.",
+      "coord": [
+        37.136472,
+        27.380201
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14510657032573449148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJybTpQuxvvhQRvHMQvLA1YMk",
+      "address": "Türkbükü, Narçiçeği Sokak, 48400 Bodrum/Muğla, Türkiye",
+      "rating": 4.3,
+      "ratingCount": 1196,
+      "website": "https://www.macakizi.com/",
+      "photoRef": "places/ChIJybTpQuxvvhQRvHMQvLA1YMk/photos/AcnlKN2jLgFQc5wLv7S3PYr0_n5vYC-paIntjWxr59Lfi4rMjcsZzF5pt5U6zxxGvBVpfGC9tQeeX1bvxdTyFj6GNQnvAuupRL2X_TRs3f3YxytADrbMaB3EJBNzomcFUBqtU0cFsgAqyFlmO7sol3U0F_Wd98OJzGHaagNsI3mzh4fGg7Vq2zooRr-zZ9OwN6VwV4XJYyVag5KVB7bESZqOxgjWZYx9G4q5-lYdh9THAzu35pyayOxdBS9PfFa9JxEUa26tbmKuqJnNoWZduSUkXbzIS3smijqm1ePjc9aZQaPlCA",
+      "photoAttribution": "MACAKIZI BODRUM",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0252) 311 24 00"
+    },
+    {
+      "name": "Hotel Nautical",
+      "desc": "Nautical-themed hotel with waterfront charm and Turkish hospitality",
+      "longDesc": "A boutique hotel offering authentic Turkish hospitality with direct access to the picturesque Göcek Bay. Perfect for those seeking waterfront elegance.",
+      "coord": [
+        36.4810102,
+        29.1082217
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11792896430208396637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzw1b4JM-wBQRXS2LY9LIqKM",
+      "address": "Kizilcakaya Mevkii, Faralya, D:88, 48300 Fethiye/Muğla, Türkiye",
+      "rating": 4.5,
+      "ratingCount": 573,
+      "website": "https://nautical.com.tr/",
+      "photoRef": "places/ChIJzw1b4JM-wBQRXS2LY9LIqKM/photos/AcnlKN0QcAwEZDKthVjq4ZPHVJyzwfdqg4IHn7HOF50D5DDVJ-oP1rEfhoEAcKCIKUeTDM_VX-PsD40-Z4n-mAHEmBAP2Lew0fGulQKMxcJ6g0xOIEbw1_aKMS6De1-CoUVsmcqxQtqPk8N59POgUykrgWhFx3kqxJc0ILjb00My06Pkyw5Vl8-ZRprSxeKqTngagPKfCb_3NFIWqxqx3Qdo4KLPWr83EDbo3FuilwAAh5LXxUg23P6DJfGCJi2mw-FJ35i9uFzZueJZZ65qCFt6hatJIytVSeBCo8Sa_6CBZxmgAg",
+      "photoAttribution": "Nautical Hotel - Balayı, Romantizm, Doğa Oteli",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(0252) 614 94 91"
+    },
+    {
+      "name": "Aliée Istanbul",
+      "desc": "Historic shipyard luxury hotel, contemporary design, multiple fine dining venues, world-class spa",
+      "longDesc": "A stunning landmark hotel set within a restored 600-year-old shipyard on Istanbul's Golden Horn, blending historic architecture with contemporary luxury and exceptional culinary experiences.",
+      "coord": [
+        41.0348506,
+        28.9580413
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5796820075573804007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJAZYD8YW5yhQR5_ttVyVxclA",
+      "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:11-19, 34437 Beyoğlu/İstanbul, Türkiye",
+      "rating": 4.6,
+      "ratingCount": 491,
+      "website": "https://alieeistanbul.com/en",
+      "photoRef": "places/ChIJAZYD8YW5yhQR5_ttVyVxclA/photos/AcnlKN27xLZp8bh-jIf8xONTguqqTUmHTKIwpggrxqZK7A0omOpM9ikf5_vgWNiPh5xKjtVJPEYnWAjfozJYozj8oy5JuPvnNfTPj_p35bmGygbVJYH4aDAfDPmPyaA6jZybVKqbk-5T8I_CHQpAD_z0moazdnLLqlSffTKjr6nk_9VefQWoyue6JSCeYy2vDON95vb5dyBIQrAMYbx0jBxXF_n5Up42jbPEjE0zEFJagbm_IJxP6g5roROdjKY9n3JrhcZ3CyN_ByMkDFj4HOzlm1h2aaEaAOcayDrtSjozMvAvMA",
+      "photoAttribution": "Aliée Istanbul - A Paris Society Collection Hotel",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Fine Dining",
+        "Wellness & Spa",
+        "Cultural & Historical"
+      ],
+      "phone": "(0212) 393 11 00"
+    },
+    {
+      "name": "Bodrum Beachfront Villas",
+      "desc": "Beachfront villas on Turkish coast, perfect for sailing and coastal leisure",
+      "longDesc": "Elegant beachfront villas in Bodrum offer direct access to turquoise waters, ideal for sailing enthusiasts and those seeking Mediterranean luxury.",
+      "coord": [
+        37.2076815,
+        27.5764906
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1840772667508312253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJnXk91RdfvhQRvcgU__y8ixk",
+      "address": "Boğaziçi, 1023 Sok No:1/1, 48670 Milas/Muğla, Türkiye",
+      "website": "https://www.airbnb.com.tr/hosting/listings/editor/1407368777947085613/view-your-space",
+      "photoRef": "places/ChIJnXk91RdfvhQRvcgU__y8ixk/photos/AcnlKN0BhUTLu7NzXLi55x2j0T0jvCoEpcFimWbPGqlvKvdO70zjuvfjk7XZ8XmaaOXyvDeKXzHCJMc2Bnl8YgVgz5K7qsk494qTS8dcYqb_SXx9p_9Rkq55oSP0d8EFbO3_5zDP9PrtsAb21ynj1yCAryzKiJ9fs8UmqDfZNAhf4Hc9FtALtuoEOhjXwWSxc07G4WT2_FQi0K7jYkIdfGCZN9eiUtB7IAvMePIIA_9YqdASYiaoGaE0sDoXveg88eVoulCvE3bEVQpjv0mSdnlGXXBBakJh-n4Zt0taOqOZCnJs8Q",
+      "photoAttribution": "Bodrum Bosphorus Beachfront Villa",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "0533 620 44 54"
+    },
+    {
+      "name": "MAXX Royal Bodrum",
+      "desc": "Sustainable all-inclusive, Turkish Riviera luxury, eco-responsible resort",
+      "longDesc": "A sprawling Turkish Riviera resort combining all-inclusive luxury with genuine eco-friendly operations and strong community environmental initiatives.",
+      "coord": [
+        37.1305802,
+        27.404457899999997
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14022486366906844201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJXw4kos9vvhQRKYQ9bw7hmcI",
+      "address": "Gölköy, 312 Sokak No:3, 48483 Bodrum/Muğla, Türkiye",
+      "rating": 4.6,
+      "ratingCount": 261,
+      "website": "https://www.maxxroyal.com/tr/Bodrum-Resort",
+      "photoRef": "places/ChIJXw4kos9vvhQRKYQ9bw7hmcI/photos/AcnlKN2AuDwhT1rYKdQpdr_YiRZxj0ajGpJ7Q-I-iuAe9MSjkbccsvMy5ApY8yYocjy8wGh7JCqGvKMnm2hNvBRQKH-bX04UhR1CXkHVE3P9IaRZuNWUvTU7s7Ww1kz8I5DbRo5TUF6dsbYz-L6khIIrnoKzllojC0i0KygoQJ48PYjuakD8E7cfHkf4xn0Dp9bFVWqzRRaXT3aiCrp2hkrHZlOvPaK6IZfbwgXhcVSZCX_AfWETSPwExZJTiJlsFV7fRde8nUhImIpXgmJ7NVB7jdSRN4-x4gUcbIGnDdsgCc8lnQ",
+      "photoAttribution": "Maxx Royal Bodrum Resort",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Wellness & Spa"
+      ],
+      "phone": "(0252) 311 01 50"
+    },
+    {
+      "name": "Babylon's Ören",
+      "desc": "Luxury resort, editors' choice 2024, Mediterranean escape",
+      "longDesc": "A celebrated luxury resort destination that captured Condé Nast's editors' hearts in 2024, offering exceptional accommodations and memorable travel experiences.",
+      "coord": [
+        38.3344556,
+        26.306678899999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7382111222766937792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJcat4Zzl6uxQRwKZyhQuHcmY",
+      "address": "Sakarya, 3074. Sk., 35930 Çeşme/İzmir, Türkiye",
+      "rating": 4,
+      "ratingCount": 7,
+      "website": "",
+      "photoRef": "places/ChIJcat4Zzl6uxQRwKZyhQuHcmY/photos/AcnlKN1XdTICRGo8mdrboBx_4nqw0Q7wR2hdgW8WrAhFtq5FxwRNem8-jLgeUOWgSPK6aJop29vAVT3ncd60sEIH8uftCa-Tri6DCriSp6bxNcTHRKMoshlave6jY7BhCwDb-3e5itsHzWj9WMjv1ITjR3spfZLGja58qWu4IUKZ1YpapAJAggz-fV2dh2eiuyfRCjt0VMDygjSvlMLWdk6wbg2aB1VydsA12YujCrMXwJGl9dzzo4bQroAs8YPYR1P3H6DoEbaEGUydlSllQaN5E_51LvYQo5LcB10t5K_WDUiF4-6LvCvBp5Am2h291gixjIRAh3Jq1Yqp01kIDQYdSr6nn8C4C9vKTVSf12MYZrUO6itE7OJMvL0M9zaMERlyBLzmtJnwTW5N4cKkx1DTnzliaaVhIElZOk1VoIJSo8PLTQA",
+      "photoAttribution": "selahattin can eskici",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ]
     }
   ],
-  "restaurants": [],
-  "experiences": [],
+  "restaurants": [
+    {
+      "name": "Rups by the Sea",
+      "desc": "Beachfront club with sun, sea, and relaxed Mediterranean atmosphere",
+      "longDesc": "A charming beachfront destination perfect for enjoying sun, sand, and sea. Known for its laid-back vibe and picturesque seaside setting.",
+      "coord": [
+        36.47981,
+        29.107624299999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5162141626484153133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJM01RHXQ_wBQRLVvYhnWco0c",
+      "address": "Faralya, Kizilcakaya Mevkii No:171, 48300 Fethiye/Muğla, Türkiye",
+      "rating": 4,
+      "ratingCount": 536,
+      "website": "https://rups.com.tr/",
+      "photoRef": "places/ChIJM01RHXQ_wBQRLVvYhnWco0c/photos/AcnlKN15v-q3n1o29ZLiAcZYpWKjQ8ZXouM11AItnTceiCumdwtmpko3ccrlVo3lxLG484-kGuEWCHWAaY4yNzcWiRA-RJ-zhQElTy-B8U9xxW69tY9RPPw1BwCpiAxqg7QMseuIVFzhVHSepEUoV47DPpGK-fWXsxYF0c5Gba-EIY5STajf_T4OZq86WsMGUxWmkK55djnPLY15Oqz8R3twQTw4gHNRZaWk1M1camk2ezFhuE1H_NOqx7XwBvwq0RFt94-bPStbbp29RJiiSjYXavQXolcrovB1kYtcRqrJN2VEmw",
+      "photoAttribution": "Rups",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "phone": "0544 429 27 40"
+    },
+    {
+      "name": "Taste by Thomas Bühner",
+      "desc": "Three-Michelin-star restaurant, acclaimed chef Thomas Bühner, contemporary cuisine",
+      "longDesc": "An exceptional fine dining destination helmed by three-Michelin-star chef Thomas Bühner, showcasing contemporary culinary artistry within Aliée Istanbul's prestigious hotel setting.",
+      "coord": [
+        41.0343798,
+        28.958436400000004
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3099067165434784688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJKQwrF3q5yhQRsCvR2ioZAis",
+      "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:11-19, 34437 Beyoğlu/İstanbul, Türkiye",
+      "rating": 5,
+      "ratingCount": 4,
+      "website": "https://alieeistanbul.com/en/restaurants/taste-by-thomas-buhner",
+      "photoRef": "places/ChIJKQwrF3q5yhQRsCvR2ioZAis/photos/AcnlKN2dBRyXUndgQDKgKxMp57b_t5gBRbZDkJ3CsbfQQh1TI--ZH0r_cqfDj6ZwJN3SPY513eApMQBJ1royADOr1SubDj7EIYG3kGz7Dm9EvOaBdZp6ahjYuCfK0WlGA0qZbOTaD5fTjaBDvBtVzLybr3Yk6Ki4hVtWi010IpK-3Xo6151_a0gTKc9c2dCXPTjW8NLnAZYSLvLQcNWBttndLDH0YkiaM27p1uhQ4vQSM1wtA9BTHojbX6phbVcQFMr45i3vTX_33c-Ql0f0vESTlKjvQHw8R7M3y4JwUUvKqy1RdQ",
+      "photoAttribution": "Taste by Thomas Bühner",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Dinner"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 7:30 – 11:00 PM",
+        "Friday: 7:30 – 11:00 PM",
+        "Saturday: 7:30 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "(0212) 393 11 00"
+    },
+    {
+      "name": "Mondaine de Pariso",
+      "desc": "Sultry velvet-clad cocktail bar, international debut, legendary Istanbul energy",
+      "longDesc": "An elegantly designed cocktail bar featuring luxurious velvet interiors and a sophisticated ambiance, making its international debut within Aliée Istanbul's vibrant hospitality concept.",
+      "coord": [
+        41.0346757,
+        28.957742600000003
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8285325162548514778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJx7d9Nm-5yhQR2k9PelZj-3I",
+      "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:11-19, 34437 Beyoğlu/İstanbul, Türkiye",
+      "rating": 3.9,
+      "ratingCount": 184,
+      "website": "https://mondaine-depariso.com/istanbul/homepage/",
+      "photoRef": "places/ChIJx7d9Nm-5yhQR2k9PelZj-3I/photos/AcnlKN39yL1-lp2Dw7ZAUELxhHiwi1fXUJ6vJY82DNd3w0vMHHnQQ2zJk7nw7iox5unM0LGXRzswZysc82krNAH3qZyY4JT23_iCF5AaoNTweBgFcwDMhpkwRLBKO4lT4fG_hMsbxfRag8Xmqs3yc8KuW038IlNvodwtggIh_oHegRRwQLtSzVSXcvwc98XN9Qfybbun6Haj6lUHHPKOciHU3wzToR7RMkpxmwbVkUocn2WPk6OrjYK6l0I21gNw-UX4OJuS9ASv4glW48-YcQpUYOUySGBChW_J6Pkvjb9ovnTsVQ",
+      "photoAttribution": "Mondaine de Pariso, Istanbul",
+      "tags": [
+        "Splurge",
+        "Cocktails & Bars",
+        "Nightlife",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 7:00 PM – 2:00 AM",
+        "Thursday: 7:00 PM – 2:00 AM",
+        "Friday: 7:00 PM – 2:00 AM",
+        "Saturday: 7:00 PM – 2:00 AM",
+        "Sunday: Closed"
+      ],
+      "phone": "0501 810 82 26"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Blue Voyage Yacht Charter",
+      "desc": "Yacht charter service offering Turkish Riviera sailing experiences",
+      "longDesc": "An acclaimed yacht charter company providing unforgettable sailing adventures along the stunning Turkish Riviera coastline. Perfect for boat holiday enthusiasts.",
+      "coord": [
+        36.6226159,
+        29.105318500000003
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8164685371306722730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ_0T832JBwBQRqsWQOxbKTnE",
+      "address": "Liman başkanlığı karşısı, Büyük iskele, Karagözler, 48300 Fethiye/Muğla, Türkiye",
+      "rating": 5,
+      "ratingCount": 2,
+      "website": "https://bluevoyageyachtcharter.com/",
+      "photoRef": "places/ChIJ_0T832JBwBQRqsWQOxbKTnE/photos/AcnlKN1ZoaFE32DRu_viDj64BNjspxIp1V1wHlKJxPLqcNCtXFcCbS8CkwjQgvEmTjbErZAqyTOTqH6UDj13h-twj5WznkPKLd4U-ZwNSIG3LSPr7kQZMx2IzpqK0KYWpnJkbOd-6ZqE8qWkyj6DR7hJlvvv8hIPyNnsPsnVHIl-yaonnGmyreD9_M8MhMmjAvw6khYaZ8RtPWS23W7tME3PHi8t86Sby0VC7TJdDpCN32mGpKev1bqV4u8jSADUYowP9MQi7ali_yHmNPK9eTJJE1aEl1ZEMj656SgLesh8Tyoo9w",
+      "photoAttribution": "Bluecoolyachting",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "(0252) 614 00 51"
+    },
+    {
+      "name": "Antalya and Belek",
+      "desc": "Turkish Mediterranean resort areas, warm November sunshine, coastal beaches",
+      "longDesc": "Warm Mediterranean destinations perfect for November escape, offering beautiful beaches and pleasant weather.",
+      "coord": [
+        36.8635954,
+        31.060741800000002
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17415758307427314038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJWQCqO3B7wxQRdmlDcOgzsfE",
+      "address": "Belek, 07500 Serik/Antalya, Türkiye",
+      "website": "",
+      "photoRef": "places/ChIJWQCqO3B7wxQRdmlDcOgzsfE/photos/AcnlKN386g6ypDnGcOCTTEyjVumU7P5mm-BH1_Z5xB6FmfC1G46CRhF4S2torwbQY98UKSi1JdnSSzv3cjuMjRw5yB7vyGyfYEd1J_YQbPcmdFDfYVXWQZV4ko7xzupMTxj_65ubPjrAVIzMKHbkZt62PjLu7IF4ZTmh-wpG9m6hwEwCUcu40xIkVZ0ey6UxJl8ARX6ncmviTKffKFs8LUSDUC7CoS2JsuWJU6dXK3Yd0uupKDfUY1Lrz7BhGpTk1yHa5cpN1KA-3okQinXFrN7lQgDoS9gVgSHPDu1bLSxOLkZgnAQwxdMU1iOEOQXjQTb1tc6LIypECngVdTLeOn_OCDtt148cbJ335xSKFWi4QymDfLd7tSuyDU146a8mo3qDTLagg7lWKFlTG5dVQFOipkHKfUozUxe0MA8LpG8TVlvfvw",
+      "photoAttribution": "Ahmet Kaya",
+      "tags": [
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Romantic"
+      ]
+    }
+  ],
   "kidFriendly": [],
   "markets": [],
   "cityCenters": {

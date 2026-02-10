@@ -94,6 +94,76 @@
       "website": "http://www.unionoye.no/",
       "photoRef": "places/ChIJ9U5IA5CUFkYRpAxyMFbD8g8/photos/AcnlKN0uFZ4RpJ3o_KHrywfFc4vRmi-GNDgpnbgulWV_mJlbmg5D4er8L9C-V-F5WZJr3te_Y4t5G_fNiH4JcNxrKhh2Q7fgdLRb5RrgpdBA8oZtVkMva0YIgiaP2_lbj_CEUZL-gIweg4Oxy4TXpva4fHdNtPEy_RcKkrhzHPL1ynAgj-JNqkiSiUfcno51-P5LYJ8R7tvajFGSA6cgjqLSSHBR1T7J3HyhU010GVsc-je4JGMdKSheppjOIzggYJ97NHAtqT1MquBbkdNPTO_9uD0IBq673UvjviDmYeEXXa58Ew",
       "photoAttribution": "Hotel Union Øye"
+    },
+    {
+      "name": "Union Oye",
+      "desc": "Cozy luxury hotel with exceptional rooms and inviting hygge atmosphere perfect for any weather",
+      "longDesc": "A beautifully designed boutique hotel offering supremely comfortable rooms and warm hospitality, ideal for unwinding regardless of Norway's fickle weather.",
+      "coord": [
+        62.1926792,
+        6.6603251
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1149195629880282276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ9U5IA5CUFkYRpAxyMFbD8g8",
+      "address": "Norangdal 41, 6196 Norangsfjorden, Norway",
+      "rating": 4.8,
+      "ratingCount": 676,
+      "website": "http://www.unionoye.no/",
+      "photoRef": "places/ChIJ9U5IA5CUFkYRpAxyMFbD8g8/photos/AcnlKN1aOYUDkSQ0ix1O4PPAGXExYwCX4BVXwhapcNfO-VOI4ro5Z1xDPqevjRmj-D5w43zsr-IbYbQJKBu7DCKSP-o0msn9RrFiw65kt47oNUX3Km9t3M_40DfrFwRZ5L1RKsik35j_FzbIX7BZp6VE84pvoT356dZatdfaipglF5zLZtYyJDMJl8lnm8E0hu0hWnXjxdEVS96vGPNP0SiENa7VLAUw7gsKWHZuXwsJNAZeDkF1-tsocUqy5CbNSINnecgbAIVun2eK4SlmEsFIVqvI3HY_KwL8C4YvIxhCTBliAQ",
+      "photoAttribution": "Hotel Union Øye",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Rainy Day",
+        "Photography Worthy"
+      ],
+      "phone": "70 06 21 00"
+    },
+    {
+      "name": "Lilløy Lindenberg",
+      "desc": "Private island resort, panoramic sea views, remote escape, sustainable luxury",
+      "longDesc": "An exclusive private island retreat off Norway's west coast offering breathtaking panoramic views, intimate exclusivity, and a commitment to responsible, eco-conscious tourism.",
+      "coord": [
+        60.550916900000004,
+        4.960327200000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8292496252625184290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJF8GPVq0fPUYRImb7_mfdFHM",
+      "address": "Midtoyni, 5315 Herdla, Norway",
+      "rating": 5,
+      "ratingCount": 11,
+      "website": "https://www.thelindenberg.com/en/hotels/lilloey/",
+      "photoRef": "places/ChIJF8GPVq0fPUYRImb7_mfdFHM/photos/AcnlKN0CQPGJ-l7JJhDXnYArxQ3lecVD6z9neEkIkh3jDwqWaItkFY57ls7mUXKB6OW1VkHLMKMWr0BVDgsrArBKthG0F7NRQ9eyjvOmTW2RWb5yvVrTTZTXNMcowDLHIsY5Ay3QVqb8Ghb4rtqQy31o8R_PuoVnb0ixYVaYZWZFo2uMYrAXgjboEsWbcFA_yCaGmgI5rBzjFzyhInaYEXl2iIwFNFpnoys2_VfFxJwJ7Qb2rb-ghRm29IiCUZ4yLA7c83HasJ4X0pk7dOw0Aaqf5sTtIW4qQgedhdVuj2Bh6RPWwQ",
+      "photoAttribution": "LILLØY LINDENBERG",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Storfjord Hotel",
+      "desc": "Michelin Key luxury, immersive experiences, thoughtful design, unforgettable service",
+      "longDesc": "A Michelin Key certified luxury hotel in Norway delivering immersive experiences, thoughtful design, and service that leaves lasting impressions on guests.",
+      "coord": [
+        62.46950289999999,
+        6.6248559
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2476311466938961507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ6eZD0iK4FkYRY44fvCigXSI",
+      "address": "Øvre Glomset 110, 6260 Skodje, Norway",
+      "rating": 4.8,
+      "ratingCount": 490,
+      "website": "http://storfjordhotel.com/",
+      "photoRef": "places/ChIJ6eZD0iK4FkYRY44fvCigXSI/photos/AcnlKN1tUgIyYONHRqR3zh92ozMJoUK4t1kb-v1YPtUYAEAfCQ6Yw27N0qEL9RSJ_MNYlLeS0MOVVp6aIWvmWMWbGhEsbD51lf1V3I8kwoPg60ZfBNvuWqk6yhRNcGEAb0Gpu5GFHfPBj2xy8La-k9JOdu1ksCheutHcXq4WVV8Y4Pc_5aH6dovRFN_uJV-whi4jzMR1BMdIFNiXOsq3CTlvpSSyqg5gf2Jo0JrKzpZ1UWUhSVQetAN3UzEb3dolBZc0EzZoDzURd6Dg-zUxPmfuPjPLRyUT5Awne2lrZIN47aAykQ",
+      "photoAttribution": "Storfjord",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "70 27 49 22"
     }
   ],
   "restaurants": [],
@@ -133,6 +203,135 @@
       "ratingCount": 1427,
       "photoRef": "places/ChIJKejz42o_3kURXTz8S2eRnGE/photos/AcnlKN0YKD7oF47cozjrIhQ5xKTW7PzBHCg6fxcASBpK8RwMNzUVks2YULcaGG-SpDyjtLfn2DbYUYRZ3UOblcFg7cLI3eyb0pFWtS0k3NDQYgFbN48coc0WFyKGmeCftI5KZKJ6fJWhmMDLQNoVlgGfqQN6z3kFkWTHaRy_eQhMKd1HS8G3h99o9BoaqLCX9Xe3mj36nToYySajxa_KFHk-7X7ddpoUwKIPZEv2cI8yBgxRI9GfukXJEfHlhLUFEGEki1He1TbILuBkq_45L8qwwpNsZRnS-beKBr-rk_xyQjsjrS7vSC_R-QH8x7fDg3Bzxf04ePTn8kcTraHLhKbCF4v03HB2DqzRpIhP9GchSO7JK9Tbxczk3ctgb0_vtIgKnMRvvuyqkFvP_DjyQJaZxrmYdxSs0xTNeJHTeKP5u33UjME",
       "photoAttribution": "أبومحمد اليافعي"
+    },
+    {
+      "name": "62nord",
+      "desc": "Luxury Porsche driving experience through Norwegian fjords, thrilling adventure with excellent service",
+      "longDesc": "An exhilarating Porsche racing experience through the stunning fjords of Norway's Sunnmøre region, offering an unforgettable adrenaline-filled journey with impeccable hospitality.",
+      "coord": [
+        62.4713519,
+        6.1513053
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14820537758703427952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJeUTFQT_aFkYRcCHIp5Egrc0",
+      "address": "Apotekergata 9A, 6004 Ålesund, Norway",
+      "rating": 4.4,
+      "ratingCount": 10,
+      "website": "http://62.no/",
+      "photoRef": "places/ChIJeUTFQT_aFkYRcCHIp5Egrc0/photos/AcnlKN2U6hj-GkP8pwzRmfnvD-Bhz-FQkQaEaBQaw61IEl4MHVdf8d3z7fntGAQYwkIv4-l_YbnLQZwTK3a1nGNqShxgr2kRCyYVT0GOE-mJLj27-2zH1zHU_1cmhQ3wdCWE2Z-pg5Rhs64o78JiiNWPwCfnIdqme-3JuJWiI3wMnZ3mVeCDTX6IKePH9ibgYpeWOcqqg3iH7KhpV8zNnSK4hrvkFyOkKuZ-9jK8bXxHf-59NZ5utzxwyBtIhFa9hK2JldgbL6ObvnUauTt5q8hPC5IGmxOvl8ohE76QQAHREPhZrQ",
+      "photoAttribution": "62°NORD Hotels & Adventures",
+      "tags": [
+        "Adventure & Active",
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "phone": "70 11 44 30"
+    },
+    {
+      "name": "Norwegian University of Science and Technology",
+      "desc": "Major university, research hub, cultural institution",
+      "longDesc": "Home to the Norwegian University of Science and Technology, a prestigious educational institution that transformed Trondheim into a vibrant college town with academic and cultural significance.",
+      "coord": [
+        63.4194872,
+        10.401993899999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=13041836405129582475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJf5PA2L8xbUYRi5eBohzp_bQ",
+      "address": "Høgskoleringen 1, 7034 Trondheim, Norway",
+      "rating": 4.7,
+      "ratingCount": 440,
+      "website": "https://www.ntnu.no/",
+      "photoRef": "places/ChIJf5PA2L8xbUYRi5eBohzp_bQ/photos/AcnlKN3OcSNBcsYk96PRvVmxeGNRgfBzevd2_0OPlh0jkUyVqxwmem4hqPYqzOPKAjzJ2f9NsXnf1UWQoWx-hxkJNP2-lRm8fEUb2jWvYaRzQ2YJic2Aet8q5jagN8i_l7DRjceJXx6qTsDHAUsRmOUHxmYrwO7a8r9K-dCbXJQQ4yOG5Zqv1z7lqhi5095nMFL_8B6d6aL7O9bpybhDcP1oTp2Nf0H5Ymr64uOp2cIc5bNk6iMUcXYMdzhboVOvNqCLpetTLCOqAPsik4EbH5yp1rmBNgfmdVW3noFBgZbo4QtsDg",
+      "photoAttribution": "Norwegian University of Science and Technology",
+      "tags": [
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 3:45 PM",
+        "Tuesday: 8:00 AM – 3:45 PM",
+        "Wednesday: 8:00 AM – 3:45 PM",
+        "Thursday: 8:00 AM – 3:45 PM",
+        "Friday: 8:00 AM – 3:45 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "73 59 50 00"
+    },
+    {
+      "name": "Trondheim",
+      "desc": "Historic Viking capital, culinary hub, emerging art center, fjord-surrounded town",
+      "longDesc": "Founded by a Viking king in 997, this charming Norwegian city of 215,000 blends historic significance with contemporary culture, world-class dining, and a thriving art scene surrounded by pristine fjords and farms.",
+      "coord": [
+        63.4305149,
+        10.3950528
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=862377930192122836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJU34DR5cxbUYR1PM8jyjI9ws",
+      "address": "Trondheim, Norway",
+      "website": "",
+      "photoRef": "places/ChIJU34DR5cxbUYR1PM8jyjI9ws/photos/AcnlKN0QmthjCSIs4PUGsGI350GexrGPPas9NOuHCDQ492l7t8oekhvNRIAhQkaHEdapdAqmjd9NxeD-ENceVR0SSTsVm2bZHzlB8T6f0jH2kaiXuw5K1Cy5o5yynEx6wcbfcA2rrXp_EozXwyJ1wG9pCBiCD726uPWYRdCTs9YFva4g-edAn1BjcWhJdEY-icoXzNaX7sGJQaFMA7tP8i8JvaP6QxZ1x6VvfC35Ze3ntXQlTVQu-8pJW6SC5Xz-TyHhB-8LHZsV3tPE2PxrKNwdGC7sZJXX494oz-6iPW3XJUd53i_Jp7hiZ6aa743rHRgKAeh18g6ZCvw5CQG1f4bmxg3NdleyjkFIcIHQGVLGFFQWUJe0-KiKdUlo9H5-v9VywNwlI39y5AgnY5_1j9U6oOjA130SKpaRkZkrni_7lFEPolkK",
+      "photoAttribution": "Krzysztof Jankowski",
+      "tags": [
+        "Art & Design",
+        "Fine Dining",
+        "Cultural & Historical",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Solli Plass",
+      "desc": "Design-focused Oslo neighborhood, art deco aesthetics, contemporary architecture hub",
+      "longDesc": "A vibrant Oslo district celebrated for its curated design scene, architectural heritage, and contemporary dining establishments that showcase Nordic creativity.",
+      "coord": [
+        59.914636,
+        10.7172535
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4576647535909906440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJU_FXMytsQUYRCKgTkK-Egz8",
+      "address": "Solli plass, Oslo, Norway",
+      "website": "",
+      "photoRef": "",
+      "photoAttribution": "",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy",
+        "Splurge",
+        "Cultural & Historical"
+      ]
+    },
+    {
+      "name": "62 Nord",
+      "desc": "Fjord kayaking adventures, Norwegian landscape exploration, water-based coolcation",
+      "longDesc": "An immersive fjord experience in Norway offering kayaking adventures through dramatic waterways and alpine scenery, perfect for those seeking cool summer escape with active exploration.",
+      "coord": [
+        62.4724169,
+        6.153895299999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12197990844996838860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJSbcpoAjbFkYRzOWAuQv4R6k",
+      "address": "Dronning Sonjas Plass, 6037 Ålesund, Norway",
+      "rating": 4.3,
+      "ratingCount": 34,
+      "website": "http://www.62.no/",
+      "photoRef": "places/ChIJSbcpoAjbFkYRzOWAuQv4R6k/photos/AcnlKN3GGXiv1yXH_qRcK-BUNo3SY28gbh8JAuxNG_egH4h4JPbq88xFqeeUizvGXdahb29jI4yLWCTvbTqohFl-rqOuinDhmOQuPKtJdDTG2pWZAqDuVEdKKQqq43R24srCTj0jGk7zaL0Q3DjGVPWM5vQlHvGyN6xpyf3vWFP4fP9MJZDLKoe2d4EWrfurGibKP-QrsikSjJ0YpSkhsSJYCNFobTgua1b7fLCkUv2UqIuAD3_78H8a3zb-OKce1k0X2DnBNV03DFfX2lWv_z7205bj4r7pFNg6V8SNZodw9hlEdA",
+      "photoAttribution": "62°NORD Adventures",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "70 11 44 30"
     }
   ],
   "kidFriendly": [],

@@ -1,0 +1,57 @@
+{
+  "key": "bhutan",
+  "name": "Bhutan",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇧🇹",
+  "defaultCenter": [
+    27.4182,
+    89.6628
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Six Senses Bhutan",
+      "desc": "Carbon-negative luxury wellness resort combining Buddhist meditation with sustainable practices",
+      "longDesc": "A pioneering eco-luxury wellness destination in Bhutan offering transformative Buddhist meditation experiences within a carbon-negative framework.",
+      "coord": [
+        27.4181808,
+        89.6628298
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16560168975266486722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJTyAkIKiT4TkRwhk0h_GJ0eU",
+      "address": "Chunimeding, Babesa, Chang Gewog, Thimphu, Bhutan",
+      "rating": 4.9,
+      "ratingCount": 80,
+      "website": "https://www.sixsenses.com/en/hotels-resorts/asia-the-pacific/bhutan/bhutan/",
+      "photoRef": "places/ChIJTyAkIKiT4TkRwhk0h_GJ0eU/photos/AcnlKN0XiEZ-JDz7EfPl-rPJbbbd4ygA-TipmMJj308X6I9YaSqE9PV3-g3zxoFoHi35fuk6yyamW4TkSRcEEiancNkHFVlGu6xfd5C1nbRr49Mzh1ISeKJGOB6OpIyBDqH7EZ3pAh2fU4o32HMhO9SHJIbUQ0SR6wVxKcq16F4cd9WCP5uGfIaNSzJrejfbIif0p-WJJZgfbAiEDtQ9y5JIlpg1d_6hrQWRh37G8lR_fFuFhz9FY2JTi6Bd_5HHeZjVpDuOewe-G8DEOTOJvKoHByBAdz5n8kmlELYhDYmOLTM",
+      "photoAttribution": "Six Senses Bhutan",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "2 350 773"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Bhutan": [
+      27.4182,
+      89.6628,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

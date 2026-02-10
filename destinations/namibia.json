@@ -1,0 +1,80 @@
+{
+  "key": "namibia",
+  "name": "Namibia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇳🇦",
+  "defaultCenter": [
+    -22.8327,
+    17.8598
+  ],
+  "defaultZoom": 8,
+  "hotels": [
+    {
+      "name": "Waldeck Namibia",
+      "desc": "Luxury wilderness resort with bush experiences, starlit dinners, sunrise adventures",
+      "longDesc": "Luxury meets wilderness with bush experiences, starlit dinners, and sunrise adventures, all with heartfelt Namibian hospitality.",
+      "coord": [
+        -22.7078289,
+        17.2291494
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14456243293885728611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJlcLjZBkLCxwRY4eu7q7knsg",
+      "address": "Waldeck, Windhoek, Namibia",
+      "rating": 5,
+      "ratingCount": 15,
+      "website": "http://www.waldecknamibia.com/",
+      "photoRef": "places/ChIJlcLjZBkLCxwRY4eu7q7knsg/photos/AcnlKN3ngR-3N5ilZf64FbQR6D0nw3PADEIfwAP654_9RM8qXeDD0NIIvhx-1qgNs9JMVBR3E0s6oj3_6EA__ypeQoXeUEWY81BkxFk87eYiB6d8XP8LKreqyWM9KN2-AZwXXekhQ5CP-2DTqtmKPUp_vuKVjihr2ZcV3pdiWiDBMWlSdKp5hx__WHMhgM2GyvCzToELQo4sAC3n1Kt9TtsHdC3K9YJUqhx3O5FWi4oAG6PR4sIDXG5y9FJZPCqr6LBAS_IeyqBnOd6S4DeDevEGwAFp970FX-KTH1H1JO1218Q",
+      "photoAttribution": "Waldeck Namibia Luxury Lodge",
+      "tags": [
+        "Splurge",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "phone": "081 129 8575"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Namibia",
+      "desc": "Green river corridor cutting through desert plains, remote landscape beauty",
+      "longDesc": "A green river corridor cuts through Namibia's vast desert plains, creating a striking contrast in this remote, geographically isolated destination.",
+      "coord": [
+        -22.957639999999998,
+        18.49041
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15256477712360714849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJIXXTbn489RsRYbLsqKXludM",
+      "address": "Namibia",
+      "website": "",
+      "photoRef": "places/ChIJIXXTbn489RsRYbLsqKXludM/photos/AcnlKN0mVmXjv5uyBlvVsiKqN3O97J0j-J9z-_BjLwpiOHtQ4X62K-umf7JXYMlBVcmXpPueTz7b7EI_yW9sbPE5JbF5GwBy_Ze4BdDne1TuSNWKWDwzUvK_wqiLojIJBvsrxwhmw0hy0ErTEueCZW27ULD2LTQu2dCcqbDkJwpmO2a6sPJsaXMMsa0epikBqM4I-df1TOruZkVhVGnIgcIMhJdNUt0Y_js4qVuf4sHIWRb5p7A7_J77jqqh3ADBsCwxBeIHqLha6xh5aoLVYc4gboMJz5P4bxu6vyBrkocpXWeEPHLjPB4DlPLXY-inPIsnhrlLN8blscOChghqhywnuV3T7Cb-i0OQiQ_0wkDypFhSlfH0_RsdFpDML0Qj33dacDFYZjlYXnLfmz--oqkUYp2f_wiczVVJBGD7MQb1JqtmLLc",
+      "photoAttribution": "Junias Kaapanda",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Splurge"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Namibia": [
+      -22.7078,
+      17.2291,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

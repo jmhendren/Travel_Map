@@ -1,0 +1,84 @@
+{
+  "key": "mauritius",
+  "name": "Mauritius",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇲🇺",
+  "defaultCenter": [
+    -20.249,
+    57.6492
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Constance Prince Maurice",
+      "desc": "Beachfront luxury resort, Indian Ocean paradise, exclusive island escape, gourmet dining",
+      "longDesc": "A distinguished beachfront resort in Mauritius offering luxurious accommodations and fine dining with stunning ocean vistas.",
+      "coord": [
+        -20.1496607,
+        57.746157999999994
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10507102149813328790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJx9Ln9xf8fCERlttdery50JE",
+      "address": "Choisy Road MU, Poste de Flacq 742FL001, Mauritius",
+      "rating": 4.8,
+      "ratingCount": 1209,
+      "website": "https://www.constancehotels.com/en/hotels-resorts/prince-maurice/",
+      "photoRef": "places/ChIJx9Ln9xf8fCERlttdery50JE/photos/AcnlKN1-g7_Xh6UV1KTZMAuZTo4yl00vrhNfThback2Yx11UiU_TvMM9OfPuJnnciyEXDpupC81gRhc9ZI7ihIiVgtytsDlNQxiCxVsa1u9AlhRxaM_8ZV6drf30_J5ADgJZoPIifkUnhY_AECvv0QUU77uBQv9W8lzLOdTYEFNKqQxYXYmd1qwdiItufMqxwiM2_TAKpasZphq4jVhBer7zUckUpAGqebjm-5vRpteaR-bhHnt4ykr4iSFrbpeL48cc8SXL-WmRffNwLOkynQrLEyjuNQWgF0d2QaTM852eEAywNA",
+      "photoAttribution": "Constance Prince Maurice, Mauritius",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "402 3636"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Mauritius",
+      "desc": "Quiet beaches, lush landscapes, 28°C sunshine in shoulder season",
+      "longDesc": "Enjoy Mauritius during shoulder season with serene quiet beaches, verdant lush landscapes, and warm 28°C sunshine.",
+      "coord": [
+        -20.348404,
+        57.55215200000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4756885058972536881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJyXRE-U1QfCERMdBrEcLZA0I",
+      "address": "Mauritius",
+      "website": "http://www.gov.mu/English/Pages/default.aspx",
+      "photoRef": "places/ChIJyXRE-U1QfCERMdBrEcLZA0I/photos/AcnlKN0_tdvPliAZBxQoUkvzOanHfhIcpBO7jdJ6C-IDx9nuBJTC8Ocd9Q5Uae55ByVObLahp2Yd73-AibiLha8NlG5gwaNqw46rxvPxuW216TbIUcQXAU54CZ7c4MlehJm4Zs1zYHzGhtrQ2BzrJlbmdYY5orlwesUEuF6trTqLpwF2StrlCZXRHdTAY5TCgoUime__fW7ydLFYJ5QRtoIJUtLXaWCOfafSlMpZqumjWgZOobnL2Y_C02TREbNZePRhsju0RRPeQoFNZYFp6T2KSA7zDekRbVwVbFh6KPaSmQLRMak5tS5_8WnwYoa5xo4E4ka21emiDrugHAkk_Ok-5Oqe6MIJm5fOloGJ3knBTNhBQbxsL3sHYI8ptduzcO0NtiMITmbRO282Gy7NUwSyFcJyQkph0x9wUM9-gqFuMXafifw",
+      "photoAttribution": "Romain Gallard",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature",
+        "Family Friendly"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Belle Mare": [
+      -20.1497,
+      57.7462,
+      0.03
+    ],
+    "Mauritius": [
+      -20.3484,
+      57.5522,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

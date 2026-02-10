@@ -1,0 +1,51 @@
+{
+  "key": "uganda",
+  "name": "Uganda",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇺🇬",
+  "defaultCenter": [
+    0.3319,
+    32.5806
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Luura",
+      "desc": "Culturally-immersive boutique hotel, design-focused, authentic local experience",
+      "longDesc": "An Ugandan boutique property offering cultural immersion through thoughtful design. Prioritizes local authenticity and character over conventional luxury amenities.",
+      "coord": [
+        0.3319483,
+        32.5806021
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4620023448174349784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJCbGLH7q7fRcR2E1oItmeHUA",
+      "address": "Plot 3, Kitante Close, Yusuf Lule Road, Kampala, Uganda",
+      "rating": 4,
+      "ratingCount": 51,
+      "website": "http://www.humurauganda.com/",
+      "photoRef": "places/ChIJCbGLH7q7fRcR2E1oItmeHUA/photos/AcnlKN3FDV6UAZZzK35gBmBxF6WAY6-5g_zFzofNmbpJ-k_wS8tc7ytpNusvlI_nOTl2HiR4HmwJEwolsPEnV4jj3M1fmpptjQPHkz2Uxu1b3v11IaVyOpnQnylUsYcKfekEZ3VEZEQHveRgKXvtwaFp76tY9DUoDI1DWBSKh0TEehbUee2nDh-Ox_FbPqRE-T7cmhNiHyU396RuuSOOwEpF0YIHpMSWQqqqMRI2TfUTwohyvr_bXhh__ZRszTEzmTfQX8hARLcvFHvN2M1c1nFqCwBOwFZ8gCHb9LtvypauRbt_ehSemvtlKjPI8MrpsSOXv3MKX2oqdCRc3tMrXzN3NAFhblK18eAg5d-G1Pd8lp3hWkgTkcEmJnNF0OMs0wY7StzL79xkKI6Djo5IZelZOgLARkIvQStRzDV96BibdCPmRWCP",
+      "photoAttribution": "Fernando Castillo",
+      "tags": [
+        "Art & Design",
+        "Cultural & Historical",
+        "Splurge"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "0708 723883"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {},
+  "itineraryData": {}
+}

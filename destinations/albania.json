@@ -1,0 +1,126 @@
+{
+  "key": "albania",
+  "name": "Albania",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇦🇱",
+  "defaultCenter": [
+    42.0524,
+    19.925
+  ],
+  "defaultZoom": 8,
+  "hotels": [],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Accursed Mountains",
+      "desc": "Wild alpine mountain range featuring dramatic peaks and hiking trails",
+      "longDesc": "The Accursed Mountains showcase Northern Albania's untamed alpine beauty with challenging hiking routes through pristine wilderness and stunning vistas.",
+      "coord": [
+        42.4552003,
+        19.8029854
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2497790249137044970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJAWzvdvVlUhMR6n0_a__uqSI",
+      "address": "Albanian Alps, Albania",
+      "rating": 4.7,
+      "ratingCount": 136,
+      "website": "",
+      "photoRef": "places/ChIJAWzvdvVlUhMR6n0_a__uqSI/photos/AcnlKN3Ea6lHGnSWlX_26Y_cvYorYc9rU_ZDuRJg6kL611pE-7G6e3D9xqrocqtw98UHK6C6eQBuenM8Dq9ZISaHVnD8D438gBwUVJxJR9Kp6vjIyMAGEIminbIiuEJhLMfEBiBg_Nxk0EZPq-p_mglhtrQRcepAWz7JjGqPqr48ErjSQVaK5SPGvjftPIuKqGz4NZ2unikFBWGar8f7Qwc4TBr5EbbzhP-Whj4SOjsCp3EA-zCYr5vmt0AD38Sq2erHlC6NdhxmBw87Gh5WRlhvSixeVY5RuUstiMjipK_Bc7isSkswAcJA_444-6tZUh9wcoeUXBV1brBLKDvK9P8bUYDxhhTfJNj6dlP75ljN1HMllGnNfgaD4wqi0i6QxABvDx4opiBzmOlB9EbNaGIqvBFTi7KjAMVge4Q3UbwhLyl02Bk-",
+      "photoAttribution": "2040 swuzz",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
+      ]
+    },
+    {
+      "name": "Valbonë to Theth Trail",
+      "desc": "Epic alpine hiking trail connecting two picturesque mountain villages",
+      "longDesc": "A legendary hiking route through the Albanian Alps, connecting Valbonë and Theth valleys, offering dramatic mountain scenery and authentic village experiences.",
+      "coord": [
+        42.4125868,
+        19.845977299999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=18446018989471102627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJkSVtX7dtUhMRo_aIK4ps_f8",
+      "address": "CR7W+29Q, Rragam, Albania",
+      "rating": 4.9,
+      "ratingCount": 140,
+      "website": "https://sondortravel.com/",
+      "photoRef": "places/ChIJkSVtX7dtUhMRo_aIK4ps_f8/photos/AcnlKN12hJSlMdniRkbNnpqsMrgC9te5jQpDIOEwhmIyoUmBuaPzzAuWbVykDjW3PFmciAGGSvbkhxcpvDnczb0_qeYnnzKnFkZFrTgABsIWHVVo8SdkUsnP8xs6fwGLqTdUOCzfahAAuI_hvkqi928t_JpK7x7cij72LdbqpK7rSDU-VHbDMgcdLOEB8WwK-6fVz0h60gz-V3AN_UmndP6RzGijpVv1pu97Td11Bd7vbMWgkOfcAfTHhqjTxtUCvE7HrlzqgUL2I_hSmucESQPexW90L-VVvgD79IW1lMhr7ygjVXqYb8HVULSf7H2Ecr0_T79rfYf7Zo2uV6Tjp7wrqQ7hkMExRwan6Hv4BEcB4BXgHjB7OiVqBh_kjrmHkZ4i6uLq8Ppzcc2nhKeeZyIEw4XhqnNvJiFVo_rz6HBoZnaNww",
+      "photoAttribution": "Dirk Pohlers",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "068 549 5893"
+    },
+    {
+      "name": "Komani Lake",
+      "desc": "Surreal turquoise lake offering boat rides through dramatic scenery",
+      "longDesc": "Komani Lake captivates with its mesmerizing turquoise waters nestled among towering mountains, accessible by scenic boat rides through limestone canyons.",
+      "coord": [
+        42.1884662,
+        19.8827002
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7275808844286703520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJBYPbkTcWUhMRoLdaUZjd-GQ",
+      "address": "Komani Lake, Albania",
+      "rating": 4.6,
+      "ratingCount": 679,
+      "website": "",
+      "photoRef": "places/ChIJBYPbkTcWUhMRoLdaUZjd-GQ/photos/AcnlKN2PnXv0q5LEL3Gla06SOUexlq96E1tZJP1Jt4ZP85sAXwJR3N52BoIx0bajOrjDPhTOdqHALFc10Fw1arDFMDc8Rs2_jgIx6FLkiIt6yUp8N0NYVZE9HhT5LEwSEN3nMccvO2PZf6sMRQSKOT4G-ricKIMbeEzDeZzG7ZwV2AXvTKqlDdEOBrR4VbArV5AJiqJIDMMU30-WKJFpZ51Es1oD9Hyl3NUI__gPPZt2hWbXb3le16eNhsZM0QgzMdk4c-Kwa0_R8clJNs6CTAnd_HyjocHdHBksz02XC2uL-lj5YyiHtBqTfaDeGscvOGYIj21AAZIYSBeZ2hYkgUDm3AVkuUKR18bu1DKxWe9lbpCjFwpZ6JRoWSX_GXFM39suchzGm7USxNAkS95QETADHrnpX-eKPeGO5ekZNKbI1JnT4A",
+      "photoAttribution": "Cristian Tritoiu",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ]
+    },
+    {
+      "name": "Albania",
+      "desc": "Pre-summer escape, fewer crowds, affordable flights, warm beach weather",
+      "longDesc": "An ideal pre-summer destination offering fewer crowds, cheaper flights, and pleasant 20°C beach temperatures perfect for vitamin D seekers.",
+      "coord": [
+        41.153332,
+        20.168331
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=539558435551198190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJLUwnvfM7RRMR7juY1onlfAc",
+      "address": "Albania",
+      "website": "http://www.e-albania.al/Pages/default.aspx",
+      "photoRef": "places/ChIJLUwnvfM7RRMR7juY1onlfAc/photos/AcnlKN2Vlv0ah7905XBmcOkwFl98uXC2PUIjeJd1-3PD5DJDkAWN7Ub8oaGQjOpwds5wxTxeCe1yMVJ0ouo9meDrgP5AZV16kFw5-G94t4z1w1ZvFKsauI_LPEfE74mEAe0tZ_qrJxs53xGV5zu0QSjjQBF4Urhq55OhTC_mqpeHwMoSRCM2i4a4KnWevFcJYekem1ZeYi8w-7jdz8LQvDRwrKlK9Ww-hfy_LE2ArHjj2FX9rPVTeGshrPgHudlkXzmVWaYPlEchCrwCVfES1R7kW8mSJC-yEfU3JyK1rUb-HzGyioYCTf09pif-5B9bJbTAl0GTgqj9JEgc1DvW6etpK27L6F-M4YYue2ksTVwsYpkZpoPjlBlbLqNDQfy3MRzdsQ59l2i11kfHel209cNKZ_Nrie_eaqKSzd8p3TSXrvmqrHY",
+      "photoAttribution": "Taxi saranda Shehaj",
+      "tags": [
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Northern Albania": [
+      42.3521,
+      19.8439,
+      0.03
+    ],
+    "Multiple": [
+      41.1533,
+      20.1683,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

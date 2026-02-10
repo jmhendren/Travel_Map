@@ -9,7 +9,41 @@
   ],
   "defaultZoom": 7,
   "hotels": [],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "La Banchina",
+      "desc": "Waterfront dining, Nordic cuisine, wellness-focused menu",
+      "longDesc": "A contemporary waterfront restaurant in Copenhagen celebrating Nordic culinary traditions with wellness-oriented cuisine and stunning views.",
+      "coord": [
+        55.6893015,
+        12.6109311
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5405695602507565630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJe2R04ddSUkYRPspah4LjBEs",
+      "address": "Refshalevej 141, 1432 København, Denmark",
+      "rating": 4.6,
+      "ratingCount": 1619,
+      "website": "http://www.labanchina.dk/",
+      "photoRef": "places/ChIJe2R04ddSUkYRPspah4LjBEs/photos/AcnlKN24Iu8f8AqOidnW6HkLvQ2gS9LptTXc9vpZ2awIqSXQYujAokT2umXe4bIkNtjLrakLHPNcpXLMoB2M8-A-lu55fPsovvVqq7yAgsy8EBkUSM0Ckw4RHuLzjMaq7N5e8jm7WAc8W5h0MGhoIXWaAG3nveUvnB5ZHGDaGxvjlbZ_uhpSegwoePG6wibBQ-KVPbZJTIPbBArYWx5x2mt0fkJ03jjeWe5bQw-4uCAZ8f7dpfNM7APMFa-ZfFlCjogEPvnYx4y6V1cAmDQmjdhSrcnFwROtqy1vfJPTsuF6RV1OzRCL83gDn7EGNp2Vpq8tBbCdps3fkivvL1A8GERhr5nJBUTDEssG1xqC4TWspptfgOB7JYzvmVZ0YaPCETIaSJU_ozDwhsoo12GLtXETGiS4s_NAYIqmFsbuSnLQymdtyszs",
+      "photoAttribution": "Choko Lars",
+      "tags": [
+        "Fine Dining",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: 8:00 AM – 4:30 PM",
+        "Sunday: 8:00 AM – 4:30 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "phone": "31 26 65 61"
+    }
+  ],
   "experiences": [
     {
       "name": "La Banchina",
@@ -40,6 +74,50 @@
         "Friday: 8:00 AM – 4:30 PM",
         "Saturday: 8:00 AM – 4:30 PM",
         "Sunday: 8:00 AM – 4:30 PM"
+      ]
+    },
+    {
+      "name": "Tivoli Gardens",
+      "desc": "Historic amusement park, perfect for letting kids explore independently",
+      "longDesc": "Copenhagen's iconic Tivoli Gardens offers a safe, enclosed space where children can experience real-world independence while parents relax. A beloved family destination combining entertainment with trust-building opportunities.",
+      "coord": [
+        55.673684099999996,
+        12.5681471
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15687457030514878384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ8-r2gBJTUkYRsCcLtQ0Ltdk",
+      "address": "Vesterbrogade 3, 1630 København V, Denmark",
+      "rating": 4.5,
+      "ratingCount": 89950,
+      "website": "https://www.tivoli.dk/?&utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=website_button",
+      "photoRef": "places/ChIJ8-r2gBJTUkYRsCcLtQ0Ltdk/photos/AcnlKN1hV6TZPNypk7GdcYCsAJcRka-gG9o9AIvEf8giCjy_mWPz2FZkvM6s6wW1HVcuWHgOQ7KYY3SadbV6la8VN6f-umq-Tf_rWQOwiASFCZeK7YySiWhJczzpiK65dCQY8Q16hPf2dKNapzdWNI3W72yp93oLpA_3BGwtsVIM0Fq7fvExAwJdRzRy38oU6T3UnO4wg07odfK8m4rGi8Z1UV8WH0J_2d07CbaQuTRatf9XXat45apup9jDUfhbcfsVu61RJfMSz9R-9-6Nae1CBojWb8_pxY4IqnFfdqhxWzKY9g0vf5Nwaf4IjDtm0Ds0QOQT5dAGqA-ENDwp8jA_RunATJGyIWiyZ_jrsC57q8CgUoMHYQdsEv14eBl1ZXjs8Ojb8SAOezIwYxRffWeqdK9B8nZM_WL7MEC3Tez4KqAk_Q",
+      "photoAttribution": "Dinho Vilas Boas",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ],
+      "phone": "33 15 10 01"
+    },
+    {
+      "name": "Copenhagen",
+      "desc": "Scandinavian capital famous for hot dogs, Nordic design, and vibrant food scene",
+      "longDesc": "Denmark's charming capital known for innovative Nordic cuisine and its legendary hot dog culture. A design-forward city perfect for food lovers.",
+      "coord": [
+        55.676096799999996,
+        12.568337099999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=350575837526124472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJIz2AXDxTUkYRuGeU5t1-3QQ",
+      "address": "Copenhagen, Denmark",
+      "website": "",
+      "photoRef": "places/ChIJIz2AXDxTUkYRuGeU5t1-3QQ/photos/AcnlKN31cWWtPWTKyaik-BE7gRQDT_4Cc6EYzMFumhGI_t9Ln_5gS5CyD4OFxoTMa8PxgbylsQkdwpy1Cr3qnAHgxOHAXyDBrU69k63y1GwoFAKG3mpLv92k_FQGkgLW8pwgptmogpLQWmI7tpRP_Ys14ELb0pCJYhu8lBgBal--VahF1upWeV0EwkpNCjcTPfcvJnYf-Tso314ZSZWtmTQKhBvQSa3wd-SRloOIGvJSXp2j22L_H3sBzuAz-pHX53W2vP2OEqpVBukeJrAx1jjJIZ6DdScvqjX8h3_GRt4SDDJkTGL8XS_VBI-6ecciquEp8VFnorVtAJf3lFMLoZvlMN69XVrKj9wwGduvaegOuA80CsUnwQ20fE3h1PjP8SigwJ5liylcu-t7kns_YFXMPW36_PWdqKFRk84dPiGBjNo",
+      "photoAttribution": "Joe 9⃣7⃣",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Photography Worthy",
+        "Art & Design"
       ]
     }
   ],

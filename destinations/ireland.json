@@ -51,6 +51,151 @@
       "website": "https://www.ashfordcastle.com/?utm_source=google&utm_medium=local&utm_campaign=hotel-ashford-castle",
       "photoRef": "places/ChIJgVZlMP-PREgRtsD6aHWlm7Q/photos/AcnlKN1hDJfsKjjALXBm1Fkb9LkP6Zez2hTR4YlBTyYwCeTLXaWFSwQqHZf-H220MLAZWjrTAtMEfR7f-YK4E4FkjSLmF1d9LdSR3VNbpY4FQcJv08HgE3GvxqWvKGNGnp8EazHuNuPImYyoHlWySyI4WevSptPeiJtVvmJEP5xzJJUZGkTfQ2baHvE-YTwLxdN92T4NkpNn2L0qXkizBmJ-yMXZEQGk8isSTor3kI2COxt5kQSOipumzz6Q0kvLwsZTXxa_dhGuUOxh2DJ9DUESnsWmbo9ALy-OYUbvASZeLT-StQ",
       "photoAttribution": "Ashford Castle"
+    },
+    {
+      "name": "Adare Manor",
+      "desc": "Historic manor hotel, modern acclaimed kitchen, luxury dining experience",
+      "longDesc": "A storied luxury hotel where centuries-old architecture provides the backdrop for cooking that's modern, deeply local, and internationally acclaimed.",
+      "coord": [
+        52.564113299999995,
+        -8.7778239
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15094117314237794391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJseboCAxGW0gRV4g3qbkTedE",
+      "address": "Adare, Co. Limerick, V94 W8WR, Ireland",
+      "rating": 4.9,
+      "ratingCount": 2412,
+      "website": "https://www.adaremanor.com/?utm_source=GMB&utm_medium=Organic&utm_campaign=GMB%20Organic",
+      "photoRef": "places/ChIJseboCAxGW0gRV4g3qbkTedE/photos/AcnlKN1ncjnloKvzmlET08xg7sL9ru-fp73b9XkzMzYGfVuVFqUg2seBotTxt0XCiRJNjy37A287qza5xyxHqKj3dbI0m5_K9hHKbqOe4O8cNtajU4IN7ZG8uiKh1vf9fTP74H0YPFLhP89fZD05__Rinx7D3AIMZLZfkAtNN7jf3q9kEy-aALvswGWvU75__BfATcAv05N_PsciNK8MzatMFVptm8uvbNONIU8yH4SRS_PTh3AlE0WG3QodjG6leom8p4Bt-UOI4u_s7DBZe67nHvmtLHU3CbsZtzzdmgtM2_-jPg",
+      "photoAttribution": "Adare Manor",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Romantic",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(061) 605 200"
+    },
+    {
+      "name": "The Merrion",
+      "desc": "Luxury Dublin hotel, modern acclaimed kitchen, fine dining destination",
+      "longDesc": "A storied luxury hotel where centuries-old architecture provides the backdrop for cooking that's modern, deeply local, and internationally acclaimed.",
+      "coord": [
+        53.3385678,
+        -6.2528614
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=181750553651018624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJrzNr35kOZ0gRgHsZZCq1hQI",
+      "address": "Merrion St Upper, Dublin 2, Ireland",
+      "rating": 4.7,
+      "ratingCount": 1892,
+      "website": "http://www.merrionhotel.com/",
+      "photoRef": "places/ChIJrzNr35kOZ0gRgHsZZCq1hQI/photos/AcnlKN1N8fMVb-aSJn5FqzMJrn0EMuzG0UL_b71200G6SxkkxCaDjS2GhV73eYVNblp-_4erxbnTII_11v1c-DYql-LaCTCaD593_jkpiY64Y8VmWdigFk-NV6z_lfZkdQbkG9ZJf9ygRD0W7hdeYGPDM2EPeWaFWzEsA4jVdANGcrTQi4iX-YniUlVrxDJdqK2d3IoZUME4uXixi1AU1wSvq53F227QY8Chz0bpEQP_NZx5s-1agkfuqysVXhwx4Arxt2XJJWkrUzihwReuTGBaZqUhkMkTeFJi0BKC4DjmUpBx2w",
+      "photoAttribution": "The Merrion Hotel Dublin",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Romantic",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: 12:00 AM – 11:59 PM",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(01) 603 0600"
+    },
+    {
+      "name": "Sheen Falls Lodge",
+      "desc": "Luxury lodge hotel, modern acclaimed kitchen, fine dining experience",
+      "longDesc": "A storied luxury hotel where centuries-old architecture provides the backdrop for cooking that's modern, deeply local, and internationally acclaimed.",
+      "coord": [
+        51.8745152,
+        -9.5638266
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12675631255205817000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJT7npDqxsRUgRqKph3nfj6K8",
+      "address": "Sheen Falls Lodge, Kenmare Old, Kenmare, Co. Kerry, V93 HR27, Ireland",
+      "rating": 4.7,
+      "ratingCount": 727,
+      "website": "http://www.sheenfallslodge.ie/",
+      "photoRef": "places/ChIJT7npDqxsRUgRqKph3nfj6K8/photos/AcnlKN0Apv-GbDk3SbpaDN7KPF3qU4RHb583SSs7TEbjeWyFaNUyxWJHmnMLDjrhGk7T01bDJ1rHd4PDPN6VUeJ6TiiiHu01q7cVL-Ajv1R2xEMSw8DijIhpDZEEeCQuCliyib0yarPLFu559w_Zv42TtW6VyU85lUtqJDSdLKwZtjf9x_7_zh-BJxpbVMa3o84S1KPP9j7JkPgTglkJoQ3azwropnV6GD7LbExMdAi2m86Jiw-OkNM5zd_O0jr3SbJhp4eq7X82pF1PSLc4rJNNsBcDURtFGzIzJoZi1wTuI38lmw",
+      "photoAttribution": "Sheen Falls Lodge",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Romantic",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(064) 664 1600"
+    },
+    {
+      "name": "Hotel du Couvent",
+      "desc": "Exceptional boutique hotel, finest in destination, brilliant design",
+      "longDesc": "A distinctive boutique hotel representing the pinnacle of Irish hospitality. Created by innovative hoteliers committed to excellence and disruption.",
+      "coord": [
+        43.6971767,
+        7.278835599999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2036539807090919163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJfUqOdgXPzRIR-8aYHCo-Qxw",
+      "address": "1 Rue Honoré Ugo, 06300 Nice, France",
+      "rating": 4.4,
+      "ratingCount": 494,
+      "website": "https://www.marriott.com/en-us/hotels/ncehc-hotel-du-couvent-a-luxury-collection-hotel-nice-france/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJfUqOdgXPzRIR-8aYHCo-Qxw/photos/AcnlKN0fjzp6bUPdZMFtP2N3tmj2-THzYJ1VyXDdXkDsftQZp6Tx-ZMJI1pFRUoHM-k0LLN7AEXlLO9-jJ87teAQejEYGR74lVNiYhVNTY22_YyOrsHWMF6Ctm9Qt_4vcB5LSQVTFehhrdwFfmq7Ws8vFQn3zhWfrBJjjEFf5yHEmfgI8GhG5n4HoJulb0U35RkkswZI2fz_xXxXl7bLNvt8JSgoPAU_BFXF2Cg5KuNCZGxNujRiKTS3SgkE720U1kDSsF8YwGK_vGYPmZmIxC5VGriq7HiQeKLM4-l1gluTzFlREQ",
+      "photoAttribution": "Hôtel du Couvent, a Luxury Collection Hotel, Nice, France",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Cultural & Historical"
+      ],
+      "phone": "04 12 05 55 60"
+    },
+    {
+      "name": "The K Club Ireland",
+      "desc": "Irish elegance, sustainable luxury, countryside tranquility",
+      "longDesc": "An exclusive Irish countryside resort committed to eco-friendly practices, merging refined luxury with strong environmental and community sustainability programs.",
+      "coord": [
+        53.307367299999996,
+        -6.6250807
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=1529119250548819630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ4Zaa1gt6Z0gRroYsVNuFOBU",
+      "address": "Straffan, Co. Kildare, W23 YX53, Ireland",
+      "rating": 4.6,
+      "ratingCount": 2846,
+      "website": "https://www.kclub.ie/?utm_source=Google%20My%20Business&utm_medium=organic&utm_campaign=GMB",
+      "photoRef": "places/ChIJ4Zaa1gt6Z0gRroYsVNuFOBU/photos/AcnlKN3b0M3soyvZsIqy3zzJUNn6hi4-HirByXQ1nEUAjreAqw_LcFVe4ua8mjUWvIsbAYmGSGrIMr6RYcRBGI0FOTAiDvP2khPyZREIb-oVGZkdMGBEDEsUxMDJawcgkbTczwIMcLNbtiSWYnLGOCzsAaqtMvchmD0Rq7cDAZMfoMDCdWaZ8aHFImKTvs8Em2__7fAMU3maTvhYRasZ6KJxSpzBZFTwhdkjSMvn6iDHqE11NDidAcrTCVrX542M9FVC4Idtlw-6cqd18bHDkSnOY9OKS8PG_jesVgZuGQJnhNnAVw",
+      "photoAttribution": "The K Club",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "phone": "(01) 601 7200"
     }
   ],
   "restaurants": [

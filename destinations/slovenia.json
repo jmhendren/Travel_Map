@@ -1,0 +1,47 @@
+{
+  "key": "slovenia",
+  "name": "Slovenia",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇸🇮",
+  "defaultCenter": [
+    46.474,
+    13.7841
+  ],
+  "defaultZoom": 10,
+  "hotels": [],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Lake Jasna",
+      "desc": "Crystal-clear alpine waters surrounded by majestic peaks",
+      "longDesc": "Crystal-clear alpine waters reflect the surrounding majestic mountain peaks, creating a pristine and breathtakingly beautiful natural landscape.",
+      "coord": [
+        46.4740417,
+        13.7840952
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10331928340943538000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJjQz6Utx8ekcRUAe7zhViYo8",
+      "address": "Lake Jasna, 4280 Kranjska Gora, Slovenia",
+      "rating": 4.8,
+      "ratingCount": 2453,
+      "website": "",
+      "photoRef": "places/ChIJjQz6Utx8ekcRUAe7zhViYo8/photos/AcnlKN1LwXVojF9u0FLY0tRilUu35MaINelgs07mMLrkxUKnuVcNHEl7p2IVdVKNRk6ibD5LpL0z-nPCKna5hufjUsvAfcZzZAcXQuEmAD6kbeDBpHx4I_nSEx_oNGlIeIRaycOIiX1ERCk1u1ZdwBWWc5sialf0wiCRbUDHnr5RUxEJXJ9ANkzxBjpTRWLGWNlqkIXUwGklfLYLhbWNPmJnhe6WJg6UmK7tJdVzBBVTaRGRdsgs8FOIbgE_-SKHCXYDoA-uB9PWHOF5-Tl5JZHqDkV6UUgcQIDGC7xAr5zQhYEp75ovD1H3G02qSB4fgZbw6wu6eybEFhOCd_jVeU6ubFA8O_qUNvg94FUMaHrtoW5_fwMg_ZTJh2wxEnE5FiIpA8rKwT-y8VR0y08oyy4aFO_uMO5dmCus9UoMXat9d7EWyjU",
+      "photoAttribution": "Zoltán Nagy",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Kranjska Gora": [
+      46.474,
+      13.7841,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

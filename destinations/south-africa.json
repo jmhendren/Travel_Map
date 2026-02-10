@@ -1,0 +1,579 @@
+{
+  "key": "south-africa",
+  "name": "South Africa",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇿🇦",
+  "defaultCenter": [
+    -17.468,
+    21.0739
+  ],
+  "defaultZoom": 4,
+  "hotels": [
+    {
+      "name": "Singita Botswana",
+      "desc": "Singita's debut property in Botswana, luxury safari lodge, wildlife immersion",
+      "longDesc": "Singita's inaugural Botswana property marks the luxury brand's entry into African safari hospitality with world-class wildlife experiences and refined accommodation.",
+      "coord": [
+        -19.486000999999998,
+        22.796094999999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12110038308528749707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJgQnkg-IFVhkRi3w6DK5_D6g",
+      "address": "Okavango Delta, Botswana",
+      "rating": 4.8,
+      "ratingCount": 57,
+      "website": "https://go.andbeyond.com/nxabega-okavango-tented-camp",
+      "photoRef": "places/ChIJgQnkg-IFVhkRi3w6DK5_D6g/photos/AcnlKN3Gf1cmeziwWzhZFpgwuDiaoeYK4DbcdPKhkoZ1bDHhllSlu87-0mm4egrCaCiYVFjM0b0Hl1fOQaZLLYDeOaREgKTpS7qR14buJbLnpV-gy18JOgL3zKb994nefUyFRXnskqwy8cFrMxUvUtcAPakc171ggX9kuUPkiFr_eGJqxLN3E-6zSTgT7FRCodNsrEsQ_et427OUHLowRh72AF_zes9GVXJrBPoUy2CxPMF80x0fGUU_TVtcLjWXpUJlf34m7bCn4vHyZsN1t1As0oe_EVN_Zo6fb4Nv8x3_FX0AkA",
+      "photoAttribution": "andBeyond Nxabega Okavango Tented Camp",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 12:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "011 809 4300"
+    },
+    {
+      "name": "Resplendent Ceylon",
+      "desc": "Sri Lankan wellness sanctuary offering transformative healing in island paradise setting",
+      "longDesc": "A distinguished wellness resort in Sri Lanka delivering genuine transformation through integrated healing practices in tropical serenity.",
+      "coord": [
+        6.919175999999999,
+        79.850088
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6057040513014603469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJmRkad0BZ4joRzZ5iSEHuDlQ",
+      "address": "46/38 Nawam Mawatha, (Forbes Building 2nd floor), Colombo 02 00200, Sri Lanka",
+      "rating": 4.1,
+      "ratingCount": 36,
+      "website": "https://www.resplendentceylon.com/?utm_source=google-my-business&utm_medium=organic&utm_campaign=Resplendent_Ceylon_Google_My_Business",
+      "photoRef": "places/ChIJmRkad0BZ4joRzZ5iSEHuDlQ/photos/AcnlKN0umdQF_e1csNBoIVJXXHHk-Ty3oiHqtIeN9xuvVM1H_UtNDNqTKukXb4pkGbKwdizWv1Yp46IainlpdcXoLdPs32tn6PgF2L-3r8LNaOQJe00PgoP_SMNa03qFlJQ4V_kuOlsEQK72HVE9zosOdW8NDjpTwebDg9wWB_eMRoI2vtJEeePJqxxy2AXdSZBj8GLLW1p7mDFWMmkIOv_7YAK4IWxPDNhVk8qCnfutlE6ybLOApegh3-s7gfsmkOtwlNQjGPpebY9EePZXl7EAkIRR25wdNF23D2-8dqBIWHYomg",
+      "photoAttribution": "Resplendent Ceylon Pvt Ltd",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Romantic"
+      ],
+      "phone": "0117 745 730"
+    },
+    {
+      "name": "Sterrekopje Farm",
+      "desc": "Wine country retreat, serene reset, unplugged luxury experience",
+      "longDesc": "A tranquil wine country sanctuary offering the perfect serene escape before adventure, ideal for sipping wine and reconnecting with nature.",
+      "coord": [
+        -33.930277,
+        19.110467699999997
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12498714875073098635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJD8Bnboe9zR0Ri3OfNfVadK0",
+      "address": "Excelsior Rd, Franschhoek, 7690, South Africa",
+      "rating": 4.7,
+      "ratingCount": 29,
+      "website": "http://www.sterrekopje.com/",
+      "photoRef": "places/ChIJD8Bnboe9zR0Ri3OfNfVadK0/photos/AcnlKN3e2mno4oKjn5QjI-mH920ag7uHpIaKiHUSWTe0KTnlWYS0BOfD3DRvgWZb07wmju6Ps8OFZ0xkVKsCfGW-bAFkNsKz4GGIbNWZOvAuH9UyJaMGK8OE7n0gIihYMjvDKFCz01Oqk3UJPIaVxGjmy6N-cfyPo7mdZTfEf5ZkStq3V-C8t97EKlqwmtW1jSmBxNefXIDfxRyDZCmVX9fsP4ljLZJrC2JAVm9Ve4bxb4zYaO46NCFlgmAuuVBpHuM-jafqTtQJy2bzZKVoGs5bT4EB0CKYi2Un3iqXxjaSjx8gSg",
+      "photoAttribution": "Sterrekopje",
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "phone": "021 007 0762"
+    },
+    {
+      "name": "Stellenbosch Vineyard Lodges",
+      "desc": "Sculptural vineyard lodges, new-world wine region, contemporary design architecture",
+      "longDesc": "Stay in architecturally stunning vineyard lodges in Stellenbosch, where modern design meets new-world winemaking, offering seamless integration into South Africa's premier wine country.",
+      "coord": [
+        -33.9495413,
+        18.8125724
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6939006453458345599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJMWIHXcyyzR0Rfx6H4JpNTGA",
+      "address": "Polkadraai Rd, Baden Powell Dr, &, Stellenbosch, 7600, South Africa",
+      "rating": 4.4,
+      "ratingCount": 1617,
+      "website": "http://www.asara.co.za/",
+      "photoRef": "places/ChIJMWIHXcyyzR0Rfx6H4JpNTGA/photos/AcnlKN33aEjwab1B0f9aTCLdmGXGAtgzwZWXBdV8TpZ_XYaCPY7V-SWLKHXPrd0elCwhf6bxIuP2zG_6wkjINTrv62auHHukgkhVKh8m0xkgZY1xt90AJxzIFK1gc4zfZwcXhU6L_060FUJWOaPx1UccML6UJLFobX1CT_QN3lf7LN_6woSNinoprvrINnZsu2GKri4YyWDzotyO1iJvnOpsfViSV165rcLahzYIFn-LEWqIzDvuK9vTPvv5K3GQ6dabegnTsSvEViSme3h2itwyDG32iGb64kui3KnQMzEwr8zjaA",
+      "photoAttribution": "Asara Wine Estate & Hotel",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Art & Design"
+      ],
+      "phone": "021 888 8000"
+    },
+    {
+      "name": "Singita Elela",
+      "desc": "Singita Elela luxury safari lodge, Okavango Delta, December 2026 opening, wildlife immersion",
+      "longDesc": "Singita Elela opens in December 2026 in Botswana's Okavango Delta, delivering exceptional safari luxury and intimate wildlife encounters.",
+      "coord": [
+        -19.5056312,
+        22.6337878
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2379948613489268815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ27ftllMDVhkRTxi2iqdGByE",
+      "address": "Okavango Delta, NG26, Maun, Botswana",
+      "website": "https://singita.com/lodge/singita-elela/?utm_source=gmb&utm_medium=organic&utm_campaign=singita-elela-gmb",
+      "photoRef": "places/ChIJ27ftllMDVhkRTxi2iqdGByE/photos/AcnlKN2rHr2-pbNjnqL7phhnDlgKLaQRzr_gpXz4_qjHJ_pul0RIE9-dQvYLT2ZQALxfmPK70okVrsVxzYDfyqV0mdaMXvDvYx43en3_dCSimigt3fdyR5-TH3_3ANJ19CkZ1HWhasuRwaPYsW64kQOe13ZFfjdtLarTay8DF7S2OYbBYFhVJY3aZ0g62fSyHVY3yegvfrvKloxl2usr-6-n4G7ItMvSsk249NW32jO-M2ho05dzQtHD1z6nHtiZdRjXZtI4-VKepoq4vYr44rbdfoq2B6GLowd06Cc78NCiiOsenQ",
+      "photoAttribution": "Singita Elela",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "phone": "021 683 3424"
+    },
+    {
+      "name": "Saxon Hotel",
+      "desc": "Michelin Key luxury, immersive experiences, thoughtful design, unforgettable service",
+      "longDesc": "A Michelin Key certified luxury hotel in Johannesburg offering immersive experiences, thoughtful design, and service that creates truly unforgettable moments.",
+      "coord": [
+        -26.112119999999997,
+        28.035610000000002
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=14677229901286353659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJwaysmUxzlR4R-yrq-NT-r8s",
+      "address": "36 Saxon Rd, Sandhurst, Johannesburg, 2196, South Africa",
+      "rating": 4.8,
+      "ratingCount": 2097,
+      "website": "http://www.saxon.co.za/",
+      "photoRef": "places/ChIJwaysmUxzlR4R-yrq-NT-r8s/photos/AcnlKN1_4r05843WzRcBjjlg8RVT0ikHOA1rLgefAfTFURPB9Z8yAhIOhianf9H8FxQZtnYqaaOkCiXlTcA593onTGGtkrVfhUyCa2HgHp9EJmTozEvuk1XQs0ALk9bI5kVSrEzv5YBMG7Z5rEkG74-Irmo1469do73um5laY8-ZN4MDaf07y-w-IiXWnNYN5lercNQaRLvZeCgawQvl2YORHS1Q4n2tYmVvxFWh8Uew5YlDSvt_gn8YHNhkS-YRRnY2vmXEn3XuY22CbAUk2FNqIpjlK7wOfydVe1fx2tHfOE04omRZxRIfALZ6EZ-gwH_jXSSB2-TbI307QYSofzwsVazsw7oL7JZFhYy0NcNoRxzoHorVpB-ztjxukYbWsQ4JdMQcTcK_mcn_pu4hxN4rBdyRexo00fo5RleATFVtFQW_UZRH",
+      "photoAttribution": "Explore Joburg Pty Ltd",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Art & Design"
+      ],
+      "phone": "087 375 7777"
+    },
+    {
+      "name": "Tintswalo Atlantic",
+      "desc": "Luxurious South African mountain resort, stunning vistas, nature immersion",
+      "longDesc": "A spectacular luxury resort nestled in the mountains above Hout Bay offering breathtaking views, exceptional service, and intimate wildlife experiences.",
+      "coord": [
+        -34.065146999999996,
+        18.36796
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11328550504010596357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJZ2UzSmVpzB0RBcCfg6kYN50",
+      "address": "Chapmans Peak Dr, Hout Bay, 7806, South Africa",
+      "rating": 4.8,
+      "ratingCount": 733,
+      "website": "http://www.tintswalo.com/atlantic",
+      "photoRef": "places/ChIJZ2UzSmVpzB0RBcCfg6kYN50/photos/AcnlKN09WuMYkKRLTAm64SLEQNIP5Q5uv0c6ZXC-lyhYVPxKDP29UgcV5LSx03OnjDXlAId65Sttx3MNTrtPnTUzIakziqAu34rDYcIt8H3wRswUfutqKvgbteY03md3FEc3clViseoMtMoApMUG01rIoFJ1GVHr_GKdTdS2NCFYaxvrX83M0zCv82wTZpF6ZwtwFfYQmMLPDjyuT9q4TS1sFdC3B81PhBQPR6dhZaRE4JINicaDrBPYb10ma0-vGTkSvXQWo-D-AHiF3b2-62-EChs30_i0WIk9RQhRhrHnwP325g",
+      "photoAttribution": "Tintswalo Atlantic",
+      "tags": [
+        "Splurge",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: 7:30 AM – 10:00 PM",
+        "Tuesday: 7:30 AM – 10:00 PM",
+        "Wednesday: 7:30 AM – 10:00 PM",
+        "Thursday: 7:30 AM – 10:00 PM",
+        "Friday: 7:30 AM – 10:00 PM",
+        "Saturday: 7:30 AM – 10:00 PM",
+        "Sunday: 7:30 AM – 10:00 PM"
+      ],
+      "phone": "021 201 0025"
+    },
+    {
+      "name": "Singita",
+      "desc": "Prestigious luxury safari resorts, wildlife immersion, exceptional service",
+      "longDesc": "An elite collection of ultra-luxury safari resorts across Africa offering unparalleled wildlife experiences and world-class hospitality in pristine locations.",
+      "coord": [
+        -2.0865226999999997,
+        34.4930855
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10310516219419411806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJDdVR2qVUzRkRXsVlxd9PFo8",
+      "address": "Singita Grumeti, Serengeti National Park, 31623, Tanzania",
+      "rating": 4.7,
+      "ratingCount": 151,
+      "website": "http://singita.com/lodge/singita-sasakwa-lodge?utm_source=gmb&utm_medium=organic&utm_campaign=singita-sasakwa-lodge-gmb",
+      "photoRef": "places/ChIJDdVR2qVUzRkRXsVlxd9PFo8/photos/AcnlKN2Tfd0n0g7AbLOrgmjANKXzRp3u7ORQMaVt9oke-NX477Y6I8aSAcxN5btNgBd2LAUr2vFBCNBKoDdc7sClhTy3PQFWwbutGwIBj05EPwrpyHGiUKbLCxRsr06YWNLV2KMhTlVIkw6YU1bWO6vr03758ITmLjb9E2SGuflJNyx07sw3I-FoDDODZJAwK8bwzkX6Wc4RY9UwAaugw3_6tNGw5LobRnjuKsrApCPI8DWAdKP-FNpNxU_T1ANTmx4fnW8PZ07A0v0oxJpZspyEuFquttPDu36zM6JrrZcPrXLg4Q",
+      "photoAttribution": "Singita Sasakwa",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "phone": "021 683 3424"
+    },
+    {
+      "name": "Desert Whisper",
+      "desc": "Secluded desert lodge hideaway, luxury solitude, remote Namibian wilderness escape",
+      "longDesc": "A decadently private desert lodge nestled in Namibia's remote landscape, offering an intimate luxury escape far from civilization with stunning natural surroundings.",
+      "coord": [
+        -24.092567499999998,
+        15.911051599999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=5015503360453235778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJufZJb_n9chwRQtSXqbulmkU",
+      "address": "Namibia",
+      "rating": 4.9,
+      "ratingCount": 45,
+      "website": "https://gondwana-collection.com/accommodation/desert-whisper",
+      "photoRef": "places/ChIJufZJb_n9chwRQtSXqbulmkU/photos/AcnlKN17MpnAEBNc6-Dxlq_o0guog_KYcBMr2mQidNXAEum9FWYHZmNDn2eB7L6fTl_6GVNN0js4gVxueusxtNO6g7XoQFsrCiP27fEOBUreLq14NOVLeYAYywbDgJUznlgPp1cYERKlErN0bQ6jcfwN9bErikoDGWDIKL56jniDyD4fm8AAFK6OrutiC-NtXWnVbRO5CHvk24BV0tMEEw3qaZUX11Mt6BmQvMx2yogENBh_HbOcyzHKAhVi86b1g9LX3VFX6G1SVR3khv22QQzPqx5stu2PK8GW5sEYXc260H9RnXrnyOszIw0A-4D-7MNxGc-lASNYGqQmpiD3vWSD3PUeF6RNAKIR-QRvj2oSwbfjq2NA9FvCuxQs_7flkfBS4aerwjgcdaCqeLPtbzpKK4qxY4f5hzMCbYBRx73gXNg",
+      "photoAttribution": "Bella Bear",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "phone": "061 427 200"
+    },
+    {
+      "name": "Royal Malewane",
+      "desc": "Safari luxury villa, wildlife adventures, top amenities, private retreats",
+      "longDesc": "A regal safari villa in Kruger National Park delivering ultimate luxury, wildlife immersion, exceptional privacy, and world-class service for extraordinary group adventures.",
+      "coord": [
+        -24.5179567,
+        31.164185999999994
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6994885480493110177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJNUUod7YGwx4RoVNUtUjTEmE",
+      "address": "F5J7+RM Amanda, 1380, South Africa",
+      "rating": 4.8,
+      "ratingCount": 127,
+      "website": "https://www.theroyalportfolio.com/royal-malewane/",
+      "photoRef": "places/ChIJNUUod7YGwx4RoVNUtUjTEmE/photos/AcnlKN2yo8zE_hRaXENoGe3JfdLikTnyaljJFf1FIuUtRka2SzXCaOkGS091PuR6GwptEABIWip29Gd0Eq4--qDjbWHJ3Q2K5j61caCcetugUJJTIof9rhN8O-35qCEAMGMVvqG9s50NBmuFDHTSF9iWYjzxLcV8hTWRfbS770ywCZRyR5OTDaRxYZm1evhwOPaLWWaHr3jOj2BgYScNuaINDoO85YrXOmqqQOBY-DrWgauoytIqrrPOL66Wg8ChfJ8BjyiCvVjP-q9lGGQg6-8okf0w5jjQ1LxtFpsdchjll3HJGw",
+      "photoAttribution": "Malewane Lodge at Royal Malewane",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: 6:00 AM – 12:00 AM",
+        "Tuesday: 6:00 AM – 12:00 AM",
+        "Wednesday: 6:00 AM – 12:00 AM",
+        "Thursday: 6:00 AM – 12:00 AM",
+        "Friday: 6:00 AM – 12:00 AM",
+        "Saturday: 6:00 AM – 12:00 AM",
+        "Sunday: 6:00 AM – 12:00 AM"
+      ],
+      "phone": "015 793 0150"
+    },
+    {
+      "name": "Belmond Mount Nelson Hotel",
+      "desc": "Luxury Cape Town hotel offering fully appointed pet rooms with bespoke accessories and dedicated room service",
+      "longDesc": "Pamper your pet at this prestigious Mount Nelson property, where canine guests enjoy luxury beds, bowls, and a specialized room service menu alongside five-star amenities.",
+      "coord": [
+        -33.93206500000001,
+        18.411655
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10128641174069490233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ2ZmgHnFnzB0RObLO5XspkIw",
+      "address": "76 Orange St, Gardens, Cape Town, 8001, South Africa",
+      "rating": 4.7,
+      "ratingCount": 3286,
+      "website": "https://www.belmond.com/hotels/africa/south-africa/cape-town/belmond-mount-nelson-hotel/?utm_source=local_search&utm_medium=link&utm_campaign=google_business",
+      "photoRef": "places/ChIJ2ZmgHnFnzB0RObLO5XspkIw/photos/AcnlKN3r8kd_7VTKrQvh-DIjr3raLTxms3uXFDjY1DDfzecfpQAdsqQQxB_t_-8RECxRRWPJQzAi4GxYfpDxem9OzWIZ4ztv64LaK48TCn1frDcbTFdSs54OqiprZO3s3QwSipEqNNppZ_fEKmohEaby5wy8mgM53rVEorNpQcJolXb9vP1IbZ2JQMt1LQ9IIKGH7poVhjlJHnpaUmoWCmt8xl-B9ya0SP9ztxrwvUBSHvl3NDu8D2SnJ7PtnzA6pc_s9UsmUU44fVp30PMrOvvHS4KmSovs3P1hGpahDqcMAB4IFA",
+      "photoAttribution": "Mount Nelson, A Belmond Hotel, Cape Town",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Wellness & Spa"
+      ],
+      "phone": "021 483 1000"
+    },
+    {
+      "name": "Franschhoek House",
+      "desc": "Luxury boutique villa, South African wine country, chic refined retreat",
+      "longDesc": "A distinguished luxury villa in the picturesque Franschhoek wine region offering sophisticated accommodation and authentic South African hospitality.",
+      "coord": [
+        -33.9050995,
+        19.113607
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=12193750593693552655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJQ7BJRgK9zR0RDxDQSI_nOKk",
+      "address": "Complex, 3, Leopard Close, Pepler St, Franschhoek, 7690, South Africa",
+      "rating": 4.7,
+      "ratingCount": 10,
+      "website": "https://www.franschhoekvillagehouse.co.za/",
+      "photoRef": "places/ChIJQ7BJRgK9zR0RDxDQSI_nOKk/photos/AcnlKN3CnlNGFD9IviqbJQQF7RK48ATShfXUX5vJeIYzujw8WIN17Pq14Udt6RK-cX3SzUP0He_Trlhvo-TYxCWGM0TVUKUSs4HdCSVncOz8LBTLvaQSaeR_gLRMbDjHjU0KIE_ZBvLg6Z8-2u3uas9AB6TdOJUJM4VMG-qSquuIHio-sxDobzfck8ITaMVRZs3igOlHyKQtveXKsPAw-TZSmCn5CnXr7UPU_yNxdV1_pyeOoAZu5vfUh-RL9mFxuMODH6o9smh_F_OyOegBvM4LJJDHUbXGvuYF9ebCZSI7GcHfEhFoE2WIyjkduiLi7KnKpKdRMCwfIereEbVsUSFEF4FoM4lz8umNKbeI9XbZFYb-8ytJlmCEUkuAWO2xHJcvW0x8w3cwKCkH3hhy9tjg16nm_-d6i5-v3fzZUZrOVUyZPoMl",
+      "photoAttribution": "tastewithtara",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "083 499 1524"
+    },
+    {
+      "name": "andBeyond",
+      "desc": "Luxury safari resorts, wildlife experiences, African locations, premium accommodations",
+      "longDesc": "Premier luxury safari and resort operator offering exclusive wildlife encounters and high-end accommodations across Africa's most spectacular destinations.",
+      "coord": [
+        -24.779536,
+        15.888596
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2602667954511506078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX20E5xeCchwRnmrzELeIHiQ",
+      "address": "Sossusvlei, Namib-Naukluft Park, Namibia, Namibia",
+      "rating": 4.8,
+      "ratingCount": 138,
+      "website": "https://go.andbeyond.com/sossusvlei-desert-lodge",
+      "photoRef": "places/ChIJX20E5xeCchwRnmrzELeIHiQ/photos/AcnlKN1DepZ-nazgpFHYzUSTUiXBOv6ddr8i-G1ZY4yGRSUir0Vsgu7GVhWP-iaQDUnGpl_mA3aaCnWZSbHzJ1itM0Co7H2lhqDCKKYOgYzwZ1ktlVIJ61G3PhoPs-QqhCk1RNrKI2BINE77NFIPsDtUHfvlzhOQzcdiaPIV3LnE7e_nfvGdgBak0RzbA_pCxA0Z3VnyW0qW8dt_ckz1EqpApaZSjGpBrl6f9Rjkm75J4e3yzIylVO2bAxbvZd1bi5jGHmd2KIvFX2YzZBFuKxvwnXacEqT0y4SQo8Ap1Fn9clh8Uw",
+      "photoAttribution": "andBeyond Sossusvlei Desert Lodge",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 12:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "011 809 4300"
+    },
+    {
+      "name": "Angama Safari",
+      "desc": "Luxury safari lodge, wildlife viewing, mountain elevation setting",
+      "longDesc": "An exclusive safari lodge offering elevated perspectives on wildlife viewing combined with luxury accommodations in a mountainous savanna setting.",
+      "coord": [
+        -1.2740273,
+        34.9706501
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7687985523219262807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJdd2hFWXtLBgRV23UxRk2sWo",
+      "address": "The Mara Triangle Conservancy Maasai Mara Game Reserve, Lolgorien, Kenya",
+      "rating": 4.7,
+      "ratingCount": 331,
+      "website": "https://angama.com/",
+      "photoRef": "places/ChIJdd2hFWXtLBgRV23UxRk2sWo/photos/AcnlKN0Ihuj9_pT-hVFGCgHTRPK64EkyOYtN8djFg1CMCY7pnJJAk52Ue6cvJAQNne2xXM5YVp8ZGP2jMh4nX05ZJbPejBSqh_8V6nsvMqGbiCcLPo8L98-by9Vlwvl8XW4VruCW17_d9egVlyU53JYJ3AJZ7QBQAEymN-AFBcixYAwivTpzEaRdFKLJ0-AGe51K8Mz6l6FIV91x5MBm_uNcEnB0_LSyWEhBwNFnmmoPbm4kXtkHm3KyTUwf0oRJgk6zj8JeLusg0tYxinx7ZVKpRH-R-IJF8g2CrFWlMornwjyLlQ",
+      "photoAttribution": "Angama Mara",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "phone": "0730 630630"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Utopia Tropical",
+      "desc": "Brazilian chocolate maker, tropical flavors, artisanal craft",
+      "longDesc": "A Brazilian chocolate artisan creating unique tropical-inspired chocolates with craft excellence and distinctive regional flavors.",
+      "coord": [
+        -25.426971,
+        -49.27373420000001
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2678138939256637989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJIdViFZTl3JQRJYqIBS2pKiU",
+      "address": "R. Trajano Reis, 36 - São Francisco, Curitiba - PR, 80510-220, Brazil",
+      "rating": 5,
+      "ratingCount": 39,
+      "website": "https://www.utopiatropical.com.br/",
+      "photoRef": "places/ChIJIdViFZTl3JQRJYqIBS2pKiU/photos/AcnlKN0kyhsiP9Y2zeqV5ZncaGFtders_A-mJUcnZqGkQe_j94efP3ztxOOSvdIpsx_g7oBkIKTqz0w5vLoto-58ETxZx_UI5yNw1Gn1g-UxxgCj1xFUGdmvO5C8aKUjObXNKcgRZQe0mP70MaXrL-4xyOxlW0ti29H6-o-CZsb06NF9wkLPqfFUgdGDLa2C0ug4KxZE3eQU9zBVqGeOfXGYl3UNVpOu5oL4UxT3lODULQ9k08BzX1swG39GyqEqYHL6Xa3l7tujHpi-Daem-IA6t4pJsqjPAgyLNfYinzmg85CAI3rCWYzLCO31aYF8qFXatZFGPnu0MvQDun5Gqbiu0WdJR9skJI_EVR_VaaRfFbrS8SEzX8N0N6JqK5FHSNIPtdfP3BdL7RH_9mtZBW1Zq8niw6G81Z8w9CbxJCUVbHRsRVJS3xUy38Iihuyovw",
+      "photoAttribution": "Vinicius Coletti - IDR Paraná - Dois Vizinhos",
+      "tags": [
+        "Sweet Treats",
+        "Local Delicacies",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: 12:00 – 7:00 PM",
+        "Tuesday: 12:00 – 7:00 PM",
+        "Wednesday: 12:00 – 7:00 PM",
+        "Thursday: 12:00 – 7:00 PM",
+        "Friday: 12:00 – 7:00 PM",
+        "Saturday: 12:00 – 7:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "phone": "(41) 98739-7944"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Akagera National Park",
+      "desc": "Big Five safaris, gorilla trekking, rewilding conservation success, mature wildlife programs",
+      "longDesc": "Rwanda's premier safari destination continues advancing its impressive rewilding efforts, now offering authentic Big Five safari experiences alongside renowned mountain gorilla trekking opportunities.",
+      "coord": [
+        -1.8803781,
+        30.7033861
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10019242060156655286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ24R9tD2h2xkRtlZKypF_C4s",
+      "address": "Rwanda",
+      "rating": 4.6,
+      "ratingCount": 977,
+      "website": "https://visitakagera.org/",
+      "photoRef": "places/ChIJ24R9tD2h2xkRtlZKypF_C4s/photos/AcnlKN0ujoCw2VWyq4m4N0wN_Fz3omGzRZ1xJH7V8hZ5y9ZY8BdftfJLCex_S49yLKD7ONCjE-ghyK-Cb0hds5dyNjQvE61Sw74eHPyq-bgJlPMis6n_bfgYUGzxeUqH2sI7RvqKIfIzrpk277vD4I1d9bVw9iROYbUCBKgGHKz5DbD0pWZ3rBCzMrJG1SbC8jK2cWNTVKm_75jjOyvwnIWzncXv-9qwip1nwqNyYCHQ5rNCR3mhvR2KgXDiDH3Bd2CfL2nk7IVam162avRKjBSiWk2O9S0TDi4nXxJ3sFyLVdalP5LvxmHNwNBQnKt-8xalEDqF-fKUSDLc_HU4WfFpPbSpwA0_t_R3UyzyQkpH72xLBNVHVT9pLy2jpIid1y_OYh3O8c97HaPk93yQj_1bh_v63c43KJtUmFJBrlj8fllYWfo6",
+      "photoAttribution": "UWIHANGANYE NGABO BENJAMIN (u.b.e.n)",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ],
+      "phone": "0786 182 871"
+    },
+    {
+      "name": "dmAFRICA",
+      "desc": "African excellence, seamless luxury journeys, bush to beach experiences, 27+ years of expertise",
+      "longDesc": "Operating for over 27 years, dmAFRICA presents African excellence to discerning travellers, offering seamless journeys in style that unlock remote areas and ignite awe across diverse landscapes.",
+      "coord": [
+        51.5218926,
+        -0.08123509999999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3314276981380248061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJixtMtbgddkgR_XFs0lqt_i0",
+      "address": "6TH Floor, 9 Appold St, London EC2A 2AB, UK",
+      "website": "https://dmafrica.com/",
+      "photoRef": "places/ChIJixtMtbgddkgR_XFs0lqt_i0/photos/AcnlKN1AdXPv8t5VTB7CdoYXT1TRICE8zBAE_Zynqx5rWGX0vm75qMjiEcyvi5yVaZkEQeGN37fGTRCF8MMY1bBoH8VuSHSS_QmFpUUWrKoqoekHzEz8nCkk7EWI_VCoj61Jgac9gEeiR09cEPtTihiyR4S_gGXvLYaEwQH_Uy89ywcLCDD9YsxMaNaeuUmyyuLuSuKw7XcgCPFlpNZPLu9XOdM91sfiPMNYL_1ZG9FVmL7HHk7WFdUGrJt_w5U0gBLaRD20OROu2rRJUG2fqmqfJ0Xjm9ujS7YdHx4I4OwDZ6rN4g",
+      "photoAttribution": "DM Africa",
+      "tags": [
+        "Splurge",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "phone": "020 8123 8031"
+    },
+    {
+      "name": "Cape Town",
+      "desc": "Scenic South African city, summer warmth in November, outdoor adventure hub",
+      "longDesc": "A vibrant destination offering summer warmth and stunning landscapes during the Northern Hemisphere's winter months.",
+      "coord": [
+        -33.922087,
+        18.4231418
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7529985575108520583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ1-4miA9QzB0Rh6ooKPzhf2g",
+      "address": "Cape Town, South Africa",
+      "website": "",
+      "photoRef": "places/ChIJ1-4miA9QzB0Rh6ooKPzhf2g/photos/AcnlKN1f0bjWiTPzqWetSpoZF_eSV0LXkp2Vc7OarnKKwP7wbb47B2s4LB2sv80r4ev8VRnAgaTqbgkbpbcZJBZAUwLDR3lqjz7rpz28zIqgAM9LI3GH87826mn_AvrNrKZJwbCkdUQ4awN5VPnVGLPfv_OMS21smmlt1ErCZEGfsKKKyuZOPsS7ht5QW2JmNq9QApebiMZqCaNVzRlfLPjXH3WHWKSGTL3Np7ZXXL_ha53CAmTx7BEpQnmVjGe8U3osDM_-WZoKF6zddfi9j0J6gi69JnJSCtUcwPr1e1EJLg6gu-KDQIe3rjeJBd4obdNlIeQDpHNLxTeQcMFFYNKU79x9X-80gYH4zuSNbKgHAQ1y_M3zGUpmtkxy2kjWr_Eac4owEeYA-Yd2UOwOLHX_E3suG_-J3cpUSc4y8BHBEbS9jw",
+      "photoAttribution": "Abd Abo naser",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active"
+      ]
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Botswana": [
+      -19.486,
+      22.7961,
+      0.03
+    ],
+    "Sri Lanka": [
+      6.9192,
+      79.8501,
+      0.03
+    ],
+    "Brazil": [
+      -33.9303,
+      19.1105,
+      0.03
+    ],
+    "Stellenbosch": [
+      -26.7276,
+      20.7232,
+      0.03
+    ],
+    "Akagera": [
+      -26.1121,
+      28.0356,
+      0.03
+    ],
+    "Okavango Delta": [
+      -34.0651,
+      18.368,
+      0.03
+    ],
+    "Johannesburg": [
+      -2.0865,
+      34.4931,
+      0.03
+    ],
+    "Hout Bay": [
+      -24.0926,
+      15.9111,
+      0.03
+    ],
+    "Various locations": [
+      -24.518,
+      31.1642,
+      0.03
+    ],
+    "Kruger National Park": [
+      -33.9051,
+      19.1136,
+      0.03
+    ],
+    "Cape Town": [
+      -29.3508,
+      17.1559,
+      0.03
+    ],
+    "Franschhoek": [
+      -1.274,
+      34.9707,
+      0.03
+    ],
+    "Multiple": [
+      -25.427,
+      -49.2737,
+      0.03
+    ],
+    "Maasai Mara": [
+      51.5219,
+      -0.0812,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

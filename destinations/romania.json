@@ -1,0 +1,73 @@
+{
+  "key": "romania",
+  "name": "Romania",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇷🇴",
+  "defaultCenter": [
+    46.1396,
+    24.6205
+  ],
+  "defaultZoom": 10,
+  "hotels": [
+    {
+      "name": "Bethlen Estates",
+      "desc": "Luxury estate base in Romanian countryside, heritage charm, atmospheric setting",
+      "longDesc": "A bewitching countryside estate offering an authentic Transylvanian experience with heritage charm and rural elegance for discerning travelers.",
+      "coord": [
+        46.1448738,
+        24.692038099999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3296923338928542454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX4h3Q4N5S0cR9tKHFE8GwS0",
+      "address": "157, Transylvania, 547201 Criș, Romania",
+      "rating": 4.9,
+      "ratingCount": 66,
+      "website": "http://www.bethlenestates.com/",
+      "photoRef": "places/ChIJX4h3Q4N5S0cR9tKHFE8GwS0/photos/AcnlKN0qmMbDXiADzFQxrUFQrE9tja9aXXw6mYfAam1mQBOK_V3v7OrXe_uOg4kYWZCcWXBecvt6I8ApGC-clrmmBkinuVXfFvTOfukT1p7QwppT4kzQiaA1f1l52tTg8UVA-CeSR4FLzOUG16bZDNvhScaarX5hUTjiyiUyJAumyLtIrfLXxZJkRjcDpPgwteJyb--zEWtKbfHp3xAL4uD0Uj_tgx7vMGHn7OILIFzz8r5aR5G3e7Dvk1MAKVhqcrXmP5YD2D5mICKpUWbJ8qhY3iqVUtTq8LI6WsJ4IcoD9PkUfQ",
+      "photoAttribution": "Bethlen Estates Transylvania",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Cultural & Historical"
+      ],
+      "phone": "0767 374 998"
+    },
+    {
+      "name": "Copsá Mare Guest Houses",
+      "desc": "Countryside guest houses celebrating Transylvanian heritage, ceramic traditions, authentic local experience",
+      "longDesc": "Charming guest houses immersed in Transylvania's rich cultural heritage, offering proximity to ceramic traditions and authentic rural experiences.",
+      "coord": [
+        46.1342914,
+        24.5489438
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=9590015734928690252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJfwFV7-6DS0cRTMzUNoCUFoU",
+      "address": "Copsa Mare 122, 557046 Copșa Mare, Romania",
+      "rating": 4.9,
+      "ratingCount": 32,
+      "website": "",
+      "photoRef": "places/ChIJfwFV7-6DS0cRTMzUNoCUFoU/photos/AcnlKN0ngIBqnV-bsPFTmULJygQLqnd9K_yPy0Fbha2MFsU6huhk48y7k9sZcLvFK0q5m6Az0GcAVHjx_X_nsEnljgsIb81AqYjytohAVCWOuU2dvJcq_jog1ZL-R1yKM1Qqk7kx_WBqvek_Db-CvE1LMtwsQ3M5UoLY-r_nS4G6_V_5Z962uHGsFbu0_iHkyVrw3UN1lWWXSs3Uk1VH-m0j4dFSSrD8elVj7yCiXURV9UuEE541x0MFvl-2mQCagTrMNgfT3E7p546zzNI_Byi8GBepexIqPlXdMUyvFZCKzs8O0w",
+      "photoAttribution": "Copsa Mare 122 Transylvania saxon house",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Art & Design"
+      ],
+      "phone": "0728 371 762"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Transylvania": [
+      46.1396,
+      24.6205,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

@@ -1,0 +1,193 @@
+{
+  "key": "canada",
+  "name": "Canada",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇨🇦",
+  "defaultCenter": [
+    51.4521,
+    -112.3521
+  ],
+  "defaultZoom": 4,
+  "hotels": [
+    {
+      "name": "Nimmo Bay Resort",
+      "desc": "Luxury wellness resort, sauna with views, health retreats",
+      "longDesc": "A pristine wellness destination offering sauna experiences with breathtaking scenic views, perfect for rejuvenating health-focused getaways.",
+      "coord": [
+        50.9394912,
+        -126.68190759999997
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=8560959642808995496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJn8xAH-inZFQRqM4V7m-jznY",
+      "address": "100 Little Nimmo Bay, Mackenzie Sound, Mount Waddington A, BC V0N 2R0, Canada",
+      "rating": 4.8,
+      "ratingCount": 55,
+      "website": "https://nimmobay.com/?utm_source=GMBlisting&utm_medium=organic",
+      "photoRef": "places/ChIJn8xAH-inZFQRqM4V7m-jznY/photos/AcnlKN3mInMp1evoAQZqmY2kWxLqw8nX46R_n3q-f01yRB2EZPAe7lFYRh3sfn83nLyGP6MIG6qUr1GKPCk0cbcpOob2L-Z7tuJRufsybhRoL1PUpyZLZfb5tmFIZqqKwsLF8_DUcwMLu2-ckYJmOnoymUFTHBz7wGVvveZxkM7y1EhmY24LJzCABw-mJkmNGRi3c4E70s2ZeM0ISF0U_lwBhyDiccEvfstIRr28V_Pm-6HBet1FaQy_eNIj3ksUJjiwjvrVMS1xifn3TtFfDCoBQeEnXA0vxqLxPc0z1AgdZQSQCQ",
+      "photoAttribution": "Nimmo Bay Wilderness Resort",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(800) 837-4354"
+    },
+    {
+      "name": "Fogo Island Inn",
+      "desc": "Modern design boutique hotel where Arctic beauty meets contemporary luxury",
+      "longDesc": "A striking contemporary hotel perched on Newfoundland's rugged coastline, showcasing bold architecture and immersive local culture against dramatic Arctic landscapes.",
+      "coord": [
+        49.730444899999995,
+        -54.178240599999995
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=294333291636773815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJaYKzO7V_nUsRt9OUvZGuFQQ",
+      "address": "210 Main Road, Joe Batt's Arm, NL A0G 2X0, Canada",
+      "rating": 4.5,
+      "ratingCount": 274,
+      "website": "http://www.fogoislandinn.ca/",
+      "photoRef": "places/ChIJaYKzO7V_nUsRt9OUvZGuFQQ/photos/AcnlKN05RNQPZ1Hyq4V3B-iBHnwlDZCx-nYNeMQqGQhDegzN8lYwi4icbVEn9VXLIexBI_GQDyugRnqz5L4scSX32GZLreAQALJX8IGFwV2gppOGaXmThBD9Pnsrucqe4Bw2NksWPSr5zDqrVnPtQiQIwXFF4XbgWbRTUO0PbluXRVbdppCVanj-CGrMZ83qFvwOzLMinJfkeOPeWYCrwEvNNKKdGEfVOJVdra649qJfGOVGj9KhJ6Kvpxy-pjANEra-AMxB9Ybyw82NSg5NHG2hMEHdQGNLqRD9L4I2DJPcqLhtd-2A1j8RO31CqTLyBcNnH6fW-HKTzTX6Xsw_OK4oJIb-a0lgrR5wUQ6I3XQxXj0NZH9MQP8V2DRtIRvli4zSP6FL9S81_ZbrZI-2EsiTQbYiPTYdva39_QkBC2pDoCGhgBhH",
+      "photoAttribution": "Buster Cat",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(709) 658-3444"
+    },
+    {
+      "name": "Sonora Resort",
+      "desc": "Exclusive wildlife retreat accessible only by seaplane, ultimate remote luxury",
+      "longDesc": "An ultra-exclusive remote island resort accessible solely by seaplane, offering intimate encounters with pristine wilderness and abundant wildlife in complete seclusion.",
+      "coord": [
+        50.382526,
+        -125.15589699999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=4474627385273469947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJAYBAymc3fVQR-8t1OeYRGT4",
+      "address": "Sonora Island, Strathcona, BC V0P 1V0, Canada",
+      "rating": 4.8,
+      "ratingCount": 133,
+      "website": "http://www.sonoraresort.com/",
+      "photoRef": "places/ChIJAYBAymc3fVQR-8t1OeYRGT4/photos/AcnlKN26qT78I_vvTUbgHJwCOv1_03SgoKk1eTpwv8SdVX_bxZ6SfkF5xsFzJ_OnCxrkCM1sh29k5nJBMMX0TP-4bzWPwBAu69t2_zSWjsTsDTJIoTfp0gm3QABeslywrlDdIhQ4bgq1ThhFxCB7WSsoCkzcY-nkWmPPViUezmP8GzEN4SD6H4o-tUz23XrS8ZiRJuvfwSnRRN2p9idCF7VLenKkFST26InCt3bDLjVR4WPeADIKz9d2CfkAripWUAIMlRtsd19GxxAkLoN2NZDecHqRqycXqrvjdWXSTqX1U2gaKQ",
+      "photoAttribution": "Sonora Resort | Relais & Châteaux",
+      "tags": [
+        "Splurge",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(604) 233-0460"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "British Columbia Coastal Rainforest",
+      "desc": "Coastal rainforest arrival, weather on sleeves, helicopter access to remote isolation",
+      "longDesc": "In British Columbia's coastal rainforest, you arrive via helicopter with weather still on your sleeves, surrounded by pristine wilderness.",
+      "coord": [
+        53.3896248,
+        -128.93043989999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10371116561992869843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX86IhvQuclQR02fBiZCb7Y8",
+      "address": "Kitimat-Stikine C (Part 2), BC V0T 2B0, Canada",
+      "rating": 4.6,
+      "ratingCount": 36,
+      "website": "",
+      "photoRef": "places/ChIJX86IhvQuclQR02fBiZCb7Y8/photos/AcnlKN3rOGpJMlYMs-idYA4cZZYtVk5fz8TBwW1C9du_NyC_ZF7N99e911Y-aDzAEw8zFjde6Nyz0qvxnuy4TtwZjAiJv6_kfPxlZzMWCDonDRDSyIIIgBpcEjnAowQRy9i7SweFH4IcKs5Qde9WIBYC7N26fslhuSq_d67BUBZYyun515dLeCLHbB3p4K_a1SqE_TOLiKOhK7rRY2umGzFFntPjQn0CtWNLeTv8-dxk71uLSSa1-gPbe5vIW-keLFVbs0MHGtv6K8uJkU1CcXAftjpVBnC9my_-j9dqYhePMezaf-CnEykub9tIamLEaA3EIl2DVUpGQQZlitppKAiQ38mdbJZwiGGBO4cSstKCEwS6JRkjZQIuY_s4cMdXPRjImpoRh9y3tBfoSJqb-1xavZwSPF1fXn8w4I7LZBf5IWbyZNWl",
+      "photoAttribution": "Shlomo Yona",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Splurge"
+      ]
+    },
+    {
+      "name": "British Columbia Heli-Skiing",
+      "desc": "Pioneering heli-skiing destination, pristine backcountry powder, remote access, expert guides, all abilities welcome",
+      "longDesc": "Experience the origins of heli-skiing in British Columbia's remote backcountry. Access untouched powder miles from resorts with expert guides catering to all skill levels, from families to extreme skiers.",
+      "coord": [
+        52.8181875,
+        -126.81418749999997
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2061808579242708567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ2ewBFTxxelQRV06dmPoDnRw",
+      "address": "R59P+78, Kimsquit, BC V0T 0A7, Canada",
+      "rating": 4.8,
+      "ratingCount": 20,
+      "website": "http://www.greatbearheliskiing.com/",
+      "photoRef": "places/ChIJ2ewBFTxxelQRV06dmPoDnRw/photos/AcnlKN2D7Isdxihp79IyKI25QT2tauBM6_cDwL3tWsgJCv96uAtDf5L0hbFpifHl40CGVpPXqqF4iqKns2yiPrYUMAymFO0TXl8u5AFP_qRIOE94bLkcfqkogV--6kwsV7Nv4FVyoM-ETrezrxdZJbx0EKHK6ELwuSsf5t5dgtlTqr67yjRBq33bN4x3oos9WBrdmwPzI18HFsnb_cV34raFveyV4-ajkbp4Qs94t0YLqo60g6-gk4X7Ocv-owDauDY_oI8MxGiMsfdlTt8Lf296rCDMI2qMqJfnfyESfmFofm7Zcg",
+      "photoAttribution": "Great Bear Heli Skiing",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Splurge",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(250) 200-1151"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Alert Bay": [
+      52.8182,
+      -126.8142,
+      0.03
+    ],
+    "Fogo Island": [
+      50.9395,
+      -126.6819,
+      0.03
+    ],
+    "Sonora Island": [
+      49.7304,
+      -54.1782,
+      0.03
+    ],
+    "British Columbia": [
+      50.3825,
+      -125.1559,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}

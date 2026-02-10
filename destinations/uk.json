@@ -1447,6 +1447,199 @@
         "Saturday: Closed",
         "Sunday: Closed"
       ]
+    },
+    {
+      "name": "The Albannach",
+      "desc": "Highland luxury hotel, Scottish charm, exclusive collection",
+      "longDesc": "A prestigious luxury hotel in the Scottish Highlands, delivering exceptional Scottish hospitality and breathtaking natural landscapes for exclusive travelers.",
+      "coord": [
+        58.1536756,
+        -5.2554419
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=7693741242792053804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ7bB7tjDoj0gRLIxkquWoxWo",
+      "address": "The Albannach, Lochinver, Baddidarroch IV27 4LP, UK",
+      "rating": 4.8,
+      "ratingCount": 53,
+      "website": "http://www.thealbannach.co.uk/",
+      "photoRef": "places/ChIJ7bB7tjDoj0gRLIxkquWoxWo/photos/AcnlKN2dlhEEXntIszoxuQcwmeMzJ-KldVNCpAgdjh91Ayn8QcJlxikwtV9zvbm-DCzb7dC2ivhB2EaalnxyNv_P0Ol-sH0_nTpyZRIGUf8ktIfaYCs_PXye85-qwsFPFf-589YVbuyNiGjehNU_WdqminJjBi3D2bWXRkcl7JI3MI4BTZ-BQ0i0I1s8qRdC4emdJeBQiDKIxuxfpHHnvk4Vy7njjVnS-VLh7Gvjr-6EsnVLG60TwXMW0c8fh5QBwomKtfG8cAmSIHWkV3O7cpVei97JCnT5-9I4P5Lhx_M-46Zqqw",
+      "photoAttribution": "The Albannach",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "01571 844537"
+    },
+    {
+      "name": "Soho House",
+      "desc": "Luxury members club, wellness amenities, global locations",
+      "longDesc": "An exclusive members-only club with wellness facilities, offering curated travel experiences and luxurious amenities worldwide.",
+      "coord": [
+        51.5133447,
+        -0.1305817
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=15130579803866247078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJn-EFMbccdkgRpq8llyqe-tE",
+      "address": "40 Greek St, London W1D 4EB, UK",
+      "rating": 4.6,
+      "ratingCount": 1299,
+      "website": "https://www.sohohouse.com/houses/soho-house-40-greek-street?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness",
+      "photoRef": "places/ChIJn-EFMbccdkgRpq8llyqe-tE/photos/AcnlKN0BGpJHMPrnh6svaSRbyy2H07UNRYcrR9y65r9wei42HzTUgi1FSCQTcTi7nIthdkTAqrbb8hXg0n_ZdZ-C-BAeQhjCf9-VOJtTANv7R1HZhwFl9coGNSmuwJpEGNreIS2j7x0N5ay_QL-06w0O00Pj9FZrCz93wJtQvMocvTo2M8d72N7uNHSTo8FYtN93nmj5HJrWTHXmosBVKWRv2e2tU4lsmtRVxFleo9UnMgxBVBWcxgMYafY4qKlbg48HKlDSUc-t4dDq3D497bIE98p7au0Jppng6A4D41oxyf2eVg",
+      "photoAttribution": "Soho House 40 Greek Street",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Nightlife"
+      ],
+      "hours": [
+        "Monday: 7:30 AM – 1:00 AM",
+        "Tuesday: 7:30 AM – 1:00 AM",
+        "Wednesday: 7:30 AM – 1:00 AM",
+        "Thursday: 7:30 AM – 3:00 AM",
+        "Friday: 7:30 AM – 3:00 AM",
+        "Saturday: 10:00 AM – 3:00 AM",
+        "Sunday: 10:00 AM – 11:00 PM"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "phone": "020 7734 5188"
+    },
+    {
+      "name": "Wild Hive",
+      "desc": "Unique treehouse stays with onsite bike rentals and family cycling experiences",
+      "longDesc": "A distinctive resort offering treehouse accommodations with onsite bike rentals, encouraging family exploration and outdoor adventures.",
+      "coord": [
+        53.020539,
+        -1.747941
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10723485724523302454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJy76ygIMYekgRNg4vdHN50ZQ",
+      "address": "Mapleton Rd, Ashbourne DE6 2AA, UK",
+      "rating": 4.6,
+      "ratingCount": 430,
+      "website": "https://wildhive.uk/callow-hall/",
+      "photoRef": "places/ChIJy76ygIMYekgRNg4vdHN50ZQ/photos/AcnlKN3azKVl_c75akMWK0C7ydbOhfUKphXO73-pMjisByDoIAOPWwDg169MgBOlnzp5mhTwLvy94Z600Yp1KSPoR4FcB8i79Usp0IQ7A0jKuLKU-rENzqxsAXtF1-yIxWFxfIApr_8NHCVBmp3hBaByZNWd7dB7kfg3wibs55ppM7l_nnjHUOQHjyzR6_akvEE6hrDGX2MK2JUGyqeqdCQtMw5-x8Teca9FnnCrf_6gV3_Hi9RKqEhW1fc09JrtIwAds1mPqDuNFw8w2kMYHneu6B2IDskc_cPoEhMCROLlTubD2w",
+      "photoAttribution": "Wildhive Callow Hall",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "01335 300900"
+    },
+    {
+      "name": "Hope by WildLand",
+      "desc": "WildLand luxury hotel, Scottish highlands, May 2026 opening, nature immersion",
+      "longDesc": "Hope by WildLand launches in May 2026 across Scotland's landscapes, offering transformative luxury hospitality deeply connected to wild nature.",
+      "coord": [
+        58.502852999999995,
+        -4.617234
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=724068111579313280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJo3vMQOQ8kEgRgHTfdxxoDAo",
+      "address": "Hope, Lairg IV27 4UJ, UK",
+      "website": "",
+      "photoRef": "",
+      "photoAttribution": "",
+      "tags": [
+        "Splurge",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ]
+    },
+    {
+      "name": "Wildland",
+      "desc": "Innovative luxury hotel, finest in destination, maverick design",
+      "longDesc": "A brilliant, innovative hotel representing the very best of Scottish hospitality. Led by talented owners and hoteliers creating exceptional experiences.",
+      "coord": [
+        57.47769049999999,
+        -4.2254008999999995
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3917070970113986167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJzRlj_NNxj0gRd46jNUs7XDY",
+      "address": "Suite 212, 8 Church St, Inverness IV1 1EA, UK",
+      "website": "https://www.wild-scotland.co.uk/",
+      "photoRef": "places/ChIJzRlj_NNxj0gRd46jNUs7XDY/photos/AcnlKN0Eu_0S8i1S9WB2Sr-7j5XxjVoXEVN59Lnwn-wHdkTsD40rkJSw8Onrxg5R9XW6563gjAmFV-VauRKuGcJryLeRG4UtvOsEcNhtjgELffGNSbz5o4QtW99pW3yGUHqpnC_hI_RnHFvkeWTJELqQYAowkQuAcq0JP5EZR2NZA83gnf00GanSwDBfp3J4k92cmhTZBIsvO3aA6s5vYSlRN557q2s9oiy5uisqdUSHHQBAUrnSYViEIIB3d0izs8d2qVNhRDZnY45MhC5W3QEW2IOlr4un97UkpkaF31-oJ9k1fQ",
+      "photoAttribution": "Wild Scotland",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Outdoor & Nature"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    {
+      "name": "The Emory London",
+      "desc": "Boutique London hotel taking coffee culture seriously with quality espresso",
+      "longDesc": "A stylish boutique hotel in London that emphasizes exceptional coffee service and quality espresso machines as part of their guest experience.",
+      "coord": [
+        51.5022983,
+        -0.1555222
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=2361074159929679703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJnTmXt6QFdkgRV1_2XnA4xCA",
+      "address": "Old Barrack Yard, London SW1X 7NP, UK",
+      "rating": 4.7,
+      "ratingCount": 118,
+      "website": "https://www.maybourne.com/en/hotels/the-emory?utm_source=google&utm_medium=organic&utm_campaign=local",
+      "photoRef": "places/ChIJnTmXt6QFdkgRV1_2XnA4xCA/photos/AcnlKN1B4uipBsUS7MmiXECRqRTH2I-pQuJuayMhVogG7VAc32-qfrjFpGfppTZfw-38dz2TaMXbyFn_vnh9BBr9usDZZH8w7liitNuS7EiuNYsIyR0KTdN17TL89V5zo-ErN5XGnIxztr0Xig7CP9f9Ovrc9A2xlGbcZxmm6iPIT3NlQaJb1nRoA6OLRJWSmzaVwrHUdc0QUJmTLY363_zRaIhXXdfHJTIMvE-DEXe9siFJespBuf7DNJ1Gn0xLRX42owvu8iyyuJjyKvvJZYlI-0-EA8qw9w6aQepB-GVcJCvB-Q",
+      "photoAttribution": "The Emory",
+      "tags": [
+        "Splurge",
+        "Coffee",
+        "Art & Design"
+      ],
+      "phone": "020 7862 5200"
+    },
+    {
+      "name": "Belmond Le Manoir aux Quat'Saisons",
+      "desc": "Michelin-starred luxury hotel, editors' choice 2024, countryside elegance",
+      "longDesc": "An iconic luxury hotel and Michelin-starred restaurant that earned recognition from Condé Nast's editors in 2024 for its exceptional dining and country hospitality.",
+      "coord": [
+        51.7166747,
+        -1.0917630999999999
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11726142062128682798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJhWB7mAbrdkgRLlfy5hOgu6I",
+      "address": "Church Rd, Great Milton, Oxford OX44 7PD, UK",
+      "rating": 4.8,
+      "ratingCount": 1757,
+      "website": "https://www.belmond.com/hotels/europe/uk/oxfordshire/belmond-le-manoir-aux-quat-saisons/?utm_source=local_search&utm_medium=link&utm_campaign=google_business",
+      "photoRef": "places/ChIJhWB7mAbrdkgRLlfy5hOgu6I/photos/AcnlKN3wOfuP6jc-NFjcWxgQAemgqwEKrvSPfM9yVp_dw_TdyXa6k2TCY8cKfttKz7cADBxcuF96Zubwihjs1Aaj6Latfam4FlHf_XDvLH4II06S526AQ0PS2hjhv3-mWF4uVIv-0d1uLn-eVWz4bIx8mU5Ijw6X9lKjApLilDmmo8_61iGGv2KVj3ILmufbYvUNX0IY5xOdz4O_DEj40NDF1xJXn1iEKdiYzK_s0gXgUJEYy5fecvdskJTWBwhOwmq7VOY4IcHmyao0u0ZqhNja2TgEaWaQJCet8NEbyrQo9GKzcg",
+      "photoAttribution": "Le Manoir aux Quat’Saisons, A Belmond Hotel, Oxfordshire",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Romantic"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "phone": "01844 278881"
     }
   ],
   "restaurants": [
@@ -5189,6 +5382,133 @@
         "Saturday: 8:00 AM – 6:00 PM",
         "Sunday: 9:00 AM – 4:00 PM"
       ]
+    },
+    {
+      "name": "Roman-Inspired Bathhouse Hotel Spa",
+      "desc": "Roman-inspired bathhouse spa, luxurious water treatments, classical architecture",
+      "longDesc": "Indulge in lavish spa treatments within a Roman-inspired bathhouse setting. This luxurious UK spa combines classical architecture with contemporary wellness amenities.",
+      "coord": [
+        51.5088854,
+        -0.122702
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3795069470956933575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJjaFZHUkFdkgRx1FRopPLqjQ",
+      "address": "2-3 Robert St, London WC2N 6BH, UK",
+      "rating": 4.6,
+      "ratingCount": 1821,
+      "website": "https://beaire.com/en/aire-ancient-baths-london",
+      "photoRef": "places/ChIJjaFZHUkFdkgRx1FRopPLqjQ/photos/AcnlKN02srGFHTUL5I-4_MSy06oFNH8DOQ9v1QgCgr5jh3Cd0Nrf2DGoaO_7Bqx4LQXEbxDqQQXOQvkqGEVQTmTZnULeKfUEZB2xNbX4Y5ZUOpry_cgJ0rVMS_bXBbuMf1yGImkQ73sgU_KrUmeZiGVuEDk7dq01wG5NnyRz49Nq3c0sQkdX3ZoJVwbiiEow5VerfEceo0zLhEMiDDZEQ6n0jbxKC-2ia7IIHWN5oGxKg9qpIB-3pC1qAKxX5MuboNSw7Qvnt7DW7_KgH08yphjAtLm90E2winlMyCh7JnRpnKvJpA",
+      "photoAttribution": "AIRE Ancient Baths London",
+      "tags": [
+        "Wellness & Spa",
+        "Splurge",
+        "Art & Design"
+      ],
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ],
+      "phone": "020 3830 4610"
+    },
+    {
+      "name": "Tarlair Art Deco Baths",
+      "desc": "Northernmost lido, art deco design, historic ocean pool experience",
+      "longDesc": "Scotland's most northerly lido featuring distinctive art deco architecture. This historic outdoor ocean pool offers authentic seaside swimming immersed in vintage charm and renovated beauty.",
+      "coord": [
+        57.6706116,
+        -2.4710351999999998
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6730253926778763975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ3-DgUpD1hEgRx3rTuUmqZl0",
+      "address": "Macduff AB44 1AE, UK",
+      "rating": 4.5,
+      "ratingCount": 151,
+      "website": "https://www.facebook.com/FOT2012",
+      "photoRef": "places/ChIJ3-DgUpD1hEgRx3rTuUmqZl0/photos/AcnlKN1ha3ofbh0qGnrEXbQ6TpFAN77nrz2ouSyxg1V5nR0yV8XZkiqGCnMGEzBIDkpMlUQqrKgT32iagebXXsFNVebhVXA9v4HOoLaq9JNPuJQeMOE5k9uIcv4Ul_NiEPy45k1FcldEstnqq8uo0ePqivoPSRmMpV7erjiE45rJLMY79pF9MyXNfpWlr4Bet1BAN2jYrfqar9h_Lorz6kArfASsDxA5yagkJ9hVUpXlMHnrixGG7Rgd4nQqPwmgX6W7dXxXBmRs98Ui1LTtzQ8HIltAbatye-xDU21jjMMTNbDK8a5m91Ue5SRD1i0MEwSPTkHaZ8ky9jAhJNllihEP2Lp7XmJqwoT0oO8BwlgTZVu8v5zPV_Pn8gGFdKujsNA7BnYQECorI5Tr9LpIb3pZlDYHJqJwte6vX4oElZKq3Lz4F08",
+      "photoAttribution": "paweł żurakowski",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "07796 591759"
+    },
+    {
+      "name": "Walpole Bay Tidal Pool",
+      "desc": "Historic tidal pool, English seaside swimming, ocean immersion",
+      "longDesc": "Walpole Bay's tidal pool offers quintessential English seaside swimming. This charming coastal spot delivers the unmatched thrill of ocean bathing within a naturally enclosed pool setting.",
+      "coord": [
+        51.3930929,
+        1.4039916
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17082365493157940332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJGeSANpdT2UcRbMwR5-jAEO0",
+      "address": "Walpole Tidal Pool, Margate CT9 3AB, UK",
+      "rating": 4.6,
+      "ratingCount": 195,
+      "website": "https://www.thanet.gov.uk/services/beaches-and-coastline/",
+      "photoRef": "places/ChIJGeSANpdT2UcRbMwR5-jAEO0/photos/AcnlKN2x_Sm3E6U9KAnmp-rbjXaa_tb5pJK5y6KB2Sk9u-Y_k75Tk6_1ef6fXCSt-TOEEoGmlQ962IupkSU5j8GK3gnbdrdkMRpcYgZOuMJhRbKgWcUcG8NwK2sghPMjP0Qy_zT8mshxSNmNF5qwP3YPC0JHCY1uB0jlUBd07J0S46aFYiDJFPZzbP3Jqo0lXEgqiwZDGgaxd94GO8EP7k9tONokYBIINaO23P_NEthc3B--25iyZWMkrR4yhPRqaRYfNCg48w7Z-CICPwmQ9fwyIHcLITn6uxhCvk2XNE_5uIDXmHmPTAeI9HghS7nl-HCqwZCt8WKCtFFjFQCXzOqjGnSti3yzaCc22n0b7s5TbuN6yIB4gzbeP1hAJ-RnxDBoenDl7UAyktck0E5OZk3ZIJiClgRPOWZtye4pCCwdoBhkHA",
+      "photoAttribution": "Will Hebditch",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Luxury Land Cruise Trains - United Kingdom",
+      "desc": "Five-star luxury train journeys, scenic UK routes, hotel-style amenities",
+      "longDesc": "Luxury land cruise trains are expanding to the United Kingdom in 2025, offering five-star hotel-style accommodation for distinctive British rail adventures.",
+      "coord": [
+        51.5379504,
+        -3.3828777999999997
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=10876329248618190397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJP3kO10URbkgRPRYUjNN78JY",
+      "address": "91 Talbot Rd, Talbot Green, Pontyclun CF72 8AE, UK",
+      "rating": 4.9,
+      "ratingCount": 9,
+      "website": "https://www.luxury-trains.co.uk/",
+      "photoRef": "places/ChIJP3kO10URbkgRPRYUjNN78JY/photos/AcnlKN0Dspm1nryPQle8whzq0dq-uJKfvpZI3IeimYwPE6dBn-4eV6ECOO20kTFriDjltqVcc4QK8N4j6WXkcz6r5aq1jRq-JqYy1j9nd1Zq36F5k0T-brmv0T18hmxziMRo3eYXIJSkTmvQKgzWDYMRG0ZXy_ouQvoVY0c5AsvQt2-qsGXXz7HMXvLVGdTel-av5WM60p1Va11fdSybU1FSR_jJq2KV52ytnpvggpdSkf7T78_Nbu-TM1cdOrQCZ1vajhcjzLO_BiLch_ALpohMhVkJLp2YdZZNaNfkYfQsxQcNQg",
+      "photoAttribution": "Luxury Trains",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "phone": "0333 405 0192"
     }
   ],
   "kidFriendly": [

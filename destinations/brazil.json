@@ -1,0 +1,159 @@
+{
+  "key": "brazil",
+  "name": "Brazil",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇧🇷",
+  "defaultCenter": [
+    -12.6765,
+    -43.4178
+  ],
+  "defaultZoom": 4,
+  "hotels": [
+    {
+      "name": "Filha Da Lua",
+      "desc": "One of six gluten-free hotels globally, empowering local northeast Brazilian community",
+      "longDesc": "A pioneering gluten-free hotel dedicated to empowering and inspiring the local community in Northeast Brazil through sustainable hospitality practices.",
+      "coord": [
+        -6.2492699,
+        -35.0381584
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=6136641735021651930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJx5Y0OXCFsgcR2mfNCSW7KVU",
+      "address": "Praia das Minas, Tibau do Sul - RN, 59178-000, Brazil",
+      "rating": 4.8,
+      "ratingCount": 282,
+      "website": "http://www.filhadalua.com/",
+      "photoRef": "places/ChIJx5Y0OXCFsgcR2mfNCSW7KVU/photos/AcnlKN38vn7kJlEpvexiPE4Bb19SB2GhqG2rEHWvtAZyFGK7x8TQXfoK-_lZNn72_6Cy1fXce22ci098P_x52O1MWGY1eR0pm9SEg9S3UMYwu4QoE_zZJ0SHzviiAQsHIgGY-6fMecydmHNgz1qwb9K448FEMj9_ULg67m3-DOU2GogJbeNQveUbYexCBPFQcryNYIjwFJYjwOoPmqtHvY7QMn655htS1_XG5bXl1HbUH3FppzeL3_Ld4cxdCQkMa4-ImDlZNHbTpmoSn3LhW7FA3k9_aAySj7SMjz6KQSAAOq-Gjg",
+      "photoAttribution": "Filha da Lua - Eco Lodge Pipa",
+      "tags": [
+        "Wellness & Spa",
+        "Family Friendly",
+        "Romantic"
+      ],
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "phone": "(84) 3030-0077"
+    }
+  ],
+  "restaurants": [],
+  "experiences": [
+    {
+      "name": "Antonio Prado",
+      "desc": "Vibrant heritage village preserving centuries-old traditions and culture",
+      "longDesc": "A historic Brazilian village showcasing vibrant cultural heritage and centuries-old traditions, exemplifying responsible and meaningful travel practices.",
+      "coord": [
+        -28.857046399999994,
+        -51.2821314
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=17943482054235101615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ2xK6yJaAHpURr5lHFNwNBPk",
+      "address": "Antônio Prado, RS, 95250-000, Brazil",
+      "website": "",
+      "photoRef": "places/ChIJ2xK6yJaAHpURr5lHFNwNBPk/photos/AcnlKN0pXp3Vwl6OrAkED4Ci7cgFsicSbCMhS1jC8ZqW8Owr-pVTeMpDfr7Jg-yKaY_JEVTZbBd5vkapbXigLFj6qwWEbEN9jzfwwVApsKQFAFdmNHRvUt94pmFqXTwpr4XsK4mCxCB8AG6l6Exmz1fQ14gNn4MW5j8BqEXg0452e0qHFzdmfJvTREQpqivr_V4s7s-V0K4wEN7ZPkztLt_GVLBxSY_8KHww5TKd3Ab6DxUvIUsGpltDBmu3BhPxKY5z5zsbIKwgv5k-U_D4YJa5_YUVsFktCjNq-p_AhC32cytTVqQli7ikJVmc7ZaUNwIY0odZMGi1hTck2GXlIzgRAQY2NmFwHU1XXXw8RZHmJwaHEEOA63f7VPNUu4W-W9ZitnBZzut7et4vjusjP2OUeeDeNP2lfDzed4O_7YbrNzOZZcE-",
+      "photoAttribution": "Sidnei Afonso",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ]
+    },
+    {
+      "name": "Paraty",
+      "desc": "Tropical town on the Brazilian coast, colonial charm, sailing",
+      "longDesc": "A picturesque tropical coastal town in Brazil celebrated for its colonial architecture, sailing opportunities, and pristine beaches.",
+      "coord": [
+        -23.219710600000003,
+        -44.7167452
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=16876651637488928333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ2Q2N0ARtnQARTcaKej_pNeo",
+      "address": "Paraty, State of Rio de Janeiro, Brazil",
+      "website": "",
+      "photoRef": "places/ChIJ2Q2N0ARtnQARTcaKej_pNeo/photos/AcnlKN33Ehm5sxc-K3-UijVUzScIgv0nZA6IKpCv1CzVUvTdi6GPCkVjpleLIv-D68vp64tDYlFFmia9HrwU925FY95h56JWkPTTVaJVcOOy-uPDFD25psCGOZKoRD2TfZPguMbFxHTQnFlQ-m3jui71syvJ4eQMn83zqFHQqXNqhXKtTKekqM5-YqZds2laaRamPZEtqmXrqUO5hRYNzR_v7SZKrxib5cPESdyB9QII6sOE8bB86iDhY9Q9NyLg3_q4bx5owAZFnt9cFEL7Wi87bSw1p0amXyIghhnIgIVBpglXT5sqGcHcRfHf7uh0IfhLHiyP8-EONAu8GuBjr8xqCAqoBQiQzrV-RmRMZQy2Z_cMRmIwgsOwhwpdD9dE-2wGg5lMNOgPdimSzFK-go542YrEK6coHsjZ378Ml0gPO23ZG-Bd",
+      "photoAttribution": "Angelica da Costa Moreira dos Santos",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic"
+      ]
+    },
+    {
+      "name": "Lençóis Maranhenses",
+      "desc": "Dunes meet turquoise lagoons, desert oasis adventure",
+      "longDesc": "Where rolling sand dunes create a striking contrast with crystal-clear turquoise lagoons, forming a mesmerizing desert oasis unlike anywhere else on Earth.",
+      "coord": [
+        -2.5282195,
+        -43.026021
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3254015454942764011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX745XuGe8QcR65t-1dCVKC0",
+      "address": "MA, Brazil",
+      "rating": 4.9,
+      "ratingCount": 12185,
+      "website": "https://www.icmbio.gov.br/parnalencoismaranhenses/",
+      "photoRef": "places/ChIJX745XuGe8QcR65t-1dCVKC0/photos/AcnlKN3PLhRBxa7IqfIQNaPXDCs21iwDDdhFE1OmMQM09sW0RtkauWhwFZAtxA1JPwd7O9g4nDhS7JXRfEGMPJ5MPqHEdDceMI34oOipZ8XrAwb-sGs3es2Z35zl1tBEYshQNHxwkElk4poxcG4SfJo0ac9o_5OiiPGtKf0TztMexQOaGG7Ls-kTLDHGWv02PEkj7qcZS6EaPjmMGnomSMfZIicBcFm2U4YOmb_xna7Un4J8ZDvO6LXnBSPHuY2Icx2FrUL_lUDidViHEa-bkf79YQg2YOcBESTTQuhNOjm1s002psdNyBQoE4L_T5cUNTLheHMLvakiHHVApZCZr4C56wnm31vVcdb4TvZSESDUqokREGVFd3VzhZPUOv6UghQHktni56SdZGKMmVK9ZhSmWvCPWvCvqeLs1quLLLQckP6KBOI",
+      "photoAttribution": "Siam Talukdar",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "phone": "(98) 3349-1267"
+    },
+    {
+      "name": "Lençóis Maranhenses National Park",
+      "desc": "Pristine lagoons between white dunes, swimming in rainwater pools, desert-oasis landscape",
+      "longDesc": "Swim in crystal-clear rainwater lagoons nestled between vast white dunes and trek through this breathtaking desert-oasis landscape where water and sand create paradise.",
+      "coord": [
+        -2.5282195,
+        -43.026021
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=3254015454942764011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJX745XuGe8QcR65t-1dCVKC0",
+      "address": "MA, Brazil",
+      "rating": 4.9,
+      "ratingCount": 12185,
+      "website": "https://www.icmbio.gov.br/parnalencoismaranhenses/",
+      "photoRef": "places/ChIJX745XuGe8QcR65t-1dCVKC0/photos/AcnlKN3DtYULzsLElQ77LHJEjkCyOwsqyjvWmQYw-Ww8xBGO98-qjrthgYgbc4ESOS1t-26rfCAskv6n9uugCYoZYXPi68UlHcJsr-EVSK7otDvtBIBUYYYGjr3m3nLNVrDGiNfA78NpGVyeAE4u-AI43hXpwpj2iCxJXqpv7ckiOyFCaplFJLoHELEw6eRSrJofJCKVBAiCdAlbudzNHf16XEsEXpwv9LkGyaqiP4ghkbDjgvqTeUaFP1uho94MebzzlgcdyTBD6o55jEbrChsde_ueBT5YHQzfsUhcMI-zX2fgynipGzKF5YJKyiQ8GqiSc5oimp3baSlyQEMAMape-7JTMUIoAYDm9iQ3pXntvRyVjEg_u_ofDCcpuDgwTj4F0pniv16wgly54MPgwaErhOWvNz9vg46T7iv6lTaAfVgpS00",
+      "photoAttribution": "Siam Talukdar",
+      "tags": [
+        "Photography Worthy",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "phone": "(98) 3349-1267"
+    }
+  ],
+  "kidFriendly": [],
+  "markets": [],
+  "cityCenters": {
+    "Antonio Prado": [
+      -28.857,
+      -51.2821,
+      0.03
+    ],
+    "Paraty": [
+      -23.2197,
+      -44.7167,
+      0.03
+    ],
+    "Barreirinhas": [
+      -2.5282,
+      -43.026,
+      0.03
+    ],
+    "Northeast Brazil": [
+      -6.2493,
+      -35.0382,
+      0.03
+    ]
+  },
+  "itineraryData": {}
+}
