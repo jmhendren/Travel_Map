@@ -6541,12 +6541,12 @@
         // REGION FILTERING
         // ============================================
 
-        let activeRegion = null; // {name, bounds: [[minLat, minLng], [maxLat, maxLng]]}
+        let activeSubRegion = null; // {name, bounds: [[minLat, minLng], [maxLat, maxLng]]}
 
         function buildRegionFilter() {
             const row = document.getElementById('regionFilterRow');
             const sel = document.getElementById('regionSelect');
-            activeRegion = null;
+            activeSubRegion = null;
 
             // Check if current destination has regions defined
             const dest = destinations[activeDestination];
@@ -6570,9 +6570,9 @@
             if (!dest || !dest.regions) return;
 
             if (value === '' || value === null) {
-                activeRegion = null;
+                activeSubRegion = null;
             } else {
-                activeRegion = dest.regions[parseInt(value)];
+                activeSubRegion = dest.regions[parseInt(value)];
             }
 
             // Re-apply to current view
@@ -6589,7 +6589,7 @@
         }
 
         function applyRegionFilterCategories() {
-            if (!activeRegion) {
+            if (!activeSubRegion) {
                 // No region filter — reload all categories
                 loadCategories();
                 return;
@@ -6614,7 +6614,7 @@
             Object.keys(catArrays).forEach(function(key) {
                 var items = catArrays[key] || [];
                 items.forEach(function(item) {
-                    if (!isInRegion(item.coord, activeRegion)) return;
+                    if (!isInRegion(item.coord, activeSubRegion)) return;
                     totalShown++;
                     var marker = L.circleMarker(item.coord, {
                         radius: 7,
@@ -6636,7 +6636,7 @@
 
             var countEl = document.getElementById('filterChipsCount');
             countEl.classList.add('active');
-            countEl.textContent = activeRegion.name + ': ' + totalShown + ' places';
+            countEl.textContent = activeSubRegion.name + ': ' + totalShown + ' places';
         }
 
 
