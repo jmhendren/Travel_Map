@@ -1858,6 +1858,12 @@
     border-color: #93e6df;
     background: #f0fffe;
 }
+.dest-country-chip.region-active {
+    background: #d1faf5;
+    border-color: #4ECDC4;
+    color: #0d7a72;
+    font-weight: 500;
+}
 .dest-load-region-btn {
     padding: 4px 10px;
     border: 1px solid #4ECDC4;
@@ -1873,6 +1879,11 @@
 .dest-load-region-btn:hover {
     background: #4ECDC4;
     color: white;
+}
+.dest-load-region-btn.active {
+    background: #4ECDC4;
+    color: white;
+    border-color: #3bada6;
 }
 .dest-region-badge {
     font-size: 10px;
@@ -3459,6 +3470,7 @@
         let multiDestPoiLookup = {};       // key → { poiName → poi } for cross-destination coord lookup
         let regionPoisActive = false;      // Whether region-wide POI markers are showing
         let regionPoiLayers = [];          // Extra layers added by "Show Region POIs"
+        let regionViewAll = false;         // True when "Show All" region view is active
 
         // ============================================
         // DESTINATION LOADING FROM JSON
@@ -3520,6 +3532,7 @@
         // Region selector change handler
         function onRegionSelectChange(regionKey, autoSelectDest) {
             activeRegion = regionKey || null;
+            regionViewAll = false;
             const regionSel = document.getElementById('regionSelect');
             regionSel.value = regionKey || '';
 
@@ -3537,7 +3550,13 @@
             const region = manifestData.regions.find(r => r.key === regionKey);
             if (!region) return;
 
+            // Build chips immediately (shows loading state), then auto-load all
             buildCountryChips(region, autoSelectDest);
+
+            // If not auto-selecting a specific destination, load the whole region
+            if (!autoSelectDest) {
+                loadRegion(regionKey);
+            }
         }
 
         // Build country chips for a region
@@ -3545,12 +3564,21 @@
             const container = document.getElementById('destCountryChips');
             container.innerHTML = '';
 
-            // "Load All" button
-            const loadAllBtn = document.createElement('span');
-            loadAllBtn.className = 'dest-load-region-btn';
-            loadAllBtn.textContent = 'Load All ' + region.destinations.length;
-            loadAllBtn.onclick = function() { loadRegion(region.key); };
-            container.appendChild(loadAllBtn);
+            // "Show All" toggle button
+            const allLoaded = region.destinations.every(k => destinations[k]);
+            const showAllBtn = document.createElement('span');
+            showAllBtn.className = 'dest-load-region-btn';
+            showAllBtn.id = 'regionShowAllBtn';
+            if (regionViewAll) {
+                showAllBtn.classList.add('active');
+                showAllBtn.textContent = '\u2713 All ' + region.destinations.length;
+            } else if (allLoaded) {
+                showAllBtn.textContent = 'Show All ' + region.destinations.length;
+            } else {
+                showAllBtn.textContent = 'Load All ' + region.destinations.length;
+            }
+            showAllBtn.onclick = function() { onShowAllClick(region.key); };
+            container.appendChild(showAllBtn);
 
             // Country chips
             region.destinations.forEach(function(destKey) {
@@ -3561,18 +3589,20 @@
                 chip.dataset.dest = destKey;
                 chip.textContent = entry.flag + ' ' + entry.name;
                 if (destinations[destKey]) chip.classList.add('loaded');
-                if (destKey === activeDestination) chip.classList.add('active');
+                // In "view all" mode, all loaded chips appear semi-active; otherwise only the active dest
+                if (regionViewAll) {
+                    if (destinations[destKey]) chip.classList.add('region-active');
+                } else if (destKey === activeDestination) {
+                    chip.classList.add('active');
+                }
                 chip.onclick = function() { onCountryChipClick(destKey); };
                 container.appendChild(chip);
             });
 
-            // Badge + region POIs toggle
+            // Badge
             const loaded = region.destinations.filter(k => destinations[k]).length;
             const badge = document.getElementById('destRegionBadge');
-            let badgeHtml = '<span>' + (loaded > 0 ? loaded + '/' + region.destinations.length + ' loaded' : 'Click a country or Load All') + '</span>';
-            if (loaded > 1) {
-                badgeHtml += '<button class="dest-region-pois-toggle' + (regionPoisActive ? ' active' : '') + '" onclick="toggleRegionPois()">' + (regionPoisActive ? '🌍 Region POIs ON' : '🌍 Show Region POIs') + '</button>';
-            }
+            let badgeHtml = '<span>' + (loaded > 0 ? loaded + '/' + region.destinations.length + ' loaded' : 'Loading destinations...') + '</span>';
             badge.innerHTML = badgeHtml;
 
             // Auto-select a destination if specified
@@ -3581,28 +3611,109 @@
             }
         }
 
-        // Country chip click — load that single destination
+        // Country chip click — load that single destination, exit "view all" mode
         function onCountryChipClick(destKey) {
+            const wasViewAll = regionViewAll;
+            regionViewAll = false;
+            clearRegionPois();
+
+            if (destKey === activeDestination && wasViewAll) {
+                // Already on this dest but was in "view all" mode — just re-center on this country
+                var dest = destinations[destKey];
+                if (dest) {
+                    map.setView(dest.defaultCenter, dest.defaultZoom);
+                }
+                updateCountryChipStates();
+                return;
+            }
+
             fetchAndLoadDestination(destKey);
+        }
+
+        // "Show All" button click — toggle region-wide view
+        async function onShowAllClick(regionKey) {
+            const region = manifestData.regions.find(r => r.key === regionKey);
+            if (!region) return;
+
+            // If not all loaded yet, load them first
+            const allLoaded = region.destinations.every(k => destinations[k]);
+            if (!allLoaded) {
+                await loadRegion(regionKey);
+                return; // loadRegion already sets regionViewAll = true
+            }
+
+            // Toggle into "view all" mode
+            regionViewAll = true;
+
+            // Turn on region POIs if not already active
+            if (!regionPoisActive) {
+                toggleRegionPois();
+            }
+
+            // Compute bounds across all loaded destinations in this region and zoom to fit
+            zoomToRegionBounds(region);
+
+            // Refresh chip states
+            buildCountryChips(region);
+        }
+
+        // Zoom map to fit all loaded destinations in a region
+        function zoomToRegionBounds(region) {
+            var allCoords = [];
+            region.destinations.forEach(function(destKey) {
+                var dest = destinations[destKey] || destinationCache[destKey];
+                if (!dest) return;
+                // Use defaultCenter as a representative point
+                if (dest.defaultCenter) allCoords.push(dest.defaultCenter);
+                // Also include POI coords for tighter bounds
+                ['hotels', 'restaurants', 'experiences', 'kidFriendly', 'markets'].forEach(function(cat) {
+                    (dest[cat] || []).forEach(function(poi) {
+                        if (poi.coord) allCoords.push(poi.coord);
+                    });
+                });
+            });
+            if (allCoords.length > 0) {
+                map.fitBounds(L.latLngBounds(allCoords).pad(0.05));
+            }
         }
 
         // Update chip states after a destination loads
         function updateCountryChipStates() {
             document.querySelectorAll('.dest-country-chip').forEach(function(chip) {
                 const key = chip.dataset.dest;
-                chip.classList.toggle('active', key === activeDestination);
+                chip.classList.remove('active', 'region-active');
                 chip.classList.toggle('loaded', !!destinations[key]);
+                if (regionViewAll) {
+                    if (destinations[key]) chip.classList.add('region-active');
+                } else {
+                    chip.classList.toggle('active', key === activeDestination);
+                }
             });
-            // Update badge + region POIs toggle
+
+            // Update "Show All" button state
+            const showAllBtn = document.getElementById('regionShowAllBtn');
+            if (showAllBtn && activeRegion && manifestData) {
+                const region = manifestData.regions.find(r => r.key === activeRegion);
+                if (region) {
+                    const allLoaded = region.destinations.every(k => destinations[k]);
+                    showAllBtn.classList.toggle('active', regionViewAll);
+                    if (regionViewAll) {
+                        showAllBtn.textContent = '\u2713 All ' + region.destinations.length;
+                    } else if (allLoaded) {
+                        showAllBtn.textContent = 'Show All ' + region.destinations.length;
+                    } else {
+                        showAllBtn.textContent = 'Load All ' + region.destinations.length;
+                    }
+                }
+            }
+
+            // Update badge
             if (activeRegion && manifestData) {
                 const region = manifestData.regions.find(r => r.key === activeRegion);
                 if (region) {
                     const loaded = region.destinations.filter(k => destinations[k]).length;
                     const badge = document.getElementById('destRegionBadge');
                     let badgeHtml = '<span>' + loaded + '/' + region.destinations.length + ' loaded</span>';
-                    if (loaded > 1) {
-                        badgeHtml += '<button class="dest-region-pois-toggle' + (regionPoisActive ? ' active' : '') + '" onclick="toggleRegionPois()">' + (regionPoisActive ? '🌍 Region POIs ON' : '🌍 Show Region POIs') + '</button>';
-                    }
                     badge.innerHTML = badgeHtml;
                 }
             }
@@ -3751,13 +3862,23 @@
             });
 
             showCopyToast(region.name + ': ' + (loadedCount + region.destinations.length - toLoad.length) + '/' + region.destinations.length + ' loaded');
-            updateCountryChipStates();
-            buildCountryChips(region);
 
             // If no destination is active yet, load the first one in the region
+            // (this sets up the base map layer so region POIs can overlay on top)
             if (!activeDestination || !region.destinations.includes(activeDestination)) {
                 await loadDestination(region.destinations[0]);
             }
+
+            // Now enter "view all" mode — show region POIs and zoom to fit
+            regionViewAll = true;
+            if (!regionPoisActive) {
+                toggleRegionPois();
+            }
+            zoomToRegionBounds(region);
+
+            // Refresh chips to show the "view all" state
+            updateCountryChipStates();
+            buildCountryChips(region);
         }
 
         // Build per-destination POI lookup (for cross-destination coordinate resolution)
