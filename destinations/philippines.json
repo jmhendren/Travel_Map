@@ -29,7 +29,10 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Beach"
       ],
       "phone": "(02) 7976 5200"
     },
@@ -53,7 +56,9 @@
         "Romantic",
         "Wellness & Spa",
         "Family Friendly",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Beach",
+        "Reservations Recommended"
       ],
       "phone": "0917 179 2611"
     },
@@ -77,7 +82,9 @@
         "Romantic",
         "Splurge",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Beach",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -89,9 +96,146 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "0917 701 7840"
+    },
+    {
+      "name": "Crimson Resort and Spa Mactan",
+      "coord": [
+        10.2966371,
+        124.01406050000001
+      ],
+      "desc": "Beachfront resort with water sports, kids club, family suites, excellent dining options",
+      "longDesc": "A vibrant beachfront resort perfect for families offering direct beach access, multiple pools, kids' activities, and diverse dining venues all in one convenient location.",
+      "gmapsUrl": "https://maps.google.com/?cid=1022142211010570960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Beach",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 5030,
+      "website": "http://www.crimsonhotel.com/mactan",
+      "photoRef": "places/ChIJMwVMASSXqTMR0Ko35exgLw4/photos/AcnlKN2UZeUOvFr0cCl90Q1EQWD-OGQD3B7ErdgXY5K4dy--3s5yvL1dXRKVEUWDHRidS-mgJia_vRn-GxbvBiqZDigKI4CUdsL9ckxr-WermyHNKFKYGBs-0P_YDMORtbXEE90eWrVkjJ5vavrdhw_cDoBqic7mhlBVaY38FWV1tkveT3_Semx-JVrWOKl1sYRpUakgR0SEBhHNX7RqaTRXzegxs2KmieadZYdSxFrSbr7L7-jF6UxojkMuiqW05GaF3xgfa8Og6i6mdcjOWjTeU63LuquxxXRcHlq-vG_1B4TwHQ",
+      "photoAttribution": "Crimson Resort and Spa Mactan",
+      "placeId": "ChIJMwVMASSXqTMR0Ko35exgLw4",
+      "phone": "0917 314 4110",
+      "hours": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ],
+      "address": "Seascapes Resort Town Mactan Island, Lapu-Lapu, 6015 Cebu, Philippines"
+    },
+    {
+      "name": "Microtel by Wyndham Davao",
+      "coord": [
+        7.102468,
+        125.6326485
+      ],
+      "desc": "Budget-friendly hotel, comfortable rooms, family packages, near shopping and dining",
+      "longDesc": "An affordable family hotel in Davao with comfortable accommodations, helpful staff, and convenient proximity to markets, restaurants, and local attractions for budget-conscious travelers.",
+      "gmapsUrl": "https://maps.google.com/?cid=13372046121403502126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.3,
+      "ratingCount": 279,
+      "website": "https://www.wyndhamhotels.com/microtel/davao-philippines/microtel-by-wyndham-davao/overview?CID=LC:5b3ss9kd80xe5ox:27754&iata=00093796",
+      "photoRef": "places/ChIJc5wBKWVt-TIRLk5lahkNk7k/photos/AcnlKN1LDHJqVDibCox5nJ2RMtOsQUGKxxE8wKHM0i-hXz-TAW46hadOMFhibTQXWKzzM1bw3wdM6rkKuNZc8Epy6_Wdj49Opi7mS2_vXsx_RKzTrKfHQ5Jbba2GGko71ps8ZvP1zNZLEedWz7mRuc81WLWolC66UdkJmb8VAmB4bQ1v10yQ5SuKRA5orhEeBYjHoaQx2syHIXCPDmD78kOhZV3noELdf49ADdF5KfByO4fXhSBtPxXDXhZpT59iJm8X2uff8padDX8OTUrYMkJinW6blR0LVqnqwnMhvMHqaoftBQ",
+      "photoAttribution": "Microtel by Wyndham Davao",
+      "placeId": "ChIJc5wBKWVt-TIRLk5lahkNk7k",
+      "phone": "(082) 233 2333",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Mamay Rd, Agdao, Buhangin, Davao City, Davao del Sur, Philippines"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Sarsá Kitchen + Bar",
+      "coord": [
+        14.55594,
+        121.018248
+      ],
+      "desc": "Fine dining Filipino cuisine, elegant ambiance, local delicacies, perfect for special occasions",
+      "longDesc": "An upscale dining destination showcasing authentic Filipino flavors in an elegant setting, ideal for families seeking a memorable meal with traditional specialties and warm hospitality.",
+      "gmapsUrl": "https://maps.google.com/?cid=10097654418497553543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Splurge",
+        "Reservations Recommended"
+      ],
+      "rating": 4.3,
+      "ratingCount": 913,
+      "website": "https://instagram.com/sarsa_mnl?igshid=YmMyMTA2M2Y=",
+      "photoRef": "places/ChIJIV36WA7JlzMRh0QzpzETIow/photos/AcnlKN1jl0-J_GW4Is-aZvdQVLK142uWHvv_00kHaNiLH6fgKdfqrEwMOJ9mWGrzsXSWLdL8545YzLFcXFQ1OlHTMWhCBtJh5lvsbE5aluKajDJJYD3PyRt97kb4Qd__7_5XG5xphuVYl8DcWO7m_-10kQNbFEamdwSrhw3gaXgcFVHSaltfTgwSIrngqk6J6R4KSMT4rW38vu2pm2OrKLrDegvFdpCWpjbxgxbQJ1MZC31ugUFur0nEg5O5HtRp1KPkL622c6tNRx07VISvzBh4Sha_MM3FI37CvvnfkQLUF8B5Hl3welRMdhqmqJBcYqS4k40Y0ISl8BkPkyrx3aK885gvwO8ziLnLp9lWHZ8lbYCwWsJIQPjCf0swiaAZheutSwj5Edx_22F4izLzUYmVWvB7BALgCZicWdSDo_y00lM",
+      "photoAttribution": "Zaidy Serdon",
+      "placeId": "ChIJIV36WA7JlzMRh0QzpzETIow",
+      "phone": "0917 528 0115",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "address": "The Frabella 1, 109 Rada, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Davids Tea House - Hotpot Restaurant (Tomas Mapua, Manila)",
+      "coord": [
+        14.600785000000002,
+        120.979078
+      ],
+      "desc": "Casual comfort food, sandwiches, salads, family-friendly, relaxed atmosphere, good value",
+      "longDesc": "A laid-back neighborhood deli perfect for families offering hearty sandwiches, fresh salads, and comforting classics in a welcoming, casual setting without breaking the budget.",
+      "gmapsUrl": "https://maps.google.com/?cid=13793485247130509185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Family Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 866,
+      "website": "https://davidsteahouse.net/",
+      "photoRef": "places/ChIJezJ11QTKlzMRgR_OUcBNbL8/photos/AcnlKN0uZel90USvbnpGrVOY7avjP0Z1oONmE3VV84iLdbDCNBu_RvE_oru622u0MoK4BSQ8_5SWKsi5UnHs5S1c05-UCbNIan_N5pixdtpLztyw6oWk33Ndte1W5HjNn3WClHyiwUqsBakVCl9fBiqJ3OudywHEzlUrFoJSFJpLvuEZ7QJnkPzUt7r11X5l2ZXojxlHqURteJAPMEq_j-4pZzZAVom39054zhxpC1kVEnuM_wJTQmnFcfulgACK1--ZsmekbCGtmGuf6b-f3RKFua65EduWQNz2j_Oj3LntiHVRrw",
+      "photoAttribution": "Davids Tea House - Hotpot Restaurant (Tomas Mapua, Manila)",
+      "placeId": "ChIJezJ11QTKlzMRgR_OUcBNbL8",
+      "phone": "(02) 8733 9240",
+      "hours": [
+        "Monday: 11:00 AM – 2:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ],
+      "address": "561-563 Tomas Mapua St, Santa Cruz, Manila, 1003 Metro Manila, Philippines",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Sipalay",
@@ -111,7 +255,9 @@
         "Photography Worthy",
         "Romantic",
         "Outdoor & Nature",
-        "Family Friendly"
+        "Family Friendly",
+        "Beach",
+        "Scenic Views"
       ]
     },
     {
@@ -133,12 +279,144 @@
       "tags": [
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach",
+        "Iconic / Must-See"
       ]
+    },
+    {
+      "name": "Taal Volcano View",
+      "coord": [
+        14.0950677,
+        120.9369149
+      ],
+      "desc": "Iconic volcano crater with scenic lake views, hiking trails, photography hotspot, cultural significance",
+      "longDesc": "One of the world's most picturesque volcanoes offering breathtaking crater views, accessible hiking trails, and educational experiences about Philippine geology perfect for curious families.",
+      "gmapsUrl": "https://maps.google.com/?cid=14021607733094585919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Half-Day Trip"
+      ],
+      "rating": 4.8,
+      "ratingCount": 89,
+      "photoRef": "places/ChIJiaD71GJ3vTMRPxb5jvHBlsI/photos/AcnlKN2BsD_3Ni5HMBckmJdhInGUeuotY_34Cjwqi_IYl3CDapn9g26uhTYzZaFfctORguqg9aYq-56aDmpe-rTnsCbrGfTWu_FQRQr77i2omsYYKSGkbK5p30RGvhoredVxKxv5hAB37gM_VHUQnyEeORQDe_E98YuYZcxHnj4wv6lbIq7YGIrR3c7epeS1PIAZL8uwsdw1h5_VUBuc_uY0F2E-xzT6Oe41i7P5kxKiiGopjBYJZni3tjwHeYVv2KMjIgxKMcUigOnUy5vcserAW6HGfZ1Y0tEi9nI3xUh40EVG4rssNJ5X5dKBmW8NjbtYYEFOQiCcDG31roGC02vxPA_XnNvpB82tNkRwDQiNM7OE7TV69hdAn188sr8tsOPOmoGBmf3zQlzWHqeR2VndpC0pUdoknla_l0P1V-A-ucU1Rw",
+      "photoAttribution": "Jhon Lloyd Layon",
+      "placeId": "ChIJiaD71GJ3vTMRPxb5jvHBlsI",
+      "address": "3WWP+6Q3, Tagaytay - Nasugbu Hwy, Kaybagal South, Tagaytay City, Cavite, Philippines"
+    },
+    {
+      "name": "National Museum of Fine Arts",
+      "coord": [
+        14.5870316,
+        120.98102519999999
+      ],
+      "desc": "World-class art collections, natural history exhibits, cultural heritage, educational programs",
+      "longDesc": "A premier cultural institution showcasing Philippine art, history, and natural heritage through engaging exhibits that inspire young learners and provide rainy day family entertainment.",
+      "gmapsUrl": "https://maps.google.com/?cid=14971949485996564522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Family Friendly",
+        "Art & Design",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 9047,
+      "website": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-fine-arts/",
+      "photoRef": "places/ChIJa5tW0CPKlzMRKuDqk7sMx88/photos/AcnlKN3IUSkwEi0N9ax5o1BDvYWkH3rsXBXvUkreGE19qyMUbi1sL_h3p_f_3TIFzAIvEmGnO0m1v_FXJ76_YDCwQQiQj_f9m1o7Wl__sX7RAB1qRIhGovgn9PuaI1bnMnGo4rnIVAnK2vwmSQK9W08JE3imKlIpv954N3DJmv_oREfwbZSZw7UWo7t64UuCaRmlPdmvyPiGWPOPn1nmtV65tjx1HAYUl0CbI9OyQ2NEyPy06FCq0KZLH05-44BRBKMYd3aD8H_Tk72j3GgLMTWwQsAVtzf6orGJkC8dJiEVoLBiEYROWH0mPi4K4Fu-0zHmB5FVP286qBVgN1SlDNiZCstgg5TFa9t6Uz7sFmFCad5e1s4g2PcKpKS7JSyfDOpInTFMFpU3e4k_4lfuItM9nUmkFvDo40waWh2NLAKRhA96dzD6",
+      "photoAttribution": "Jasmin Jose",
+      "placeId": "ChIJa5tW0CPKlzMRKuDqk7sMx88",
+      "phone": "(02) 8298 1100",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "address": "Ground Floor, National Museum of Fine Arts Building, P Padre Burgos Ave, Ermita, Manila, 1000 Metro Manila, Philippines"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Enchanted Kingdom",
+      "coord": [
+        14.2822456,
+        121.0966516
+      ],
+      "desc": "Theme park with thrilling rides, magical shows, family attractions, entertainment for all ages",
+      "longDesc": "The Philippines' premier theme park offering exciting rides, themed areas, live entertainment, and magical experiences designed to delight children and create unforgettable family memories.",
+      "gmapsUrl": "https://maps.google.com/?cid=18349933502621720428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Nightlife",
+        "Playgrounds",
+        "Full-Day Activity",
+        "Good for Groups"
+      ],
+      "rating": 4.5,
+      "ratingCount": 15301,
+      "website": "https://www.enchantedkingdom.ph/",
+      "photoRef": "places/ChIJc4aHZRbYlzMRbJ_Oa0wPqP4/photos/AcnlKN3M4CrHyjPlQQvSc0gZPlw-AuKTXGdCgzFo2wgkDfYqz1Qi1toUGJ1iH-AW56gA1CaRa4-akUQpt7vPSh6E8u5-ZkGGM_EinK8jJm953k0N5-5-9lLwtOmoI4BjGn9Erg-90XQ2wvwJ6MZ-uwFi_hRjNCBlMxv98wNO5iIpJiHBSbuBhX8V9s7M6IHq7p4LeRveJjI0ys1EMi5n9bI9_bze76tHUPtzTEZpGdpF_b2s-hWDNTTkVsQMqAVELoQBo66WmizF0akVvwRHapJSayS1l9mS3lyfpN7JEYQv5ZUB4A",
+      "photoAttribution": "Enchanted Kingdom",
+      "placeId": "ChIJc4aHZRbYlzMRbJ_Oa0wPqP4",
+      "phone": "(02) 8584 3535",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ],
+      "address": "San Lorenzo South, RSBS Boulevard, City of Santa Rosa, 4026 Laguna, Philippines"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Carbon Market",
+      "coord": [
+        10.2914389,
+        123.899131
+      ],
+      "desc": "Historic public market, local produce, fresh seafood, authentic street food, vibrant atmosphere",
+      "longDesc": "An iconic bustling market offering authentic Filipino street food, fresh local produce, and seafood where families can experience genuine local culture and traditional flavors.",
+      "gmapsUrl": "https://maps.google.com/?cid=18205750631427072655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Shopping",
+        "Budget Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.2,
+      "ratingCount": 7293,
+      "photoRef": "places/ChIJkw4YkuSbqTMRj-KNt73Rp_w/photos/AcnlKN2gcwsk3nnvrQ0TXjIdfoPO2VDojomkg604MkgWyA9v5tYWkYcl38xiZ4UwCiEl5wR47kSjG4AlCDyuW2UaPm0bLALgeryoK9RnuVo1vX96K1GWJtxMR9tmP9xPWLP3yNNG9LwwJoLg-bTSXJv2WSSN0vyQx08HG2sOCAkjBfGrOlrOyxUpSKoc2F54ApTL2TeUneHNyiUvoQxPYSjIGeS3c24Zr1yN1buoXgaAMb8VvDX7njChaoZg1Xr8FFTkPU4JjsyKNv_hnJt9pwuLZsfMddxKinVzHD0xGoqY4D2JZL4DtcTwRMF4ZG4kk9HhFvY02QfLovdu1erI3QU-ntcKn4c-BlMULmRlNEfzXhxsHLwL2BGoyM1bjq9fENXwfb8UhGxs4XjshXKCyUN2RoKnwIDltaHSx7W8j0ma8AruBS3Hx6CTf9YeTZPg-1XX",
+      "photoAttribution": "辻政弘",
+      "placeId": "ChIJkw4YkuSbqTMRj-KNt73Rp_w",
+      "hours": [
+        "Monday: 12:00 AM – 7:00 PM",
+        "Tuesday: 12:00 AM – 7:00 PM",
+        "Wednesday: 12:00 AM – 7:00 PM",
+        "Thursday: 5:00 AM – 6:30 PM",
+        "Friday: 12:30 – 10:30 AM",
+        "Saturday: 12:00 AM – 3:30 PM",
+        "Sunday: 12:00 AM – 7:00 PM"
+      ],
+      "address": "59 M. C. Briones St, Cebu City, 6000 Cebu, Philippines"
+    }
+  ],
   "cityCenters": {
     "Palawan": [
       11.3563,

@@ -1,0 +1,429 @@
+{
+  "destination": "Saint Barths",
+  "hotels": [
+    {
+      "name": "Cheval Blanc St-Barths",
+      "desc": "Ultra-luxury beachfront resort, French Caribbean elegance, haute cuisine",
+      "longDesc": "A flagship luxury property combining French sophistication with Caribbean charm, featuring exceptional dining and beachfront luxury.",
+      "coord": [
+        17.919038699999998,
+        -62.854476899999995
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Fine Dining",
+        "Iconic / Must-See",
+        "Beach",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 262,
+      "website": "https://www.chevalblanc.com/en/maison/st-barth/",
+      "photoRef": "places/ChIJ36s4gvffDYwRFJ_L_I51kco/photos/AcnlKN1AU7cC3Zpeg_2WgXvMjHGiBekWPBhwj7ZQn5SO4JYggcazxqNRQhGSYvVYW_4IFNrcCTfcIbYPAOa4FmFQhp60uRlZcG5ip3emadAFaDKXs_eYhRExb0KhBEySOsygkDNg40XiTrjzaaNTGe9bysXd1iePGTw-nP7AQN5Ar5ld0IS4J4DH0nOlxWnoKB2Evh5FEAVEarZ5BXZW71vaqu-5MVL_0DomOYy9cyfmhvNowZv6PSSdUaPDCURnz9An7yrEJGAveuALVsvYKhlIJGxfI47tk4FdJ5MeGWvmltafqw",
+      "photoAttribution": "Cheval Blanc St-Barth",
+      "gmapsUrl": "https://maps.google.com/?cid=14596577124271496980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ36s4gvffDYwRFJ_L_I51kco",
+      "address": "Baie des Flamands, Saint-Barthélemy 97133, St Barthélemy"
+    },
+    {
+      "name": "El Rocco",
+      "desc": "Upscale St. Barths resort, beachfront luxury, Caribbean elegance",
+      "longDesc": "An exclusive resort property in St. Barths offering refined Caribbean luxury with beachfront access and sophisticated amenities.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Beach",
+        "Reservations Recommended"
+      ]
+    },
+    {
+      "name": "Hotel Le Toiny",
+      "coord": [
+        17.9001639,
+        -62.79757910000001
+      ],
+      "desc": "Clifftop luxury resort, private beach access, gourmet dining, spa services",
+      "longDesc": "Perched on dramatic cliffs with exclusive beach access, this intimate luxury resort offers world-class amenities and personalized service perfect for families seeking elegance and comfort.",
+      "gmapsUrl": "https://maps.google.com/?cid=8977467354101666836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Scenic Views",
+        "Beach",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 206,
+      "website": "http://www.letoiny.com/",
+      "photoRef": "places/ChIJVyUph9vfDYwRFFTlb_5elnw/photos/AcnlKN0uBq7fDVK1eaZtW_S0g9Xa3hKm1pfr4F9BCbAqMu1Wz_Qa9jciHmGVPz3fTalTgc7yzxh_HenDYDA3ypR5MevRyMN4vWCl5AZC-TONMPg0zyr-pJZdnFGacQPnkSUsyTxlXa1765Z3KGqsjC8kPD4Ax0tzYVMopS9N_NamZrLNkAZTVH0MPVWLoyY0bnvFvniJe1cI0Rx-ueQGtT13cbAQ_6F-QgwSzTn_OZbH4nuAHhAkqoHF5gr83EJ_i8BtyHcBgfiHFnWcNMtCzjXHBx1n1BK_se86Mk0xZoIWuXF-QA",
+      "photoAttribution": "Hotel Le Toiny",
+      "placeId": "ChIJVyUph9vfDYwRFFTlb_5elnw",
+      "phone": "0590 27 88 88",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Anse de Toiny, Toiny 97133, St Barthélemy"
+    },
+    {
+      "name": "Hotel Christopher Saint-Barth",
+      "coord": [
+        17.9138984,
+        -62.816974599999995
+      ],
+      "desc": "Boutique harborfront hotel, harbor views, walking distance to shops and restaurants",
+      "longDesc": "This charming harborfront boutique hotel in Gustavia puts families steps away from shopping, dining, and the picturesque port, ideal for exploring the capital on foot.",
+      "gmapsUrl": "https://maps.google.com/?cid=11288353213630977509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 387,
+      "website": "http://www.hotelchristopher.com/",
+      "photoRef": "places/ChIJh_xTgo3fDYwR5RWdhXBJqJw/photos/AcnlKN0ULcDwzCykKjI1jcyKOubyrnjDZLEP5qCTW2tmGXxB1zS3APrh9_6nYjNhPrbOYJsba8j6J3qXaRC7_ktjp1-28n47fDNv87HsxAS2s8IOFZ-ubcu0DY9tZ1IEmkb8rTYrtyOlQGHxVi_d3xF8iATZwE-YJ4-G3YB8drPsoVX-VHP8uytPRSzF8usOjFGlEJOf-ks86JNZEzpoT8RluZgacN8YwbF9T8SXqHYdOzsrmg8_PjO_EA6l4Q8PCmE5DPZiWCvz-spmQrBNssbWRakGxzQgn_SWH8g75MGN2fKkPQ",
+      "photoAttribution": "Hotel Christopher St. Barth",
+      "placeId": "ChIJh_xTgo3fDYwR5RWdhXBJqJw",
+      "phone": "0590 27 63 63",
+      "address": "Pointe Milou, Gustavia 97133, St Barthélemy"
+    },
+    {
+      "name": "Tropical Hotel",
+      "coord": [
+        17.9011192,
+        -62.8350866
+      ],
+      "desc": "Beachfront family resort, easy beach access, relaxed tropical atmosphere, affordable option",
+      "longDesc": "This welcoming beachfront property near the airport offers direct beach access and a laid-back vibe, making it an excellent budget-conscious choice for families with children.",
+      "gmapsUrl": "https://maps.google.com/?cid=14145800472234017692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Toddler Friendly",
+        "Beach"
+      ],
+      "rating": 4.6,
+      "ratingCount": 96,
+      "website": "https://www.tropical-saintbarth.com/",
+      "photoRef": "places/ChIJpWfK1lN1DowRnMMP85T6T8Q/photos/AcnlKN1KFNwlHqH0CYd0vI5-Z7Tmv31hrYG7XPvejui5-8kBSWKpO3QboGa2URsFhnDa6qjBiUKRy1uyfrF-wU7CkQtVhaYtJ-9gtKCzNjKHyLTA759KCydoQ-fI8SGqtS8O06myu8T0p2Jbfx3Eel4BNWKVC9OnphfGglHB1bQtHdcL4NKM3y5tYfME1AYjpKxlDLPdvhud9DoFYZqn9bUm9eOV9s-yswVj_8X16iiED5gStgaZZYxna5yDsnGgpK_LV6uvGZX3rOwV9au-eQFsAmQdnpZ-c6JjMsGd9mn63HwFTA",
+      "photoAttribution": "Tropical Hôtel Saint Barth",
+      "placeId": "ChIJpWfK1lN1DowRnMMP85T6T8Q",
+      "phone": "0590 27 55 67",
+      "hours": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 7:00 AM – 8:00 PM"
+      ],
+      "address": "Les hauts de Saint Jean SAINT-BATHELEMY, 97133, St Barthélemy"
+    },
+    {
+      "name": "La Plage - Tom Beach",
+      "coord": [
+        17.9038505,
+        -62.8395042
+      ],
+      "desc": "Casual beachfront accommodation, family-friendly, water sports access, vibrant beach scene",
+      "longDesc": "Located directly on Saint-Jean Beach, this casual hotel provides easy access to water activities and the lively beach atmosphere that families adore, with reasonable rates.",
+      "gmapsUrl": "https://maps.google.com/?cid=13766776016063661387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Toddler Friendly",
+        "Beach"
+      ],
+      "rating": 4.3,
+      "ratingCount": 63,
+      "website": "http://www.tombeach.com/",
+      "photoRef": "places/ChIJ2xQpDE51DowRS4XX29hpDb8/photos/AcnlKN0ZZNfPwZ0a_qtjzs8fvt_5fVRz1D0tmDU772X3m6CNjaLXUseZ7VVgyySc_K30FJzHgFctkR1uUFtzuLYUo46FhwarDx7ZRo3FBwza4h1-JiSSdpygSPkIMTbRcIRTWd6kz9a9UOOXfw9b_kYDMS1CjNzKuRxUMzCQ-O_5HFJRILYaw_0HOz0PnQKxZ0LhlXvyC6doPJcbenH1QXUNtf5wGuRxilx6GCmDEQOZULmMMYux4FiIhLd08NXAZdsdah71JwS4gQ7aHMyBgsjhp7yWeOayn4BWeiFV2Zio9Nj3H2kJk-9k0YByqo0z0PleKggCAr51ARTbYXoe5Sk8cpXD-O4zxon0uo-lQffM8IdkD8axJ9g9U_J2wTj0Pl98bEaJ6YRKK4qxOVZS7Dt8g-HxnTZpOnOJLvTRs-39bO4",
+      "photoAttribution": "Adeline Burry",
+      "placeId": "ChIJ2xQpDE51DowRS4XX29hpDb8",
+      "phone": "0590 52 81 20",
+      "hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ],
+      "address": "D209, 97133, St Barthélemy"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Bagatelle St. Barth",
+      "coord": [
+        17.8953036,
+        -62.8491351
+      ],
+      "desc": "Italian fine dining, elegant harborfront setting, fresh pasta, romantic ambiance",
+      "longDesc": "This elegant Italian restaurant overlooks Gustavia harbor and serves authentic Italian cuisine with an emphasis on fresh, locally-sourced ingredients in a refined atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=6186676108177130759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Good for Dinner",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4,
+      "ratingCount": 234,
+      "website": "https://bagatelle.com/venues/st-barths",
+      "photoRef": "places/ChIJW8jgl7UKDowRB0VLWCR921U/photos/AcnlKN11jWa0p9bxzFhRd7t5HP4wIE8ekwbpIzbqTjLO5TzlBCOG1NBspdmVcr2bafqVizu7K0Pr5isnAuhxeuYkC79urZYuRifQyZ3g2cXT3KySaYB6gpC8I1BSckRhuPnwtKIJ6vO7w3LpKvM8xpQrFfXGcIKWJ4oLpGLkt_ksOnVctaB_g4UfT506SXiANGFpHRwKU4KPHgfzxPVDmJXBtfV3NUn8gD0dm35zhC4whovASppV5q4nTQsl1NFSCPsQ8uIJ8QWAFcfVnyBq0Rv_ANU435nbu-ctL5uLF0JsQV1rVg",
+      "photoAttribution": "Bagatelle St. Barth",
+      "placeId": "ChIJW8jgl7UKDowRB0VLWCR921U",
+      "phone": "0590 27 51 51",
+      "hours": [
+        "Monday: 7:00 PM – 1:00 AM",
+        "Tuesday: 7:00 PM – 1:00 AM",
+        "Wednesday: 7:00 PM – 1:00 AM",
+        "Thursday: 7:00 PM – 2:00 AM",
+        "Friday: 7:00 PM – 2:00 AM",
+        "Saturday: 7:00 PM – 2:00 AM",
+        "Sunday: Closed"
+      ],
+      "address": "24 rue Samuel Fahlberg Gustavia Harbor, 97133, St. Barths St. Barths, Gustavia 97133, St Barthélemy",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE"
+    },
+    {
+      "name": "Nikki Beach",
+      "coord": [
+        17.9025917,
+        -62.835151599999996
+      ],
+      "desc": "Beach club restaurant, casual Caribbean fare, beachfront seating, vibrant atmosphere",
+      "longDesc": "This laid-back beach club offers casual dining with Caribbean influences, perfect for families wanting to enjoy lunch with sandy toes and tropical breezes overlooking the ocean.",
+      "gmapsUrl": "https://maps.google.com/?cid=9175488512012765774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch",
+        "Casual Eats",
+        "Off-Hours Eats",
+        "Beach"
+      ],
+      "rating": 4.5,
+      "ratingCount": 814,
+      "website": "https://nikkibeach.com/saint-barth/",
+      "photoRef": "places/ChIJF5tsKlJ1DowRTsoyFzDiVX8/photos/AcnlKN1fZpbo6lrmMeQ7isbcWe7OMfm8XIb5OHgVPMBH6ymFovYQT7nrQ7jG3o4GoyH4Z4Mc7DOIqZxeiLnkxD2h-MMqGNZcJiuk477wTWkTLTsbZDBjdlR3_eIi8ffFYjhkajdaW69d_FgiR8aab8Sa0xatfw8IEGI2zh76WjVNXDMG0gBEzrE0UBgpXXNbHaUjlp9cWfR9-OaHnnCKXzMP6vK5YzzdU_DVLDwFNjNGqSn2o9bYXdPZaoJxKWsp8Kf125iFipYfqm2wWnXVkSVwly_d3iWSFwUUeqdvydviaILE8w",
+      "photoAttribution": "Nikki Beach Saint Barth",
+      "placeId": "ChIJF5tsKlJ1DowRTsoyFzDiVX8",
+      "phone": "0590 27 64 64",
+      "hours": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ],
+      "address": "Gustavia 97133, St Barthélemy"
+    },
+    {
+      "name": "BONITO SAINT BARTH",
+      "coord": [
+        17.895587499999998,
+        -62.8475117
+      ],
+      "desc": "Contemporary Latin cuisine, colorful decor, fresh seafood, lively dining environment",
+      "longDesc": "This vibrant restaurant brings contemporary Latin American flavors to Saint Barths with fresh seafood preparations and a fun, family-welcoming atmosphere in the heart of town.",
+      "gmapsUrl": "https://maps.google.com/?cid=8785967879850221548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "rating": 4.4,
+      "ratingCount": 411,
+      "website": "http://www.bonitosbh.com/",
+      "photoRef": "places/ChIJJep9sLUKDowR7N92ljwH7nk/photos/AcnlKN12BhdJb7kDpajUHFWKVapGE2onsbaKsR7CXR1W7XJrJXXrYqqSYHlG3dFq-Ph4Jngvbrlxhnb8vYFBFhAb878JwPhXC2GAp8OtL94CFngBo1aVqPZV4GXso3eaS5BwM1ttxnzsqPPztPHhVyiN1MeFvfqDkZJxJtBbYBV6talzfd1vHPN3P_9ZrnyJrvXoXsO9Vw9kke8xIM4lqfu3-FcqaWbO_iKdanj-EknhJDWfo6uRocJupT8CNvn3xpEyGJZ3zUJsyRn9xQIFApn7p_mduPmhF2qz5zZRWInLAOAlAP-tuZKzA2TdPa6oeY4HFM5t5rEdTVjbsSaDQHctPMNw0j37I9SVFL7Amvt5Nncv-5zdBlGO1n0W9x5FRP0-BeTnpVArADuZBaVCjJZFbkBCYM_Jofp6HMbPkvGpf-NEgU4",
+      "photoAttribution": "Maggie J",
+      "placeId": "ChIJJep9sLUKDowR7N92ljwH7nk",
+      "phone": "0590 27 96 96",
+      "hours": [
+        "Monday: 6:00 PM – 1:00 AM",
+        "Tuesday: 6:00 PM – 1:00 AM",
+        "Wednesday: 6:00 PM – 1:00 AM",
+        "Thursday: 6:00 PM – 1:00 AM",
+        "Friday: 6:00 PM – 1:00 AM",
+        "Saturday: 6:00 PM – 1:00 AM",
+        "Sunday: 6:00 PM – 1:00 AM"
+      ],
+      "address": "Rue Lubin Brin, Gustavia 97133, St Barthélemy",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Lolita Jaca",
+      "coord": [
+        17.898512999999998,
+        -62.850101
+      ],
+      "desc": "Casual breakfast and brunch spot, fresh pastries, local coffee, family-friendly setting",
+      "longDesc": "This charming café serves excellent coffee and freshly-baked pastries, ideal for families starting their day before beach adventures or shopping in Gustavia's main square.",
+      "gmapsUrl": "https://maps.google.com/?cid=10399086558826507969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Toddler Friendly",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 5,
+      "ratingCount": 6,
+      "website": "http://www.lolitajaca.com/",
+      "photoRef": "places/ChIJ8XOgQcoKDowRwa5k5yD6UJA/photos/AcnlKN1ITuCIXg_pZgLNRp5JD-YPHCRJFzGZDtalTODiRYBTPWpmN2ei98XTZ62GbayPrhFpoPibs0dBR1vWpv8eVnFCrw_Oep8PZVaDBeGZhH8bSwlLFUu95t_aIVqEogccqLEN2hbEJUEqpIUgVuI3kxfOGzXOrvdizj4bHsOHEWmlpdjwq-zJpYF-kIu2kA2pQLxktT3alfEUQg3xT89-ECEcDVZ-5kAOHOO4_XjkFGhPotfOodD6eSTmKHjwFuxbLPo0XZdNw8V3DxC8e_E5EnfcqaW4Spwx-GTSPFabbzppCLFyjGfxV8qdOPgy3o2QQcAvslaUqQ45ZKG9rsHzhZENDlTxcqFqJUuTui7DIxXNx6Lw7CoSjmnmVj9nAQ1dp9Oqkeuq-FEMY943LfxNR4Wt7oAQ0e7itqW_sernH7JrDT0",
+      "photoAttribution": "West Indies Charter",
+      "placeId": "ChIJ8XOgQcoKDowRwa5k5yD6UJA",
+      "phone": "0590 27 59 98",
+      "hours": [
+        "Monday: 9:30 AM – 7:30 PM",
+        "Tuesday: 9:30 AM – 7:30 PM",
+        "Wednesday: 9:30 AM – 7:30 PM",
+        "Thursday: 9:30 AM – 7:30 PM",
+        "Friday: 9:30 AM – 7:30 PM",
+        "Saturday: 9:30 AM – 7:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Gustavia 97133, St Barthélemy"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Fort Karl",
+      "coord": [
+        17.8940882,
+        -62.8503451
+      ],
+      "desc": "Historic military fort, panoramic harbor views, cultural significance, scenic location",
+      "longDesc": "This restored 17th-century fort offers families educational insights into Saint Barths' colonial history while providing stunning views of Gustavia harbor from its elevated perch.",
+      "gmapsUrl": "https://maps.google.com/?cid=1253681234369499952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 110,
+      "photoRef": "places/ChIJzcpT_8kKDowRMNMqvHD4ZRE/photos/AcnlKN1n9KIc966XVsbywMVvPLnyWmdapER_Ya7LbknmkeKqhnE-mSusVSVVNibHKIuFMw-OepAHCs7KeslIL4OU95Yw3zw5xvbHMR_0eSV8hB3v6XYSkFDAmKwXdAj9PZHKlsXqkUbwJg-U9yzb-RbfEJyjGl22gT5_iDOChu0gLvzofEp7P87V_HSyqxofyqRLQfEdJGMjiFmQ_2wkt4iedo3bBBs3LIPefkQOimf5pYURVVUrwXJUpPyYuQQVAAfA6mmuRVReL0IX0H04G33R83K8NdFm5v89wP7fvj3qjjF3OFpVubDhu7fimaGS17c9rwxioratNCB_IvwFIGGjHjiDk1tm0Ui4QnaC1hfOLh_1wZWjyocwoZ50IcPtikVHOmYjC-sBCjuWtePOjdoPyx5KHnEIVpaftuRTKFCR9Jw",
+      "photoAttribution": "Из точки в точку",
+      "placeId": "ChIJzcpT_8kKDowRMNMqvHD4ZRE",
+      "address": "Gustavia 97133, St Barthélemy"
+    },
+    {
+      "name": "Colombier",
+      "coord": [
+        17.9231926,
+        -62.86851529999999
+      ],
+      "desc": "Secluded sandy beach, scenic hiking trail, pristine Caribbean waters, natural beauty",
+      "longDesc": "Accessible via a scenic 15-minute coastal hike, this pristine beach rewards families with crystal-clear waters and genuine seclusion away from the resort crowds.",
+      "gmapsUrl": "https://maps.google.com/?cid=17957714787245168309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Beach",
+        "Hidden Gem"
+      ],
+      "rating": 4.9,
+      "ratingCount": 139,
+      "photoRef": "places/ChIJh-_w6CF1DowRtRaHd3SeNvk/photos/AcnlKN2iM3LuzRVKgReNfGugStnO2B-r40fz2g8f91Bib6Y4mrYhIu5EPRfbpXOIDnncW-tZyMwrHf4IunzXiHwVXZuORAeablXxqzTYAQOiWNLRj3E9mdQ3NrfKRm3S1awG4_QtNXzxFf1C_KzVp7tBoNib3nkzDY6fMeHk6Y-xu_yYYLtFxQy3Hp-HWf1z_AADciDdv12zhlSFyV5u4C5-C3mwLqIarWBcG2G3OBPmyReRBacVLOBOFPhRJaTNsD2A5Vre_S3b2_thtmUwFTcZcXOyXay0qO8C1kqj0d2ZtrU2QCkvb3ThXLTgBoGcjV7vtWNx1uc1dDNKMabni2Dpy2Q8N6yM7V4nzPUYvPBUF6CyuF4_6wqQyKLpXPSNUqS7x_soGQj2HBUD97054ZsinnG8tfaTLKXek-ft0tBep6FddEXE",
+      "photoAttribution": "Chris",
+      "placeId": "ChIJh-_w6CF1DowRtRaHd3SeNvk",
+      "address": "Colombier, St Barthélemy"
+    },
+    {
+      "name": "Anse des Flamands",
+      "coord": [
+        17.9181134,
+        -62.8595545
+      ],
+      "desc": "Wide sandy beach, calm waters, family-friendly setting, perfect for young swimmers",
+      "longDesc": "This long, gently-sloping sandy beach with calm Caribbean waters is ideal for families with young children who want safe swimming and plenty of beach space for relaxation.",
+      "gmapsUrl": "https://maps.google.com/?cid=3546532347985539001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Beach"
+      ],
+      "placeId": "ChIJEz0xOyN1DowRuS8cUmHQNzE",
+      "address": "Anse des Flamands, 97133, St Barthélemy"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Shell Beach",
+      "coord": [
+        17.892785399999998,
+        -62.8488004
+      ],
+      "desc": "Sheltered cove beach, abundant seashells, shallow waters, perfect for toddlers and young kids",
+      "longDesc": "This charming small beach is a treasure trove of seashells and offers shallow, protected waters ideal for toddlers to splash safely while older kids search for shells.",
+      "gmapsUrl": "https://maps.google.com/?cid=14896505388421249414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Budget Friendly",
+        "Beach"
+      ],
+      "rating": 4.5,
+      "ratingCount": 138,
+      "photoRef": "places/ChIJz9pvFLYKDowRhnmKx7kEu84/photos/AcnlKN1D6UIz3b-zvCgRPC62Ghh-w7fPISN-Hk2tca4vFGRXULBugvFYjEPsLa8fUm7Ba4VoD1beeZCovWHZ9eNAqgPdu6xCXrdZdSGjtqpm5SXDt4ZClavlkq1nQ-uvMG5T5m-kVLWq83krLq5wpQ72emZdd349IXuC2_qUudokmwWpGnemTa3k26GlleW6Hid9E_qh-WvlCTmH3v2J9dhCp2ijwEYZz_nWm8MobmulE5d80aBmnrihaDPRaNOVxFMXG_sSAL-gBNYHorIvBO8_Rp7WwL6wwqX9ZcYOURh8HK296i0njLdgCytRunR6onA2zAn8QgROSOY9t1YI8Hc9h9MzzThD5t35Tx8yzCHSVxk3rbbCWPs3Y3Z-tDirmJIOxA6w6_Y_wyg2ILGyTvhHANRfWq-7on8aJgrkisocg1vyhQ",
+      "photoAttribution": "Larah Oh",
+      "placeId": "ChIJz9pvFLYKDowRhnmKx7kEu84",
+      "address": "Shell Beach, St Barthélemy"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Marché U",
+      "coord": [
+        17.9029971,
+        -62.8451101
+      ],
+      "desc": "Local produce and artisan market, fresh tropical fruits, crafts, authentic island experience",
+      "longDesc": "This vibrant local market features fresh tropical produce, local crafts, and artisan goods, offering families an authentic glimpse into island life and culture.",
+      "gmapsUrl": "https://maps.google.com/?cid=11342958263365566997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.3,
+      "ratingCount": 374,
+      "photoRef": "places/ChIJW76m7Et1DowRFYL8ZXFIap0/photos/AcnlKN32u26mdpmgDmT7h2lZg2xLuzG2ZGTKnm_v3sxEkA935IisBZquV-7_2TiUNhO8IM9292Kj7gIoi5wtjPm18KXi1iNBOyjB2WCqOeqIBliTZgHxUbQgm_eNbADGThsPokqwUedSvVctgcBqm1AEyYvx1VwsiIa0NS0E_p1b41ZflkHXELGPzUvr6LaPbyYwlxf3CxnerO_FLjV0G0r30VF3HQsGFf1Sz9-00jQKuuffdRihOzmVXchPtMqX6gv7Un1GzorVjM9fBk84AbmKaU1qJ0KDSZ4qxlTwmX2qZNOdLaOOn0IOhR1IVTxxwswHEW18oCjJsttNfCjGMoF2xFaTSWrKKkj6KCUvf_lWr2tZ8s41TXlAvcwpmcMEi42gBO32wEmquwaFvXCth0gKSq8oYg2dBiKncAuMreudmmsbnBJv",
+      "photoAttribution": "richard salata",
+      "placeId": "ChIJW76m7Et1DowRFYL8ZXFIap0",
+      "phone": "0590 77 66 32",
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "97133, St Barthélemy"
+    }
+  ]
+}

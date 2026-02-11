@@ -50,7 +50,8 @@
         "Splurge",
         "Wellness & Spa",
         "Photography Worthy",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Scenic Views"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=18093244842720841735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.8,
@@ -79,12 +80,135 @@
         "Wellness & Spa",
         "Splurge",
         "Outdoor & Nature",
-        "Romantic"
+        "Romantic",
+        "Scenic Views"
       ],
       "phone": "08823 180"
+    },
+    {
+      "name": "Hotel Adlon Kempinski Berlin",
+      "coord": [
+        52.5160431,
+        13.379944199999999
+      ],
+      "desc": "Historic luxury hotel, Brandenburg Gate views, world-class service, family suites",
+      "longDesc": "Berlin's most iconic hotel offers timeless elegance with commanding views of the Brandenburg Gate. Perfect for families seeking luxury with accessible amenities and central location.",
+      "gmapsUrl": "https://maps.google.com/?cid=1865862350127202009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2065,
+      "website": "https://www.kempinski.com/en/hotel-adlon?utm_medium=organic&utm_source=google&utm_campaign=KIBER2&utm_content=gmb&source=S308962248",
+      "photoRef": "places/ChIJHQQciMZRqEcR2X4b8-vf5Bk/photos/AcnlKN3sNCacI0QZSXRbowbsmmDEBLJXV23iVa3WlePsTLTgsHMmCbb2q-zVC6fiEVuS3QVpc1VTzy3cCBxAIlrIRCgcaAY67WlVt3OtNnzsqQV0UXdzfjjOaDQLD0tk2_MVgS22-Ie0cUJI_MDVZ9u_p3cwQ9YlXTvNlFqcqgBh_3kyTsPHdXfg6BA7vHA2exUMf0lo9lxw-tNjg_rc2kX3IzgkcaPTBUGD4-4yJtrOrrtQD4EuExcu5UgsM5ylpldY9lSIzWOxNWITQeAh4APYAjRVw3eQaswvdUXOz6CZpV0d4w",
+      "photoAttribution": "Hotel Adlon Kempinski Berlin",
+      "placeId": "ChIJHQQciMZRqEcR2X4b8-vf5Bk",
+      "phone": "030 22610",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Unter den Linden 77, 10117 Berlin, Germany"
+    },
+    {
+      "name": "Allgäuer Bergwald Chalets",
+      "coord": [
+        47.5190832,
+        9.996872999999999
+      ],
+      "desc": "Family-focused Alpine resort, kids club, outdoor activities, mountain views",
+      "longDesc": "Charming Allgäu mountain resort designed specifically for families with children. Features indoor play areas, outdoor adventures, and wholesome Bavarian hospitality.",
+      "gmapsUrl": "https://maps.google.com/?cid=8425558086662920937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Adventure & Active",
+        "Playgrounds",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 43,
+      "website": "https://allgaeuer-bergwaldchalets.de/",
+      "photoRef": "places/ChIJsYU9Ms97m0cR6Zr2dXCY7XQ/photos/AcnlKN1j6rhoeIOhQ2KA7VS-H-I7xpcE6RQ5Mom90prbBaFlB5y1PnLr3Kfr6AhddFQxYaEz5BAPAeHbkw5XyZ0wAj43u8WHqahEhiwuY2sqDjYtuaEn815DY0jV7LZkwE7-WqJ7BClV09ctp6EIkdaMjshR0W9AiZtWmwiaiGr_JYbbgN7atG2ENcSx-6Y9o5ivedhKo9mN4KXAh2tmo2cLuXRHSwzGsEGRrof8CHcqRG-fievsECvRuK1nuJqY-E-kTfNUE993zxIboidltFjgac_zoVeGekK6JVLci505Y7mM3w",
+      "photoAttribution": "Allgäuer Bergwald Chalets",
+      "placeId": "ChIJsYU9Ms97m0cR6Zr2dXCY7XQ",
+      "phone": "08386 9696020",
+      "address": "Fluhstraße 26, 87534 Oberstaufen, Germany"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Lorenz Adlon Esszimmer",
+      "coord": [
+        52.51601050000001,
+        13.379817599999999
+      ],
+      "desc": "Three Michelin-star fine dining, French-German cuisine, refined elegance",
+      "longDesc": "Berlin's most celebrated restaurant offers sophisticated French-German gastronomy. An unforgettable splurge for special family occasions with impeccable service and innovative cuisine.",
+      "gmapsUrl": "https://maps.google.com/?cid=4369518774533625375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Dinner",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 218,
+      "website": "https://www.kempinski.com/en/hotel-adlon/restaurants-bars/lorenz-adlon-esszimmer?utm_medium=organic&utm_source=google&utm_campaign=KIBER2&utm_content=gmb&source=S308962248",
+      "photoRef": "places/ChIJHQQciMZRqEcRHxZ6uyymozw/photos/AcnlKN02nr1xeZCOJsHK-KkTmr82R_ma7BZZroa2uOSXfsl7WNz-ozUNMsCVsuY4jmQR32N7FDfu5lAFEEUPD_VoRRiZci7iYX7GaXU-0aCLr9VYZRb0he8aW_dY7oQBs5eRWtwrWdWQPWlHJTK8YjF3aMHCmsDvZCH1fR18oJzkFM8wVY6RAABgbe5PbOJupGHXL3_F2K01nrIFgTrJF3CVxiID_YtnjFizUJPieHaBy-kH2yUGzgc_mVuyry3ot9kKj-S07svBHaVkDpxS_uIgHIX5v_NYZsNRonzhager_KYUrQ",
+      "photoAttribution": "Lorenz Adlon Esszimmer",
+      "placeId": "ChIJHQQciMZRqEcRHxZ6uyymozw",
+      "phone": "030 22611960",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 7:00 – 11:00 PM",
+        "Thursday: 7:00 – 11:00 PM",
+        "Friday: 7:00 – 11:00 PM",
+        "Saturday: 7:00 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Unter den Linden 77, 10117 Berlin, Germany",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Café Einstein Stammhaus",
+      "coord": [
+        52.5020986,
+        13.354660899999999
+      ],
+      "desc": "Historic Vienna-style café, coffee excellence, pastries, relaxed atmosphere",
+      "longDesc": "Berlin's beloved coffehouse institution serves exceptional espresso and Austrian pastries in a cozy, intellectual atmosphere. Ideal for families wanting a genuine local experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=5417174333418599219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Casual Eats",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.4,
+      "ratingCount": 3199,
+      "website": "https://www.cafeeinstein.com/",
+      "photoRef": "places/ChIJ3QCerU1QqEcRM3PH1VqrLUs/photos/AcnlKN23E3N7eSbx-TOxjsVAp87nhs8ArdGadMWv9Kace7s8wzmF6VwiRnGyqy8-elzwe_Xf80uNKOE-HwBfjZDhoIqFA8BWI7_Fh40574019acQqExmR7cuE0zSGuq2y9iZALNuXhg49TbrghkxIxyH4LDEbY7stF1m2SCbnlWDcOarxem_urpT-midpAtWBGBGilfj7fkAx799G1Pb10uCiWNqRi1ILJduVAGSG-ms3yH-dEQm9h7Ujmz_Oj4ALxapLt70SjXvW_Yt1eEbxLcnZckZdsjO8LRNdZNSawRn-zEG2w",
+      "photoAttribution": "Café Einstein Stammhaus",
+      "placeId": "ChIJ3QCerU1QqEcRM3PH1VqrLUs",
+      "phone": "030 2639190",
+      "address": "Kurfürstenstraße 58, 10785 Berlin, Germany",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Monschau",
@@ -98,7 +222,8 @@
         "Photography Worthy",
         "Romantic",
         "Budget Friendly",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Hidden Gem"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=299314536935749712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "website": "http://www.monschau.de/",
@@ -124,12 +249,141 @@
       "tags": [
         "Photography Worthy",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach"
       ]
+    },
+    {
+      "name": "Neuschwanstein Castle",
+      "coord": [
+        47.557573999999995,
+        10.7498004
+      ],
+      "desc": "Fairy-tale castle, Alpine setting, guided tours, Disney inspiration, stunning views",
+      "longDesc": "Germany's most famous castle captures the imagination with its storybook architecture and mountain backdrop. Families love exploring the royal chambers and enjoying spectacular Bavarian scenery.",
+      "gmapsUrl": "https://maps.google.com/?cid=14458391451389508515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 109391,
+      "website": "https://www.neuschwanstein.de/",
+      "photoRef": "places/ChIJXaNOxMr3nEcRo7ud02uGpsg/photos/AcnlKN2jhzWe9bbPnavh4D4bHLq6ybCF5h4UOiBoY3KP7iGHmZTYm6D8cvKcJoxbq2cXE7_oPkx9AIyHOAQHt7dMrwbZ-ICV2uO3zfX9dN2xjL2qsMYyg26Y4vJm0GpLUgE026i8FRgrYuT02s3mGN45-dTq6lFAwow2nSZrlqQTZ2ew2TSow3zWxG-Gub3Xodj0--8cIy1EkqML-XwuTrkcplDqyqzbVTW0RAdnADa2xEebR15nJiDiZrhQCEYyEhpEII1woETqAvyociJSdZ3jsdBgOICimgv6DAIR_JKoMPZktgYEOcDHltlTjTxz_0OVEOM-RAnNZHgueqyZtnxrpNeqjgDqVmcNWz6t-THPnRSneTqjb5kadWwNNoK8il-kTWHVIgZNtqOz8yqtBeY5bUQ9lCClvnM6_dPmMGwbjVldpQ",
+      "photoAttribution": "Jason Zhu",
+      "placeId": "ChIJXaNOxMr3nEcRo7ud02uGpsg",
+      "phone": "08362 9398877",
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "address": "Neuschwansteinstraße 20, 87645 Schwangau, Germany"
+    },
+    {
+      "name": "German Museum of Technology",
+      "coord": [
+        52.4986982,
+        13.3778846
+      ],
+      "desc": "Interactive science museum, trains, aircraft, industrial heritage, hands-on exhibits",
+      "longDesc": "Berlin's premier technology museum captivates children and adults with interactive displays of locomotives, planes, and engineering marvels. A rainy day essential with hours of exploration.",
+      "gmapsUrl": "https://maps.google.com/?cid=4914994665818843768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day",
+        "Toddler Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 26171,
+      "website": "https://technikmuseum.berlin/",
+      "photoRef": "places/ChIJuyVqNDJQqEcReGoSmZuRNUQ/photos/AcnlKN1Bv0ssKkGll4Bi5D0c0voe3wgikmSsYT6DNi6yvvYOQRVwR1uMQrLcRBMcIStsC7obQu1LnhlOMK1_Eh1jHgb7jXdE_Ga32RWuSmb0QGhMVKSeKlozO1VGZb3GOtaGnZ8TVWBmHDz73yD_jck5s_N8XDKsYpKYEueSxaljhBeeDzBs1xfvaKP8JZYqAs9Y0oBxMoyrq7Yisd_TYHH5xAHvax3X-yZr7VAPnuE0v4dJC28oXeFYHgMMPoVwoSVL6tw8yoNePur5tKzPWb_F5tFEOUX0WCp3RozlMQOpnabmKA",
+      "photoAttribution": "Deutsches Technikmuseum",
+      "placeId": "ChIJuyVqNDJQqEcReGoSmZuRNUQ",
+      "phone": "030 4397340",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Trebbiner Str. 9, 10963 Berlin, Germany"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "LEGOLAND Discovery Centre Berlin",
+      "coord": [
+        52.5097515,
+        13.3722786
+      ],
+      "desc": "Indoor LEGO park, building activities, dark rides, café, perfect for rainy days",
+      "longDesc": "This vibrant indoor attraction brings LEGO to life with interactive builds, themed rides, and hands-on activities. Perfect entertainment for young families escaping Berlin weather.",
+      "gmapsUrl": "https://maps.google.com/?cid=10090550420911330011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Rainy Day",
+        "Budget Friendly",
+        "Playgrounds"
+      ],
+      "rating": 3.7,
+      "ratingCount": 7827,
+      "website": "https://www.legolanddiscoverycentre.com/berlin/",
+      "photoRef": "places/ChIJzbtVepRRqEcR25KWUiXWCIw/photos/AcnlKN1wko5G0YZUi1sxZAzmR2tXeH_tefEahJ-gynDxhywTL-fRwVfrilIsAr_Fj8fKQz9Nh9yquJZxQ355CIn4VvzeSGD98YMFD2XvmxrM068ZfISJdEiKzOxFjzGsvLNc0Jvpg_jmMLrgYr8WxNFcrH8UUqozrFLVo19w3xOr4mVBeIycXcg3TBUWJcIDII79nliAmXXTopvevKcV1v_eDEkSbLgYsBozGMvv-a7eHlamv1l-Sqx6PwpFQLHxjas3bcnXwdFgRJvPD3Vab4VFLIfUPd6BU-saq8Vso6HGhzAtvg",
+      "photoAttribution": "LEGOLAND Discovery Centre Berlin",
+      "placeId": "ChIJzbtVepRRqEcR25KWUiXWCIw",
+      "phone": "030 3010400",
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Potsdamer Str. 4, 10785 Berlin, Germany"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Munich Christmas Market",
+      "coord": [
+        48.1372948,
+        11.575160799999999
+      ],
+      "desc": "Traditional holiday market, handcrafted gifts, local food, festive atmosphere, seasonal",
+      "longDesc": "Munich's beloved Christmas market transforms the city center into a magical winter wonderland. Families enjoy artisan crafts, traditional Bavarian treats, and warm mulled wine in December.",
+      "gmapsUrl": "https://maps.google.com/?cid=5222946141470231010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.5,
+      "ratingCount": 130,
+      "website": "https://www.christkindlmarkt-muenchen.de/",
+      "photoRef": "places/ChIJAQC0L_p1nkcR4olU49ehe0g/photos/AcnlKN3fGOSl-Z2Sv8Rg08juehLqN22uKJt_7vB_Q04_-RZNA9nYg30rqPtsbkOoKMa7dgHT8fbXf0GUOU27l110K1snq9NXqqjb5fz2uUOJCn0aUIPKIE8TF68LLWZS0IhipjBf0CgePROEMSGpIPL6pN3z1vsLH24uqkFlPFnnMUkBdOh64IiHiDkuHk7iDGIBMcrRCXcJz3YdNlEy-bzMF6TLTck1vB2Lj4IbmqKQcsPJaaa17H0pfijwGBLTM_5tYox7MnvVu2sp8CtXCTyyEptqCj_0LKbYTmOOvUD343fLYhS1nAp2rpFfoJ_o6slpu0E6VHrNOCrP_XhURTh4WvgGgiZmEXkv5tlkDT2buG8jwyaSlnR1lH7tAJMub1o3fLQC5VXJwUf0QIg21jcSC567rhxLdf-n3OGKfDzWz5LVXqNeVgP6py0zY1g4Sw",
+      "photoAttribution": "Olivier Risse",
+      "placeId": "ChIJAQC0L_p1nkcR4olU49ehe0g",
+      "phone": "089 23396500",
+      "address": "Marienplatz, 80331 München, Germany"
+    }
+  ],
   "cityCenters": {
     "Monschau": [
       50.5549,

@@ -1,0 +1,1311 @@
+{
+  "destination": "British Virgin Islands",
+  "hotels": [
+    {
+      "name": "Rosewood Little Dix Bay",
+      "desc": "Ultra-luxury beachfront resort, highly recommended, Caribbean paradise",
+      "longDesc": "A highly acclaimed ultra-luxury resort in Virgin Gorda offering pristine beaches, world-class service, and exclusive accommodations for discerning travelers.",
+      "coord": [
+        18.4591854,
+        -64.4338764
+      ],
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Beach",
+        "Scenic Views",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.8,
+      "ratingCount": 310,
+      "website": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda",
+      "photoRef": "places/ChIJmTsaQgR0BYwRxXWyt1Hibu0/photos/AcnlKN3AAB9EcqTxG-LiTYH4qs2FYkn8w0nVRKZErTdKp_Kf9mXY1HxsRsl-r-fX-OTBo68vzcAS7zIqwr_qhq-OE2wzFxHviqeRGG_8V8n3z-5-_OkmzbCxsXmIGYl0nT3HlkWEkJB6Kz-JprNdkLo_xVUfP2AXD6gG242GlDlh1HwPhVwWAzEn0TA6TQrqr-bg5oCwHvKSUN-5GLPUJWJfUYA1U7xHEw_fLOwCM_aqUfp8U4lQ9Rpg9PmUp38Yxz-0doqIRIyAwjDQR7t5VQ27ruA1XvMBTaKZjdZtmzAbvujaSw",
+      "photoAttribution": "Rosewood Little Dix Bay",
+      "gmapsUrl": "https://maps.google.com/?cid=17108860875029247429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJmTsaQgR0BYwRxXWyt1Hibu0",
+      "address": "Valley, Lee Rd, Spanish Town VG1150, British Virgin Islands"
+    },
+    {
+      "name": "Necker Island",
+      "desc": "Ultra-exclusive private island, billionaire retreat, Caribbean paradise",
+      "longDesc": "The world's most exclusive private island destination offering unparalleled privacy and luxury in the British Virgin Islands.",
+      "coord": [
+        18.5267666,
+        -64.35862759999999
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 172,
+      "photoRef": "places/ChIJedVYZZKABYwRQylSDNJBSf0/photos/AcnlKN3ev7UxJCMk49X-fJRj2AVQ2xOtS6l9JU1cpDbif9pG9ifbFm3KXfBI5XlvDNCwJnfuNYPq09lqF8zAKBn6FHPC8DfTsh43kE8nyD-Eco0kfa6mQ_IPLj-Frbb93w_d6rbUeoQQRIhe3PmzX7rKSPQQpIyJBYJ_LzonNWKgX4IGyJ2h38J4zJyX_LSAbJpb35ycBifxSw1tKYv1tr1y9THMqKHxlQoYm1Hq8pc1yJqGXZtQQLZRXk0pGuHs_KLWM51Ca05TSpETjqg-svsEVDF6ZTMf3ne5kO1XaWT2RhJN_iI7lR1n3v5iTpKJSlXImVhGkYpbHPFONymbpAc5G5cwHVblrCquHwTuJSxREqhlPfJDHXuRaIisXS-OqzLGvVzuf-w7ZBf_gROFud30MXNispzxj6UT_eWiuSuYNXRZ_Q",
+      "photoAttribution": "BTC1Billion 2038Fidelity",
+      "gmapsUrl": "https://maps.google.com/?cid=18251191335301294403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJedVYZZKABYwRQylSDNJBSf0",
+      "address": "Necker Island, British Virgin Islands"
+    },
+    {
+      "name": "Oil Nut Bay",
+      "coord": [
+        18.4992189,
+        -64.3301788
+      ],
+      "desc": "Luxury private island resort, infinity pools, pristine beaches, world-class amenities",
+      "longDesc": "A secluded luxury retreat offering private villas with stunning ocean views, multiple pools, and exclusive beach access. Perfect for families seeking an ultra-premium island escape.",
+      "gmapsUrl": "https://maps.google.com/?cid=6339290068640430075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Romantic",
+        "Photography Worthy",
+        "Beach",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 155,
+      "website": "https://www.oilnutbay.com/?utm_campaign=gmb",
+      "photoRef": "places/ChIJXQsFCtp_D4wR-3d5_bqu-Vc/photos/AcnlKN1Avw7nkjy7THluNYlsogjWyX9skCMgp6YgQrvGR_Yud5Wtb7ZcJMrS8dBOiUBvCiHh2E8a7rqUoPgG1enR69tpYBLQZLHGQiPR4M61jAITsHHgbqy6Nl1_K7Pt0xYVrHL7xhoT3lWd8woOoySCT2Nap9XdIogeY4dwEl8PPLElYzxVq-W4zTwEyio4PVghW56YCO8XV15HGhpc1bEAsotm2kIKHLXogh0SvDCLx-nVrMbPjTkrUYPlZJviXXkeSaNzAQJeXlkttRT8XQIz5oZFxMJiNDM3IBp2UWtsFhQO6g",
+      "photoAttribution": "Oil Nut Bay",
+      "placeId": "ChIJXQsFCtp_D4wR-3d5_bqu-Vc",
+      "phone": "(800) 761-0377",
+      "address": "Virgin Gorda Oil Nut Bay, British Virgin Islands"
+    },
+    {
+      "name": "Fort Recovery Beachfront Villas & Suites",
+      "coord": [
+        18.3862988,
+        -64.675598
+      ],
+      "desc": "Beachfront villa resort, private pools, historic fort ruins, family-friendly accommodations",
+      "longDesc": "Historic oceanfront property featuring spacious villas with private pools and beach access. Families enjoy exploring nearby fort ruins and peaceful tropical gardens.",
+      "gmapsUrl": "https://maps.google.com/?cid=1805318396807696079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Splurge",
+        "Cultural & Historical",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 26,
+      "photoRef": "places/ChIJDa4rrlVxBYwRz04zVITHDRk/photos/AcnlKN3p5lCz9dzmEw3qEmskbDCUqVXiWnRjc2YcBc2KetKGi7TstAKPtOPKoDLdAKaI1TZ3eeu8NWcMivwIY22SD0gSkbCE5Z-gvkj0zmcGb1QNQ_a-GfAyjA5w7VTl1do-7zly0Sn-SGGujbQUWbGSxY8o4QoCoIsflD_HFbFoatBeiFRqcoxLMh7WzH02oC-00OepjsP_7CU85IOKI7bBzBMexuCL-GC9RQwDXuczwr507bceLfOwaSoIocdxrF2L0Bl-OR4WcTjGSspPbs8j4Ln1upUeRrNC7MkLYTj7CpFybr4TN-t0XKaRhMehlPHKZnUDty7w2IRrA7aKtvGM_91RJFDVJu12tN_hdSRgDjzqf7B3R25YBWluimRbqsBzOOaoKAFyZEKO5ZxQJ-wHhisNAbz8ssTRJxLCr6aqDARhvA",
+      "photoAttribution": "Pedro Barboza",
+      "placeId": "ChIJDa4rrlVxBYwRz04zVITHDRk",
+      "address": "Town Road Tortola, 98PF+GQ6, Freshwater Pond, British Virgin Islands"
+    },
+    {
+      "name": "The Hideout",
+      "coord": [
+        18.4430733,
+        -64.76302860000001
+      ],
+      "desc": "Boutique beachfront hotel, artistic design, intimate setting, excellent beach access",
+      "longDesc": "Charming small hotel with colorful Caribbean décor and direct beach access. Great for families wanting personalized service and a more intimate island experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=6200191612005700042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Romantic",
+        "Art & Design",
+        "Budget Friendly",
+        "Beach",
+        "Hidden Gem"
+      ],
+      "rating": 5,
+      "ratingCount": 56,
+      "website": "https://www.thehideoutbvi.com/",
+      "photoRef": "places/ChIJBdTZCKkLBYwRytH0zGuBC1Y/photos/AcnlKN2Y2yLV9bfV6zFCkieViANFYeIQxo7qM82lgn4KQnctN4Q4CBNYlwFaxrXXaM-tp1Ezgw2_p3H1TrfSI2G70oAiR1UBuhLtjfoj1XyncZyE8cfTJnGiJj0T2KB8TcGe9XhHJ3M4fb5315iVbNmoTptGWxgd2XsHefefJ2ByUQDifa9qlBqLGIHDzrIvK7noZQw12UFW8lGlO37Bowch0wuvrQgQhOgKyT7xcjsJ1k9Zn2HYQSfjBgDaN0FTpAMihD_hVqt7uQa2LDqfLE8rjlms9pMR631AB4dtrfU5F7E8-w",
+      "photoAttribution": "The Hideout",
+      "placeId": "ChIJBdTZCKkLBYwRytH0zGuBC1Y",
+      "phone": "(284) 393-9200",
+      "address": "White Bay Jost van Dyke, VG1160, British Virgin Islands"
+    },
+    {
+      "name": "Scrub Island Resort, Spa & Marina",
+      "coord": [
+        18.466438,
+        -64.5235172
+      ],
+      "desc": "All-inclusive resort, water sports facilities, spa services, private island setting",
+      "longDesc": "Exclusive all-inclusive island resort with water sports activities, wellness spa, and family-friendly amenities. Perfect for active families seeking variety and convenience.",
+      "gmapsUrl": "https://maps.google.com/?cid=5410845076144161273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Wellness & Spa",
+        "Splurge",
+        "Beach",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 525,
+      "website": "https://www.scrubisland.com/",
+      "photoRef": "places/ChIJZ4nN5yZ4BYwR-YE-yu0uF0s/photos/AcnlKN1QB24Ektmgv5Wa21Uk1TRHH1faMIlC7odJ3kOtFQdjXPd3D39EO3b_CMSo6Sg-pr-IB17DkkmNr4YQ-ZVFO7Q4rffNwDjfRcKcOMIK12NPflGGzOAzihgSDL63xtTvugwI7DunNqyoNDGlpggtA36r58pMGzbZ6ThKmbrd3y0fea-HZlm_5h4zlvq45_6HxnsgnFIv6a1isrrIF8oTf7nyJow2NDgj-4yJreO7-aVHKqMGQaV8jmWhJ2m4OSv8G_2a-uLNLiPej_Oykkeh9-H_4rwBZahom1MpNBkBEEXcoA",
+      "photoAttribution": "Scrub Island Resort, Spa & Marina",
+      "placeId": "ChIJZ4nN5yZ4BYwR-YE-yu0uF0s",
+      "phone": "(284) 394-3440",
+      "address": "Scrub Island VG1120, British Virgin Islands"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Dove Restaurant",
+      "coord": [
+        18.4188384,
+        -64.6187847
+      ],
+      "desc": "Fine dining restaurant, Caribbean cuisine, romantic ambiance, sunset views",
+      "longDesc": "Upscale dining featuring creative Caribbean dishes with fresh local ingredients. Offering beautiful sunset views and an elegant atmosphere perfect for special family dinners.",
+      "gmapsUrl": "https://maps.google.com/?cid=2135072189332035945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Romantic",
+        "Local Delicacies",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 82,
+      "website": "https://www.thedovebvi.com/",
+      "photoRef": "places/ChIJ96cI_XdxBYwRaZnzFthMoR0/photos/AcnlKN0kwGdl6lfaJ7mJySFC-fgd3a4HccRYIDBAWPW31IX8ACA3FxYXNfRIAUBnSfzg_s3hKAhJsN50RVXsGcIdKiEaiuZAFgCTc5InwpW1fxQ3ytScGL7M0EzAFWUX_4Tq0srHdhRkU4fTsK3VaZ55RejfOtgoWJVPg-1RFKBTsyGw_IKSHN6YH_SZ_7fydr2scsr7n2U_eLSVGqOOCrEC9zvmOSAt3iIx-7I6cV0HNe_kWNjAMNpbgh4uAf9MRV-GCDKDRmz1GjeB4XGYAw7isUF1a92Byi7Z_msQNxQrp2EiikY6iCYVmV3SuBiI-2fC0tcXIdg7aBz2YiNqHwfTNVjP7PgjWzDbxctWARnOo_iCA8aefbRN6SEFkPZ9sXAnegvCjfAtk4ZNK4OhQw1-nzH2dtZ0c4M68aoYBLsDmBeG0O1_",
+      "photoAttribution": "Becca Kellner",
+      "placeId": "ChIJ96cI_XdxBYwRaZnzFthMoR0",
+      "phone": "(284) 494-0313",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Friday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "67 Main St, Tortola VG1110, British Virgin Islands"
+    },
+    {
+      "name": "Myett's Restaurant & Hotel",
+      "coord": [
+        18.4259798,
+        -64.6571185
+      ],
+      "desc": "Casual beach restaurant, fresh seafood, tropical garden setting, laid-back vibe",
+      "longDesc": "Relaxed beachfront eatery serving fresh-caught seafood and local specialties. Family-friendly with a beautiful garden setting and excellent views of the bay.",
+      "gmapsUrl": "https://maps.google.com/?cid=14294406328564186784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Beach"
+      ],
+      "rating": 4.1,
+      "ratingCount": 200,
+      "website": "http://www.myetts.com/",
+      "photoRef": "places/ChIJ-12RAHh0BYwRoP4pIdLuX8Y/photos/AcnlKN0P_AbPPVKu_rQ2On3nrP9CtYCRmWaIFvgkxlRO9S3IaAqA8AGcWUhgBsaFFKeWtP7ZzE7fUr_60IM1uERQ8sEmqlhm4Ayelu8gs4MYbf6D-k0I_U_o-ZKOtS3wGLa2BbhrEe3EgUrT0zDLePuUwlBMixSBZ8y8_tKAJzQGVktwOaRsofDPlarB7i-jP4DWn0Ugnv8Y3qL60-IMn9DBY9dTBFNdX1AGKtjV0QQ5-PuU4kGxdksNMlQC8_CEODGIHLdBZF_majc4iYd27vApQV_vFqN1nuGPRrKXcm6Ze8qIueMQl4PzxO7oi8YfvAGFtAElsuOEQYlEPYYAwt3gppxr7e2wXDlwWKl-H35K5WfYNOQTwKLquhM5is5g4uQum-Q-qRbg5LPhHTMjEJ85oSu_lDD7YGu5MyRDxbRUfRbLI0guYz2aDGbjjoI2ww",
+      "photoAttribution": "T T",
+      "placeId": "ChIJ-12RAHh0BYwRoP4pIdLuX8Y",
+      "phone": "(284) 495-9649",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "address": "Cane Garden Bay Rd, Leonards, British Virgin Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "CocoMaya Restaurant",
+      "coord": [
+        18.4441146,
+        -64.4404052
+      ],
+      "desc": "Casual dining, healthy cuisine, smoothie bowls, vegetarian options, beachside location",
+      "longDesc": "Casual restaurant specializing in fresh, healthy cuisine with great smoothie bowls and vegetarian choices. Family-friendly beachside spot perfect for lunch or casual dinner.",
+      "gmapsUrl": "https://maps.google.com/?cid=2796231405068681484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Budget Friendly",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Beach",
+        "Breakfast Spot"
+      ],
+      "rating": 4.8,
+      "ratingCount": 419,
+      "website": "https://www.cocomayavg.com/",
+      "photoRef": "places/ChIJ672O09Z4BYwRDAHp2KU1ziY/photos/AcnlKN0u2CIwToX7n8jswBaWFi4wRByxiOWA7L9reQF2G3QA49Ln-7P6UIHTdjoBeMPk7j4O_HS-Ofs1Q0BqpSUVrqLepXUyV4Qp-NPnCEd_JIDIjUgWR2bEGswzqEpcZWhPvaG_pwbZte4i7buSwugnjKHVK3nhOz1_XV4cKkH84PdzpSEqc2xd1UgdzgxV-YZad4mVStoihV_zX2WGNIAoBqH69F1Mp0TEacyFxAQcL-oK89Xut7l0cRCjOgQ87xiupeMKfIAfJw15d4v4SzOzuefg5QHkKTKjN9mCXtmhihStbA",
+      "photoAttribution": "CocoMaya Restaurant",
+      "placeId": "ChIJ672O09Z4BYwRDAHp2KU1ziY",
+      "phone": "(284) 495-6344",
+      "hours": [
+        "Monday: 3:00 – 9:30 PM",
+        "Tuesday: 3:00 – 9:30 PM",
+        "Wednesday: 3:00 – 9:30 PM",
+        "Thursday: 3:00 – 9:30 PM",
+        "Friday: 12:00 – 9:30 PM",
+        "Saturday: 12:00 – 9:30 PM",
+        "Sunday: 12:00 – 9:30 PM"
+      ],
+      "address": "Virgin Gorda, VG1150, British Virgin Islands",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Bananakeet",
+      "coord": [
+        18.416259999999998,
+        -64.67040759999999
+      ],
+      "desc": "Charming cafe, coffee specialty, baked goods, light breakfast and lunch, cozy atmosphere",
+      "longDesc": "Cozy local cafe serving excellent coffee, fresh pastries, and light meals. A favorite morning stop for families wanting authentic island breakfast experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=6918503132849783240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Good for Lunch",
+        "Budget Friendly",
+        "Casual Eats",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.5,
+      "ratingCount": 131,
+      "website": "http://heritageinnbvi.com/",
+      "photoRef": "places/ChIJi3WEgXdzBYwRyEHwivF1A2A/photos/AcnlKN2ZBzfdpkyxIrOM0_dzGhL6fakvjULntbVp5hLnObSEHcPvg7GyB6I4-JngkjcTSuITj4r3IJDNxodg4VbZQj-oyPZLq8k1jYZ2eVAauYgxb88D5NHp1uWFJq_n-cf3FhAYfYVAy3UUD4uEOAZQbwo9ty0NfUR8i5iChm71ANvdvpSCRVGftI-_TRaD3PrFF_hGmSsOmMQWwz0MvUdFM7CUQt-Ip8h7DqoUtyFrHLGjriXuvG3UYgdLV6QXaGRqh8mW4dJ-cCeC-UF2fbvbdWf2Emeg5ukBhgdeFJ1mgvFSsqlb0jQRkgIFZXz0AXDQKR9-s0b0XsZutKIT0yFMYH2QrVI9sdlMt3TaBEpctCw4kWbvV3TIakMXfWFL_tYbgHUMQn5xY8qDC9nptcfpbqlgC8l20gA7Nrq4c0me_AOPwA",
+      "photoAttribution": "Jim Nabholz",
+      "placeId": "ChIJi3WEgXdzBYwRyEHwivF1A2A",
+      "phone": "(284) 494-5842",
+      "hours": [
+        "Monday: 4:00 – 9:30 PM",
+        "Tuesday: 4:00 – 9:30 PM",
+        "Wednesday: 4:00 – 9:30 PM",
+        "Thursday: 4:00 – 9:30 PM",
+        "Friday: 4:00 – 9:30 PM",
+        "Saturday: 4:00 – 9:30 PM",
+        "Sunday: 10:00 AM – 3:00 PM, 4:00 – 9:30 PM"
+      ],
+      "address": "C88H+GR4, Leonards, British Virgin Islands"
+    },
+    {
+      "name": "The Rock Cafe",
+      "coord": [
+        18.443174199999998,
+        -64.4394914
+      ],
+      "desc": "Casual waterfront spot in The Valley with fresh fish and toddler-friendly atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6869737681436889654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Toddler Friendly",
+        "Family Friendly"
+      ],
+      "rating": 4.6,
+      "ratingCount": 28,
+      "website": "https://www.facebook.com/rockcafevg?mibextid=uzlsIk",
+      "photoRef": "places/ChIJv0Q0cgB5BYwRNlIpGgY2Vl8/photos/AcnlKN3soW0n5VZYZF5RfmJ8H-vskcKR8qIeM3RBgwCVd9XEsA891nQhuO4RK68rS_2aedb2MBebmit19OeO4NsdS7oGFUiyTVRsx1NFNoHmzfHlUqj1Pqsfj8Q6H0--e89DudHtS0cv-Fl_7R6-9gxQryljODjnJFXSqPJX9LcKuhIxFNifHqfZmGBqLqXjojjYQFWR-cIfnCMNPsxmNDXiGCd5ZdmbLP6aOJ-y28hu-zwHB2rZ_bMTuDQS8sVJ1vfjdo146pQwXuSTmyaIQHzGxeFF4CVc5BdPX_9uKp5nc8ZnPgVfpCur0IZKK6KRNxfscr2dBXgD-sM2u9kCPGcy6Yar7V3BU_KHLHCe0hKE6htWM6Clp3fBjxaPQvySCQxjuTaEau2O6_N2ZW1eVcSWgYhovpv17AOOYZNJoCMNoTaqns4w2dEREKFoRy5PjYba",
+      "photoAttribution": "Donna Smith",
+      "placeId": "ChIJv0Q0cgB5BYwRNlIpGgY2Vl8",
+      "phone": "(284) 495-7566",
+      "hours": [
+        "Monday: 11:30 AM – 3:00 PM, 6:00 – 10:00 PM",
+        "Tuesday: 11:30 AM – 3:00 PM, 6:00 – 10:00 PM",
+        "Wednesday: 11:30 AM – 3:00 PM, 6:00 – 10:00 PM",
+        "Thursday: 11:30 AM – 3:00 PM, 6:00 – 10:00 PM",
+        "Friday: 11:30 AM – 3:00 PM, 6:00 – 10:00 PM",
+        "Saturday: 11:30 AM – 3:00 PM, 6:00 – 10:00 PM",
+        "Sunday: 11:30 AM – 3:00 PM, 6:00 – 10:00 PM"
+      ],
+      "address": "CHV6+75V, Tower Rd, Spanish Town VG1150, British Virgin Islands"
+    },
+    {
+      "name": "Bath and Turtle and Rendezvous Bar",
+      "coord": [
+        18.451981399999998,
+        -64.43495539999999
+      ],
+      "desc": "Casual beachfront restaurant and bar at Virgin Gorda Yacht Harbour",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18057210252932874363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Cocktails & Bars",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 37,
+      "website": "http://www.bathturtle.com/",
+      "photoRef": "places/ChIJwwLAddJ4BYwRewCbyA0ZmPo/photos/AcnlKN2Rgrkv7SH9o7Bf1Ib7CcXrNZjljDqYqYqkYjSuqYufE-Sa_rHC4-vtP6572LTPOGVjT-xfa7aodaq09bOUTCu9OqBXXkJKNdAfJuFsAq1AXIxFq87lxZ1R5EOmPCFwP0x9hEInwEk_RzZmA1m0wfMWMDcQgoKkzWoF4_sJz_7AdTEbaxs9i6lm5-aFKfArzGKCUACU-clWkY1j8D0Ll5ZrwOoxqc0oCO8y_gDR2aUPb4QpPhs1aINAQ3RiXoJFvosiQ0WJcxlM_2AquNORYqFbMBvvSqi8VRZlHAh_-MWFjHX6TW7az1ASdpg4TCjDUrSXPYf8BuFCzoOVtAHhOPLo3zMmt-v0VV8QocEPBQwPljvC3WW8a97sXoX3e0oX9EHsD8Ohd49qybCBQT5Op0hzDQYV6_9eALqsfRsE6wU",
+      "photoAttribution": "David Molner",
+      "placeId": "ChIJwwLAddJ4BYwRewCbyA0ZmPo",
+      "phone": "(284) 495-5239",
+      "hours": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "FH28+Q2V, Spanish Town, British Virgin Islands"
+    },
+    {
+      "name": "Top of the Baths",
+      "coord": [
+        18.4293253,
+        -64.4423872
+      ],
+      "desc": "Casual Caribbean dining with spectacular sunset views and family-friendly atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7678046251162104176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Scenic Views",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 188,
+      "website": "http://topofthebaths.com/",
+      "photoRef": "places/ChIJvTGWgN9zBYwRcHGJqWLmjWo/photos/AcnlKN0INy55fBI-9fP2S9spXUMc2sDtZV1wjHFX3_f3ivI8uteYMsVQAnDOSmwmxvo4ZatEYQFfZpsqb1QhnB8aMnngjeZLkvP7aNqd9iu0lnWn-sMfoQHDlJ1su4GIqaXLtRE2NGV1543TnygSB_jMWjaL51lJY5XoI1YpljOmYPWBOsoOSorQnGeWPoOPzJ-Z0VGmKzGLYJz0Mfu4qk4pStJSL48clcSHeizPo1_8DcokvZ5NuXrRcxyXCjuu1kK3yAu4l3ta6vwXCngtPuBBzz3BSjK1Rq26lLq-yhL3Aab3DTp6ydaurBG7Yw3_XpG_TBtNrtyV2KlNqcvkCZwZ65Zk2wCGkaSTdfdyScvcx9S4JFAHw5obaVv4d8XUVBPhjChGz1ntApk2QZTWc8G7FlxzBezgxLAcBzpzraBXQjs",
+      "photoAttribution": "Dmitry R.",
+      "placeId": "ChIJvTGWgN9zBYwRcHGJqWLmjWo",
+      "phone": "(284) 495-5497",
+      "hours": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ],
+      "address": "Baths Hill, CHH5+P2Q, Spanish Town, British Virgin Islands"
+    },
+    {
+      "name": "Quitos Gazebo & Luxury Inn",
+      "coord": [
+        18.427612,
+        -64.657364
+      ],
+      "desc": "Beachfront restaurant at Cane Garden Bay known for fresh seafood and live music",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9067566073366968457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Local Delicacies",
+        "Live Music / Entertainment",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 121,
+      "website": "https://canegardenbaybeachhotel.net/",
+      "photoRef": "places/ChIJRfIAJHh0BYwRifhrPE131n0/photos/AcnlKN273SZ970omFQgV9q0KybC-HvU0k8Lj4S-2fN3wjVVJf5CRVuwNdIMBn5PSS9pIgzZRx2Qa6zFJSppP3ayQL9bbs9FDzoIGZiOBMIbh2OvfrzA9Mdkicd1YUdYmpARLhSbVIluuUxb7gfIAQej0Zc9MfPk4pD7Z5VAAUTUqFCi0QIaEIdhPYXP2YhLZmQifj8UCyjmb_grBl7jKnQAniUV81f2c4xw0evtHIRxHawlULnrD-LK2Z3pBv9Dqm7H-bPlW9HbxJD2KIpiZLUfsBvkTxgdwMQLY1-21v3Zvybo_Gw",
+      "photoAttribution": "Quitos Gazebo & Luxury Inn",
+      "placeId": "ChIJRfIAJHh0BYwRifhrPE131n0",
+      "phone": "(284) 495-4837",
+      "address": "Cane Garden Bay Tortola, VG1110, British Virgin Islands"
+    },
+    {
+      "name": "Sebastian's On The Beach",
+      "coord": [
+        18.3985886,
+        -64.68219359999999
+      ],
+      "desc": "Beachfront bistro with fresh fish and kids menu on Apple Bay",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18244260361519903661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.1,
+      "ratingCount": 204,
+      "website": "https://sebastiansbvi.com/",
+      "photoRef": "places/ChIJ95uW9vB2BYwRrTMi9iKiMP0/photos/AcnlKN1ftqeD7ac8p3UZ7pszMKkM2jJAvnUiO9ss-H7SznyRPKAc_hLNcFNAX91mwocplCy5SB7pH6xHpVTzwttbee12vYiechy4AtL7G-JZ0qRcMAySPWAYgYNAMgcpwaQnhdjRxWckVNkMEBJZE6Ae0iuDTUU_LmOhVqG9yN6xCKHU3n826F3AcXbTRaMWFClmSlLKNKYLLpnQh_BkA7eYH85J4XuWttacAW8u4H_p6SSzx1ofRJxowvmOinHIEw1oMI4DozL5bQ78KdktcJLXvBT2fZtJL7iWazTi0d1yrU-nUg",
+      "photoAttribution": "Sebastian's On The Beach",
+      "placeId": "ChIJ95uW9vB2BYwRrTMi9iKiMP0",
+      "phone": "(284) 495-4212",
+      "hours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ],
+      "address": "West End Tortola, Apple Bay VG1110, British Virgin Islands"
+    },
+    {
+      "name": "Village Cay",
+      "coord": [
+        18.423158,
+        -64.61771999999999
+      ],
+      "desc": "Waterfront restaurant and marina in Road Town with Caribbean cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3212680748780912685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 3.8,
+      "ratingCount": 228,
+      "website": "http://www.villagecaybvi.com/",
+      "photoRef": "places/ChIJ0zN6qKt2BYwRLYDSlx68lSw/photos/AcnlKN1U9kBBnU8iNRZePzDGEJOQocrcg410GH7V9-Ckf75VgOtoZPAA_hxXan8JZouQHK5C5P_kjrhf168ilFaAhMVU9R0le0Bct0W1pTgHoj-KhnVEsxwhA0AdEFn-gq1B-0n_qdEqUcJ66iskoOWw77Cm9CVLIpzszgpU6-myGMWP3mTWV-2PuYbs8vxhJE0HgPLBvjYA25OnarxPXMJmOxYkT1hy1wpm_Mqbr-VIv69498GZWK6ibUcjqa1RqE2snngu4_fzlY7aMm6Wsqgmo_jp73Ez6y1aD0qoaqyB9g9kC5dWVsJWV6B2RfbtoTR6c0JT_lkgy_eZbKaE9aPXBWqjjHcPBHwoiCCAMsviPxebsSdyJXk8gBIhQYs9SdYWluIsVeEi3MR6GX9ZP193SUgX-YKR40q0C1dd7G_PvOA",
+      "photoAttribution": "Frank",
+      "placeId": "ChIJ0zN6qKt2BYwRLYDSlx68lSw",
+      "phone": "(284) 494-2771",
+      "hours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ],
+      "address": "C9FJ+7W6, Nibbs St, Road Town VG1110, British Virgin Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Pusser's",
+      "coord": [
+        18.419878,
+        -64.6181411
+      ],
+      "desc": "Classic Caribbean pub near ferry terminal with family-friendly menu and famous painkillers",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6080730123656709295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Cocktails & Bars",
+        "Family Friendly",
+        "Local Delicacies"
+      ],
+      "rating": 4.4,
+      "ratingCount": 452,
+      "website": "https://pussers.com/",
+      "photoRef": "places/ChIJlxkz3oJxBYwRr0STk9QXY1Q/photos/AcnlKN2snfmA9fGYaUP6bqsjECoAf8tF0lUSwzFojdU5ExAbGyxc88lpOvIxdINqx6WzyGxuFzAy9nfgrmK2-stNVuqM0jABwgIerm8f5YyhwUgv_wY9XT60Z2D58uV9s6feVmAPwMWFBFqSCoOfVv2rXSJJFS6UFLQptypjKgbsMijFWrMC-46FAtbIWJuioG9fzasv0hC57z-Rzirytda-FqRfS4NNiDTpcTF7sXc_ag88WFh2NyqcCarEPWwRVG0owZ_QIz6hLW40JLeL_IrnJ-18bKcncrnqfdkCtqG2Y1-iR8mJ0RddHQw8ub4UZJyJOJEGegcuYHyZp8MTpTP9o1jX6C5YZYYCl7QA52K0hgXsqs0lTLU_gDu3RwjJP73YTpwLkunhd0W090fj0jD7pCQ82rZn2q2Esk7FCOB1CXbFn2dxzzr7Ff5aNVkreybV",
+      "photoAttribution": "Eric Collazo",
+      "placeId": "ChIJlxkz3oJxBYwRr0STk9QXY1Q",
+      "phone": "(284) 494-3897",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "WaterFront Drive Road Town, Road Town VG1110, British Virgin Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "LSL Restaurant",
+      "coord": [
+        43.7363298,
+        -79.42040910000001
+      ],
+      "desc": "French-Caribbean fusion in Spanish Town with elegant but relaxed family atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17290474470692593210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.8,
+      "ratingCount": 58,
+      "website": "https://lslrestaurant.ca/",
+      "photoRef": "places/ChIJmw1xcQAzK4gROp6XF-wa9O8/photos/AcnlKN1iSwEG2ak4c6CpeLnt7dS-00RjJ4kvLNuPi79nmj_nngu8vt2lKMDbu-yAaJgFAfpsA0OIZdLOsNY2GGdGGABgxw8hpf7Xcg5kwwd0P9o0Y9ybrFFw-mnNcsyVhoK8dB5VQFYTXCGSNNnSsBK7y_4xC2gGB7OwMO-FyiO441VXjWRS5ZWL2aZlNeyTDuYlHmkEdpWNvyGid0f7V2QQA-EkJcpcaK9yYKstT6u9WjnpR00OGJF2yCAiCvgtNlTzfip-opgPKHzmlPJUBgeEgs6FvIIfzGuM9-V-l1IiB4RQXQ",
+      "photoAttribution": "LSL Restaurant",
+      "placeId": "ChIJmw1xcQAzK4gROp6XF-wa9O8",
+      "phone": "(647) 938-2066",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 6:00 – 11:00 PM",
+        "Thursday: 6:00 – 11:00 PM",
+        "Friday: 6:00 – 11:00 PM",
+        "Saturday: 6:00 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "2066 Avenue Rd, North York, ON M5M 4A6, Canada",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Chez Bamboo Restaurant",
+      "coord": [
+        18.4519818,
+        -64.4349385
+      ],
+      "desc": "Creole cuisine in a garden setting with high chairs and kids portions",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15217972212683640363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Toddler Friendly"
+      ],
+      "rating": 4.5,
+      "ratingCount": 108,
+      "website": "https://www.bathturtle.com/",
+      "photoRef": "places/ChIJsSHWVMx4BYwRKw7GYhkZMdM/photos/AcnlKN3HfNd6ysG6ZHTTOh4rxBM4GAwtvokts_Y8c4--HzGXAt7LOExSI8zU0GOR475NPU4IrrPdQp4-ZzogB-RhLNn9Rl-kQvd6JuIdMSFWpgjP8n7KZBKJwacidO4_YA01cO6hYQHXqnIxbBRuNk2lJ_HI2Rq7b73MzyPdeONBEFV8NEcWhgXV1wHFcekIR6q0vP1v8W2PIehJzHcffvBaK8a7UtIzUk0XqNF3u_f7cww639qkWZylQ1ES9cmi62n5CyBfP2NGfvADayRsWIyekEimiIZTaItVw-0U_8KWi-giCQ",
+      "photoAttribution": "Chez Bamboo Restaurant",
+      "placeId": "ChIJsSHWVMx4BYwRKw7GYhkZMdM",
+      "phone": "(284) 545-1861",
+      "hours": [
+        "Monday: 7:30 AM – 10:00 PM",
+        "Tuesday: 7:30 AM – 10:00 PM",
+        "Wednesday: 7:30 AM – 10:00 PM",
+        "Thursday: 7:30 AM – 10:00 PM",
+        "Friday: 7:30 AM – 10:00 PM",
+        "Saturday: 7:30 AM – 10:00 PM",
+        "Sunday: 7:30 AM – 10:00 PM"
+      ],
+      "address": "FH28+Q2 Spanish Town, British Virgin Islands Spanish Town, Spanish Town VG1150, British Virgin Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Sugar Mill Hotel",
+      "coord": [
+        18.401865,
+        -64.6770782
+      ],
+      "desc": "Fine dining restaurant in a historic sugar mill at Apple Bay",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11185338947213070117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Romantic",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 131,
+      "website": "http://www.sugarmillhotel.com/",
+      "photoRef": "places/ChIJjQDHJAxzBYwRJQ_6kIJOOps/photos/AcnlKN07M_RgCsueJfZUwxZ9XpKHWtzjMJTqx30BJCtlFTWxXS0QSrJbcEuD_PtLXeveRmlIC82VGaPqJz_e-IiBxAqD7QTwLL4yjIYGx2saMaI_Jo7p9llSJwL6Yr1JsnnOedZnmVrbVg7_qZQf_cxG936g4YcNuC8Fxu6yKG9k6-j1OtLOd2oCnXhowFl5YQgo1L2HG-ETChCYMYVNePAbFr0vTcMkvyNdJu__8nLDz3Uef6sSbsOznFhFxx7mxjS_Fbq-k7zAHgcGMppgIHgwQ9fIry8R93G0va3YO3MUXt8rLA",
+      "photoAttribution": "Sugar Mill Hotel",
+      "placeId": "ChIJjQDHJAxzBYwRJQ_6kIJOOps",
+      "phone": "(284) 344-8612",
+      "hours": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ],
+      "address": "Little Apple Bay, VG1130, British Virgin Islands"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "The Baths",
+      "coord": [
+        18.430158499999997,
+        -64.44465730000002
+      ],
+      "desc": "Natural rock formations, scenic swimming pools, hiking trails, stunning coastal views",
+      "longDesc": "Iconic natural wonder featuring massive granite boulders creating natural pools and grottos. Families enjoy swimming, exploring caves, and hiking scenic trails.",
+      "gmapsUrl": "https://maps.google.com/?cid=7518160136728224940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly",
+        "Adventure & Active",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 1093,
+      "website": "http://virgingordabaths.com/",
+      "photoRef": "places/ChIJc0XpiSV5BYwRrCQwus_eVWg/photos/AcnlKN0JA4XTk75SVsadIGcafkPxmK-wkGq0rZyjUMNcrzsQZmm6NawpiSumnG7f4T8XndQGDoBhYnRu2cMWnGLV9mxjROi5hEzfKI0cSlxUX04b9GQGhT403pFE7TRpGd5vxwACL2RLxmPPKF0kJw_Zv2Glpw-7RkI-OQOvDl4TYcBf6-djvc3mQ3PDwONHI7LH7UaVYofQKxkMaF4GT89oyahzaKaUVzq5j6212ywu4rjkijRnq0vCO5cEfCKAEraYbUTwCxNtGGsphrKc8a_amq7MqdqzO94P4HMHH6dmGfOFIlzWVHKxz_qEraCzyedTfOh4r1yxGEfvpWfvriIlXPkDwmacdfWktM6uGAT9riLqouzf0bLdY9rMKf3S3vG58M1Ww_tjnXFHMYHEAFPG-vkx8noJh3NrjXranaiDRHf4DhEp",
+      "photoAttribution": "Vadim Solodukhin",
+      "placeId": "ChIJc0XpiSV5BYwRrCQwus_eVWg",
+      "phone": "(514) 839-9673",
+      "address": "The Baths, British Virgin Islands"
+    },
+    {
+      "name": "Callwood Rum Distillery",
+      "coord": [
+        18.422472499999998,
+        -64.6581143
+      ],
+      "desc": "Historic rum distillery, authentic production methods, tasting tours, local heritage",
+      "longDesc": "One of the world's oldest rum distilleries offering authentic tours and tastings. Educational and entertaining for older family members interested in local history.",
+      "gmapsUrl": "https://maps.google.com/?cid=3889670265251615819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Local Delicacies",
+        "Rainy Day",
+        "Hidden Gem"
+      ],
+      "rating": 4.5,
+      "ratingCount": 131,
+      "website": "https://callwood-cane-rum.myshopify.com/",
+      "photoRef": "places/ChIJsRiv_4dzBYwRS9S4dX_i-jU/photos/AcnlKN0QXSKEWMnu2fXAub7N0nIe0ADAd_Zyy_4V2uecJds_71Tdyg1qGDSlJP5lrSGUS-vqLWERRNrM1hOxo9wHb1fc14MJJHg0QrxRGOcTC5ywM8JpO60srSI-wYGCSAHGxuqiccI6Wvl7CCTdNzWHsA6tNiunIJYENoh4hl86yXM2WCpLYk_JZzCV7dgnU5-E5YVs-7RuBRw2s-x7yDR1AM1KCfS96DEF3YXKFOao6sri1S5rIlvfq1cpONhikhYGDlARABqDWEPuUQQYSBHkQ_kNzoNtX0qrH3hgeE1qZoK7JzO-qgwvOuvPsGSjQEG1qiFhiqwKzuTB1n_Nhq_IqS-6gDZAWHfMYjK7to6nCwo3zJcKEo3U52E08SBxNsL8TeXO2LZ5hqiJIf647Q1ZofYYmiKO_LP8JsHVi_5q3K8wXA",
+      "photoAttribution": "Chris Ford",
+      "placeId": "ChIJsRiv_4dzBYwRS9S4dX_i-jU",
+      "phone": "(284) 495-9383",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Cane Garden Bay, British Virgin Islands"
+    },
+    {
+      "name": "Mount Sage National Park",
+      "coord": [
+        18.400000000000002,
+        -64.65
+      ],
+      "desc": "Mountain hiking trails, tropical forest, panoramic island views, diverse wildlife",
+      "longDesc": "Lush mountain park offering scenic hiking trails through tropical forest with breathtaking island vistas. Families enjoy nature walks and spotting local birds and wildlife.",
+      "gmapsUrl": "https://maps.google.com/?cid=6811263923371920240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Family Friendly",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 8,
+      "photoRef": "places/ChIJk4hCM4xzBYwRcEsEYHN4hl4/photos/AcnlKN1fvUaJTIQne_2UfmW1Z-laDTRPlNkW2y2sfSYp7zcqvPSFCp7t0OJS6ExybIUfGyCyPGvEEsfrcyGOe6Y_ewBy-UxtYisg5K72Iw2r51z6qpqPq_Ci6KBFx0I2XpJG0G_IpHmAljCqnRajiuTp2O2pOnZSD09VSM4zkiyPKFsOz6wOwFsotG6DrU9gsP2J9vqZK6xbCklkKW2VM70KVr3DEicHp7l15kr0tGh4ahnlbdwjIpaJdGnDybtq72NBL5ngKBofEuazEY2iSexLlksK7Aac5J7vbT3QwKAIr3YbUAwCpa0Lxz53qIhHjauEIcVf5FBNXh59X5-G7SSCzi1ZJlnhmzXcApjgqn2Va_rpshpzT2vl15cq0N2sPxb7fI4aZy93kwzf78RpWXWJS6Ui346KN_xsrHzY3rxIgqITFR0",
+      "photoAttribution": "Hermann Scheibenholz",
+      "placeId": "ChIJk4hCM4xzBYwRcEsEYHN4hl4",
+      "address": "Mount Sage National Park, British Virgin Islands"
+    },
+    {
+      "name": "Smuggler's Cove",
+      "coord": [
+        18.3954232,
+        -64.7006379
+      ],
+      "desc": "Protected family beach with calm waters and beautiful sand near the resort",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15277627945327833400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.8,
+      "ratingCount": 241,
+      "photoRef": "places/ChIJmf2xwSVzBYwROLHYA6wJBdQ/photos/AcnlKN1ieU8B2THBsFBGmOTFiT37V2JZPlZUYVMtjg91rfqCVhcNB5TaWc-QZX5skBno5DqvSLbEGHF5pbm75sQ6_6vjf8ICwuntuXeFlMJ6AU5yWzy-k6c8-UniBFwNZv86CHbow2sD0x5aM3rUZ5fRQvaj_IAMoTdHGoiT1e-fVsAKoIf44WDg2xgvkh9p5RGn6g-z3Ar-E9IQMloR7I4Jsbxx7xgOXfCQty_h0Vq4lr-UIxD9hxWVDd1MgMZtXfE_ervVqKnbngDk7hhnuGi4BZtQQIcU6KLK1Q-Cl0UUDkG8Gb4TKvnq1D7jbpqTBTlVDQV0J3PxqBv_0kZq-BzNkxaMrTINV8hzZxStcWU2jy7U7KwZp1vs0WAiSdZOtdPG_5ZrGjIX1n_yvcORgitPdaSU_W28v0oV9Y7CNspADRc",
+      "photoAttribution": "Zuzana Uhlíková",
+      "placeId": "ChIJmf2xwSVzBYwROLHYA6wJBdQ",
+      "address": "Smuggler's Cove, British Virgin Islands"
+    },
+    {
+      "name": "Cane Garden Bay",
+      "coord": [
+        18.425086099999998,
+        -64.6614239
+      ],
+      "desc": "Popular family-friendly beach on Tortola's north shore with calm waters and facilities",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1594262866959395874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.4,
+      "ratingCount": 163,
+      "photoRef": "places/ChIJf_qQsXh0BYwRIuy1d6H1HxY/photos/AcnlKN2oHqh5thnAQToz6Q1gALJR9LzV56ovoGm2HoMOJEl76nf42zAl1J0sp3axIbU4oIBaIDkIFpDwc1Fg0i43t6KUZrCE-44sTeR22i29p7fNgp-otOIgny9z89g1e8NFegfqRUeu_WDAEf_rbplIufR3mBXTT2wr5W1cj_z70u9vMJjpBzfyoIJDEDnt9JAljqQ_xkheaZLYEVmnH-qCBOchF99c6Mw_6oM_dEkxv3SBcWPtZcwBa7MEA6T1RBWf_INCstOZoN5SNqGrn8MPcd_ZscR0lj21kIX5WNTu7dNryVb2sAr0LZYSwYIqcCHHKywoGnLoXlq2gs8QtSAygmXGKn08klFZ7SnSsKKzaKSOqSZPHmDzMCpLiieexUdilYOFoCNRd9wpJNZWQ_bmEk27dn9xEphFUgQRkAHQEN-j6ds",
+      "photoAttribution": "The Bull",
+      "placeId": "ChIJf_qQsXh0BYwRIuy1d6H1HxY",
+      "address": "Cane Garden Bay, British Virgin Islands"
+    },
+    {
+      "name": "Spring Bay",
+      "coord": [
+        18.432155899999998,
+        -64.4459545
+      ],
+      "desc": "Family-friendly beach adjacent to The Baths with calm waters and boulder formations",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8437335486433321582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.7,
+      "ratingCount": 9,
+      "photoRef": "places/ChIJp8XvsCV5BYwRbuKnB-xvF3U/photos/AcnlKN05L-T_hstI057ppVMWwj3xMPo-KuY8rbBL7sTtVl2Hh1500_NuNdbfyufZyLDfLLCjqMBGk8zmre8JzISilHvY4fuACUsHEEYdfVwpb-WxUlhAKsVOx3jfc0HLrvhscxYEpOXxdsHapM7Px6H3gvy5vEkDxpjwwFns2kravxJtj-uDSAO08itX7sB--MQbE06cbY7wE8tyYOMt1g6EuoVbln6HzFhnOSADmxNtJc71IzLGyfy9bsgZniEDpH1Gu6nRIOuuVA08_x92Zm21jeS7gO-BQoSOyDbgxY0UGgL2EO-me6AFQKJmwKhh74zam-9n2IiRLRsFM22rZDYN4WGRxCbD4-XZr_BEI7y2jOm1rcZG1tJLxLTJHG1BIQDz_xWbRAO4nknBcxHMvC3KSzq7KQ2kqL4oc2HTUGjtqDGgm6Bm",
+      "photoAttribution": "Theo Jalba",
+      "placeId": "ChIJp8XvsCV5BYwRbuKnB-xvF3U",
+      "address": "Spring Bay, British Virgin Islands"
+    },
+    {
+      "name": "Savannah Bay Beach",
+      "coord": [
+        18.4637003,
+        -64.4205206
+      ],
+      "desc": "Calm shallow beach perfect for toddlers with powdery sand and gentle waves",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7440506129139866038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.8,
+      "ratingCount": 25,
+      "photoRef": "places/ChIJt7DmBAB_BYwRtpl_KOf8QWc/photos/AcnlKN0NxNnJjnGvNzBzX_nA2HdaszyVhjz6RYGD0xhJJSFrYI9QgK9hyB6EJounbf-v_MEnGWzjpPOIHo8Z644GAgVWZgSD3tqzDI3EH9EDxR4nAVZSv3KlqQqvuFdQxi4lFWPiQ6Zg5e23pp0uslJjmHuT3sNK-NWVfecQ1nUWxUv3nqLcVXAqKc-GoSzmR1KfHfqXdV_sCZHEK7J7yaqEMFRZSFeltzS2X2BkYDoCumC7y0MasN3ZASRPq1fz5DIToGb51mmf2RFqNhZhZMMPH_eqZSP_ZlFk8fPd0OEnjdGvrmcCxJktkGTgo0IFr4Dp0UzOVOUY4_wgWHxiVAwJOJvDUw2N278kzZ5rwNfBddQJim_t8ouQR0dCCbE_yVNxBVSNo5hzSkfsezaoSf_kcuvugHFHEDRwoBmOpZBakwdGX-aS7eH5RTGb5jeMzM0w",
+      "photoAttribution": "Alessandro Bursese",
+      "placeId": "ChIJt7DmBAB_BYwRtpl_KOf8QWc",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "FH7H+HQ, Savannah Bay, British Virgin Islands"
+    },
+    {
+      "name": "Fort Recovery",
+      "coord": [
+        18.3864668,
+        -64.6754758
+      ],
+      "desc": "17th century Dutch fort ruins on the western coast of Tortola",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11998373242164497174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Hidden Gem"
+      ],
+      "rating": 5,
+      "ratingCount": 2,
+      "photoRef": "places/ChIJq6qqx7lzBYwRFkvExeTIgqY/photos/AcnlKN2TNAhDDXgB_9B_EbRscAkSUd1HrHIMfI7iWQrbIzKoXa1swb1C2msb-M507JFaRmPBitt1Zv_fGDCYk7ZBCBn6ekHVEbCQ9RPsp6IFCmJXhwggrhkP2mLW3Yd-R7zhELU3q0ym7JVJRkSqwFgMDESJnDb-5tbGgHI5q0YqSvQ_AA0KssfO7H24H-vDidV5C_tVWusky0fjqNUIuAvyB9CI-5sRR29rqvC9RJxGbU1qJFs3lB13J2x9QRcHFwKJ1d7ks_uXOwtpxYSTW0j6-fiziOOTbzQKlZBgoGE2ofPfE7J0nxXdkAm6tt1zxv0qBuIlJkTToXiq5YtxwiJ59kC319rlGPnSOO8IY1LDvHyAKtos9sbhX0l6zM91dRWbUDI9_y6fhYXV6S5cbdsuBWmHvFzv9SIYFkBWrzmMX83ulQ",
+      "photoAttribution": "Melissa Ann Howell Schier",
+      "placeId": "ChIJq6qqx7lzBYwRFkvExeTIgqY",
+      "address": "Sir Francis, Sir Francis Drake Hwy, British Virgin Islands"
+    },
+    {
+      "name": "Cane Garden Bay Beach",
+      "coord": [
+        18.4264592,
+        -64.6572856
+      ],
+      "desc": "Family-friendly crescent beach with calm waters and spectacular sunsets",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=899504547736811409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 109,
+      "photoRef": "places/ChIJ7YJC6Mh1BYwRkXez0Z6ueww/photos/AcnlKN0qDkm8UyGHkhACZCfz42zHoCx4QmCcTGxXY81b_RLOLfcYtQ8cBFJgvqSXRZ30KzUq5opyVrH7pRNmADmbCkQlQfqXhJ8R7USq7JgVX4DJpahQJkV1EpppTcpQGak3k0pQJ6r5ztNe741yqXwabSoLD6BeUmlVDg1V1QVeuItuemEx4Gl8zVX14g-VEu_B_Pm7v1h1rKxQd4S6jtRoAgbijAh4eKHBs1BtLYTiqAOGYxyVRIwZBpmXwezEvYn4FmC8zpe7taFz8qOF5rdexbqqF1M9vlEH2-7-iuUKEQ1lnsMVhHFqNeZcU1kiWQfgQUGTnEHWTlOsWZ3MbtE5EHY58iycOag9ZAaw0miP4wL3YBK10Lmq_cWQHB91EFykGLvotBvtPzb9Y3ChKEKIHnvFbgQYMgEjp_FrolwyDnQHtKhj",
+      "photoAttribution": "Peter T.",
+      "placeId": "ChIJ7YJC6Mh1BYwRkXez0Z6ueww",
+      "address": "C8GV+H39, British Virgin Islands"
+    },
+    {
+      "name": "Long Bay Beach Resort",
+      "coord": [
+        18.3970385,
+        -64.6888828
+      ],
+      "desc": "Mile-long white sand beach with shallow water perfect for young children",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=809227540244251441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly"
+      ],
+      "rating": 4.6,
+      "ratingCount": 417,
+      "website": "http://www.longbay.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "photoRef": "places/ChIJRwCFOh10BYwRMcO4Din0Ogs/photos/AcnlKN3toIH1Klq928rbZhnesyps7gQAZoJOQCtPbX1nAIRUHgckXnW64DLE3ly1rNJKltkQHWlyBYXqxrbhHuKYNV_tC8U4nbBkGZ3mgaP0r1WWzNKkbYPwtbumEmpb9vTBq76oj4NUxiIOjD-b39mzH59865LC_CpYcSy8U5uT4gVm-DcWHH9ntVwZGeQun170qp8friqm7KeZMQ3Qvi6_22eiLr2Nr7C2fLbJgcTML-FR5VzXyx9x59CGMbDXPKqkPdH6l4eR3si_XUWKudce4UfmOptsUpJfMpDpgeno0hFBFA",
+      "photoAttribution": "Long Bay Beach Resort",
+      "placeId": "ChIJRwCFOh10BYwRMcO4Din0Ogs",
+      "phone": "(284) 345-3773",
+      "address": "West End, British Virgin Islands"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Coral World Ocean Park",
+      "coord": [
+        18.349389,
+        -64.86359999999999
+      ],
+      "desc": "Family beach, calm waters, snorkeling, marine life viewing, water sports facilities",
+      "longDesc": "Beautiful family-friendly beach with calm shallow waters perfect for young swimmers. Excellent snorkeling opportunities and available water sports rentals for active families.",
+      "gmapsUrl": "https://maps.google.com/?cid=14941248672184546684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Beach"
+      ],
+      "rating": 4.4,
+      "ratingCount": 3055,
+      "website": "http://www.coralworldvi.com/",
+      "photoRef": "places/ChIJ391gV0gQBYwRfDVWVoH6Wc8/photos/AcnlKN1dg1ktPjuFeH3kajdhaHjaWq5Kzkmqn1e_cXiBlXJK_uaGlunrLTxsY9TCzIMhNUySg1xIvldwtgiPLT0B3J3_hN-0zx4Zz0lSF6ESEW6QwFEJocbvbkq9aoRFujoodVGOw0uw255qQ8MZYBO0TOw4xWHpscfDZOtsBGQj8UKNlciD3aFYBeRMMWvmkHuOFO_YJVQVxHjz332FCfNBTEHmfIGX1_hId0qTM9KL5htQhh6eH9I6pGgFHXfLjtmguIjQXv3I7Gu0CnjrWUSZfMKRjipRQcxdqNnWrEu-9bi3hA",
+      "photoAttribution": "Coral World Ocean Park",
+      "placeId": "ChIJ391gV0gQBYwRfDVWVoH6Wc8",
+      "phone": "(340) 775-1555",
+      "hours": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "address": "6450 Coki Point, St Thomas, Virgin Islands 00802, USVI"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Bobby's Supermarket",
+      "coord": [
+        18.4233471,
+        -64.61979749999999
+      ],
+      "desc": "Local farmers market, fresh produce, artisan crafts, local goods, authentic island experience",
+      "longDesc": "Vibrant weekly market featuring fresh local produce, handmade crafts, and authentic island goods. Families enjoy exploring stalls and discovering local flavors and artisan products.",
+      "gmapsUrl": "https://maps.google.com/?cid=3294626926833253844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Family Friendly",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4,
+      "ratingCount": 189,
+      "website": "http://www.bobbyssupermarket.com/",
+      "photoRef": "places/ChIJSyMvXqp2BYwR1D1V-bvduC0/photos/AcnlKN1kNG4a7y8M7ufs-djXFZBYIbsobbQrHIMwz_PmRMnqx4ux1CkLMFDnyN9Ty2Q97K_QdTL_wUVN3zW_My0aGvLQ9JMh2nvqn2VBGs_dXakiCYqVUJAuzcRhy4DvKL4Pb_Z--3wS6YHOeABA8m3pWFWvH47kz-k2_LpbyKBB8wY0ZhPPGSBV7-eRojb-7BCmgjJWZ7GhW0AIg9PL8-0ufTteJsqR339al_WMQmE7ooxCVMgNX8tknXcMgEsxJh-oIngfcAQEYlEO1lT9QGU-tY0hDAE9RPdqO0wgsIlToLioj8d8wr3zunkkMwvuSibeJPfpApczU9HBZ9iNmt9_puluAUZdjWABxSm96BsDgdiHAYAnWJgnVKbFWTnUVbOZMFCNW3AmkNT1e23SIqkLzIg9C9ib3JQny60g7Qi0liSlWj-m",
+      "photoAttribution": "Jerome Linton",
+      "placeId": "ChIJSyMvXqp2BYwR1D1V-bvduC0",
+      "phone": "(284) 495-2140",
+      "hours": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 11:00 PM",
+        "Saturday: 6:00 AM – 11:00 PM",
+        "Sunday: 6:00 AM – 11:00 PM"
+      ],
+      "address": "C9FJ+83P, Road Town, British Virgin Islands"
+    }
+  ],
+  "itineraryData": {
+    "a": {
+      "name": "Caribbean Family Paradise (7 Days)",
+      "description": "Sail through turquoise waters, explore magical rock pools, and build sandcastles on pristine beaches at a pace perfect for little adventurers.",
+      "familyFriendly": true,
+      "duration": 7,
+      "bases": [
+        "Virgin Gorda",
+        "Tortola"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Virgin Gorda",
+          "dayType": "rural",
+          "base": "Virgin Gorda",
+          "items": [
+            {
+              "name": "Rosewood Little Dix Bay",
+              "type": "hotel",
+              "coord": [
+                18.4591854,
+                -64.4338764
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Settle into resort and beach exploration",
+              "type": "freeTime"
+            },
+            {
+              "name": "CocoMaya Restaurant",
+              "type": "lunch",
+              "coord": [
+                18.4441146,
+                -64.4404052
+              ]
+            },
+            {
+              "name": "Pool time and nap for little ones",
+              "type": "nap"
+            },
+            {
+              "name": "Early dinner at hotel restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront dining at Rosewood with fresh Caribbean seafood and kids menu",
+              "suggestedCity": "Virgin Gorda"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — The Baths Adventure",
+          "dayType": "rural",
+          "base": "Virgin Gorda",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning coffee at hotel terrace",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Coffee and pastries at Little Dix Bay terrace overlooking the bay",
+              "suggestedCity": "Virgin Gorda"
+            },
+            {
+              "name": "The Baths",
+              "type": "sightseeing",
+              "coord": [
+                18.430158499999997,
+                -64.44465730000002
+              ]
+            },
+            {
+              "name": "Bath and Turtle",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual beachfront restaurant and bar at Virgin Gorda Yacht Harbour",
+              "suggestedCity": "Virgin Gorda"
+            },
+            {
+              "name": "Afternoon rest and beach play at resort",
+              "type": "freeTime"
+            },
+            {
+              "name": "Spring Bay Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Family-friendly beach adjacent to The Baths with calm waters and boulder formations",
+              "suggestedCity": "Virgin Gorda"
+            },
+            {
+              "name": "Top of the Baths Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual Caribbean dining with spectacular sunset views and family-friendly atmosphere",
+              "suggestedCity": "Virgin Gorda"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Relaxed Virgin Gorda Day",
+          "dayType": "rural",
+          "base": "Virgin Gorda",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Savannah Bay beach morning",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Calm shallow beach perfect for toddlers with powdery sand and gentle waves",
+              "suggestedCity": "Virgin Gorda"
+            },
+            {
+              "name": "Chez Bamboo",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Creole cuisine in a garden setting with high chairs and kids portions",
+              "suggestedCity": "Virgin Gorda"
+            },
+            {
+              "name": "Afternoon nap time",
+              "type": "nap"
+            },
+            {
+              "name": "Pool play and resort activities",
+              "type": "freeTime"
+            },
+            {
+              "name": "The Rock Cafe",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront Italian restaurant with pizza that kids love and romantic ocean views",
+              "suggestedCity": "Virgin Gorda"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Ferry to Tortola",
+          "dayType": "rural",
+          "base": "Tortola",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Ferry from Virgin Gorda to Tortola (45 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Fort Recovery Beachfront Villas & Suites",
+              "type": "hotel",
+              "coord": [
+                18.3862988,
+                -64.675598
+              ]
+            },
+            {
+              "name": "Myett's Restaurant & Hotel",
+              "type": "lunch",
+              "coord": [
+                18.4259798,
+                -64.6571185
+              ]
+            },
+            {
+              "name": "Fort Recovery",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "historic_sites",
+              "suggestedDesc": "17th century Dutch fort ruins on the western coast of Tortola",
+              "suggestedCity": "Tortola"
+            },
+            {
+              "name": "Smuggler's Cove",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Secluded white sand beach on the western end of Tortola with excellent snorkeling",
+              "suggestedCity": "Tortola"
+            },
+            {
+              "name": "The Dove Restaurant",
+              "type": "dinner",
+              "coord": [
+                18.4188384,
+                -64.6187847
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Tortola Culture & Rum",
+          "dayType": "rural",
+          "base": "Tortola",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Bananakeet",
+              "type": "coffee",
+              "coord": [
+                18.416259999999998,
+                -64.67040759999999
+              ]
+            },
+            {
+              "name": "Bobby's Supermarket",
+              "type": "shopping",
+              "coord": [
+                18.4233471,
+                -64.61979749999999
+              ]
+            },
+            {
+              "name": "Callwood Rum Distillery",
+              "type": "sightseeing",
+              "coord": [
+                18.422472499999998,
+                -64.6581143
+              ]
+            },
+            {
+              "name": "Bananakeet",
+              "type": "lunch",
+              "coord": [
+                18.416259999999998,
+                -64.67040759999999
+              ]
+            },
+            {
+              "name": "Afternoon nap and pool time at villa",
+              "type": "nap"
+            },
+            {
+              "name": "Cane Garden Bay sunset",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Family-friendly crescent beach with calm waters and spectacular sunsets",
+              "suggestedCity": "Tortola"
+            },
+            {
+              "name": "Quito's Gazebo",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront restaurant at Cane Garden Bay known for fresh seafood and live music",
+              "suggestedCity": "Tortola"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Mountain & Beach Balance",
+          "dayType": "rural",
+          "base": "Tortola",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Mount Sage National Park",
+              "type": "sightseeing",
+              "coord": [
+                18.400000000000002,
+                -64.65
+              ]
+            },
+            {
+              "name": "Short scenic drive and viewpoint stop",
+              "type": "info"
+            },
+            {
+              "name": "Sebastian's on the Beach",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront bistro with fresh fish and kids menu on Apple Bay",
+              "suggestedCity": "Tortola"
+            },
+            {
+              "name": "Long Bay Beach afternoon",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Mile-long white sand beach with shallow water perfect for young children",
+              "suggestedCity": "Tortola"
+            },
+            {
+              "name": "Rest time at villa",
+              "type": "nap"
+            },
+            {
+              "name": "Sugar Mill Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fine dining restaurant in a historic sugar mill at Apple Bay",
+              "suggestedCity": "Tortola"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Departure Day",
+          "dayType": "rural",
+          "base": "Tortola",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final beach play and packing",
+              "type": "freeTime"
+            },
+            {
+              "name": "Village Cay Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront restaurant and marina in Road Town with Caribbean cuisine",
+              "suggestedCity": "Tortola"
+            },
+            {
+              "name": "Transfer to airport or ferry terminal",
+              "type": "info"
+            },
+            {
+              "name": "Pusser's Road Town Pub",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Classic Caribbean pub near ferry terminal with family-friendly menu and famous painkillers",
+              "suggestedCity": "Tortola"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

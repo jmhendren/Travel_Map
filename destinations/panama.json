@@ -28,7 +28,9 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views"
       ],
       "phone": "(800) 377-8877"
     },
@@ -52,7 +54,9 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Family Friendly"
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Good for Groups"
       ],
       "phone": "(800) 377-8877"
     },
@@ -76,14 +80,319 @@
         "Splurge",
         "Romantic",
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Full-Day Activity"
       ]
+    },
+    {
+      "name": "American Trade Hotel & Hall",
+      "coord": [
+        8.9522971,
+        -79.5366387
+      ],
+      "desc": "Boutique waterfront hotel, rooftop bar, locally-inspired design, Casco Viejo location",
+      "longDesc": "A stylish boutique hotel in historic Casco Viejo with rooftop views, excellent restaurants, and family-friendly service. Perfect base for exploring old town charm.",
+      "gmapsUrl": "https://maps.google.com/?cid=6531698789304436432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 980,
+      "website": "https://www.americantradehotel.com/the-club",
+      "photoRef": "places/ChIJgzliTTWvrI8R0AZXRHFBpVo/photos/AcnlKN14iWNIU_ZyQUikBPSWyrLOWaBSIK8hNrbOOyo3DOZ4kvhwoD-vJuemZP6vlcCmwviq09tQM9SXR-ceJuB5S4oqZB3WW4AV-_hSaylUOpNv1QtG2qQF7yrvId-NC6hHaEHLJy3vydgqZ-02aboXVxI4NRDNVMjg4LnO36SB2T9l_HBzAvWi3xa8E2uXlNIFUX5D1W8KGPWQnUo8BY_h30ZnOYQRC6UYEWnT6Xj-2e_p9-uOAPqnl63oBStEnmfmyETqCyptShF66yBJGRD2idL7hhGpIAfttkL2LgGoInlrgw",
+      "photoAttribution": "American Trade Hotel & Hall",
+      "placeId": "ChIJgzliTTWvrI8R0AZXRHFBpVo",
+      "phone": "831-2051",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Av. Central España, Panamá, Provincia de Panamá, Panama"
+    },
+    {
+      "name": "Coronado Luxury Club & Suites",
+      "coord": [
+        8.5335611,
+        -79.88433669999999
+      ],
+      "desc": "Family resort with beach access, pool, golf course, activities for all ages, peaceful setting",
+      "longDesc": "A relaxing beachfront resort in Coronado perfect for families, featuring a beautiful beach, multiple pools, and organized activities that keep kids engaged all day.",
+      "gmapsUrl": "https://maps.google.com/?cid=13175678786785868235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Beach",
+        "Reservations Recommended"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1211,
+      "website": "https://www.coronadoluxurysuites.com/",
+      "photoRef": "places/ChIJ-yzY4JHvrI8Ry3kFgQxq2bY/photos/AcnlKN3vnIqa7vVtwd0GhgMIT06wWfCkx_HEmlEwTXVvMPLxs5Nxbbig9-GeeVyhbZFX8vQkvY9Ap7tjdElk9dlWI-Li9TFSfikKdrbexEta826tvpkkU2by13-kySkHj6h5CYuCelY0NvEN0vvroi6L2HdkqyATH0MEoMUDwpX9MPRdkmHpvX28JnIKASMf_spXUUvzVYGf4JeJWaJpeY-RxsbigPDXgPQ61S0KCDcrjNEbvAc05zuOziRAzw9c0lF7iInLmpO6DcTDeqlBhFsO_PlAAEvAkMBZkfE00lsumugSPw",
+      "photoAttribution": "Coronado Luxury Club & Suites",
+      "placeId": "ChIJ-yzY4JHvrI8Ry3kFgQxq2bY",
+      "phone": "240-4444",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Coronado. Punta Prieta Blvd. Chame Dis Coronado PA 0816 00571, Panamá Oeste Province, Panama"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "CasaCasco",
+      "coord": [
+        8.9515875,
+        -79.53680399999999
+      ],
+      "desc": "Upscale cocktail bar, craft drinks, historic colonial building, evening ambiance, creative mixology",
+      "longDesc": "An elegant cocktail lounge in a restored colonial mansion serving craft cocktails and small plates. A perfect adults' night out in the atmospheric old town.",
+      "gmapsUrl": "https://maps.google.com/?cid=7638857236771802885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Cocktails & Bars",
+        "Nightlife",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 5070,
+      "website": "http://www.casacasco.com/",
+      "photoRef": "places/ChIJkYF9RjWvrI8RBY-0Ny-sAmo/photos/AcnlKN3cfLeoBm9l870UB0xGKVXlDzPn5TMZW_P9jSkbYKXfbptZo3saIGC8h58d9xwhDVuLVl0nPkev1OXF_vEpX6FE6_6x5sCN8y2dAqgxSpzEQvuSxn6btr_7HXPxP3V_wMj8DKIEyhD30uGjYDy34bq-f42VY1km1B6JD3wQ7kgDP1Nllh16ohwsoc2NCaG_jRNaBpKHsiyDfmgPboukLSxV7iRj5liyOgEw7NLvINUMha3aGQ-v6R74gsdjUSGFVw9B2pTG7LX-MSRiWzzJNPyW7A0ekbbcbpvLfbZM39fOp11oKGR5865vucFfreV3Jlv0BdazIXT_4I1PliKY_BCXDTrwhZIL3Z3l8yUlUJnKHWGxNo1Y-fKRd2d0NP1re_Rn3I0XR_3y1EzBWletcK1cOuXagVcd6jAmIfrF3Ss5vjk",
+      "photoAttribution": "Krista Shoe",
+      "placeId": "ChIJkYF9RjWvrI8RBY-0Ny-sAmo",
+      "phone": "6288-9024",
+      "hours": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 1:00 AM",
+        "Thursday: 12:00 PM – 2:00 AM",
+        "Friday: 12:00 PM – 3:00 AM",
+        "Saturday: 12:00 PM – 3:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ],
+      "address": "Calle 10, y #8-15 15306, Panamá, Provincia de Panamá, Panama",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "El Trapiche",
+      "coord": [
+        8.9889261,
+        -79.52514889999999
+      ],
+      "desc": "Casual Panamanian cuisine, family-friendly, traditional recipes, affordable, authentic local flavors",
+      "longDesc": "A beloved local eatery serving authentic Panamanian dishes with friendly service and reasonable prices. Perfect for families wanting genuine traditional food without pretense.",
+      "gmapsUrl": "https://maps.google.com/?cid=583323009764409871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Off-Hours Eats"
+      ],
+      "rating": 4.4,
+      "ratingCount": 3963,
+      "website": "http://eltrapicherestaurante.com/",
+      "photoRef": "places/ChIJIwesavqorI8RD8JR0i9hGAg/photos/AcnlKN1fCFGa_w6AnJ2Jlfiu1ZLGzb64NnaHCmawSRz7_6Erk4sbZFkWyDv-rRcGqcjjsmG6n9OBbb3PIEnndV7VoCmk6eYDufA3BVpg0qh5o6WEu5Hz8BhQZJKO3BrE7UZwwwij-e6w8sida6HuvQm4aW_VuLTFwack8HPXZo5zsbt3Ycr3eBZNxBHgoKklSDp-Pzpq2LtGjEo2A1zXzMuoa5_V_xO_dADFXD0qFF9im4JZkJdyMcKRCVwfxxMdarGvwLN02KhZq2V4E-mmCZk6RqYqn8Gr4kHSIPUYwqpuRIT_22d6aR7ByUMMeODbPduOSNZQADpbUjc7IqD_aGqGRi5mwC03rL2NxMLSRvT2rfKFfKKIox_RWZPgpJJgsbtjgCJ59bF9IKWR5OU4M7IkqbB7MDIgnkKBo1PymEBSijg",
+      "photoAttribution": "Ariza B",
+      "placeId": "ChIJIwesavqorI8RD8JR0i9hGAg",
+      "phone": "269-4353",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "Vía Argentina, Panamá, Provincia de Panamá, Panama",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Pargo Island",
+      "desc": "Pristine uninhabited island, beaching destination, part of Islas Secas archipelago",
+      "longDesc": "One of the stunning uninhabited islands within the Islas Secas archipelago, accessible via amphibious boat. Known for pristine beaches and secluded island adventures.",
+      "coord": [
+        8.0833333,
+        -82.3166667
+      ],
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Splurge",
+        "Beach",
+        "Full-Day Activity",
+        "Iconic / Must-See"
+      ],
+      "rating": 5,
+      "ratingCount": 1,
+      "gmapsUrl": "https://maps.google.com/?cid=12484292734409987565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJN3twYEdnpY8R7VV_6hgeQa0",
+      "address": "Isla Los Pargos, Panama"
+    },
+    {
+      "name": "Panama Canal Museum",
+      "coord": [
+        8.9520241,
+        -79.5346975
+      ],
+      "desc": "Interactive museum, canal history, engineering exhibits, family educational experience, interactive displays",
+      "longDesc": "An engaging museum showcasing the fascinating history and engineering marvel of the Panama Canal. Kids and adults alike enjoy hands-on exhibits and stunning views of the waterway.",
+      "gmapsUrl": "https://maps.google.com/?cid=13590533747511493487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Rainy Day"
+      ],
+      "rating": 4.6,
+      "ratingCount": 3396,
+      "website": "http://www.museodelcanal.com/",
+      "photoRef": "places/ChIJvWnR0DSvrI8Rb4NhCHBGm7w/photos/AcnlKN1LJd7vA0P9IpsrwqQ3WfgQ5y42E2cZT3SOwZAwoWJOh430Rx_NUHwkIhZlMIbDJP5ozPFgdvISl3lVwHa0wyX1bE5Mj2kY55hE0Zq1Vw7nc4w4R8uqOTWteSYqYLZAckVdgOqpbAh8nRLyES3MD9DA0xGsqwAksBglzyFg3ov6HpOhg1QERReFEwU7DZ0k8XNI4Qu1vLjt4O3hODtiXLSDvyOakP05DzYu-oi7xgExKoqr35Anoa3klzcgqVBhtp2fezCjjRf1w_jPvtUR1SFX554oDyouNeCdXwNtZZJv1XBJ8hiSAbEWGacTs22pmFqW_GPYCnvCP-4VGuPQl__uhiQLwRbmdgzaHcPsYf6QWg85VCRvOrNejWmwqZy0SlV-Iw_q5z9t4QPISN47Wdxsmld2CkruZcQe7KpUGx3LjaHG",
+      "photoAttribution": "Mabelin Santos",
+      "placeId": "ChIJvWnR0DSvrI8Rb4NhCHBGm7w",
+      "phone": "211-1649",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "address": "Plaza de la Independencia, C. 5a Este, Panamá, Provincia de Panamá, Panama"
+    },
+    {
+      "name": "Kuna Yala Adventure",
+      "coord": [
+        9.4549565,
+        -78.9781158
+      ],
+      "desc": "Pristine beaches, snorkeling, indigenous culture, turquoise waters, island hopping adventure",
+      "longDesc": "Explore the stunning San Blas Islands with their crystal-clear waters, white sand beaches, and rich Kuna indigenous culture. A memorable day trip for families seeking tropical paradise.",
+      "gmapsUrl": "https://maps.google.com/?cid=9340373540673944401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Beach",
+        "Full-Day Activity"
+      ],
+      "rating": 4.8,
+      "ratingCount": 96,
+      "website": "http://www.kunayalaadventure.com/",
+      "photoRef": "places/ChIJka5QzYz7VI4RUftTcT-sn4E/photos/AcnlKN2vYMdpJUUT94Wj7fznJ1fFAOZQm7eixm_PQ7z48kaDprAlqgGkJp6SjxIF46iwoK1igtlh53DaxTpLuKw15aqS6mdeHV1_VguWo5dEtw4E7Afz8IA_12XIxLufnLDxvGRU7C6kHM2CAwXijJh5yCs2J41OG3GtKE4YJrRAF5UGKbLjesvnWr84XA0qeaPvRlToK25gwQD5q0AprxoSjJHgA_W1CLqpBflv89DN6Ne3FaxoGIfjvuJDbPXyZpb09Zhv-EjYQot6trHPX5NLK5ixspzi5fKhYSbPf0MgfDopLg",
+      "photoAttribution": "Kuna Yala Adventure",
+      "placeId": "ChIJka5QzYz7VI4RUftTcT-sn4E",
+      "phone": "6120-7363",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Islas de, Gunayala, Guna Yala, Panama"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Biomuseo",
+      "coord": [
+        8.9322213,
+        -79.5446353
+      ],
+      "desc": "Colorful biodiversity museum, interactive exhibits, Frank Gehry architecture, family-focused, engaging displays",
+      "longDesc": "A vibrant museum celebrating Panama's incredible biodiversity with interactive exhibits and stunning architecture. Kids love exploring the colorful galleries and learning about tropical ecosystems.",
+      "gmapsUrl": "https://maps.google.com/?cid=4955920447299308219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Rainy Day",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 9569,
+      "website": "http://biomuseo.org/",
+      "photoRef": "places/ChIJva9mbEKvrI8Ru8pepGP3xkQ/photos/AcnlKN3cTJOSFWw4cy_VxqS2XBUrqHHMyqBgAqWkoAa2DPipy-YIDHNdqp_ThREqs_Mc5Kt-daETC1V86d_BvP_NNdrSigpMf_TLCXq8YeoXCq4s-tnvgzaPMbANIrYhCy5c1n_S6bO9Ov5-bN-z8u6WGSiQFXdKHGgmjHt1NbKXcVDHqqWAPMJic40s2JnM0or_98wwXl0kuFbqpM-a-_iek4cTZ0dbVEXFTj8xeNCCKEo99D-_o-t26t_8wto3y1SMhUGuwkEIB21dov3MR6wiSLS7l69A_dXkaVdPhrtfpidHToyGswT1egVhr5PhN2tyTB2J8TYhfWL-CX9wc5caaeBH5oWSgZhfnSOaLuqazmf57yAOCA3UtM-gxx_q-4F1ZUGCT2qjjd45Ohg-putf__x00EbouAg_ojRTBQBBRL58Jifc",
+      "photoAttribution": "Cindy Cesare",
+      "placeId": "ChIJva9mbEKvrI8Ru8pepGP3xkQ",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 3:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 9:00 AM – 3:00 PM",
+        "Friday: 9:00 AM – 3:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: 10:00 AM – 3:00 PM"
+      ],
+      "address": "WFH4+XG, Calz. de Amador 136, Panamá, Provincia de Panamá, Panama"
+    }
+  ],
+  "markets": [
+    {
+      "name": "San Felipe Neri Public Market",
+      "coord": [
+        8.9577493,
+        -79.5389725
+      ],
+      "desc": "Historic public market, fresh local produce, seafood, colorful vendors, authentic local experience",
+      "longDesc": "The oldest public market in Panama City buzzes with energy and local flavor. Families enjoy wandering the stalls of fresh tropical fruits, vegetables, and seafood.",
+      "gmapsUrl": "https://maps.google.com/?cid=14764451434246677274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.7,
+      "ratingCount": 2164,
+      "website": "https://mercados.mupa.gob.pa/",
+      "photoRef": "places/ChIJHdSu_LWorI8RGqPHoVre5cw/photos/AcnlKN0kd9VWbcd1J02uaqNh4EZAv3eIooKAdKXut7TTTMOxzfwnmtCn1gKevvVBjNoiVuXR2SpwKZZT78T3lh36dYMPYvCfN1crn9wSI7_liZaJTzcfXIw2AUTZuksLMs2hcHEkPQbbqwy5G6ona7U7F2XvxRmQplu7JFW7cL6Mi1LG1TqaA82LV7uzpSVZacQRpfSJYcWj79pHDntPQB7Q6tbkmpT-OULSqgydzFhOz74lFBPnJCi6BzhM9H_ard1Jehu9I1y6PREfIDGKtHFRTYYJYA11hnyRyVk70BbQSLeViA",
+      "photoAttribution": "Mercado San Felipe Neri",
+      "placeId": "ChIJHdSu_LWorI8RGqPHoVre5cw",
+      "phone": "506-9619",
+      "hours": [
+        "Monday: 5:00 AM – 4:00 PM",
+        "Tuesday: 5:00 AM – 4:00 PM",
+        "Wednesday: 5:00 AM – 4:00 PM",
+        "Thursday: 5:00 AM – 4:00 PM",
+        "Friday: 5:00 AM – 4:00 PM",
+        "Saturday: 5:00 AM – 4:00 PM",
+        "Sunday: 5:00 AM – 4:00 PM"
+      ],
+      "address": "9, Panamá, Provincia de Panamá, Panama"
+    }
+  ],
   "cityCenters": {
     "Bocas del Toro": [
       7.9784,

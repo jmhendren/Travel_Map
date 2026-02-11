@@ -28,12 +28,147 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views",
+        "Beach"
       ],
       "phone": "020 430 000"
+    },
+    {
+      "name": "Hotel Excelsior",
+      "coord": [
+        42.6412894,
+        18.118685199999998
+      ],
+      "desc": "Historic luxury hotel, Old Town views, belle époque elegance, fine dining restaurant",
+      "longDesc": "A storied 1913 palace hotel overlooking Dubrovnik's Old Town, offering timeless elegance and personalized service perfect for families seeking classic coastal charm.",
+      "gmapsUrl": "https://maps.google.com/?cid=7256489526403184523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.8,
+      "ratingCount": 1273,
+      "website": "https://www.adriaticluxuryhotels.com/hotel-excelsior-dubrovnik?utm_source=google&utm_medium=organic&utm_campaign=Google-places",
+      "photoRef": "places/ChIJ_62IVDULTBMRi7eaGcc6tGQ/photos/AcnlKN0p7ghoeLYQjGhPUGLeikpHRQP8gktQV-1zmJvG90nlk7XAifhIDSJZaKKwTXAHpeHZihTAFNTC9WRA90YGq19-GyIJcO4DXaWIZ8WGPQH2QRDmL-69ezWZ5V139NmyAlGp65fw5Kf5XbL9do3dNk63vt8pUvHisFVXu8od67UzE45fZgN0q0JBxPznSzvK7V3yjvcKHrny0ZOEdM6kIyfYe7WZ8GarCFZUmcpN9mTA426GEvx35Cex2nCeRZBCfs-xuW9HRF64Rii3m_klfnrGJ_ujZKILqCbphfjydLBRxQ",
+      "photoAttribution": "Hotel Excelsior Dubrovnik",
+      "placeId": "ChIJ_62IVDULTBMRi7eaGcc6tGQ",
+      "phone": "020 353 000",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Ul. Frana Supila 12, 20000, Dubrovnik, Croatia"
+    },
+    {
+      "name": "Hotel Moeesy, Blue & Green Oasis",
+      "coord": [
+        43.1726721,
+        16.4322072
+      ],
+      "desc": "Charming seafront boutique, lavender-scented island, family suites, intimate atmosphere",
+      "longDesc": "A intimate, family-run boutique hotel on lavender-covered Hvar Island with direct beach access and warm hospitality ideal for relaxed family getaways.",
+      "gmapsUrl": "https://maps.google.com/?cid=4846384555383480701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Romantic",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 81,
+      "website": "http://moeesy.com/",
+      "photoRef": "places/ChIJEUB5gi6CNRMRfWGSbBPRQUM/photos/AcnlKN30GPTnnNScxABz39a35uzYEdtuCO0k7sWyZ3DnpYQStQ-PXtLsf4GKGFllnj7Bhp9IIBs-ffn7z9gya1YkuitnTmxablSbKh-X3kfx_7bMnJytwWyv6DMe8MRF2JAZRt7QV3ccCfU2G4i2qMjhpeejn0n85Tb_h36KudT49XthM3scNac8FiHZ-2i4oMH_RLEscysddwPg4DWET8aikxwXgTfABt6QzCowWbba56El6tvURoL6jH_krMwISF6vwlg_f2eFqHDv9v53ut2z5KkChCu64AigKdXNaxcqsoyMig",
+      "photoAttribution": "Hotel Moeesy, Blue & Green Oasis",
+      "placeId": "ChIJEUB5gi6CNRMRfWGSbBPRQUM",
+      "phone": "091 601 2477",
+      "address": "Ul. Vlade Avelinija 7, 21450, Hvar, Croatia"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Konoba Malo selo",
+      "coord": [
+        45.4316813,
+        13.6354382
+      ],
+      "desc": "Waterfront konoba, fresh seafood, traditional Istrian cuisine, sunset dining with harbor views",
+      "longDesc": "A charming waterfront tavern serving fresh daily catches and traditional Istrian specialties, where families enjoy authentic Croatian cuisine with stunning harbor vistas.",
+      "gmapsUrl": "https://maps.google.com/?cid=12207639643870825464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Family Friendly",
+        "Scenic Views",
+        "Good for Groups"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1471,
+      "photoRef": "places/ChIJDzfTTNJje0cR-IvlxpM_aqk/photos/AcnlKN0CKX2HWjzE79UgF44zKjZ-VWvVxLgvNTUgO7tENYwvICuErwL7sY9l4hu4Odaan-vIpxqc7ir4X1jgGldcjknnJL1kaV1nQluGRp2KlMzeZ-A5L0lRVFsYc5jesg4eo9-uzyMuFr_99bljrnfBY36fg-vQaUSs4WrpmbKH8am4NIa4n_S-pmFZIPKDwSNVDAHhEZ3AG4qWlUOyHv1BuH_qHgzUc8CCkTWRMCfocl3-5YU0T1RWOhspknof4bY9L4iSQ--B6OMojUegCLSlNvjnMrK1JVB_kXCKQct6CU1LIg",
+      "photoAttribution": "Konoba Malo selo",
+      "placeId": "ChIJDzfTTNJje0cR-IvlxpM_aqk",
+      "phone": "052 777 332",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Fratrija 1, Kaldanija1, 52460, Buje, Croatia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Caffe & Wine Bar Galerija",
+      "coord": [
+        45.7370951,
+        16.0022459
+      ],
+      "desc": "Cozy art café, local pastries, excellent espresso, creative atmosphere, perfect for families",
+      "longDesc": "A welcoming artisan café in Zagreb's cultural quarter showcasing local artwork and serving delicious homemade pastries and coffee, ideal for families exploring the city.",
+      "gmapsUrl": "https://maps.google.com/?cid=10433176477449075085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Afternoon Wine",
+        "Breakfast Spot",
+        "Hidden Gem"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1266,
+      "photoRef": "places/ChIJceLaTnl_ZkcRjTlQmboWypA/photos/AcnlKN1AKWXsw7xWAY3tuSGHS-PXSc10F9WRU-fKM_q2tQnfdrPe_31RiETvUVKcOCyQU1mgQILXq7ceU5m432KkcqiCfv2S0sfGzVtoAWyysLRw2HxEafFxn0z8PmFMVK0owEiT1ISOjCWKeUvuQ1FfwXqtksQRCfhvBUjpq_0d0LTKH73eQaE5MVVtbW_c5udNmS2OJ0KBE6eWJCw4MtA6pqVZgGZqLtvhj4xQ77lHvisz7TWRSRAk4B6IPyiYB8OFgm7GQIGSTSrmCc85790QQSJYb70ZJgWa0CWIADXn6BU1L4siZmHwY9LDr3O-G0-NIYM7zJ8ywUJ1pwnl9pzEzs7Hx9qTJ9xYEReFSmFVZUFWcycicY6s0rfhT85hx3pvcC-84zIoU8DYtYIxiHGjoztrzqR3nhLRTQBIPVkNixomrggs",
+      "photoAttribution": "Nikola Pavlić",
+      "placeId": "ChIJceLaTnl_ZkcRjTlQmboWypA",
+      "phone": "01 6231 634",
+      "hours": [
+        "Monday: 6:30 AM – 11:00 PM",
+        "Tuesday: 6:30 AM – 11:00 PM",
+        "Wednesday: 6:30 AM – 11:00 PM",
+        "Thursday: 6:30 AM – 11:00 PM",
+        "Friday: 6:30 AM – 11:00 PM",
+        "Saturday: 6:30 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 3:00 PM"
+      ],
+      "address": "Velika cesta 72, 10000, Odra, Croatia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "BOWA",
@@ -47,7 +182,11 @@
         "Romantic",
         "Photography Worthy",
         "Splurge",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Off-Hours Eats",
+        "Beach",
+        "Scenic Views",
+        "Good for Groups"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=6640210823015125523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -76,7 +215,9 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Iconic / Must-See",
+        "Half-Day Trip"
       ]
     },
     {
@@ -98,7 +239,8 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Art & Design"
+        "Art & Design",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -129,7 +271,9 @@
       "photoAttribution": "Grand Hotel Brioni Pula, A Radisson Collection Hotel",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Hidden Gem",
+        "Scenic Views"
       ],
       "phone": "052 378 700"
     },
@@ -152,7 +296,11 @@
       "tags": [
         "Photography Worthy",
         "Family Friendly",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Iconic / Must-See",
+        "Full-Day Activity",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 7:00 AM – 2:00 PM",
@@ -164,10 +312,92 @@
         "Sunday: 7:00 AM – 2:00 PM"
       ],
       "phone": "053 751 015"
+    },
+    {
+      "name": "Diocletian's Palace",
+      "coord": [
+        43.5082646,
+        16.440175399999998
+      ],
+      "desc": "Ancient Roman palace, UNESCO site, living marketplace, medieval architecture, immersive history",
+      "longDesc": "A sprawling 1,700-year-old Roman fortress now bustling with shops and restaurants, offering families an unforgettable journey through 18 centuries of continuous civilization.",
+      "gmapsUrl": "https://maps.google.com/?cid=10527944942915383090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 89387,
+      "photoRef": "places/ChIJT_xcU_5dNRMRMm9XaSXGGpI/photos/AcnlKN0ECN7Pc3Ti0PGDSCgyE4pdNE8zACAo-HdQYYzwuo8LNvbiGGrl3zUSL7F7J1ceS1Ub87Tdh_EL4JjB_GcYvrwWBsWJyjudfikvpFs1sAbamWdRitNnvk7dvXc7yRirq5zNjrQHUS2MQKiLBrxrsdcCDxbR0T4vWCvoXSKYtNg_PCmmcrt7zaO0gZKP2am3_MdMQolQe4ixpq2v3P5ZjO3tSHlAQ63Bp8PKsExznbUtX6R-MrAR7CgesA57EkPAwhFAsOez20xkt9EtoZzysZ8GZFlDt_X5DwiV7Zjtv4uhqM6NuROpAI2gLh-UgL0xgkYeomAMNTmTxTCtW9Rgi3GJ52DFHnPxUQKWuazFGhDNQtUogS6tvpVtYGigX1pZHCU2k0Z9itD3PE032mmB2a8XLcFWO1-P_tVzCrFBEThQPrw",
+      "photoAttribution": "Miguel Ángel Díaz",
+      "placeId": "ChIJT_xcU_5dNRMRMm9XaSXGGpI",
+      "address": "21000, Grad, Split, Croatia"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Villa Angiolina u Opatiji Museum",
+      "coord": [
+        45.3354587,
+        14.3087631
+      ],
+      "desc": "Scenic beachside park, playground facilities, tree-lined paths, family-friendly swimming areas",
+      "longDesc": "A delightful waterfront park with sandy beaches, modern playgrounds, and peaceful walking trails perfect for young children to explore and safely play by the sea.",
+      "gmapsUrl": "https://maps.google.com/?cid=11755855498891775535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1164,
+      "website": "https://www.visitopatija.com/it/rubrica?catId=244",
+      "photoRef": "places/ChIJL71_7GmpZEcRL05EgkowJaM/photos/AcnlKN2naxl319sAbm0TZ1vnC1GalfExiDPlzb4HVbT6t6LPoBbtVSJ7-wCMfDW0sLDX3fSYN8W8TeTFoASJ4Y3GKoH1xsTNHZrMJjIt475ieqUcYlBbcaMKogOONYlG4q9ozC4opwtrE4triOaSMMrtOz9QHw3wK-T8jAuRLu-DelT2I1LSoaD9S6Y4eoSOd3zCHX7a_k9b70JtmEjwQUiXCl_yIIskC4xNRPp0UWRpP7ZuanXAxaBYS7_UobNNsWper0GorLeF37m8s6nwxwvIlxla9ur-7yEcv91_Yr5Uc3SQNk2x6-yO_AQU__Mqjq8tIq4hdqJ7TzUZtJJMo7W9USHqunCFXJglz-4PhC5i05WwQNljoKSuBSAl_5Qe2RGdwvNmSM6wCOsWpp8-JbbnqDsCqRwBWXE5WaQTkajRgEvus-w",
+      "photoAttribution": "Nikola Miletic",
+      "placeId": "ChIJL71_7GmpZEcRL05EgkowJaM",
+      "phone": "051 706 470",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Park Angiolina 1, 51410, Opatija, Croatia"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Dolac Market",
+      "coord": [
+        45.8139846,
+        15.9775104
+      ],
+      "desc": "Historic farmer's market, fresh produce, local herbs, vibrant outdoor stalls, authentic atmosphere",
+      "longDesc": "Zagreb's bustling open-air market showcasing fresh Croatian produce, artisan goods, and local specialties where families experience authentic daily life and regional flavors.",
+      "gmapsUrl": "https://maps.google.com/?cid=5638161395646081600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "photoRef": "places/ChIJM76k9P3WZUcRQCrOxerFPk4/photos/AcnlKN3vMCGlE-auGxRAnIHgqyZRF0N8MlB8wI8gNt-5lHXLM0fp7vCp97gp1gW-fdDASV3I1p5htQdJjZiIuut5FT6tM-2lC_92GeEm8dHlg-J2BXU6D_SQ5YFs6um95h2QktHFvQMizpkEtDWqriH7i3Z5LVGVjK1c8gFbta6oYL8mbtLfdaUn4ZvKGEdpQl-MdbDAlg5UgQ_1M9-QXBv7w6v3Exzp2aTaPVgW4eJQHX3em-H-lv5QUaVvRsDodnX6KBJuHD_5bHH-SC87O6DoJpy2MT7HFzKN5c3s5BublcOADlXCUDwgidJAf489kgvDqqTNgMahb5ASU80xmksAvvQwnJGlFAIFQnbc_wbTCcWA_9Okfh0YQUUN3DPsuGzaQLtmMrs3f5992QQtVMWyvlfKYz2gOY0z76nnuXpxhTMy1A",
+      "photoAttribution": "Romana Milašinović",
+      "placeId": "ChIJM76k9P3WZUcRQCrOxerFPk4",
+      "address": "Dolac, 10000, Zagreb, Croatia"
+    }
+  ],
   "cityCenters": {
     "Dubrovnik": [
       42.7204,

@@ -28,7 +28,9 @@
       "tags": [
         "Wellness & Spa",
         "Splurge",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -40,12 +42,415 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "2 350 773"
+    },
+    {
+      "name": "Amankora Thimphu",
+      "coord": [
+        27.478648,
+        89.61195810000001
+      ],
+      "desc": "Ultra-luxury lodge chain, pristine valley views, world-class service, cultural immersion",
+      "longDesc": "An exceptional luxury experience across multiple locations, offering families unparalleled comfort, authentic cultural experiences, and breathtaking Himalayan vistas perfect for creating unforgettable memories.",
+      "gmapsUrl": "https://maps.google.com/?cid=11286906382213632644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views",
+        "Reservations Recommended",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 83,
+      "website": "https://www.aman.com/resorts/amankora/accommodation/lodges/thimphu-lodge?utm_source=Google&utm_medium=Yext&y_source=1_MTU3MDc5OTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJYY19POmW4TkRhNLu1I0lo5w/photos/AcnlKN08vKhroFBzZ-EkV4dEstyEmgGm23L-R283eNEWnREEZfztawiFmj-qNuzZIy0VYSr3rU526v97SArxSU3GgsKsJFXQg3F70lzBxod4g4l7lGc9F1EVBUyySzGKkmA0vqhlCXZdpvr7Rw5rzHnx6hHLmN6o42PucsmyXRchQU0hSaVQqx5rUcjTWuEdc4ggSDTqJ2YknBP-hFuCtnxL3JEQDthQDue00QiQNrvE0Vj5OhX9xkulr3IC6F5nBWSTgAOPTufXkl3snIrsZY6XI1CC4x__oRyeZktrWzKK93_NjA",
+      "photoAttribution": "Amankora Thimphu",
+      "placeId": "ChIJYY19POmW4TkRhNLu1I0lo5w",
+      "phone": "2 331 333",
+      "address": "Near Kuenga Chhoeling Palace, Administrative Office, Upper, Motithang 11001, Bhutan"
+    },
+    {
+      "name": "Hotel Druk Thimphu Bhutan",
+      "coord": [
+        27.4701415,
+        89.6401042
+      ],
+      "desc": "Mid-range comfort hotel, central location, warm hospitality, local cuisine restaurant",
+      "longDesc": "A welcoming mid-range hotel in downtown Thimphu, ideal for families seeking comfortable accommodations with authentic Bhutanese dining and convenient access to city attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=15740402967041633847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 311,
+      "website": "http://drukhotels.com/",
+      "photoRef": "places/ChIJkcSxTXeT4TkRN24FMBolcdo/photos/AcnlKN0LL8rM04myT6nAKFQS3FvJ8-60Cg_x9G8o701_HkY5vMsivBFJYq7sMbhSEpmB3VWXozmZxWA0C2PMbskXPoZk6I8iZvW8q6Aw-GYIjjq0P-kFw3ESGSswmqvNMT4mcXyITV3I2P5Utb_zReygfEVwusUfcPXp_Z5aIHnIzzxrP7PQQy_esW42jqIJ9eeJf9TfI1MVks-q36xKw8X6LHHmsWUlEykgSPMDPTIUACpbNuNxjL_d4WS05VNzftRKfzNCtlhnN2egnbqAi7YNVXelzEr8tvDc8yCJ3i2fKs1kAw",
+      "photoAttribution": "Hotel Druk Thimphu Bhutan",
+      "placeId": "ChIJkcSxTXeT4TkRN24FMBolcdo",
+      "phone": "77 19 88 19",
+      "address": "218 Norzin Zur Lam 49 SE, Norzin, Bhutan"
+    },
+    {
+      "name": "Pemako Punakha",
+      "coord": [
+        27.6207064,
+        89.83894579999999
+      ],
+      "desc": "Riverside resort, stunning fortress views, adventure activities, family-friendly amenities",
+      "longDesc": "A stunning riverside resort offering families breathtaking views of Punakha Dzong, easy access to hiking trails, and excellent cultural activities perfect for all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=4410525549334772352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Outdoor & Nature",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.9,
+      "ratingCount": 20,
+      "website": "https://www.pemakohotels.com/",
+      "photoRef": "places/ChIJff5v7l_D4TkRgDrigJ5VNT0/photos/AcnlKN2fkFq2PnomBQcGm7FLxUP3qsTb8QGipEumG97RdMGjpSsQAhDHJMptjxtjka5SqfxPlupt_cBzph09btKwCCIzCDFQtzMSGq4jSY48igyQq7HB9JpISliCvAL9JA4aM5uBVmybwWj1W9J1xAHVMgG6vxPBwK06siLiAXdYRW3u9ipgIMWLVyP0sDyHqTohpKm39OG731fHXgWyauswRqvXZX5lbsJa2dOqMUltk_dW1ZIbOgG_qQDZ7jeCjgiJnoWjTt3_EO96rsS7xwTa0b5RTMLtY43w4q4UFXHxQPl24zCY9iVa7rhxL8wgQRr-cAkx6sQ9OMt5xHddN4np2cu-f4siM7G_MxHrzr04yB0w0a1HQK_TLjAMnpJbqxB6eRABN3POy_TLlBUaqNs1CMDolOJY6hXk3l76kyXZExDVlSrx",
+      "photoAttribution": "Kinzang Norbu",
+      "placeId": "ChIJff5v7l_D4TkRgDrigJ5VNT0",
+      "phone": "77 18 22 41",
+      "address": "Punakha, Bhutan"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Bhutan Kitchen Bangkok",
+      "coord": [
+        13.745075,
+        100.5726027
+      ],
+      "desc": "Traditional Bhutanese cuisine, family-style dining, warm ambiance, authentic recipes",
+      "longDesc": "An unpretentious gem serving authentic Bhutanese dishes in a cozy family-friendly setting, perfect for experiencing local flavors and culinary traditions without pretense.",
+      "gmapsUrl": "https://maps.google.com/?cid=4368466671625829001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Groups"
+      ],
+      "rating": 4.9,
+      "ratingCount": 69,
+      "website": "https://bhutan-kitchen.com/",
+      "photoRef": "places/ChIJZ5LsWq-f4jARifpj70rpnzw/photos/AcnlKN1AbovB8-R4BLaZzQlmZeqKBDdK28_42WivHQXI1iwc8DJDIEidL80INJyRE8vozV4XeI47HcXgpAvNkP21M5hxl4uHImZZQjSJSKeNCU4lu6nTZvNNOJe497goDjI970218jRht3s401_Et8EJnrNSdHBuDAJlrN4tBY1J0qhYG4aDnzTA_WzdHk6C9OdoWmbEpr7DizwYtneqEcrXA_NtoS9D2Q34pLBKUQVET-myXEhrxXXLohKbmBEy9BpWFrAsqAXT-tSpK4jhvBGsCBD4ixeJzOWJnA7HSoaynSPVfg",
+      "photoAttribution": "Bhutan Kitchen Bangkok",
+      "placeId": "ChIJZ5LsWq-f4jARifpj70rpnzw",
+      "phone": "080 777 5342",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: Closed",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "555/6 Taka Town ซอย เพชรบุรีตัดใหม่ 38/1 (ท้าย, ซ. สุขุมวิท 39 แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110, Thailand"
+    },
+    {
+      "name": "Ambient Cafe",
+      "coord": [
+        27.4709462,
+        89.6387815
+      ],
+      "desc": "Cozy café, excellent coffee, pastries, friendly staff, creative decor, rainy day retreat",
+      "longDesc": "A charming café perfect for families to escape the weather, enjoy quality coffee, fresh pastries, and relax in a welcoming creative space filled with local artwork.",
+      "gmapsUrl": "https://maps.google.com/?cid=246271805372094220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Rainy Day",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.5,
+      "ratingCount": 454,
+      "photoRef": "places/ChIJoVRKZhGU4TkRDNdl9ebuagM/photos/AcnlKN0KJuuYzP8aLPUMvrgVj0qSeW2u1twLrhvlw-T9NVEiWH610y4c3zTuLfRbSIEGesnuIchuYU2mOQL_CPG1D36WkF70yNbtm8litImWc9TYXo63HXV9hoZntl4Itd3ytSgReWn5vCD54LhI7FGoD7kqmLNIyRT3N0EMY94yGplB67FTUAB9EtZ9YBHSeO15st9oM9YfX6q7c3aLzeQdfZoneEnP7jtqs2_sBPURQAcVuIFSsp5Nri7VQtfUdw_CAj-mKnzq1BgMbQYBaANyvPA9DM6iVy1rFUkhum4jdVI",
+      "photoAttribution": "Ambient Cafe",
+      "placeId": "ChIJoVRKZhGU4TkRDNdl9ebuagM",
+      "phone": "17 79 96 07",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "address": "Nordzin Lam, Thimphu, Bhutan",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Babesa Village Restaurant",
+      "coord": [
+        27.4331072,
+        89.6502356
+      ],
+      "desc": "Fine dining, modern Bhutanese cuisine, panoramic city views, romantic atmosphere",
+      "longDesc": "An elegant establishment blending traditional Bhutanese flavors with contemporary culinary techniques, offering families an upscale dining experience with stunning city panoramas.",
+      "gmapsUrl": "https://maps.google.com/?cid=13806752946712208558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Photography Worthy",
+        "Good for Dinner",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 3.9,
+      "ratingCount": 185,
+      "photoRef": "places/ChIJ4W0bF5aT4TkRruRbWqdwm78/photos/AcnlKN0HyYCea5Ogi2xwNA5A9WQk7j5uD-ZxYathtTEDqk57i78CDDL_vODwd5CWsy3uhmvu2_SSZMCMISLYxIcwQytzAdNYRUb6DSW1owgr-l-r8mL_3hXcOClmnLQM4a4pFS-_BDpTuIBXHPiCwV3SziwpON-aVJOBEERpBHhnRZfr0YAydQ_STM-YRdfwpWWSFyVip6AtOOlStQt0pcqi-Zq4FA-ZEU6PSKQW9gJhK_sbUZubYElzi1-BB0p19wBal4hL62I8yxrA8TKijsYyLwufyyHFo9X2LBnpKDhm45SSOQWWHq5uulGwiCjDdPZyUmLG2a6oVAN3l_5NaHTZzg_WRErWMAJ3m1uCN44kP5k_nqXFOt4KEXSDR9RzAEc6yN-oTMru7E_fcIDOQvMx609O_myYHQmmSpHhHGIuDtA",
+      "photoAttribution": "szonam",
+      "placeId": "ChIJ4W0bF5aT4TkRruRbWqdwm78",
+      "phone": "17 16 36 60",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "CMM2+63X, Thimphu, Bhutan",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Punakha District Court",
+      "coord": [
+        27.5664224,
+        89.8653904
+      ],
+      "desc": "Local food stalls, street eats, authentic flavors, budget-friendly, casual atmosphere",
+      "longDesc": "A vibrant local food hub where families can sample authentic street food and regional specialties at budget-friendly prices in a lively, authentic market environment.",
+      "gmapsUrl": "https://maps.google.com/?cid=8430315191327906017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies",
+        "Casual Eats",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.5,
+      "ratingCount": 8,
+      "photoRef": "places/ChIJbT5F70Pd4TkR4ditMwB__nQ/photos/AcnlKN0tgve5QSHcy5AFP6dqFBYh63QwZpl-91zEnwHz50PQdE53MwaN9TKFTvhSLVzpISvelpYslCdRLIe-sbfzxzktuRBKlY9Sx-77sIY-mGoOhmw4U_h3lFhKByMbSfJlIcM18k4DVIC3D79VxqZBo6BSIg2bNTcpSXXRcDLjm-vVww3Ew-un8zezi8WJXynbksWkpfLZEcLohx2bmXJCKEg-gSBdw-67C8UTde972AVjHJTKzYxrkXOtKUSps33L5LwWCH_y06Nhw9tfDEQuJcu4OGzV4RT-h7sK7Vw6unt-JCsFCbJUag41LHAkYp5QKamyp7qB_FxusyP0MB7e5qmu_IP2Q627oFNcVNv1H9DQWWaqSiYQkVe0t4R6tVW9K-qsi2XcAHr7L0WlVNwGsuwjcWJ4Sa6j-oKGJRo5y1Dy94zX",
+      "photoAttribution": "Reta Bahadur Powrel",
+      "placeId": "ChIJbT5F70Pd4TkR4ditMwB__nQ",
+      "address": "HV88+H56, Bhutan"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Paro Taktsang (Tiger's Nest Monastery)",
+      "coord": [
+        27.492912,
+        89.3636439
+      ],
+      "desc": "Iconic cliffside temple, sacred Buddhist site, dramatic trek, breathtaking views, spiritual pilgrimage",
+      "longDesc": "Bhutan's most famous landmark perched dramatically on a mountain cliff, accessible via an exhilarating hike rewarding families with stunning views and profound spiritual atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=9532937318673237468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Adventure & Active",
+        "Cultural & Historical",
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 248,
+      "website": "https://tigersnestbhutan.com/",
+      "photoRef": "places/ChIJC7P1Nix14TkR3EWV0fvLS4Q/photos/AcnlKN1n8r7oqcrxsd2zKj7-luIvMXca707rTGTBUTbFqohYzC4s9jJqSC3hNi_LFp-i2oiFwCAkIA4K77zP-aQP1tnuzUBR_IfSrF56P5NAcMyVrWXyiYgKymUSzkJ74KK6lMjWXR26WFsejoLch5q4A85PTBZ0oTaEW_ikeLvhE2bB1DtCrMue3jbLmERkglIxRt-VhG3R1d6TMYjlzbTdp9hOBgZfmlg4taCmBfRytPm8uHAxZD5kaeqi-XsjsIVE6sHisIPD-wn0TGI7yGB7TDkbKWajjuSQIok8epfEJBmYZJpLumcb1FiLXC__VjubRvLCFwUQZD9f4XcK5msthQpxs4BLMHYpDfwJG1kS60g9xJnrKB3QwYKqnr9gEl6cvjClChq1IzekX9jzZebiogO2PVsDzGN1_yZZoE0aO59fbxuXWT8fPFZ4rt5MCgy8",
+      "photoAttribution": "Rattanachai Hingerd",
+      "placeId": "ChIJC7P1Nix14TkR3EWV0fvLS4Q",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "F9R7+PCR, Taktsang trail, Paro, Bhutan"
+    },
+    {
+      "name": "Ta Dzong",
+      "coord": [
+        27.4287435,
+        89.4255191
+      ],
+      "desc": "Six-story dzong museum, Bhutanese history, art, culture, interactive exhibits, family-friendly",
+      "longDesc": "An engaging museum housed in a striking traditional fortress, offering families interactive exhibits showcasing Bhutan's rich cultural heritage, art, and fascinating history across six floors.",
+      "gmapsUrl": "https://maps.google.com/?cid=18064792113505019102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Rainy Day",
+        "Art & Design"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1703,
+      "photoRef": "places/ChIJDxcvRrid4TkR3qS-QrcIs_o/photos/AcnlKN3EcVYrm857F8KLtC04ijKbZ6LZPpPXI5C-VYjmgcsqm6cNhDRlOa_6PRPkE9o9Tex4BRkKC60ttOtOyK2qm0VSsuNtHSDvVz6U0yNSOj9qz_SxZwFCZmIvY_iptDLDvhydLM5CYp1jwqxwcqXrzACcfAHvMhHF_g7Am-Sv5XvYuX6aEsGwNhjIMwcAiRsTdPUyWi3DWJts-Umu3SUoA-p7KziOR7TFmcbZlYmnI5FluvrKypQiKZASsKj8leUBHUqFovdk1MklXeYsaxFX3tRkt93CoeYx1dTtp0aT00yCIlaBtNtMQ70lze2RTayDB3cnGs17gUPMKyB4N_kh-t7XxlMltmiq5CxaFdf9EwxPtM6r0r2tPY2RjF7uzn1yfxvwZz7y4gIfpgZWxq5UrcgjSOPuPQBWZwHN0qwOjF8",
+      "photoAttribution": "Pallav Dutt",
+      "placeId": "ChIJDxcvRrid4TkR3qS-QrcIs_o",
+      "phone": "8 271 511",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "CCHG+F6R, Paro, Bhutan"
+    },
+    {
+      "name": "Punakha Dzong",
+      "coord": [
+        27.5822039,
+        89.86309469999999
+      ],
+      "desc": "Majestic fortress monastery, pristine architecture, sacred grounds, spiritual atmosphere, scenic walks",
+      "longDesc": "One of Bhutan's most spectacular dzongs set at the confluence of two rivers, families can explore ornate courtyards, sacred chambers, and enjoy peaceful riverside walks nearby.",
+      "gmapsUrl": "https://maps.google.com/?cid=14778863176767507575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 1469,
+      "website": "http://www.punakha.gov.bt/dz/tourism/spu-n-kh-rdzong",
+      "photoRef": "places/ChIJ73ADDDvd4TkRdwxU68ERGc0/photos/AcnlKN31of0Kyn6j7h2jHHfjmYLXyywnTVzsH-oA5LMxwjA3r5RWEKtCu341StRTZVQCtf2RamIQjF62MCzTslC3ROk1svCFwSvrKOIxlyXUlTdrKsPcCMqjApQOeMyOOrLWHUxL6w30Eyn92BiI5Rp8F91dhkxPJVoeVTfW4GD5KDIPfDP8nM_5Gejjce_-wmQillYH7h8EYlkx5yioLtejR1VeWAj7k8CTxuSA4x5cSt5oHHzscES-uPqVz2Bj-Jnv6xx3j3p7GPGTi2B9KYAxFRTcbh_39VVNOUbtGs5Mcvp7-K9qdKPhKjB6gJxbTlgHUfJgF_8tllKJNeSiwcN4pITvS2E4TfIUlhjU6U-6RBwTx1SWR4LvlUzXsWdBR8UuGeG_5wdcYyGlL1TFpG2upOdsnFyLLIDUrfVBh6lxzaKctwg",
+      "photoAttribution": "Namgay",
+      "placeId": "ChIJ73ADDDvd4TkRdwxU68ERGc0",
+      "phone": "2 584 534",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "HVR7+G62, Punakha, Bhutan"
+    },
+    {
+      "name": "Bhutan Textile Museum",
+      "coord": [
+        27.478989199999997,
+        89.6359816
+      ],
+      "desc": "Traditional weaving, textile art, interactive demonstrations, cultural education, women artisans",
+      "longDesc": "A fascinating museum dedicated to Bhutan's textile heritage, where families watch skilled artisans demonstrate traditional weaving techniques and learn about intricate cultural patterns.",
+      "gmapsUrl": "https://maps.google.com/?cid=1219905564949393153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Art & Design",
+        "Photography Worthy"
+      ],
+      "rating": 4.7,
+      "ratingCount": 20,
+      "photoRef": "places/ChIJD4v-Yz2U4TkRAa9U4qX57RA/photos/AcnlKN3FZL7PJ6PT6Zz2nWbvII8ugSVMZfqKs_FO2YgIwzxfzXEeAy-plO_JlyDFJJT9qxVpG89J9i2eouLt8lV_i4AotpIshmwiTbn7BFnUeQXMXmGX99C44NwMwbej15qciiB1obpUH_mfF9fhvnuZ01jlXIIs1zxgPLGvqmcskEFwityPaWwhU9UEqy7ERwY3DruDiULEBbcocm-ZHes8pqLm8R_-zJbwUlAzG7FkgMRiouz10U6ZtzQLIPPwCMB_mqItj4GA4yfVdPOT_ESjHgi8HhOLEDB_fHMkgpWY_TWc7z8ktEQ991VxzIyqnhdRM7fsLjxkVwdXi1L0KCrWybzrXoZld57CV7CweOiHlKduvd8blgEtoUV57JAe8VSw2ToGKVZH3rZgF1ZnGbSxeQkbV-DO5PhGIqEP2z47Sfb0cg",
+      "photoAttribution": "Mark Emery",
+      "placeId": "ChIJD4v-Yz2U4TkRAa9U4qX57RA",
+      "hours": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Royal Textile Academy རྒྱལ་འཛིན་ཐག་རིག་སློབ་སྡེ།, Thimphu 11001, Bhutan"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Royal Takin Preserve Motithang",
+      "coord": [
+        27.481774100000003,
+        89.6114265
+      ],
+      "desc": "National animal sanctuary, takin wildlife viewing, walking trails, educational programs, nature immersion",
+      "longDesc": "A delightful sanctuary where families can observe Bhutan's quirky national animal, the takin, in natural habitat settings, combined with scenic trails through pristine forests.",
+      "gmapsUrl": "https://maps.google.com/?cid=9335607698857418374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Playgrounds"
+      ],
+      "rating": 3.9,
+      "ratingCount": 1434,
+      "photoRef": "places/ChIJW7B8dpeW4TkRhl7MbL29joE/photos/AcnlKN0P9E7Fu9TiRbu1Xkk0CH3H4WTztc4LOKxCGk57vf7Az9WqaYBDuozFL5au0cBgolzYl_P8xarlPxRstjfhwe4MFVyC3ZVohRmv04JpPNbdEkhN1tK1bnQWC4aQEoswYV0PxgmUBkAdWAfBKycrQF5jOjS9wIMSqHc4bvMb7lhd9qPBDxHTDe7Fx_Bz_ubZBtBBxucQKRgANTiUWSTijZgZBpMd0TXSmubHcbIhJoRPFDY-m3L6jhpvSeYY8GfMe5hrxHGw8mNoNtBEbY_zA6AETF5WUWBa8BuHbO6fDIOjIktgFR4KOevMkWphXxoyfaE3WcVxVyoW8BBQBWOBmDkewqgZaIzlzk9aFL1SYkNhoHpnfdDqTbgx-wmlMcwPboZfKyBvtRaa8jRE_LIoUWRmFZrqtd9W--Zl-n2D9EfqMPSr",
+      "photoAttribution": "Pang PK",
+      "placeId": "ChIJW7B8dpeW4TkRhl7MbL29joE",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "FJJ6+PH3, Bhutan"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Centenary Farmers Market",
+      "coord": [
+        27.4756301,
+        89.64126660000001
+      ],
+      "desc": "Vibrant farmers market, local produce, handicrafts, traditional products, authentic experience",
+      "longDesc": "A bustling weekend market perfect for families to experience authentic local culture, sample fresh fruits, browse artisan crafts, and interact with friendly Bhutanese vendors.",
+      "gmapsUrl": "https://maps.google.com/?cid=5143091724542068749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.5,
+      "ratingCount": 518,
+      "photoRef": "places/ChIJlavzrBWU4TkRDciUmKzuX0c/photos/AcnlKN3TZqcKnm-gLN5SouwGXRdwsuHamScEGWa59E5khOiWhRtwqT9to9LBgfnTjpFc7XAkG05ygCVdZuTr4jYWesvPQdhftY3CRwYbecEoRkHCONTfJGtycZzUT2Jws4UcbBbpOjSb32Rs0-i4-ow_AjpzoxfDASIugDZ94FxfLYLSQq9ANs8ExkTk7cpFfhKzGfclxSMTfQKbCPe4gZpVE7qxsrw_WKs9vIO5_3-canszFyxIZxlOBtOn1S0CwBhTlHGDw2O_gRHOJyAAxdXcrjSYSSSe2RYLua3VpeWG9nhASM2AILpKjJK7LL8JmnmHk4T4xoaCEBDVdPUh6UixGVBQfv5VdRkcguTfOLfEwv3ifg6BWT0n-mk6WVgizQuz5dCdRjSJwqzNLh2PXA8nyilwxUrTb-y8cJ2Cm4-_2s5YIBI",
+      "photoAttribution": "tenzin sheyden",
+      "placeId": "ChIJlavzrBWU4TkRDciUmKzuX0c",
+      "hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ],
+      "address": "FJGR+7G2, Thimphu, Bhutan"
+    }
+  ],
   "cityCenters": {
     "Bhutan": [
       27.4182,

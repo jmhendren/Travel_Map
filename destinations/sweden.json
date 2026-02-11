@@ -21,7 +21,9 @@
         "Art & Design",
         "Splurge",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Hidden Gem",
+        "Iconic / Must-See"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=656910427315130008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -51,12 +53,495 @@
         "Romantic",
         "Fine Dining",
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Reservations Recommended"
       ],
       "phone": "0498-60 15 65"
+    },
+    {
+      "name": "Clarion Hotel Sign",
+      "coord": [
+        59.33475759999999,
+        18.053193399999998
+      ],
+      "desc": "Modern luxury hotel, rooftop bar with city views, central location near Norrmalm",
+      "longDesc": "A contemporary luxury hotel perfectly positioned for families exploring Stockholm's vibrant city center, offering modern amenities and easy access to attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=12957560459409452840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Photography Worthy",
+        "Afternoon Wine",
+        "Scenic Views"
+      ],
+      "rating": 4.2,
+      "ratingCount": 5757,
+      "website": "https://www.strawberry.se/hotell/sverige/stockholm/clarion-hotel-sign/?utm_campaign=gmb-listing&utm_medium=organic&utm_source=google",
+      "photoRef": "places/ChIJc7gNTWGdX0YRKG-_8pWA0rM/photos/AcnlKN0GXZy16jSeCm9wyfS1Lm0qN6kC-6eETRnXsrlaiyVOMhcub922qx8h1ORfmPjEeaJpoTqd0oqSo7j21UGN-9l7wnktnK0APXH8awJcNnxAhor_WGLCF7gzQ50e0zv4b2PTR705IoqahP3_PJ9bf3-M1djDa9yKXwdu7lltT0X6DJ6up6i2SstkuaD1OS4Ut1fXga1SMRMSMmHctU5ondWAQ0Vi0mCGjH4V3h_JEdLG_0EJ3oo9r2ncuDl96CVwSbWV5a14wzO9IdLVaV_YbPmLlCdmMK8LO2J5TUshOS6vvw",
+      "photoAttribution": "Clarion Hotel Sign",
+      "placeId": "ChIJc7gNTWGdX0YRKG-_8pWA0rM",
+      "phone": "08-676 98 00",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Östra Järnvägsgatan 35, 111 20 Stockholm, Sweden"
+    },
+    {
+      "name": "Tree Hotel",
+      "coord": [
+        66.072856,
+        20.9818355
+      ],
+      "desc": "Unique treehouses, nature immersion, magical forest experience for adventurous families",
+      "longDesc": "Spend nights in whimsical treehouses nestled in pristine Swedish forests, offering unforgettable bonding moments and enchanting views for the whole family.",
+      "gmapsUrl": "https://maps.google.com/?cid=1669781854444766467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Splurge",
+        "Hidden Gem"
+      ],
+      "rating": 4.6,
+      "ratingCount": 430,
+      "website": "https://treehotel.se/en/",
+      "photoRef": "places/ChIJfUHw4rgE1kURA8WS7r9BLBc/photos/AcnlKN1ICf1RI-MQznI12BRoxNP01N45qvow8kOkw8lRL4pcNOlMM7UoaTQeIDYE5ZLxKPp0LtE-6UAcFICm09VgcdqXXFE30efKHz9IAJrJxVVO2YKgq8d17KcpWmRw0DWRvf7JVfSWViaSUBSw2hsYbRlCEmNrdXmPyGyvxdFIjchnVugrtpK7skrNX3KGgHbPXPUk2X_H5NeFWHtD1uu1P9idHU90eunsQlg8lR_kPO2zqouJWWcNZtMkWh0TJ1ZU9z-4tEGlOcX7sgbADztVS9GXLvZJVRWYt_jsU-z4JFKL-A",
+      "photoAttribution": "Treehotel",
+      "placeId": "ChIJfUHw4rgE1kURA8WS7r9BLBc",
+      "phone": "0928-103 00",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "address": "Edeforsvägen 2A, 961 78 Harads, Sweden"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Vete-Katten Kungsgatan",
+      "coord": [
+        59.334106,
+        18.0583098
+      ],
+      "desc": "Historic Swedish bakery and café, traditional pastries, cozy atmosphere, perfect for fika time",
+      "longDesc": "A beloved Stockholm institution since 1920, serving authentic Swedish baked goods and traditional coffee culture in a charming, welcoming setting ideal for families.",
+      "gmapsUrl": "https://maps.google.com/?cid=18392274513778664167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.4,
+      "ratingCount": 7725,
+      "website": "http://www.vetekatten.se/",
+      "photoRef": "places/ChIJCSWNMWedX0YR52I_TTl8Pv8/photos/AcnlKN1cAbe4HhyLQ9ch0dAXxGKqnHn3L8JJqQ24EI1TN4PRjpR0xSOVRL6t8FPf_CS4WUn8MUKOjnqJ1sRmWcrTVPit5ZWObEZ2S45NHv8nEWZOWfcRieWK-YABj1jxht3H_zKtS_JVf6S5G8mGsFA8aDn7Ar8xemAMqAxM8_qPw4i3gheVk5ZkQwcPsjRru-QdfF2rYLZn8_xdcZQYoZRcqY0lMvHWfbsXSpsM0X_aK6H5Naj6zbxf6BG_5CeU2oL32Z33L-O2YUghNTtbQCeODIgHwaIDWBBbCp94Xcl7jZopuVYtsRLbAos9v8lSZdnf7JljD1760cw1WyqDJrkxFRI_B9ej7UdbFEPlH-w8vc9dggPW2dnuubcB80YHmJHFNn8bU6npKJi1DWGXC93NT1Bl1auSb3cpWkhEGOTb-4pgIA",
+      "photoAttribution": "E P",
+      "placeId": "ChIJCSWNMWedX0YR52I_TTl8Pv8",
+      "phone": "08-20 84 05",
+      "hours": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ],
+      "address": "Kungsgatan 55, 111 22 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Rolfs Kök",
+      "coord": [
+        59.338704299999996,
+        18.057052199999998
+      ],
+      "desc": "Lively family-friendly bistro with Swedish classics and relaxed atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=681765697559934398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "rating": 4.5,
+      "ratingCount": 2902,
+      "website": "http://www.rolfskok.se/",
+      "photoRef": "places/ChIJk3aGEmadX0YRvjUbL0oedgk/photos/AcnlKN27ZMQNILiqwn1mdFyitQXyJW_rtqHIQKSzmGL8-gUe-oOHj_8XXXBfS25sn8F8ScejTRVf9Xru8Ut8hhdE-gtW4LddqUbBj7EYAd9AVOhOuC7c97lNNgbeM_MQpbZIt6-hkzFK2MYecgI62ggzJeVn7NduOnpyF9wO7UgSdjugz5MWNq_AS2zHentg2VSRtyOgAlHvQ71aoBuKh0hUmUBJCd4hF4QwKFfTjqDjrXcvJ9Plrg3SoFQJVUfVvM0UR6Cb_V0LDSfNn-jFjqIw8uBBSX8IminrGQ-voe33TP5vuuEt-421exVIhVqq9o1-nLYmKAXZ8geReqX86h7AwCZCoXQrYpu4QQ1Hmc2h0PQmaq5zpyB7k23VMvqTe1pk4Rufsu9v0TzFSt-_QXepyTrkiz8IdOOwJyqQywj_nou3tg",
+      "photoAttribution": "Tang Jixian",
+      "placeId": "ChIJk3aGEmadX0YRvjUbL0oedgk",
+      "phone": "08-10 16 96",
+      "hours": [
+        "Monday: 11:30 AM – 12:00 AM",
+        "Tuesday: 11:30 AM – 12:00 AM",
+        "Wednesday: 11:30 AM – 12:00 AM",
+        "Thursday: 11:30 AM – 12:00 AM",
+        "Friday: 11:30 AM – 1:00 AM",
+        "Saturday: 5:00 PM – 1:00 AM",
+        "Sunday: 5:00 PM – 12:00 AM"
+      ],
+      "address": "Tegnérgatan 41, 111 61 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Fotografiska DINE & DRINK",
+      "coord": [
+        59.3179642,
+        18.084830699999998
+      ],
+      "desc": "Museum café with waterfront views and child-friendly menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10240332427816465811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 3.7,
+      "ratingCount": 441,
+      "website": "https://stockholm.fotografiska.com/sv/mat-och-dryck",
+      "photoRef": "places/ChIJ1YjSO_J3X0YRk_XpZRb4HI4/photos/AcnlKN1unOe7h6K7xNz47XQJ_tksxPnVUEL-o2jhy1Lr7_Y8jIjuCeCW6QL9c7OJaJ-KM3VUQ2RlrN2SnOuTpFApwtHQoUzTzmeAfd3N6-5VW7hm9bnrmv2DE2sX96ucE4Jt2_N0sh3zmluZJzctIuU3GS9_hJsOjkstiFg69ea710TWo2yIZB0Xt-RfpVgBQRWeaStShSf0ov9fSFt0Ef2FoacmxO-CFD5Xe8524XRmmjNzbmwLdURt76ExDs5LtAEzgM31aasQbzprumglyfhLAQ9h0LIz5ewa30ywHWhzZ-MTOA",
+      "photoAttribution": "Fotografiska MAT & DRYCK",
+      "placeId": "ChIJ1YjSO_J3X0YRk_XpZRb4HI4",
+      "phone": "08-509 005 00",
+      "hours": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "address": "Stadsgårdshamnen 22, 116 45 Stockholm, Sweden"
+    },
+    {
+      "name": "Restaurant Tradition",
+      "coord": [
+        59.325952699999995,
+        18.0738534
+      ],
+      "desc": "Traditional Swedish husmanskost in a cozy setting perfect for families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11854635041538093026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "rating": 4.6,
+      "ratingCount": 3662,
+      "website": "https://www.restaurangtradition.se/",
+      "photoRef": "places/ChIJq6qqqW6dX0YR4q_GAMMfhKQ/photos/AcnlKN0SwcJfPWPg37BlFhuo1TlVu26r1hNCpaFWexOhxwk1RDY1on-TN3Et8AKWnbSSxIwirx0buUCK7qdMTBI5TdlkeK1MV-4YLteHTm-iJ22CAi_L7CFXven6gz9IEdmCW_Tl5R-jm6Nzy3aE0rsttJp0bb1OhBVc3cfoTq4PLc8YEuTLWjf2DvaDpfPeTU1WYUBO_alwAnzuWVgJChxB5ceeWRZ7gKvYJyumkOi8SkngxN1zxacJ92YJciQsUVTcLmnIhFvD9rkQrCP7hYir4IvHaDRSzm9kuhf_GUvUaenySA",
+      "photoAttribution": "Restaurang Tradition",
+      "placeId": "ChIJq6qqqW6dX0YR4q_GAMMfhKQ",
+      "phone": "08-20 35 25",
+      "hours": [
+        "Monday: 11:30 AM – 11:00 PM",
+        "Tuesday: 11:30 AM – 11:00 PM",
+        "Wednesday: 11:30 AM – 11:00 PM",
+        "Thursday: 11:30 AM – 11:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "Österlånggatan 1, 113 53 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Artipelag",
+      "coord": [
+        59.306718,
+        18.3471592
+      ],
+      "desc": "Waterfront café at art museum with family-friendly menu and stunning views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4422623186370378000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3964,
+      "website": "https://artipelag.se/",
+      "photoRef": "places/ChIJtfBNAzeAX0YREDkDH1tQYD0/photos/AcnlKN27UHEAeGQktcAPzwrK76nGyJPeE8QN2WwZnVkWCqbVi3L3Qe2Kx6GsI2PomnitV3eK0Z7wDZbS5ykW_SKbUxGSPndqhACRSPvXVUTxSo8q66gDmkbJMV2oz3Wvf3KL86rP5tXSD2R7ljsTGAAyZ-1Lsge-ERGXA-HqoBIx2hN1WWvKbac8GS0d37-LJ_Z9yMWZkvJIsQVBRAEGpcwG8t_aRNEyfO8FmYZ7GgayS0LPDxgE0rINmJUKME7M38k2wyXYNfV5w8vKMAkIjLyaw8Ju0LTmmvdXSzfHERVcsZUjCw",
+      "photoAttribution": "Artipelag",
+      "placeId": "ChIJtfBNAzeAX0YREDkDH1tQYD0",
+      "phone": "08-570 130 00",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "address": "Artipelagstigen 1, 134 40 Gustavsberg, Sweden"
+    },
+    {
+      "name": "Restaurant Teatergrillen",
+      "coord": [
+        59.3337276,
+        18.076402299999998
+      ],
+      "desc": "Classic Swedish restaurant with elegant atmosphere and children's menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11127378798445098862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "rating": 4.5,
+      "ratingCount": 291,
+      "website": "https://teatergrillen.se/",
+      "photoRef": "places/ChIJuYesfamdX0YRbneI0g9kbJo/photos/AcnlKN1hLJ89fV3cGIJ97cEUIolz0hXUM227lvc8M_GLAxgTH5WKN5DuWnZl6X13oRKQPW2uKptm-T84rjDzk23Zk_2LfyJqr0yQNgz0s7_Xykf2kF2aUtM72ORv3FvemZEvvuTYkQaagVPpWPb8BBFW9a2qj1ekkwWZIJyrfHc4UDpvqJ1-nKtlJpXvI0XpnQNsQNW7T4eIf8oSTxFTOdJt372ClGrFOnCVSCIzjwCz4bRUPgdKMtMHMEU6yhl4-ATOwbNSwi5pMFOzXXXq_Yf3RAaxUByjCTArvA-KC4Hf2LxgVA",
+      "photoAttribution": "Teatergrillen",
+      "placeId": "ChIJuYesfamdX0YRbneI0g9kbJo",
+      "phone": "08-545 035 65",
+      "hours": [
+        "Monday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+        "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+        "Wednesday: 11:30 AM – 3:00 PM, 5:00 PM – 12:00 AM",
+        "Thursday: 11:30 AM – 3:30 PM, 5:00 PM – 12:00 AM",
+        "Friday: 11:30 AM – 3:00 PM, 5:00 PM – 1:00 AM",
+        "Saturday: 5:00 PM – 1:00 AM",
+        "Sunday: Closed"
+      ],
+      "address": "Nybrogatan 3, 114 34 Stockholm, Sweden"
+    },
+    {
+      "name": "Meatballs for the People",
+      "coord": [
+        59.31459669999999,
+        18.0812583
+      ],
+      "desc": "Fun casual spot specializing in Swedish meatballs with kid-friendly atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2061367994226852819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Local Delicacies"
+      ],
+      "rating": 4.2,
+      "ratingCount": 9318,
+      "website": "https://meatball.se/?utm_source=google",
+      "photoRef": "places/ChIJbYc9vPl3X0YR00NA50Rzmxw/photos/AcnlKN3yCXiHvoxVpGu1EyiULHj-fV2c5bqRSZogKAmP3tRKWD-yyL3nzEJUxKNNLSPqGlGtohMvEoVb43HFnwPtTQJTBNH2kF0vhL_wg3_fZtXk1Po-sWFoL4QuiCaLw0v7hCBFuXnPqtE7QIyBh9YQkW1RF6KqTOzwCf44kcWKHAt8uEn8FbE1qoO-sovxiIqxjXt8aZaDV2KbpH9RTik43HPfJ4ZsN90GY4hUdyHnzTrtX5mxrcrV8mqdHv2ME03vEhc4CBAcImwxENpH_0-aTxyeP1b85Muw7-IDnUGDx6LDsQ",
+      "photoAttribution": "Meatballs for the People",
+      "placeId": "ChIJbYc9vPl3X0YR00NA50Rzmxw",
+      "phone": "08-466 60 99",
+      "hours": [
+        "Monday: 11:00 AM – 10:30 PM",
+        "Tuesday: 11:00 AM – 10:30 PM",
+        "Wednesday: 11:00 AM – 10:30 PM",
+        "Thursday: 11:00 AM – 10:30 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:30 PM"
+      ],
+      "address": "Nytorgsgatan 30, 116 40 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Sturehof",
+      "coord": [
+        59.335857499999996,
+        18.0732991
+      ],
+      "desc": "Classic Stockholm brasserie with seafood specialties and family-friendly service",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3014023531843165908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "rating": 4.3,
+      "ratingCount": 3242,
+      "website": "http://www.sturehof.com/",
+      "photoRef": "places/ChIJjRRMnFydX0YR1B4u6G720yk/photos/AcnlKN1l3O37Zp15_0L8ULm4sJwpPSuIbob8c0evxm2DdGAVamlHpbIdQ_HQCVdRUTAXPLWHPY8SkABAZxq30k_ZG7h7j9XnmpkoQq-sjgTcTdMcyHdjsZJHrtui531IunonMgVaYUU7K1nk9Sf0TVvXSFARn1KczMh8Km-ww4kwGAfE967MUFNF2bMP5ao_QYiyafRQAJNZ3GBd5IjOo0HYDRYPyKoyz8447KQ5Q5f3YJRK4PnIQF94fQs0fYY9m9D3_8ZKnomklZ7skHzES5tiwy9nAwQaxMIkfV4joeMisxunFQ",
+      "photoAttribution": "Sturehof",
+      "placeId": "ChIJjRRMnFydX0YR1B4u6G720yk",
+      "phone": "08-440 57 30",
+      "hours": [
+        "Monday: 11:30 AM – 2:00 AM",
+        "Tuesday: 11:30 AM – 2:00 AM",
+        "Wednesday: 11:30 AM – 2:00 AM",
+        "Thursday: 11:30 AM – 2:00 AM",
+        "Friday: 11:30 AM – 2:00 AM",
+        "Saturday: 11:30 AM – 2:00 AM",
+        "Sunday: 12:00 PM – 2:00 AM"
+      ],
+      "address": "Stureplan 2, 114 35 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Rosendals Trädgårdskafé",
+      "coord": [
+        59.327551799999995,
+        18.1152516
+      ],
+      "desc": "Garden café with organic pastries in beautiful greenhouse setting",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10842525295114693597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Breakfast Spot",
+        "Sweet Treats",
+        "Photography Worthy"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1214,
+      "website": "https://www.rosendalstradgard.se/",
+      "photoRef": "places/ChIJfwHxEK-CX0YR3at_S09jeJY/photos/AcnlKN247Lahqe08Bt61kPSlSk4LJW2h5Tij_nW9CUcvWMzY_GAgbAD-Ii4y5bI953NKUngZhTRDVyzOa77CCQ9yV9E8ILKQws9MonqWQPGs6BuTD8-wAm6mjqKpvDiTMugjlYOaoiZ01Qn98X2ueJY7k8SLIeIlMI4Kn-wtkvwttkaVErxUk5F17NxcS1lxKV8X8fxE-mdHTo0tr1vAARExKBF3k1vtE8oCnfle-1EzpWUGT9WVf4da9T1QGQt8w9rJUsMidTmfQc5NEOJHKD4yfX2fkgjRiLnboBaZL3D04TVjIgsjF2sK4E3J3dXOJD2WrKHDlONuPYCotz6PxpMtgsQDLPbd1ZvUGo7NJnbXB3Vax6KX4tyF3P2Y9-D4Ygsqpdu1Q5s4_jr-6xvQn7ifoiTooVy__GghqpPslX02g4-UWhzURaqfcBPm7Jj9RqiW",
+      "photoAttribution": "Stephen Spencer",
+      "placeId": "ChIJfwHxEK-CX0YR3at_S09jeJY",
+      "hours": [
+        "Monday: 11:00 AM – 4:00 PM",
+        "Tuesday: 11:00 AM – 4:00 PM",
+        "Wednesday: 11:00 AM – 4:00 PM",
+        "Thursday: 11:00 AM – 4:00 PM",
+        "Friday: 11:00 AM – 4:00 PM",
+        "Saturday: 11:00 AM – 4:00 PM",
+        "Sunday: 11:00 AM – 4:00 PM"
+      ],
+      "address": "Rosendalsterrassen 12, 115 21 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Lisa Elmqvist",
+      "coord": [
+        59.3359354,
+        18.077741
+      ],
+      "desc": "Classic seafood spot inside Östermalms Food Hall serving Swedish fish dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11807220016614116846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies",
+        "Market / Street Food"
+      ],
+      "rating": 4.5,
+      "ratingCount": 2305,
+      "website": "http://www.lisaelmqvist.se/",
+      "photoRef": "places/ChIJOWEJJFudX0YR7o0qOwys26M/photos/AcnlKN2X5DgloksiRL7lhbfWB_0TXjCkstqe1CWv2uJ8_S-IXIDg-YIp46-El13o6Ttxhfa1FHOJJT8e7SKFzNjhhWVP0r3uh2pNJJxKvxfJ8OIAX9EtX4t8gOW_Yq24OSKyXxWrOMfiY57F1XQf7YVyMyZ1_AgwXxWQIT19ngE3V1dA1PLhNfQplNufbn5jfKtUsYZX9wFeGET-5cAtTcnhPOhUUM8TabvsFEpz20qs-fUDKMCtGLHmmbwd4KjP7Spd82wT50YbVOT4f77tE6emtBt0M4CL4AFoYWLqC0B0LhRI8w",
+      "photoAttribution": "Lisa Elmqvist",
+      "placeId": "ChIJOWEJJFudX0YR7o0qOwys26M",
+      "phone": "08-553 404 00",
+      "hours": [
+        "Monday: 9:30 AM – 7:00 PM",
+        "Tuesday: 9:30 AM – 10:00 PM",
+        "Wednesday: 9:30 AM – 10:00 PM",
+        "Thursday: 9:30 AM – 10:00 PM",
+        "Friday: 9:30 AM – 11:00 PM",
+        "Saturday: 9:30 AM – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Östermalms Food Hall, Nybrogatan 31, 114 46 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Restaurang Slipen",
+      "coord": [
+        59.3223377,
+        18.1017094
+      ],
+      "desc": "Waterfront bistro on Djurgården with Nordic cuisine and relaxed family vibe",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2457834262057201723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1129,
+      "website": "https://slipen.se/",
+      "photoRef": "places/ChIJBz7hJkFCX0YROzC0Oj37GyI/photos/AcnlKN0hVALw9Vhgk1J9hMkHexfRN_7ecVQG6NQw-_cALJXNPxlewdWO42gNoYJ7yGhVMrDGXXsDvSWD_XawhDO8gfOhH4C0p2Z9xTYel8iED9kjhnGwa0ErLiQMcWPTXwsTLEW-AgiAhwu2ArGRFEiawyUOxeuPC0d0LMX6mvAQ4Jh2LzmlJiMqXTR9mo51TxwOBA8vF8UShBxtVcLn-WKeud1yWbRSNJ8blFmyp4Akybpi-fkrF63rNujmM-eyvGHwIzuKSpJlNyM67iAzxRAERl-TzEO0zaWuKWmqsLMjjWX67-FocSkQkAC82EOi2v6jTTSjKkCK4L_qZDSE2fjaZpgPKwVcbB5gH7uq8P-Qn6KeC124QdV0dbH7-TPTdQ-yo9paLDMT0Y2HuQ6dNE5JcptxgycA7WwN4atUaD0-Z9scHL9P",
+      "photoAttribution": "Viktor Markunger Lidman",
+      "placeId": "ChIJBz7hJkFCX0YROzC0Oj37GyI",
+      "phone": "08-551 531 05",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Beckholmsvägen 26, 115 21 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Hermans",
+      "coord": [
+        59.3175886,
+        18.0839872
+      ],
+      "desc": "Vegetarian buffet with panoramic city views perfect for a final Stockholm meal",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14850721383693587122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 5207,
+      "website": "https://hermans.se/",
+      "photoRef": "places/ChIJhcH3Ofl3X0YRspJafWpcGM4/photos/AcnlKN3gCzRCyygNVzmedFLLFfSLecH2x69K1uuB3b_CWab8oGve13MU9VU56SdPVel1RATNdbDCXMo6052YPgIDggUTB2WztS0A2jgxvX6x-yDL_0XrXCB24U2bcIesAjvT8S8qErA95l1Ip4nXBc-aABpnrBRvQK8EC83or7OuECszJHHtmSCqPyhIdmpZUJfLlCKRqWLt7PDj5wX3W_OAodieVbJePSIuS8SmMpPQWN4CLuYLmkR9eI2UTCcRNCNMI7bvhOs4iYKzN3eALjnZsaFq2RHApxXWnp1Ok2yZUdsx0A",
+      "photoAttribution": "Hermans",
+      "placeId": "ChIJhcH3Ofl3X0YRspJafWpcGM4",
+      "phone": "08-643 94 80",
+      "hours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "address": "Fjällgatan 23B, 116 28 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Stockholm to Narvik Night Train",
@@ -69,7 +554,8 @@
       "tags": [
         "Photography Worthy",
         "Romantic",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Full-Day Activity"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=10936239468968065597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.2,
@@ -143,7 +629,8 @@
         "Family Friendly",
         "Photography Worthy",
         "Cultural & Historical",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Hidden Gem"
       ]
     },
     {
@@ -187,7 +674,8 @@
         "Adventure & Active",
         "Outdoor & Nature",
         "Wellness & Spa",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Full-Day Activity"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -220,12 +708,309 @@
         "Adventure & Active",
         "Outdoor & Nature",
         "Photography Worthy",
-        "Family Friendly"
+        "Family Friendly",
+        "Full-Day Activity"
       ]
+    },
+    {
+      "name": "Fotografiska Museum Stockholm",
+      "coord": [
+        59.31796189999999,
+        18.0848268
+      ],
+      "desc": "World-class photography museum, rotating exhibitions, interactive displays, waterfront location",
+      "longDesc": "A stunning photography museum housed in a beautiful waterfront building, featuring captivating exhibitions and engaging spaces that inspire visitors of all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=13854760301745728164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Art & Design",
+        "Photography Worthy",
+        "Rainy Day",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 19347,
+      "website": "https://stockholm.fotografiska.com/",
+      "photoRef": "places/ChIJhaN0M_l3X0YRpOq8uRb_RcA/photos/AcnlKN22jKrpQqhL-2WSNqYZnBc8JU4tNi1C-C5GJ1qcMbd9YVMv3fy6qgK8WvjaXf0OswfeFG9Co_SRQxrCDFiXz3YkrR62u9R8sY6cAX0T6rmIuLtKVrpYoi6drChp4teWKWZueo14H85Llt6c7aAeuhR9tIZILX-5wxkWkCgdu_xmRPqV3QSMo4-yilfdeVLTSCqIwrcpa9DPr7OMlbh5ttx0GLaKXJLrzZB90DOP657TGT0awlEx85QpW0hTkCGZ2XHg_9MA05P4XUGgCx6L1l62z4H3u5qN0pOZDPREru_CvEO9YLBWVFmg3ds4Y5Do_rd1hwBrfIzReW8hN5XraOm473sARVSsaYjxql3GCCQF_m3bJckTpxt0Wz5zuZBGmveQPeUax4ymkKDvQi-3sk3w9Krovt9e4aUj2gW0xoQ9UAQPLjdio3JS28kmSYSR",
+      "photoAttribution": "Hridoy Khan",
+      "placeId": "ChIJhaN0M_l3X0YRpOq8uRb_RcA",
+      "phone": "08-509 005 00",
+      "hours": [
+        "Monday: 10:00 AM – 11:00 PM",
+        "Tuesday: 10:00 AM – 11:00 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 11:00 PM"
+      ],
+      "address": "Stadsgårdshamnen 22, 116 45 Stockholm, Sweden"
+    },
+    {
+      "name": "Kolmården Safari (Safari gondola)",
+      "coord": [
+        58.6628279,
+        16.448032599999998
+      ],
+      "desc": "Safari experience at Kolmården Wildlife Park with guided vehicle tours",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16495019223649568784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Full-Day Activity",
+        "Photography Worthy"
+      ],
+      "rating": 4.7,
+      "ratingCount": 430,
+      "website": "https://www.kolmarden.com/parken/safaribanan",
+      "photoRef": "places/ChIJwbiPC-8uWUYREEjf7JYU6uQ/photos/AcnlKN1cmXaQYigbp7V_RL7mwZaVmzC_aPx8eg65Uwhcohz55ijIWMFyUQFgq_Ie0IxYIvEiHR2XHu6PiUPt1OrpG87stYpx_jfRbQMVctG5W8x219iGe6WePXYjpozUMlpaxE42-XMLLdic2_YJtoLipGZrQ-bMhQL2qDwF9RRT2v3G9uQOFmF-crdkbgdRfB4tVZOInbFIRKClYGvbyHonMW_dnx9H1Buj4-BldMHjEz4kOVIYHBYh6NuvW6g_2Tnkxxkv-J6nNH_YOxYXFLlbBkA9O6VYoBItXLH-ODZMNYB_QvZFwtlWpEG_3XAH8EvDnioi7wkomAWh1MfSGfHM15vFkUlqcbLBp67xHZoa967jK6a-3Z5CtZM7zYIe16uC4qCTXw1KTj1JsHYUErcQMdNC1oFSdiLKCTXU0W7_FAQiqg",
+      "photoAttribution": "Bashar Qazaz",
+      "placeId": "ChIJwbiPC-8uWUYREEjf7JYU6uQ",
+      "phone": "010-708 70 00",
+      "address": "Ö, 618 92 Kolmården, Sweden"
+    },
+    {
+      "name": "Storforsens nature reserve",
+      "coord": [
+        65.8516667,
+        20.401944399999998
+      ],
+      "desc": "Nature reserve with hiking trails and Europe's largest unregulated rapids",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16519292717810320105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Half-Day Trip",
+        "Photography Worthy"
+      ],
+      "rating": 4.8,
+      "ratingCount": 4243,
+      "website": "http://www.lansstyrelsen.se/norrbotten/Sv/djur-och-natur/skyddad-natur/naturreservat/alvsbyn/Pages/storforsen.aspx",
+      "photoRef": "places/ChIJGWss1SCjeEYR6QLIMTRRQOU/photos/AcnlKN3ZCGJIVzDLvxNZfwPUlt76DdT7JUiQ3ZeyrlstXRrOjB3vAP2bm-uHkWMVS2Buf2tnMUTuRwpoNw6Mcl3KgzsjP9F7KBe8qzJHtCCqx9gvNgJrcj02x0LcYsLtyfIsu7ki7lIjAwRd_Dq6r65cphY5BVyF42IhNxa5_DDIWJABCHrouuSFdo6HJGip6dB45LhlVLk878m0sM9aoRKIjIX9I_YHfkGC0zVC1GbIa7XxVon-4q_30Zd00IFTXoUeEDM8_sgjuZGE_DNZVwRAuGJHNkS1x7oKW6HNA54zFfQQ_sdabtb7WytEFR_tEyx61XBQl0mYMjlCqNnBBueR77gXRVkWa-oBKtFOP8o45HmdWfAzXjXBF7ERshz4frCFYBZ0WGLWvxuWx4Ny7hdOVGLUDUTGTDsw8M7_St2v0xHiRCQ_2_Yb-_Xz-RkSzjTN",
+      "photoAttribution": "Andrea",
+      "placeId": "ChIJGWss1SCjeEYR6QLIMTRRQOU",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "942 95 Vidsel, Sweden"
+    },
+    {
+      "name": "Camp Ripan",
+      "coord": [
+        67.8606935,
+        20.240475099999998
+      ],
+      "desc": "Restaurant serving Swedish and Sami cuisine in Lapland",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10180368718510647181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Cultural & Historical"
+      ],
+      "rating": 4.2,
+      "ratingCount": 2778,
+      "website": "http://ripan.se/",
+      "photoRef": "places/ChIJUfnJ83q60EURjWdTXWnvR40/photos/AcnlKN23tgH-UqNDqRE-X-OOFGREwqe6cPNNR2TFjLkMZTTofitEfbSQF7rY0UB46U67RLV_PpuE6OYru-UAeEzol_xXaIoXtnU0ZjipC9HYhJQUUW6IiEksSDXDESS9ovSMo8OXVG1M5Fxmw9in-IcQk_eDdq0f72KKY_Ojbb0Dl3mR9-Egpr9lRnFRQr8AMHlO1T73twAk9rqXaUtrcBHyN6MXoKfjDrxSs1c6ZzVO0tV1W413l8MNyWHuXQajtIvZJPgI0uRM61yitZaaD78JB9b0tA6Vmum_w_4896fRaGgOkQ",
+      "photoAttribution": "Camp Ripan",
+      "placeId": "ChIJUfnJ83q60EURjWdTXWnvR40",
+      "phone": "0980-630 00",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "Campingvägen 5, 981 35 Kiruna, Sweden"
+    },
+    {
+      "name": "Scandinavian Photoadventures",
+      "coord": [
+        67.8513565,
+        20.247473900000003
+      ],
+      "desc": "Family-friendly introduction to Sami culture and reindeer herding",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10292440843464921144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "rating": 4.8,
+      "ratingCount": 50,
+      "website": "http://www.scandinavianphotoadventures.com/",
+      "photoRef": "places/ChIJB5LCEna60EURONByWmoY1o4/photos/AcnlKN2MXTXeqmrvJgsH-H4Ldrd_rzW6XRQQmuJT0RkKISL3wlwZOIDvUMQJ4Z_8qVcZVb9wBtjTlwN3yy8D7tYLm6hSK_G6TGiW_N_R-uHN4dz5ZKF5vRTo10RcJ1ptQfWH4xopyaEbQ9PaRs49-ARyJS5Yeg8RStzwTBkcagW_thcTycdit24sKMnSAPCpBGGQFJqOdyM8kXpSoO7Jp8cihWisSo1Q2QYG1jldhI6rBJGXr4mQ9oEatNj-lfq15trB0fqDI-vyAFHqgMFtjwoj28Me8XD_x-_Kus4kocVLBAV8IQ",
+      "photoAttribution": "Scandinavian Sami Photoadventures",
+      "placeId": "ChIJB5LCEna60EURONByWmoY1o4",
+      "phone": "070-639 05 45",
+      "hours": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: 8:00 AM – 12:00 PM"
+      ],
+      "address": "only office, Tvärgatan 4A, 981 37 Kiruna, Sweden"
+    },
+    {
+      "name": "Nikkaluokta fjällstation",
+      "coord": [
+        67.8509035,
+        19.015080299999997
+      ],
+      "desc": "Mountain lodge restaurant serving traditional Swedish mountain fare",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12141238531228399429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 14,
+      "photoRef": "places/ChIJS_anUAAd2kURRXcn-x1Yfqg/photos/AcnlKN098RBomJ148MtKDBGrXkBb0bYvSW-QIIyh_jRjL7sDxdrbCGC-SqW6FiFsawwOgg7-yZXADN6G6vbjO28NUX3gwiYHHmrIIR_Xs8mpRM9o4k8d7NQL7jQdLrZjTUz6NCn_x6XyrOH7Lmo4KjOWmke89kkPc5M51Ld3aPpeFj6tyNvk44cbZToaWV8PczVMD4-kftLyD1m0WwSizOnYMHOU6HEWMpQAWoySk8t6YXqukbmup4bP66cbq7vh0Hn3z1mqe8_vUgv75j4VGHpC2BU_WBsAAT58ZvVB2WB6i1XzDq7hVI6zX9zQbWIbUeN284QkgHLbq3TMefjGDjheTf-v8pEaDsbVeTevgokMyOAxj5DoJP2MiewHHJaWmX2Q5CyJrLF3njLQA35qUZBhxj3XbDXgjn613t5LBQRnKhwT48_Befe5obg6P5WJ4jvH",
+      "photoAttribution": "Jean-Pierre Seitz",
+      "placeId": "ChIJS_anUAAd2kURRXcn-x1Yfqg",
+      "address": "981 99 Nikkaluokta, Sweden"
+    },
+    {
+      "name": "Arctic Bath",
+      "coord": [
+        66.0886927,
+        20.9381611
+      ],
+      "desc": "Scenic river valley near Harads featuring pristine Nordic wilderness, forest trails, and opportunities to experience the natural beauty of Swedish Lapland",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8876658739539816895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Romantic",
+        "Half-Day Trip"
+      ],
+      "rating": 4.8,
+      "ratingCount": 161,
+      "website": "http://www.arcticbath.se/",
+      "photoRef": "places/ChIJgVNjIzob1kURvzGj0hc6MHs/photos/AcnlKN2r6kViTVfpvo0ZVJbWRb9rUKAXp-v2pki7CkIHMPcz5I4BLhgyVzVdJaz6zXA02wpjQrWUYiW6L-1GZCt0YGQldGVATBcg0Gso076ccjWWU6Gbx3QWXtg5g6TQ3te_qDnKfsk2tctvHfc44noGoj9sxS_2yJe1kARp-u9qKLzhVEviDRcJORD9Rx05AbTjSXdrCgHUYv1kHslCS2lLt7t3jRsV9tb8O0UDFts9F9voSYlBWI5kN7TtzFYpbM2FjcjxAIwpzJuHnRE1QktKr_Jw40t6idI6zWJB2Cz14FjpnDU88oU06uA7LBS-vvUvLiWLCGWrhZeWYbtJ9jsTotXrPcYV2q-2k8df-ugWgWdDwh6ROy_7KMZ5_Ve8tG6gJuojX_MD1_2WRE7SPkaMyLoOsgcxTytCi7DebDm88ghbkdo",
+      "photoAttribution": "Åsa Nilsson",
+      "placeId": "ChIJgVNjIzob1kURvzGj0hc6MHs",
+      "phone": "0928-70 30 40",
+      "address": "Ramdalsvägen 10, 961 78 Harads, Sweden"
+    },
+    {
+      "name": "Granit",
+      "coord": [
+        59.316677299999995,
+        18.072184999999998
+      ],
+      "desc": "Swedish design and homeware store for quality souvenirs",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5197170684595048854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Hidden Gem",
+        "Budget Friendly"
+      ],
+      "rating": 4.1,
+      "ratingCount": 91,
+      "website": "https://www.granit.com/se/",
+      "photoRef": "places/ChIJzTdi5_p3X0YRlpFcrDMPIEg/photos/AcnlKN1fCMe96NhVgBPdoW-1VOzaJEQoxlOtwtQiEvfWS5r7W93ovbWo_nDX4ErZ7lIxY_3rfYnKrK9v-7QZ8HdkPgVyjJ4w_aMAFGp-2qyxozx1m40PW05C56Em1AK8kUQ3G70hzCcEMrCl7azfJ1SxjOxSFDXK1BjsXr_U3OEpFvmoz1qrOab0T2K-g4fJr58Ryod65zKuDTgfVcCQj3RPuuZOBGYaL8EY6H4kYYX9_UiXBwP4GaIPTdnuIh9MABiyr2zEcXapCu0tpBZ1AaEHQeRl_blLP9nB6h1964epwdsEQ6VLpr2_63FehPlGZjqhjnPILOmDE_Pxyirb1l5tx1HTW3I_CUdHV6vCntCf7NSofyffnryWLm43HPB8HE3u9JRnuPWMexz8_1uiFHh8eLNTaVHZV0SsCfx5m6zKtw0WaxEm",
+      "photoAttribution": "Mervi Wennerstrand",
+      "placeId": "ChIJzTdi5_p3X0YRlpFcrDMPIEg",
+      "phone": "070-270 53 81",
+      "hours": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "address": "Götgatan 31, 116 21 Stockholm, Sweden"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Kolmården Zoo",
+      "coord": [
+        58.66520870000001,
+        16.4655797
+      ],
+      "desc": "Exotic animal park, safari rides, interactive encounters, thrilling zip-line adventures",
+      "longDesc": "An exhilarating wildlife park where families can experience exotic animals up close, enjoy thrilling activities, and create lasting memories together in a natural setting.",
+      "gmapsUrl": "https://maps.google.com/?cid=7178699568560039957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Full-Day Activity"
+      ],
+      "rating": 4.5,
+      "ratingCount": 17397,
+      "website": "http://www.kolmarden.com/",
+      "photoRef": "places/ChIJ6R9b68EuWUYRFWhFJTndn2M/photos/AcnlKN3I1Y-H-JizpM3Lccx94geFk1Z-B-6kvNspbXQVOIsse1zNqT3LxIeGFAy3pa20SWnfNIRsNQSswkc9Vd3PEhRBa-_FCBO2IC7EUndKMHxmC5LX5skMmtP2pQytPfOBpULhS1GO6KCNV4FaZR3wDi2bZ_g5JL4PUYorWLDsNjdGWBSENeaDevL07Q39ayhiaTaeoU0dlqrWJhZmyNKVF83VaGyI08RwXi8VPQ4Jt_1kXJs5UbbnjPdSGNzG8Kd23x90ourPT54rs4MHA6Jp2LAbctVaMhNVpW3DH55cCP7qfKAlREpbVkf3qRDW3wLBTTg_akCpiZIch-Ywux_dNGZpC8-HTbXnniHbWOyuSloko6n42CPgCiVn7vJTGw6uKkW10rhdQoIp8yVLXu-kjCui8bGOUtlV8lGcrpFpsUcNEQ",
+      "photoAttribution": "Kumar Suman",
+      "placeId": "ChIJ6R9b68EuWUYRFWhFJTndn2M",
+      "phone": "010-708 70 00",
+      "address": "Kolmårdens Djurpark, 618 92 Kolmården, Sweden"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Östermalms Food Hall",
+      "coord": [
+        59.3360006,
+        18.0780049
+      ],
+      "desc": "Historic covered market, Swedish delicacies, fresh produce, artisan foods, local vendors",
+      "longDesc": "Stockholm's iconic market hall since 1888, brimming with Swedish flavors, local specialties, and culinary treasures that offer families an authentic taste of Sweden.",
+      "gmapsUrl": "https://maps.google.com/?cid=4429376144587109722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 5994,
+      "website": "https://www.ostermalmshallen.se/",
+      "photoRef": "places/ChIJOWEJJFudX0YRWjW0uiJOeD0/photos/AcnlKN2WtOFGXBGuCeJ1Lz0FPYA_R7R9pC-89AjD_p4wW5WDX0bA_v1d7szOJ1CX78Ale6jbbfW8Rn-baYup2VFpk9UU281tU2HVy3xvsx8MBoqkzQaNjcsjByoHyQyvjtbK5l_230fsRoXsu0TKgOpmomrNkiHW3HvNRz7roE6Jd_9TuAofst2RKGThKj2kVKU3Vy_JWDJAo5WC54E7vat7x2lZb2CPnfjeRW4rchv-g6dBBj4mpf_IXJ3QlQuhoYx-4ZL7a9VChU6y5gyvBZ8Y6Uebr0NwSFO9zPHcAbo-jBymtD6BsHFEfflfW3jK7fDymuwvUhT4DAi1zZn4uiek7W746fnXMr88j60b3t6dMi-xBtR4WRMmKeggYGD2HJXef-R75FPewWNBx_THsQh2ISvJnXJrEexQV0GrdLQIVXHa8BcH",
+      "photoAttribution": "Henrik Örtengren",
+      "placeId": "ChIJOWEJJFudX0YRWjW0uiJOeD0",
+      "hours": [
+        "Monday: 9:30 AM – 7:00 PM",
+        "Tuesday: 9:30 AM – 7:00 PM",
+        "Wednesday: 9:30 AM – 7:00 PM",
+        "Thursday: 9:30 AM – 7:00 PM",
+        "Friday: 9:30 AM – 7:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Östermalmsgatan, 114 39 Stockholm, Sweden",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    }
+  ],
   "cityCenters": {
     "Stockholm": [
       59.3362,
@@ -243,5 +1028,512 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Swedish Family Adventure: Stockholm, Archipelago & Arctic Treehouses (10 Days)",
+      "description": "From Stockholm's cobblestoned streets and island-hopping adventures to sleeping in magical treehouses under the northern lights—a Swedish journey designed for wonder at every age.",
+      "familyFriendly": true,
+      "duration": 10,
+      "bases": [
+        "Stockholm",
+        "Harads"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Stockholm",
+          "dayType": "urban",
+          "base": "Stockholm",
+          "items": [
+            {
+              "name": "Clarion Hotel Sign",
+              "type": "hotel",
+              "coord": [
+                59.33475759999999,
+                18.053193399999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Vete-Katten Kungsgatan",
+              "type": "coffee",
+              "coord": [
+                59.334106,
+                18.0583098
+              ]
+            },
+            {
+              "name": "Gentle stroll through Norrmalm",
+              "type": "freeTime"
+            },
+            {
+              "name": "Östermalms Food Hall",
+              "type": "lunch",
+              "coord": [
+                59.3360006,
+                18.0780049
+              ]
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Rolfs Kök",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lively family-friendly bistro with Swedish classics and relaxed atmosphere",
+              "suggestedCity": "Stockholm"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Stockholm Culture & Play",
+          "dayType": "urban",
+          "base": "Stockholm",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Vete-Katten Kungsgatan",
+              "type": "coffee",
+              "coord": [
+                59.334106,
+                18.0583098
+              ]
+            },
+            {
+              "name": "Fotografiska Museum Stockholm",
+              "type": "sightseeing",
+              "coord": [
+                59.31796189999999,
+                18.0848268
+              ]
+            },
+            {
+              "name": "Fotografiska Museum café",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Museum café with waterfront views and child-friendly menu",
+              "suggestedCity": "Stockholm"
+            },
+            {
+              "name": "Afternoon exploring Gamla Stan old town",
+              "type": "freeTime"
+            },
+            {
+              "name": "Tradition",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Swedish husmanskost in a cozy setting perfect for families",
+              "suggestedCity": "Stockholm"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Archipelago Adventure",
+          "dayType": "suburban",
+          "base": "Stockholm",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning ferry to the archipelago",
+              "type": "info"
+            },
+            {
+              "name": "Swedish Archipelago",
+              "type": "sightseeing",
+              "coord": [
+                59.2639484,
+                18.442740399999998
+              ]
+            },
+            {
+              "name": "Artipelag museum café",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront café at art museum with family-friendly menu and stunning views",
+              "suggestedCity": "Gustavsberg"
+            },
+            {
+              "name": "Artholmen Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Popular beach in Stockholm archipelago on Artholmen island with swimming and sun bathing",
+              "suggestedCity": "Stockholm"
+            },
+            {
+              "name": "Ferry return to Stockholm",
+              "type": "info"
+            },
+            {
+              "name": "Teatergrillen",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Classic Swedish restaurant with elegant atmosphere and children's menu",
+              "suggestedCity": "Stockholm"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Wild Animals & Nature",
+          "dayType": "rural",
+          "base": "Stockholm",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Kolmården (1.5 hours southwest)",
+              "type": "info"
+            },
+            {
+              "name": "Kolmården Zoo",
+              "type": "sightseeing",
+              "coord": [
+                58.66520870000001,
+                16.4655797
+              ]
+            },
+            {
+              "name": "Kolmården Zoo restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family restaurant inside the zoo with Swedish comfort food",
+              "suggestedCity": "Kolmården"
+            },
+            {
+              "name": "Kolmården Safari",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "safari",
+              "suggestedDesc": "Safari experience at Kolmården Wildlife Park with guided vehicle tours",
+              "suggestedCity": "Kolmården"
+            },
+            {
+              "name": "Drive back to Stockholm",
+              "type": "info"
+            },
+            {
+              "name": "Meatballs för Folket",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fun casual spot specializing in Swedish meatballs with kid-friendly atmosphere",
+              "suggestedCity": "Stockholm"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Travel to Swedish Lapland",
+          "dayType": "rural",
+          "base": "Harads",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning flight Stockholm to Luleå (1 hour 15 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Luleå",
+              "type": "sightseeing",
+              "coord": [
+                65.584819,
+                22.1567026
+              ]
+            },
+            {
+              "name": "Cook's Krog",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Cozy restaurant in Luleå with northern Swedish specialties",
+              "suggestedCity": "Luleå"
+            },
+            {
+              "name": "Drive to Harads (1 hour north)",
+              "type": "info"
+            },
+            {
+              "name": "Tree Hotel",
+              "type": "hotel",
+              "coord": [
+                66.072856,
+                20.9818355
+              ]
+            },
+            {
+              "name": "Settle into treehouse and forest exploration",
+              "type": "freeTime"
+            },
+            {
+              "name": "Tree Hotel restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Hotel restaurant featuring local Lapland ingredients and Nordic cuisine",
+              "suggestedCity": "Harads"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Forest Adventures & Northern Magic",
+          "dayType": "rural",
+          "base": "Harads",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Storforsen Nature Reserve",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "nature",
+              "suggestedDesc": "Nature reserve with hiking trails and Europe's largest unregulated rapids",
+              "suggestedCity": "Norsjö"
+            },
+            {
+              "name": "Restaurang Ripan",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Restaurant serving Swedish and Sami cuisine in Lapland",
+              "suggestedCity": "Kiruna"
+            },
+            {
+              "name": "Afternoon rest at treehouse",
+              "type": "nap"
+            },
+            {
+              "name": "Lule River Valley",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "natural attraction",
+              "suggestedDesc": "Scenic river valley near Harads featuring pristine Nordic wilderness, forest trails, and opportunities to experience the natural beauty of Swedish Lapland",
+              "suggestedCity": "Harads"
+            },
+            {
+              "name": "Britta's Pensionat",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Lapland guesthouse with home-cooked northern Swedish fare",
+              "suggestedCity": "Harads"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Sauna & Arctic Wilderness",
+          "dayType": "rural",
+          "base": "Harads",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning visit to nearby Sami village experience",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Family-friendly introduction to Sami culture and reindeer herding",
+              "suggestedCity": "Harads"
+            },
+            {
+              "name": "Camp Ripan Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Restaurant at Camp Ripan serving local northern Swedish dishes",
+              "suggestedCity": "Kiruna"
+            },
+            {
+              "name": "Arctic Retreat Sauna",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "sauna",
+              "suggestedDesc": "Traditional Swedish floating sauna experience on the Lule River",
+              "suggestedCity": "Harads"
+            },
+            {
+              "name": "Evening aurora hunting with kids",
+              "type": "optional"
+            },
+            {
+              "name": "Nikkaloukta Fjällstation",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Mountain lodge restaurant serving traditional Swedish mountain fare",
+              "suggestedCity": "Kiruna"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Return to Stockholm",
+          "dayType": "urban",
+          "base": "Stockholm",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Luleå (1 hour)",
+              "type": "info"
+            },
+            {
+              "name": "Luleå lunch stop",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Airport-area café with sandwiches and Swedish pastries",
+              "suggestedCity": "Luleå"
+            },
+            {
+              "name": "Flight Luleå to Stockholm (1 hour 15 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Ett Hem",
+              "type": "hotel",
+              "coord": [
+                59.345602799999995,
+                18.0677011
+              ]
+            },
+            {
+              "name": "Settle into boutique hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sturehof",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Classic Stockholm brasserie with seafood specialties and family-friendly service",
+              "suggestedCity": "Stockholm"
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Stockholm Markets & Fika",
+          "dayType": "urban",
+          "base": "Stockholm",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at Djurgården island",
+              "type": "freeTime"
+            },
+            {
+              "name": "Rosendals Trädgård café",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Garden café with organic pastries in beautiful greenhouse setting",
+              "suggestedCity": "Stockholm"
+            },
+            {
+              "name": "Stockholm",
+              "type": "sightseeing",
+              "coord": [
+                59.3293,
+                18.0686
+              ]
+            },
+            {
+              "name": "Lisa Elmqvist",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Classic seafood spot inside Östermalms Food Hall serving Swedish fish dishes",
+              "suggestedCity": "Stockholm"
+            },
+            {
+              "name": "Afternoon canal boat tour",
+              "type": "optional"
+            },
+            {
+              "name": "Oaxen Slip",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront bistro on Djurgården with Nordic cuisine and relaxed family vibe",
+              "suggestedCity": "Stockholm"
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Departure from Stockholm",
+          "dayType": "urban",
+          "base": "Stockholm",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Vete-Katten Kungsgatan",
+              "type": "coffee",
+              "coord": [
+                59.334106,
+                18.0583098
+              ]
+            },
+            {
+              "name": "Granit Stockholm Södermalm",
+              "type": "shopping",
+              "suggested": true,
+              "suggestedCategory": "shopping",
+              "suggestedDesc": "Swedish design and homeware store for quality souvenirs",
+              "suggestedCity": "Stockholm"
+            },
+            {
+              "name": "Hermans",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Vegetarian buffet with panoramic city views perfect for a final Stockholm meal",
+              "suggestedCity": "Stockholm"
+            },
+            {
+              "name": "Transfer to Arlanda Airport",
+              "type": "info"
+            },
+            {
+              "name": "Vete-Katten Kungsgatan",
+              "type": "dinner",
+              "coord": [
+                59.3344,
+                18.0632
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

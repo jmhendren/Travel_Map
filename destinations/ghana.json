@@ -8,8 +8,575 @@
     -1.0232
   ],
   "defaultZoom": 7,
-  "hotels": [],
-  "restaurants": [],
+  "hotels": [
+    {
+      "name": "Labadi Beach Hotel",
+      "coord": [
+        5.563638999999999,
+        -0.1371302
+      ],
+      "desc": "Beachfront hotel with direct sand access, swimming pool, family rooms, water sports facilities",
+      "longDesc": "Right on Labadi Beach, this hotel offers direct beach access and family-friendly amenities perfect for coastal relaxation and water activities with children.",
+      "gmapsUrl": "https://maps.google.com/?cid=7558907434341379556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Outdoor & Nature",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 10919,
+      "website": "https://labadibeachhotelgh.com/",
+      "photoRef": "places/ChIJzXBPWliF3w8R5C36QUOi5mg/photos/AcnlKN3QHOt5PNiXGbo2dJ7ky1nmbKxwxB8NPCTATMtrd0_DY3-35xKcW83bihvm8LvcHu5n4578IU3KgNtmSotuT2hflgoStzDDumkZdD_66p4yS-dv0fLiWh1AoE6YpcKvI152nSSKTK3NrIPVvIl7Em23tuxahunllddbRHdh6FBcMASgAPRXcoUBFb9dC7yIsrCsVfSjU5wvqqyNWlCqtIUF309ZXCpWrSwP1kxArdTGwepxWC3KcF6LXJCRgA6RKIpaqNmoJUsnPYm_DVuubhM2Ze3p13nxoRuJVsKaiD0pbA",
+      "photoAttribution": "Labadi Beach Hotel",
+      "placeId": "ChIJzXBPWliF3w8R5C36QUOi5mg",
+      "phone": "030 277 2501",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Number one, La Rd, Accra, Ghana"
+    },
+    {
+      "name": "Airbnb home with car and driver package",
+      "coord": [
+        5.6353484,
+        -0.1506368
+      ],
+      "desc": "Modern apartment accommodations, spacious layouts, kitchen facilities, family-oriented neighborhood",
+      "longDesc": "Comfortable self-catering apartments in trendy East Legon offer families flexibility and space for cooking meals and relaxing away from hotels.",
+      "gmapsUrl": "https://maps.google.com/?cid=5917311433905850976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly"
+      ],
+      "rating": 4,
+      "ratingCount": 1,
+      "photoRef": "places/ChIJ-_XgHWib3w8RYMpQ22WDHlI/photos/AcnlKN2MGk0_vRSLeag2ZcLxsF4jrkdLeZrUzuObEAF0kSGlnFoTaT4ckMU4kNiOyZFWRu0s0M4KQH55hN5KcAuY5hKSRBYkQdougMq2P_1Cwb9hOuTocyxnlqTzwUG9s9qlDztyX4F5wwvZUpj7IalEgZRoRLhaVwCGmmfuS-HxZDsTZzfmuad0LQz1Jj8f_iK_O1OKEU8O5-OPkQjVWLTHmnZx-vYRhFrakp-XSxVMi3jBjTk3fQPZ8IVs7G1h8jjclaL90Neaji23R0-rK6bkEAItF8wl7-BhbafAThchK_yt-Q",
+      "photoAttribution": "Airbnb home with car and driver package",
+      "placeId": "ChIJ-_XgHWib3w8RYMpQ22WDHlI",
+      "phone": "054 247 0720",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "12 Hibiscus Ave, Accra, Ghana"
+    },
+    {
+      "name": "Busua Beach Resort",
+      "coord": [
+        4.8087595,
+        -1.9361258
+      ],
+      "desc": "Seaside resort with beachfront cabins, adventure activities, laid-back atmosphere, sunset views",
+      "longDesc": "This Western Region gem offers beachfront bungalows and a relaxed vibe perfect for families seeking adventure and coastal beauty away from city crowds.",
+      "gmapsUrl": "https://maps.google.com/?cid=12030372252928110077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.1,
+      "ratingCount": 1278,
+      "website": "https://busuabeach.com/",
+      "photoRef": "places/ChIJw-buA2KZ5w8R_e1-C9N39KY/photos/AcnlKN2Oh-N4KL7-4zWsSIH2P4Ix135PtB5ZCKJGzF1y600bcMO1UIhnX9942v9TmU_4zSlOmoZ_GGosTp4fSO3Y2V2ZxtzbzOOgJgVTTXSSpNqfREBSCQzfLAf889Al02JmfmI5YolCWOlXTCqBUpxgsrsSRJ3c2FvhGovxaGB6xfvViVJuWNAdrctVqOk3Cx7otba4urPvfNm_R_mqXd0rMAGLpk1pjHImhXmGYacg9H3HS7XQ3-gkNJ2N5vv3DeOKpUSSBu87CLRFnLta-VNW1dl5FbqXf37Gx5vDOHiC6FTYnlbNuaioSd4ohtJz83y6gxYjoRjQxojk0vJzBw1UwC4pTWQrCWpZdVEjyNclMttLYMYn0pa6PUE6VsrqOQq7jKEditlHdnySk4v5h9uAZNnwn9DvKebq7lnHsVWs1aRN3W2o",
+      "photoAttribution": "DAVID DORWU",
+      "placeId": "ChIJw-buA2KZ5w8R_e1-C9N39KY",
+      "phone": "020 638 8029",
+      "address": "Dixcove Road, Takoradi, Ghana"
+    },
+    {
+      "name": "Movenpick Ambassador Hotel Accra",
+      "coord": [
+        5.5544022,
+        -0.20263810000000002
+      ],
+      "desc": "Luxury five-star hotel, multiple pools, fine dining restaurants, spa, excellent family amenities",
+      "longDesc": "Premium accommodation with world-class facilities, including multiple pools and kids' activities, ensuring a comfortable stay for families seeking luxury.",
+      "gmapsUrl": "https://maps.google.com/?cid=17012496806931695933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Wellness & Spa",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 12032,
+      "website": "https://movenpick.accor.com/en/africa/ghana/accra/moevenpick-ambassador-hotel-accra.html?merchantid=seo-maps-GH-B4P0&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&utm_content=Accra",
+      "photoRef": "places/ChIJF-YOBZmQ3w8RPYmht7WHGOw/photos/AcnlKN1xiFXvLjeGbzil8vCVYDwCmGNqOAw2MwyHftgZq5DF6vOsk62X7dZH7I9-d4-7LCz9DGfcR49icCkLLtG3eE0CRWfcIlzdmX85OixPs_yAxyxlD9F3qhTJdleQpgYl93lcDWdgteMoy90MOtnZML6XGkiSZoXi8fKq5lfnSmPWDYiZk-llTaRHMeveKD8DT58XEHFv0-qrzFSk0W33LQETXEIdW3yIHaFLHpEXR8aa2b1wL8gtzFohfs_CUeiWz-mkL-xLPUo5HzUIh9J6MezRLfF1KZAHVeYRgHAMKvMDHw",
+      "photoAttribution": "Movenpick Ambassador Hotel Accra",
+      "placeId": "ChIJF-YOBZmQ3w8RPYmht7WHGOw",
+      "phone": "030 261 1000",
+      "address": "Ridge, Pmb Ct 343, Independence Ave, Accra, Ghana"
+    },
+    {
+      "name": "Coconut Grove Beach Resort",
+      "coord": [
+        5.0775315,
+        -1.3715449
+      ],
+      "desc": "Family-friendly beachfront resort with pool and spacious rooms in Elmina",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18267918126313500477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Beach",
+        "Splurge"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1615,
+      "website": "http://coconutgrovehotelsgh.com/",
+      "photoRef": "places/ChIJA_bIxD743Q8RPe_VkL-uhP0/photos/AcnlKN2Wlb_W1veitaoCVWGE2ISp7y9W-YJae32Lv3DuklCLHl2PurkQ_jK7CRGeGlxcXGWXWaXo9mHVnVJ4cMR_ElvWyedK0OfeoGAfPOxthMTc1ZKDiQm5wpmc657md6yUQ1qZh1-9xC4XhpAZxqINWasEU2T9GUj0Tb1G5qBjGw8iGIpX32x3HUn7X-dbFuXXyqmTrbzt1kHR3X85VrUeFhCbzzFLftk32-6MF9kd9uXcTaERLtdvwK0WYF_iG872bC_OEqUxhLBiP9AXy7CIdVvWoOsIX1d1ZY7LIdZX1ai-TAibO4e5X8bj8ZfjKuzQFJtGpX_tGLiJ7mGdLHQfJmMsYc-DZtfd36sNy8QJUR079t0z-shHL13ZbiZHq0BJ1mhCE-HCC7n90Pznh3MAkK0OE1mU_Zz5KUUzTUvzMy4ihPDoCu0M2Y670UouJFtP",
+      "photoAttribution": "M Sadick",
+      "placeId": "ChIJA_bIxD743Q8RPe_VkL-uhP0",
+      "phone": "024 433 3001",
+      "address": "Mmoframa Akyinim, Elmina, Ghana"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Buka Restaurant, Osu, Accra",
+      "coord": [
+        5.5649961999999995,
+        -0.18271389999999998
+      ],
+      "desc": "Pan-African fine dining, contemporary cuisine, outdoor terrace, sophisticated ambiance, local ingredients",
+      "longDesc": "Award-winning Pan-African restaurant showcasing modern interpretations of regional cuisines in an elegant setting perfect for family celebrations.",
+      "gmapsUrl": "https://maps.google.com/?cid=4777556089115031601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Local Delicacies",
+        "Reservations Recommended"
+      ],
+      "rating": 4.2,
+      "ratingCount": 4101,
+      "website": "http://www.bukarestaurant.com/",
+      "photoRef": "places/ChIJwWSAZYGa3w8RMbg0UvNJTUI/photos/AcnlKN3bNTzJniVSJN32Wg8hCmxLFClIKRf3wcY4zAYRHfNw1lT5NCeCiSbuwVCMRrMYOGTq__4G79-BxTG0I7Il5IDLtFgPUeyNksVriD3sdpqQc5LOZq55mgOxal4HMQzVWo9jyvQ2V6HIzTVxeO4Lz54n0x0VTbjJTJcFI_jGEl7sgI9Hyt226vFipnkSJ1ZAbwj1RqmwIrwcxhDy9v_qrZdXIHcl_39BkkelVuJ4mS-TIXykj3xabdaetoP2Xwsq20-IYIiTLFUX0Alz1NqklHSlOmDoTEj5uSB5q0-woqHsJQ",
+      "photoAttribution": "The Buka Restaurant, Osu, Accra",
+      "placeId": "ChIJwWSAZYGa3w8RMbg0UvNJTUI",
+      "phone": "055 649 2290",
+      "hours": [
+        "Monday: 12:00 – 9:30 PM",
+        "Tuesday: 12:00 – 9:30 PM",
+        "Wednesday: 12:00 – 9:30 PM",
+        "Thursday: 12:00 – 9:30 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "g7 10th St, Accra, Ghana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Waakye At Dawn, Madina",
+      "coord": [
+        5.6828401,
+        -0.16544599999999998
+      ],
+      "desc": "Popular local waakye spot, traditional Ghanaian rice and beans, affordable, authentic street food vibe",
+      "longDesc": "Beloved street food establishment serving iconic waakye with plantains, a budget-friendly introduction to authentic Ghanaian breakfast culture for families.",
+      "gmapsUrl": "https://maps.google.com/?cid=12047605512315354523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Breakfast Spot"
+      ],
+      "rating": 4.3,
+      "ratingCount": 97,
+      "photoRef": "places/ChIJHVcRY_Kd3w8Rmz2Y62GxMac/photos/AcnlKN3ECXO6fbGSYUJwUOH7reUaW1enQwphQrrwkvWsFqGclFaCgw0nhdR7kGbKlufiJhJ1m6Q0cwWPClxfbVhhAt0VjTDlnxDBTdMd6BvJMDPLzMK08cZT1SZOm6-FMTWu8JzXEmfKp0ZTug1qh0BT4WrcLJOZ6CRuKQj0uQC2Zz_mXDhzw2h6NuhQWKKkW9UGGNZhTcO1ewqnB1jyIbBuq74c_g2orbIBRvfWqeuPakEycXKDgj9BaMZAKpEKbFlBEhcz88faz0F9QngtZ0scuY79M6W6fVZK66yo9o2jt3112AaeqrJTrQhpAonK40iXwfUmjJLFhiaLGuQ04_caWjTeMxsmopnuLq_uZw26rhc8T637by9Q6sUeQsNl9yZTcb30XsVFMFavkgvDGgjcZaZanaSkbyunVAiim3vYLae0-2cA",
+      "photoAttribution": "Esther Bansi",
+      "placeId": "ChIJHVcRY_Kd3w8Rmz2Y62GxMac",
+      "hours": [
+        "Monday: 1:00 – 6:00 AM",
+        "Tuesday: 1:00 – 6:00 AM",
+        "Wednesday: 1:00 – 6:00 AM",
+        "Thursday: Closed",
+        "Friday: 1:00 – 6:00 AM",
+        "Saturday: 1:00 – 6:00 AM",
+        "Sunday: 1:00 – 6:00 AM"
+      ],
+      "address": "MRJM+VMG, 45 Agbotui Ave, Madina, Ghana"
+    },
+    {
+      "name": "Twisted Lime Restaurant & Bar",
+      "coord": [
+        27.590266099999997,
+        -80.3776453
+      ],
+      "desc": "Contemporary restaurant, fusion cuisine, rooftop bar views, evening ambiance, craft cocktails",
+      "longDesc": "Trendy rooftop venue combining modern cuisine with city views, offering evening dining and cocktails while families enjoy a sophisticated atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=9776385326113632647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Cocktails & Bars",
+        "Good for Dinner",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 621,
+      "website": "https://www.twistedlimevero.com/",
+      "photoRef": "places/ChIJXXBPeYz13ogRhzFYFqiyrIc/photos/AcnlKN3p1IR44s4N5ubzKjWEHUIQyG02yIbh8s8CKUXhs2noFs30EecEf2YSzGJnmO3S--SvukcQ6Ii-jfam9TBzD7BYxaYoRJs3MnkoC1fTosaYmlttxNaY8t_Jw3UTaTaFnh9Lj3eLZoTJzPtDZtiBQEztkjBHLaRU2koM1mSJSvnFgdERGzf2oobRPESJCk8VwzFErgAxN5HwNFH3TsKmY28ESWV-9SypsMPskiu05JaCqZOfOFzmSgnXE-4i3XXiIqZAHtFo5YJ_ONGlVFuJLm8t0PxjNfCxW6PUv0hV4qV-JA",
+      "photoAttribution": "Twisted Lime Restaurant & Bar",
+      "placeId": "ChIJXXBPeYz13ogRhzFYFqiyrIc",
+      "phone": "(772) 539-0300",
+      "hours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "address": "710 S U.S. 1, Vero Beach, FL 32962, USA",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Papaye Fast Food (Oxford Street)",
+      "coord": [
+        5.559622399999999,
+        -0.1820543
+      ],
+      "desc": "Cozy café, fresh pastries, excellent coffee, relaxed atmosphere, breakfast and brunch spot",
+      "longDesc": "Charming neighborhood café perfect for family breakfasts with fresh pastries, quality coffee, and a welcoming environment for parents and kids alike.",
+      "gmapsUrl": "https://maps.google.com/?cid=13881334322866135654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.1,
+      "ratingCount": 5525,
+      "website": "http://papayegroup.com/",
+      "photoRef": "places/ChIJV3MdKXaR3w8RZqLfKgVopMA/photos/AcnlKN2Gjq7uJwIr6jJszlqj9pzFXZWrbPQ7uYGVgc4ATcdevEw9Q87NVDnibeqELGQehJaR8d2B2JwOIWY0HGrHNIZHhQpgaWoD7fiWUapnQggvJ81ZrJUHE0gnMPjlB-RB2s90c-kXcO-zL9Nsl5S5BLU6mT02iSPFD0v-jbcYnOVwefd27BXC-yMNF6Sr1KUuCwfoBI_cdgCkrH-e7hzUaUG4leMDqg_bvzvyK3qkovgh6BaDG9Q_qFDxCW-HurS_hThJkZA7uzREcA5RYWDYnoTYEdMVVbPZTTEO4DDBUq20T2PH3dX5s8eR1IwViojQf3wvFKv_xlEqUF0u1JHRzK--n1VRrYeM8qHnuriiFruI9t0lr-N1Vzs5t1i7WPkMQQik9DeZH8mLOBoZ0WSzypqRb3BuinEHpHcRXmCWn8QRy4lN",
+      "photoAttribution": "Thywill Tettey",
+      "placeId": "ChIJV3MdKXaR3w8RZqLfKgVopMA",
+      "phone": "020 488 8830",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "32 Oxford St, Accra, Ghana"
+    },
+    {
+      "name": "DE BABS KITCHEN & PUB",
+      "coord": [
+        5.5918696,
+        -0.30007239999999996
+      ],
+      "desc": "Popular lunch spot in Osu serving contemporary Ghanaian and international cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4628902298253266934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies"
+      ],
+      "rating": 3.6,
+      "ratingCount": 12,
+      "photoRef": "places/ChIJS4t9ezyj3w8R9g9ggx0qPUA/photos/AcnlKN18pyuPNWfUZYxipgVkuiQQeURR5JgzRZMA2iR_lwhBPfWabuaN3qPKLrg15C_wFUc-u1Fjai10emQvSKj2lVNKtF-45CTEnn2rNtOh3AZzPZZmWMvJlfG_wiEwsVrTKAiOi2JEgWwUbAmbnrSw4qB_2yFqa3VGOO6BUkYXwMVKwU_wL8FDOpCVqfq_ozZdcvB8gxvlWenG4ipC6tKT7jomJSTQM_-QhcUMjYYNSq1DltzmBHX5zsZ3W6_IraJRKUYlynbkMdvNt-yRcsemeg5Ht-CDoF6hfNeOdkGG5sldsQ",
+      "photoAttribution": "De Bab's Pub. Bertter Meals' Restaurant. Hi Cee....Cynthia.",
+      "placeId": "ChIJS4t9ezyj3w8R9g9ggx0qPUA",
+      "phone": "054 041 1935",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Gbawe, Ghana"
+    },
+    {
+      "name": "Chez Clarisse Mama Africa",
+      "coord": [
+        5.5641941,
+        -0.1839006
+      ],
+      "desc": "French-Ivorian restaurant in Airport Residential Area with elegant atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16215873141063086176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Local Delicacies"
+      ],
+      "rating": 4.1,
+      "ratingCount": 1206,
+      "photoRef": "places/ChIJyzvkooGa3w8RYPDc17RaCuE/photos/AcnlKN14ct3ORN-7d3HIT4V2HQ0c8S7uBvqjUKPFpZBsCp16blKpnG-idj0-1do3l-N7NOhfMlk0qxeXw5UjbelWPx_I0F2nVY22CaPjP-SloX4Po9QF3__ccH7G2uGTNyaA6yDKkEtbldhrAp2hpzXOcAYzZfpZic0xFUYYHVF0-BNkfWG5JGuLCvpA8Icogf5Wl-Am916xtQWego-FqTNRnSyubgRpzsUrRRQQJ1HyPXOoT3WCye173kVRhgRUnqAWuVioGqGVuZ5AEmBbzrEFi_N9EI2Cb21bF-XITtG-OvtUmg",
+      "photoAttribution": "Chez Clarisse",
+      "placeId": "ChIJyzvkooGa3w8RYPDc17RaCuE",
+      "phone": "024 298 4828",
+      "hours": [
+        "Monday: 9:30 AM – 12:00 AM",
+        "Tuesday: 9:30 AM – 12:00 AM",
+        "Wednesday: 9:30 AM – 12:00 AM",
+        "Thursday: 9:30 AM – 12:00 AM",
+        "Friday: 9:30 AM – 12:00 AM",
+        "Saturday: 9:30 AM – 12:00 AM",
+        "Sunday: 1:00 – 11:00 PM"
+      ],
+      "address": "8th Ln, Accra, Ghana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Asanka Local International Chop Bar",
+      "coord": [
+        5.5596681,
+        -0.1786446
+      ],
+      "desc": "Contemporary Ghanaian restaurant in Osu known for local dishes with modern presentation",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8589298756190844510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch"
+      ],
+      "rating": 3.9,
+      "ratingCount": 850,
+      "photoRef": "places/ChIJwbDt9niQ3w8RXrZ18LVRM3c/photos/AcnlKN0VngHuaOWYjBae6uojvuSUdDdiQF-QRGz853vzRcsVgWvAgvp7kcJLHokZzBHC-oX8UlYz2DsMKalPDkJ5P3LOUOlJCYG_H4yZQqBwBsdVyT-P50b6HSEBZKU0QbjrUft_blKAmwzvMaPLkjodjrsjLxh2vK799kwPh_MyN4lIXO2GT_6ej_pIH8peaWjnmh4CMOvYuL88QxZdgIkzwyY0mLzilQXRgn4ScufcZWnL2fRk6IIO1X0qpRN79llg-iyxyFfCE7VHeb6Au26LO4rY3ydxXWpEsUZ1nIiWqWXoL0bC8BN76MeJXGEBIfUaK-ds7jvKS87oOrooDt_pWMRIWYm6NJ3u4TsAm3AmtZGV3ANzPnTa9vQgPNMV63hFmXcgnsxqq8jE3s7NmdL7DKSF0FPz5se9Ps0CZSqGutaR8w",
+      "photoAttribution": "Higgs Boson",
+      "placeId": "ChIJwbDt9niQ3w8RXrZ18LVRM3c",
+      "phone": "050 147 8308",
+      "hours": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ],
+      "address": "HR6C+4FM, Adzoatse St, Accra, Ghana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Azmera Restaurant",
+      "coord": [
+        5.6057748,
+        -0.18831789999999998
+      ],
+      "desc": "Popular spot for authentic Ghanaian dishes with outdoor seating near Osu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9952806142144922752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2085,
+      "website": "https://www.azmerarestaurant.com/",
+      "photoRef": "places/ChIJNeLw4Qab3w8RgMTfPHR4H4o/photos/AcnlKN1chPXz3be_PvZjCw83IoOTqz-ZoEHrU5GesYI-T2M8aUaGujD0p344PBafc5t6NLrHvC4SfyPIZokXU84pnYhUJKNG8E9Vl04wMh7QTE4S7btaC-EMa7i5i4KObPOXH3C0eM2_CRMnTaPIkFRAde54mZ7BEumDrTqGidBM2MWc7yjz9yqehOOunOOYfGYvQ03tUoEZKbZJID5NY6e4A1iO-FiAOSucVG-1aDLqXO47TIpiDaPDgmml-vB_PxiZSB8y-IVSfx3bYl5d1oRm5An6MatEBKF7YnJwRe1EDN36I7uzKD4G1eq_9R7dwegzokCIdtJRWmkM49AMCGQfXMtwORBpMhPOQeSjDfxW4VK5LFgUkLVphE8i6IT4019fD1kZXh5gDJgFkUaMlDf60jqIMGyWgGPsdPMdzoRqWLhWtL-V",
+      "photoAttribution": "David Asiedu",
+      "placeId": "ChIJNeLw4Qab3w8RgMTfPHR4H4o",
+      "phone": "030 277 0606",
+      "hours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "address": "9 Sir. Arku Korsah Rd, Accra, Ghana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Elmina - Java Museum",
+      "coord": [
+        5.0992527,
+        -1.3469301999999999
+      ],
+      "desc": "Charming cafe with local dishes and historical artifacts in Elmina",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4111403290643125682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Cultural & Historical",
+        "Local Delicacies"
+      ],
+      "rating": 3.9,
+      "ratingCount": 150,
+      "website": "http://elwininternational.com/elmina_java.html",
+      "photoRef": "places/ChIJB79_p0r43Q8RstUne4KjDjk/photos/AcnlKN1bzY_Xwv070WRpanfBPCbsGKdh2Az7bG120AdHziNihEvv0i_GmxAPfVYvN1TJh6ji2UZCHT4_GZ8rGxXn043m6N_OSHj25jVv1PDiQvzElgZWjnzge05wm-3L46vZL_XooTgKpok9i1CLtO4EtJuXnYl48lMUgXV277GeoT7AG_0-AZv98otMwd7LpltdAF3kIwb70dvk-uIreCwIydG9vaXNzA0eaao1p90fjeH5Su08ULl5N-Vmem-nP7Yn3UrcrnpScmNFxcrWawKjQPhtas8hWBI4ucFoV3xPQQfF3A",
+      "photoAttribution": "Elmina - Java Museum",
+      "placeId": "ChIJB79_p0r43Q8RstUne4KjDjk",
+      "phone": "(252) 412-0415",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "address": "61/21 Cape Coast - Takoradi Rd, Elmina, Ghana"
+    },
+    {
+      "name": "Ko-Sa Beach Resort",
+      "coord": [
+        5.0612053999999995,
+        -1.4407725
+      ],
+      "desc": "Beachfront seafood restaurant with fresh catches and local flavors",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16861517931131612451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Local Delicacies",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 450,
+      "website": "https://www.ko-sa.com/",
+      "photoRef": "places/ChIJMVVIBQH23Q8RI6364jglAOo/photos/AcnlKN1OdzZMHNiU_QGUz1W-0CY9zMLUfCsyl_wdF-GdE5iKaBCnNZ7tysgoXJIoWlJgdsy9HgM4vvvzhdoXcapvzxSslfE1RI20X2AupDo4Uko7nh4nVWKsknwsxEgsR7F-Xizj5AgYdl0ded3sjmWJMs_RUkpyzfggAVvT2YDufLwWLLaFVZOzhQJeMJ1peImvuXetJdjW1cD5pLQztv9v0BWPvRKHJ3_L5iiovgBXGHQYVMsAgWAzW1QxkuGTtO9bxhXX8YLrbIf_h4EBpMbJNvm3qj--DhByZhJWEdK-xk3_Pg",
+      "photoAttribution": "Ko-Sa Beach Resort",
+      "placeId": "ChIJMVVIBQH23Q8RI6364jglAOo",
+      "phone": "024 437 5432",
+      "hours": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ],
+      "address": "Beach Road 1 Central Region Ampenyi, Ghana"
+    },
+    {
+      "name": "Castle Beach Resturant",
+      "coord": [
+        5.1037642,
+        -1.24182
+      ],
+      "desc": "Casual spot near the castle with local Ghanaian plates",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7152997619181486690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Local Delicacies"
+      ],
+      "rating": 3.6,
+      "ratingCount": 73,
+      "photoRef": "places/ChIJI1w8ZlL-3Q8RYgKHum-NRGM/photos/AcnlKN3OCR7rDQA3u8NuFz3lm1qnflZ2hQJTEg5ep5_8ZFUelwgsCd46XC2UXj_82_ZpTHQ54epr351m6Aj3z9P2hRNnyh65MC6SCd4dnvd5Hg298VVAQ7SouJ4iZb4PxMN9LqqyBs2vo0v2-FtCRQR3KQO72N-V91_Y0qaFoxoqUyw5m5yPt3rDwtdGCIYd8LjA7Ykulwk7WKHwzCpKmJRHYB7li4etQqfbHtfFFn7gcaKLRaG19RX6qtlz5VBGVkQsLoTBy6rLyb-ifzgIvjwX_7A_miB0W5fV8PJrYdiCji0sNzf3TX-H5qEsrLYv2mQGspowfe9-llfLWwUIaMafRlFSps2WZJ3zwUvPfl0rUobUdhFvoA6pShmSiCw2wAsuoSvQefZJu2XjkC_dvVX_Fuk5SoJzlPWQ3fuUP0b-QExi0xDm",
+      "photoAttribution": "Senyo Success",
+      "placeId": "ChIJI1w8ZlL-3Q8RYgKHum-NRGM",
+      "phone": "020 825 9070",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 – 11:00 AM"
+      ],
+      "address": "Cape Coast, Ghana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Fishermans Cottage",
+      "coord": [
+        -34.420383,
+        19.242428
+      ],
+      "desc": "Seaside dining with grilled fish and traditional Ghanaian dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5315988847619680593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Local Delicacies",
+        "Romantic"
+      ],
+      "rating": 4.5,
+      "ratingCount": 743,
+      "website": "http://www.fishermanscottage.co.za/",
+      "photoRef": "places/ChIJIWTL0KULzh0RUSlPDLEvxkk/photos/AcnlKN1QUsbiALMUtYVJ_vNBO35Zxc_mtUwsdXaWowWJ4CMe7kddZG9j30dq4_Bpa42ovFg1Le679ksu7EowM9kNkZBIhtBaZAQnX7pUWqvOY49FaUxO0DAWRxmL_QiZewbPRoLR2wmR4nBhta6Bg-7MQqMeS6DKfrdLXekwHTnffCWn0MQZ_1wwvfbq_xdt0fYPO3ZbUArk1RhnhRJ-tEDakZLvM5PD-dC-3WDzD5qMrJNzPf_2PpcBjz4YR_Jf_pATpx8_P1aEmZ-Z1noA8uBZ3Ctcv_abZvD7SCenoFBhFIUzBugJMsPgrG98rf9hTNvKTwQQz8UhUpaLSKnEO_-AVRpc-cnwfpqd7FM3LiBRPpj8Fyd81m2jkDGf0HkjcbmsyLsLHQ-r9ntLfjt2ie7DgO5kjYVlgr_MTj0liqgbUXi2jqgl",
+      "photoAttribution": "Stephen Narramore",
+      "placeId": "ChIJIWTL0KULzh0RUSlPDLEvxkk",
+      "phone": "028 312 3642",
+      "hours": [
+        "Monday: 5:00 – 9:00 PM",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "3A Harbour Rd, Hermanus, 7200, South Africa",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Sky Bar 25 Restaurant and Bar",
+      "coord": [
+        5.6200183,
+        -0.1771188
+      ],
+      "desc": "Rooftop restaurant at Movenpick with panoramic city views and international cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6210823562187920615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2772,
+      "photoRef": "places/ChIJM5z97Q2b3w8R51TWmh9HMVY/photos/AcnlKN0y6uO8yhYEGCwpFAsKBSbJkzSim1EU6fJbiexKy5NXIb9VEClqWYjK4pM3aL3PnIvEK_o9mFhYHO3EV9TwqXLydXq-7o91iUqQ7IgVo9QkHh8oV872M6beLks-CByDrMm2-GurQYmbmHGWqr_crbLLzLjgjPg2q_wcl58uBTHYLQPjzoIsuqcB6LyA8VzdDBDyYspVbgswWaPRsCQGLRNCGmLZnxzr6_A9Rd7p7ZeUjRiq1JcJVkg04JxBstVUKsUfCkA2J3N69_l7DCDoEf2dYMphyHaxEuLJkhgn6VB4iA",
+      "photoAttribution": "Sky Bar 25",
+      "placeId": "ChIJM5z97Q2b3w8R51TWmh9HMVY",
+      "phone": "056 082 4725",
+      "hours": [
+        "Monday: 4:00 PM – 12:00 AM",
+        "Tuesday: 4:00 PM – 12:00 AM",
+        "Wednesday: 4:00 PM – 12:00 AM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 4:00 PM – 2:00 AM",
+        "Saturday: 4:00 PM – 2:00 AM",
+        "Sunday: 4:00 PM – 12:00 AM"
+      ],
+      "address": "N 16 N Airport Rd, Accra, Ghana",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    }
+  ],
   "experiences": [
     {
       "name": "Ghana",
@@ -27,10 +594,237 @@
       "gmapsUrl": "https://maps.google.com/?cid=6113621310650438198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "photoRef": "places/ChIJx9baqM1a1w8RNtKT0DDy11Q/photos/AcnlKN0k5dQi6Xw8bVdQB0zi-XY21JezToZ2a2z7GxdZlsmEMvAAv3w1ZWHzh_BQN29rhHkmDn1NV3IfSzh6ICwKjqYVCJ4_TwrvnTeNYMjzE1irxhopYeSW4np9X65vIh3z_P3ThBm691QCGXa0GPakFweAL_5HKta92T8E3LWz2ldpR5kY8khMNQCMGvw6m3kZJWeWBtNzzdWIhbjVwMiABfdj7LIT9DKAlnsRVwrFKWfELw0J26h__jjG7xKASns3C8Sd_jV527kwxvEYlfRSd1W8pZ82OOA9AZ_x0xKwa0-L0DDGpuXY7CM8fE-nMbmnzuPlDdfiRNv1nyhQlm9KbfNxnFjh26NT6ljHzhvqdPcu_lAD9Z8ikF4v_aY2pdV0TThXEoaldsAZ9tFKVoF_rNO9ctlRgERysQv2z3gHNfI",
       "photoAttribution": "Fred Kusı"
+    },
+    {
+      "name": "Cape Coast Castle",
+      "coord": [
+        5.103646599999999,
+        -1.2410603999999998
+      ],
+      "desc": "Historic colonial castle, UNESCO site, guided tours, dungeons, museum, educational cultural importance",
+      "longDesc": "This UNESCO-listed castle offers poignant historical tours that educate families about Ghana's heritage while providing insight into West African history.",
+      "gmapsUrl": "https://maps.google.com/?cid=12018096775280908834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Half-Day Trip"
+      ],
+      "rating": 4.5,
+      "ratingCount": 4460,
+      "website": "https://gmmb.gov.gh/cape-coast-castle-cape-coast-1653/",
+      "photoRef": "places/ChIJZ9haelL-3Q8RItrirlfbyKY/photos/AcnlKN3dKGfc5BP-uqRpWlGjgEjh6QU46sSIfxC8nqWnl1Lx9ehKXGwMdVlf-7rOJV1O1sdPqib3j3h61irxFgQG5VHxglSaTwODTFhbXYgzF76NL42ok6zaO-FluUO6aMn1hWKJ-FpapcYATslcGUSuvrcjubDQGDmOx98KqLmD_SBzQDC5W6OawUSrz9a3WwkTjwInTZFZnXRdqK8SmnP2lRcW5wq7sQ9hleU-6B-AOCG1lRBypGZFSIfjwNAYTQNf1tmUEGLxF8Jf5dSqPyl8omh5ya9OMCUK1JZyb6gSC0pu4f7OPKI8W-lwd1IeIDjzKaCTFzTi5trPFgMszcrMF9sjnNwaxAk8iMMgkXOPRQo480zL04KNv4FwsrqOrZ8hWpLPzxh3M_seEoMIj2tlNoURh6VDjKCUF8AWuIn4JUMsaQ",
+      "photoAttribution": "ousmane kanoute",
+      "placeId": "ChIJZ9haelL-3Q8RItrirlfbyKY",
+      "phone": "057 710 1707",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "13 Victoria Rd, Cape Coast, Ghana"
+    },
+    {
+      "name": "Kakum National Park",
+      "coord": [
+        5.350060399999999,
+        -1.3819499
+      ],
+      "desc": "Protected rainforest, canopy walkway suspension bridge, wildlife viewing, hiking trails, nature reserve",
+      "longDesc": "Thrilling canopy walkway suspended 40 meters above rainforest floor offers families adventure and incredible bird-watching opportunities in pristine natural surroundings.",
+      "gmapsUrl": "https://maps.google.com/?cid=11092791571881013587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Half-Day Trip"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3292,
+      "website": "http://www.kakumnationalpark.info/",
+      "photoRef": "places/ChIJg-S157zd3Q8RUzFqmSmD8Zk/photos/AcnlKN3cieiR6aIfRzkPuBxaCq0Zz3bNXhN_GF_hs90bDghaHqsIPT02MOYzgGBU7vi51cuda-5o4LiIymTivykwGengCwCZfl5RgDhPHPj2PAj01KIgRVSuN_DUpuzHiz2X13nb4vSuHXN26Uy4SuMJ5CSPAPIGr40nWIp2Vgv9VqUybZkvOk6oPEsoNw3vN6OgXYIph3P3nTRJ4D22NJgkFGD_BdoQT-R8LiqGbh7dsJbC_yjXoglrWKiyaO4OC2LaCz31r3J1nm9joAec459xnLdpS43GoOqK8_P_HR5PVkSdv-rJGg2gZXFuI9x6J5_5qMe-WqEMlkfPF8_PaseI0b3dT5lARmui4yeQZ7_DfSQ_NXrniCckwYLYKKY5VyRGoRvSr2JJ_aNWllKI3X98obfFFiKP7U6ZwMGlFNj52dOBPg",
+      "photoAttribution": "Abin k p",
+      "placeId": "ChIJg-S157zd3Q8RUzFqmSmD8Zk",
+      "phone": "020 042 0831",
+      "address": "R82, Ghana"
+    },
+    {
+      "name": "Nzulezo - The Village on Stilts",
+      "coord": [
+        5.0204781,
+        -2.5976507
+      ],
+      "desc": "Unique stilt village, canoe tours, cultural immersion, traditional dwellings, waterway exploration, authentic experience",
+      "longDesc": "Fascinating floating village built entirely on stilts where families can explore traditional Nzema culture by canoe, creating unforgettable authentic memories.",
+      "gmapsUrl": "https://maps.google.com/?cid=10297240988544883485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Hidden Gem",
+        "Half-Day Trip"
+      ],
+      "rating": 4.5,
+      "ratingCount": 306,
+      "website": "https://nzulezotourism.com/",
+      "photoRef": "places/ChIJnXyWtQkD6A8RHVvPOB8m544/photos/AcnlKN2yTtiqJ8Dhz_3ERXRnekE4cFrToO-YhZIcxtbOShBlNA0L8Me7ZYJdmKuPBDHletZGHrYUm1IUNOy84gq6CTKZs6FUUs64EvvaVwtHrzlPSnszRjbalm4qIIE7K8zClW9YQkoi69gK3YlVELP3Q3EIxyzdwVWZtSgSOdsAfrNVaR39FzQvWdLbRs_BQxqsJ8LdFMRz2-qmSxy2HVijAJwVwZiI7L-TZXMkG5lsaWG4nefuXGaAbr5KF5GxDWz86wYniWFoD6_dQvP1BchZX3nAZ8DJraxyEVbUdjfkOiKKkg",
+      "photoAttribution": "Nzulezo - The Village on Stilts",
+      "placeId": "ChIJnXyWtQkD6A8RHVvPOB8m544",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "address": "Nzulenzu, Ghana"
+    },
+    {
+      "name": "Mole National Park",
+      "coord": [
+        9.5,
+        -2
+      ],
+      "desc": "Large wildlife park, safari game drives, diverse animals, guided tours, accommodation, northern adventure",
+      "longDesc": "Ghana's premier safari destination where families can spot elephants, antelopes, and diverse wildlife while experiencing Northern Region savanna ecosystems.",
+      "gmapsUrl": "https://maps.google.com/?cid=14781140792496761976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Full-Day Activity"
+      ],
+      "rating": 4.4,
+      "ratingCount": 981,
+      "website": "https://molenationalpark.org/",
+      "photoRef": "places/ChIJq6qqqq540Q8ReCzOpzwpIc0/photos/AcnlKN3VHoWvttkSB4WthFwhbiDup1luZot6CZGxuzzw0qJugGNVW8pB2Vx3z5LCgAZs3XDYlXipibmI28V9rJzO0eI1Wcmrc02jXSdRtEPfqkagmo3Xj_reXAxg8_m1cMYSk42QcW04axkDy1CDNAXyrgkzImkHP5QmxtvFyny-S2Crvr6nmWHHXCUfkHPGA32nVzMEJb_0Ui5VsoNaNWtIBX3BZLRtEObVGbbKEsHg457XNkIdLocQdeQ4XIV3xByJZFYJgvtCmWzoKrPTPxr8C5qZrsijzleNCoCKk4KB37X76-fcG8uA2RVnuVaGm9VtM-Mgz52uOqsnZ9M15sXxMl3q9zu0IqCTaudaA7KyJaT8z-8ho_-sf6o60gXmmbepInCXFX72CFq-La1M1A_lk2CSVTUnmzHTYqYdIlPJsHJPQ6-x",
+      "photoAttribution": "William Haun",
+      "placeId": "ChIJq6qqqq540Q8ReCzOpzwpIc0",
+      "phone": "024 431 6777",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Ghana"
+    },
+    {
+      "name": "Elmina Beach Resort",
+      "coord": [
+        5.0934589,
+        -1.3371245
+      ],
+      "desc": "Beachfront resort with public beach access and sunset viewing area in Elmina",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13223097596678759660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Scenic Views",
+        "Romantic"
+      ],
+      "rating": 4,
+      "ratingCount": 1815,
+      "website": "http://www.elminabeachresort.net/",
+      "photoRef": "places/ChIJ012sRE743Q8R7ORbiDThgbc/photos/AcnlKN3CFj8yri0dInsynZqy5HrNpCHUpEog31GErtmm7uIMcm7Uq9qrCGiJ3bMASC6-kG3CxBMIPeN1xA8wUghmyDwpmT8ZYFoGBYm7tFyQVRodCMs20Q5bgZN6Yn5Gj1o0iPM0ubXS1xuKD5Nba4mt2ZR1gIxc4eWm3AhlzMesr2C7asujAxDTpiPNPlt-H1lVZDnYHBGaPZySdLBMh93KiE3n3pE8Rg4y6DGtUSKfshjCIZffp5I3Tg9vmkVYYREWl1BtVihb6j32YMTFNkv2Rjai0DpqX1jXurtWeCUlT_Gk7N3d6FNLFsS-RhIqBq4wFvOCoHMCEBrOl9p-bR0xkyndeG-fkvb93Ka_NsQNLmIH2iDdJ7bJlYjP7GP5_3kcKNC6L8-OdCnI6uLHDQZzzO72IAMcCifn9ZsNdGtZxK5FTA",
+      "photoAttribution": "Glen Pereira",
+      "placeId": "ChIJ012sRE743Q8R7ORbiDThgbc",
+      "phone": "054 431 2370",
+      "address": "3MV7+95J, Elmina, Ghana"
+    },
+    {
+      "name": "Oasis Beach Resort",
+      "coord": [
+        5.1032038,
+        -1.244032
+      ],
+      "desc": "Local beach in Cape Coast, adjacent to the castle, popular spot for relaxation and local atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5686068350617041388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Hidden Gem",
+        "Family Friendly"
+      ],
+      "rating": 4,
+      "ratingCount": 1836,
+      "website": "https://www.theoasisbeachresort.com/",
+      "photoRef": "places/ChIJhUBJrFP-3Q8R7Lke7wn56E4/photos/AcnlKN1ItKpFwaneGOqSZwH92H7AQ7PWK0YINLvQU-sj24nR7TMxJoKON3VTDDnkwgH0TSJhue5pupa0eSA6fTm0o43wpb2JrvHJOUlhYCbyvY0nB-i_y2_TuluHi541obM0rAe-C5GwBQyBREJ24dqoIHZCi7svR0UGgX1zwkYbLiU11sf2HrQxQCBLvvIWT2MxA19HxHovDvZs-sFPz2zjbU7iPvOWOHRsfDHiKBP2o_xAFzpnezPAsrvXqjN9Qic-_65d0nmJSTEg0xTvBL66dpu-m3OazBspwN5mZrptQZeH9JnakzrDR1gDMxt3DM9FNpZFiS7RJEjtXao49WPJuhXyTDWL8iEX1nKOqLUz1BQEPzRzEPl2H74r3vnfyTJYSc6iGvGYUhWAfgJRw2gjSCW3_bx_CSgDKvttX1X5PERxa9faNbuYMJ8kWHqoMOF9",
+      "photoAttribution": "PIROMAN “PIROMAN”",
+      "placeId": "ChIJhUBJrFP-3Q8R7Lke7wn56E4",
+      "phone": "024 244 9558",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "address": "Emintsimadze Drive, 42 Victoria Park, Cape Coast, Ghana"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Labadi Beach",
+      "coord": [
+        5.562204,
+        -0.1385295
+      ],
+      "desc": "Popular urban beach, lifeguards, water activities, beach volleyball, colorful fishing boats, family atmosphere",
+      "longDesc": "Vibrant urban beach perfect for families with calm waters, lifeguards, and lively atmosphere featuring local vendors, games, and safe swimming areas.",
+      "gmapsUrl": "https://maps.google.com/?cid=6609692905825325145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Beach"
+      ],
+      "rating": 4.2,
+      "ratingCount": 1517,
+      "photoRef": "places/ChIJGTybcFiF3w8RWVAjnq1Yuls/photos/AcnlKN3u-RJvUOL1HjnHfYudsUPDVq_kDZsDhsQJs9VV2SbTAfp10UBDOiRQbcBVBLRinZZdl1UtVCVfliuTF-CxktFVOfumkxGYKkjKrqg3kr79y7-VyX5L6AqBkYxhHMVzJdH4LEE62tbibXliWfZOBdllCBgd15TgKPN4u_FovWzubgGlMZKmJKKe36t8CBdcvtHyeL_4j1UpNn3a8yUGZ_c69m0awTENoNnu35quMYNitVKoYQDuNyiyHadQBNay2DyTD-GAO4P5J30Rsgd7_H-yXl2lZT5B8SoflGJirxLFy6G3JT77Yw92rLptIzcpTVaKEwvjg9bsEa3AO6EGHaJ4-SaF5GhG_r1C76qltEVgQn0SG2mhEUnIfCa3lQmh67DCg-E1sufX94-u7uD3wMtfvTBBm7LQDSbfZpHHbETZZQ",
+      "photoAttribution": "Olanrewaju Otinwa (OlaOtinwa)",
+      "placeId": "ChIJGTybcFiF3w8RWVAjnq1Yuls",
+      "address": "Labadi Beach, Accra, Ghana"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mokola Market",
+      "coord": [
+        5.5475271,
+        -0.20580759999999998
+      ],
+      "desc": "Central market, fresh produce, local goods, vibrant atmosphere, authentic shopping experience, cultural immersion",
+      "longDesc": "Bustling traditional market offering fresh local produce, handcrafted goods, and authentic glimpses of daily Ghanaian commerce that families find culturally enriching.",
+      "gmapsUrl": "https://maps.google.com/?cid=12204163453402081321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Shopping",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.1,
+      "ratingCount": 3460,
+      "photoRef": "places/ChIJo_e7MgyR3w8RKejVHADmXak/photos/AcnlKN0vMxtc9jmlDY6fwrbowNQdUhzurlhZv35Szi4anmhQNOWP7mlh-JdHoO-LKzdgXhubQC0I6KOxZVV8GjmUHUXbWt-gPkHznBD3MiAAYlAHF_c_xHfE8ZZjwNm5RCA-orOz2Cxn-VGAtlMRdK9dTdNfjrtgf-TZ46_xJQRZ2XEcjz7TWLs7p7JWqwpWg7zb4Gf3f1HPJvC7Pm9eM0PCEF3g374GF67AoZH1z4piajjuCmGVhXe4QE0XkrLa3fgIsw2J1KZFnpCNYnSl4haKTSzxVlQ4SHKCnr8xooHSVlloCzGzKHPJ7U9Va_y4RsHts9wYaxMmxUDVQlq_AQHeLIclfLxO-V52WuSPdLo5gytaL0su9PN-fkHdfr9Ro_WLK96RfITC98dUYVXFZ-5z6LD1xN1gfdkMQHLkOnqkt-_3PSI",
+      "photoAttribution": "Abu Abdul-Rahman",
+      "placeId": "ChIJo_e7MgyR3w8RKejVHADmXak",
+      "phone": "027 489 9535",
+      "address": "a20 Kojo Thompson Rd, Accra, Ghana"
+    }
+  ],
   "cityCenters": {
     "Ghana": [
       7.9465,
@@ -38,5 +832,394 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Ghana Family Discovery: Beaches, Castles & Canopy Walks (8 Days)",
+      "description": "A perfectly paced journey through coastal Ghana blending beachfront relaxation, historic castle explorations, rainforest adventures, and authentic cultural experiences designed for young adventurers.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Accra",
+        "Cape Coast"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Accra",
+          "dayType": "urban",
+          "base": "Accra",
+          "items": [
+            {
+              "name": "Labadi Beach Hotel",
+              "type": "hotel",
+              "coord": [
+                5.563638999999999,
+                -0.1371302
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Bab's Bistro",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular lunch spot in Osu serving contemporary Ghanaian and international cuisine",
+              "suggestedCity": "Accra"
+            },
+            {
+              "name": "Afternoon by the hotel pool",
+              "type": "freeTime"
+            },
+            {
+              "name": "Early dinner to adjust to time zone",
+              "type": "info"
+            },
+            {
+              "name": "Papaye Fast Food (Oxford Street)",
+              "type": "dinner",
+              "coord": [
+                5.559622399999999,
+                -0.1820543
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Accra Beach Day",
+          "dayType": "urban",
+          "base": "Accra",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Papaye Fast Food (Oxford Street)",
+              "type": "coffee",
+              "coord": [
+                5.559622399999999,
+                -0.1820543
+              ]
+            },
+            {
+              "name": "Labadi Beach",
+              "type": "beach",
+              "coord": [
+                5.562204,
+                -0.1385295
+              ]
+            },
+            {
+              "name": "Beach picnic and water play",
+              "type": "freeTime"
+            },
+            {
+              "name": "Waakye At Dawn, Madina",
+              "type": "lunch",
+              "coord": [
+                5.6828401,
+                -0.16544599999999998
+              ]
+            },
+            {
+              "name": "Afternoon nap at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Evening pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "The Buka Restaurant, Osu, Accra",
+              "type": "dinner",
+              "coord": [
+                5.5649961999999995,
+                -0.18271389999999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Markets & Local Culture",
+          "dayType": "urban",
+          "base": "Accra",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Mokola Market",
+              "type": "shopping",
+              "coord": [
+                5.5475271,
+                -0.20580759999999998
+              ]
+            },
+            {
+              "name": "Azmera Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular spot for authentic Ghanaian dishes with outdoor seating near Osu",
+              "suggestedCity": "Accra"
+            },
+            {
+              "name": "Rest time at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Evening beachfront stroll",
+              "type": "freeTime"
+            },
+            {
+              "name": "Beachside dining at hotel restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual oceanfront dining at Labadi Beach Hotel",
+              "suggestedCity": "Accra"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Transit to Cape Coast",
+          "dayType": "rural",
+          "base": "Cape Coast",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Coconut Grove Beach Resort",
+              "type": "hotel",
+              "suggested": true,
+              "suggestedCategory": "hotels",
+              "suggestedDesc": "Family-friendly beachfront resort with pool and spacious rooms in Elmina",
+              "suggestedCity": "Cape Coast"
+            },
+            {
+              "name": "Scenic 3-hour drive west along the coast",
+              "type": "info"
+            },
+            {
+              "name": "Elmina Java Museum Cafe",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Charming cafe with local dishes and historical artifacts in Elmina",
+              "suggestedCity": "Cape Coast"
+            },
+            {
+              "name": "Afternoon settling in and pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Elmina Beach Resort",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach_resort",
+              "suggestedDesc": "Beachfront resort with public beach access and sunset viewing area in Elmina",
+              "suggestedCity": "Elmina"
+            },
+            {
+              "name": "Ko-Sa Beach Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront seafood restaurant with fresh catches and local flavors",
+              "suggestedCity": "Cape Coast"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Cape Coast Castle & Beach",
+          "dayType": "rural",
+          "base": "Cape Coast",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Cape Coast Beach",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Local beach in Cape Coast, adjacent to the castle, popular spot for relaxation and local atmosphere",
+              "suggestedCity": "Cape Coast"
+            },
+            {
+              "name": "Morning guided tour (early to avoid heat)",
+              "type": "info"
+            },
+            {
+              "name": "Castle Cafe Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual spot near the castle with local Ghanaian plates",
+              "suggestedCity": "Cape Coast"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Beach play and sandcastle building",
+              "type": "freeTime"
+            },
+            {
+              "name": "Coconut Grove Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Resort dining with international and Ghanaian options overlooking the ocean",
+              "suggestedCity": "Cape Coast"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Kakum Rainforest Adventure",
+          "dayType": "rural",
+          "base": "Cape Coast",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Early departure for Kakum National Park (45 min drive)",
+              "type": "info"
+            },
+            {
+              "name": "Kakum National Park",
+              "type": "sightseeing",
+              "coord": [
+                5.350060399999999,
+                -1.3819499
+              ]
+            },
+            {
+              "name": "Canopy walkway adventure (arrive early for cooler weather)",
+              "type": "info"
+            },
+            {
+              "name": "Rainforest Cafe at Kakum",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "On-site cafe with light meals and refreshments at the park entrance",
+              "suggestedCity": "Cape Coast"
+            },
+            {
+              "name": "Return to hotel for afternoon rest",
+              "type": "nap"
+            },
+            {
+              "name": "Pool and relaxation time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Fisherman's Lodge Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Seaside dining with grilled fish and traditional Ghanaian dishes",
+              "suggestedCity": "Cape Coast"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Return to Accra",
+          "dayType": "urban",
+          "base": "Accra",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Movenpick Ambassador Hotel Accra",
+              "type": "hotel",
+              "coord": [
+                5.5544022,
+                -0.20263810000000002
+              ]
+            },
+            {
+              "name": "Leisurely 3-hour drive back to Accra",
+              "type": "info"
+            },
+            {
+              "name": "Chez Clarisse",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "French-Ivorian restaurant in Airport Residential Area with elegant atmosphere",
+              "suggestedCity": "Accra"
+            },
+            {
+              "name": "Check-in and afternoon by the pool",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sunset from the hotel terrace",
+              "type": "optional"
+            },
+            {
+              "name": "Skybar 25",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Rooftop restaurant at Movenpick with panoramic city views and international cuisine",
+              "suggestedCity": "Accra"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Accra",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning spa treatment (optional)",
+              "type": "optional"
+            },
+            {
+              "name": "Final pool time and packing",
+              "type": "freeTime"
+            },
+            {
+              "name": "Airport transfer",
+              "type": "info"
+            },
+            {
+              "name": "Kotoka Airport Food Court",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Variety of local and international options at Kotoka International Airport",
+              "suggestedCity": "Accra"
+            },
+            {
+              "name": "Asanka Local",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary Ghanaian restaurant in Osu known for local dishes with modern presentation",
+              "suggestedCity": "Accra"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

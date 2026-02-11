@@ -23,7 +23,10 @@
         "Splurge",
         "Wellness & Spa",
         "Cultural & Historical",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=7982055670339783539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.8,
@@ -44,7 +47,10 @@
         "Photography Worthy",
         "Splurge",
         "Art & Design",
-        "Romantic"
+        "Romantic",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=12499760417263300385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -66,7 +72,10 @@
         "Photography Worthy",
         "Splurge",
         "Wellness & Spa",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=14513420354131545689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 5,
@@ -86,7 +95,10 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=1149195629880282276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.8,
@@ -115,7 +127,9 @@
         "Splurge",
         "Romantic",
         "Rainy Day",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "phone": "70 06 21 00"
     },
@@ -139,7 +153,10 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ]
     },
     {
@@ -161,12 +178,495 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "phone": "70 27 49 22"
+    },
+    {
+      "name": "THE THIEF",
+      "coord": [
+        59.90763899999999,
+        10.7210813
+      ],
+      "desc": "Contemporary luxury hotel, rooftop bar, modern Scandinavian design, waterfront location",
+      "longDesc": "A sleek, design-forward hotel in Oslo's Grünerløkka district offering families modern comfort with artistic flair and easy access to museums and parks.",
+      "gmapsUrl": "https://maps.google.com/?cid=4559106215919493802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Family Friendly",
+        "Afternoon Wine",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1800,
+      "website": "https://thethief.com/",
+      "photoRef": "places/ChIJGTp_5ylsQUYRqiIovfIyRT8/photos/AcnlKN2tksJzmJwdWPhRnNg3XAGQmLNra-Qn5uFgM9sAPSKiiWuZLXY3NGmG1YNraLlpr9oYKOQFTIKecEnZVb5Yw8R_cqwQPLgOX0plj-b6SVQjrZZLQMTlZ5yPbI01M81hzV5Oak4GMI4_BM4OCfAGPbODOyWgliHl243RvfCrgHcWDBjReobEjkgy5Y9oicLulh9MBZpAZRNgnGRpaRt7k8rdOe5ctFJTqjA5bR4WMB8W2ADX8rSTYEXrkiH5O4s-i9QpuftRgaHlhZ_q5kyQxIU_4q8aTzBvj6TCEq3War2QiC5VgiIMjC8iLJVXJqxOblGzL1yeMiE6fyvdsyAoyXzOqDk8hdCfE-MnvGAkC02Hi26RFXM4wapYU9r-IIFjMtTCfOtryrldp441U4lfRNmq0kSTbLtE0NlNUssvFQPnkw",
+      "photoAttribution": "Qi Ai",
+      "placeId": "ChIJGTp_5ylsQUYRqiIovfIyRT8",
+      "phone": "24 00 40 00",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Landgangen 1, 0252 Oslo, Norway"
+    },
+    {
+      "name": "Scandic Lillehammer Hotel",
+      "coord": [
+        61.1173303,
+        10.477395399999999
+      ],
+      "desc": "Family-friendly mountain hotel, ski-in access, swimming pool, cozy fireplaces, activities year-round",
+      "longDesc": "Perfect for active families, this welcoming hotel offers direct ski access in winter and hiking adventures in summer, with excellent facilities for children.",
+      "gmapsUrl": "https://maps.google.com/?cid=9392420507043205413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Adventure & Active",
+        "Playgrounds"
+      ],
+      "rating": 4.1,
+      "ratingCount": 2349,
+      "website": "https://www.scandichotels.com/en/hotels/scandic-lillehammer-hotel?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=lillehammerhotel",
+      "photoRef": "places/ChIJ1b6g8QKIakYRJZFnH7CUWII/photos/AcnlKN2ZFtkStAutzKIoWLRD5DHu3jo9gcmf37EVQ6mA8m-1a8n8CvgLKAo6Gc5oZW1iuEPJi7xavUxt2l8IqkAGOffyhTeh_hNhNoVhFRDBw1eIpwf9XFkCj05h--I0aw5cYEYpWjtVuVz2t5YTS5j88PigOOUTuePjSu8Dbc3FX5iTrEy-LkhApActycgiqfYE3trggH4ytmuuiKNFjUtGZWqnJ90AedP9qfIcfM-1uMDHSFQ0le_GchlzwswIkMxt2t4F5F3EkIJhjrLkp_dLKZQv9wvoBW7Dptos3471STcrOgymNNen6b8svGief9lOvFawZZmSY7-WdcNRNULVvmD3a0ZuNFcj2b_AvlqjLVRRyzYPTAJPwtV8q8Sgvubco6sHhaMJ2QojsrLtX3KbLQogBUP995Yj-5ieo1lhyOhzPg",
+      "photoAttribution": "Lars Rønn",
+      "placeId": "ChIJ1b6g8QKIakYRJZFnH7CUWII",
+      "phone": "61 28 60 00",
+      "address": "Turisthotellvegen 6, 2609 Lillehammer, Norway"
+    },
+    {
+      "name": "Opus XVI, an SLH Hotel",
+      "coord": [
+        60.393699000000005,
+        5.3273079999999995
+      ],
+      "desc": "Historic boutique hotel in Bergen's UNESCO Bryggen district",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2434763563261089554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 739,
+      "website": "https://opusxvi.no/nb/",
+      "photoRef": "places/ChIJawQtfaj-PEYREtc9lI8EyiE/photos/AcnlKN3JL0OyDo7DfFVrIBoiPdAVVIPb8pOh91CABu0gcoH0Znlmxr9Txt-s7xQRfIs8LOOsfD_5iI0Ofsv2uTRnaFO0T9m491uIe2RgkLqzWz1oQIO8_R2nJDV9waxCf5gWbJoltmNKLNgex2IUqG0k9hGx7QhRMX6faKIh9JIVxHpMV3-xNTyI6c1jGnIAgoCVHALfZXxVvQ0fyCPbN3pByCCpB9T2CgtSLuHonYrc53tzkQtEex86e5zy6zwuzNWkk77Ij-1XvOP7ipXFWA-XsLtYxA7TkABvAr7Afxyj6gfq0w",
+      "photoAttribution": "Opus XVI, an SLH Hotel",
+      "placeId": "ChIJawQtfaj-PEYREtc9lI8EyiE",
+      "phone": "53 01 22 00",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Vågsallmenningen 16, 5014 Bergen, Norway"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Maaemo",
+      "coord": [
+        59.907545,
+        10.7581829
+      ],
+      "desc": "Three Michelin-star fine dining, innovative Nordic cuisine, tasting menu experience",
+      "longDesc": "Oslo's most celebrated restaurant showcasing cutting-edge Scandinavian cooking with seasonal ingredients, offering an unforgettable gastronomic journey.",
+      "gmapsUrl": "https://maps.google.com/?cid=3396566054048758466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 846,
+      "website": "http://www.maaemo.no/",
+      "photoRef": "places/ChIJhyP_qopuQUYRwvq5k9QGIy8/photos/AcnlKN0wJkL2sCF5Ef6fa16DjmMbHEf4eN3wz2jaX3xtxnUUcR9m9TH8xvgLVfc4ocACGAeWpkH_uWITpJ48q1jSPPFkFvClzvNG8L8bKHifi-eoxpeX4cvUTf79Cogbp2oqLnkKtVQ8bMSQjtZNIoMwOKgCuse-0JmOeVNvbsFDtATkHD4-pw4XiuCs-gcR_ZqzzefyXLWarogWewfxWedK4Sh_dAPjZB6Z7cQ9bYNt5504L5Ao_DbhdsjMD-CUfF0lX89uxNnViwO606TnXPwCwEdV22ZcM8Vl9CpvRYHwSJ4DUA",
+      "photoAttribution": "Maaemo",
+      "placeId": "ChIJhyP_qopuQUYRwvq5k9QGIy8",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 6:00 PM – 12:00 AM",
+        "Wednesday: 6:00 PM – 12:00 AM",
+        "Thursday: 6:00 PM – 12:00 AM",
+        "Friday: 5:00 PM – 12:00 AM",
+        "Saturday: 5:00 PM – 12:00 AM",
+        "Sunday: Closed"
+      ],
+      "address": "Dronning Eufemias gate 23, 0194 Oslo, Norway",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Hekkan Burger Bergen",
+      "coord": [
+        60.389769,
+        5.3237936
+      ],
+      "desc": "Casual burger joint, craft beer, relaxed atmosphere, excellent local ingredients",
+      "longDesc": "A laid-back favorite in Bergen's lively food scene, serving creative burgers and local craft beers in a welcoming, family-approved environment.",
+      "gmapsUrl": "https://maps.google.com/?cid=7571872526739045011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 553,
+      "website": "http://www.hekkanburger.no/",
+      "photoRef": "places/ChIJmcfTfjT_PEYRk_rREPKxFGk/photos/AcnlKN2U-x0YAyj2y5jfsFMbz8qrtuxdTemql3Ilg2bkFKLMxg0L5njjyyULI9GHSixgDEyPKq6NvLQnV6UzOa3owDQCcd1yz09THNVBYo-cBwFBCg0r0T8uYEcmN9bWzzqsyhjKi2DrVZc-lpJl0tlAAhPp3ssPFsS6rlPWAx_2ttDssWrMqCWE8MWaaYtZTPxv9hUYHKCNHdV5WAGDbcVfsl8xeFMCTKR8_k6eEgkVch3I9aup0Z7HlCu8qJBW5AH6bm_7tdvZOFvSSU8mVMApZWOhS1-apfOUL0Ce0p7bv6u0upd8H45Qs8Rcw-QDz5GCZT05RDZ4AeFw8V4mUl2aPmfqbq1lnnFmxnpGIgC4o2Y7L_hBbn_IHDFDQqRE1rch_eW6IQ0EMLMskLpuf9sW9Mg_dWq03haGuqUBMKRBqGw",
+      "photoAttribution": "Ruslan Gubaidullin",
+      "placeId": "ChIJmcfTfjT_PEYRk_rREPKxFGk",
+      "phone": "93 01 09 45",
+      "hours": [
+        "Monday: 2:00 – 10:00 PM",
+        "Tuesday: 2:00 – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 1:00 – 10:00 PM"
+      ],
+      "address": "Christies gate 7, 5015 Bergen, Norway",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Kolonihagen Frogner",
+      "coord": [
+        59.918879800000006,
+        10.710022400000001
+      ],
+      "desc": "Organic farm-to-table restaurant in central Oslo",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7418663003624221172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 385,
+      "website": "http://www.kolonihagenfrogner.no/",
+      "photoRef": "places/ChIJZxeP-UZuQUYR9KlaL7Ji9GY/photos/AcnlKN0riG8xldhyCmQ0iVnzR2iu_m2602UThXt4e0JZ01Xa5LNDawqHGI_nl2WQlzzMEV3YdtKTA_bJBCK3wFN0fGesi15jAOB5HRL31d9PWECGH0-rp0itpkUeScU8_Dv2LEJdkxEP635hkY6RN-6DyPNrXMmUF5Pu1Z3VtMJnlP7SxNJwxfbHcuoyQnd_mK4bR_bFpUtRjRqFTHQHNa7HN6DLqiEDRuvgYqKwPA9SAjNW8k6lUpWMmFamcA0QhEtj4basnS38JkW-JjH-OZSMIhMs83WTESbjKJk7wv9h4SQiqA",
+      "photoAttribution": "Restaurant Kolonihagen Frogner",
+      "placeId": "ChIJZxeP-UZuQUYR9KlaL7Ji9GY",
+      "phone": "99 31 68 10",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Friday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+        "Saturday: 1:00 – 4:00 PM, 5:00 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Frognerveien 33, 0263 Oslo, Norway",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Theatercaféen",
+      "coord": [
+        59.91403999999999,
+        10.733891
+      ],
+      "desc": "Historic Viennese-style café and restaurant in central Oslo",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17284802913749042949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Coffee",
+        "Cultural & Historical",
+        "Good for Lunch"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1009,
+      "website": "https://www.theatercafeen.no/",
+      "photoRef": "places/ChIJKUfL-n1uQUYRBQem1qv03-8/photos/AcnlKN1laxxJ8jCk6Dj4FPdzmeSEW0upP3RtzrTh5qME6Qb4olGrugC4hyt_ZFzWGyaSyp7hCw0KUz7DroUfxYtKbZIBErgjMCqZQPthHfTNaGIyhHFCNbrL5Wblt2n64dI8zpDe-kr4ACV9vhIp37XOTBAQySiXWCdA9JPOId-_Ipt8JyeivZIwosckX78VVmlXEB5Xuc3WOVqypACcE3qENbzaopUQcE9qxuWXzF0xjIDb1cN0TN0jGD7XrjYALvmvZF6LO1yjtLmHVmbl5kHI9HEKzJr7cYPN9PxQ0WIaoOFhfg",
+      "photoAttribution": "Theatercaféen",
+      "placeId": "ChIJKUfL-n1uQUYRBQem1qv03-8",
+      "phone": "22 82 40 50",
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 4:00 – 10:00 PM"
+      ],
+      "address": "Stortingsgata 24 - 26, 0117 Oslo, Norway",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Utsikten Hotel",
+      "coord": [
+        62.092558499999996,
+        7.2239835999999995
+      ],
+      "desc": "Historic hotel restaurant with panoramic fjord views and Norwegian classics",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11445540149381238582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Good for Dinner",
+        "Local Delicacies",
+        "Scenic Views",
+        "Romantic"
+      ],
+      "rating": 4.4,
+      "ratingCount": 373,
+      "website": "https://hotell-utsikten.no/?utm_source=google&utm_medium=organic&utm_campaign=google_business&utm_content=utsikten",
+      "photoRef": "places/ChIJG3163hMmFEYRNg9X8h-61p4/photos/AcnlKN3nLycPs5sxOaJqYiC5M0zmed7cBkc89bBhoV5Bayh0rmabNmyYNNOsg0eghke9X0CyXUf4KOAFIAlfpe7jAB5m_0Ynqg1RebLRE-dIpcCq8cKj_bNDOHhg9rn4w9yRvWXaohGJHUH3OA8FzKYV4KJXxjaNmp2fTPAN-ea9mf0EXaNQhRj5SVd8_y1G4OOSl1GV9thZTo3lGLIUiW2GR3ROajGQn-4n_PayMDNpogOjeo2786N6R7O1BlWDb1NQtpEFroH2_I2ELKVFic6RYSBLyxkxChuZg8SUOIK554vwjg",
+      "photoAttribution": "Hotell Utsikten Geiranger - by Classic Norway Hotels",
+      "placeId": "ChIJG3163hMmFEYRNg9X8h-61p4",
+      "phone": "70 26 96 60",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Geirangervegen 348, 6216 Geiranger, Norway"
+    },
+    {
+      "name": "Trollstigen Drift As",
+      "coord": [
+        62.4992095,
+        7.671257600000001
+      ],
+      "desc": "Mountain café with warming soups and traditional Norwegian waffles",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6581858779459842869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Budget Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 109,
+      "photoRef": "places/ChIJY1kpOI0PFEYRNXN9D7B1V1s/photos/AcnlKN0OCTbseW3vjfmLpbJiBv07pDWd-RsRm6gpCZa_9u6wCx9LS-5fi4DuDAQz7qt-kuT_fzR1cjI-Q2h9Lc2h26xuP41uxggivlFuVjtfVtmSAyU5-UbXNoifI3tz-hxIzwpkNhvKfwgm4ui_ucuPJ8GJS7h2NbNW7WzZJn9hG3e7Sx_R49mu_cOBUiKdVOBlQo5-3IlSiOINsUA9I31RG_x-GYinWHjeHuNW3dDf_DAx-eIiq7aVzyfOrY_rvalWUsFBt7_ES1mQ5IGrjuflCtfcFf-ipWELcTYYv-hs76lx1fufvLtc9pSz7rbaGKO7AcEqoyOW-nweiim01OYdn5qhpB2_8PYuKGVNum9TSQ2aBSFDVlCKoJcheLJp9_1gdQIG5XtIqls2OYvLcV3GyWDLDNZCy5klAKgf2l4ZCsXq5w",
+      "photoAttribution": "Phil Baughn",
+      "placeId": "ChIJY1kpOI0PFEYRNXN9D7B1V1s",
+      "phone": "94 84 97 55",
+      "hours": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: 11:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM"
+      ],
+      "address": "Rauma Municipality, Norway"
+    },
+    {
+      "name": "Lysverket",
+      "coord": [
+        60.389328,
+        5.3292112
+      ],
+      "desc": "Contemporary Norwegian cuisine in a historic art museum building",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18194159166680325512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Art & Design"
+      ],
+      "rating": 4.4,
+      "ratingCount": 601,
+      "website": "http://www.lysverket.no/",
+      "photoRef": "places/ChIJA5Bcbqn-PEYRiN3lhF2jfvw/photos/AcnlKN1zl-Ic6RF9ov2585xzJJaf80i2yJbumMFLQroMF1Mu0oC5zY8-8HS_cT3qIK1omWKevuUeGTnvhVbtqf9YXDb4pvI2SpiuXgGcnGGt7VdvYekOXwC_uwXJo4FfPP6WEJIWH9knIVnUkDNM5xD20q28J8uP0tmDz3vaMqls6UM_MiOa_Y2CODrVexkZnbIsffP8dP0gbztAPkjFQ7UZhpTekeS5PKVWdBvac8SFxuvD2o-6acWVzbkdh922-0-ZN6T8uWhhnKItWDIPHr98X1RgEdJaCX2nzrRuElIhnfrIjA",
+      "photoAttribution": "Lysverket",
+      "placeId": "ChIJA5Bcbqn-PEYRiN3lhF2jfvw",
+      "phone": "55 60 31 00",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 6:00 – 11:00 PM",
+        "Wednesday: 6:00 – 11:00 PM",
+        "Thursday: 6:00 – 11:00 PM",
+        "Friday: 6:00 – 11:00 PM",
+        "Saturday: 6:00 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Rasmus Meyers allé 9, 5015 Bergen, Norway",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "The Unicorn Fish Restaurant",
+      "coord": [
+        60.397215,
+        5.3234084
+      ],
+      "desc": "Historic seafood restaurant located in Bryggen",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1890147422571245607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Cultural & Historical"
+      ],
+      "rating": 4.5,
+      "ratingCount": 922,
+      "website": "http://www.enhjorningen.no/",
+      "photoRef": "places/ChIJpZz8ex38PEYRJ7B6_xAnOxo/photos/AcnlKN0KibSMMWkRP-0ofNLyB2St8c6hlPTIob3VYf5ONPeCmAmY_rz8XIJD9m1Ct8HiQII7anzSMaOBxqGAuQj1QvzcvdFIWulrvDzNe-Rrpy-qyBqOBFOjwWoncl67OU3w8mJU1Hjfz76a5SSr5Pv3zg76O3vCkE4Gd7Vvs4IrjJD_BjHI0dYusONQwEj4g0R_5QTiFWR8274fU7QWGd2PoV1ajOW5c0cSzfzSc7wlMziPZe9bXw3dQyAvMS0Bj_MUWHMksvd2mxaNI6SGiKcZhGd8RoKICEToYyaPl6-CMGfVag",
+      "photoAttribution": "Enhjørningen Fiskerestaurant",
+      "placeId": "ChIJpZz8ex38PEYRJ7B6_xAnOxo",
+      "phone": "55 30 69 50",
+      "hours": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 – 11:00 PM",
+        "Wednesday: 4:00 – 11:00 PM",
+        "Thursday: 4:00 – 11:00 PM",
+        "Friday: 4:00 – 11:00 PM",
+        "Saturday: 4:00 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Enhjørningsgården 29, 5003 Bergen, Norway",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Fuglen",
+      "coord": [
+        59.91714869999999,
+        10.739899
+      ],
+      "desc": "Vintage café serving exceptional Norwegian coffee in a 1960s setting",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12811641708447730262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Casual Eats",
+        "Hidden Gem",
+        "Photography Worthy"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1819,
+      "website": "http://www.fuglen.no/",
+      "photoRef": "places/ChIJc8XN8nxuQUYRVgqbPUEYzLE/photos/AcnlKN0Uaat4ixXbc9ujjw3rfzwgeC8dWhw9GesMsDWJw8xrfFuyD3aWfYwXv9jkfzB3_jFTyVLLFAMDunXPDY4yrlqbXgPWHzyAD6vZL0lz1_qqzKXqCC7R19kFspCKcEDThSNYRI8PHc7UpvarjRfXCw9aa45RxB3exSj8mLV5u1RXttWDjTIAiKlvk8TfV4MZW7k679i7HW_2Qt9SgxWIEksdUBa_ydwRUU4Ei4sy3Jpi4hWFzcW9L4XmOkQHjyVMtn7fbDpJi9vSz5xsPOx-o4GOTLNVBmCCGVBnROOnlvl-5w",
+      "photoAttribution": "Fuglen",
+      "placeId": "ChIJc8XN8nxuQUYRVgqbPUEYzLE",
+      "phone": "22 20 08 80",
+      "hours": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 12:00 AM",
+        "Thursday: 7:30 AM – 12:00 AM",
+        "Friday: 7:30 AM – 1:00 AM",
+        "Saturday: 9:00 AM – 1:00 AM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ],
+      "address": "Universitetsgata 2, 0164 Oslo, Norway",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Brasserie Posten",
+      "coord": [
+        62.1022452,
+        7.205527900000001
+      ],
+      "desc": "Casual waterfront bistro with family-friendly Norwegian fare",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3659680656111165324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.6,
+      "ratingCount": 908,
+      "website": "https://www.brasserieposten.no/",
+      "photoRef": "places/ChIJiVY00EYmFEYRjN_fuirMyTI/photos/AcnlKN2K0GFAa2Pe9_hVmhfk6PL_rzxaE70TypaKL5yEJYdmkkedfR-DNfzjjKars_ro496nJ8H3DiidgX1Gzr27i5K9_Zp1sHPd1WpH44Ym0zEs2eIuANR6a1ULsiPtArWXGjvxzs8VaqrEQlevSBN3gKNjh4pjgran51R2NCGo6Un4rXIA77liTQKB7ezy9wuuBRXYH85OtlNOeTSBeChl9LpYX3ENSTbj9h-jSZKHe9ctPjnQjwpV4uzskiae20UeFOh3r0kEICFTV9l9hk00EFu_mZuxIwHa2KHulKDnn6L7ug",
+      "photoAttribution": "Brasserie Posten",
+      "placeId": "ChIJiVY00EYmFEYRjN_fuirMyTI",
+      "phone": "70 26 13 06",
+      "address": "Geirangervegen 4, 6216 Geiranger, Norway",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Westerås Restaurant",
+      "coord": [
+        62.100966099999994,
+        7.2164896999999995
+      ],
+      "desc": "Traditional farm-to-table dining with mountain views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17170452456045646560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 536,
+      "website": "https://www.facebook.com/WesteraasGard",
+      "photoRef": "places/ChIJB4AY1z8mFEYR4JJVK4mzSe4/photos/AcnlKN1VCyrsdOSN3I8f8EDUV2cWW37qOC0otnAcXIEwdxTnNMVKgb5l9VJFcsjI-O7DU9X0CCnrZaf7NuxjxnF629CL7V9zUtaNB08ik4fqRbcnPOt5IGPCrabeZu0r4eUpqmjVtjWQMGKnYH2ztg1UyoDsOn-w3ZmiVHqjYfafIS2BqDOgYSXY7nCzCHAD8KlSvjEoXVlKbQHZfNJpo07l8tDohzoq3XnPpplMdQwduxTiwdU_vKbbXPAJ0ccp7-acA1rLisitWAFeF-bWr_iyq9IUNlvaivM5LnDwb0HA4qpO-aQ8KT0pWPRJin-Slaebzt7umxsGfwvrVHANxa7FnylK9rUj1K8cU5n-6Adw1AbaiLLxLV7Y86g-akSpYrxZnQmo6ZXtByK6oyKGG8ya_AK3ZPJEVaSlC6Rdc4QDLtdnOKNT",
+      "photoAttribution": "بدر العلي",
+      "placeId": "ChIJB4AY1z8mFEYR4JJVK4mzSe4",
+      "phone": "92 64 95 37",
+      "address": "Gnr 121 Bnr 5, Geirangervegen 320, 6216 Geiranger, Norway",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Baker Brun",
+      "coord": [
+        60.39746340000001,
+        5.322654
+      ],
+      "desc": "Beloved local bakery chain with fresh sandwiches perfect for travel day",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11272661630392642295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Breakfast Spot",
+        "Budget Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.3,
+      "ratingCount": 859,
+      "website": "https://bakerbrun.no/bakerier/bryggen/",
+      "photoRef": "places/ChIJlQYv3af-PEYR96q6GAeKcJw/photos/AcnlKN0_XZqj7z-jumfP6hXF2uiupDMjoq6Pff1jV6-_3uOY1MsfIEYYCwKOD33IVTRlxpkXV5OJVIRFrY6Bw2tg4qoxEbH5vRv-bEm_BwAwF8i3Bii7V3Lhhu847JTAcWzDOunQ9FsQcw-D9_sA31iuY-NDJgYvn2IsqgbFFDv5VSrOEzjLJlk2LrHD-eDhDHzR2_zG5mvEbxfZBVgxP4L7AgpxeWZgzSNWYmJBNsNGY9n4w2mqNOpH5KWqmvLr5js2R0T5KFlql5cXdDNDLyMw0HF4l1zB8inOfvXewkO24-FpSsqpqEUpi-bTIfjT8MKmD0UVL-DEcKGMsdamsbC_GkNQ8LDLnDNlusiwgc-LfojoUQIqlcNrIQv25r2gBBZhBDw5x3WkEYkKYjlLOKcZwp5ckFn000Ap5pLKl3D896irLzzz",
+      "photoAttribution": "Fabio",
+      "placeId": "ChIJlQYv3af-PEYR96q6GAeKcJw",
+      "phone": "93 07 95 14",
+      "hours": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Englegården, Nye, Bryggen 41, 5003 Bergen, Norway",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Narvik",
@@ -179,7 +679,8 @@
       "tags": [
         "Photography Worthy",
         "Adventure & Active",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Half-Day Trip"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=8951158478221604493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "photoRef": "places/ChIJ_x_kxYeV20URjfaf7jXnOHw/photos/AcnlKN1whMDxjNI5fKm9ARnnNgq5Br0sjps2wxCixsTMlPwNgDCNJ8-kF8yJjAFEaMZ3YBiHPDmn15Xl0qBkCtkHZjhnZkLouHzoV62ebgImQL9OjDHrbib1Qu8qzqWyivpbz-m6Pa9qgP1uawSRLy45ujwJeEEHDtuYPF6CpF923U7zdea7_VckD03-LfShuZOpaBywNG6bpgIcI9Cf2nVAd_H3TjKwFiHH4lSdKxsZ5_bOJI_w48f4W26XSU-HIoGJ8K11ryIpuGSU8j6F9pwWOgzs-b6L__aAD2Z3-L1O8ElzeNx7PNQYvFBcFD2lU-fYwFI3cpn51Bh185vuAkh6837Z0oL6uifkAeBJ3AegR7ndN7yNB1Lta3hAzpa1nRm4muSmBtaMKpoiuvQr6dLuQFfaiXF4d-MZh08YYU6EhfztR7_v",
@@ -196,7 +697,9 @@
       "tags": [
         "Photography Worthy",
         "Adventure & Active",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Full-Day Activity"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=7033656590888352861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -223,7 +726,8 @@
       "tags": [
         "Adventure & Active",
         "Splurge",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Full-Day Activity"
       ],
       "phone": "70 11 44 30"
     },
@@ -276,7 +780,8 @@
         "Fine Dining",
         "Cultural & Historical",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See"
       ]
     },
     {
@@ -297,7 +802,8 @@
         "Art & Design",
         "Photography Worthy",
         "Splurge",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Hidden Gem"
       ]
     },
     {
@@ -320,7 +826,8 @@
         "Adventure & Active",
         "Photography Worthy",
         "Outdoor & Nature",
-        "Romantic"
+        "Romantic",
+        "Full-Day Activity"
       ],
       "hours": [
         "Monday: 8:00 AM – 4:00 PM",
@@ -332,10 +839,167 @@
         "Sunday: Closed"
       ],
       "phone": "70 11 44 30"
+    },
+    {
+      "name": "Pulpit Rock",
+      "coord": [
+        58.98641,
+        6.1904395999999995
+      ],
+      "desc": "Iconic cliff viewpoint, dramatic fjord views, scenic hiking trail, photography paradise",
+      "longDesc": "One of Norway's most recognizable natural wonders, this breathtaking cliff offers families an exhilarating hike rewarded with stunning Lysefjord panoramas.",
+      "gmapsUrl": "https://maps.google.com/?cid=5369388883394148235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 4016,
+      "website": "http://www.regionstavanger.com/no/ATTRAKSJONER/Fjell/?TLp=40142&Preikestolen=",
+      "photoRef": "places/ChIJCetU9hvVO0YRi7ejv73mg0o/photos/AcnlKN2n4wW8hyQWiC2RtV7wfrlb3fsrdFzUxGwHDOrO61XtToygilNLAoHzsb2QJayQkBnulqOYWfX0Ok99kBgi_CXqGQj1qQPYFI8x7L4gTa0U0HP9aReN5CJpTSmPZzAulQXsjPzJ11KNUDlPH0LGtV3FOXoog_3IgkjoaNhFnQyTB_AIC7LSKHnhmoRyTGgmK8iSNHJ9VmFjnghJXka4F52CDWTv4Qnmm8ENmoUDfcCPwQJdEvpstRy5y_q-aC0zjg1M_1xCCFmNSec17-5QvzT0P87KHwkZDjNfVhHdLU10SIk-NVdf62bUgZmrPSBS-8Fvd9LwM_yDAZBhroeIb9EBc7SCbG6_2CaVeg0gI8UkUsbjNVyy-5SkX-J5s-kzOBR9vJOKYC6DW8M1AXwf34oHIqDNAvGsL2kE706X4yIeTtha",
+      "photoAttribution": "Çetin ATEŞ",
+      "placeId": "ChIJCetU9hvVO0YRi7ejv73mg0o",
+      "address": "Pulpit Rock, Strand, Norway"
+    },
+    {
+      "name": "Munch",
+      "coord": [
+        59.905903699999996,
+        10.7552605
+      ],
+      "desc": "World-class art museum, The Scream, Norwegian expressionism, modern architecture",
+      "longDesc": "Housing Edvard Munch's masterpieces and extensive collection, this impressive museum introduces families to Norwegian artistic heritage in an engaging setting.",
+      "gmapsUrl": "https://maps.google.com/?cid=7295538454545109531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Rainy Day",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 16487,
+      "website": "https://www.munch.no/",
+      "photoRef": "places/ChIJJ0uE7VtuQUYRGxJdLJL1PmU/photos/AcnlKN1WJv8abJ7EcbtnnEvtow_liRam_QdzXLEEFtyT-zmbbP8W4B4aLIO-i8zy6kVA2YfJWsSM4dWGNh185V-BIiCG_Vj2EBjA6qaXTb6TDpWiyHcSM8n_8fICC6EziFoQvntM7WO0w6KK_oAUtVvTNJ_TxYRsZJ2PRI4UVXmyd1DDyXomIGIVoaRZstBaPpLxT06w8hnXo1CNsvA3n01YWpSPKG8bxxH3v6Af8Hi90Cal31juJiYq4F-Qe6T_a5zWSZFsHJTW1ZiHcTnd_kqSeeUjZy9iz56fk8IKcwLWRO7VODrK31106W1YkdSABiYO8LXNVs8JmAK1iAf9gSWafMg4kjKVBJX5IZljQzWzphyi8ZBW7dukqp8d4-IOuhzQaR0gmlGrPxv-clQvk_IANqABiAolgkln3_i6OvMXWBEKLF3z",
+      "photoAttribution": "Sansalı",
+      "placeId": "ChIJJ0uE7VtuQUYRGxJdLJL1PmU",
+      "phone": "23 49 35 00",
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Edvard Munchs Plass 1, 0194 Oslo, Norway"
+    },
+    {
+      "name": "Trollstigen Utsiktpunkt",
+      "coord": [
+        62.455072400000006,
+        7.6670243
+      ],
+      "desc": "Dramatic hairpin mountain pass with waterfalls and viewing platforms",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16761776795772381269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.8,
+      "ratingCount": 6421,
+      "photoRef": "places/ChIJIdsdnnMOFEYRVehlJDDLneg/photos/AcnlKN1f_aJuPsDDpGqH0dMXMG5q0d9d87CjrHm9_Q9yY4httHLX_W4jbKs6AeMnvrVPbWsbK03SaPHxF06uX1Bkh_AmvCuT8jmWGPRLEoP2sJoJ6FplHuOisGyiupqsZK3uMsJ_InTWpHxfD0DsJjN3tW7-MGTfRe3jh4eYgcbJjmr68V_O7nS2aNgoadc_75KmKFg4uIGUTHpnTdM9GbVRXjAWwdSGNuWgEINvsTDGyWYPAmFBCRhTBFWqlp_u-Z0fIQts1rQcQv6Pjoe01Dr3ca4DDLDBylHnMdUIaj48kbeq9Q1M0Kwv14ww1XUki1FDY_tArpO4Lwi6kIBXHAfSRCQ97rpFw6TUDX3yQFieZHIokTBgYgxd1uWD5Q4nDxZ-OsQ4jV8L6A_mVTP2SWfzANCQyeawRe24oWekofLunLl5OFw",
+      "photoAttribution": "Frederik Baun",
+      "placeId": "ChIJIdsdnnMOFEYRVehlJDDLneg",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Trollstigen, 6300 Åndalsnes, Norway"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Kristiansand Zoo and Amusement Park",
+      "coord": [
+        58.181836999999994,
+        8.146151399999999
+      ],
+      "desc": "Family amusement park, zoo animals, rides and attractions, summer entertainment",
+      "longDesc": "Southern Norway's premier family destination combining a modern zoo with thrilling rides and attractions, ensuring days of joy for children of all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=15609188727622428484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Playgrounds",
+        "Good for Groups"
+      ],
+      "rating": 4.5,
+      "ratingCount": 11864,
+      "website": "https://www.dyreparken.no/",
+      "photoRef": "places/ChIJlbqbn54COEYRRGf3XXL6ntg/photos/AcnlKN19z0luDqBPnufYiCEMs2aY3vwEgr3yU76tg-T3VoR_eDw8a6AnAbEthk9cSfRFS2Ts-60J09qqb37TMupC-uCzaT1KqOGdVDPPD7JesuSuov93apwrbYADurTZAfV05ZJjl20lgcV7DLr32YjzB_DMA77e5-bf1_uPhZexaQaV0H1v_GyWIBKYv_8xQqqaxE_mC95BYed5tQpDV0AAc6wF1Tx85AES0XhP1Pzw-xu4sWfxN7QuO6gKrUbTRp8jDmWRTBYduGDMI3V7WdsebElnyworFUN_UeF9_7cDLGXVI0WS9hhBxwG_LEYTWx5IT_iCBMIbaE5haeCGdl0O2FRQH0SKh-vR7x7MVECMG-Xw_jw1SD8D_HjMqmiJsU5Z4OgjM-N-MYT92tHXoDqptiBZ_GzV640lhxM-Cb1fmg4kow",
+      "photoAttribution": "Paul Vindal",
+      "placeId": "ChIJlbqbn54COEYRRGf3XXL6ntg",
+      "phone": "97 05 97 00",
+      "hours": [
+        "Monday: 10:00 AM – 3:00 PM",
+        "Tuesday: 10:00 AM – 3:00 PM",
+        "Wednesday: 10:00 AM – 3:00 PM",
+        "Thursday: 10:00 AM – 3:00 PM",
+        "Friday: 10:00 AM – 3:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ],
+      "address": "Dyreparkveien 1, 4636 Kristiansand, Norway"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mathallen Oslo",
+      "coord": [
+        59.922229699999995,
+        10.7520516
+      ],
+      "desc": "Indoor food market, local producers, gourmet delicacies, dining stalls, artisan goods",
+      "longDesc": "A bustling food hall showcasing Norway's best culinary artisans, from fresh seafood to local cheeses, perfect for family food discovery and casual dining.",
+      "gmapsUrl": "https://maps.google.com/?cid=11936280659795236291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Good for Lunch",
+        "Shopping",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.5,
+      "ratingCount": 9703,
+      "website": "https://mathallenoslo.no/",
+      "photoRef": "places/ChIJLSeTf2VuQUYRw9V12gQwpqU/photos/AcnlKN02aq498segagDahU-q78mo-ZtNHE-BBnwj_DTtFguhTsLuEJeTw-MOIWM-qePGc3oX2POCaUI9SJJ8G6UYvJ9B6vb9BKnra7JGuVXcwpRT5_f8kPWRv8O7UDGyPIdrvvZ_1d4Q9XJMp0dHuBkUeeCNstkpXYVDxdhnG4Fq6kzJGbD2a8QeZ-retQ5sinjZqoJjXrCvqvScTg_suzYyZZLtZElBXyrTNxGvSV-U49fVaM15SaHtthWs7PIbESMbHa_pJv3Ybdyivu4drrdjebOInDU81E3eZWwQ9NqCIQ4T0A",
+      "photoAttribution": "Mathallen Oslo",
+      "placeId": "ChIJLSeTf2VuQUYRw9V12gQwpqU",
+      "phone": "40 00 12 09",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM"
+      ],
+      "address": "Vulkan 5, 0178 Oslo, Norway"
+    }
+  ],
   "cityCenters": {
     "Åmot": [
       61.3639,
@@ -368,5 +1032,457 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Fjords, Farms & Fairytales: A Norway Family Adventure (10 Days)",
+      "description": "An enchanting journey through Norway's most magical landscapes, from Oslo's urban charm to the UNESCO fjords, staying in storybook hotels where kids can explore riverside saunas, glass-walled forest rooms, and mountain trails at their own pace.",
+      "familyFriendly": true,
+      "duration": 10,
+      "bases": [
+        "Oslo",
+        "Geirangerfjord",
+        "Valldal"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Oslo",
+          "dayType": "urban",
+          "base": "Oslo",
+          "items": [
+            {
+              "name": "THE THIEF",
+              "type": "hotel",
+              "coord": [
+                59.90763899999999,
+                10.7210813
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Kolonihagen Frogner",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Organic farm-to-table restaurant in central Oslo",
+              "suggestedCity": "Oslo"
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Mathallen Oslo",
+              "type": "dinner",
+              "coord": [
+                59.922229699999995,
+                10.7520516
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Discovering Oslo",
+          "dayType": "urban",
+          "base": "Oslo",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Fuglen",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Vintage café serving exceptional Norwegian coffee in a 1960s setting",
+              "suggestedCity": "Oslo"
+            },
+            {
+              "name": "Munch",
+              "type": "sightseeing",
+              "coord": [
+                59.905903699999996,
+                10.7552605
+              ]
+            },
+            {
+              "name": "Theatercaféen",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic Viennese-style café and restaurant in central Oslo",
+              "suggestedCity": "Oslo"
+            },
+            {
+              "name": "Solli Plass",
+              "type": "sightseeing",
+              "coord": [
+                59.914636,
+                10.7172535
+              ]
+            },
+            {
+              "name": "Afternoon pool time at hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Maaemo",
+              "type": "dinner",
+              "coord": [
+                59.907545,
+                10.7581829
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Transit to Fjord Country",
+          "dayType": "rural",
+          "base": "Geirangerfjord",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning flight from Oslo to Ålesund, then scenic drive to Geirangerfjord (approximately 5 hours total)",
+              "type": "info"
+            },
+            {
+              "name": "Union Øye",
+              "type": "hotel",
+              "coord": [
+                62.1926792,
+                6.6603251
+              ]
+            },
+            {
+              "name": "Hotel Utsikten Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic hotel restaurant with panoramic fjord views and Norwegian classics",
+              "suggestedCity": "Geirangerfjord"
+            },
+            {
+              "name": "Afternoon exploring hotel grounds and fjord views",
+              "type": "freeTime"
+            },
+            {
+              "name": "Union Øye dining room",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Intimate fine dining featuring local ingredients and fjord-inspired cuisine",
+              "suggestedCity": "Geirangerfjord"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Geirangerfjord Adventure",
+          "dayType": "rural",
+          "base": "Geirangerfjord",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "62 Nord",
+              "type": "sightseeing",
+              "coord": [
+                62.4724169,
+                6.153895299999999
+              ]
+            },
+            {
+              "name": "Brasserie Posten",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual waterfront bistro with family-friendly Norwegian fare",
+              "suggestedCity": "Geirangerfjord"
+            },
+            {
+              "name": "Afternoon nap time for little ones",
+              "type": "nap"
+            },
+            {
+              "name": "Easy fjord walk near hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Westerås Farm Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional farm-to-table dining with mountain views",
+              "suggestedCity": "Geirangerfjord"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Short Transfer to Valldal",
+          "dayType": "rural",
+          "base": "Valldal",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Scenic 45-minute drive along the fjord to Valldal",
+              "type": "info"
+            },
+            {
+              "name": "Juvet Landscape Hotel",
+              "type": "hotel",
+              "coord": [
+                62.33250700000001,
+                7.4708615
+              ]
+            },
+            {
+              "name": "Hotel restaurant lunch",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Minimalist dining room with floor-to-ceiling mountain views",
+              "suggestedCity": "Valldal"
+            },
+            {
+              "name": "Afternoon exploring hotel's unique glass-walled rooms and nature trails",
+              "type": "freeTime"
+            },
+            {
+              "name": "Juvet dining experience",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Evening tasting menu celebrating local Norwegian ingredients",
+              "suggestedCity": "Valldal"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Trollstigen & Mountain Views",
+          "dayType": "rural",
+          "base": "Valldal",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Trollstigen mountain road scenic drive",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Dramatic hairpin mountain pass with waterfalls and viewing platforms",
+              "suggestedCity": "Valldal"
+            },
+            {
+              "name": "Trollstigen Café",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Mountain café with warming soups and traditional Norwegian waffles",
+              "suggestedCity": "Valldal"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Quiet time in hotel's glass cubes watching the landscape",
+              "type": "freeTime"
+            },
+            {
+              "name": "Hotel restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Intimate evening dining at Juvet",
+              "suggestedCity": "Valldal"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Transfer to Riverside Retreat",
+          "dayType": "rural",
+          "base": "Åmot",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Scenic 90-minute drive through valleys to Åmot",
+              "type": "info"
+            },
+            {
+              "name": "Åmot",
+              "type": "hotel",
+              "coord": [
+                61.3639261,
+                5.7305516
+              ]
+            },
+            {
+              "name": "Hotel's foraging lunch experience",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Hand-foraged ingredients prepared on the estate",
+              "suggestedCity": "Åmot"
+            },
+            {
+              "name": "Riverside sauna and gentle walks around the 19th-century estate",
+              "type": "freeTime"
+            },
+            {
+              "name": "Estate dining room",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Multi-course dinner showcasing the estate's gardens and local produce",
+              "suggestedCity": "Åmot"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Farm Life & Nature",
+          "dayType": "rural",
+          "base": "Åmot",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning farm activities and exploring estate grounds with kids",
+              "type": "freeTime"
+            },
+            {
+              "name": "Picnic lunch prepared by hotel",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Estate picnic basket experience",
+              "suggestedCity": "Åmot"
+            },
+            {
+              "name": "Afternoon by the river, kids can play freely",
+              "type": "freeTime"
+            },
+            {
+              "name": "Evening sauna session",
+              "type": "freeTime"
+            },
+            {
+              "name": "Hotel farewell dinner",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Celebratory final dinner at the estate",
+              "suggestedCity": "Åmot"
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Return to Bergen",
+          "dayType": "urban",
+          "base": "Bergen",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning drive to Bergen (approximately 3 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Opus XVI",
+              "type": "hotel",
+              "suggested": true,
+              "suggestedCategory": "hotels",
+              "suggestedDesc": "Historic boutique hotel in Bergen's UNESCO Bryggen district",
+              "suggestedCity": "Bergen"
+            },
+            {
+              "name": "Hekkan Burger Bergen",
+              "type": "lunch",
+              "coord": [
+                60.389769,
+                5.3237936
+              ]
+            },
+            {
+              "name": "Bryggen Wharf exploration",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "UNESCO World Heritage colorful wooden buildings and historic harbor",
+              "suggestedCity": "Bergen"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Lysverket",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary Norwegian cuisine in a historic art museum building",
+              "suggestedCity": "Bergen"
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Departure from Bergen",
+          "dayType": "urban",
+          "base": "Bergen",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning coffee at hotel",
+              "type": "coffee"
+            },
+            {
+              "name": "Final stroll through Bryggen or fish market",
+              "type": "freeTime"
+            },
+            {
+              "name": "Baker Brun",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beloved local bakery chain with fresh sandwiches perfect for travel day",
+              "suggestedCity": "Bergen"
+            },
+            {
+              "name": "Transfer to Bergen Airport for departure",
+              "type": "info"
+            },
+            {
+              "name": "Enhjørningen",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic seafood restaurant located in Bryggen",
+              "suggestedCity": "Bergen"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

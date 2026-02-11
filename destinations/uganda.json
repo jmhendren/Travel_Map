@@ -28,7 +28,8 @@
       "tags": [
         "Art & Design",
         "Cultural & Historical",
-        "Splurge"
+        "Splurge",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -40,12 +41,1307 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "0708 723883"
+    },
+    {
+      "name": "Kampala Serena Hotel",
+      "coord": [
+        0.31941959999999997,
+        32.5864202
+      ],
+      "desc": "Luxury 5-star hotel, lush gardens, fine dining, spa, family suites",
+      "longDesc": "A stunning lakeside luxury hotel in Kampala's heart with beautifully appointed rooms, multiple restaurants, and excellent facilities for families seeking comfort and elegance.",
+      "gmapsUrl": "https://maps.google.com/?cid=9625252651870099699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Romantic",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 6009,
+      "website": "https://www.serenahotels.com/kampala",
+      "photoRef": "places/ChIJWUg1QIG7fRcR85gaRErEk4U/photos/AcnlKN2xnlm_bEfjcUb2TGNZWdQ20u9HS1OAVJEMP6izNl2RbGQ8UyatJQUtwzo6NpydyS-2zAcPZ_aewhojFo7_ZQrqgzPFmMY10XmIJPveZ4YGL8ml1ph7bdUFyuVSj1aDFi7uQqh16YBkjS-d6eD3xYkXXLjpGB4y4lpn0X3BsqxD-EfiqtZS9CN9vTcV4oxTmAhWIgTo3qXR2pgX7yqKs_qQIEmjmHTLImWoe2SWZ_xDYAdjZqehfGIS7FsjeKieHAg4lwQq6S8bHKtNoVxErSaPEVfWTHgyhWFCtWvin3TkEQ",
+      "photoAttribution": "Kampala Serena Hotel",
+      "placeId": "ChIJWUg1QIG7fRcR85gaRErEk4U",
+      "phone": "031 2309000",
+      "hours": [
+        "Monday: 5:00 AM – 9:00 PM",
+        "Tuesday: 5:00 AM – 9:00 PM",
+        "Wednesday: 5:00 AM – 9:00 PM",
+        "Thursday: 5:00 AM – 9:00 PM",
+        "Friday: 5:00 AM – 9:00 PM",
+        "Saturday: 5:00 AM – 9:00 PM",
+        "Sunday: 5:00 AM – 9:00 PM"
+      ],
+      "address": "Kintu Rd, Kampala, Uganda"
+    },
+    {
+      "name": "Rwenzori View Guesthouse",
+      "coord": [
+        0.6685759,
+        30.278758999999997
+      ],
+      "desc": "Boutique hotel, authentic African design, mountain views, cultural experiences",
+      "longDesc": "A charming boutique hotel offering authentic Ugandan hospitality with traditional architecture, mountain views, and personalized service perfect for families exploring western Uganda.",
+      "gmapsUrl": "https://maps.google.com/?cid=14229795057948593896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Scenic Views"
+      ],
+      "rating": 4,
+      "ratingCount": 115,
+      "website": "https://www.ruwenzori-view.com/",
+      "photoRef": "places/ChIJt2aovUHaYxcR6I6iZzZjesU/photos/AcnlKN1VJxkEHntgNUckrqpRDZto4uW6oY7rqU8umQAQ11UxeMTr6O93q8ZK4dnXZeLl-qFE3xFKDXYPpW4GhQvudLOuNmX27-Orf3EZPTBBwrn5bOtlp_TaDvKmPIH7MS2bEaA6UTOUAsBO7ITEvCB_a2beLqLfd7j3RU2OoViptUUYMXoWgzMv5p7bFDTy-ZZ3rOWrwzMO974kKCd_J3Z9uuXqTZa5LRNZSxho6ZzzfrTM3nmJWmdwc2dB4FF4Dade8WOeR_tca-4lZ2E8zS2kG4xGniJAqn30H2te7zLliK2oAyBhgedyEfzGFVhQEdT7Iuwe1Z22L9PvtZ97y9WvEPDDh-wIiOH73tlHyEwZlRhhT_Zt-O3_ay7a3TDfLpUylvzIRokp5Gfyok56CpTBSeRTWmLPCuoV1HKODiTiKhM",
+      "photoAttribution": "Dirk J. Den Hertog",
+      "placeId": "ChIJt2aovUHaYxcR6I6iZzZjesU",
+      "phone": "0772 722102",
+      "address": "Lower Kakiiza Road Boma, Fort Portal, Uganda"
+    },
+    {
+      "name": "Nile Safari Lodge",
+      "coord": [
+        2.2524375,
+        31.520187500000002
+      ],
+      "desc": "Safari resort overlooking Nile, wildlife viewing, adventure activities, spacious tents",
+      "longDesc": "A scenic safari lodge with panoramic Nile views, comfortable accommodations, and direct access to wildlife viewing and boat tours, ideal for adventurous families.",
+      "gmapsUrl": "https://maps.google.com/?cid=1688246043971952936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Scenic Views"
+      ],
+      "rating": 4.9,
+      "ratingCount": 167,
+      "website": "https://nilesafarilodge.com/",
+      "photoRef": "places/ChIJayn6yijlbxcRKCFoENXabRc/photos/AcnlKN1N6_IhOOlCZMGHjOUN4vdujcQkCDchpu1RdOBDW0P94xv1Tl3oMizUEfLhmSo_Iranfzb3YcgeNPhhbU7NpUeLQ6PiobTACW1BmH7ge4_jG_5FE5WMnfjpPA5vt-3w1f5qI58ubdmrSr8L4yT_2Y6iClZJWArOuRAOS2orcx9fMlM6UficXd4sGQ0Q8fO6veK_Upc7MJBZsnanjuknIU3pnPIwUYHWcDRnwPGOFmKwRGZeOVvz6ipL9swiOZoceI7nX4TxGg6B-HtdXodKHdqjg8ml79y2s-ALcjRSOSkKQw",
+      "photoAttribution": "Nile Safari Lodge",
+      "placeId": "ChIJayn6yijlbxcRKCFoENXabRc",
+      "phone": "0757 363362",
+      "hours": [
+        "Monday: 6:00 AM – 11:00 PM",
+        "Tuesday: 6:00 AM – 11:00 PM",
+        "Wednesday: 6:00 AM – 11:00 PM",
+        "Thursday: 6:00 AM – 11:00 PM",
+        "Friday: 6:00 AM – 11:00 PM",
+        "Saturday: 6:00 AM – 11:00 PM",
+        "Sunday: 6:00 AM – 11:00 PM"
+      ],
+      "address": "7G2C+X3J Murchison Falls, Kimoli, Uganda"
+    },
+    {
+      "name": "Primate Lodge",
+      "coord": [
+        0.43764939999999997,
+        30.3960723
+      ],
+      "desc": "Eco-lodge near Kibale Forest, chimpanzee trekking access, nature trails, comfortable rooms",
+      "longDesc": "An intimate eco-lodge nestled near Kibale National Park, offering direct access to world-class chimpanzee trekking and immersive forest experiences for wildlife-loving families.",
+      "gmapsUrl": "https://maps.google.com/?cid=8143064020668952422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 124,
+      "photoRef": "places/ChIJqynhVgsxYhcRZq88P5X5AXE/photos/AcnlKN3EkRxz31O_5lz3vAuiL08wG_3hKXLYfo95zgwU_o_0qYM2fFyq3eB_b79ydwVBrTkGZVwWGc_lOk496z2eupnG6xbL4SlHqpfkRf5_U83b1yOWtJEZEh001aXd_DmSRwiT8WAqM6gLMUaC0bdJtgmjVsPSw5wHwQ3xZPwRMzXD2Ys8JNmdta_gHzxcsWA9LpdqoezGeCB7Yi4X_z1YndMTBIcagzW3tcr7piXzZpP4Jtu4ItT4kxinS0d7ZWZ-s5ipr9fw-2FfbE9p6Hh2ixfpEhDBUFJncLunPZkvsD6lMDxqXH33Sat9TcDBHyykA2EZqIv61s3KztwiF8WYeCSr_NVp6D5kat-t3rYtDQ3f6mBdtr_7H5SkUQohdRGX7kotR4te5lcFO6V4tAaHVX61uIsAmqyfGzoLGhU9Pfua3IAC",
+      "photoAttribution": "Patty McErlane",
+      "placeId": "ChIJqynhVgsxYhcRZq88P5X5AXE",
+      "phone": "039 3267153",
+      "address": "Kibale, Uganda"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Café Javas",
+      "coord": [
+        0.3131387,
+        32.580726999999996
+      ],
+      "desc": "Casual coffee shop, fresh pastries, light meals, WiFi, warm atmosphere",
+      "longDesc": "A beloved local café chain serving excellent coffee, fresh baked goods, and light lunches. Perfect for families needing a comfortable spot to relax and recharge.",
+      "gmapsUrl": "https://maps.google.com/?cid=3751804832217928449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Good for Lunch",
+        "Family Friendly",
+        "Casual Eats",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.5,
+      "ratingCount": 5385,
+      "website": "http://cafejavas.co.ug/",
+      "photoRef": "places/ChIJiVJY6oC8fRcRAZPx8p0WETQ/photos/AcnlKN1VPM9Yamj4tF4xs9uo52olmcb-kcLFVOYSGb7-R6cRhWhTCFnbSgNx0zoHOMPYqhyZFne1N-AzWwV-1JCyTfBYp2u_fXVdy0PSm0qQlnHsL3WxKxto9oqaaXhCHIWvsQU2Gno3hZcjMvKAmL34cBODiBmKmCfi40DJLv7OMNRtFEHiPNv_gu9UyuDq3nbCcvG4xnJdpsNLohlD5ultICWAu4hmVR8GYY5yJomR4vrk4_USTL3Z6hrYeo9yz68YkrbKDEb2u1-pE12S80RMUd1M90OeiEwABbCF9iIPzGwHrKlSPkUb7zTyPdUFwpyXKjXYrsIMWIcj2prxZzpY8znnnozbd3E0Yq--yhlYHVerz8JA3F1v8wsEw08BJzEfr3e6nWAt_T1Zztpu8IpQkiVFUbWWfhl11OapMDX-OelurA",
+      "photoAttribution": "Muzeyi Steven",
+      "placeId": "ChIJiVJY6oC8fRcRAZPx8p0WETQ",
+      "phone": "031 3720000",
+      "hours": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ],
+      "address": "Opposite post office, Kampala Road, Kampala, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Nile Breweries Depot",
+      "coord": [
+        0.2966619,
+        32.6487617
+      ],
+      "desc": "Brewery restaurant, craft beers, grilled meats, riverside views, lively vibe",
+      "longDesc": "A popular riverside brewery restaurant featuring craft beers, delicious grilled specialties, and a relaxed family-friendly atmosphere with great views of the Nile.",
+      "gmapsUrl": "https://maps.google.com/?cid=7922531455508244648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Good for Dinner",
+        "Casual Eats",
+        "Local Delicacies",
+        "Cocktails & Bars",
+        "Afternoon Wine",
+        "Scenic Views",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.2,
+      "ratingCount": 290,
+      "website": "http://www.nilebreweries.com",
+      "photoRef": "places/ChIJvUdWlZS-fRcRqGhtJ2J88m0/photos/AcnlKN3tQA6vFYPJXjSYIxpTa02KJFJ478GztczQhj5wgplxVkWiHrCmzbdrzf063vcGKn1mk4xPSfvB9N0ITlLQK4EElBhk7DoZQJURLrM8tg3WC3jkTusdnysNYJDHI7Q14h4mxsxY0cp3CUOaajV_ADemVlkqUY4uTc7xdL_6frcKsvvXhkuGhYe4ttVLEZ-lFXfn4tbBx3uPw3tehpTXH7SJmLEf6Kf_YlH99O14I_akfN8yPtAn2dbKb_0s33Kj7wRGtcgq2VjjdLQ9a_2YVqW-eyLt2gj53TYw2FH-Amt1ixP8leGfxAMkuoM-kVym1Fe_J_3ex5Myvm6Yd43csXE6taahn2y_Yct3VKydCJbJDO7wOhwkS6OJHRdm0Kb0zLYIjL2ZHC5ohZiiVkby6tQuIZ8OaBwf3gCxZkg3vWG0gQr9uXkxAIkCd0j1A4vb",
+      "photoAttribution": "Kisitu Samuel",
+      "placeId": "ChIJvUdWlZS-fRcRqGhtJ2J88m0",
+      "phone": "031 2210008",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Closed"
+      ],
+      "address": "Plot 6/10/P. O. Box 1345, Kampala, Uganda"
+    },
+    {
+      "name": "Fang Fang Suites (BELFORD GARDEN HOTEL AND RESTUARANT)",
+      "coord": [
+        0.3208313,
+        32.5842469
+      ],
+      "desc": "Fine dining Chinese cuisine, elegant setting, private dining, exceptional service",
+      "longDesc": "An upscale Chinese restaurant offering expertly prepared dishes in an elegant atmosphere, perfect for a special family dinner with attentive service and refined ambiance.",
+      "gmapsUrl": "https://maps.google.com/?cid=11485915223439132375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge",
+        "Reservations Recommended"
+      ],
+      "rating": 3.9,
+      "ratingCount": 586,
+      "photoRef": "places/ChIJJeed2IK7fRcR10ZXbQorZp8/photos/AcnlKN0qwZXbZuPHbXakGbfmDpf9Ba11eUZqGvTDqWgGcoyNjB53DSVnLpDluVhEr6_lLF90L7ZvIrcLRiA09rk9EgFP70Ho8we8adoJ6ZF74eVUPnDG5N8jcYnok6TS2GqlzaxSiZkG1KTQGFtjlKoj_XZLi0Xm4dQwRC5sfLQjfLzqiQ11OkdoyFCCHGGrXHBy4o4jGzbxz6YzaJJ0eNBD9uISdoDXp9fhzHv_DqDATRpjmREsn4KhXRtze8icF3MLR986Fuq5Kv8gJ2LQcl9jgKqxysPON1b0_L6YgqyRgCXdbb_iEbi56ZYbPlqA9t3R35GHBMtung7GeSrMlou3YEBIAWlWnMWTdeptK3ltp2Qtg4u3FC4vl-9Cpqleddp5fp-zoRqLpBu6MDBM_1vuhadS5E71QrQIjwvBKbleQUr0xQ",
+      "photoAttribution": "Sharon Varens",
+      "placeId": "ChIJJeed2IK7fRcR10ZXbQorZp8",
+      "phone": "0708 888188",
+      "address": "Plot 9 Sezibwa Rd, Kampala, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Katende Pork Joint Makindye",
+      "coord": [
+        0.2924849,
+        32.577240599999996
+      ],
+      "desc": "Local grilled pork restaurant, authentic Ugandan flavors, casual setting, affordable",
+      "longDesc": "A vibrant local eatery serving deliciously grilled pork and traditional Ugandan sides. Affordable, authentic, and popular with families seeking genuine local cuisine.",
+      "gmapsUrl": "https://maps.google.com/?cid=674813896869715402&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Good for Dinner",
+        "Hidden Gem"
+      ],
+      "rating": 4.2,
+      "ratingCount": 95,
+      "photoRef": "places/ChIJf4Iq8vi9fRcRyp1q9KlrXQk/photos/AcnlKN3XG13kgyXbJY4J0W9TJAts4BqPYUw_Rs5lkWcvID140LlfiP_73tgGnDXHgN9EyuxdRELcWT7hDRH65RNTyoD_rkqkEv03RVzZoiuWXyp9s59Xt9cHSCnSUpawVH0aRXYVeqJsPM0QT8_pzqZlC9UwDQ-g5ntbmZhhLaVtASAYr2WveVRI-WGJpnpEXyXEka--K9y725-yu6gl140gm9h3efGOrZGus607DWDlZJ__ChDXFbjN65wYyuM9BWpnPF7_WrejZAy3-N1oV9-JsEqppJvHBDVJWQ8KCbRWR1-fIA",
+      "photoAttribution": "Katende Pork Joint Makindye",
+      "placeId": "ChIJf4Iq8vi9fRcRyp1q9KlrXQk",
+      "phone": "0754 854668",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "I 8634, 20c Haji Abasi Kabuye Rd, Kampala, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Pakuba Safari lodge",
+      "coord": [
+        2.38894,
+        31.4855098
+      ],
+      "desc": "Evening dining with sunset over the Nile and traditional Ugandan cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1805717527702575297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Good for Dinner",
+        "Local Delicacies",
+        "Romantic",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 539,
+      "website": "http://www.pakubasafarilodge.com/",
+      "photoRef": "places/ChIJ2UI3gAvdbxcRwZhoO4YyDxk/photos/AcnlKN2Ynj8TAMhikQMOnRQxbh23zuEl4Vc_ECWz1MAygeQY4ukMNtpgxXOxyA-nhwnrggv-NLx7JvQL8rV54P3zGS6mhzEC4ZG2cyJduxitCnq8HK4uf39uEm9A52Dg2L-DqbbbAnVibChJrdm94rKwTqY0uaWFFa3LzJYt_uTdGKVTmbBT-o_gppz7CrqFYazKXotqKa9Xs8kHbdiERDgAB2f72Z0zqN-vovKaRLD6G2l7bNVSf1AZt9UgrU5pf1zRKdK1m8_nQkJPVuXMQ4CjNF9mc_g-ZlBZxBX24YxnRf5njxM_6CtNgYBG__6MViMrixUg8Nzblh-6W9d4mUCbgmePmA35T1-XI63yS7jyjioTc0NDz30gjUCAFsxIr_y5StoP-o0DW1Ed9uZ-FD5IL2qGesOJv004TvKi7-9rMetVcTDC",
+      "photoAttribution": "Isaac Wootton",
+      "placeId": "ChIJ2UI3gAvdbxcRwZhoO4YyDxk",
+      "phone": "0706 725822",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Gulu - Arua Rd Murchison Falls National Park, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "The Lawns Restaurant",
+      "coord": [
+        0.32607949999999997,
+        32.5877872
+      ],
+      "desc": "Upscale restaurant at Speke Resort Munyonyo with garden seating and international cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14523558337754817083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Romantic",
+        "Splurge"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1389,
+      "website": "https://thelawns.co.ug/",
+      "photoRef": "places/ChIJhcFzgZy7fRcRO-KJ7FsLjsk/photos/AcnlKN1pUYxExa5lUSo3OwuOiEZrSAGDs7WF9A0W-U5So47fbp5W7gyfS3Unorlnuu3gCEsX1maFEQg-TCh9EJKVo-ak92dTVWRWjNGqKmY8uqFYLI7p2m5DD8GPn7B3MSfR312inoBLzDUH-CKfkAuXa734tddQgikmQmEWkoQLdd9JDT0Uv5Gf4JICGC0qnG2DM07Sy_zOUckJRIUZ5p8x00niIY-d5eEIMHjXdILhaWxLIJq3J_10LaIYiwfuyd_mTfdGazW_INlWWWxrZtxUn3UlCPacHPsGOtNyRGZtCYjP2Q",
+      "photoAttribution": "The Lawns Restaurant",
+      "placeId": "ChIJhcFzgZy7fRcRO-KJ7FsLjsk",
+      "phone": "0705 091278",
+      "hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:30 PM",
+        "Friday: 8:00 AM – 11:30 PM",
+        "Saturday: 8:00 AM – 11:30 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ],
+      "address": "3a Lower Kololo Terrace Rd, Kampala, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Paraa Safari Lodge",
+      "coord": [
+        2.2899214999999997,
+        31.573001100000003
+      ],
+      "desc": "Main dining restaurant at Paraa Safari Lodge overlooking the Nile",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13204735883847950990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Good for Dinner",
+        "Scenic Views",
+        "Romantic"
+      ],
+      "rating": 4.3,
+      "ratingCount": 835,
+      "website": "http://www.paraalodge.com/",
+      "photoRef": "places/ChIJt9WxwM_jbxcRjmKcHVOlQLc/photos/AcnlKN3ip3SuleSpLZ3lSS1786OrrlkuD9xG_uqThQ5WhmcrW4AIg7VifAPG6Nh19htrrwQNBNCqghFYxQWguFXBAzdOJ_YZwPwXRCVdAWMHhWw8VuDIANGho0K7VWKUyUQNQvLtJwJX1KpfCBdodYj6ak5WK4oWs4Hi_OtGptRxKPWp06I4QlezAYxRbkMQl3OT2DiZP_0z7yTAy6JrYaeM8xf8HB5jKYDT6p3ql_tHyGhxPssPMoeCgqkHX2A2Ei7sk6GU4v0C4WXXbECqxRVl3Gx8VweX8ggb-T30BZhFa1Q9GxQiAuargPDJom_ihKQVek4Hq1hfdPje6fGGgKe5iEi5oCeuRVazPOi-8_QshijOlp3yJ572o23rM1sKtWEJ_GIPiKWysOH48G7WKGpcMqFLPClkFIYIPl-dC4uEFeiLHlw",
+      "photoAttribution": "Julius Kamugisha",
+      "placeId": "ChIJt9WxwM_jbxcRjmKcHVOlQLc",
+      "phone": "031 2260260",
+      "address": "Paraa, Uganda"
+    },
+    {
+      "name": "Boomu Women's Group",
+      "coord": [
+        2.1461164999999998,
+        31.808922400000004
+      ],
+      "desc": "Community restaurant near Murchison Falls offering local Ugandan dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2204061364971723136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Groups"
+      ],
+      "rating": 4.8,
+      "ratingCount": 4,
+      "photoRef": "places/ChIJCRYz2R0GcBcRgFlNQiJmlh4/photos/AcnlKN3HJsQpc8wnLsZo_-rj56lt23KRyHgOt5uoPD3lXCY59mhEbeXHAvKCHMPhvp_OgtRjurw_YmPOdxQ-gLh57kEDA3A-Bp3sXUoGlgQLSgoh7gG6HwARuyrWIBQXYlZ4RgcIJHnVZ3GPXYw7gU5dPL53uN8HuQPewMnYVr_Yexzc9SR2kfVY35-pfqGWFhMJXmyDRgM4sw-AwoT3WuXCy1r1zBwpxG6MAl6mzuulcty-6V0d6pyab8GSBlgJH4-z6bmxm9eeM__ZQC3dJF33Ci1CQ5Q-xvrh011n1tX9k5m598on7D5eM_px8L9y6G9O_D29G5gPMDmSO29gIuwdC-sY--1UnELazMN1jQ0Ov6mYvvHJBVO0qxynLMNVIFgzc2l55yO20HO-qjE55hcA7ldg5lMYAEmryI25LsxbJ1Iuf-Xu",
+      "photoAttribution": "Autumn Raine",
+      "placeId": "ChIJCRYz2R0GcBcRgFlNQiJmlh4",
+      "address": "Kichumbanyobo Gate, 4RW5+CHV, Masindi, Uganda"
+    },
+    {
+      "name": "Mediterraneo Restaurant",
+      "coord": [
+        0.3300893,
+        32.5863911
+      ],
+      "desc": "Italian restaurant in Kampala known for wood-fired pizzas and pasta",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7883088735621619746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Good for Lunch"
+      ],
+      "rating": 4.3,
+      "ratingCount": 2081,
+      "website": "http://www.villakololo.com/",
+      "photoRef": "places/ChIJc_hiIJ-7fRcRIiCcS3BbZm0/photos/AcnlKN0lc4rtqqp9cY4W_w8DPa0ELmSxDHhDs2GJAhoBggWIlEU7Df0fsiCc0fTWJ3uSr61aZZq6g3Go82Ix8G22z2d3hbAZkWKbSqAKMJ1mJFwwakzhVqDu9xJXVMAiaI1652XC_Wi0AQWpTf_-xhFC9J6t0X7bLAlhE3bFCkqjKvlJoYAtoyAl5B5qrLSsG574fO7mA1MgRaTJY0pqhD7SklS6FusC595FxnUE3UvUJLoJlmdZh2FCOnGIWG9T9PbIcm4cb5Akfiwe8DG3ev9ojt0YVCIwKuOndTCfnHmhVe3rHPM1-LWKuMbbcMExLP9-PVcfDcuMYZxb1y-8dUcoFqtFAjUcGTU5nEo29KuN_B4GAYLGLxaQmEGtO6lA8wF1yqpctegqRS-xK1Vj-mpwkQ9aklQjz2viy9Lp3Cqdp0U",
+      "photoAttribution": "- Pheeneeck -",
+      "placeId": "ChIJc_hiIJ-7fRcRIiCcS3BbZm0",
+      "phone": "041 4500533",
+      "hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ],
+      "address": "42 Windsor Cres, Kampala, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Piato Restaurant",
+      "coord": [
+        0.32062409999999997,
+        32.5766427
+      ],
+      "desc": "Contemporary restaurant in Kampala offering international and Ugandan fusion cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8568955751985145420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Good for Lunch"
+      ],
+      "rating": 4.3,
+      "ratingCount": 2502,
+      "website": "http://www.piatokampala.com/",
+      "photoRef": "places/ChIJP6R94Xu7fRcRTGYdLdsL63Y/photos/AcnlKN109TJ6LGHi_JeATJwA5fKEf82cdUDK3c5zlbN3FWrWCDYM5a3Kdw4jZYAIThk6hZGNqqQ1AI7AZQ-Jli9tiBrJSZsngKd1Ch1d_jVLw3d5kbOY7CJAdeG6pRp1cLsn_YYv2OfyBMaXPhmgwtNabQLdvTghEanSPikxM8EDEa4HaVDq-KuLL6YohDGPSzOYvJu9gGpMqEMH4ycoKT42eNrdUod933SNjDmW1CkHDAO-Bo5qo63TiCQ6uK1gkWBvObGv6M-fRdRONTfiBq1PSFOUosV3MC_RTJk8w35ZzwmqrNbUbamIHIlbwfOrcjF6_JYYafQTndMLtU4DNxndx-6jJwppKWTrP5HGHRSWGrwk1VKYS3kE0wYzidYSOdkISGunB8uI1KC-gdFEW-1maLE5ySBSSgYRe8OuyUp9d6I",
+      "photoAttribution": "Ivan Mukwenda",
+      "placeId": "ChIJP6R94Xu7fRcRTGYdLdsL63Y",
+      "phone": "0776 745080",
+      "hours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Plot 20 Lumumba Ave, Kampala, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Entebbe Zoo Rhino Restaurant, Bar and Beach",
+      "coord": [
+        0.053559699999999995,
+        32.4789649
+      ],
+      "desc": "Onsite cafe at the wildlife center with family-friendly meals",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13252911071246805167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Lunch"
+      ],
+      "rating": 3.6,
+      "ratingCount": 27,
+      "photoRef": "places/ChIJXRp58q-HfRcRr-iBAWfM67c/photos/AcnlKN1NvF6gZH0YkSBTq9V8EpLIv1bA5t1-uiMYNSrO_uKzW82KXETiktYo4mUJD5p8MqGjw5NFLRiGpszT27bGfAM5h7ueLmVgHLMjoxIaO8lTxGYrk3Mal4Iq0CR8OXxSSKzuWkjWWN2-voU1Ypi_cRX91yV9euPDTLxlmd_orpJokQIvi4OpESXG0rXr6_rZ9PDGHN30e_d_0uQruVpaJYg6QYqSkv0F6QLrL7cfexIvnFm1wOTRbT64KWf5En3SAMwz1o2yN6KjofpoKGHozoYoog76M9-vJh015iyI-OqM6uMkI9WXMFE9kf2oRkYRKKBl_v1fACVVzQ4swv1PMbJc1FEOituQdMD5xtVPAdAATYvMgQ3aT5CfQnDY2OBoNaHtJBzwz_KUYyYt7jIjvkpj83p1MWEiT42bCrZ1ufbQbalixGTSThbO7UDloAV9",
+      "photoAttribution": "Musiimenta Scovia",
+      "placeId": "ChIJXRp58q-HfRcRr-iBAWfM67c",
+      "phone": "0706 042661",
+      "hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:30 PM",
+        "Wednesday: 8:00 AM – 7:30 PM",
+        "Thursday: 8:00 AM – 7:30 PM",
+        "Friday: 8:00 AM – 7:30 PM",
+        "Saturday: 8:00 AM – 7:30 PM",
+        "Sunday: 8:00 AM – 7:30 PM"
+      ],
+      "address": "Inside UWEC Entebbe Zoo, 57 Lugard Ave, Entebbe, Uganda"
+    },
+    {
+      "name": "Khana Khazana",
+      "coord": [
+        0.332187,
+        32.5873543
+      ],
+      "desc": "Popular Indian restaurant in Kampala serving authentic North Indian cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6401478056818078421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Good for Lunch"
+      ],
+      "rating": 4.2,
+      "ratingCount": 795,
+      "photoRef": "places/ChIJjdgS76G7fRcR1XIZTmCe1lg/photos/AcnlKN1OyRlJcg00coPgp4kGVpXkjzO_GySYKgVmmi5X6KwWZI8WfK5-5B8tj1-uIqmkys8q1BGAPRMyRcWDcwIjnwNoaOc8AnppuzO56EsS7IRphcSG_rk_QgiguL6cXnSI89WpHE_MziLmoTSXs39PRZ2lYNQBBAOEvYEGf1gHMP6NiosefCygXKKyepK2eUnpGilg7_OKaxMMM1TCQdCqmNIFjevMa_h-Lijh293lZwkyzJUOKl-_QhGK-mxzOucnTJDMbOCkHZagRboO_RfSZs3XuEu2tNs9ihb_RXUcktk7Hxtd3se2dleNJBUhvYOP29j2CKzxmrL210mFn23En9Vjn16xEWgsfY8-6E-u6IhaLEogffJjooxw5OIHlDXQOjpF2hDLFhB9_80062t5IHPLjdUxc_loOzjo_6XwdEez0vjr",
+      "photoAttribution": "Bhagya Jayawardana",
+      "placeId": "ChIJjdgS76G7fRcR1XIZTmCe1lg",
+      "phone": "0752 224002",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 10:30 PM",
+        "Wednesday: 11:00 AM – 10:30 PM",
+        "Thursday: 11:00 AM – 10:30 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 10:30 PM"
+      ],
+      "address": "Plot 20 Acacia Avenue/21528, John Babiha (Acacia) Ave, Kampala, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Murchison falls cafe",
+      "coord": [
+        1.9575374,
+        32.1449457
+      ],
+      "desc": "Packed lunch from lodge enjoyed at scenic viewpoint",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=112592013319280370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Budget Friendly"
+      ],
+      "rating": 3.9,
+      "ratingCount": 152,
+      "photoRef": "places/ChIJ6X3WJmibehcR8hZx7tYBkAE/photos/AcnlKN3iFzuEawWWYJ10F5sM1NzxXYZQSRsr-6hhuu7AcT1vv-zRFm5zRqWxPj1AZ4D9qz1CGVbH2_G96SrgoAgYddC6jkwbRC8qHQkyXQrvOHUDDedpFaaa-qjLV3ACq7Y-EuuSiqkUWs-dACo7Y1UJj6-4qNvfpulS0MgBnQd_OpBR3yTwc5aiMzQqrqmEM5M6NrOr4_5V-KZLnTkzaKps0Wb6T5h4BTSxN6R8dUFWB8mCEVa-_z2RoeVnwk04YP7bG4vu1b7Asz3mdSlua1mVjeYmQ56GC0WFchR4zmcw222YAp9kjjK0p38WRYfiw85W72CPKwHphzPl8y-Dq2GiNBpdJ1Fm_igi7GgsgXzImOo5_17t0VL2Z0d1T2IOctNBPJB8n6UDJdadV84vfieb5PZkwifebG7arym475pbeKsH4A",
+      "photoAttribution": "Yumiko",
+      "placeId": "ChIJ6X3WJmibehcR8hZx7tYBkAE",
+      "phone": "0772 206077",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "X45V+2X8, Bweyale, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "BAKERM ENTERPRISES",
+      "coord": [
+        1.6826306000000002,
+        31.723807499999996
+      ],
+      "desc": "Bakery and restaurant in nearby Masindi town serving meals and baked goods",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14035735797536590878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Breakfast Spot",
+        "Casual Eats",
+        "Budget Friendly"
+      ],
+      "rating": 4.5,
+      "ratingCount": 13,
+      "photoRef": "places/ChIJka2UZ_fRehcRHgxn5VfzyMI/photos/AcnlKN2j5ef1lYzWUEFQE_q0ftcPE0QSXLfOLk_ObESQ5MRom6QHkD9Ji7FAOSqGwQNzSj4hcDHXaVJOtO9khZF7oSm8MX9HBGMsJukPy2saygZblnSdRMIx5GAwrOuv1Lp2DivYuOVGDhFwfP2JXgNgT5jyNCBDQIgUOdpNjRWTJSdfVOLmK23tLYpls2picvkX5wEDyANAzZ2KwVSYy2Pc7ueSsQnrlPpy3Ntw6nhmBmGO_UM8zkPKX0HK3AHFUwtSLgicWZTAsoa2rI72N40dtKsOnXBX4Fqz6b7cq48gjmCDtA-upRzudUzE3U9nEhze4UbQiFD5qlUlef1cilh-Bl0uZnFd1uj0v_Ejw0AHByVXtK49_2nP6IkfpvThNq1bVXaZAAXmkn7AokZS2FzMpZsl5dxcvtyrrRpD5cP7ER8h1g",
+      "photoAttribution": "Wamani Isaac Mwesigwa",
+      "placeId": "ChIJka2UZ_fRehcRHgxn5VfzyMI",
+      "phone": "039 2947383",
+      "hours": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 7:00 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 7:00 AM – 7:00 PM",
+        "Sunday: 7:00 AM – 5:00 PM"
+      ],
+      "address": "masindi port, Uganda"
+    },
+    {
+      "name": "Dutchess Hotel and Restaurant",
+      "coord": [
+        0.6537286999999999,
+        30.2782989
+      ],
+      "desc": "Restaurant in Fort Portal near Kibale offering continental and local cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16304428627155659995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "rating": 4.1,
+      "ratingCount": 673,
+      "website": "https://www.dutchessuganda.com/",
+      "photoRef": "places/ChIJeTnyaXTaYxcR26xSq3P3ROI/photos/AcnlKN2q9o-fGzn8tY7nCPWk570wdvCyCObZm56aZ8iMQ_lrsDSYlMHH_9p2fHuY6sK6oLPp41Z0PJmK7XuUVtbQKHFKH7xH_kXwDt1YjWPVGoXFc_qDLCHHDt99m0uVteRZaPwuqsvrAwnsfEbREdjDE5fZ9maK92zN1KUZy3PpWqX0D3to4CbbOC-Dy4UleuYrjLCnNEhWG3X1wKIa-0xwN3bEQGuZiujXtC7NSXF1al3Ke7EP-SCFmY7I0LyW1dIP4SpzEgwtSw5BAk2V_nX3ioinm2o3mIrpWzL8Y1FYP4Adig",
+      "photoAttribution": "Dutchess Hotel and Restaurant",
+      "placeId": "ChIJeTnyaXTaYxcR26xSq3P3ROI",
+      "phone": "0704 879474",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "11 Mugurusi Rd, Fort Portal, Uganda"
+    },
+    {
+      "name": "Gardens Restaurant, Cafè, Art Gallery",
+      "coord": [
+        0.6573273,
+        30.278123800000003
+      ],
+      "desc": "Garden restaurant in Fort Portal with outdoor seating and varied menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6804426355795025168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Romantic"
+      ],
+      "rating": 3.9,
+      "ratingCount": 954,
+      "website": "https://m.facebook.com/gardencafefort/",
+      "photoRef": "places/ChIJ-00ARXLaYxcREN13Hbgtbl4/photos/AcnlKN2Aa9Bt0cZv0clU92nBEdDdswju9u0YLl_fJQuCIfJQlTlGJBg9CmpUBZBcSyIkBnAgQCjO-F_AeR9l-6575SQD_3KoU-MB0FNyS2Ez4x8u8MK4V_T3d3N-dS3hp1aLrMzx3o2MsSHcBmuoOtAxI2bI9be1JkRKqAQaxyTUhxj10T_jUwzgK4xKXa-NQhxv5i4oBgb3ZoaN3EKIHa8Lx9k254xNz9q1nWqAAMx5-ykyYZVSxKmVhzzNm-AtM68tnZnbucjxH4UOPay4fZifMhtTDteu4v37EAc1u7FvsTOluyo9yZ6hpXqkfBxdV279R_j-l4GSGCaxTT22S9YVZQu6sP6c2GbIbrQR9aSvUFLUcOT8XmgravaoQFWESFkB1nCqZS-l0XyEO5ZuWJSnLj464E5_MQBEVRFt-j4PMFZWXrM",
+      "photoAttribution": "Hana Burianová",
+      "placeId": "ChIJ-00ARXLaYxcREN13Hbgtbl4",
+      "phone": "0483 422090",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "M74H+W6Q, Kabundaire Rd, Fort Portal, Uganda",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Uganda Museum",
+      "coord": [
+        0.3361372,
+        32.582618499999995
+      ],
+      "desc": "National museum, cultural artifacts, ethnographic displays, interactive exhibits",
+      "longDesc": "Uganda's premier museum showcasing the country's rich cultural heritage through extensive collections of artifacts, traditional crafts, and informative displays that educate and inspire.",
+      "gmapsUrl": "https://maps.google.com/?cid=5160933382034434350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Rainy Day"
+      ],
+      "rating": 4.1,
+      "ratingCount": 3071,
+      "website": "http://ugandamuseums.or.ug/",
+      "photoRef": "places/ChIJdV2wAAq7fRcRLimeMZFRn0c/photos/AcnlKN3Iu7n4GpOdrmaJvdEHcWtK5oTkbrcnw0K03ePpyv2uXESKOTSp8yV8WDNbAkuh0KkbRC1A-oF8oGTXkx7ki4UJDoH20192oyWDMDJBdIdZSopgDHTO57jGnSGgxjV9RLh_NnwiB7CYmmH5VrqjEZfhOh6NiMBeTMvumElosM56u8wAr2RGnn9_BE6MSE-Q2DHQxVH1Yo4L-kZA23U4Dt5fmIvWjXnwq6zVTLZspSxLv0hbGLR5wWKKMFqPRgCKLNRrEdi2kF6flsNodAHspBW5qJh0BrOopcTVJ2WfJa3OeKwN7xsA8oLXt127_XP4dINhqWOoe68FSmRReJwA1gpABJ0ZTpIRqaenIu7e7tnCzsM2JR_qFdQ_8CjbyDzN__rdXfplD-cynqUojwxrfFMLYo9Wp_2c5_UAnnYMVDC70euFwKMyXN3LlM3acsyg",
+      "photoAttribution": "Kongo Ramathan",
+      "placeId": "ChIJdV2wAAq7fRcRLimeMZFRn0c",
+      "address": "Plot 5 Old Kira Road, after Mulago Referral Hospital, Kitante Cl, Kampala, Uganda"
+    },
+    {
+      "name": "Murchison Falls National Park",
+      "coord": [
+        2.2257414,
+        31.769848200000002
+      ],
+      "desc": "Dramatic waterfall, safari game drives, Nile boat cruises, abundant wildlife viewing",
+      "longDesc": "Uganda's largest national park featuring the spectacular Murchison Falls, diverse wildlife, scenic landscapes, and unforgettable safari adventures suitable for the entire family.",
+      "gmapsUrl": "https://maps.google.com/?cid=9325883612174541443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3335,
+      "website": "https://ugandawildlife.org/national-parks/murchison-falls-national-park/",
+      "photoRef": "places/ChIJgfwQ92MFcBcRg-JMELwxbIE/photos/AcnlKN3yETU3Jh8ZfDvIdCYb3BEBHKf6vy3auG4tKceLCMIDXHcixo7wtRiF2heS0MulUCjVZblx25pr97C8MCokCUGiI6eP8P9FZHz7Y1FaZ8bf8-8JBv6PvVy7-wiYcu7nCAcI7PQFXpwN2lSY8cMyeaD-_r8ra_DViOiFON4mlhINOzz-2WdYBDViN4ap1Qcv_2v0bOxuXKNmOZOmgqfnH7tzl4T90KqN1ubeJrltDogM3EHn16COufbb4hMFMQzgBeYg721mKsD8E8yOnJk3YBMAxwjX6QCQw9spHsmoxl21ouqJSpw0rn66ryjixYmGAWFTBzuFaQAWodeHIZu-W4FatS_9a2bWqCpsZ49OVxCLpSTPEn5WQiSRSgKm7IrVZiDPnJAKDx7bnENOoowjsVfAQgO7xjUjMw6kDQbTbCVzTIDj",
+      "photoAttribution": "William Tinkle",
+      "placeId": "ChIJgfwQ92MFcBcRg-JMELwxbIE",
+      "phone": "031 2355000",
+      "address": "Uganda"
+    },
+    {
+      "name": "Kibale National Park",
+      "coord": [
+        0.436396,
+        30.366706100000002
+      ],
+      "desc": "Chimpanzee trekking, rainforest walks, primate research center, guided tours",
+      "longDesc": "Famous for incredible chimpanzee trekking experiences, Kibale's pristine rainforest offers families close encounters with primates and immersive nature walks in a protected ecosystem.",
+      "gmapsUrl": "https://maps.google.com/?cid=16747751013686788471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Photography Worthy",
+        "Full-Day Activity"
+      ],
+      "rating": 4.5,
+      "ratingCount": 685,
+      "website": "https://ugandawildlife.org/national-parks/kibale-national-park/",
+      "photoRef": "places/ChIJS8j-tV4xYhcRd0F9RdD2a-g/photos/AcnlKN3wseMaC3mFnYklJmUTaghDwikIciqI8xv7tcaB0kgWu5BPp-E-adTiWVae3tnkjPGWoepuSEFsR1ZcRAJFmCVLe8YOmNPEXtmXgvlwUyWkjDdw35n0NZG5snfe--ke-FnurAekQy9ZREQfGAzyY3q2H4WsE6YpLpNrkseqzFMkHA4g65na4elE9wPJ7lNXwjlZTs3DaSPXH9ZmjZ-0N1M3B7oOQvDIeiTMguhrjykfTyx0IXO1U3Fg670vPmztXqv2_RwrPX-uyLguTBcgqyaJtLq0USE8UE7zxmAQCYSgENT-zy17x9YXJCNw83_wtiI99wsBGdmhzGGDOKwDsOt06e9sd0wVDS34dE-vMqSvt4OBspp95uOI5O2_44glR2pdPgftAU_D6qzXqmvXkjmHOAux_CMwLrMr9BytOKG7wA",
+      "photoAttribution": "Kirill Trubitsyn",
+      "placeId": "ChIJS8j-tV4xYhcRd0F9RdD2a-g",
+      "phone": "031 2355000",
+      "address": "Uganda"
+    },
+    {
+      "name": "Kasubi Tombs",
+      "coord": [
+        0.329096,
+        32.55332
+      ],
+      "desc": "UNESCO World Heritage Site, royal burial grounds, cultural significance, guided tours",
+      "longDesc": "A sacred UNESCO World Heritage Site housing the tombs of Buganda kings. The site offers profound insights into Ugandan royal traditions and cultural heritage through guided experiences.",
+      "gmapsUrl": "https://maps.google.com/?cid=8075830119192555390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.1,
+      "ratingCount": 432,
+      "website": "https://en.wikipedia.org/wiki/Kasubi_Tombs",
+      "photoRef": "places/ChIJ8x4wIwC7fRcRfm_fsLQcE3A/photos/AcnlKN0cv2Mh5KdlA7uQMXvFpc8R876MFGwdTKr7AQib3nA1a0J3PD_2Vuhn-68Sqoz4z3ycFvE3ryGGNaNcfQ252QjV5ADkYZ0lQrKFI9_QwuVN3x__QH-zKF_VEZMYqXmiffkzNfK7nPhzZ18ef4iXSkZXsxKEXuQ-cpJwPiMX2g8LdTSaP2OY-pdamDUgJWL67VLZXGf5vcevHkDBnIWeDaFXhXY58sQ5jRviG9LZrD5j6OFz9Ybpx0fu2DDWvktmXFivVwf6nYPmkc73VDXq6_xLaD92DqjIdj9kdqEoIlaFca3KlLX13jo7RccTIjU-9k5TwVdXmEdD9o5l1Sxlcnaqnn0If7Uo3rqXFgBnYctGWY3jH-yEAWdLa1LZnpjq65qoA10rAXOHxZnmckMfcZtFmYQgLHFc19JCWGjiwgoPhPOCQa2NCLm_05Zo3f4r",
+      "photoAttribution": "Ryan Jose Ruiz III",
+      "placeId": "ChIJ8x4wIwC7fRcRfm_fsLQcE3A",
+      "phone": "0704 031568",
+      "hours": [
+        "Monday: 8:30 AM – 5:30 PM",
+        "Tuesday: 8:30 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:30 AM – 5:30 PM",
+        "Saturday: 8:30 AM – 6:00 PM",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Masiro Rd, Kampala, Uganda"
+    },
+    {
+      "name": "Ndere Cultural Centre",
+      "coord": [
+        0.3633125,
+        32.6058125
+      ],
+      "desc": "Cultural center showcasing Ugandan traditional music, dance, and cultural performances in Kampala",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17110077916250480817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Live Music / Entertainment",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.3,
+      "ratingCount": 4549,
+      "website": "http://ndere.com/",
+      "photoRef": "places/ChIJm2kQq2q6fRcRsaBdNTY1c-0/photos/AcnlKN2Wzezh9o-C_wGLHvmd-Ft15c8C1VJtbXK-fEQGKHjm98RbIb3CpThpT5RkHnY8bTye05KbCP8HwoYoxN2d3TgMbELgv1HbYcuuEJrsYAyMpjhW1Rlg906exYni5gWfvRmiKz6-7Di9xnuGny6lKhrWNsKRCG48lMBZGHRPY23uom-jwm238Tc0fvNEN5bAkAW0lPiMuM2AjA98Oi7BwSeFFi8cvNgNLI8vV70Qpi7a4LZVMhFM_n7Tg6GHrKGfjI13KXQfskOM6WOJ58t28td0Tx62yt6pcEpfzDXM1n5QAA",
+      "photoAttribution": "Ndere Cultural Centre",
+      "placeId": "ChIJm2kQq2q6fRcRsaBdNTY1c-0",
+      "phone": "041 4597704",
+      "hours": [
+        "Monday: 6:00 AM – 12:00 AM",
+        "Tuesday: 6:00 AM – 12:00 AM",
+        "Wednesday: 6:00 AM – 12:00 AM",
+        "Thursday: 6:00 AM – 12:00 AM",
+        "Friday: 6:00 AM – 12:00 AM",
+        "Saturday: 6:00 AM – 12:00 AM",
+        "Sunday: 6:00 AM – 12:00 AM"
+      ],
+      "address": "Plot 4505 Kira Rd, Ntinda - Kisaasi Rd, Kampala, Uganda"
+    },
+    {
+      "name": "Murchison Falls tourist attraction",
+      "coord": [
+        2.2784825,
+        31.685495699999997
+      ],
+      "desc": "Scenic viewpoint at the top of Murchison Falls where the Nile forces through a narrow gorge",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16259066012036855551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.8,
+      "ratingCount": 1167,
+      "photoRef": "places/ChIJ0aLPXkYccBcR_3YVy2TOo-E/photos/AcnlKN37IsDZHb3NC0dnkIEnPRVSgvksW8c18nXHlBKv-rMT0vJg86KX4liwESzWBnZ0MQG6lnQEp2A9P9-72OUrO0P4L8h10RztwTVsIP7B461ZgeVAM3YHC71guaqsr-VMVgt6mNc1OCyFjT2-ajIq8loJWWfaV-dyoGbqrEYiAkRXeeEv4mO711K6RjERpxpWdi5O5AaNIPsIbAal-ujGM5wPgEkyh6zGeDRVoY1NeED28ZRPdPnrLTcOeklwA09CGMc6-ZLGjxp-7YXnV3JtCgOJQo7upm7W7fc1UTKrktOTP4jvSEQNqoKeVgBrIfCNQLnhLu-wNFZG06GuLYjffit8Mu8WmRepCwEwd9BHEVP1xMSv4fmc2rICSwQUVp0KnVoKJpioN9TehwVWvzXOJldxpwg4zCMT5ye16V7qGeVynLcu",
+      "photoAttribution": "Willem-Jan van der Ven",
+      "placeId": "ChIJ0aLPXkYccBcR_3YVy2TOo-E",
+      "address": "7MHP+95X, Te'okoto, Uganda"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Uganda Wildlife Conservation Education Centre",
+      "coord": [
+        0.054549299999999995,
+        32.4794036
+      ],
+      "desc": "Uganda's only zoo, diverse wildlife, walking trails, picnic areas, educational programs",
+      "longDesc": "A delightful zoo featuring African animals, well-maintained habitats, educational exhibits, and peaceful grounds. Perfect for children to learn about and observe Uganda's diverse wildlife.",
+      "gmapsUrl": "https://maps.google.com/?cid=4823816211247114534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Good for Groups"
+      ],
+      "rating": 4.4,
+      "ratingCount": 4309,
+      "website": "https://uwec.ug/",
+      "photoRef": "places/ChIJRcKhIpGGfRcRJqknVUmj8UI/photos/AcnlKN2KZsK-iAdiqoyboEYm-sCMQHUjvAst2WkVMWxKDCyIdqOUGq3EkN0zvhViFL2_wIsDqseWkJ6zoBHPE2YMGjpCGz7gn_yxQ7stmIe2KnY4dlOBmEpc21ntVE8rFdHjNcbyu3z86-i2NFbAB58TPdskpYzwaCFQILAaBF_auxlGcgxOjKh9y__LuBxCxPv_JJrjDNv7Y-gt-Ahuq4A1BAeeMO1uDw6XCpMc36hB3XpzZAoPsrWpTj1o6sNfiWzwSQTD7Ut3cr81oFy2B0BE2slJtTASULivNRtjDwhFbnK6TuQOnqpJipd0I-0szgK9XdAgdfXNHyHPyJjtkWS6RylQ-nIel_sJitf9HltOLTFYKE-fzc6aMYfTYwoGV7pk8ZyXxseakCFdB51PiIZZxVFtxQDj6A4e3DCcqcFGe5dVeg",
+      "photoAttribution": "Steve Vonk",
+      "placeId": "ChIJRcKhIpGGfRcRJqknVUmj8UI",
+      "phone": "0707 750108",
+      "hours": [
+        "Monday: 8:30 AM – 6:30 PM",
+        "Tuesday: 8:30 AM – 6:30 PM",
+        "Wednesday: 8:30 AM – 6:30 PM",
+        "Thursday: 8:30 AM – 6:30 PM",
+        "Friday: 8:30 AM – 6:30 PM",
+        "Saturday: 8:30 AM – 6:30 PM",
+        "Sunday: 8:30 AM – 6:30 PM"
+      ],
+      "address": "Plot 56/57 Lugard Avenue, Johnston Rd, Entebbe, Uganda"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Owino Market/Kampala",
+      "coord": [
+        0.3100783,
+        32.5728626
+      ],
+      "desc": "Historic central market, local produce, crafts, fabrics, vibrant cultural experience",
+      "longDesc": "Kampala's bustling traditional market brimming with colorful produce, handmade crafts, fabrics, and local goods. An authentic cultural immersion offering genuine Ugandan marketplace atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=8024026201251350065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Budget Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 3.9,
+      "ratingCount": 7886,
+      "photoRef": "places/ChIJ9f5gVIS8fRcRMYYDIlERW28/photos/AcnlKN3Ayip9hG1ae-mCjJ0SawuRNo5qHCJoQ7ZFGgqy8kEn6bznwBBy07hOR7a4apVGx6ApqGU3Y5kizbYBMDYVWjh9ZZsgT9Tj5seitHi3MrIzxhtz3DXbgrTzMhnG_IeK9hQN9_WPc-58mVOnJFqnC2I7WWCBHSs22n3iAaNC33q-vKEmn8_LOiFxxjO_MZgNZ5Net-6vNqu6QKXxCyJ6hyQEnfhmwSk0B084A48eDPSabltnWkQiLWowdVA15DL8_Ta0Fs1cK5im7oJmkhLvfEpFXNOP3yUEje9viR-cuxoIuko4ngLuaXOxREWfUxmfSn3bz73TKClxLIsgduq-Qzo282j3z7N6FDea-lIrT0lOLKk2WTEm1v77UfrNeOXyFT4MtAYduAKnJSqOBoY0-_zj7JQXuhmMqYpPyWtiuKE8M4Bu7SFe3GL1jQtbVnzM",
+      "photoAttribution": "Irankunda Frederick",
+      "placeId": "ChIJ9f5gVIS8fRcRMYYDIlERW28",
+      "phone": "0759 134718",
+      "hours": [
+        "Monday: 5:00 AM – 8:00 PM",
+        "Tuesday: 5:00 AM – 8:00 PM",
+        "Wednesday: 5:00 AM – 8:00 PM",
+        "Thursday: 5:00 AM – 8:00 PM",
+        "Friday: 5:00 AM – 8:00 PM",
+        "Saturday: 5:00 AM – 8:00 PM",
+        "Sunday: 5:00 AM – 8:00 PM"
+      ],
+      "address": "8H6F+24Q, Kampala, Uganda"
+    }
+  ],
   "cityCenters": {},
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Uganda Family Safari & Culture (10 Days)",
+      "description": "An unforgettable blend of wildlife encounters, primate tracking, and cultural discovery designed for families with young children—where every day balances adventure with plenty of downtime.",
+      "familyFriendly": true,
+      "duration": 10,
+      "bases": [
+        "Kampala",
+        "Murchison Falls",
+        "Kibale"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Kampala",
+          "dayType": "urban",
+          "base": "Kampala",
+          "items": [
+            {
+              "name": "Kampala Serena Hotel",
+              "type": "hotel",
+              "coord": [
+                0.31941959999999997,
+                32.5864202
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "The Lawns Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale restaurant at Speke Resort Munyonyo with garden seating and international cuisine",
+              "suggestedCity": "Kampala"
+            },
+            {
+              "name": "Relaxed afternoon exploring the hotel gardens",
+              "type": "freeTime"
+            },
+            {
+              "name": "Katende Pork Joint Makindye",
+              "type": "dinner",
+              "coord": [
+                0.2924849,
+                32.577240599999996
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Kampala Culture & Markets",
+          "dayType": "urban",
+          "base": "Kampala",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Café Javas",
+              "type": "coffee",
+              "coord": [
+                0.3131387,
+                32.580726999999996
+              ]
+            },
+            {
+              "name": "Uganda Museum",
+              "type": "sightseeing",
+              "coord": [
+                0.3361372,
+                32.582618499999995
+              ]
+            },
+            {
+              "name": "Owino Market/Kampala",
+              "type": "shopping",
+              "coord": [
+                0.3100783,
+                32.5728626
+              ]
+            },
+            {
+              "name": "Fang Fang Suites (BELFORD GARDEN HOTEL AND RESTUARANT)",
+              "type": "lunch",
+              "coord": [
+                0.3208313,
+                32.5842469
+              ]
+            },
+            {
+              "name": "Afternoon nap for the little ones",
+              "type": "nap"
+            },
+            {
+              "name": "Kasubi Tombs",
+              "type": "sightseeing",
+              "coord": [
+                0.329096,
+                32.55332
+              ]
+            },
+            {
+              "name": "Nile Breweries Depot",
+              "type": "dinner",
+              "coord": [
+                0.2966619,
+                32.6487617
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Wildlife Day Trip",
+          "dayType": "urban",
+          "base": "Kampala",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Ndere Cultural Centre",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "cultural attraction",
+              "suggestedDesc": "Cultural center showcasing Ugandan traditional music, dance, and cultural performances in Kampala",
+              "suggestedCity": "Kampala"
+            },
+            {
+              "name": "Picnic lunch at the zoo grounds",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Onsite cafe at the wildlife center with family-friendly meals",
+              "suggestedCity": "Entebbe"
+            },
+            {
+              "name": "Leisurely drive back to Kampala with stops for scenery",
+              "type": "freeTime"
+            },
+            {
+              "name": "Khana Khazana",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular Indian restaurant in Kampala serving authentic North Indian cuisine",
+              "suggestedCity": "Kampala"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Transit to Murchison Falls",
+          "dayType": "rural",
+          "base": "Murchison Falls",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Murchison Falls National Park (5-6 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Nile Safari Lodge",
+              "type": "hotel",
+              "coord": [
+                2.2524375,
+                31.520187500000002
+              ]
+            },
+            {
+              "name": "Lunch at lodge restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lodge dining with views over the Nile, fresh African and continental dishes",
+              "suggestedCity": "Murchison Falls"
+            },
+            {
+              "name": "Afternoon relaxation and wildlife viewing from tent",
+              "type": "freeTime"
+            },
+            {
+              "name": "Dinner at lodge restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Evening bush dining experience at the safari lodge",
+              "suggestedCity": "Murchison Falls"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Murchison Falls Safari",
+          "dayType": "rural",
+          "base": "Murchison Falls",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Murchison Falls National Park",
+              "type": "sightseeing",
+              "coord": [
+                2.2531,
+                31.7177
+              ]
+            },
+            {
+              "name": "Picnic lunch near the falls",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Packed lunch from lodge enjoyed at scenic viewpoint",
+              "suggestedCity": "Murchison Falls"
+            },
+            {
+              "name": "Top of Murchison Falls Viewpoint",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "attraction",
+              "suggestedDesc": "Scenic viewpoint at the top of Murchison Falls where the Nile forces through a narrow gorge",
+              "suggestedCity": "Murchison Falls"
+            },
+            {
+              "name": "Return to lodge for rest",
+              "type": "nap"
+            },
+            {
+              "name": "Paraa Safari Lodge Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Main dining restaurant at Paraa Safari Lodge overlooking the Nile",
+              "suggestedCity": "Murchison Falls"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Leisure & Wildlife at the Lodge",
+          "dayType": "rural",
+          "base": "Murchison Falls",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning wildlife viewing from lodge deck",
+              "type": "freeTime"
+            },
+            {
+              "name": "Boomu Women's Group Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Community restaurant near Murchison Falls offering local Ugandan dishes",
+              "suggestedCity": "Murchison Falls"
+            },
+            {
+              "name": "Swimming pool time for the kids",
+              "type": "freeTime"
+            },
+            {
+              "name": "Optional short evening game drive",
+              "type": "optional"
+            },
+            {
+              "name": "Bakers Fort Masindi",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Bakery and restaurant in nearby Masindi town serving meals and baked goods",
+              "suggestedCity": "Masindi"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Transit to Kibale Forest",
+          "dayType": "rural",
+          "base": "Kibale",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Kibale Forest region (6-7 hours with lunch stop)",
+              "type": "info"
+            },
+            {
+              "name": "Roadside lunch stop",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Local restaurant en route serving Ugandan staples",
+              "suggestedCity": "Fort Portal"
+            },
+            {
+              "name": "Primate Lodge",
+              "type": "hotel",
+              "coord": [
+                0.43764939999999997,
+                30.3960723
+              ]
+            },
+            {
+              "name": "Settle in and explore the lodge grounds",
+              "type": "freeTime"
+            },
+            {
+              "name": "Kabarole Tours Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant in Fort Portal near Kibale serving local and international dishes",
+              "suggestedCity": "Fort Portal"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Chimpanzee Trekking",
+          "dayType": "rural",
+          "base": "Kibale",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Kibale National Park",
+              "type": "sightseeing",
+              "coord": [
+                0.5692,
+                30.3984
+              ]
+            },
+            {
+              "name": "Dutchess Restaurant Fort Portal",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant in Fort Portal near Kibale offering continental and local cuisine",
+              "suggestedCity": "Fort Portal"
+            },
+            {
+              "name": "Afternoon rest and nature walk on lodge trails",
+              "type": "nap"
+            },
+            {
+              "name": "Evening storytelling around the fire pit",
+              "type": "freeTime"
+            },
+            {
+              "name": "Gardens Restaurant Fort Portal",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Garden restaurant in Fort Portal with outdoor seating and varied menu",
+              "suggestedCity": "Fort Portal"
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Return to Kampala",
+          "dayType": "urban",
+          "base": "Kampala",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive back to Kampala (5-6 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Luura",
+              "type": "hotel",
+              "coord": [
+                0.3319483,
+                32.5806021
+              ]
+            },
+            {
+              "name": "Café Javas",
+              "type": "lunch",
+              "coord": [
+                0.3131387,
+                32.580726999999996
+              ]
+            },
+            {
+              "name": "Afternoon to relax and pack",
+              "type": "freeTime"
+            },
+            {
+              "name": "Mediterraneo Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Italian restaurant in Kampala known for wood-fired pizzas and pasta",
+              "suggestedCity": "Kampala"
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Departure",
+          "dayType": "urban",
+          "base": "Kampala",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Last-minute souvenir shopping or hotel pool time",
+              "type": "optional"
+            },
+            {
+              "name": "Piato Kampala",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary restaurant in Kampala offering international and Ugandan fusion cuisine",
+              "suggestedCity": "Kampala"
+            },
+            {
+              "name": "Transfer to Entebbe International Airport",
+              "type": "info"
+            },
+            {
+              "name": "Mythos Greek Taverna",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Greek restaurant in Kampala serving authentic Mediterranean dishes",
+              "suggestedCity": "Kampala"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

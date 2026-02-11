@@ -30,7 +30,9 @@
         "Outdoor & Nature",
         "Adventure & Active",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: 8:00 AM – 5:00 PM",
@@ -42,9 +44,760 @@
         "Sunday: 8:00 AM – 5:00 PM"
       ],
       "phone": "081 129 8575"
+    },
+    {
+      "name": "Avani Windhoek Hotel & Casino",
+      "coord": [
+        -22.5690994,
+        17.0841101
+      ],
+      "desc": "Modern luxury hotel, rooftop pool, central location, excellent dining",
+      "longDesc": "A contemporary luxury hotel in Windhoek's heart, perfect for families seeking comfort and convenience with outstanding amenities and restaurant options.",
+      "gmapsUrl": "https://maps.google.com/?cid=1460820526195284676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Wellness & Spa",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3769,
+      "website": "https://www.avanihotels.com/windhoek?utm_source=GoogleMyBusiness&utm_medium=GMB&utm_term=Windhoek&utm_content=Home&utm_campaign=Google_GMB",
+      "photoRef": "places/ChIJtf4LE4scCxwRxBp4YIfgRRQ/photos/AcnlKN3VbH3nEswKULw3L3wqM6VQkJwM_Z7GDOkyXVhbvJqpFm-ot4-xKRaLuTyPgNIIAQWts4jS1Gi2RLPOqq2tJxhqQTzOgfTpBNfATCpLXbZ1_bAH1HceTpQKKUDXmJYl-3wY5lTjTL7eYqUibQNVbdnTFme46_Osj7uUTbfNJWqkqAZ_Fqis1oBKCG7mEMVHCzrOoby1V1FVPdB8zx9oKoudW2CD4ub4oALTM9fVc1gRwvjag4CBv6Tf2SYNmM89RP3_25tTrJNLLV4U7WZGUtyx1I4X2xIGK9w9TCaMovK7eQ",
+      "photoAttribution": "Avani Windhoek Hotel & Casino",
+      "placeId": "ChIJtf4LE4scCxwRxBp4YIfgRRQ",
+      "phone": "061 280 0000",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Gustav Voigts Centre, 129 Independence Ave, Windhoek, Namibia"
+    },
+    {
+      "name": "Swakopmund Plaza Hotel",
+      "coord": [
+        -22.6799785,
+        14.5274233
+      ],
+      "desc": "Beachfront hotel, ocean views, family suites, excellent service and location",
+      "longDesc": "A charming beachfront hotel in Swakopmund offering comfortable family accommodations with easy access to coastal activities and Atlantic Ocean views.",
+      "gmapsUrl": "https://maps.google.com/?cid=8206093939223118624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Romantic",
+        "Splurge",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.2,
+      "ratingCount": 256,
+      "website": "https://www.swakopmund-plaza-hotel.com/",
+      "photoRef": "places/ChIJv6Y6AfFYdhwRIEPhwPXm4XE/photos/AcnlKN33s-4Me-RCmmvf_1h48iCO4Q3Ev7A0ttvIj6G7DPSZClyAs8wt7YIBp_5vQhqXZohgPnsebq4liXpWIM6EFOzuobesy3XEGvQiWsE4NKsNrp0C7eRH7J9yy7uC2jEhoCNwjT4T6HD7--P04jeRIC4KKuRZW8pZvM3Nl28h7dwxplr3VxxgxfsMagoQqfppRQU-teZbmkrh24oPJCqKVPfMJrkW9cWjrsvM1uxDkB4EeZAz9yag8Uaoj8UQNyV6KEtpSeYx0CQNEHanN0oGpdrI51csy2OrE-mE0_ahwzPtIBY2oWM6YBSuFkL2hsPR4Tnwv7Sf_tC5srXW0oZGgLtQXQkmVnuuVdsp_YZDpbty0qEclS-Es-P6GReJeSavhVqoGS4Kilx9mHz-CchKDHebDM5a2NEVPjR-A7ojRRo0F24",
+      "photoAttribution": "Norbert Frank",
+      "placeId": "ChIJv6Y6AfFYdhwRIEPhwPXm4XE",
+      "phone": "064 426 500",
+      "address": "Libertina Amathila Ave, Swakopmund, Namibia"
+    },
+    {
+      "name": "Strand Hotel",
+      "coord": [
+        -22.6755638,
+        14.5219671
+      ],
+      "desc": "Budget-friendly beachfront, family rooms, ocean access, casual atmosphere",
+      "longDesc": "An affordable beachfront hotel in Swakopmund perfect for families wanting direct beach access without premium pricing, offering comfortable casual accommodations.",
+      "gmapsUrl": "https://maps.google.com/?cid=7880750481744847797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Toddler Friendly",
+        "Beach"
+      ],
+      "rating": 4.4,
+      "ratingCount": 548,
+      "website": "https://www.strandhotelswakopmund.com/",
+      "photoRef": "places/ChIJSTarUvhYdhwRtePjI88MXm0/photos/AcnlKN2pafXKQYjlqMS8dmEWCL3DjuAFG8R3ElTAGfy-4bQpgT9Sljckscjgl_EcjcLVdYDMxmHfXJl0Jx7mFjI-Rd4Lju9_FwZm-AqYVWkh0po5BEDwcgda7BSZabTDonxwwIEWHh53JHnveGLlnBIvcY1M3CQMzauHtyXf8Gqlz0Sitk1R8bTqhvnLX23oLeF0OdL0CcvmECUuB8fz_tKfePqfyzZKnILNlg7Wr2k42RffUkcXcUohufvmZahk9p-H83Cks5QS9WwUo7SIRIB2BAavRxSEWcRT2KAFNkPy_AwmKg",
+      "photoAttribution": "Strand Hotel",
+      "placeId": "ChIJSTarUvhYdhwRtePjI88MXm0",
+      "phone": "064 411 4000",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "A.Schad Promenade, Swakopmund, Namibia"
+    },
+    {
+      "name": "Villa Margherita Boutique Hotel & Restaurant",
+      "coord": [
+        -22.676620500000002,
+        14.528746700000001
+      ],
+      "desc": "Charming boutique hotel, personalized service, beachfront location, romantic escape",
+      "longDesc": "An intimate boutique hotel offering personalized hospitality and beachfront charm, ideal for families seeking a more exclusive and curated coastal experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=16004820474159675444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Romantic",
+        "Splurge",
+        "Beach",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 157,
+      "website": "http://www.villamargherita.com.na/",
+      "photoRef": "places/ChIJP7uVn_BYdhwRNLgvkGyLHN4/photos/AcnlKN3LZn0Q3X70gyB8pzDkSzbHuupvMVxEFZEfuwgzJ2IyCBXlcUS5B56FZhCWfz5wmK_SacIwvbVRNDp3x9ugazPOF0lOYbhSzPx5HzdoFoKDkNyt-NhIe9lXr52CQXFR5gawGlIf1hL4KLeuX1Mn4_SRD_iTY_8M93vZXhAyVrw4Gr-kVNJsT1FTPuafRciVxFcR_Mwq1E6S6O27CHzE95p27zQQSuJwMiRJHEILCqQe00y3_es0j12gvuvaRfMw6pPG7-E2kCdDP7nVc5vBbBLmmm1gPnsaNO3AyiTF5aF0Ew",
+      "photoAttribution": "Villa Margherita Boutique Hotel & Restaurant",
+      "placeId": "ChIJP7uVn_BYdhwRNLgvkGyLHN4",
+      "phone": "081 332 4293",
+      "address": "34 Daniel Tjongarero Ave, Swakopmund, Namibia"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "The Delight Hotel Swakopmund, Gondwana Collection Namibia",
+      "coord": [
+        -22.675262999999998,
+        14.527896
+      ],
+      "desc": "Local cuisine, warm atmosphere, traditional Namibian dishes, family-friendly",
+      "longDesc": "A beloved local restaurant serving authentic Namibian cuisine in a welcoming setting, ideal for families wanting to experience regional flavors and hospitality.",
+      "gmapsUrl": "https://maps.google.com/?cid=7627284929878223767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Dinner"
+      ],
+      "rating": 4.6,
+      "ratingCount": 900,
+      "website": "https://gondwana-collection.com/accommodation/the-delight-swakopmund",
+      "photoRef": "places/ChIJEa_N9PpYdhwRl-sUjjuP2Wk/photos/AcnlKN33PRniQzM_m0QEnZa52eIcGzr0fA0GD60QP5wCuH7oCfmmngkpMYLm6vkdSx8QTERRQNxMoqGVSpMBGUpCcnUtp3hBvuO24AQH2Mfy-pGAghg5_0wjqui89Lv4eGGfkhG16KH7vPSi4TVuRnBHxMFNpF098DG1GV5jNUUO-4aWr12NNb_XJLEe6IbPGzfWf7zFdx3JJKsmpgBKovAgK2PVmCS-s96tJ46y5UBDX4r0bxfn0fK2Ig-oXYxG95Cp0m40dzRiYt95rPcIJruDBb0sdTI7MShclp4SXFwFDj9E6A",
+      "photoAttribution": "The Delight Hotel Swakopmund, Gondwana Collection Namibia",
+      "placeId": "ChIJEa_N9PpYdhwRl-sUjjuP2Wk",
+      "phone": "064 426 000",
+      "address": "Theo-Ben Gurirab Ave, Swakopmund, Namibia"
+    },
+    {
+      "name": "Jetty 1905 Restaurant",
+      "coord": [
+        -22.6807065,
+        14.519474700000002
+      ],
+      "desc": "Fine dining seafood, ocean views, fresh fish, elegant coastal setting",
+      "longDesc": "An upscale seafood restaurant offering fresh catches and refined cuisine with panoramic views of Swakopmund's historic jetty and Atlantic coastline.",
+      "gmapsUrl": "https://maps.google.com/?cid=12625221797211840853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Romantic",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1720,
+      "website": "https://lhg.na/jetty-1905/",
+      "photoRef": "places/ChIJkYEAK_ZYdhwRVaFUUVXMNa8/photos/AcnlKN0EXv3M1pCMRGtDgVPgSgZSizvHJ8rKq9KvUC_F_6ng17Y9-5BpCV4rxL9NAbY72BmuHcCNmuclKbSx0UQYqQKkFsgac-N9iijSaRth1GmVj7X2Zy8BiEiSJyzQq65XDSLC62dZuc2mrvcgiU4cXjQwcYatDLwJlsxy0T2IRG1WuIrSvoC1UV6RoJ_fzEV5vGhqCHiLomayiSfxrxOGXJ48XhbXAZ7hc1EK9PyFU6vW8B9Uzs1OE5mxJX3NuP83VpuuCxa1sH0Ci-ngo7FvXott00MbrJ4Ie3W5iqEyfhU_0ipne-V_ATaj5ogKSLvKLbD8UtFwjVqQXEIXdFImcjaok_NrR_UnE013j9Ur17TEaSnd7U4fulu-PheGBvwpZ3bODdVY6k_rQUknq3w2XVTNq7vV-79kc067SuSKf4ZLP5q2vm_GMUlX7muc7_IM",
+      "photoAttribution": "박미 (구슬)",
+      "placeId": "ChIJkYEAK_ZYdhwRVaFUUVXMNa8",
+      "phone": "081 380 3595",
+      "hours": [
+        "Monday: 5:00 – 9:00 PM",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM"
+      ],
+      "address": "A, 1905 On the Jetty Bridge, Swakopmund, Namibia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Cafe Anton Confectionery | Cakes & Cookies",
+      "coord": [
+        -22.6772222,
+        14.524166699999999
+      ],
+      "desc": "Fresh pastries, excellent coffee, light lunch, casual family-friendly cafe",
+      "longDesc": "A charming local bakery and cafe offering fresh-baked goods and quality coffee, ideal for family breakfast or casual lunch with a welcoming atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=2544174141970384797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.2,
+      "ratingCount": 909,
+      "website": "http://www.schweizerhaus.net/cafe_anton.htm",
+      "photoRef": "places/ChIJKT5UVvdYdhwRnQfhCue4TiM/photos/AcnlKN29SkPNu1RQ0GtjjHCM_8p-20L1FKtHngnuyfh8n3xAydm3Q7ts0Xkj-4BhBNdqgHPJ-8Ytgj2y57Knv1JM7WohL-9g0T6VsiLg5hmaZ8aVBtzKG-ZGpRT_r2MVMqzMExedupvJT1LRpFgQRvE2KyRZeR2iIIGE0lP2RoPrglcNgKTODD-kFf40uzoa_1jJWXNbL4DaVjTE5TzTRGt-o6P3EFk9yoTAKdEzrMn7hyhtmM01UKI4CPhwlTvtpjn4JBDwwdWSNoXaPrwq49ndlv5luR-9tSHWu-2eZYkg-G7Ru4bCtlAgPTnTHt3h7lBFwU37kq-F-lTXEgT5TrapzQyiTpFUuVIo91B0AETK1JGbqzUMtxMr6Q6aiDL0uk-rbXdv39sEq3KaGR5hx0XAuwfvIsh3NwAQ4zdNbnzR4Tm8WA",
+      "photoAttribution": "Matti M",
+      "placeId": "ChIJKT5UVvdYdhwRnQfhCue4TiM",
+      "phone": "064 400 331",
+      "hours": [
+        "Monday: 7:30 AM – 6:00 PM",
+        "Tuesday: 7:30 AM – 6:00 PM",
+        "Wednesday: 7:30 AM – 6:00 PM",
+        "Thursday: 7:30 AM – 6:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 7:30 AM – 5:30 PM",
+        "Sunday: 7:30 AM – 6:00 PM"
+      ],
+      "address": "1 Bismarck St, Swakopmund, Namibia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "The Olive Exclusive All-Suite Hotel",
+      "coord": [
+        -22.5534297,
+        17.0902601
+      ],
+      "desc": "Contemporary fine dining, African cuisine, innovative menus, special occasions",
+      "longDesc": "An award-winning restaurant serving creative African-inspired cuisine in an elegant setting, perfect for memorable family dinners celebrating special moments.",
+      "gmapsUrl": "https://maps.google.com/?cid=7185069131822446632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Reservations Recommended"
+      ],
+      "rating": 4.4,
+      "ratingCount": 113,
+      "website": "http://www.theolive-namibia.com/",
+      "photoRef": "places/ChIJO2qblFkbCxwRKLjmqE5-tmM/photos/AcnlKN1qKmlgpBbC8c5ieEGsUcm6-AqPZwhr_8IhXqg9gMeK7XNdXP9bER72nQe3XCJ71qhEQAPGbLx1pq6hT159sexBKMN0J9kVX8Dz8q6aJswDEfQvnPTc6aE_NuCOXpFRq8TAClhPFucnr9Y4ke2oBAe3NJEcEpQXXDqRumc-6QEFqg_qk68zBOg2IVLYvgZrP2La5ENOeI3ApakwoGdD4CktthFrbGWN8VDjmpjiJ0S1mz9pev-8PSftn8_blsD_YP17xha3fF7ahheAOUvudgQPywNMo5EnSCYtqwdf1ykV6Q",
+      "photoAttribution": "The Olive Exclusive All-Suite Hotel",
+      "placeId": "ChIJO2qblFkbCxwRKLjmqE5-tmM",
+      "phone": "081 617 3435",
+      "hours": [
+        "Monday: 6:00 AM – 11:00 PM",
+        "Tuesday: 6:00 AM – 11:00 PM",
+        "Wednesday: 6:00 AM – 11:00 PM",
+        "Thursday: 6:00 AM – 11:00 PM",
+        "Friday: 6:00 AM – 11:00 PM",
+        "Saturday: 6:00 AM – 11:00 PM",
+        "Sunday: 6:00 AM – 11:00 PM"
+      ],
+      "address": "22 Promenaden Rd, Windhoek, Namibia"
+    },
+    {
+      "name": "The Tug Restaurant",
+      "coord": [
+        -22.681036199999998,
+        14.5219021
+      ],
+      "desc": "Iconic waterfront seafood restaurant built on historic tugboat",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8249388684970488874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Iconic / Must-See",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3742,
+      "website": "http://www.the-tug.com/",
+      "photoRef": "places/ChIJ4-rpV_ZYdhwRKvTKRU23e3I/photos/AcnlKN1yVYddxC1id7Xx7-t7jIqZEN2RVGhXe-eNBtdWRaOheoA1tAV3ZMRiFEA1TwRQxqOoHs_hmnoIVS-BfL-LOtlgOGtRY3A5UakPkRIDLGYFigXLTxexvunrQIrGhby1PjnIWdboFOjxnOWApgeacHppSeKLIW5aP7YfSGdKtjDsVmmxDQYK02K6koNuPp4xTObr0eiQ6vZsUpB5jOChUco9RJSTPAzv8DHn3I-8XsTreYVYNFAah9fB2r6fKqco--uYRF9YPK-erL6hZs2C7TpPxGefKQl4lZeqkvOMZfj4Uw",
+      "photoAttribution": "The Tug Restaurant",
+      "placeId": "ChIJ4-rpV_ZYdhwRKvTKRU23e3I",
+      "phone": "064 402 356",
+      "hours": [
+        "Monday: 5:00 – 10:00 PM",
+        "Tuesday: 5:00 – 10:00 PM",
+        "Wednesday: 5:00 – 10:00 PM",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 5:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "A.Schad Promenade, Molen Road, Jetty Area, Swakopmund, Namibia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Village Cafe",
+      "coord": [
+        -22.6787565,
+        14.5258319
+      ],
+      "desc": "Family-friendly garden cafe with playground and healthy kids menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16477778502431770929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Playgrounds",
+        "Good for Lunch",
+        "Casual Eats",
+        "Budget Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1644,
+      "website": "http://www.villagecafenamibia.com/",
+      "photoRef": "places/ChIJ98FVwfBYdhwRMYkDtT7UrOQ/photos/AcnlKN3MMP7Mj3kVOj4ehRmGaN91ePrlCJmRgdmsqreIeLtuxJb5OVRm7F4EYckppXeynX_qpfsm-br8FvPe1wRbIZ_RhSpDQu5k192LxJuHLB8AYKTJdqP-emSXcdl2BkkTUTlPS5YN9jRRfdNhm103ZECL7QyU7IQrg3iz8bjTkqaB5zO4KxDORztSPkmAUxf4ItEzm3EQWlmlKYSqpX7gz6zt7yVDt86-sUXottcmZKOyNIAZlBV-zSvA-KmNIyIY7Nkjc1ruCn6YCmnoSoroHRiPFNUwLNJo_t1hq-R963xGGAhwt9Zt3_NZpGiNtKpxLhGzcxhctu9svXOI-7CYNJnsVVwK-l2iLbPTF1-DusXLfwCVYsTWWMi73gMxHMzNwwBEE-Vv_L52XOjO3D0UXzywp9yj4UFztWsipMA",
+      "photoAttribution": "Sonet Sonet",
+      "placeId": "ChIJ98FVwfBYdhwRMYkDtT7UrOQ",
+      "phone": "064 404 723",
+      "hours": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 1:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "23 Sam Nujoma Ave, Swakopmund, Namibia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Joe's Beerhouse",
+      "coord": [
+        -22.5508959,
+        17.0903538
+      ],
+      "desc": "Legendary Windhoek institution with Namibian game meats and family atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16155756684614711274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Iconic / Must-See",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner",
+        "Casual Eats"
+      ],
+      "rating": 4.4,
+      "ratingCount": 6549,
+      "website": "http://www.joesbeerhouse.com/",
+      "photoRef": "places/ChIJzezbX1cbCxwR6jcamBvHNOA/photos/AcnlKN3mQSB3UJlGrgAqHeBFMZtIUnPdjV-ENvmIgpzCj9KA9BQ1ZVxwUANVGko_35nf7Q2YRbaVaXrd1OPJdY4SPziEJCn7UjF3roIYDidNKWDilN4JziO_CXdMYJDgpkQUcEJGBGfwIyg7Hj5zRqcN52COWYSiiHYxCpxgH8ZpzS_AuXYYN8YQ1BD2xC0nGRux3pWIBiIkjgr4-gZh2wHlWTMhHBuuyFZOSZR77j8rwU-_ngPZlRPvLjii1kbEH1Ny2O5sU6cJMNgjyWI9sdUcjUmhmZ8tVKYPnaniX4JXzcG1s-Av6bhOGiUnu2Hd7Gpfr-2k0lmkpRT_-nqkIFlS0ebMGbTT8CxXLhla8gAswmX03wubH_5qeroLF8kLqaphnugovlNJSLpNms5zFL4sBPqhWLN_qOB6jBxWb8ZpdicAuZ6FgRdZMyIFK9TWUmNs",
+      "photoAttribution": "Erhan Birben",
+      "placeId": "ChIJzezbX1cbCxwR6jcamBvHNOA",
+      "phone": "081 123 2457",
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "address": "160 Nelson Mandela Ave, Windhoek, Namibia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Sossusvlei Lodge",
+      "coord": [
+        -24.483756399999997,
+        15.802555300000002
+      ],
+      "desc": "Restaurant at Sossusvlei Lodge offering Namibian cuisine with desert views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3944113922949015041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Scenic Views",
+        "Romantic"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1256,
+      "website": "http://www.sossusvleilodge.com/",
+      "photoRef": "places/ChIJC2x-jYmKchwRAWYMU7dOvDY/photos/AcnlKN1yx7FQhd5JCxoaIXM2UTl9DpeSQCePJjZFypKZINnUo_5V3ljFqzhVLlJujZvNkfDokEJIfp3JkcgurD3hc4wfMp_CulOdHnAb3puU20ZCBUjAjRGpyfpEhR82WE0tRKPFzv8nzroJoQGF51ututC3rPScLUHUdGS5XOEIY7ysOTpUc3zuU__pJv3CyMeacPfavD-zhJwbMM_Cj2i2zPinMor7sYoNNuBNab39aQWsWNV8eyc5WrV-Cf_34YUekuHU2vdjfqpul6jSRMmWdyvbyCOq8c2SE7AnCGmJxoEwKA",
+      "photoAttribution": "Sossusvlei Lodge",
+      "placeId": "ChIJC2x-jYmKchwRAWYMU7dOvDY",
+      "phone": "021 930 4564",
+      "hours": [
+        "Monday: 6:00 AM – 9:00 PM",
+        "Tuesday: 6:00 AM – 9:00 PM",
+        "Wednesday: 6:00 AM – 9:00 PM",
+        "Thursday: 6:00 AM – 9:00 PM",
+        "Friday: 6:00 AM – 9:00 PM",
+        "Saturday: 6:00 AM – 9:00 PM",
+        "Sunday: 6:00 AM – 9:00 PM"
+      ],
+      "address": "D826, Sesriem-Canyon, Namibia"
+    },
+    {
+      "name": "The Desert Grace, Gondwana Collection Namibia",
+      "coord": [
+        -24.1737446,
+        15.901862
+      ],
+      "desc": "Fine dining restaurant at Desert Grace lodge near Sossusvlei",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11250326264355538671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Scenic Views",
+        "Reservations Recommended",
+        "Romantic"
+      ],
+      "rating": 4.8,
+      "ratingCount": 259,
+      "website": "https://gondwana-collection.com/accommodation/desert-grace",
+      "photoRef": "places/ChIJWTImEcH7chwR78YociEwIZw/photos/AcnlKN1PQ2YPi0mlHO_4LBVaN19e6wcoymlVsuNWl4JUlLvNaGOzh5eddf1WEaIaObC7P1aLGqzNLwcp9AJn0idMQmXlm8_BwlZWO9cEPxbyZb6qYZKXSiEe-wqWgOcaEve1ycP2ME_skFAvXwkq8CFG-utYWcM3wQPc673hXwtJGJggM8EMeHzrO4wV5vNNMtiHYxxxNq3RF8DsjZ91gF5pddWSuXiOwUocqhErWXIOm_8AJsFLCdeL0N1I2Q7z79ujQtw3ocXf_0B6WGmJFlaLPfKcGjGBZJFIM65TgSViaiCbFdnQiDGqRzOtMctnea0Zx7CFdeQG5J-XvkHtwP-FYm9i9yCpPhm1qgjZ0WSULCh7lHOU8wOFrnyeWXdIJk3PqxyuEI9ViUZ34YW90M9GS3tqtjFpr2tZvifn8iw7MoZjJ_kAkCnqvOP8VcVQIg",
+      "photoAttribution": "Coral",
+      "placeId": "ChIJWTImEcH7chwR78YociEwIZw",
+      "phone": "061 427 200",
+      "address": "Solitaire Sesriem, Namibia"
+    },
+    {
+      "name": "Sossus Dune Lodge",
+      "coord": [
+        -24.506596599999998,
+        15.788962799999998
+      ],
+      "desc": "Restaurant inside Namib-Naukluft National Park with local cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14044430493539886025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Scenic Views",
+        "Casual Eats"
+      ],
+      "rating": 4.1,
+      "ratingCount": 260,
+      "website": "https://www.nwr.com.na/resorts/sossus-dune-lodge/",
+      "photoRef": "places/ChIJ7ekgWXGKchwRyeMbkB_X58I/photos/AcnlKN2usq0PDhDqX-CFIdpEdbWw6XrTKapd5cjmb0FlljL8TIppHSYKI5NEWWDazA-C_2GqWVo9vIVOG22u-l83X3tGx_Oj2ZtTeMfXjMcBryplOTxj80YbiWUg72_Kg5M71K1WO4UIVZjFSI8qtrHAlgqgmeJQUhaLaGGukv0Ofm4q-6DuSbqVne4krg-F0l0Tg_pI2ryimknM-iQ7V8jmO3CReR2KxuoukTjafZUaA-HLu8dXgGUD9dbDy_f1pTVD8cICpMAfhMAYx-L6BHTqGPac2-PKavfBG4OWw5_-9naC5bsmnMEZEB8-iy4mXSA8JhbD7i_mMXwOQVmN5DHO-lEMrANjzM3JpHBKAXuZy3a4qsRzismQwVlUbQdB4WQlVV4wzQF06siTk-W1lKGBfgc8SxyKpYdq_53C9CuVzHI",
+      "photoAttribution": "Klaus Kolmar",
+      "placeId": "ChIJ7ekgWXGKchwRyeMbkB_X58I",
+      "phone": "063 693 256",
+      "address": "FQVQ+9H8 Sossusvlei, Sesriem, Namibia"
+    },
+    {
+      "name": "Craft Bistro",
+      "coord": [
+        -22.572011399999997,
+        17.0838881
+      ],
+      "desc": "Popular cafe with fresh salads, sandwiches, and excellent coffee in central Windhoek",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11928167563593061091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Casual Eats",
+        "Good for Lunch",
+        "Breakfast Spot",
+        "Budget Friendly"
+      ],
+      "rating": 4.2,
+      "ratingCount": 45,
+      "photoRef": "places/ChIJK7i78pgbCxwR4xJNcTNdiaU/photos/AcnlKN3Y5fS6r7u_2VT4cSh2A0sJ0ZNiU4uNP-u0hIoC0sHHPSr0dw-GQyiSgPlI40Df1pNBv63RrHFuF4HkUsxY4LV_80I93Cd-IkzNgwGgkkLvK98rD1Ap5BQVMVvZnicpas_Qo9fIo7GEOgaoIPE78sO2Bn3eN2k0TIUeK_2MhJ5EtTMTJoMuAixvYLRU5tjeIYqymOlK5po6p9tBK7WEpUJGaLOwGhvepVViC3J8d-6NlV7XiigU2iD2x4qyW2oNru2cr5VLefiVgKfm32foCc8TVXLEEsjRhNF9CHwVd5HBoDb9-x8EkLKee2-_x3uwW11h4Ef0f5zE-bmlmZcHiz9XqkRyuSTaAvJYRg_WvFoQEOfJWLLiYZR98NDomTXxzJU_s4k4ESFXBsxqOYC06Xa8F2vP3R5xLQq7IqiPAeBTRpdbLrNt1nWWm8AhCg",
+      "photoAttribution": "Luisa Kahlfeldt",
+      "placeId": "ChIJK7i78pgbCxwR4xJNcTNdiaU",
+      "phone": "081 140 3525",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 4:00 AM",
+        "Sunday: 8:00 AM – 1:00 PM"
+      ],
+      "address": "40 Tal Street, 2nd Floor of the Namibia Craft Centra. Windhoek Namibia Windhoek, Namibia, 10005, Windhoek, Namibia"
+    },
+    {
+      "name": "Okaukuejo Camping Area",
+      "coord": [
+        -19.1814592,
+        15.917226099999999
+      ],
+      "desc": "Restaurant at Okaukuejo Rest Camp in Etosha National Park",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3083579090286046260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Family Friendly",
+        "Local Delicacies"
+      ],
+      "rating": 3.4,
+      "ratingCount": 411,
+      "website": "https://www.nwr.com.na/resorts/okaukuejo-resort/",
+      "photoRef": "places/ChIJpcvrKrJzjRsRNGxSWdgSyyo/photos/AcnlKN3P4IL0eEOC6Rbx5Mv_VpLuBAEfB8TDGMcapMXlybx7has9huqUXpY-lmDftRp-AJrA1KEQXjqp8XnXmUgRf_gXbxMJWUEVUeKU2X3R_dDY4CsfeCD6tblB0i7lbzzOdERxalNIEXzokYmIJN1p3u5BqrgqzjDDrZAdcM98pr7eAZoPC67AjgEXf7hEGaoN38qoAnv-egO3aQH9-BqWfmwPfWXlMlDclqZrWStKQWR13LSc7kYbG1NMI9kovRLPsolwgqAOXqlheD2GDck_wKPKqd2eMBzhfvh4gYMJQIM-sbENgPk63Df8YdrPvWeDRmix3vmf7VN_VuDiO6RRIIGO0HBZE5lI_u1VC_3sc9fMf6y5z7yYZkkSK0SBdzT1tdZGq5LsWL1OW4lsvK1SM08wZz3T-q5Wpx2FrNqhbUdl8Ck",
+      "photoAttribution": "Dominik",
+      "placeId": "ChIJpcvrKrJzjRsRNGxSWdgSyyo",
+      "phone": "067 229 800",
+      "address": "RW98+CV9, Okaukuejo, Namibia"
+    },
+    {
+      "name": "Daisho Sushi & Wine Bar",
+      "coord": [
+        -22.5678809,
+        17.1100346
+      ],
+      "desc": "Contemporary restaurant in Windhoek with international cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17619667758307950268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Romantic"
+      ],
+      "rating": 4.4,
+      "ratingCount": 562,
+      "website": "https://www.daishosushibar.com/",
+      "photoRef": "places/ChIJd7C51MkECxwRvD5ZInmihfQ/photos/AcnlKN1gCwul9dYRdo4eikcd5qnnOC2r-Behv1zD53s8ZaOpL1cXurqp27hyDBJwiGcA0yMUJYRRbFWNHFqOponSnSKjlyelKXf71O6KEL61bUt8wwOliN9RdFFdSFZBev3_ts7W0rLZG1fC6TxWKCIcmATuEzx_WiWdIgVgSGkl_SFM5uKCKEBTnszOH83zCRzcRos_q25A-zdlRy6tyi3x2V4j4qqzO1K0lwOs-u6HC2vAuamH8k8QcYOY4dtZ5WbbHyINzwlQ2ccEr6DsRZedx3uCNBi9lzr7BfeT6U874-IkzVl6szpwNyhzD5VpvFFohqnUem9GgyY_N_-XZsGdSGZ1bMe0Kb1k0JCyjv8GvTW8QwQ384E7pZhqcTWru_FioWRjEoZpDiTKrzGE1HnbRHiYmDnUQnqVZzgu0C9mv5mESKx9",
+      "photoAttribution": "Daniel Hermes",
+      "placeId": "ChIJd7C51MkECxwRvD5ZInmihfQ",
+      "phone": "081 431 8434",
+      "hours": [
+        "Monday: 5:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Hebenstreit Street, Windhoek, Namibia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "O Portuga Restaurant",
+      "coord": [
+        -22.5718176,
+        17.1038976
+      ],
+      "desc": "Portuguese restaurant in Windhoek known for seafood and peri-peri chicken",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18434083224579290219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Romantic"
+      ],
+      "rating": 3.9,
+      "ratingCount": 683,
+      "photoRef": "places/ChIJkQq5izQbCxwRazQJWQYF0_8/photos/AcnlKN0ws_YGqoiRMRaNPDh7evg9OZw12cRTDV1foJSrRwMz7kHJqgXMJfsyMmYVngNhTMEDaWE3QL8efsxCs_AY4S9nZ81IiEYLtBEwf5BZEs6d8gnAUjqgV5LCs-AgTdRJpDHL5DhdyV8gK7NYtli4GG6XaCvod38Cr8OADC15jDqr1fY_QuYH9MO4nw9T_zYBBvFq5pyhUMq-cZi0Z5owpN3ioRuzUsgCfOoysQblIO5CucA3IhO_kXl8xGkhqxoNDHkvi3LZrLJ2XpD8I9sOBtZZNScSTtZHFn2isA_U4XfZ3kPmFLhuojuz7tCgrf4EiPI82PjemMt5tAAoqz-vvg6DGOP-I6l-Iz8rPHWXaNFXr5T9g0g1CZMEz3Hkuv6b6qJlGKn9HbmS3zJhcUrVKrg6JUr7zX_XD5ETajRhlejfqw",
+      "photoAttribution": "sP",
+      "placeId": "ChIJkQq5izQbCxwRazQJWQYF0_8",
+      "phone": "061 272 900",
+      "hours": [
+        "Monday: 11:30 AM – 11:00 PM",
+        "Tuesday: 11:30 AM – 11:00 PM",
+        "Wednesday: 11:30 AM – 11:00 PM",
+        "Thursday: 11:30 AM – 11:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 11:30 AM – 11:00 PM",
+        "Sunday: 11:30 AM – 11:00 PM"
+      ],
+      "address": "312 Sam Nujoma Dr, Windhoek, Namibia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "The BARN",
+      "coord": [
+        -22.591514399999998,
+        17.084428199999998
+      ],
+      "desc": "Restaurant and entertainment venue in Windhoek with varied menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13528104425915429923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Nightlife",
+        "Family Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 271,
+      "photoRef": "places/ChIJwYk_DwIbCxwRIzQU50x7vbs/photos/AcnlKN3w2Rq9-tHjQVOFLTojadjbSiCxD0R1Sk0SlSboCyJvRSDjb1NCpQXqUUCUylcmkY9B7je77OmRNMq6G53UsXLAf85vUmAwnibclfMGJRqBAW9_FJ6-f6i1LdBXj5CN0Aqky2YER9nd3LNiMIheM07UNgKVtraJe0GTScj_wU94nNpiPMlHpv0rMb3zQDFVijv4KtaY-MReBPoG9ci9eKMtNwzOKZFvYeejsfkuAR0xUzy4vyKBNnwzTzkOWXu-BIzxvc87MfYIK-P9AANyTqjq2pADWN1GUNhodrBDzI7jQ3kt0zFvWhCUw5EKkOit5orB6Sb1WsRyrasQPfmH07nepoUc-wijcyd4PMNblQs5Se9lpI8LuqNtcZsvjvRz5zdOxoSt4l3CP976tkdfUC75iIHHX7_6tFFDI1UwV10",
+      "photoAttribution": "Lorraine Alberto",
+      "placeId": "ChIJwYk_DwIbCxwRIzQU50x7vbs",
+      "phone": "081 427 5045",
+      "hours": [
+        "Monday: 7:30 AM – 6:00 PM",
+        "Tuesday: 7:30 AM – 6:00 PM",
+        "Wednesday: 7:30 AM – 6:00 PM",
+        "Thursday: 7:30 AM – 6:00 PM",
+        "Friday: 7:30 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "12 Acacia Street, Windhoek, Namibia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Spitzkoppe Community Restcamp",
+      "coord": [
+        -21.8395132,
+        15.201586599999999
+      ],
+      "desc": "Spitzkoppe Camp's packed picnic service with local specialties",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7051868354010481566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Market / Street Food",
+        "Budget Friendly",
+        "Casual Eats"
+      ],
+      "rating": 4.5,
+      "ratingCount": 437,
+      "website": "http://www.spitzkoppe.com/",
+      "photoRef": "places/ChIJm_Whpj4GihsRngOd0-dE3WE/photos/AcnlKN3CDGIY_O093qDUSBgYhcQYxYd1kOPHJevukmmnXTVxje43C1qTCp-Q6_X9gYuyJXCLz3t9gOwd_FbyYTZyG6xXjalOpOnAWspHdULnSf0lkqNh70wVaNeYnMZkFfN0iNdX2IT8oPBx20Z8p4JVsIB5kc3bNCc1PJ-LTUHU6v979GA91uRb8yh8UxvPtZmFUXjCIb6icWE4JSrxF0L71cIEPPvq8hChGz5t-blMexTMEnvUkhf9E5mkASlA8vAIPtY5OSB9ZD2JvskmEkDiWXM-EaN0yHi9sndTUpdsP0QgcKfUiDXb4hqfvH5n4vUcbUc7uZIAIpLqnRCuw8CO4RbiJKLBOdaHOrmEmy33eeJBGzypITTj0LaIAttj37ZdpDe3z5szfnBI6P-JgGZmiW4RNinFQlJcJGSs9dNLrwiwVDo",
+      "photoAttribution": "Steven Gonzalez",
+      "placeId": "ChIJm_Whpj4GihsRngOd0-dE3WE",
+      "phone": "081 850 2566",
+      "address": "Spitzkoppe, Hentiesbaai, Namibia"
+    },
+    {
+      "name": "Sossus Oasis Camp Site",
+      "coord": [
+        -24.491027,
+        15.803218999999999
+      ],
+      "desc": "Desert camp restaurant with light meals and refreshments near park entrance",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14285148518578962242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Off-Hours Eats",
+        "Local Delicacies"
+      ],
+      "rating": 4.4,
+      "ratingCount": 220,
+      "website": "http://www.sossus-oasis.com/",
+      "photoRef": "places/ChIJvT-f-WCKchwRQr-YReQKP8Y/photos/AcnlKN1bDxQ5CoG_jaBb3sGLEV8xsykGKQ0czEpTN8RhYKzLhtzpF0kKG3Y1YqFxVcVtN4cfV5AKTBf-A_vXL6QNdOcjDMiJ5gLid1lCocFCLg3sow_iZS-DcdLlAh9W6mMAkl8hWTh9Eio5Ge4R8fOAyinTpqk7I_0Ke90LfUPrhVywtbyZCNrtyVGzgljF6icI5qh0hRJ8CJbB31S_KtthM2AegpXlWddKpzGPn-3wXtpKm_VuaWgd7q1rV2V2Mpi7NBg1xUjC5B2WGEFnubQ-5nnWlaViEpP4FxY2yaOYMNZ-GA",
+      "photoAttribution": "Sossus Oasis Camp Site",
+      "placeId": "ChIJvT-f-WCKchwRQr-YReQKP8Y",
+      "phone": "021 930 4564",
+      "hours": [
+        "Monday: 5:30 AM – 7:30 PM",
+        "Tuesday: 5:30 AM – 7:30 PM",
+        "Wednesday: 5:30 AM – 7:30 PM",
+        "Thursday: 5:30 AM – 7:30 PM",
+        "Friday: 5:30 AM – 7:30 PM",
+        "Saturday: 5:30 AM – 7:30 PM",
+        "Sunday: 5:30 AM – 7:30 PM"
+      ],
+      "address": "C27, Sesriem, Namibia"
+    },
+    {
+      "name": "Secret Garden Guesthouse",
+      "coord": [
+        -22.681103699999998,
+        14.5244498
+      ],
+      "desc": "Garden restaurant in Swakopmund with seafood and international dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12771183490126685730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Good for Dinner",
+        "Casual Eats",
+        "Local Delicacies"
+      ],
+      "rating": 4.5,
+      "ratingCount": 217,
+      "website": "https://secretgardenguest.com/",
+      "photoRef": "places/ChIJQwUvCApZdhwRIqZVOrhbPLE/photos/AcnlKN0OSQAVQYA3bs3gO3cpMRqFG9crqUlBwExFy3rbb5kCbtX0u_w92LmMFm5LzBV9bYvpi90gZXt-xQVaRto_WY0M1jmkCqlvphLGkOleiOjVBGR-vp0-xfn5d8m160eSJK3Hix1nvAlMNncOUMqZHn0wLDVIKVj9CqFdANCWuDAw4aVz721wexS5lnW9o3z2KnNey8QHI976lK-9CswxbvZCkqcrV8QYbnLWqe32VMzWy_IJK4ROAVBaUZuQ1MA6Mz-4PWE_Ivo8Nio8IDZc72Wvr5PM_jdbMMHq-t-pZEiAGQ",
+      "photoAttribution": "Secret Garden Guesthouse",
+      "placeId": "ChIJQwUvCApZdhwRIqZVOrhbPLE",
+      "phone": "064 404 037",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "36 Bismarck St, Swakopmund, Namibia"
+    },
+    {
+      "name": "The Stellenbosch Wine Bar and Bistro",
+      "coord": [
+        -22.5722123,
+        17.1067546
+      ],
+      "desc": "Casual pub and grill in Windhoek with steaks and local beer",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13814984760955874113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Budget Friendly"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2148,
+      "website": "https://www.thestellenboschwinebar.com/",
+      "photoRef": "places/ChIJn4NF3MsECxwRQas19nGvuL8/photos/AcnlKN1lC3NFejLpeKOlSv8qbmSpDBMcCZ0L-X6kYc1Y9MKVKUBChHwp90X0xLA0_EO9RNVAJlge-M50nfwNjTe5sXp1TL49kOT_gEjM1Ti3NVnwYeHedjutlzeSs5LqkzAg4Lex2alVSa0qu-XZISDtmWstiPMuT6ITcGvlHUuywX1r2zeQ7xGqO1mUXbe2wFGcyquKs_DLXlee5Mvr9Kw4Vw2h0GvvVMvymDaS_RWbogvJqtnW_WZR6urD8lB4UpEV_ZRpw11PSuUK7CUXggbVCCBOTqHDjVgdwwn-urRR8n5Uvg",
+      "photoAttribution": "The Stellenbosch Wine Bar and Bistro",
+      "placeId": "ChIJn4NF3MsECxwRQas19nGvuL8",
+      "phone": "061 309 141",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Shop 25, Bougain Villas, 320 Sam Nujoma Dr, Windhuk, Namibia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Daan Viljoen Lodge",
+      "coord": [
+        -22.537774,
+        16.945694
+      ],
+      "desc": "Restaurant at Daan Viljoen Game Reserve near Windhoek",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8683608049428434247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Scenic Views"
+      ],
+      "rating": 4,
+      "ratingCount": 122,
+      "website": "http://www.sunkarros.com/",
+      "photoRef": "places/ChIJWdKYuBcfCxwRR43nYoNfgng/photos/AcnlKN0pE6ExGRns-pViIlWK1_zSGDa79pHcybhD5Er7Ox2at1BUhQ8dFYC95acxlStBKMzYTw8Ki3j0CDyMA_LwHvCpdwR5og7eCarrTft7jCAURIR4b69v4h2EIoXnyP0YJGwvkEyU-MSr2jjok5_6upDOP4Gg0jAbDA7NTvdiKQj28jZ-uCzU18ezD89RUl6Vsnugks7XlIJOPHrX76M4GBYeaT_7yDCQVht1VwPo8gkkRai0pHUpEYSmXGP-YejpMr4er0i8meItG5wXHwFeSZ3_c4KtP9dfSQP8cZt4R-iyeQ",
+      "photoAttribution": "Daan Viljoen Lodge",
+      "placeId": "ChIJWdKYuBcfCxwRR43nYoNfgng",
+      "phone": "083 323 2393",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "C28, Daan Viljoen Game Reserve, Windhoek, Namibia"
+    }
+  ],
   "experiences": [
     {
       "name": "Namibia",
@@ -63,12 +816,380 @@
       "tags": [
         "Adventure & Active",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Full-Day Activity",
+        "Scenic Views"
       ]
+    },
+    {
+      "name": "Independence Museum",
+      "coord": [
+        -22.568826599999998,
+        17.087995499999998
+      ],
+      "desc": "Cultural heritage museum, interactive exhibits, Namibian history, educational",
+      "longDesc": "Explore Namibia's rich cultural and natural heritage through engaging exhibits that educate and inspire visitors of all ages about the nation's diverse history.",
+      "gmapsUrl": "https://maps.google.com/?cid=690815565034969099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Rainy Day"
+      ],
+      "rating": 4.1,
+      "ratingCount": 770,
+      "website": "http://www.museums.com.na/museums/windhoek/independence-museum",
+      "photoRef": "places/ChIJVVUV60cbCxwRC1g4pxhFlgk/photos/AcnlKN0stBfoym2tEHalW4pMIklvLptFpAsMAeH_vxtYfcvrAcUXg0NrS0vPFs-UsjdQeNjQuFskH-3XF1xcJ5KEWSKVMO8eqC1oyz5QjZmp3IY1Ly7-Yx2G-esb3xI6iMPnSPHzOvMd6a2YqE7hBCyM0I0KDKZPJ_Na5D2PLEZdy-a8GLddL8hXgEaGDgszkxsv8K_NjZnBL-tJuMp8vMdNB0_sZaZya7AhEn341kuha-9t1JD4yH3OZmMlUb1xtvGt5QIh_DuAwItJeeQZF5drqjA8Nf2cV907jHXfq0e7wV9xDN4roVhHMIeY90bgXi5e8ZiM1y0sh8Eftv5XEZ5hrEkATCYlEUtpbKaF2bqdU_caGAW2ttUoVnvYES1db4j7IojtFdcUMMLw6fJJ-AtdEcFL1lc6JCGI52fd8AmdyPJjBQEH",
+      "photoAttribution": "A. Eggert",
+      "placeId": "ChIJVVUV60cbCxwRC1g4pxhFlgk",
+      "phone": "061 276 800",
+      "hours": [
+        "Monday: 9:00 AM – 4:30 PM",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "C3JQ+F59 Independence Memorial Museum, Windhuk, Namibia"
+    },
+    {
+      "name": "Sossusvlei",
+      "coord": [
+        -24.7273906,
+        15.3423909
+      ],
+      "desc": "Iconic sand dunes, stunning red desert landscape, photography paradise, adventure",
+      "longDesc": "The most photographed dunes in Namibia offer breathtaking desert scenery and unforgettable family adventures amid towering red sand formations.",
+      "gmapsUrl": "https://maps.google.com/?cid=11468818498858359468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.8,
+      "ratingCount": 641,
+      "photoRef": "places/ChIJSV_8qz4MchwRrJrhCaltKZ8/photos/AcnlKN2PQW2LsXHnf0uW9daehMJhqpEd3SRRWMwuix9XKo5JYXhCCrRNvyJDoTnwW_PnIDs6pOaJr4bOqZiwRTJWP_nX0RddtKqcWSUMQQZs6E-MhwDwu0agFYNQ6ZelWSvv_FHFM79YvXgtz9S98Lun3Z8JdZDXwxOkACV4N0ZT12BlTRMVq96_zjRaBv-9dPqwkJ9gyumXTbEGE-lyPYVA0cgoq2DVNDzOLdo6jyYAyzj-E3RHAA6Fzh-C3illrdXFSdvvR7JXrTezKD7KSEzcBeA44eTRmJung1dEyD6RuAd3H5Llb76nbNOKVZX-V5ZzXEzIuDJm6kHTBOPhM88sUrqkC6_hDpyINexsDi9N7r3zsJZ4QYTKiVe8iPtFL24Eg67vGFlgFoijng4k2aIIN6kt6RxsbQ50h4_N9wjcD33xVbI",
+      "photoAttribution": "Vladik Sharapa",
+      "placeId": "ChIJSV_8qz4MchwRrJrhCaltKZ8",
+      "address": "Sossusvlei, Namibia"
+    },
+    {
+      "name": "Okaukuejo",
+      "coord": [
+        -19.178660999999998,
+        15.9191331
+      ],
+      "desc": "Premier safari destination, wildlife viewing, elephant encounters, natural wonders",
+      "longDesc": "One of Africa's greatest wildlife reserves where families can experience thrilling game drives and witness diverse animals in their natural habitat.",
+      "gmapsUrl": "https://maps.google.com/?cid=15805009637012725059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Full-Day Activity"
+      ],
+      "photoRef": "places/ChIJ12ZocFpyjRsRQ93EvYasVts/photos/AcnlKN2qF-X4ErxwDamk33e5CWcPD3m72amJe2iSqQB2nqekr7EPrFvn-jxinnl-gyPSP2Kj2iZUnCW5MMYPC6_7UydCqr_JQP6hbmI07cO0dqYwfSa9EYEsLjm-1X7S7__Y2tYYyv10dOoyBztTUXrAZjTg2oNl_BMgRMURb7sS-T4wuAw7VxGNv0vpYYSUNFF02JCeVouMdpv6qAVJm1NgwxBVcgwOC6osT7ifTi_ykMgHiCjrgZzbFkMiDEI4nd-gUnh8QYc-5mdAG-U-2dw2H2zRUTfHh3br3IbaMk1r870rJMkx5TMzgrDfp8gIFmGXtRLZ9Gd3jvtsR6aBVmlwscrW540mnxmhspJ2zNQWWEQ9A6DGG_aCyiL8pxz8QNtygCLEbkaD31FvIk6JlBCfocW4rF7f1UJBdBb1a5a_QoK3dg",
+      "photoAttribution": "Ilse Wiespointner",
+      "placeId": "ChIJ12ZocFpyjRsRQ93EvYasVts",
+      "address": "Okaukuejo, Namibia"
+    },
+    {
+      "name": "Swakopmund Mole",
+      "coord": [
+        -22.6744554,
+        14.5205355
+      ],
+      "desc": "Popular public beach in Swakopmund with pier and promenade, ideal for families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9011286277577116870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.3,
+      "ratingCount": 587,
+      "website": "http://www.destination-swakopmund.com/",
+      "photoRef": "places/ChIJ89lFpflYdhwRxgxWKCCFDn0/photos/AcnlKN1kL9nMZzHFqNnFXC7H81MeyMiTld7rooZXnhIxONdRWqgdYhvTVM645cp-MvkJi_h0UY4ya799TatxvmB68MYKPNxkS41Nw9DQyFKFPR9Eleib4VYPiFpgX74hCRB5XJyqvrLioEs-Eufm3Qlc8gamBgm390Gbe_iq2ExRb610qRfzQiMb3n5VR1OjfxRD-Xj0h9t_5YeCJWZ948sH3Y6Z21C3urEq-IbVDrrFsv25Q-r3wjb1H9bNyaXabqTPgAEq0uC8l6yMsLo3Nmnv7CWbDkCec5RM3nWP8AGhqfq7WVQuLDRYqxOafiX91t_kY-e5vRfAVt_t49xw1OZJQ_e8sKQ0V8kA3AfozOvpGaVrjj60hdJrG8Ey9PTtk-E6XFOj3FRF8ZO7ylGEqxf2lBfui54QWEsd19wdbr1x5-JL9A",
+      "photoAttribution": "Kin Jonathan",
+      "placeId": "ChIJ89lFpflYdhwRxgxWKCCFDn0",
+      "phone": "081 886 5788",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "8GGC+667, Swakopmund, Namibia"
+    },
+    {
+      "name": "Swakopmund Museum",
+      "coord": [
+        -22.675622600000004,
+        14.523003399999999
+      ],
+      "desc": "Compact museum with natural history, local culture, and marine exhibits perfect for young children",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3310969612988014828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Rainy Day",
+        "Toddler Friendly"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1057,
+      "website": "https://www.sciswk.com/",
+      "photoRef": "places/ChIJk9sbwPlYdhwR7GBDHFLt8i0/photos/AcnlKN0gnVn03m5r1iPH0iYYnc557vCBudB65AeISuE0jYtq-3nF8GkjeYPeKoOydntaGw0a2I5Wuf9IY5gtYQl8SL13kOVEc940ENbElSdz49G_A9z1ULVd4KwkmF8AzmxZ_mwAHP7cEZYTMBNzyJGj6jluiFuTUq6gY3cN1nYtPct3jH32L9ExdgQbR2G9LXZ6TJmNYBLD3yfdIa6oQ7WepiPhmf_ivEPs6fry0gGv6ar5L52j_okiT2g7fsU9tXS2HjX6xTfjY6pctEejjnSIStcBBpnk2wrzheALtcBt5CCz7lAAbe6b67mc4poog8err5Cvg10FIO1OOh9gmmjY7icox7YivIqQ1quN4Efx-HYJZsuBQqsRL2cBmNku7yxIOIoMEm4yg7l3SIaNGsW13oBzAG2kZiB_sOHcuFW2A-eITCpj",
+      "photoAttribution": "Oleksiy Syvak",
+      "placeId": "ChIJk9sbwPlYdhwR7GBDHFLt8i0",
+      "phone": "064 402 046",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "8GFF+Q62, Strand St, Swakopmund, Namibia"
+    },
+    {
+      "name": "Elim Dune",
+      "coord": [
+        -24.451664899999997,
+        15.769520499999999
+      ],
+      "desc": "Accessible red sand dune near Sesriem, popular sunset viewing spot in Sossusvlei region",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1551496715144019576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Scenic Views",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 109,
+      "photoRef": "places/ChIJxV9PkhxgchwReD5Y0AoGiBU/photos/AcnlKN298tWcL0no_gV87Oqn-TS8mu4GFGcmLFgC8Rm09oPfZAXrgpCUFwqnY9f2KpVye15bTqsezfdLtmjLfEGADQT2-Ncf-ce3kpGdLPQ7OeB1-dmYiKViQkVSM4wJyHzN7PIgRh4tmtc0vVqmedaAubvUytGhHM1gI90zF--8OfgTE7J36ttSnTWs5HhT66UoyGooujGwoDIzfaljZqHDXmjuZw1E-Kt_9UbNYkQn0_SlWDdR13iLu2k01DoUlKI0hibvrZnYGZjZkGq1Yo_OekmItlp-xkHUfKLJeE7gCDyxzA2qJ29Iz4XzNz6vacvOKOujqBdm4YrrwVLbzSavjO7CbwvU8IlZ959GwmtMTEFb2en5WeEsc8UVLLohIcuRYBD7KkIoq1dMajExhxYqWoZNowwPjiHnDWNXLbDJt4sYAsAUnNp0P-uk_A1sL5LW",
+      "photoAttribution": "ALTIERI FRANK",
+      "placeId": "ChIJxV9PkhxgchwReD5Y0AoGiBU",
+      "address": "GQX9+8RJ, Sesriem, Namibia"
+    },
+    {
+      "name": "Swakopmund, Beach",
+      "coord": [
+        -22.6774924,
+        14.521255
+      ],
+      "desc": "Main public beach and promenade area in Swakopmund",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11331114741744323341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 27,
+      "photoRef": "places/ChIJk7kujS1ZdhwRDcvcotI0QJ0/photos/AcnlKN3Dhhht2V1L9UpsWY1BuUsQeb9oUVCKFH46uODUUdqO97_cDFKWBouLItH8zijLtxGGrQm4w6DtHr8h0XwvePLKkiH2qKraq56_qjoJOhd4JVjL5d1R29PhSNjKBDo6bQPGg845bFG7PBdAjyGxAEHElvaGAIZGdX8Qp_UA8iySKtUULmwJ3zO_UCYKrlN5e4G8mER1JoRyqbHUM015i-YBBQYBe_zNF_pH1NY5ClxLDkgnPIj71Q75sfUTIue96DrHOxFhLsACAbNUscthi3tS6PNuXSlwBemouK7z-vgkl8FeVEaboChQ4pVl-RpSDDvWM6xWo9whTwUgr6Iij90XecEWNNkfCh4uNIozLQGzchFrmtUdoDlEgDUP9wiKRgrwn1l-oBp2eCnW3kX6rHRGy1MzIUMiwV7NfS0SkDZ3C1-zzByD6jQkvis6tiYh",
+      "photoAttribution": "Dr. Holger Muehlbauer",
+      "placeId": "ChIJk7kujS1ZdhwRDcvcotI0QJ0",
+      "address": "8GFC+2G2, Swakopmund, Namibia"
+    },
+    {
+      "name": "Desert, Dunes and Dust Tours",
+      "coord": [
+        -22.6685706,
+        14.540671199999998
+      ],
+      "desc": "Family-friendly boat tour to see dolphins, seals, and seabirds in Walvis Bay",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9012373716958751978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Half-Day Trip"
+      ],
+      "rating": 4.9,
+      "ratingCount": 196,
+      "website": "http://www.desertdunesdust-tours.com/",
+      "photoRef": "places/ChIJj3m_Fi5ZdhwR6qxkXiViEn0/photos/AcnlKN2-eVgA8Jo6EB19TmzkC_3K5rEfDPJLxd8V2l2iK6relkXBk24v2rK2px_5fSUHckCrvgliB15U3UKOq1W44ORWx5UWU1o_y7cGZEs5O-UFcr2BSkcPGwwOOvF9t5nHwpzGemn9y0Lmkgc6gcSSVYNw0_OfyjLkJLtwB7wSXLg0O_x0H9PqWz5QA-GncFTjZshqyr9f4h4h_ZCVgBs86PWkbQck0TjrV04bSoAf_CDrTSV_uSTR3q4LLR3SgSgwrX8prh2ZzDuRFRrJg__p1YwT_zB7wSYMU460TKoH6rKwTQ",
+      "photoAttribution": "Desert, Dunes and Dust Tours",
+      "placeId": "ChIJj3m_Fi5ZdhwR6qxkXiViEn0",
+      "phone": "081 718 1573",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "29 Hidipo Hamutenya St, Swakopmund, Namibia"
+    },
+    {
+      "name": "Okaukuejo Etosha",
+      "coord": [
+        -19.181020699999998,
+        15.915692
+      ],
+      "desc": "Famous floodlit waterhole at Okaukuejo Camp for wildlife viewing",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5522273378358285629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 813,
+      "website": "https://www.etoshanationalparknamibia.com/okaukuejo-region-of-etosha/",
+      "photoRef": "places/ChIJVZctDbFzjRsRPVWkHWEOo0w/photos/AcnlKN3uc-WarsNxFKLEncp0ZG25-3xiDkMzQSTUwIHzbV2AoCEIbgfbkPTJvanTxj92dIV5EOI7C64dDpsiEPIPmhximZSjxMbLk05CCzwwdcvAKA0pxQCpa1I6u_-UFeTIb-ObRd55HTOpOCI_F2Jd2spJAweWzEDZuxryZyQXKRxdwIfqmGKybi8kCdSygCFP4he0yXiIkdAeNMkiuyK7dhxYWiLy4Nz4PqaHISkhgN8inPTGJTXbintdDYK-n3atjZ6WtAQDobnO_9eMxPK35gECqzkPEMRia16Z-71ECxsxg4pRG8_mQE110esxc8DiOWszss3bGhjqfEZ9Jfshhz7RV0cgWlnWRjgHZK3lLKVOA2Oz212dT6aNYOJHRn0ASJoKXgYamUzCBYIFZspNy-_4TsP54CMm9u_8E98m6hA6RA1D",
+      "photoAttribution": "giorgio fidone",
+      "placeId": "ChIJVZctDbFzjRsRPVWkHWEOo0w",
+      "phone": "081 886 5788",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "RW98+H7W Etosha National Park, Okaukuejo, Namibia"
+    },
+    {
+      "name": "Christuskirche",
+      "coord": [
+        -22.567777799999998,
+        17.0872222
+      ],
+      "desc": "Historic Lutheran church built in 1907, iconic landmark with German colonial architecture in central Windhoek",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3966328786023499686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 755,
+      "website": "http://www.namibweb.com/christ.htm",
+      "photoRef": "places/ChIJO_cxsEcbCxwRpkdWMQQ7Czc/photos/AcnlKN0FBPAI6vYFLr7WU21eyj4zNcXbj0WydC6BzfKyttGa6NSn4VpZDSCT7Zbr04f1bfbUi0NTea222yARK091OF6QtsAakmJA7eJtHR4adng82fkk5IjmM_1sOoPUQ949_3mo9ZpDG1LOSmfdB8XlYLX2VpIXIvQL9qMRMMGng5mJD6sgKInck91tiBJmqgfs9eeaO0zMymJpkhZawJIi_DYCFEXITxXxTxfZ4pAqyW-_0a18uh06yViuGoiFrQfVlXlLnB6oW_5Z7OhDubICMAbjB1E90YYya0ISNe6xPRdyjefbQrosiV-rHWfSz1Z_gZS2qBtOYXOS9BoHc6At3iQTRW2qd7uupvcVBPHPxm1IHFvScQNzzN006N1yfklkkua_nd6BG9BIGByM7u-5_NBp6IvL8s4MleE_SiVVC-mWtYdXAMCdu_zfTTGZaA",
+      "photoAttribution": "Loris Staglianò",
+      "placeId": "ChIJO_cxsEcbCxwRpkdWMQQ7Czc",
+      "phone": "061 236 002",
+      "address": "C3JP+VVQ, Robert Mugabe Ave, Windhoek, Namibia"
+    },
+    {
+      "name": "Penduka Village",
+      "coord": [
+        -22.526343,
+        17.01552
+      ],
+      "desc": "Craft center and shop near Windhoek featuring local Namibian handicrafts",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13869753355128889889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Cultural & Historical",
+        "Local Delicacies",
+        "Hidden Gem"
+      ],
+      "rating": 4.2,
+      "ratingCount": 514,
+      "website": "http://www.penduka.com/",
+      "photoRef": "places/ChIJRVEtfyMcCxwRIWK9_jBDe8A/photos/AcnlKN3lth8HWoUltdKeqUP6Ch30RxnpyHsP4FBaig3US-3H3TqyE9wvuDQ-1aSOI31RI8gfsD0D4IDxqBlXCJRCrV3xR1OKewUUgKHuEloP0IMfNUKww5FGIfL1KN-i6CTiZpj7zZsV6S5h_vLahqEOFjVtOMJZXzoyDVkc4omsXPean8MPiOAHbi8OKRQ5h8OpKy9UbFkIqY4TU1q7pKa8-t24F0n2XtTOz-H1h5pc6_3NB0yYTz_84_jQ8HgSsAdFEH_56_xPIr_J76v3YgXy4OLNvT5b2riKEzNWj6xrTBAOjEj0KzFkT1cCHT3ctdLrt6Hh7wlM2oYabhjnciRlx3Aaz1EgmhG8FL0v4io1Sg_DbLhXPvGI-9yr_-4-aTZdPaAHHnjCU7EfFgc_4P-ddFiBHD7gmyEzgNVX65aYrRQxCyGi",
+      "photoAttribution": "Ingrid Heinrich",
+      "placeId": "ChIJRVEtfyMcCxwRIWK9_jBDe8A",
+      "phone": "061 257 210",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "address": "Goreangab Reservoir off, F2F8+F66, Green Mountain Dam Road, Windhoek, Namibia"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Spitzkoppe Cabin Camp",
+      "coord": [
+        -21.832218899999997,
+        15.178454499999999
+      ],
+      "desc": "Dramatic granite peaks, scenic hiking trails, rock formations, family adventure",
+      "longDesc": "A spectacular mountain landscape with accessible trails and stunning rock formations, offering families adventurous hiking and unforgettable desert views.",
+      "gmapsUrl": "https://maps.google.com/?cid=15401378329317314512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 50,
+      "website": "https://www.spitzkoppecabincamp.com/",
+      "photoRef": "places/ChIJo67fSWsHihsR0I9bkv2vvNU/photos/AcnlKN3V5sV7AHEgMacbwmIzn-EWqyQSWxvVQpwye1-8wZYARHQX6xP559ytV9neSv6ZE4EITh5bdCXdyWMtXF-djabZjAO4bLXY86jb9ZmjjOwWmXmcqtOI1JQT_3Xqf80HJK2_9cRK-YP81V_e__FFe2xdfLGJu0YOvruCJI58EiaCX2UCSqITBVdOA8U8NLxtvk_RZilOYsxUcfjlZ0qpSVjXgZcm5zMR797VcB4x7KMXBJtw5WdLBN6NW1qug8DS6bLofzUJrtVfSoGczgsMTPR4WQM4CB070lV8X8OZ8SxR4Q",
+      "photoAttribution": "Spitzkoppe Cabin Camp",
+      "placeId": "ChIJo67fSWsHihsR0I9bkv2vvNU",
+      "address": "13007, Road D1918, Usakos, Namibia"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Namibia Craft Centre",
+      "coord": [
+        -22.5722161,
+        17.084004
+      ],
+      "desc": "Local artisan crafts, handmade jewelry, authentic souvenirs, cultural products",
+      "longDesc": "A curated marketplace showcasing genuine Namibian crafts and artisan goods, perfect for families seeking authentic souvenirs supporting local creators.",
+      "gmapsUrl": "https://maps.google.com/?cid=7149285910663609615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Shopping",
+        "Cultural & Historical",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1149,
+      "website": "http://namibiacraftcentre.com/",
+      "photoRef": "places/ChIJD203yDgbCxwRDz3PPqhdN2M/photos/AcnlKN0d0D0AOpbespDzygbqbDjNX38-MDxCbN-n3j9CU_wqZ8d24BzGi93sH9QBQQy3DqcPOhiBL_JQyrxRAzHFiZwlnoZ-QXU_LSd_gmIREhOYcoW7gumBHBYN9E9NqKsDnjlSs9ZEECJrGAbkqwYRGbMwxaPsTVBym18XJL8g0Cg-x8kGnHLG37Bl8W28fzbTU9a39liBlK64VuqKesujsWT_XsEcEGjWNTl9tyX1K8dsTi21w_QIf9AiZXOIDvGyECic-E1eXSC2lMDcPhBd2yG5JHz5a5vtMup-ryAHry-vIw",
+      "photoAttribution": "Namibia Craft Centre",
+      "placeId": "ChIJD203yDgbCxwRDz3PPqhdN2M",
+      "phone": "061 242 222",
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 3:00 PM"
+      ],
+      "address": "C3GM+XFG, 40 Tal Street, Windhoek, Namibia"
+    }
+  ],
   "cityCenters": {
     "Namibia": [
       -22.7078,
@@ -76,5 +1197,485 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Namibia Family Safari & Coast (10 Days)",
+      "description": "A perfectly paced family adventure through Namibia's most spectacular landscapes—from the world's highest red dunes to wildlife-rich waterholes and the charming coastal town of Swakopmund, designed for young explorers.",
+      "familyFriendly": true,
+      "duration": 10,
+      "bases": [
+        "Sossusvlei Region",
+        "Swakopmund",
+        "Windhoek"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Windhoek & Transfer to the Desert",
+          "dayType": "rural",
+          "base": "Sossusvlei Region",
+          "items": [
+            {
+              "name": "Arrival in Windhoek",
+              "type": "info"
+            },
+            {
+              "name": "Pick up rental vehicle and drive to Sossusvlei region (5 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Sossus Oasis Campsite",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Desert camp restaurant with light meals and refreshments near park entrance",
+              "suggestedCity": "Sossusvlei"
+            },
+            {
+              "name": "Waldeck Namibia",
+              "type": "hotel",
+              "coord": [
+                -22.7078289,
+                17.2291494
+              ]
+            },
+            {
+              "name": "Settle in and afternoon pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sossusvlei Lodge Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant at Sossusvlei Lodge offering Namibian cuisine with desert views",
+              "suggestedCity": "Sossusvlei Region"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Sossusvlei Dunes at Sunrise",
+          "dayType": "rural",
+          "base": "Sossusvlei Region",
+          "items": [
+            {
+              "name": "Pre-dawn departure for Sossusvlei",
+              "type": "info"
+            },
+            {
+              "name": "Independence Museum",
+              "type": "sightseeing",
+              "coord": [
+                -22.5609,
+                17.0658
+              ]
+            },
+            {
+              "name": "Picnic breakfast among the dunes",
+              "type": "breakfast"
+            },
+            {
+              "name": "Return to hotel for midday rest",
+              "type": "nap"
+            },
+            {
+              "name": "Desert Grace Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fine dining restaurant at Desert Grace lodge near Sossusvlei",
+              "suggestedCity": "Sossusvlei Region"
+            },
+            {
+              "name": "Afternoon sundowner drive",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sossus Dune Lodge Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant inside Namib-Naukluft National Park with local cuisine",
+              "suggestedCity": "Sossusvlei Region"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Spitzkoppe & Transfer to Coast",
+          "dayType": "rural",
+          "base": "Swakopmund",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive towards the coast with stop at Spitzkoppe (4.5 hours total)",
+              "type": "info"
+            },
+            {
+              "name": "Spitzkoppe Cabin Camp",
+              "type": "sightseeing",
+              "coord": [
+                -21.8322189,
+                15.1784545
+              ]
+            },
+            {
+              "name": "Village Cafe Swakopmund",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual cafe in Swakopmund offering light meals and coffee",
+              "suggestedCity": "Swakopmund"
+            },
+            {
+              "name": "Continue to Swakopmund",
+              "type": "info"
+            },
+            {
+              "name": "Villa Margherita Boutique Hotel & Restaurant",
+              "type": "hotel",
+              "coord": [
+                -22.6766205,
+                14.5287467
+              ]
+            },
+            {
+              "name": "The Delight Hotel Swakopmund, Gondwana Collection Namibia",
+              "type": "dinner",
+              "coord": [
+                -22.675263,
+                14.527896
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Swakopmund Beach Day",
+          "dayType": "urban",
+          "base": "Swakopmund",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Cafe Anton Confectionery | Cakes & Cookies",
+              "type": "coffee",
+              "coord": [
+                -22.6772222,
+                14.5241667
+              ]
+            },
+            {
+              "name": "Swakopmund Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Main public beach and promenade area in Swakopmund",
+              "suggestedCity": "Swakopmund"
+            },
+            {
+              "name": "Cafe Anton Confectionery | Cakes & Cookies",
+              "type": "lunch",
+              "coord": [
+                -22.6772222,
+                14.5241667
+              ]
+            },
+            {
+              "name": "Afternoon at hotel pool",
+              "type": "nap"
+            },
+            {
+              "name": "Swakopmund Museum",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Small family-friendly museum showcasing Namibia's coastal history and natural heritage",
+              "suggestedCity": "Swakopmund"
+            },
+            {
+              "name": "Jetty 1905 Restaurant",
+              "type": "dinner",
+              "coord": [
+                -22.6807065,
+                14.5194747
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Coastal Adventures",
+          "dayType": "urban",
+          "base": "Swakopmund",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning dolphin cruise or desert tour",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Family-friendly boat tour to see dolphins, seals, and seabirds in Walvis Bay",
+              "suggestedCity": "Swakopmund"
+            },
+            {
+              "name": "The Tug Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront seafood restaurant in Walvis Bay with ocean views and family menu",
+              "suggestedCity": "Walvis Bay"
+            },
+            {
+              "name": "Return to Swakopmund for rest",
+              "type": "nap"
+            },
+            {
+              "name": "The Secret Garden Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Garden restaurant in Swakopmund with seafood and international dishes",
+              "suggestedCity": "Swakopmund"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Drive to Windhoek",
+          "dayType": "urban",
+          "base": "Windhoek",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Windhoek (4 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Avani Windhoek Hotel & Casino",
+              "type": "hotel",
+              "coord": [
+                -22.5690994,
+                17.0841101
+              ]
+            },
+            {
+              "name": "Craft Cafe",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular cafe with fresh salads, sandwiches, and excellent coffee in central Windhoek",
+              "suggestedCity": "Windhoek"
+            },
+            {
+              "name": "Namibia Craft Centre",
+              "type": "shopping",
+              "coord": [
+                -22.5722161,
+                17.084004
+              ]
+            },
+            {
+              "name": "Afternoon at rooftop pool",
+              "type": "freeTime"
+            },
+            {
+              "name": "The Olive Exclusive All-Suite Hotel",
+              "type": "dinner",
+              "coord": [
+                -22.5534297,
+                17.0902601
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Day Trip to Okaukuejo",
+          "dayType": "rural",
+          "base": "Windhoek",
+          "items": [
+            {
+              "name": "Early hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Full-day excursion to Okaukuejo in Etosha National Park (4.5 hours each way with game drives)",
+              "type": "info"
+            },
+            {
+              "name": "Okaukuejo",
+              "type": "sightseeing",
+              "coord": [
+                -19.178661,
+                15.9191331
+              ]
+            },
+            {
+              "name": "Okaukuejo Camp Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant at Okaukuejo Rest Camp in Etosha National Park",
+              "suggestedCity": "Okaukuejo"
+            },
+            {
+              "name": "Okaukuejo Waterhole",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "wildlife viewing",
+              "suggestedDesc": "Famous floodlit waterhole at Okaukuejo Camp for wildlife viewing",
+              "suggestedCity": "Okaukuejo"
+            },
+            {
+              "name": "Return to Windhoek",
+              "type": "info"
+            },
+            {
+              "name": "The Stellenbosch Pub & Grill",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual pub and grill in Windhoek with steaks and local beer",
+              "suggestedCity": "Windhoek"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Windhoek Culture & Rest",
+          "dayType": "urban",
+          "base": "Windhoek",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Slow morning at hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "National Museum of Namibia",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "museum",
+              "suggestedDesc": "Main national museum featuring historical and cultural exhibits including traditional artifacts and natural history",
+              "suggestedCity": "Windhoek"
+            },
+            {
+              "name": "Joe's Beerhouse",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Iconic Windhoek restaurant with Namibian game meat, craft beer garden, and family atmosphere",
+              "suggestedCity": "Windhoek"
+            },
+            {
+              "name": "Afternoon rest and pool time",
+              "type": "nap"
+            },
+            {
+              "name": "NICE Restaurant & Bar",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary restaurant in Windhoek with international cuisine",
+              "suggestedCity": "Windhoek"
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Explore Windhoek Surrounds",
+          "dayType": "suburban",
+          "base": "Windhoek",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Christuskirche",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "landmark",
+              "suggestedDesc": "Historic Lutheran church built in 1907, iconic landmark with German colonial architecture in central Windhoek",
+              "suggestedCity": "Windhoek"
+            },
+            {
+              "name": "Daan Viljoen Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant at Daan Viljoen Game Reserve near Windhoek",
+              "suggestedCity": "Windhoek"
+            },
+            {
+              "name": "Return to Windhoek for final afternoon",
+              "type": "info"
+            },
+            {
+              "name": "Last swim at rooftop pool",
+              "type": "freeTime"
+            },
+            {
+              "name": "O Portuga",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Portuguese restaurant in Windhoek known for seafood and peri-peri chicken",
+              "suggestedCity": "Windhoek"
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Departure",
+          "dayType": "urban",
+          "base": "Windhoek",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Penduka Village",
+              "type": "shopping",
+              "suggested": true,
+              "suggestedCategory": "shopping",
+              "suggestedDesc": "Craft center and shop near Windhoek featuring local Namibian handicrafts",
+              "suggestedCity": "Windhoek"
+            },
+            {
+              "name": "Stellenbosch Wine Bar & Bistro",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale bistro near the airport with South African wines and light meals",
+              "suggestedCity": "Windhoek"
+            },
+            {
+              "name": "Transfer to Hosea Kutako International Airport",
+              "type": "info"
+            },
+            {
+              "name": "Departure",
+              "type": "info"
+            },
+            {
+              "name": "The Warehouse Theatre Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant and entertainment venue in Windhoek with varied menu",
+              "suggestedCity": "Windhoek"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

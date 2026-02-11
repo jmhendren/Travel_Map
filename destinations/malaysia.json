@@ -27,7 +27,9 @@
       "photoAttribution": "Park Hyatt Kuala Lumpur",
       "tags": [
         "Splurge",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "phone": "03-2333 1234"
     },
@@ -50,7 +52,9 @@
       "tags": [
         "Splurge",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -62,12 +66,341 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "09-845 1100"
+    },
+    {
+      "name": "Batu Batu Island",
+      "desc": "Island resort, tropical getaway, snorkeling, family beach activities",
+      "longDesc": "An island resort in Malaysia's Perhentian Islands offering direct beach access, snorkeling opportunities, and tropical family-friendly water activities.",
+      "coord": [
+        2.4740937,
+        103.96064319999999
+      ],
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Toddler Friendly",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 4.5,
+      "ratingCount": 373,
+      "website": "https://www.batubatu.com.my/",
+      "photoRef": "places/ChIJ8UCvAIg2xTERn7nymr_yMXw/photos/AcnlKN3lgeQu1A0sq5U1db4BCy94ANVIDwiI102nXyeHNC9h97XZMJZ4JWdqSJWNlWxR6Khy1fA_sgcNDqp13Uuyb0EWLYdxKBIh4rxcrQQ2P_gxdaCl-iwkeRfYDOwBrpcgf82-TGsGb9sjGesZOrzh3YHFQJfsPoteA7AjFJK6NF4rDKuSlKsuJ8n_xlzeDAp90yJlAuitamMbcvsZKKVEJKM4yOGnCMIl8LoXBkR2hAu38GVrJtyhPdqab3drwU9h8b2nva37HPshsp-tsSnmFFFAKbcYH2HdIdKfNxDIEnFyMz5ulYldG9s53gpxa3AM0smwaSaNzpuUKu45kC3dY26S6w1uXm3_k0-Y1xHQYUvSDSUlyMGUnmi-dks3dDvWtASd6eaqDR6y-MLpGgon7CVNDu7-KJ1KwiGG9lxY4li5fg",
+      "photoAttribution": "S McG",
+      "gmapsUrl": "https://maps.google.com/?cid=8949200839314160031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ8UCvAIg2xTERn7nymr_yMXw",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Pulau Tengah, 86800 Mersing, Johor Darul Ta'zim, Malaysia"
+    },
+    {
+      "name": "The Ritz-Carlton, Kuala Lumpur",
+      "coord": [
+        3.1469196,
+        101.7153713
+      ],
+      "desc": "Ultra-luxury urban resort, Michelin dining, spa, prime city location",
+      "longDesc": "An iconic luxury hotel offering world-class amenities, exceptional service, and direct access to shopping and dining in Malaysia's vibrant capital city.",
+      "gmapsUrl": "https://maps.google.com/?cid=2934826311995876442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3963,
+      "website": "https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJ__-v0i02zDERWuT7O_uYuig/photos/AcnlKN1U2w51dlgpSg_zqfR-5Vi-ljE7PEM-AhJhnBal5AF9RwUoM-GugcWtuHKAVQMBxmmvR3Zcp7fwlc1UVPqBEPHGaZqbqQDsarvFy9jvphcxMCKn3Jl50PdX1JgevsVprhsuWoDjbyLuUMpX_pH2qT0PebNZg_2Q_Te_00h_xgENcEukCpBZun3L-on0k7v8mDc-s4S_Ofj8U-7C9GIOh_H3QeOYJ_XdHjU18PC-YQRd2XnzZ6uKMDz-Oabjd1QkcI6xdRfRARzbwoKFSKJfHeeZJy2yoalYCAJAfv5kUKTLvg",
+      "photoAttribution": "The Ritz-Carlton, Kuala Lumpur",
+      "placeId": "ChIJ__-v0i02zDERWuT7O_uYuig",
+      "phone": "03-2142 8000",
+      "address": "168, Jln Imbi, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    },
+    {
+      "name": "Pangkor Laut Resort",
+      "coord": [
+        4.1988331,
+        100.5465421
+      ],
+      "desc": "Private island resort, pristine beaches, water sports, jungle trails",
+      "longDesc": "An exclusive beachfront paradise on a private island offering family-friendly water activities, nature trails, and stunning coastal views perfect for creating lasting memories.",
+      "gmapsUrl": "https://maps.google.com/?cid=2595890580887197647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Playgrounds",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1655,
+      "website": "https://www.pangkorlautresort.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "photoRef": "places/ChIJXT3kkTbSNDARz1eQzbp0BiQ/photos/AcnlKN2nHQQf4cNMsZZ8sHos0NkmkY5EBF_RPgSB_JKB0x1XMR9Py6g-xoK4p7Bhb2rqtyrcfMX0NVCZ6rjInVKNKWzggvYbd4NYFf6O9PNatLy6RfjOWekK5Y4P8GM0noiW3X6ZQVs4_a_JT3ZrAzbZfrfA4qRI3GZeQtQXkHmYR8W4GIzB9GwbvEgQlLjzv6xKDn6cxsVZCOHqMbx85HVIjUOQ5iwfqyazlJMIu0YuIoNCcXIxjBf96UjSWXsQXS7C2G5n5Lg1BdvMnubSUfibjfufZuGBcS3GribWu_kNc4PP4g",
+      "photoAttribution": "Pangkor Laut Resort",
+      "placeId": "ChIJXT3kkTbSNDARz1eQzbp0BiQ",
+      "phone": "05-699 1100",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Pangkor Laut Island Pangkor Laut, 32200 Lumut, Perak, Malaysia"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Din Tai Fung 鼎泰豐 at Pavilion Kuala Lumpur (Bukit Bintang)",
+      "coord": [
+        3.1499352,
+        101.7127843
+      ],
+      "desc": "Michelin-starred dim sum, handmade dumplings, elegant dining experience",
+      "longDesc": "Award-winning dim sum restaurant serving exquisitely crafted handmade dumplings and traditional Chinese cuisine in an elegant setting perfect for family celebrations.",
+      "gmapsUrl": "https://maps.google.com/?cid=8886307762069017008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Lunch",
+        "Splurge",
+        "Reservations Recommended",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2992,
+      "website": "http://www.dintaifung.com.my/",
+      "photoRef": "places/ChIJ14F2DME3zDERsJHr8tOBUns/photos/AcnlKN1AQLdJNvZps2DLU5kCKlBHhc4vRSzSJICW0ory-m-0JUkPtFAFVTn4XpEMdalSqtbS8Zecwe69JxMGD6QCcDGy26S8zqNc8rTHU29OaTh33PkApT1i-US3p0r89pbU-CnM9O3N8KUjgzLzmj1xC6r9NrBp6reROvfWh8VvP1VAMtPrUnBo0efONGBNFbOUaRUQMFMVhJ_6T-ZTw3I7xN-UvEMTFWzkSI44Mg0q1TUb5S_74dnFkFZCF3Bwx4fY6CGiNCvimpFIc8y7ZjLhbGCy8zTnYnxDfL0nE9UHjkI_fjUJYLmUNIeT_G98t1-ReXGGoGUXLSGTpaDigwBKJy3GurvcZe_RcSLeM0WL97yXAarfDvq6G8rzyyekPWbyRDQYg7fF_iizE3QpyTvqfjmTpzluvIhoHVRxfPd_orVR86bDebFgqaP-TMdrgaNP",
+      "photoAttribution": "Evangeline Tan",
+      "placeId": "ChIJ14F2DME3zDERsJHr8tOBUns",
+      "phone": "03-2148 8292",
+      "hours": [
+        "Monday: 10:30 AM – 9:30 PM",
+        "Tuesday: 10:30 AM – 9:30 PM",
+        "Wednesday: 10:30 AM – 9:30 PM",
+        "Thursday: 10:30 AM – 9:30 PM",
+        "Friday: 10:30 AM – 9:30 PM",
+        "Saturday: 10:30 AM – 9:30 PM",
+        "Sunday: 10:30 AM – 9:30 PM"
+      ],
+      "address": "Lot 6 .01.05, Pavilion Kuala Lumpur, Level 6.01.06 KL Pavilion Kuala Lumpur Shopping Mall, 168, Bukit Bintang Rd, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Nasi Kandar Pelita",
+      "coord": [
+        5.416104499999999,
+        100.324604
+      ],
+      "desc": "Iconic local nasi kandar, traditional Penang recipes, budget-friendly, beloved by locals",
+      "longDesc": "A beloved Penang institution serving authentic nasi kandar with aromatic rice and flavorful curries, offering genuine local flavors at prices families appreciate.",
+      "gmapsUrl": "https://maps.google.com/?cid=13031010648337354726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies",
+        "Casual Eats",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Hidden Gem",
+        "Iconic / Must-See"
+      ],
+      "rating": 3.8,
+      "ratingCount": 2777,
+      "website": "http://www.pelita.com.my/",
+      "photoRef": "places/ChIJwfgyLbzDSjAR5g97tiRz17Q/photos/AcnlKN2NoKZesvLI0nQsqsszFSfKm8S6dTQxR0wJn3XYNcF0VXoKbMnXpV7biQVCBdvwzCruSuCUugNTePRhhRZmdSvRad7Ano13so4_cpJuO8ZpTCWIgy-ZEJdLeVh4C_gfjR-EBqDovE0ilXIK1vPVljCCxTBVLapUwaIF8d-TX2ma7XTZzQhv4PCIZvaiJ9LJpQ5vDXosAy1N0tQMYmGkBF8zv5aQvH9fmm_zSBU89sguz2D5LGI2Aki51Y_Ffoo_ZUK1m7OniIFUlq2A2k-IUy2ZzxjLg9Kd9e_9ZkDckPqHQtEsAeBGZ4ukK-ZIZNHkPy3W8vonXWzlEhLRCujN2zH34OWBC5PixUV-pF2JESY6_yYkqL0pwjb5wJ52A3uEklyUwkZJ1-HvwbXPxofx7gLepQb7mk9qsbbM0muCs-UOFA",
+      "photoAttribution": "Wesley Natanael",
+      "placeId": "ChIJwfgyLbzDSjAR5g97tiRz17Q",
+      "phone": "04-227 6214",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "146A, Jln Macalister, George Town, 10400 George Town, Pulau Pinang, Malaysia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Sunway Hotel Georgetown",
+      "coord": [
+        5.414353,
+        100.325908
+      ],
+      "desc": "Modern mid-range hotel, heritage location, rooftop bar, great value",
+      "longDesc": "A contemporary hotel in UNESCO-listed Georgetown offering comfortable accommodations, easy access to historic sites, and vibrant local culture at affordable rates.",
+      "gmapsUrl": "https://maps.google.com/?cid=15761217302255296604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Cultural & Historical"
+      ],
+      "rating": 4.3,
+      "ratingCount": 3223,
+      "website": "https://www.sunwayhotels.com/sunway-georgetown/",
+      "photoRef": "places/ChIJwXMMa77DSjARXOCqQKEXu9o/photos/AcnlKN2v2skGqaUZxsYdGwf5hT8Km-ZN5AXXDXPwitfBQkEy0Vs7kJaW6NnGKTXgB5uj3CHXxbmS7MnyEsfFx1dvWXEV0c8RF1e5lxAq2ROG6J0HS5n0kxP4Tix6lxTYT37j9d5Xhx85AnED158sZtICTT8wtZ6hb6ujPPW2Wyqd1deLMYycfTLo3NdmCx5qOegkulNPEdXqBKafZ1ufqCBkga7gzjGDWdVdQjI3BRscrQ7hCRGiAutDizfXKrgQQgJe6-IYIk43jgcYUNYySTa9VRT8Z84_b7WSIS2GsuIUIjHQPw",
+      "photoAttribution": "Sunway Hotel Georgetown, Penang",
+      "placeId": "ChIJwXMMa77DSjARXOCqQKEXu9o",
+      "phone": "04-229 9988",
+      "address": "33, Lorong Baru, George Town, 10400 George Town, Pulau Pinang, Malaysia"
+    },
+    {
+      "name": "Petronas Twin Towers",
+      "coord": [
+        3.1574693,
+        101.7115639
+      ],
+      "desc": "Iconic skyscraper, skybridge views, observation deck, architectural marvel",
+      "longDesc": "Malaysia's most recognizable landmark offering breathtaking panoramic city views from the observation deck and iconic skybridge, a must-visit for families exploring Kuala Lumpur.",
+      "gmapsUrl": "https://maps.google.com/?cid=11401704482821279830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly",
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 101217,
+      "website": "https://www.petronastwintowers.com.my/",
+      "photoRef": "places/ChIJH5xmLdE3zDERVpCKfNH9Op4/photos/AcnlKN1qdUGq38NnOWTgHm_8A-39prEhqLpXMqejdbJ5WbL4NHffiJGzIGhn6GZYyaJAfHT9kgkO2p4ZPYZxVpITieN4PtNQYqPTHypBd6EgoIw9zOr-dTiZMWEREBe41rVvQbbUx6InRPFRUOZgtbph4W16WiZvYA9LInEy3ha9q20hSK7Dk-pGPTjfiNk0SyLO8X3K-mlOcHi3_4rXZOsPBryu73w_8we6I8GR4P14BtzbsjJUhXrHM1nqrt_rUrUFyUUJiEh29kHSJiWZs0_VZTGv2MovizeS9DKhhXMVr2id_s7tjebjQktqMRtJSxWfSdkmQJ2UBckas37izYxfUQu4OUFEJuCFNHa8rCWhgPGpP83-j4ZTTMuNuBXXGFLJklLbusy-7gegYgnRwIEFEpctxUf1x0hAS0PntlNrVnppNia1",
+      "photoAttribution": "Peifeng",
+      "placeId": "ChIJH5xmLdE3zDERVpCKfNH9Op4",
+      "phone": "03-2331 8080",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "address": "Lower Ground (Concourse) Level, Menara Berkembar Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    },
+    {
+      "name": "Penang Street Art",
+      "coord": [
+        5.4145962,
+        100.3382558
+      ],
+      "desc": "UNESCO heritage walking tour, vibrant murals, colonial architecture, local guides",
+      "longDesc": "Explore Georgetown's colorful street art and centuries-old colonial buildings on guided heritage walks, discovering authentic Malaysian culture and stunning photo opportunities.",
+      "gmapsUrl": "https://maps.google.com/?cid=16675298182508337943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Art & Design",
+        "Family Friendly",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 11607,
+      "website": "https://streetartpenang.com/",
+      "photoRef": "places/ChIJ-cCMa5LDSjARF1sg9FiPauc/photos/AcnlKN1BrPiMjX8JVuHuVBrtyxCMvzNwlsXhGZIhxuruedU233Qs8TDd5AY9M_O7zvAWFyKUbMZJZm50Ms6hg5VqRw1PDepiQKKaG_eSplMgbO-c3BJpL-tjfg4M443rPUSB4xHq-3yIdAnVcNgaTbZNYVB-xPA8TpwzGqdFyMRRPadLgUxZpHJ2Wlr6mOY6je1UNzAN-bFhiaT5SX6GkI7FR_kTjtw3oH_I3arvHrgdyjJ8KvOSDs-btm7MtuWJaF9Yq39dop3lck5yawPfSt9-6zIQa95-T0HWBxnkGOWol0ZZvyaSuv0OcJ9SFhMMR5uMgrbwLloyFJfLPKwlup61wBWQw2_lsAvExWJl0cvdoYXq9GWPl92jmBu93Znu38-mMnc0r0eHQvXb38mJsOuM9zZb8Y2c4vMLgw7i9HdrJSqsmqW9PgRS2EzxatSPSeLl",
+      "photoAttribution": "FungSwee Wong",
+      "placeId": "ChIJ-cCMa5LDSjARF1sg9FiPauc",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "316, Beach St, Georgetown, 10300 George Town, Penang, Malaysia"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Aquaria KLCC",
+      "coord": [
+        3.1535482999999997,
+        101.713178
+      ],
+      "desc": "Southeast Asia's largest aquarium, interactive tanks, touch pools, sea creatures",
+      "longDesc": "A spectacular underwater world featuring thousands of marine creatures, interactive touch pools, and tunnel viewing where children are mesmerized by colorful fish and gentle sharks.",
+      "gmapsUrl": "https://maps.google.com/?cid=7539728106409389037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Rainy Day",
+        "Adventure & Active"
+      ],
+      "rating": 4.3,
+      "ratingCount": 39315,
+      "website": "https://aquariaklcc.com/",
+      "photoRef": "places/ChIJM5cxndM3zDER7WuP_cN-omg/photos/AcnlKN1tAinhJSx5DTsxz-bOHRj-f8Had2nI4KrA8mDV5FQuDk9FNNvyU0R020xGnZH7k2AxClu2Pgj-Y4_q3GuN6wLaZurKEwpk0J38OdvnjwAIsRaHuAEoommFOCw0vlrxVLET_R9b8SGYi8Nc0itZrPjD3vva0nmzkUVcBqAy4-uLDvM14ZBNEgijEUmA9Weo-3p1n4TrDa6eKoCYtgs3OkVL53wiU0o4yvm_6SkQ6onizyQ2kQ7ewluAlow1g1FH4aFAM70fi9edlXJMnVTuCl0J0LW8eUfvNByM1lGdP24TlXi8DKsUGaQUdO4ZAqsC5rpa6976FlFTlEkL640IWNi9fVbftL4uU4tZU8tQYlFCZBhcuca-6pVGQbxqwevq8Qk2uECGzZa7Ffft7bigmYSnFWc8acUQuCG8zaYKEuUgeA",
+      "photoAttribution": "عبدالرحمن علي",
+      "placeId": "ChIJM5cxndM3zDER7WuP_cN-omg",
+      "phone": "03-2333 1888",
+      "hours": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "address": "Kuala Lumpur Convention Centre, Jalan Pinang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Jalan Alor Night Market",
+      "coord": [
+        3.1461791999999997,
+        101.70900639999999
+      ],
+      "desc": "Famous street food market, hawker stalls, local delicacies, vibrant atmosphere",
+      "longDesc": "Kuala Lumpur's iconic night market buzzing with energy, offering authentic street food, grilled seafood, and local snacks that families adore for an authentic Malaysian culinary adventure.",
+      "gmapsUrl": "https://maps.google.com/?cid=13717024944249590025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Budget Friendly",
+        "Good for Dinner",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 3.9,
+      "ratingCount": 416,
+      "photoRef": "places/ChIJ9buK1Es3zDERCVEryYKpXL4/photos/AcnlKN0G_nbJ80cY0gxHrJgH6f1M8zejFHcTsG-d_0kubQ9YZKSQ3k1jBF5bz5z0CgMdmpX5FNyDekG8occInBj-8ZCrtlRK_Spn5QiBiG3lKdfuvHaoFrO_RfqMSfo2q9rqniYzOzdWdT6s09jrQHDdzLYzgyg-rYdNHfLumdA3iY-9xGRyG44AGPwQTO_yo08ofJ_Xk7ZCGvFquE_Ci8HXvSkG6-JzUHLOz2dlskrmH6uaO9d7Lj_bICZolS7HyHlD-HaOPfts48IO1pkHV54kPPLWm5fQ76WQN8C5wTMomTeGxtwJZbXAn6UeRsR8jZe1WSK27AFLkEfow42FD-gWgVDcPWavC_WYXIpxRWmPyO8gDAtFr75PMSYW6LJkjM1oW-Xl0QNpr4B3q77Yn-WbS3cx5mFYX9vq5Y3ozGJFZT-1wvA",
+      "photoAttribution": "諸天兵",
+      "placeId": "ChIJ9buK1Es3zDERCVEryYKpXL4",
+      "hours": [
+        "Monday: 10:00 AM – 3:00 AM",
+        "Tuesday: 10:00 AM – 3:00 AM",
+        "Wednesday: 10:00 AM – 3:00 AM",
+        "Thursday: 10:00 AM – 3:00 AM",
+        "Friday: 10:00 AM – 3:00 AM",
+        "Saturday: 10:00 AM – 3:00 AM",
+        "Sunday: 10:00 AM – 3:00 AM"
+      ],
+      "address": "38-90, 亚罗街, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    }
+  ],
   "cityCenters": {
     "Kuala Lumpur": [
       3.1418,

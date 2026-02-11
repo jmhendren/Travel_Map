@@ -30,15 +30,857 @@
         "Splurge",
         "Photography Worthy",
         "Outdoor & Nature",
-        "Art & Design"
+        "Art & Design",
+        "Iconic / Must-See",
+        "Beach",
+        "Scenic Views"
       ],
       "phone": "04 875 2323"
+    },
+    {
+      "name": "Polana Serena Hotel",
+      "coord": [
+        -25.969047999999997,
+        32.597245
+      ],
+      "desc": "Iconic beachfront luxury hotel, colonial elegance, ocean views, fine dining",
+      "longDesc": "Maputo's most prestigious hotel combines colonial charm with modern luxury, featuring beautiful gardens and direct beach access perfect for families seeking comfort and culture.",
+      "gmapsUrl": "https://maps.google.com/?cid=12577490627590229550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Beach",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2890,
+      "website": "https://www.serenahotels.com/polana",
+      "photoRef": "places/ChIJO-VGNJGQ5h4RLg5SXxY5jK4/photos/AcnlKN20Pqi_zkr-pWogqFyfYGWF79MCnEhguyl3oT1aj3-RSz9ZOmBYn60cpfxAFKxwtIvxMQ-7J4uhoiLvs1nd6rMWZrjn2-jUejsF5Q5yNyd3BG6vPQlUeX9pqxH29baGG1tbc0GdVqSVAr_Oppjhf9x6OKzq9li8p8psqtzWDLv5YMzVI97aWr-AGLb9xqAE8XzL2RXd8OqGKjOfEA1tRtqO8MchAo6Yhz_hIBCUZWihc0mVI_CBrYcpDtChtZK_m0vpdqE6Z-Fx20gdhpS2T7T7vp1Qt5fGa_eah6sJtNTSEQ",
+      "photoAttribution": "Polana Serena Hotel",
+      "placeId": "ChIJO-VGNJGQ5h4RLg5SXxY5jK4",
+      "phone": "21 241 700",
+      "address": "1380 Av. Julius Nyerere, Maputo, Mozambique"
+    },
+    {
+      "name": "Beira Terrace Hotel",
+      "coord": [
+        -19.8282925,
+        34.8325578
+      ],
+      "desc": "Modern beachfront resort, family suites, swimming pool, coastal views",
+      "longDesc": "Contemporary beachfront hotel in Beira offering spacious family accommodations, a large pool area, and easy beach access ideal for relaxing seaside vacations.",
+      "gmapsUrl": "https://maps.google.com/?cid=9932182193583298479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4,
+      "ratingCount": 974,
+      "website": "https://beiraterracehotel.com/",
+      "photoRef": "places/ChIJNUKqKvZqKh8Rrxf-BBUz1ok/photos/AcnlKN1k5hutuPu2SoIsRcFna6IrQKj7w07ACMwyXbHOur2IxvmP5uBihNpTNnHbtRg7SBcIqItAlZt2a74-ted-gY0LesecNqDfgwDPpLKw7wrbUw5GTUg8iZdHKhWclBxvkOiItzku5BRQVjeniywiEIGpI4mPWlH78xgR72F84PUUwAh-QTfaLlpL61GjIZX5XC2PZDeQ73YFUglgPLZpP5tOIcREbuJ-LmfXwrfsmzIKoXV3q0ip_C8WRzui_Dc0zU8ViOWeT2A3w-24dw95mO5BvHKKEH1-Hd6eGg8wo9xzLALt_0RzBeqMAO_64ldmO2aQlvIQfPL5n0pi3KEQWuc3_QJfBqbhKFICaXpaHogATkTCv4FJ1B7ZEUI3rz8G1_BP0b6ychg2gr9ez3e6RypnulhRJwavGegR4jrIA2I-Ak4CaIFCTo9wVRI_rw",
+      "photoAttribution": "Angad C",
+      "placeId": "ChIJNUKqKvZqKh8Rrxf-BBUz1ok",
+      "phone": "23 325 942",
+      "address": "Avenida Marginal, Beira 2200, Mozambique"
+    },
+    {
+      "name": "Nahyeeni Lodge",
+      "coord": [
+        -26.0077117,
+        32.9143322
+      ],
+      "desc": "Boutique island retreat, secluded bungalows, pristine beaches, marine sanctuary",
+      "longDesc": "A tranquil island escape with charming bungalows nestled among palm trees, perfect for families seeking pristine beaches and snorkeling adventures away from crowds.",
+      "gmapsUrl": "https://maps.google.com/?cid=2759661714498962357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Beach",
+        "Scenic Views",
+        "Hidden Gem"
+      ],
+      "rating": 4.5,
+      "ratingCount": 60,
+      "website": "http://nahyeenilodge.com/",
+      "photoRef": "places/ChIJ0_vXH6QC5B4RtcP0QLVJTCY/photos/AcnlKN2wZj1rqlF6jJEZgHzEJpprKPoxE7DrPwGzasUzda65lZhXBuGWOBt0XvCnS9tK-Ib2L9dDwpLP23szhCyiAcZfDX7bGz0EaJLQXd1NwyTvqu3ElFG257dCamQ17KNaKiQ9pW5A_XMMa9Gr5uwKJSCd37LmYmn7Ry8fqaCVZX0Nk5xt8GBR7MKwYbgTqIKKNpqt5knIwtl68SvXZbjPccvsIhGugjIXJV7dGmTZ8NRdl6qwYVvatHjP3i_DWS-L7ivAJSUIGQ3rlzislYODQRZOOmwtst39L7exYnsoyv4N6A",
+      "photoAttribution": "Nahyeeni Lodge",
+      "placeId": "ChIJ0_vXH6QC5B4RtcP0QLVJTCY",
+      "phone": "84 281 8560",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Inhaca Island Inhaca, Maputo 1119, Mozambique"
+    },
+    {
+      "name": "Mango Beach Resort",
+      "coord": [
+        -23.829092,
+        35.5355758
+      ],
+      "desc": "Budget-friendly beach resort, whale shark diving hub, relaxed atmosphere, family rooms",
+      "longDesc": "Casual beachside accommodation known for whale shark season tourism and diving opportunities. Offers great value with family-friendly amenities and laid-back coastal vibes.",
+      "gmapsUrl": "https://maps.google.com/?cid=13485558672286506488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Adventure & Active",
+        "Beach"
+      ],
+      "rating": 4.6,
+      "ratingCount": 120,
+      "website": "http://www.mangobeachtofo.com/",
+      "photoRef": "places/ChIJ7aZ_TjLdIR8R-F1TsylUJrs/photos/AcnlKN2P5XpvKxse3OTof8JcpRIR_FTq_ROczdpM1rOHcntlD06T8nMjsOuuvoMJLXgIJl3m__OS1qC_m4zwsdWs7Pqw3kh2eISKrDJmAZ3q0sQXtZfo2kk7xnt1FtBa0Uow291-Kuvz0fe_dJF31rX6HQKcHD3NysmrWRWlCqppuvIjL5CphQsmXhXkuIm9lMl66OUjbQ3vMzRj8Co9wFtrog7_go-dza2XTyrdJAN6k3gfEYxdS81fwBT-nJ0N2QtYcostL41lCY8O8nu8MROoKJIICMHNcs7RV8OjuQyd_57xDw",
+      "photoAttribution": "Mango Beach Resort",
+      "placeId": "ChIJ7aZ_TjLdIR8R-F1TsylUJrs",
+      "phone": "084 063 1199",
+      "address": "Beach Road, Praia Tofo, Mozambique"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Laurentina",
+      "coord": [
+        38.737155,
+        -9.151342999999999
+      ],
+      "desc": "Fine dining establishment, Portuguese cuisine, elegant ambiance, ocean views",
+      "longDesc": "Sophisticated dining venue showcasing refined Portuguese and Mediterranean flavors in an elegant setting, perfect for a memorable family dinner with professional service.",
+      "gmapsUrl": "https://maps.google.com/?cid=2271999388002448842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Romantic",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 5423,
+      "website": "http://www.restaurantelaurentina.com",
+      "photoRef": "places/ChIJcdrFCgwzGQ0RynXK42fDhx8/photos/AcnlKN0M9mE2Vjz43A-PeW5KOhXpMoq71M59wWLN9BLFtp7w5sg_aUuRorJHRwbvj4175zeKgLQ0fFvvtlqyj1oiOtnr-WP_LyMgGMcYZ6pPn37adVcFbV-RmeWLocXOVwiZU9stY-kalb9qDsCIwjzf0eTnuQ1umToTbnHKhLNkPzPdlKxeECmbn0RZje0FN0i-YU696wgY4iqJAQe85bFDlRoVde5fOWVRL22Zw7OfOVuQ6_Ef46vsR-FfPPqFWoQRCTLk-tAFKpAsQ1Qh3tYHvoaDM1Z4eIXlMgIKqf3gYpsNcA",
+      "photoAttribution": "Laurentina, O Rei do Bacalhau",
+      "placeId": "ChIJcdrFCgwzGQ0RynXK42fDhx8",
+      "phone": "21 796 0260",
+      "hours": [
+        "Monday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Tuesday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Wednesday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Thursday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Friday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Saturday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Av. Conde de Valbom 71A, 1050-067 Lisboa, Portugal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Peri-Peri Divers | B&B | Morrungulo",
+      "coord": [
+        -23.225298799999997,
+        35.4875842
+      ],
+      "desc": "Casual beachfront eatery, grilled seafood, local Mozambique flavors, family-friendly",
+      "longDesc": "Relaxed seaside restaurant specializing in freshly grilled fish and prawns with authentic local spices, offering casual comfort food that families enjoy after beach adventures.",
+      "gmapsUrl": "https://maps.google.com/?cid=13864315647841884147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Beach"
+      ],
+      "rating": 4.8,
+      "ratingCount": 25,
+      "website": "https://www.peri-peridivers.com/accommodation-morrungulo/",
+      "photoRef": "places/ChIJt6Gkxy0MIR8R81eBG6DxZ8A/photos/AcnlKN3bldf8hjCh2nSDOUXv7MOc1feCMHcuZJIssU8Oc8iWKR1CIkKkZDnBWQSibm-iM3n2qQLxTb9t2hPXk81uU3_LoQDz5OS-jwfUEZp-BJ45kmfg0uXP0mJq6Urw8ceVtJc8c1AhGGqMHkcsrz2bjgy5n5iZtVLvGxS1W7k9LSo8IvS831W20LOjl3hANH6F9lVedY529IEUHChvDzJTwXBB0cua48tOZ2HrJRNEQ85ZL3zIR2Ajs7VvFABWyFuZasQqMGH-MRXdxt1RZH2eQR4l050EA-q4uAJDQ_qRsAu2Pw",
+      "photoAttribution": "Peri-Peri Divers | B&B | Morrungulo",
+      "placeId": "ChIJt6Gkxy0MIR8R81eBG6DxZ8A",
+      "phone": "84 563 6523",
+      "address": "Morrungulo Beach Massinga Inhambane, 1303, Mozambique"
+    },
+    {
+      "name": "Vanilla Gelado Italiano",
+      "coord": [
+        -25.9410982,
+        32.4827826
+      ],
+      "desc": "Historic café, traditional pastries, strong coffee, local gathering spot",
+      "longDesc": "A beloved Maputo institution serving excellent coffee and traditional pastries in a charming vintage setting, ideal for morning breaks and people-watching with the family.",
+      "gmapsUrl": "https://maps.google.com/?cid=2201297848508726653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Budget Friendly",
+        "Sweet Treats",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.6,
+      "ratingCount": 173,
+      "photoRef": "places/ChIJIx9RLZmP5h4Rfb0x8bqUjB4/photos/AcnlKN3uCR9tx_F4SjTJFU3zg9gdrlAjrom5GHdqwHd1A3alUzoYXLT9HCaXcBC5KmkinrCy9wNgYECudM5CSWaU31mVLCsvrzU2B1dy-sd20GwvOt8rfywPFanpqCIltzOnCvqw2vNof2-hOUYjvPb9KrI2DDVv2hmP7HXe2D4JR5D0-QAdxFdqNpd7GH_OB1owGr5cwt8jZ2s4yzeURt2zxCvrMrNQ7hITBrPr1b-XnGECYrGyLDPmKA2f5CLef8CR-v3e0oLObbZwEvIdeOtLVglVVO6KMasU-ZJpuxLYN1prPQ",
+      "photoAttribution": "Vanilla Gelado Italiano",
+      "placeId": "ChIJIx9RLZmP5h4Rfb0x8bqUjB4",
+      "phone": "85 989 8980",
+      "hours": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "address": "Fomento, No. 730, 6 Av. Antonio Champalimauo, Maputo, Mozambique"
+    },
+    {
+      "name": "Zambi",
+      "coord": [
+        -25.980134800000002,
+        32.5794236
+      ],
+      "desc": "Local restaurant, traditional Mozambican dishes, authentic spices, casual atmosphere",
+      "longDesc": "Authentic local eatery serving traditional Mozambican cuisine with bold spices and fresh ingredients, offering families genuine cultural dining experiences at reasonable prices.",
+      "gmapsUrl": "https://maps.google.com/?cid=10332317658649499293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1916,
+      "website": "https://www.zambi.africa/",
+      "photoRef": "places/ChIJIwAeAQub5h4RnZZM5irEY48/photos/AcnlKN01A53_yHKQ7OpQsz2SuhRfPmlc-L85w8cb_6UEyGONholrl8cE0TCFjP4T-QebddG5aylHjNEb6MiWw7IqqbDjLnjYvw1knLg6xewrCCA3k9jFP1n_mQ-8-ACPZWP5qJx8SlPR4kGj3nXd4M3zfPZaIFf55AXXkaI4ND9D4ePDYQWOG0oT6E37ZmaRXO0TJJ2_qjxK9cp8yt17oF4XYCH5bcoUGl70l3tnyNePXauHTTpWKeOxJzlVZGDbN8zvTr0iWS_CB8IxAogYr6Hll2zA8eilK45qf99jam_BtSfqkw",
+      "photoAttribution": "Zambi",
+      "placeId": "ChIJIwAeAQub5h4RnZZM5irEY48",
+      "phone": "84 339 2624",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "address": "8 Av. 10 de Novembro, Maputo, Mozambique",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Mercado de Peixe",
+      "coord": [
+        -25.935205999999997,
+        32.6286217
+      ],
+      "desc": "Bustling fish market with fresh grilled seafood and local atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16966656399845107126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Market / Street Food",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Hidden Gem"
+      ],
+      "rating": 3.9,
+      "ratingCount": 1914,
+      "website": "https://web.facebook.com/MPmaputo/",
+      "photoRef": "places/ChIJnWQHBjKa5h4RtiXgOhqsdes/photos/AcnlKN0Kf1uvtjIKTajhnTub52c7j-xZNlCZJMwuvJYpLOCOimAVV-ZgQDINULA9nIIOQ1XyXnCbCs36Guy_EfMJc-Cufat7CLEJHlCE42rI8MqAGvSOUMYiMEyjYVwe8OAbrs7nRJDgNejSmjL9qAnp7MdIbN2xtWOwJ3OBMZNXci-vwD9LLCf4d-hVniBOTzZGnMAbdjPUobzbswbQpLEIbkA6EYwmV9obxhlAvm_97SjRxp_f4SujCDgvpWf-CvgqKlBaD0q3EYWZk-pBP9xuVkxGzJz-6LMrNjrHuKsYSGsb34DheJ4yUcJ9R_LQhH98qViNLsYKT529qoJcFicbeEGJOL0fqTpMgfHU2NErIr0cIvDVbz0J5JBksw_FMEJ_WnYG4lNAhfA2NYQiNy4UAkeyVPSjMS-xvJULycH6KrSDEQ",
+      "photoAttribution": "rashida frederico",
+      "placeId": "ChIJnWQHBjKa5h4RtiXgOhqsdes",
+      "phone": "84 816 5206",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 8:30 PM"
+      ],
+      "address": "Maputo, Mozambique"
+    },
+    {
+      "name": "andBeyond Benguerra Island",
+      "coord": [
+        -21.86317,
+        35.41823
+      ],
+      "desc": "Private beach dining experience with grilled prawns and local specialties",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2769756484378387316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Splurge",
+        "Local Delicacies"
+      ],
+      "rating": 4.8,
+      "ratingCount": 83,
+      "website": "https://go.andbeyond.com/benguerra-island",
+      "photoRef": "places/ChIJG4DOiTtFJh8RdGO1BdkmcCY/photos/AcnlKN3hn73JxTQCtzDW47XHFlOhRmwwAyF39tu4OBqPCcg8kOKUNEU0d7OeN7Xj3UDAhLsazWdcedJNbhGTwxdwSX8zb3m4JgSpxGIzM0Yw2es8YgrUH1VzC0A7ub-Qf75bmn0sv_vqdRHeUXObRh2YtBeNBA24ePfHSV3qql2uqikt3VAUAa07wGeFmj5PCQCQ0-8r5_2Yf4ymnLypvn9OtZ08qTEZgwW9iOFoVrbIAB6LImPPlIpQl5l9FmWvgaEujk3lF8vAdPENZVjWDeJZfeRTDFc3PEoYhRrE84YYi6mISg",
+      "photoAttribution": "andBeyond Benguerra Island",
+      "placeId": "ChIJG4DOiTtFJh8RdGO1BdkmcCY",
+      "phone": "011 809 4300",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 12:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Benguerra Island, Mozambique"
+    },
+    {
+      "name": "Verdinho Restaurante",
+      "coord": [
+        -19.9551881,
+        -43.9504263
+      ],
+      "desc": "Popular seafood restaurant in Maputo known for prawns and Portuguese-Mozambican cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3455849249337485784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2027,
+      "photoRef": "places/ChIJtyO1cY-XpgAR2KkPGJWk9S8/photos/AcnlKN0iHROYC352DIbY1n6KsWGMzVSCN4N34NwQ90Lq6ztg98fyF6zVlM3pCV7vFeay_WyHIL5dFGx2ibYGMqYRNKCZxIRreU0I1OPtDoQUdqCFP6Cvz5SlENsSpjgv_XRG0lEVrF8uenboh_76r99ygFwC92sZTNB3Ist-4u2Z6azcC2QKfwpZCvpQ3shwXyuZ1mQ1-xkzyX-WO9X1dG1xxxvxNnEVjng48-f9UeOKrZ8W4l1hV96FsHKq_J1aSC-BT45Kb-Nwq0R51bg33u-3Z6kb8mIgxhgLQlUDEvVsFRpCuw",
+      "photoAttribution": "Verdinho Restaurante",
+      "placeId": "ChIJtyO1cY-XpgAR2KkPGJWk9S8",
+      "phone": "(31) 3293-4047",
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:30 PM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:30 PM"
+      ],
+      "address": "Av. Cônsul Antônio Cadar, 122 - São Bento, Belo Horizonte - MG, 30360-000, Brazil",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Mundo's",
+      "coord": [
+        -25.974358799999997,
+        32.5938576
+      ],
+      "desc": "Contemporary Mozambican cuisine in a garden setting with live music",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9221810404768117924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Live Music / Entertainment",
+        "Romantic"
+      ],
+      "rating": 4.1,
+      "ratingCount": 3090,
+      "website": "http://www.mundosmaputo.com/",
+      "photoRef": "places/ChIJUX6Qsryb5h4RpHQ0MrRz-n8/photos/AcnlKN0qZOTiSPJH06r6mCeiQ6nuXU1kj4-31N1hdNHNXJUPe4xOn1JhR1nch8HdsiQJnauNaWV593AePKcaVLSTVJPCQYzHaJk8QayLkhgtuMNb-Kx84iyfDeFguKYbhQlGsv7GJnz_JBTH-CQY-M3zUu00WxyHQF5s6W_FNgHCCZZKR05abtCh5c3FVK2EJkRF5o2SgosbJj8iSx61-KGjjoWE4zNT1xjamX5oQH-IQV5AIL7imiqw_ndNAQ3OPjJBkJjhRdLJlPAa9FZ8of2duEkPzPoSAxQHwz3epN1u1-Q9Y-2sxzLsuAAbdZIyUK4pRDfYiTqG_AU6dddqxe4Wp3LkfZcfaUzBGaUk_b-EkJgtCJ_a05YJ49v56y6nflRKtaCu91OSaXERyKE7TgoUlrY45dQ9Bk0qJkhU5fh7dO1-ug",
+      "photoAttribution": "Albert Hechter",
+      "placeId": "ChIJUX6Qsryb5h4RpHQ0MrRz-n8",
+      "phone": "84 468 6367",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ],
+      "address": "Av. Julius Nyerere, Maputo, Mozambique",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Centro Social & Cultural Do Núcleo De Arte",
+      "coord": [
+        -25.977752600000002,
+        32.5910674
+      ],
+      "desc": "Art gallery café with traditional Mozambican dishes and craft shopping",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5279409584358260398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Art & Design",
+        "Shopping"
+      ],
+      "rating": 4.1,
+      "ratingCount": 371,
+      "website": "http://www.nucleodeartemaputo.wordpress.com/",
+      "photoRef": "places/ChIJ91MRe0qb5h4Rrn53ows7REk/photos/AcnlKN0x91z5btTcjHP-FZQqtzmuzc-jLOqOciHplEeRdSGb62mNAeHjm4B2CC72ihSHjLrHGz7JDmQKkKb8QomI9vl_ufqiS4u_oFyuX9tUavJgFmTGHVkEW1BmTjRVRouGImAu8nNHSzOiZVySrPL6flftCBmpbjMoausl6BNh5CMdqsZ7ocoFKhyUpBUXpmyLrl9rHeaKPbcHP853xg2NRyYav44JzbkFB_HYfbLKHAuwaJ6tfHWJUgA4kcUZPjMxlov0M-ca28pdKqudn8gg0-vP3WD-q0nx7dg48g4R9Hg9kLnvuODY1vRg7uamjWzbTzCYN9eenNE7dD5IR7TgiYB93aK-gvHEdSsOYXBz8MuZ-1VZXw-zRBJ-QOhZGP6DmusfYYa6Xet56kgw14VXQLXlUa1isb5rcyccfMuEovuUUg",
+      "photoAttribution": "Joao Gonçalves",
+      "placeId": "ChIJ91MRe0qb5h4Rrn53ows7REk",
+      "phone": "84 430 2916",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "address": "Núcleo de Arte, 144 R. da Argélia, Maputo, Mozambique"
+    },
+    {
+      "name": "Dhow Restaurant and Art Gallery",
+      "coord": [
+        -25.981845500000002,
+        32.587764
+      ],
+      "desc": "Waterfront restaurant in Maputo serving seafood and Mozambican cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13481006678237637011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1840,
+      "website": "http://www.dhow.co.mz/",
+      "photoRef": "places/ChIJByyJNp-b5h4Rk-kF_yUoFrs/photos/AcnlKN2yqurAZb8LBtBdLsGbjJU1WEWyQGYZfip11w0Z67O91tXvH1ZnzUkO-HxiwcaVVmvZvi1SfsMFDq1f8bpNG2qt0gWS3NIst6syvdUOFEDHiRF_i4PGyIOwtqpJPG6m21onTABseoESN5yq6SNAXHq0uThpm9R0Om-ZOrRZTiJS2S5Dhkk0eyeCoMry5ChQ0umcWYzIdPbZBoiRTfBYcoS3xm9XleQHBvOvpSgq4mzSKly_QlRE30SozOI1OX9SF7UKlXuOJDOoZZE-lQ_JU6oqXrRJVYDuEUC3yPEzqH7ztUvkmm6u0IzhHj0hbhd6HdABGMufh9Y9XQolfmg5-I0_QjY8o6TkFoQpz7YnAeKwED8LVslDunroqf-0875DRI97NXvSn489I5DzG_kb3dhPOBwaHfxPUU7kbwGm5yeNyNrGAmrzCgFVRP_4GyFx",
+      "photoAttribution": "Romilly K Swan",
+      "placeId": "ChIJByyJNp-b5h4Rk-kF_yUoFrs",
+      "phone": "84 322 2333",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ],
+      "address": "4 Rua da Marracuene, Maputo, Mozambique",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Casa Elefante",
+      "coord": [
+        -25.971403700000003,
+        32.5684018
+      ],
+      "desc": "Contemporary Mozambican cuisine in a restored colonial mansion",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8275638496616351356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Romantic",
+        "Splurge"
+      ],
+      "rating": 3.8,
+      "ratingCount": 94,
+      "website": "http://casaelefantemaputo.wixsite.com/elefante",
+      "photoRef": "places/ChIJa9E6qBub5h4RfIZd0F352HI/photos/AcnlKN1BvAd7I72vc4W8ofs4ezGLGqirf62Om-uExlDgpYsdxH-U7f5Ya6mmny3FAAyO0NMzs1G5A7dYBFWA0RxRq7Zz1GIpOk0VGwEUuW7Y96ifjo71HmbCda3AjAmtX0J5Js4XjnDQv6_udCg3_w5NwaTEtYo0mYTm8Fm9_OiY7Bi-qaNnqGLiEkIocxfXOEAftDgYg51-5AEaajurImOauB2bPZsqdcUQxcLG4N-UaI8ZlqWz9SQCP0Nr7pCw_DR6U0lUKcf0OqOgNHHUlLpIX_4Gf5IFq8e59HYeiZn-IM8uCONbKGkgw5EW6tZ5XiPDTd9oxNSYUSxAMxVCehbroSdj0mfN9pMx5NDicbQRMH46UF0eeP5W7AI2t0P6Snpd5lIshbBytQ5Wv65-3k0YVjUyiimDAQ0olcvsvGkg93xJbSB3",
+      "photoAttribution": "Gerald _D",
+      "placeId": "ChIJa9E6qBub5h4RfIZd0F352HI",
+      "phone": "21 324 538",
+      "hours": [
+        "Monday: 9:00 AM – 1:00 PM, 2:00 – 5:30 PM",
+        "Tuesday: 9:00 AM – 1:00 PM, 2:00 – 5:30 PM",
+        "Wednesday: 9:00 AM – 1:00 PM, 2:00 – 5:30 PM",
+        "Thursday: 9:00 AM – 1:00 PM, 2:00 – 5:30 PM",
+        "Friday: 9:00 AM – 1:00 PM, 2:00 – 5:30 PM",
+        "Saturday: 9:00 AM – 1:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "1845 Av. 25 de Setembro, Maputo, Mozambique"
+    },
+    {
+      "name": "RESTAURANTE KARIBU FILICHA",
+      "coord": [
+        -25.9566929,
+        32.5675319
+      ],
+      "desc": "Popular restaurant in Maputo serving Mozambican and international cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7613431599032921805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Budget Friendly"
+      ],
+      "rating": 3,
+      "ratingCount": 2,
+      "photoRef": "places/ChIJJbl-lPOR5h4RzW4XnrNXqGk/photos/AcnlKN2A23Qg_B1TpKuFozrUfml_cYrFOHxDM_haE5CcxT_zVOq4MX_cie5B8-MSmeUd3qE3kna6TO2tfZ1gAEmuDnJiIkqtQXfM-buzZuElb1Qu6p2QLhWNmRLIdzYHRdk98OE5hOh7wfYGqKSv2OProkjDuFuoK-eUNQbymQT_yry8cC6QGEXiLH6aLXc4XhRxguTsV0BzMC1P1-seSdKRTyfK0XCLneS54I3crtV7H2L_yt30MW3r5MZijstH9HlB3AsXk4NvgBIC4Bxe0sYqI4RABSXevcs3K6Nwbu2gaaNuPQ",
+      "photoAttribution": "RESTAURANTE KARIBU FILICHA",
+      "placeId": "ChIJJbl-lPOR5h4RzW4XnrNXqGk",
+      "phone": "84 126 3242",
+      "hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Avenida Lucas Luali, Maputo, Mozambique"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Museu Nacional de Arte",
+      "coord": [
+        -25.966771299999998,
+        32.5717845
+      ],
+      "desc": "Contemporary art museum, local artists, architectural exhibitions, cultural space",
+      "longDesc": "Modern museum showcasing Mozambican contemporary art, design, and architecture. Interactive galleries and changing exhibitions engage families in discovering local creative talent.",
+      "gmapsUrl": "https://maps.google.com/?cid=16412343821321637059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Art & Design",
+        "Cultural & Historical",
+        "Rainy Day"
+      ],
+      "rating": 4,
+      "ratingCount": 539,
+      "photoRef": "places/ChIJCZZHMAOb5h4Rwwx0yb9bxOM/photos/AcnlKN1gdgpnhAxr-noB1BL0xV1lvKJdVFFzc6FxrrY1STBHHEjgSUL1LZifayXtjqw3Ghzc27pAerFnfT325L0aGNjgKYs0LoBfm2DsL5QXWUElpVNbSmxLE-fnqYxE6h5NPZj4fYEgOewNT1BLo-mBR_v6Qrpha7XkIohCZAwot26qdIZCEuGOhqGp4VfRYloBayDH95tqEMzHDvFDZP3ZryY0D_TGxabsAu8Zvs413QhQLgLnpUy30N6Iif_VoJ_Vc1MKMwmcPo_rHkVn8W8b28MxPhDcsvF4nEtnoU46SxdxarBq8m59sedZI_MqmUkCNQ1Fw1Tots7IfdnBouKWFRNZwruGRvnF1ER8Yu2ntXNNkmpkNsaaCOqw_uEOCAOuyRsr8I1KF0vYR_A9qh1w1SG2e6N0NqDf4JcmwBvUGtCP5PiCANUucs3IYYCd5LxN",
+      "photoAttribution": "Miniyo",
+      "placeId": "ChIJCZZHMAOb5h4Rwwx0yb9bxOM",
+      "phone": "84 629 4862",
+      "hours": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "2HMC+7PV, Av. Ho Chi Min, Maputo, Mozambique"
+    },
+    {
+      "name": "Saint Sebastian Fort",
+      "coord": [
+        -15.0288462,
+        40.743575199999995
+      ],
+      "desc": "UNESCO World Heritage fortress, 16th century architecture, historical significance, museum",
+      "longDesc": "An impressive 16th-century Portuguese fortress on historic Mozambique Island, featuring museums and panoramic views. Families explore layers of maritime history and colonial architecture.",
+      "gmapsUrl": "https://maps.google.com/?cid=11929228216533630552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.3,
+      "ratingCount": 337,
+      "photoRef": "places/ChIJLXVOHfHWuRgRWL4N89shjaU/photos/AcnlKN0dvq0qUFbshSdcY1tQUVUzw0T_k4U1XrE4N4c46-0rzAqtlzJtpnUHdP2WLbsFQFIp1_lU_s5pT8mVKvZUsDBF3vqDIA7AGbl3GhIORMkizAM9MSjLeLkVghl5fyV3VqfaCDdGE92hnDdD-cEvU9xclQBMPHKN1C9MnIlKIyagjngCWk-mcswq7DO80mgJOKcTzAl_RG5J605-oggLHmslBeUWQW4GfcCH7Squ8p04ijqZnIC4qIcpsDCAsMjEuoNK26XJ_c1ElYpic74Meay6kYJvSV4GAm3xAky-1WNATPqr_YP7smhyQAAeumZbef1aj4J3YGpDmfi148ybWEaJ0aV1B9kjJmce35nfmCQoeajfIivtItdB_dg3Qwdb6iAKKZo2TAUEd0OoL_PVLKYHyNqZXWKleNVkMiCrXj_Wxx16",
+      "photoAttribution": "Daniel Costa",
+      "placeId": "ChIJLXVOHfHWuRgRWL4N89shjaU",
+      "phone": "061 139 3473",
+      "hours": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: 7:00 AM – 5:00 PM"
+      ],
+      "address": "XPCV+FC8, Mozambique"
+    },
+    {
+      "name": "Bazaruto Archipelago National Park",
+      "coord": [
+        -21.999622499999997,
+        35.318691799999996
+      ],
+      "desc": "Marine protected area, whale sharks, pristine islands, snorkeling and diving paradise",
+      "longDesc": "A spectacular protected archipelago offering world-class snorkeling, diving, and whale shark encounters. Families experience incredible marine biodiversity and untouched island landscapes.",
+      "gmapsUrl": "https://maps.google.com/?cid=15074623590395653240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Full-Day Activity"
+      ],
+      "rating": 5,
+      "ratingCount": 2,
+      "website": "https://www.africanparks.org/",
+      "photoRef": "places/ChIJgT6LZi9XJh8ReKxBZEnSM9E/photos/AcnlKN3r_5xH-Uc9PM1LRjgPYXJRNK5fYWvKb5WrKHy-mm6Lm4ZtJ_4ftk3sePPlONaBE5DEgD72P5D37p-hF23hdbF1pRLtYA9fPJ0hwHjXouBQdQYItIbBtvzSgZzrlt9hX9acLcKKzf66oapjZPHmVn3Lg-jYss1dsWTHqsLojOQSaO_WwCoHsMjroglkUH_pqRwJ3UrvtlMrDXP0B2nYwdaDKSDzHuA6RgEoVVEMYYy783IpsATbtwLi4V9Rn345zlh9r1uUEKDCjNwYnlQon2lo5YNFVgr_cXedVPbCC9yipO8kflYnV-bqOrbQHYI5sThDsp_BTrlGg_Fmdp7oOt23uTSdSmqAsBt99VCjhIq8Q7XVMCvK3CHiTXdRd4r9iOR2n9ABydkB8JsLzhjMMpqHXS-JptxVZgkio9JYVaFJPlY8zvAsH2DScQ4YZI8U",
+      "photoAttribution": "Jorge Thawe (Mlambe Adventure Safaris)",
+      "placeId": "ChIJgT6LZi9XJh8ReKxBZEnSM9E",
+      "phone": "85 076 5512",
+      "hours": [
+        "Monday: 7:30 AM – 3:30 AM",
+        "Tuesday: 7:30 AM – 3:30 AM",
+        "Wednesday: 7:30 AM – 3:30 AM",
+        "Thursday: 7:30 AM – 3:30 AM",
+        "Friday: 7:30 AM – 3:30 AM",
+        "Saturday: 8:30 AM – 3:30 AM",
+        "Sunday: 8:00 AM – 1:00 AM"
+      ],
+      "address": "Vilankulos, Mozambique"
+    },
+    {
+      "name": "Gorongosa National Park",
+      "coord": [
+        -18.8162955,
+        34.4959012
+      ],
+      "desc": "Wildlife reserve, safari experiences, African fauna, scenic landscapes, guided tours",
+      "longDesc": "Mozambique's premier wildlife destination featuring guided safaris through savanna landscapes. Families encounter elephants, lions, and zebras in their natural habitat on thrilling adventures.",
+      "gmapsUrl": "https://maps.google.com/?cid=12492304431751933646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Full-Day Activity",
+        "Good for Groups"
+      ],
+      "rating": 4.5,
+      "ratingCount": 565,
+      "website": "http://www.gorongosa.org/",
+      "photoRef": "places/ChIJN5nESbKpKhkRzq6ckLGUXa0/photos/AcnlKN3Nk5SZYIbqqSr37oOoV4OMY8IQ0_47Ec1VYRERN6NeFB7kz8I2Ifmc_1OC1uxnBIb-144tc1hLkleicWeTDLcByfc63q1CpKz0IXBGjzp_UYFDIUhjbCJ9C7uHxGYCniGw873vsHZxxDJ7en3mAZEHzr6-l8gyZ2xKohOLtirMFyZXC74jwSHRxWCgHtgyAYQN6meaMo7UKzSRHGrDB6LlODXqkHeIdniEqBvxcTsy35lxYR27ND0TZ15s3eh0HDcLRHiuAlabotzA4TWbM6Y7RWREM8MzgXBZ3D9TGDki7YFxLqx9av_zSDGya8tc4AMbCYdFX981YPB9zz-B1wSz5UoRFZ45LluA12eb7O3PQyBei2HD09p_8et5Sa9O02A-qLH4UDgPyWjYPVgWseLjjm_55z4tkPeRP_yptnA",
+      "photoAttribution": "Sicusane Aleixo Henriques Lidimo Lidimo",
+      "placeId": "ChIJN5nESbKpKhkRzq6ckLGUXa0",
+      "phone": "82 308 2252",
+      "hours": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ],
+      "address": "5FMW+F9J, Goinha, Mozambique"
+    },
+    {
+      "name": "Azura Benguerra Island",
+      "coord": [
+        -21.8553164,
+        35.4300007
+      ],
+      "desc": "Private beach picnic arranged by the resort with fresh seafood and tropical fruits",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=615714679630568772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Beach",
+        "Family Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 124,
+      "website": "http://www.azura-retreats.com/",
+      "photoRef": "places/ChIJPTp3XRhFJh8RRJ1fKj11iwg/photos/AcnlKN1yffPVMAtFhSbkoZnNT141JqiqrFeuNQYSiCMfg_UYuX-zQDcwr6iVzfU2J_nm2pj9KKq_j75Nw4uHNE8xFn5FhfC9_o3IyggjyN3mGTXPz9bP0nRGABgJHA9jP5qSmt2-HwNR3dvCZxkWOZdGWVfWc1pbqodZ3Si9i8M7kRqCW2EKswx3fAk4hWkYrLu7ikQDKARca7BI4oPkGFzmyosBb0Iz8GKiI3zjAr6aa5ZiQ8f2pnGv1p5xNhVNmbP0SgkmO1P_b-oJrKJiWdJ9VDbx3Cs1QSIG7-T26dUuJLHjJA",
+      "photoAttribution": "Azura Benguerra Island",
+      "placeId": "ChIJPTp3XRhFJh8RRJ1fKj11iwg",
+      "phone": "076 705 0599",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Benguerra Island, Mozambique"
+    },
+    {
+      "name": "Sunset Dhow Safari",
+      "coord": [
+        -22.0087089,
+        35.320246499999996
+      ],
+      "desc": "Gentle sail on traditional dhow boat suitable for young children",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15748094767272126029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 70,
+      "website": "http://www.sunsetdhowsafari.com/",
+      "photoRef": "places/ChIJp2svFJRWJh8RTWZx_MB4jNo/photos/AcnlKN09xacZJa9BkGzOo-_ZIiB7Lo2iTHKl0OpGTeyOav5BPzzCu26DOIIq8BOvrxwkPrl5hQp0g5pV4eDQBoGnz0aW_bWas6LMP1E6g5UmqcfZiGm1zCY4i4AfzRkqvE3RP0SsuAKA2XiV9WAG1Q64GIR-iYBBlKdFcGzOT_jhKWraedHg52yRewkzeH-dpBw8HXIUiIROFPEnBPNY0nJ3JuUV48jvqbF_z4dESDhxiW1QSPU1n_UHwaQeCXnZXukZL_qTNFFqX2M6PLuSoGTwiuoLMOnUXmh6F8wxbunz4Fy2n8GgzA3_-NRdyteU0CXt_BKD0nAFR6Ut7HyrjLCj4Fu_h1iaU6qVhK_2DD6BVcIMi6qI9I3I4_k7U2QlAQJmqNQlJ0zbnUUOwC9JSxmzpxGJb5EvNLSdup7Dl5M973f6-DUv_Cx1A2kwZ0rorQ",
+      "photoAttribution": "Jyanah ALEXIS",
+      "placeId": "ChIJp2svFJRWJh8RTWZx_MB4jNo",
+      "phone": "84 720 6223",
+      "hours": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 7:00 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 7:00 AM – 7:00 PM",
+        "Sunday: 7:00 AM – 7:00 PM"
+      ],
+      "address": "X8RC+G39, Vilankulos, Mozambique"
+    },
+    {
+      "name": "Two Mile Reef",
+      "coord": [
+        -41.04003,
+        146.8208737
+      ],
+      "desc": "Famous coral reef and beach area off Benguerra Island, popular for snorkeling and beach activities",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9814058024743397740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "placeId": "ChIJnwPaHkmPeaoRbOnmwcaJMog",
+      "address": "Two Mile Reef, Australia"
+    },
+    {
+      "name": "Costa do Sol",
+      "coord": [
+        -25.9161111,
+        32.646944399999995
+      ],
+      "desc": "Popular beachfront area in Maputo with restaurants and ocean views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13828972897152553872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Beach",
+        "Good for Lunch",
+        "Family Friendly"
+      ],
+      "rating": 4.2,
+      "ratingCount": 130,
+      "photoRef": "places/ChIJl3EQBemZ5h4RkFNIt5Rh6r8/photos/AcnlKN30KkDxJlvsoDLdtMk7no1GkYmfsavkDQKHlsi9fG3PC65k8Z_HeOvZr7gNUbLYFSdr8GkbLyWX7nLStoz0fw77_c-MS6Ya2jBGI1ov0AVUS3BtBSzxvxPUyHWwUvvkwsqTUhVxWp7TwtHqOhXHlSf4DlM-QkZ2pdvR7jz1kVI0DpFHEVP2BAACeUlL2NxZjk2xKAokASgE1Nne6xTCu1PH7WK1zDU9E4k1HFfa9f1Qeja6iBNTIkD0OgTQMPbDft_RSoEeYIBrz_xfxeFPbiOhrMwMBXuSwHhATWQApGVnA5dvfABzCxg2fBJmutEfnxyA5ypFAvNjRyIPytruYIecqfcpUPRwBwg7KuXy1K99Y-Y72L0BDzkly8gDBB6dW9bPb0TFq6gQr6qFbFWFjmjTfsFXrZABVllxojjFFGoB1Q",
+      "photoAttribution": "Ofelio celestino Rafael ojacunliba",
+      "placeId": "ChIJl3EQBemZ5h4RkFNIt5Rh6r8",
+      "address": "Costa do Sol, Maputo, Mozambique"
+    },
+    {
+      "name": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+      "coord": [
+        -25.968849100000003,
+        32.5936994
+      ],
+      "desc": "Craft market in Maputo with local artisan goods and souvenirs",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9003052288072201773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Hidden Gem",
+        "Budget Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1332,
+      "photoRef": "places/ChIJvaTiUqWb5h4RLbbPFFtE8Xw/photos/AcnlKN2jfw0uwjwMKPf8AaGvaFnsVy6wp2vHnPkP8sdYJEHCDazWDUsNB1_MyhvOKEjfzBF61fCG4aVrPh5rEzqHhuHiAvvqA55uudFMgiVdt47f13Hi9bPhgJT7j9x8RSXbxmKfBE_59aW3VZAmp1yzLDzTxUb_yR_97ip6qWLulOVVpTPrDWDtMgRo0kSsZtGzuSlS_D_bNi54epSdlp0EKBJIEgZRSQm0tPWTwelVaYzVEEPwZm7pNgFrz-CEjjPEVlNmsq83hqszywIwZt0x9GOSf6ZJfCyo13UkYx-vyDiojQ",
+      "photoAttribution": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+      "placeId": "ChIJvaTiUqWb5h4RLbbPFFtE8Xw",
+      "phone": "84 243 9046",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 6:00 PM",
+        "Sunday: 7:30 AM – 5:30 PM"
+      ],
+      "address": "Av. dos Mártires da Machava, Maputo, Mozambique"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Reef Resort Xai-Xai",
+      "coord": [
+        -25.1121169,
+        33.7505914
+      ],
+      "desc": "Beautiful sandy beach, shallow lagoon, calm waters, family beach activities",
+      "longDesc": "Pristine beach with calm lagoon waters perfect for young swimmers, sunbathing, and beach games. Family-friendly atmosphere with safe shallow areas and stunning sunset views.",
+      "gmapsUrl": "https://maps.google.com/?cid=14508407664517989391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy",
+        "Beach"
+      ],
+      "rating": 4.4,
+      "ratingCount": 440,
+      "website": "http://www.reefresort.co.za/",
+      "photoRef": "places/ChIJ621N3Cz-4B4RD0Qm7OY3WMk/photos/AcnlKN2bFKNt61HSEYS8yjhBohS3MRtXG5rdFWavyV4T75OE904zgMJ9XnND_u6oVl1hKXaBs3XvTkMUPkE9CXP0PXFcQM_lw8S5AV5eH5KoGWUBXpw1FN18R54KsK1YnlUcTt4tOslW1pqJHIn-e8r5fv4-7otf2aftSkYwSnOjY0DC95Q5kIX6cy5H_QBbSsKtGNrrTp7pD1pbnP_sdYkz6SHX3r_cTsM3zj1EdlHU8_fWx0odM1zePJsJDN2nyXyp6WGnM7Aj4I01gdXbaT90XEpRIQzHtMoObSc87Yd0MnuY8A",
+      "photoAttribution": "Reef Resort Xai-Xai",
+      "placeId": "ChIJ621N3Cz-4B4RD0Qm7OY3WMk",
+      "phone": "84 972 9867",
+      "hours": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 7:00 AM – 8:00 PM"
+      ],
+      "address": "253, Mozambique"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Central Market",
+      "coord": [
+        -25.9709738,
+        32.5687645
+      ],
+      "desc": "Central market, fresh produce, local crafts, vibrant atmosphere, authentic experience",
+      "longDesc": "Maputo's bustling central market buzzing with energy and color, offering fresh tropical fruits, vegetables, local handicrafts, and authentic Mozambican cultural immersion for families.",
+      "gmapsUrl": "https://maps.google.com/?cid=18020500687829059444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4,
+      "ratingCount": 2681,
+      "photoRef": "places/ChIJjT3GCBub5h4RdMe7HOatFfo/photos/AcnlKN1pAWEPgCbkiN3yzAz1x2tP2TEkbO4-56zrcTX3srDTs-i2lSfz4i7YjIZGIH5pOitCUHyhaM7IAS76_jiuS619ujRaUpl26ETloStmVo3wr1SqR9GGV3CsoZ5-n1OyB4YlcxQ0FehIyZ6uBFfvFlqRfxgknx7AyhR1xbAO8Q3t4XykE4sU60N1Y65rjkzC6y1EJytdzcSp1uE2MAMqMgpPXZGR0-gbcggfxPE2b3gO5wb45da2apaCsBC_XebqmqP6XGRhAKKv8ioxY7lKGzqA4hjQbnRkNQEzn40pi898oFIQAt3KcPsJiBpBypyhq3C1PubfOBJIc_ojhVhY766BMOba8xxiWoKsy1LdAxOZmz-eLNd3nu7RGnL6ArXOqYerM_woPd-0KMoKVbxWpq8NS5ESfQVunpn3CsYHW1QauQ",
+      "photoAttribution": "KEITA SHIMAOKA",
+      "placeId": "ChIJjT3GCBub5h4RdMe7HOatFfo",
+      "phone": "84 481 3706",
+      "hours": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: 7:00 AM – 12:30 PM"
+      ],
+      "address": "Av. 25 de Setembro, Maputo, Mozambique"
+    }
+  ],
   "cityCenters": {
     "Benguerra Island": [
       -21.909,
@@ -46,5 +888,378 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Mozambique Island Paradise (8 Days)",
+      "description": "Pristine beaches, gentle whale shark encounters, and barefoot luxury designed for families who want African adventure without the safari schedule.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Maputo",
+        "Benguerra Island"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Maputo",
+          "dayType": "urban",
+          "base": "Maputo",
+          "items": [
+            {
+              "name": "Polana Serena Hotel",
+              "type": "hotel",
+              "coord": [
+                -25.969047999999997,
+                32.597245
+              ]
+            },
+            {
+              "name": "Restaurante Karibu",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular restaurant in Maputo serving Mozambican and international cuisine",
+              "suggestedCity": "Maputo"
+            },
+            {
+              "name": "Hotel check-in and pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Zambi",
+              "type": "dinner",
+              "coord": [
+                -25.980134800000002,
+                32.5794236
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Discovering Maputo",
+          "dayType": "urban",
+          "base": "Maputo",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Vanilla Gelado Italiano",
+              "type": "coffee",
+              "coord": [
+                -25.9410982,
+                32.4827826
+              ]
+            },
+            {
+              "name": "Museu Nacional de Arte",
+              "type": "sightseeing",
+              "coord": [
+                -25.966771299999998,
+                32.5717845
+              ]
+            },
+            {
+              "name": "Central Market",
+              "type": "shopping",
+              "coord": [
+                -25.9709738,
+                32.5687645
+              ]
+            },
+            {
+              "name": "Costa do Sol",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Legendary beachfront seafood restaurant with oceanfront tables and prawns",
+              "suggestedCity": "Maputo"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Restaurante Verdinho",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular seafood restaurant in Maputo known for prawns and Portuguese-Mozambican cuisine",
+              "suggestedCity": "Maputo"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Beach Day at Xai-Xai",
+          "dayType": "suburban",
+          "base": "Maputo",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Travel north to Xai-Xai (2 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Reef Resort Xai-Xai",
+              "type": "beach",
+              "coord": [
+                -25.1121169,
+                33.7505914
+              ]
+            },
+            {
+              "name": "Praia do Xai-Xai",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual beachfront restaurant with fresh grilled fish and lagoon views",
+              "suggestedCity": "Xai-Xai"
+            },
+            {
+              "name": "More beach time and tidal pools",
+              "type": "freeTime"
+            },
+            {
+              "name": "Return to Maputo",
+              "type": "info"
+            },
+            {
+              "name": "Mundos",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary Mozambican cuisine in a garden setting with live music",
+              "suggestedCity": "Maputo"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Journey to Benguerra Island",
+          "dayType": "rural",
+          "base": "Benguerra Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Flight to Vilankulo then boat transfer to Benguerra Island (3-4 hours total)",
+              "type": "info"
+            },
+            {
+              "name": "Kisawa",
+              "type": "hotel",
+              "coord": [
+                -21.9089541,
+                35.4459805
+              ]
+            },
+            {
+              "name": "Arrival lunch at resort",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Kisawa's beachfront restaurant featuring locally sourced seafood and Mozambican flavors",
+              "suggestedCity": "Benguerra Island"
+            },
+            {
+              "name": "Beach exploration and resort orientation",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sunset on the beach",
+              "type": "optional"
+            },
+            {
+              "name": "Dinner at resort",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Kisawa's main dining pavilion with ocean views and grilled seafood",
+              "suggestedCity": "Benguerra Island"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Bazaruto Archipelago Adventure",
+          "dayType": "rural",
+          "base": "Benguerra Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Bazaruto Archipelago National Park",
+              "type": "sightseeing",
+              "coord": [
+                -21.999622499999997,
+                35.318691799999996
+              ]
+            },
+            {
+              "name": "Snorkeling with gentle marine life",
+              "type": "optional"
+            },
+            {
+              "name": "Beach picnic lunch",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Resort-prepared picnic on a secluded Bazaruto sandbank",
+              "suggestedCity": "Benguerra Island"
+            },
+            {
+              "name": "Sandbank exploration and shell collecting",
+              "type": "freeTime"
+            },
+            {
+              "name": "Return to resort for rest",
+              "type": "nap"
+            },
+            {
+              "name": "Beachside dinner at resort",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Private beach dining experience under the stars at Kisawa",
+              "suggestedCity": "Benguerra Island"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Island Leisure",
+          "dayType": "rural",
+          "base": "Benguerra Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at the resort pool and beach",
+              "type": "freeTime"
+            },
+            {
+              "name": "Dhow sailing trip (gentle and toddler-safe)",
+              "type": "optional"
+            },
+            {
+              "name": "Lunch at resort terrace",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Kisawa's poolside restaurant with light Mediterranean and Mozambican plates",
+              "suggestedCity": "Benguerra Island"
+            },
+            {
+              "name": "Afternoon rest and kids' nap time",
+              "type": "nap"
+            },
+            {
+              "name": "Beach walk and sunset",
+              "type": "freeTime"
+            },
+            {
+              "name": "Final island dinner",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Farewell dinner at Kisawa's signature restaurant with local music",
+              "suggestedCity": "Benguerra Island"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Return to Maputo",
+          "dayType": "urban",
+          "base": "Maputo",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Boat transfer and flight back to Maputo (3-4 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Polana Serena Hotel",
+              "type": "hotel",
+              "coord": [
+                -25.969047999999997,
+                32.597245
+              ]
+            },
+            {
+              "name": "Núcleo de Arte",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Art gallery café with traditional Mozambican dishes and craft shopping",
+              "suggestedCity": "Maputo"
+            },
+            {
+              "name": "Feima - Feira de Artesanato, Flores e Gastronomica",
+              "type": "shopping",
+              "suggested": true,
+              "suggestedCategory": "shopping",
+              "suggestedDesc": "Craft market in Maputo with local artisan goods and souvenirs",
+              "suggestedCity": "Maputo"
+            },
+            {
+              "name": "Pool time at hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Peri-Peri Divers | B&B | Morrungulo",
+              "type": "dinner",
+              "coord": [
+                -23.225298799999997,
+                35.4875842
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Maputo",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at leisure or final beach walk",
+              "type": "freeTime"
+            },
+            {
+              "name": "Café Continental",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic downtown café with Portuguese pastries and light meals near airport route",
+              "suggestedCity": "Maputo"
+            },
+            {
+              "name": "Transfer to Maputo International Airport",
+              "type": "info"
+            },
+            {
+              "name": "Dhow Café",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront restaurant in Maputo serving seafood and Mozambican cuisine",
+              "suggestedCity": "Maputo"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

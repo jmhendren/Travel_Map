@@ -8,7 +8,133 @@
     24.1305
   ],
   "defaultZoom": 10,
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Neiburgs Hotel & Restaurant",
+      "coord": [
+        56.948319,
+        24.105454
+      ],
+      "desc": "Art Nouveau palace hotel, elegant suites, prime Old Town location, fine dining",
+      "longDesc": "A beautifully restored Art Nouveau masterpiece in Riga's historic Old Town, offering families luxurious accommodations with modern amenities and easy access to cultural attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=10651427949441348791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 910,
+      "website": "http://www.neiburgs.com/",
+      "photoRef": "places/ChIJS47CFtfP7kYRt3QeTUl50ZM/photos/AcnlKN0KxgJK6wbJq-JndPLLE4nF0e3wG8XdZvUBfXgiOxvZvmdFuP4dNcqyOIlVAgFOX30XO33rO2pDQw-Pvf44wbgglLFM3kZe0yi1bPCxS6mu_t3iGoM0AM5B_Hsiu2yvSX3e4WIp6VFgrFVLwMqTOASKctrAP2m2J6wJ-jqJeQ8UU-f160RwqJvjNmJ3mu54jKSWwMSMnzupDDofebzKQppoqfVD83JHKo5ZDF-1C35VPBEj42fdHGzM1r8rVmCINMqXtYPmaQMrVYWg2PJPGTNS51630Gd7d5PmCGalNkGn9g",
+      "photoAttribution": "Neiburgs Hotel & Restaurant",
+      "placeId": "ChIJS47CFtfP7kYRt3QeTUl50ZM",
+      "phone": "20 235 504",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Jauniela 25/27, Centra rajons, Rīga, LV-1050, Latvia"
+    },
+    {
+      "name": "LIDO",
+      "coord": [
+        56.926888,
+        24.1596533
+      ],
+      "desc": "Family-friendly resort hotel, spa facilities, indoor pool, modern comfort",
+      "longDesc": "Perfect for families seeking relaxation and recreation with spacious rooms, wellness center, and activities suitable for children of all ages in a convenient Riga location.",
+      "gmapsUrl": "https://maps.google.com/?cid=12340167276402158939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Wellness & Spa"
+      ],
+      "rating": 4.5,
+      "ratingCount": 28344,
+      "website": "https://www.lido.lv/lv/kontakti/lido-atputas-centrs",
+      "photoRef": "places/ChIJTXGmf-PR7kYRW63ZwsEUQas/photos/AcnlKN0EQAFMOWTXcRMSL5B5qocCDT7mvUZzXQ0uxejBkkSMeBrLJmcC1NrrbEGsbeBn4Tz5raPhBwHLqYHSNdtoC60izu3cxVv80tQUDpAAG37EaybDWh14vnf7qKYlIiu1zf6EN17p4V_ISix4IEYJrmXvwtgTkxk3bsit-tA3mav7oWX-R0uxx7kHMq74EuRWm8Sn5DHUrt9Zk-H5xdravCEbEOg6ej1HBhspkbclTJa5pHtDmjbekucZNl7-nJpV7w6PRjGKOQx46oWeCAT8cNxIDAMbqlww5oiMZ0j20MQynhgNAI5Ct-x7naxYKetYnnj_LAs5kVbPXS546xa0S1EhoXT_Bu7C6ovcpbhS_4ZW18omjBHfaK0UxKv80oCUjyOmNL6GWU7vABDh1_9PQqP1gdelrYPXrtWW-eK4scnfog",
+      "photoAttribution": "Gromova64 Gromova64",
+      "placeId": "ChIJTXGmf-PR7kYRW63ZwsEUQas",
+      "phone": "67 700 000",
+      "hours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "address": "Krasta iela 76, Latgales priekšpilsēta, Rīga, LV-1019, Latvia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Hotel Justus",
+      "coord": [
+        56.948354599999995,
+        24.1051622
+      ],
+      "desc": "Boutique castle-inspired hotel, romantic setting, countryside views, cozy rooms",
+      "longDesc": "A charming boutique hotel nestled in scenic Sigulda valley, offering families an enchanting stay near medieval castles and outdoor adventures with personalized service.",
+      "gmapsUrl": "https://maps.google.com/?cid=3640936567270044937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 612,
+      "website": "http://www.hoteljustus.lv/",
+      "photoRef": "places/ChIJy16YFtfP7kYRCXXcdYQ0hzI/photos/AcnlKN37qsksCVts-TArW-gtvFgyws_hR-CAM1VuL2awmuIpB9hj9NYzojcmf82xWSRM5nu6aRIRTlB2etJjrZTtSI88ZW6QvC4cXfVgGthPkI4ChTE9M8tyb2JmqZTyhXCRAbI17X3_N5NfgQPAr1UKCkYc3dy6NWbUnu9MQzJtHcanYJ_-c7JfZLjaQHjQ6iVP2sfQ1en1GbrME40hPpUI6IpFa9GSBj51GQqFyF5yWDeYVQopLus5PLZDPnMnZLhTKnCK2v3WFSSv7u05GV__YdJLfi_kmcPI0KdIAAdhF2Xa7A",
+      "photoAttribution": "Hotel Justus",
+      "placeId": "ChIJy16YFtfP7kYRCXXcdYQ0hzI",
+      "phone": "67 212 404",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Jauniela 24, Centra rajons, Rīga, LV-1050, Latvia"
+    },
+    {
+      "name": "Radisson Blu Latvija Conference & Spa Hotel, Riga",
+      "coord": [
+        56.9550704,
+        24.1178146
+      ],
+      "desc": "High-rise luxury hotel, panoramic city views, modern amenities, excellent service",
+      "longDesc": "A prestigious hotel offering families stunning panoramic views of Riga from its upper floors, combined with world-class dining, spa services, and convenient access to attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=13221298838471774664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 7378,
+      "website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-conference-riga-latvija-spa?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:nob+h:LVRIXCSP",
+      "photoRef": "places/ChIJ16tBDc7P7kYRyBFlgD59e7c/photos/AcnlKN0_lzwSA0sLrx_c6mQenJJ3VGfueDdoUh-JYZnBRxKKnWn1N93Kxo3LtdxizbGhBGLludj6JxbfEewldUeXch-BZVFeK5xAR-fzp5EfiPLDB8JCO2DuaHlsNHIL1k37cJpnUFLLWiy6ynXT2Fl-M4yQUCaRYnc3RPSGgPit_10POyAKXnuWnXokUHiAgA5uTh3pS4mdHVWRKu2HST_f9Yd0ASEhSWuDieonTh4qpJseP9DSLjXsy8e19lHbbg-gXFwEsilfqq8_mtLEBSuWruXgVa7LxWxvdBQBbNdC2T6AWg",
+      "photoAttribution": "Radisson Blu Latvija Conference & Spa Hotel, Riga",
+      "placeId": "ChIJ16tBDc7P7kYRyBFlgD59e7c",
+      "phone": "67 772 222",
+      "address": "Elizabetes iela 55, Centra rajons, Rīga, LV-1010, Latvia"
+    }
+  ],
   "restaurants": [
     {
       "name": "Kalve Coffee Shops",
@@ -29,7 +155,9 @@
       "tags": [
         "Coffee",
         "Art & Design",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Off-Hours Eats",
+        "Breakfast Spot"
       ],
       "hours": [
         "Monday: 8:00 AM – 6:00 PM",
@@ -42,11 +170,320 @@
       ],
       "priceLevel": "PRICE_LEVEL_MODERATE",
       "phone": "25 755 575"
+    },
+    {
+      "name": "3 pavāru restorāns \"Tam labam būs augt\"",
+      "coord": [
+        56.951541999999996,
+        24.1078801
+      ],
+      "desc": "Fine dining Latvian cuisine, creative plating, award-winning chefs, elegant atmosphere",
+      "longDesc": "This acclaimed fine dining restaurant showcases modern Latvian gastronomy with seasonal ingredients and inventive presentations, perfect for a special family celebration dinner.",
+      "gmapsUrl": "https://maps.google.com/?cid=12504193790719819674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Local Delicacies",
+        "Reservations Recommended",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1314,
+      "website": "http://www.3pavari.lv/",
+      "photoRef": "places/ChIJKWec69DP7kYRmv9_qgDSh60/photos/AcnlKN3LO0imxqisjUkcGjVfHEEpDWEXUlUt8yWetRpd1Eg92GLRdufKHRerrV8lqf50kMv6Mv4bELeEPIHCDMIGK2wN3hIaat1kp_69Z9f2TV3DV0tkl7JdxJ4ylOeUWlfyP2C3ip3WH5-ZcdVFAs9PUBy3SiiuMo1QWUrbdtqa85l-so-M3Ahli8IlsLQG91esInKL8quaFpeJzDIazcTbv0vvZQRFx_6WYTlruu1yb-R8YrDdRrC8_u3oYq2zOLdMYvy_V2zfMDjeoZ5odzQtmdWJYxNDHea2vPrfBUKrzXDV1Q",
+      "photoAttribution": "3 pavāru restorāns \"Tam labam būs augt\"",
+      "placeId": "ChIJKWec69DP7kYRmv9_qgDSh60",
+      "phone": "20 370 537",
+      "hours": [
+        "Monday: 5:00 – 11:00 PM",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 – 11:00 PM",
+        "Friday: 5:00 – 11:00 PM",
+        "Saturday: 5:00 – 11:00 PM",
+        "Sunday: 5:00 – 11:00 PM"
+      ],
+      "address": "Jēkaba kazarmas, Torņa iela 4, Centra rajons, Rīga, LV-1050, Latvia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Ala Pagrabs",
+      "coord": [
+        56.94608170000001,
+        24.107812
+      ],
+      "desc": "Traditional Latvian tavern, folk music, hearty local food, rustic wood interior",
+      "longDesc": "Experience authentic Latvian culture with traditional dishes, live folk performances, and a cozy medieval-style tavern atmosphere that delights families seeking genuine local flavor.",
+      "gmapsUrl": "https://maps.google.com/?cid=16565250456946623977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.6,
+      "ratingCount": 8895,
+      "website": "http://www.folkklubs.lv/",
+      "photoRef": "places/ChIJ41S6Z9bP7kYR6UWuLYaX4-U/photos/AcnlKN3tCPB4g0NU_XROQKkua8-eOnIitNHrpp0sZEQOetUcTmlI0Dfk9Z_JEcVoxgbyVV_5bSW_lVzgo5ujygHs4Pfr8PbuH2v4tFLdZSSeQV1ya5YYOpT4BmIsCAIQdZ0zXzAJHj_PuzMIYX-1uvjLhBUeOCb3UJMA7-AaKp_9RhlGus6GX6VNp85qDEhNOVK1dOXNlVhiHHsWrRTsuNnLUdE2ktYT_W8yXwxIX6nXCaoMC9RM7V5IRoHLZ5LEAptH2HoOthxGxquzcmsJ3ZELL0pv0WijiwrgfsDRxt0IkwCQJWtljo4_GWKgIDX0AaREvGYfPyBJdz6EqCdgv3kPAwXX-4UV8uqdxT_29akAT-wDJMJKdNCY-cWxooGtF39YU84xXBGLPI8ulh5bHFAmL3X3zPx7vI1dilX77eHZH6L0qCp41wNJYPsmrY05ZCkW",
+      "photoAttribution": "Alberto Costa",
+      "placeId": "ChIJ41S6Z9bP7kYR6UWuLYaX4-U",
+      "phone": "27 796 914",
+      "hours": [
+        "Monday: 4:00 PM – 1:00 AM",
+        "Tuesday: 4:00 PM – 1:00 AM",
+        "Wednesday: 4:00 PM – 1:00 AM",
+        "Thursday: 4:00 PM – 3:00 AM",
+        "Friday: 4:00 PM – 5:00 AM",
+        "Saturday: 2:00 PM – 5:00 AM",
+        "Sunday: 2:00 PM – 1:00 AM"
+      ],
+      "address": "Peldu iela 19, Centra rajons, Rīga, LV-1050, Latvia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Gourmet Studio - Lienes 9",
+      "coord": [
+        56.9539895,
+        24.146824199999998
+      ],
+      "desc": "Contemporary fusion cuisine, intimate setting, locally-sourced ingredients, creative menu",
+      "longDesc": "A sophisticated yet welcoming restaurant blending international and Latvian flavors with artisanal ingredients, offering families a memorable culinary experience in an elegant environment.",
+      "gmapsUrl": "https://maps.google.com/?cid=13883577842012841193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 150,
+      "website": "http://www.gourmet-studio.lv/",
+      "photoRef": "places/ChIJQT0q6NLP7kYR6eSoLH1grMA/photos/AcnlKN0YndyOEmu-8JAYoeltHLJZAWp1_5fp7SfZVK8C6dStarOikTJxTURvvHYjdZuYYGjvjViyx4gvTC87ztDVqmcP4ibO1PEO90PTrJcuLpwWjKVd4vOKSweB2DJ1oIZ7bVsFFJSD8OLL7-_c1fHAhZuj9s5IUWykH4j-TBb8QzRoBBq4uIX9lV1BXu7R9Uqpq6V1SJRXgCQhlOCHfI5kMGcnsnbyViAiYm9EzvHSsng7AyH-8ar4HJrMVxq13MPWWkIOmqRZvsbiEK1m62uckoLIV0cIE9RcSqVUz2WIEL_IwY_xRHfFb_7h3rwzV3Jy-eqsu04qnCar4gaaggtkgT0M1jFnLrUbnK4eEb3fadkWEyRpgm8dpNMQfVzJNF_hS5JfYPSLg2--xw_s0qycSgFsNoeSct3RzbeAk4HjxuidjA",
+      "photoAttribution": "Vitalijs Ulakovs",
+      "placeId": "ChIJQT0q6NLP7kYR6eSoLH1grMA",
+      "phone": "67 553 877",
+      "hours": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Lienes iela 9, Latgales priekšpilsēta, Rīga, LV-1009, Latvia"
     }
   ],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "experiences": [
+    {
+      "name": "Latvian National Museum of Art",
+      "coord": [
+        56.955828999999994,
+        24.1130754
+      ],
+      "desc": "Comprehensive history museum, interactive exhibits, Latvian artifacts, educational displays",
+      "longDesc": "An excellent museum for families to discover Latvia's rich cultural heritage through centuries of history, from ancient settlements to modern times with engaging exhibits and artifacts.",
+      "gmapsUrl": "https://maps.google.com/?cid=14143486318533893223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Rainy Day",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 5588,
+      "website": "https://lnmm.gov.lv/",
+      "photoRef": "places/ChIJ8z27yM_P7kYRZ1zPDd_BR8Q/photos/AcnlKN1gmLwXlti1u_Paxy5FfcMcfhh5F41GJafxTXvJDUR9DTiWj35cvlHXWIUJJBtyCIO7eqJuxsg4a2DkEvFHg-dMPtuM3RKWI8nEib3-sOTNNOOArnv--po4yvJywOZqe9LxIUykY0uFt2W6Gn7YaAJDqIL7D-CbRBY9MULVIJwkpxuwrFMgPmWM3y2ZLkPh9jclmcG1C4ad_c4o6b1hEMFuRionxOgmOcqqRf6adW_dfZp6IiM4_yCh9MutZshj2JGWi5zkIW9gvQnTFpH4FEiYVkRLhjC_NRIJXMqjNmd5ZQ",
+      "photoAttribution": "Latvijas Nacionālais mākslas muzejs",
+      "placeId": "ChIJ8z27yM_P7kYRZ1zPDd_BR8Q",
+      "phone": "67 324 461",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Jaņa Rozentāla laukums 1, Centra rajons, Rīga, LV-1010, Latvia"
+    },
+    {
+      "name": "Sigulda New Castle",
+      "coord": [
+        57.165426599999996,
+        24.849885
+      ],
+      "desc": "Medieval ruins on hilltop, panoramic valley views, historic fortress, photography paradise",
+      "longDesc": "Perched dramatically above the Gauja Valley, these picturesque medieval castle ruins offer families stunning landscapes, rich history, and adventure exploring ancient stone structures and scenic trails.",
+      "gmapsUrl": "https://maps.google.com/?cid=8761962465166470080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 420,
+      "website": "https://tourism.sigulda.lv/lv/objects/redzet/vesture/siguldas-jauna-pils-un-pils-kvartals/",
+      "photoRef": "places/ChIJg9E7jLhP6UYRwKuNb3C-mHk/photos/AcnlKN0UuZBjMMY3VCzayVSRBoEmNrJa5tAwmKWrfcsyM75gDRrxdNsDmiNIOzByC0dw7j49mj7OoNhXlO08_gPD5Fwbn_8dmin8C0WytR0eV1Ar1PLPtMIqwqN5_6hTHKeZXlghU-7vxWMOLGghiuWvvPOahFXmclgoLngYXGMUbJqw_Apb8FO6d94O6VKlys7ohRqWap_KC26yhZn1eryrGxdEjEqycZtSDFDJubuFHqgy8Eltbv7EdwyWvSHxqf-nOVdvBW2NnN_bC_4kTt3DGSmzsHc_6B1xO4mii_19FaEAMw",
+      "photoAttribution": "Sigulda New Castle",
+      "placeId": "ChIJg9E7jLhP6UYRwKuNb3C-mHk",
+      "phone": "67 970 862",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "Pils iela 16, Sigulda, Siguldas pilsēta, Siguldas novads, LV-2150, Latvia"
+    },
+    {
+      "name": "Turaida Museum Reserve",
+      "coord": [
+        57.186761,
+        24.8477151
+      ],
+      "desc": "Restored castle, museum exhibits, traditional village, cultural demonstrations, scenic grounds",
+      "longDesc": "A beautifully maintained castle complex with engaging museums, traditional Latvian village buildings, and cultural programs offering families immersive historical experiences and outdoor exploration.",
+      "gmapsUrl": "https://maps.google.com/?cid=12097392138832940686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Scenic Views",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 3796,
+      "website": "https://www.turaida-muzejs.lv/",
+      "photoRef": "places/ChIJ9cSM_NBR6UYRjo69Nw6S4qc/photos/AcnlKN2ukTbWeLsC3K8eKAFSk6uwdc49wYW2yxiUYMvZkESY5qqApVlhhAiwhMU4MvStk67pCb_3ao_m_OYuvWYI0bEt-4qyNIz1AfjoNxJxVQLAMuwvaT_fSq5wsGd4VhxbQkC3alJV5PadJ7YpK3_CtMOMNSd5SdKoRvtBmpLCDFzR8fo5NDyKqKJ_AX31SbbQIaPIK3IVqG_fyctHd0HUEqvmMyMCEQSiQ-vAqd7Ycyf-6QwxUSfitTAl5iInnqmHnm6mf79yw7yTMQW3Tfu0s6PWSvlibAsSEyDgQKQtP1xdMA",
+      "photoAttribution": "Turaidas muzejrezervāts",
+      "placeId": "ChIJ9cSM_NBR6UYRjo69Nw6S4qc",
+      "phone": "29 384 512",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Turaidas iela 10, Turaida, Krimuldas pagasts, Siguldas novads, LV-2150, Latvia"
+    },
+    {
+      "name": "Gauja National Park",
+      "coord": [
+        57.332055399999994,
+        25.2123009
+      ],
+      "desc": "Scenic river valley, hiking trails, canoeing, nature reserves, red sandstone cliffs",
+      "longDesc": "Latvia's most beautiful national park features stunning landscapes, adventure activities, and peaceful nature perfect for families seeking outdoor recreation and scenic beauty exploration.",
+      "gmapsUrl": "https://maps.google.com/?cid=11275667735094816729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Full-Day Activity"
+      ],
+      "rating": 4.7,
+      "ratingCount": 11247,
+      "website": "http://entergauja.com/",
+      "photoRef": "places/ChIJjdWcvJVX6UYR2e-oYxA4e5w/photos/AcnlKN3fzuwV5AeUpxV9Y-6Ut5gJoV3YJbkZTSDj822hRNkuTIiykd0lQdJo5e1il2Ga0FKQ_fmwPbJg2ij1jjYE5Ws8qqi-SfePj9n3hZinfNibKJlusrj3a4OjClHW2Mpm7YEcGyIskoHF6E4HnK2yA8MDiObQCsrfXoRKZoPnDcQtx8QJyHkGv7Utd6S19MiEFiCVzqaWtfgWx-LHyP2dXHDbw1x9yq4xhgwOmWmXfCAPgyAreqSmyh7UgbBN4sBSq9vJFNbHMlyTXP1KzoBMHkzoPlJCKYWYs-unb18UtJTuUA",
+      "photoAttribution": "Gauja National Park (Enter Gauja)",
+      "placeId": "ChIJjdWcvJVX6UYR2e-oYxA4e5w",
+      "phone": "28 658 900",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Lielā iela 30, Ieriķi, LV-4139, Latvia"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Riga National Zoological Garden",
+      "coord": [
+        57.0062017,
+        24.157535799999998
+      ],
+      "desc": "Zoo with diverse animals, interactive exhibits, family attractions, scenic park setting",
+      "longDesc": "A well-maintained zoo featuring animals from around the world with fun interactive areas, beautiful parkland, and family-friendly amenities perfect for children of all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=17770382790185360269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.5,
+      "ratingCount": 20380,
+      "website": "http://www.rigazoo.lv/",
+      "photoRef": "places/ChIJrfvaSD3P7kYRjZu2A_8UnfY/photos/AcnlKN0DPAfoYpUPlkCMmOyalgF7u3EellFzZ7hHtyl4U9MAVfnrLH02wziK-fwFqYOajGta8eVV09bH0vNtcWHKBM2puGTPeoYM2Iv_Ljwr0g24D2Ig1jHGDCDXmujiWHbU50MwUBtMxwdCAYGYEayWVG6-SAl5HMZPqdcD0MT0mqWdFs6AQiSQ9g_O5dPDUwCxpn8I9fnbnE2xEWY1wewMNewjAkIb9zo2aC9oXsHBWsbzkYNqG4n56fJI6WxmYuxA-8AYJAUmFZ2k4CbN_g8FCOj1ctF-zJVQEuOCfr7_1LN77w",
+      "photoAttribution": "Rīgas Nacionālais zooloģiskais dārzs",
+      "placeId": "ChIJrfvaSD3P7kYRjZu2A_8UnfY",
+      "phone": "28 001 109",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Meža prospekts 1, Ziemeļu rajons, Rīga, LV-1014, Latvia"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Riga Central Market",
+      "coord": [
+        56.9438573,
+        24.1149982
+      ],
+      "desc": "Historic food market, fresh produce, local delicacies, bustling atmosphere, UNESCO site",
+      "longDesc": "One of Europe's largest markets offering vibrant local culture, seasonal produce, traditional Latvian foods, and artisan goods in a UNESCO-listed architectural complex perfect for family exploration.",
+      "gmapsUrl": "https://maps.google.com/?cid=4095858352018820052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Family Friendly",
+        "Photography Worthy",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 53660,
+      "website": "https://www.centraltirgus.lv/",
+      "photoRef": "places/ChIJ4zbC0dTP7kYR1Atmanhp1zg/photos/AcnlKN0_Jw8YAJPX3f7_QZEicNKmCOKAQDcUsHxWKh14FZZ2iYINSWziPFItGjEs180iZQScASLjAaoDStex7wZGtM4ABg-sf7ivr5wYrNG-VkWAwdDyO464631PO3d7EOv8ZqIZuzeCWV7IfMxF_jqWgQwJi5lbocyfPS-7-KtEvvFbpPO4Di5E8wcqym930l8srZh7X4E7Tv5KHLkmMjJa3ZEpOZDrMd4RCzRvYQ7LFi9SQmVTjz7N_Zb5vs_lSKUBGSRc6j5Qv3CWDP_5WcHwpeeOmexhPWakc3WZZqCWtc5SZW-rk1ZM1jaxlgtlTlTYAHHZoPudbbWYglSLxmuj4Di7klA9oD7wIq5QJ5G1Ig3HJPECaiNZqhHond_-Z1kThNA_Yqo6kfUsgw_I8SWD2g--pKs0dCdrgtuAaKY",
+      "photoAttribution": "almudena martin",
+      "placeId": "ChIJ4zbC0dTP7kYR1Atmanhp1zg",
+      "phone": "67 229 985",
+      "hours": [
+        "Monday: 7:30 AM – 6:00 PM",
+        "Tuesday: 7:30 AM – 6:00 PM",
+        "Wednesday: 7:30 AM – 6:00 PM",
+        "Thursday: 7:30 AM – 6:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 7:30 AM – 6:00 PM",
+        "Sunday: 7:30 AM – 5:00 PM"
+      ],
+      "address": "Nēģu iela 7, Latgales priekšpilsēta, Rīga, LV-1050, Latvia"
+    }
+  ],
   "cityCenters": {
     "Riga": [
       56.9552,

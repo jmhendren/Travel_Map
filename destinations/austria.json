@@ -25,7 +25,9 @@
         "Cultural & Historical",
         "Fine Dining",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views",
+        "Iconic / Must-See"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=4682295930659706654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -46,7 +48,8 @@
         "Photography Worthy",
         "Outdoor & Nature",
         "Romantic",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Scenic Views"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=5276074687208735528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -83,7 +86,8 @@
       "tags": [
         "Family Friendly",
         "Toddler Friendly",
-        "Splurge"
+        "Splurge",
+        "Playgrounds"
       ],
       "phone": "0472 413533"
     },
@@ -107,7 +111,8 @@
         "Splurge",
         "Romantic",
         "Outdoor & Nature",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -119,6 +124,54 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "06583 8561"
+    },
+    {
+      "name": "Familienresort Moargut",
+      "desc": "Family resort with 6m indoor trampoline hall, multiple jump fields, window jump, airbag, action-packed",
+      "longDesc": "A family-focused alpine resort featuring a 6-meter high indoor trampoline hall with varied jump fields, window-jump feature, and 1.5-meter airbag drops—perfect for teens seeking adventure during a mountain vacation.",
+      "coord": [
+        47.213435999999994,
+        13.193906
+      ],
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Toddler Friendly",
+        "Playgrounds"
+      ],
+      "rating": 4.7,
+      "ratingCount": 412,
+      "website": "https://www.moargut.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+      "photoRef": "places/ChIJV2PfURkvd0cRt2vw3YRZ4Wk/photos/AcnlKN3IvXsyWEl7W2q2LBoogff26kbQFQqc8TMkZaJhrA6GebDStfc0nvRz-hUW7AJeO1r7JltPKrmTjnAs1R_bkYjLLBmlWF-NydsAI76aEgfayqjwfYzU3AQK1uzCaNSZ5zk8U0dkFY3JBVm7599uM8YGRtoJrbwWBmxijvoABOFJDaePR_08mL7Y44zykIdoufIPTwF3BuGxZLW7pl1wJEUZRUe2phpz-XYrZAuY8TuML5O8KBul7rwNMyYKUbFfVrqgP9X3g8yZmMpYi48CkaYpX6XpYoWb5-PLja0ERj81dw",
+      "photoAttribution": "Familien Natur Resort Moar Gut",
+      "gmapsUrl": "https://maps.google.com/?cid=7629477670936406967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJV2PfURkvd0cRt2vw3YRZ4Wk",
+      "address": "Moargasse 22, 5611 Großarl, Austria"
+    },
+    {
+      "name": "Hotel Goldener Hirsch, a Luxury Collection Hotel, Salzburg",
+      "coord": [
+        47.7998886,
+        13.0409664
+      ],
+      "desc": "Luxury five-star hotel, historic elegance, perfect for family celebrations",
+      "longDesc": "A legendary luxury hotel in Salzburg's old town, offering timeless elegance and world-class service. Perfect for families seeking sophisticated comfort with proximity to Mozart's birthplace and charming cobblestone streets.",
+      "gmapsUrl": "https://maps.google.com/?cid=14766911700898028255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 559,
+      "website": "https://www.marriott.com/en-us/hotels/szglc-hotel-goldener-hirsch-a-luxury-collection-hotel-salzburg/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJy9OEoGaQdkcR3xqWGfSb7sw/photos/AcnlKN2241V0AJyrtsA-ooVu3ri5x7FsJVWHBmgsJYOkuzcD2eRNU0-AQJ3xsVP7A7FybNIdnMcBBydKiV5GbloFCCWnDKpgM0zaS3TyhFQV7g2QOUItSrUrS0Z_GseWIcl_1I8ojYqaOhHrTrlHeaaPeluXf3AredSY15pjBsyQvijt_8VU1v7dUi9gohR8HfTp9Rfxb030sZGRQKTT-ZujQtggv0KHgvKyO8vspN6ZL0uYF4JN1d9SSDz2K1b1QcWV5tEIi93drEb8Xd3qrNZEtYPZILra7rhdlrZtxnXeFX8HgQ",
+      "photoAttribution": "Hotel Goldener Hirsch, a Luxury Collection Hotel, Salzburg",
+      "placeId": "ChIJy9OEoGaQdkcR3xqWGfSb7sw",
+      "phone": "0662 80840",
+      "address": "Getreidegasse 37, 5020 Salzburg, Austria"
     }
   ],
   "restaurants": [
@@ -138,7 +191,10 @@
         "Cocktails & Bars",
         "Romantic",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Off-Hours Eats",
+        "Afternoon Wine",
+        "Scenic Views"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=4682295930659706654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -159,7 +215,10 @@
         "Splurge",
         "Fine Dining",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views",
+        "Reservations Recommended",
+        "Iconic / Must-See"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=4682295930659706654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -167,6 +226,488 @@
       "website": "https://www.rosewoodhotels.com/en/schloss-fuschl-salzburg",
       "photoRef": "places/ChIJYxvrdmujdkcRHpc6UFfb-kA/photos/AcnlKN1d0diNcMdPatW1wX9YG-Lt-E2V5stErDPRaKDHmv8tcPaKzOkV5L2hiR2mY7fm17aKkLTMPK7eQUAiBdI4HFdlUXeIaWSYUJ30oiQVorgqMZGcDSOLi5t9haMlHcTGh_sosR2DAe80U2vRWWNZByU3oRjP7O311CEG2t1xgXLUSndEQzoCDpbi-G-jFoRquZ-Mtxc5JJLuyETKR8AGTdvwHk-M2BgOfPRTfOAD0ulZiuPtqmK5BxolsoSBvTC6RTZ1DtsO6Cnq1aIxkM2YT9ROH6nNphjzMup-MBkiVME4UA",
       "photoAttribution": "Rosewood Schloss Fuschl"
+    },
+    {
+      "name": "NATUR BRAUEREI ALMTAL GmbH",
+      "coord": [
+        47.897511099999996,
+        13.9493142
+      ],
+      "desc": "Traditional brewery restaurant, hearty Austrian cuisine, family-friendly atmosphere",
+      "longDesc": "A charming countryside brewery restaurant serving authentic Austrian specialties and fresh-brewed beer. Families love the relaxed Alpine setting, generous portions, and beautiful outdoor garden perfect for children.",
+      "gmapsUrl": "https://maps.google.com/?cid=2923376926544979110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Off-Hours Eats"
+      ],
+      "rating": 5,
+      "ratingCount": 4,
+      "website": "http://www.naturbrauerei-almtal.at/",
+      "photoRef": "places/ChIJPy6LUE_jc0cRpmRJc9PrkSg/photos/AcnlKN3mUGI6VeF3Wgvzf9NwnZga77Y2M7H7whoEwYai05K9c00qFNIlu68J9gdmH7llUx7sasvdb54BgSahLb2NPomzsR3O1HGRpcAs2sR59uxxwdob1fxnn5bcithxCaqpkRrtmA6pkvbd5P5wvfv2Zv3N6e1lZvatARKIlQmS2cMCuui46zpHYNCQE25UygiYLVmwN8rPK6lVp89non2Gqy4V8yFcHLCXN2mIl2S5b3CYck4CuMDh0BUa6hf0NrMtH5Q-GlTTpRs9WLUsS5linNvXcYCk8RrWYRWRJdfIMupxPw",
+      "photoAttribution": "NATUR BRAUEREI ALMTAL GmbH",
+      "placeId": "ChIJPy6LUE_jc0cRpmRJc9PrkSg",
+      "phone": "0664 1314538",
+      "address": "4644 Scharnstein, Austria"
+    },
+    {
+      "name": "Café Sperl",
+      "coord": [
+        48.1998326,
+        16.3611306
+      ],
+      "desc": "Historic Viennese coffeehouse, traditional Sachertorte, cozy intimate ambiance",
+      "longDesc": "A beloved Viennese institution since 1880, serving exceptional coffee and Austria's most famous chocolate cake. The elegant yet welcoming atmosphere makes it ideal for families wanting authentic Viennese café culture.",
+      "gmapsUrl": "https://maps.google.com/?cid=2263644902848451996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Iconic / Must-See",
+        "Hidden Gem"
+      ],
+      "rating": 4,
+      "ratingCount": 5409,
+      "website": "https://www.cafesperl.at/",
+      "photoRef": "places/ChIJ2XE5E4UHbUcRnNXnuwsVah8/photos/AcnlKN3jYHrxQJB9k3-SDaqDwsueN192lZbVYrxoUZlXmG8eWjaft_cWf-zWtcf1Ng1mX3_-_LDb2AWYsEY6pAU2z6B1UkwaFtwKK_gMfMJz690mRbae8izAb0ErtOFn5bhdnDvpFhgDvp-Ho6YQaKTrLJInGz22s4tODQaEt9rgJ-PlxJyok_LjPDjo7Ay4tnI7qt6GjMZmWzA7nG4Z0Y4O9GUKEXVT_hYc05yGDfdhlpTvdp8jpPJ5PMfp3AdJChCetnSC6avTC6ywgQ0-QRzZA6E98LexvmRiVilEc9FreNRapA",
+      "photoAttribution": "Cafe Sperl",
+      "placeId": "ChIJ2XE5E4UHbUcRnNXnuwsVah8",
+      "phone": "01 5864158",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "address": "Gumpendorfer Str. 11, 1060 Wien, Austria",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Seehotel Grüner Baum",
+      "coord": [
+        47.5624666,
+        13.6496423
+      ],
+      "desc": "Lakeside café with Austrian classics and stunning views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2786197690687380003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Scenic Views",
+        "Good for Lunch"
+      ],
+      "rating": 4,
+      "ratingCount": 1837,
+      "website": "http://www.gruenerbaum.cc/",
+      "photoRef": "places/ChIJi0MDS202cUcRI1pvqwmQqiY/photos/AcnlKN1Vu9qHGK_TlFzANZwbgfPlOiTmuoeZV9RIQzUP7WYNeV0qFF-1f_OYEnCE8Ndf5LEXuBjpp9PgArgO02uBtuI3B39hm1zVKM8ctKVy9DB0gB5cpnYLA6fQvv5WiOqsiu167BlNgma0PJbaDNmWtar1OMo57GASq4skxv3Oo28-41XhTG-kAQ-kRLg1SjJBohNFJoDunwlaQIfwU1-Us5Msicc_NuYxAoRopGWyd8mPNTwL84BIhGMYsxlnMAJQWR_k1N6naJCZP8qjWJAUzg5P2qQ1-8EOdRBz2TvNJU8GrXvHgyoKFsKPoSIG2nmyQd8ObqEKFuU-6CO_P0mULT2PglMZlqobrGk_oXHXb9fl7v5sNbnq1Bet_smotfNUsVHVRmrswtlwJrXCdWOPGEI_Ivlj_NuB5Fxaz-M_cgE",
+      "photoAttribution": "Hans Richter",
+      "placeId": "ChIJi0MDS202cUcRI1pvqwmQqiY",
+      "phone": "06134 82630",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Marktpl. 104, 4830 Hallstatt, Austria"
+    },
+    {
+      "name": "St. Peter Stiftskulinarium",
+      "coord": [
+        47.7970354,
+        13.0442094
+      ],
+      "desc": "Europe's oldest restaurant in atmospheric cellar, traditional Austrian cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7777852519687820216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.3,
+      "ratingCount": 3390,
+      "website": "https://www.stpeter.at/",
+      "photoRef": "places/ChIJDRMIAWGQdkcRuJNeZ6h78Gs/photos/AcnlKN0klhGIVXuFVI7CYHzK7R_WwnkpxJptNhUNf45qjvOqBom1jUJelOIVJT-9JgP06D5oYMEJvcK7ok0wZbVvG7TZupLF4NOS2FobTx-87Vd6taQwlJ9Ln7fJL7UpNmKyTA5Tc4N5ZTYAcrbK74cduT9WYEywRgiRIN47YWaMQgidHCkepUh-J-vzvFld-d6w_maX46jwX1b70lpIvqVsAKGvMOk2IPMcxVIOcYUJDIu5e_XbXH6ctytLgbgvtLgn2stJn9e8ok5lgLQwERDlVtgYqvQRk8ZjGQ_BUPVHzueYCw",
+      "photoAttribution": "St. Peter Stiftskulinarium „Peter“ – Österreichisch-mediterrane Küche",
+      "placeId": "ChIJDRMIAWGQdkcRuJNeZ6h78Gs",
+      "phone": "0662 8412680",
+      "hours": [
+        "Monday: 12:30 PM – 12:00 AM",
+        "Tuesday: 12:30 PM – 12:00 AM",
+        "Wednesday: 12:30 PM – 12:00 AM",
+        "Thursday: 12:30 PM – 12:00 AM",
+        "Friday: 12:30 PM – 12:00 AM",
+        "Saturday: 12:30 PM – 12:00 AM",
+        "Sunday: 12:30 PM – 12:00 AM"
+      ],
+      "address": "Sankt-Peter-Bezirk 1/4, 5020 Salzburg, Austria",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Café Tomaselli",
+      "coord": [
+        47.7992345,
+        13.0448653
+      ],
+      "desc": "Historic coffeehouse established 1705, Mozart's favorite spot",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8855756662188176818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Breakfast Spot"
+      ],
+      "rating": 3.8,
+      "ratingCount": 4625,
+      "website": "http://www.tomaselli.at/",
+      "photoRef": "places/ChIJcxjHfWGQdkcRsnUGs8P35Xo/photos/AcnlKN1w3onR_LHpxiW1BCwFXwbV0MSm4t7IzJvCpr92S-jONkDJUy4ts2V2XZ7vhk6bAGeuXuCCsSVaPQb04CyX-M2aMTs2LaNKXPelPil7Dr6llHk9ee32ru9BKvasOAjSQYYQ5QETmgzt5BaMBPKCekCwXkHw16eX1eLN2aVxVrB1cYGXu2WufclPy4-fbMBepLjzu2XPA1j_W6CTyWjPQvS1x1TgBJOKQ3HskMbFx34ikJi_TEDwQway5GpyPgGocyJkGcKjstA1aZmeHZK7BclMbxnA9p0n6ZuU7_FVyWNtkQ",
+      "photoAttribution": "Café Tomaselli",
+      "placeId": "ChIJcxjHfWGQdkcRsnUGs8P35Xo",
+      "phone": "0662 8444880",
+      "hours": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 7:00 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 7:00 AM – 7:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ],
+      "address": "Alter Markt 9, 5020 Salzburg, Austria",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Bärenwirt",
+      "coord": [
+        47.805949,
+        13.035836999999999
+      ],
+      "desc": "Cozy traditional Gasthof with schnitzel and kid-friendly atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14164369126052084986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 6081,
+      "website": "http://www.baerenwirt-salzburg.at/",
+      "photoRef": "places/ChIJfdzqL3CQdkcR-jzYkazykcQ/photos/AcnlKN3eNrNiOZbdDRGM1PjTVXMqF9D4oqONy4T55v34jcQVAiPr7fOCxQYEBrUSv-XDcv5jAmegtRPq418tnIFPSealaPMaM8IhXHyLKP2EqeWR6jJQFzMpv8pQ9Y-zn4AXtH3aItQBzQLaAu7BJEcRHXPtHxY5LZW1-OhWMtAhruUJKm42QLjWY-twYWpbBROWWnmebBHbZk4O1p7os5sCtubZIbadI62rNkhvgFJVjCz-GDIszslwUYS8XQvtMrpHZLgFmmVMeZ6EV3A1Y2Sn9j0P5tfJ562TBlWdHYyZX2Cy5CXG22X8EGwURbEAKwRHDuvPIu6zEP7SxpSwGC_munpm_JuzdTqvwfjcH8K8bRg9Dp0z-aDV2_l8kNUUhjZcdVSIAyyR5TyQrtMWQOmFWUcNDzrdnz-thSO8m1hxHMizog",
+      "photoAttribution": "chi po Tsang",
+      "placeId": "ChIJfdzqL3CQdkcR-jzYkazykcQ",
+      "phone": "0662 422404",
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "address": "Müllner Hauptstraße 8, 5020 Salzburg, Austria",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Café Sacher Salzburg",
+      "coord": [
+        47.8020693,
+        13.0436057
+      ],
+      "desc": "Iconic café famous for original Sachertorte",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6626837642140942582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Sweet Treats",
+        "Iconic / Must-See",
+        "Coffee",
+        "Family Friendly"
+      ],
+      "rating": 4.1,
+      "ratingCount": 1796,
+      "website": "https://www.sacher.com/en/restaurants/cafe-sacher-salzburg/?utm_source=google&utm_medium=organic&utm_campaign=google_local_cafe_sacher_salzburg",
+      "photoRef": "places/ChIJA7VdMGWQdkcR9oD_m7lB91s/photos/AcnlKN1YVdD_EqzsjpTyFJl2d0HVmHopueX2ZTP-l_e0omUavzKdNBZ1hYgw7nZHd1eHFDVp_mMe8dnpQdP3JRCmE74a3FGB2Mt79jERnldnh-eK_DVBYDcgUw3iI5YLpqjZdFzmNuJ_G1aL_YwCaQcCNNlgbHaPp3CZEOtrRpFr0F49VIQkEE3HefYelk9z2elbNYG8df5vqUzXbYO_TAG3y2-TxpRZPyrZ_JK0jnxy6yFyGY3eA9wmfRPVELPCY21Pj77djI-WoVlAFW3dHCsTe47xDjErwspautqPvb-Vcqt9Gg",
+      "photoAttribution": "Café Sacher Salzburg",
+      "placeId": "ChIJA7VdMGWQdkcR9oD_m7lB91s",
+      "phone": "0662 889772666",
+      "hours": [
+        "Monday: 8:30 AM – 10:00 PM",
+        "Tuesday: 8:30 AM – 10:00 PM",
+        "Wednesday: 8:30 AM – 10:00 PM",
+        "Thursday: 8:30 AM – 10:00 PM",
+        "Friday: 8:30 AM – 10:00 PM",
+        "Saturday: 8:30 AM – 10:00 PM",
+        "Sunday: 8:30 AM – 10:00 PM"
+      ],
+      "address": "Schwarzstraße 5, 5020 Salzburg, Austria",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Sternbräu",
+      "coord": [
+        47.8006515,
+        13.041272099999999
+      ],
+      "desc": "Traditional brewery restaurant in Old Town, family portions",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8362766108725326030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 11939,
+      "website": "http://www.sternbrau.com/",
+      "photoRef": "places/ChIJhQfCFWSQdkcRzrA_0neDDnQ/photos/AcnlKN0nwb1MI2m1lnie44ZKGGOOz90KlEQ44Y72rMJhsKgnLAehifSrf2pYqyEXA1p-GFyOubmqg8ZNfoR3RiJyuuU7sgNC8f_Cmws-dyoyUc9K5gNjdm9pjUTFPDeFXa0l-Kx_XZKsnercs0SE9pMq4D0cHZvKKiWXpbyUCmJh2K0hBOlOyGnaNyA-ql1cMwGrK5dD9MYIO5oYWRNzo9CTeVZ2thoX5yryUwuErh6SbeSZSeUjfgjs3wimyNGRl5WYU7b9UMybv3CtCbj9L25BPBTnj6nflo1F1IidCe2HFcjgzw",
+      "photoAttribution": "STERNBRÄU",
+      "placeId": "ChIJhQfCFWSQdkcRzrA_0neDDnQ",
+      "phone": "0662 842140",
+      "hours": [
+        "Monday: 9:00 AM – 11:00 PM",
+        "Tuesday: 9:00 AM – 11:00 PM",
+        "Wednesday: 9:00 AM – 11:00 PM",
+        "Thursday: 9:00 AM – 11:00 PM",
+        "Friday: 9:00 AM – 12:00 AM",
+        "Saturday: 9:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 11:00 PM"
+      ],
+      "address": "Griesgasse 23, 5020 Salzburg, Austria",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Esszimmer",
+      "coord": [
+        47.80666670000001,
+        13.0341667
+      ],
+      "desc": "Michelin-starred fine dining for parents' celebration night (hotel can arrange babysitting)",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12133769003917581522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Romantic",
+        "Reservations Recommended"
+      ],
+      "rating": 4.8,
+      "ratingCount": 404,
+      "website": "http://esszimmer.com/",
+      "photoRef": "places/ChIJtabfwHGQdkcR0hwnIZ_OY6g/photos/AcnlKN2bYjbfliVpPfHx59AwYvawWUuV0vEKljbXUUjb8Ya5agozJJWRkK9Kna2hhXc2nNr1oZHwoaE5SMeuSynJ6Xk0diG--UcAgAi3-gLEcHILQpC_5dFI3zzXXCEhZTHsyahld7Jyl3ktITvL0eXoDL4Qx6UfaUor9KiKm3Z64CqZ0R638urTYkDvSUf_cMQ9eJPsb8tw_lFuG4AWKm74q06oYzZ-OuXVXwooDxepnPRIaD74UsY2AA0xvk-WPZt-CLruOUMFoRFS35MsoMZ3b0hSFRM7H8-uMdmrZWVveKYscLg9JiaiaQpo0MvcsbmB-Hp3o8IS3_ehjvNup4NfCzA8Wu_vYZp3eKWJVc9Cp6PYRkDTuLKLctvT43DDMcPNgqdrMFz8JhK27F_DjIS_m4d1fnoJhUmfZyGIxE88-hk",
+      "photoAttribution": "Julien Audrerie",
+      "placeId": "ChIJtabfwHGQdkcR0hwnIZ_OY6g",
+      "phone": "0662 870899",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 2:00 PM, 6:00 – 10:00 PM",
+        "Wednesday: 6:00 – 10:00 PM",
+        "Thursday: 12:00 – 2:00 PM, 6:00 – 10:00 PM",
+        "Friday: 12:00 – 2:00 PM, 6:00 – 10:00 PM",
+        "Saturday: 12:00 – 2:00 PM, 6:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Müllner Hauptstraße 33, 5020 Salzburg, Austria",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Zwettler's Wirtshaus",
+      "coord": [
+        47.7983325,
+        13.048652500000001
+      ],
+      "desc": "Traditional Austrian gastropub in central Salzburg with local cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16136157524276699855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Hidden Gem"
+      ],
+      "rating": 4.5,
+      "ratingCount": 6260,
+      "website": "https://www.zwettlers.com/",
+      "photoRef": "places/ChIJOW9CBoqQdkcRz2JCesYl798/photos/AcnlKN2zYdKlDGbBNr9BM0qQ4DaWmvEFmf4syVRMNHEe4vLgRIPc4_-ARA7W-UW2HJGEroZ7-3zh9wezcgFsHV1nxbgAaXVi2IxQ8iFJh4sXYOp13bMuwDZjH8_0v1JQwARuiSDcm95JwHDHEWEbxdRdUBEUBJK78wMvBPQufOP3ehZxlTW7paaHAuSnCCJFJgdPlAKUXGiGaDllJx4FXOfPiBnhZW9DEhMOf4lMy1kpd25lDpf_5XWwygGTX6LRmKkrC7AnZ6l4Jmjc8PUxDqirqNbZYePBDsp1awtMavoWFAT9FYwlsVXt6mPWMvbylq618DlABwsoLkP15i-0kn3tB0P3FYi4PuQwDmfLfREiL_RuaNuRQu9cHLBI4EjtAQpcnNTKjc7THOiBiMil4LWoIYo0MIKtWUmXKVaiW8hE-OTy2cWhCuP5O2rcALmiSQ",
+      "photoAttribution": "Rob Hall",
+      "placeId": "ChIJOW9CBoqQdkcRz2JCesYl798",
+      "phone": "0662 274018",
+      "hours": [
+        "Monday: 11:30 AM – 11:00 PM",
+        "Tuesday: 11:30 AM – 11:00 PM",
+        "Wednesday: 11:30 AM – 11:00 PM",
+        "Thursday: 11:30 AM – 11:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 11:30 AM – 11:00 PM",
+        "Sunday: 11:30 AM – 11:00 PM"
+      ],
+      "address": "Kaigasse 3, 5020 Salzburg, Austria",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Landhotel Hochlackenhof",
+      "coord": [
+        47.775454499999995,
+        13.3407024
+      ],
+      "desc": "Traditional Austrian lakeside restaurant in Fuschl am See with family-friendly atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12591306801014723112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Scenic Views"
+      ],
+      "rating": 4.9,
+      "ratingCount": 99,
+      "website": "https://www.hochlackenhof.at/",
+      "photoRef": "places/ChIJ4XIyNlqjdkcRKFJx7NJOva4/photos/AcnlKN3cpRREZ3G0diDVNytQ8uX80lJmAkJlGw3AADl78kHPDHMkFCwRVjn5DOon1gG_PwffMKgzkEiON7th25tWv8NoDv6g4-XOZaoPJeUyC_BPEYE_JAELHvdpr0XnY_PZiU3XuJP98LIJ3sBZprSmvbU2RZZxzsIquv_0y_TslfjyPri3HFl7JervFF16z_WeB3NFlM-htUJakLzTd6mMBv0g6gpkP_4wR0gJl3F_ObmNiUt1kWETVSegzZvXRLkYgFa6FNbe82EKZURyhQtDiBFKA-hhFW-Sxaxw7z8p_DNzEw",
+      "photoAttribution": "Landhotel Hochlackenhof",
+      "placeId": "ChIJ4XIyNlqjdkcRKFJx7NJOva4",
+      "phone": "06226 8330",
+      "address": "Ellmaustraße 80, 5330 Fuschl am See, Austria"
+    },
+    {
+      "name": "Seehotel Schlick",
+      "coord": [
+        47.797511199999995,
+        13.2992981
+      ],
+      "desc": "Lakeside hotel restaurant offering Austrian cuisine with lake views in Fuschl am See",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3310252825597552168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4,
+      "ratingCount": 605,
+      "website": "http://www.seehotelschlick.at/",
+      "photoRef": "places/ChIJQ0HdbUGjdkcRKKZ5Cmhh8C0/photos/AcnlKN0qHQ-nbSeOPmMZBwWUYuqhfQeSofUZDtITE9efgq55AiDnT0x8MssquytQSnOrxnatq0KOuX_3cITMUmDwLr9DqaNzRuQ3fUJawdjfiMj6oyet1YXmjO5_r11pKq8P2RCtX7AjnAxs2AqzJiYB6ao3T_1xT8Y7zICISOLC7li9x_WyjuuowNJvYRNrC0sj-yFhR3yg-9md3HriZEkyBlJPafPq7KmgCjCwmAuww37ShaGM6saIirO82CVRkNx-z72nMCD3Qvg3mtkjiuF-uM39u24Boa-Y-qO57X2oVEjhQM4LKhgxD2E0s9X2DuCZE5t9YCAWF-xg_j7Aagp48mIokEBgk2i3Up9fSXKrmXHY905GM9q46SJceOuGJ_z4FZqD9Iz9VsiC72xFSkGx2XFJkvtsJnvoYTdHGJ1SLx-gWQ",
+      "photoAttribution": "Doro",
+      "placeId": "ChIJQ0HdbUGjdkcRKKZ5Cmhh8C0",
+      "phone": "06226 8237",
+      "address": "Seestraße 12, 5330 Fuschl am See, Austria"
+    },
+    {
+      "name": "Restaurant Triangel",
+      "coord": [
+        47.798369199999996,
+        13.0430806
+      ],
+      "desc": "Family-friendly traditional restaurant near Getreidegasse",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8702725315620020084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.1,
+      "ratingCount": 1159,
+      "website": "https://www.triangel-salzburg.co.at/",
+      "photoRef": "places/ChIJ85q2Q2GQdkcRdJ9Ux5BKxng/photos/AcnlKN0HJwPlVZQnX44etMWeYnblKtWmo-wv1UtwkEzKKBK2qBcQ5Yi11XKbqpbV9y0IuGr3OaoQb251lrRg3ij4Uk-DQkmpw2VeSjZjyy55NMr3SYwlWDUQbvOm0PAD1wG10CzCVUOeBLm0NZ-5ycOSOu-rnyD_hLk6S7C7pdL0vmqmcYNC_mUeZdQIIc5XhHnR8mmJkW6QGhnsO_fkUsm_UUgh-6pjZaI1Wn9epp-IEVgMUiCEsnRVfobNiJ6TNlco2c_cOg5e3qSn1JuBkNfFVifZz6oGF67MbdXub3BmyfqhJA",
+      "photoAttribution": "Restaurant Triangel",
+      "placeId": "ChIJ85q2Q2GQdkcRdJ9Ux5BKxng",
+      "phone": "0664 2509573",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:30 AM – 12:00 AM",
+        "Wednesday: 11:30 AM – 12:00 AM",
+        "Thursday: 11:30 AM – 12:00 AM",
+        "Friday: 11:30 AM – 12:00 AM",
+        "Saturday: 11:30 AM – 12:00 AM",
+        "Sunday: Closed"
+      ],
+      "address": "Wiener-Philharmoniker-Gasse 7, 5020 Salzburg, Austria",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Restaurant Langwies",
+      "coord": [
+        47.6643404,
+        13.123437299999999
+      ],
+      "desc": "Traditional Austrian Gasthof with garden near salt mine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8184424456782178610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.7,
+      "ratingCount": 631,
+      "website": "http://www.langwies.at/",
+      "photoRef": "places/ChIJVRwmzkGVdkcRMmmFNa7qlHE/photos/AcnlKN2mU7ZHTN2Yhivxp068DFx3T9QIY-F_0jHCr3Va_1V9O1fqbwj031eYzSrIGnlgsnrMIBOqabrbpb3TZzOPTMWc2ncUomnrpTL05qrPZtB-4S9Ayiykj6tR3yrxs_39h4trQte8o30fY6RkyWYm0lvP7YE_Mvfie3A7Bpv-_5TpNmFkVlPC202C1mhn8KJJI-0lwwkl0h1Nxe4zMQmBki8g3CJaDEkyx4fcEUzgfQg0ecaO3d7SUpgDtyT1VHfhXY1f_pNwBJ4Ls6UpXnLrGUDi4vUWC3vlohe3OFK1FQUUag",
+      "photoAttribution": "Restaurant Langwies",
+      "placeId": "ChIJVRwmzkGVdkcRMmmFNa7qlHE",
+      "phone": "06245 8956",
+      "hours": [
+        "Monday: 4:00 PM – 1:00 AM",
+        "Tuesday: 4:00 PM – 1:00 AM",
+        "Wednesday: 4:00 PM – 1:00 AM",
+        "Thursday: 4:00 PM – 1:00 AM",
+        "Friday: 4:00 PM – 1:00 AM",
+        "Saturday: 10:00 AM – 1:00 AM",
+        "Sunday: Closed"
+      ],
+      "address": "Langwies 22, 5424 Bad Vigaun, Austria"
+    },
+    {
+      "name": "Gasthof Ehrwalder Alm",
+      "coord": [
+        47.3848913,
+        10.968389199999999
+      ],
+      "desc": "Mountain restaurant with terrace and traditional Austrian dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6963602860615730666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Scenic Views",
+        "Good for Lunch"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2758,
+      "website": "https://ehrwalderalm.at/",
+      "photoRef": "places/ChIJ14p3Fp0dnUcR6gXlL-ivo2A/photos/AcnlKN034UQeywxiYLrw6OGAqvNMJe3tgQrMKjrO6NNPpZwBS82fP6y2y7kElU25HmpZCbkQnfvKrq2cHfw_QtYgIaZA8gF1RBE-tBmACf0qu05zmRS7UpLGYH3oA60S742SeMxfl81Y1YW5kA4h2IbsQP4lxRhPIRgbkFKs-S2YglA3vgZGP1BsIyXZ5gX8cfvifOnuv_z9jfkipCOiIRqxym9y6PnKh-3aRpl1KX7HTx0HAe1wCWVTUdLo43WnelAQflzeVam1gSGIgIvvIYG-Q2qp1uQ0GrBJ1H8GAAm8z406pg",
+      "photoAttribution": "Gasthof Ehrwalder Alm",
+      "placeId": "ChIJ14p3Fp0dnUcR6gXlL-ivo2A",
+      "phone": "05673 21255",
+      "hours": [
+        "Monday: 9:30 AM – 4:30 PM",
+        "Tuesday: 9:30 AM – 4:30 PM",
+        "Wednesday: 9:30 AM – 4:30 PM",
+        "Thursday: 9:30 AM – 4:30 PM",
+        "Friday: 9:30 AM – 4:30 PM",
+        "Saturday: 9:30 AM – 4:30 PM",
+        "Sunday: 9:30 AM – 4:30 PM"
+      ],
+      "address": "Ehrwalder Alm 3, 6632 Ehrwald, Austria",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
     }
   ],
   "experiences": [
@@ -181,7 +722,8 @@
       "tags": [
         "Outdoor & Nature",
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Full-Day Activity"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=8296613250550123092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -238,7 +780,8 @@
         "Photography Worthy",
         "Romantic",
         "Family Friendly",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See"
       ]
     },
     {
@@ -260,11 +803,259 @@
       "tags": [
         "Photography Worthy",
         "Outdoor & Nature",
-        "Romantic"
+        "Romantic",
+        "Scenic Views"
       ]
+    },
+    {
+      "name": "Krimml Waterfalls",
+      "coord": [
+        47.207678699999995,
+        12.1708108
+      ],
+      "desc": "Europe's highest waterfall, three-stage cascade, scenic hiking trails for all abilities",
+      "longDesc": "Austria's most spectacular waterfall system drops 380 meters through enchanting Alpine landscape. Family-friendly trails of varying difficulty lead past misty cascades, offering breathtaking photography and nature immersion.",
+      "gmapsUrl": "https://maps.google.com/?cid=11466323760185608861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Iconic / Must-See",
+        "Half-Day Trip"
+      ],
+      "rating": 4.8,
+      "ratingCount": 16651,
+      "website": "http://www.wasserfaelle-krimml.at/",
+      "photoRef": "places/ChIJJ-4zEz25d0cRnQp8bbWQIJ8/photos/AcnlKN1UJ5bFp4mJqJ7jq429Ad8Ez-ssKC2qByJKn19wL0J_bLxOg_CngvATdAfI2m2JAmrLWMmZaSW1PCqgD09nAk-gSwbg1Arbagqt0CC5ustMGtNLFeKyvTaqZj7ITOqTEdawt-TWU1xrFap-h7mUp7ZlRqKTi6CRg9Ny-MZ_shyZ6IRZJGw-oXfD-yweJ1CufjKl5_pv8C2BJnqoLi6R-HVcYvPk-9f0ETrXiK7KHcS96ii0CAtdHWVTFpH3h6kK9NMaPS6FDS6BKCL_X-y9Emg2IIqXfV47bjNpKlPGsU-cyEJHbhao14WSltGufGKJCbedJm2ylEN_f2v-l5h83aCijT7NbuxKshAmJ62q77lgke7Z7SwieKy46x7mkZm3OIQCexckh3l0ElTCMOR0eZ8A4CuBe8izhLtm6HsGVnYuIA",
+      "photoAttribution": "Simone Hüttner",
+      "placeId": "ChIJJ-4zEz25d0cRnQp8bbWQIJ8",
+      "phone": "06564 7212",
+      "address": "5743 Krimml, Austria"
+    },
+    {
+      "name": "Mirabell Palace",
+      "coord": [
+        47.8054432,
+        13.0416942
+      ],
+      "desc": "Baroque palace with famous gardens, perfect for kids to run around",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3230726976471162197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Playgrounds"
+      ],
+      "rating": 4.6,
+      "ratingCount": 31585,
+      "website": "https://www.salzburg.info/de/sehenswertes/top10/schloss-mirabell",
+      "photoRef": "places/ChIJK-tdP3uQdkcRVd3VZhHZ1Sw/photos/AcnlKN1L2s34N2Sa-8f9IIlswIlIOur0FpyyZvK3uXkDXJstQTUiFPpiZRFK-5IvDvTSybIkCRYPUCXmgkawWztlqyKFAEMWmiOTRnLAbn5lICq0Y2MIswBXHPeBxDYx4FauwS5ZJZtKQPv3CbeT8AnlXKh1ao4zGXCklNyonGtE38YSX-8_Forcvn9yefJTcFxshWKdDj3lWe7y7PnPSuoegQrlEanb7ASJXkF5HKz_8MNGgbfYgB5tVqKiEjjYOy8tWSJh6Kbu5QkwfHyBmbxwyFAM5F5jq3Bv7yKVVYhh_-6gPfM4AJvr3w_0GkKiV3CUUDdveP7UDgfIkUhd1HfGjdypCW3bJMiG5rYqHtjS50KVMOpWDAGtoTlzD0aOJFcQTLEd9DGaVvIaduAjKfqFh8pv2GlMLO1fZQUoNrUcvQu81Cuw",
+      "photoAttribution": "Javier Jimenez",
+      "placeId": "ChIJK-tdP3uQdkcRVd3VZhHZ1Sw",
+      "phone": "0662 80720",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ],
+      "address": "Mirabellplatz 4, 5020 Salzburg, Austria"
+    },
+    {
+      "name": "Mozart's Birthplace",
+      "coord": [
+        47.8000079,
+        13.043558899999999
+      ],
+      "desc": "Historic birthplace museum, keep it brief with young kids",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11415600237100449675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Rainy Day"
+      ],
+      "rating": 4.3,
+      "ratingCount": 26902,
+      "website": "https://mozarteum.at/museums/mozarts-geburtshaus/#info",
+      "photoRef": "places/ChIJiYA55GOQdkcRi7885u5bbJ4/photos/AcnlKN0Pnik2TtPjMfATSbLkOZpG3ZV1saaoBCGXjyVseq0iBOXmSGtUiZUgeittOluOCy8VBOD_O6MSQ-vvNYfTCON1z87uDzEJvG1MsHqT6muGRSMy7moQBBnEV-7kdVwqaX1uuSnBUuLqxUZjRQvZRfjSLwU_obnaoKgiFRPL1qJzl74OMbeI1cl-xbh4UrCnm2tqZoHcoFIFoYZvSLQn6bkrmgyWrrRViDCaMQVlyvVO-eeHdu9LJQ30POL4coQ_AwX3HA9kViFcnyPAwPiqqG3MMddbl4baegyaCxrsgNlBVgVxTtLn1ma1d36iyLEVSLlVidfEOagQBgWNdCe4w1qcnx1oGkQvW7MvQlIjaMC_ZfAhpqMgs4lkNfqR6hb5kswXD-dLSBoTT4U8eejTsyJGpvriIuQBn_97-R3MCIrucQ",
+      "photoAttribution": "Lizzie",
+      "placeId": "ChIJiYA55GOQdkcRi7885u5bbJ4",
+      "phone": "0662 844313",
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 5:30 PM",
+        "Sunday: 9:00 AM – 5:30 PM"
+      ],
+      "address": "Getreidegasse 9, 5020 Salzburg, Austria"
+    },
+    {
+      "name": "Aussicht Festung Hohensalzburg",
+      "coord": [
+        47.795690099999995,
+        13.046319599999999
+      ],
+      "desc": "Take funicular up for panoramic views, explore briefly with toddlers",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7856907973187788061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.9,
+      "ratingCount": 46,
+      "photoRef": "places/ChIJJZunJZqRdkcRHd3KhixYCW0/photos/AcnlKN1CvELNzMZi0LEBfJwr2-4Ztr8nIEfqzugvjMTAlffzC6j05C91kSyQSGcKFFF4tV3449YzmiiQ7Ik4m0Lv_Pj-Fk0TvYxxPfRPOxQOim3C5CLZYPneeeuwd8TLTi1-3g4Gbd-XPGrAGgd9Xdili8oYTc1T-8aJJwInUqAHCYpqOnKnsR_uqYX2BlVKekhKBmByypSjQFN927XeYhI4kQbqJF5JqpdpD8gDwxZBJ5dxTKlWqVhHy22Q6rdtjqpyMKB2-9Fk1vhas0jdetvePMS_05muRx8d6DpWy6OX1gyyoPM5o7CuJPb3tMFh3JbyYWYIYf9toizKrurqgBRFn0EgvK-28w0ZEQQqOOnrTo2FxPRQl7VLwCjXUCzkhNysayOAK8Pe1yUe0wu5eept1PV_9mKhNOtCLdP25zCkIKgOI1WE",
+      "photoAttribution": "Kyrylo Sulyma",
+      "placeId": "ChIJJZunJZqRdkcRHd3KhixYCW0",
+      "address": "Mönchsberg 13, 5020 Salzburg, Austria"
     }
   ],
-  "kidFriendly": [],
+  "kidFriendly": [
+    {
+      "name": "Elternkindbegleitung",
+      "desc": "Family-focused activity center, ages 3-8, parent-child programs and creative exploration",
+      "longDesc": "A Vienna-based family center offering parent-child accompanied activities and creative exploration for children aged 3-8, allowing parents to enjoy the city.",
+      "coord": [
+        48.216026,
+        16.3318319
+      ],
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Art & Design",
+        "Playgrounds"
+      ],
+      "rating": 4.9,
+      "ratingCount": 98,
+      "website": "https://www.elternkindbegleitung.at/",
+      "photoRef": "places/ChIJ8xph1vcHbUcRFY6EprXNgZA/photos/AcnlKN1zN8BMdLbIp_9-Js2Vq3TI-pOjHyvTDIH3a3VmTcdxrKRnQlh36Xoa7E-aN3A28Wbyk-DrS2_h_uDnpNlx0SciCiPmnkSddjmEwJLHjVC1Rl4ZXEtEV3Fzn7W0lu6igeVfjx7qYyWu0Ci84jdfmBu4aFewezhdo_6VFiuRDroGpox9dS8xjWkWRPx5mCX7jTj29PrLZUWJHuyub1U02E75vEQ42QK4J6TiKTRCVvwgFYy2vuDxLQA3E1PWfvM3QHvrjh1XhmMfIG1gUaXRcwJR-5p4Z98pYrQ3S4sHGhjLEg",
+      "photoAttribution": "Eltern Kind Begleitung- Spielraum / Kindergeburtstag / Babycafé / Summer Camp",
+      "gmapsUrl": "https://maps.google.com/?cid=10412829993523777045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ8xph1vcHbUcRFY6EprXNgZA",
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Kalvarienberggasse 17/2, 1170 Wien, Austria"
+    },
+    {
+      "name": "Schönbrunn Zoo",
+      "coord": [
+        48.182086299999995,
+        16.302784499999998
+      ],
+      "desc": "World's oldest zoo, 700+ animals, enchanting palace grounds for exploration",
+      "longDesc": "Located within the stunning Schönbrunn Palace grounds, this historic zoo captivates children with exotic animals, interactive zones, and beautiful gardens. A perfect full-day family adventure combining wildlife and imperial grandeur.",
+      "gmapsUrl": "https://maps.google.com/?cid=4298253609644880272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 58502,
+      "website": "https://www.zoovienna.at/",
+      "photoRef": "places/ChIJV02ULeCnbUcRkHFsheJ2pjs/photos/AcnlKN00IsIaTCfecONmpV1wTgQlVAoqJ-49KUAfoobBYUH79efsVLihNSQkA5RHGbE_XNVcBmlm0Y1QWSfVUlmnmQ2lV1af1KwwPW7wdUF-IcCCB3NJ5v6rmmra19owEan4CUCgk8A5zy27icy_uUjYnjHY5ncHrSeAHPUDiq9wxycT2F22voIBnJXbv195Xnko1k7L-0JrSysIwr9dMYgiADBF2x-SQtkz5pcLDKEa0d5GYcSDVDu0r7_EE0t8J3YstWcfRvddh_pAzfyjyjLLz2Jo1MZiQZzNfuwuf6aSzbG8I5dM2VQUSlQxDeyjKeQOMmEjXZEuc-JC91ZyjnKu-iQzwlY2MVcBCMt7CvAHpvjjcEdSqso4Nt9YOsNO1v97m2o8MOc8r9o2KI6ZR5ab1M648h4ekBhquoZOpKJLLweRsR1o",
+      "photoAttribution": "Dmitry S",
+      "placeId": "ChIJV02ULeCnbUcRkHFsheJ2pjs",
+      "phone": "01 87792940",
+      "hours": [
+        "Monday: 9:00 AM – 4:30 PM",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: 9:00 AM – 4:30 PM",
+        "Sunday: 9:00 AM – 4:30 PM"
+      ],
+      "address": "Maxingstraße 13b, 1130 Wien, Austria"
+    },
+    {
+      "name": "Salzwelten Salzburg",
+      "coord": [
+        47.667269399999995,
+        13.0899659
+      ],
+      "desc": "Interactive salt mine with slides and underground train, perfect for ages 2-6",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6031983714437186903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Rainy Day"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2371,
+      "website": "https://www.salzwelten.at/de/salzburg",
+      "photoRef": "places/ChIJnYNDR96UdkcRV0X4vTrptVM/photos/AcnlKN01LLaoCrZVny1laMEWMJRFpIqJJt6Otnt230oA40jYhIPwXzoKRplcGUqeHvLeiZyYw723qCFhBhBZlSLdE7oqR8sV_ordxQ1AFQiAbg7Jpp9gnMmHm-eVk42NEEeBi76ugis9OeLxLHZa7ITtI7wWADcgou9LveV8I_9MQdrupxmRKS5C3RweBoF5AzxheHxP5GMwcoXW6xkI94K5OIyNwtcSoZl3sgpRM4Q-KVwFVi7KB67TEg-9qC7AarRdpaNGRFb2z_woTHXw2uuCG8jICqG-NrniDsVKF9egXTIn7w",
+      "photoAttribution": "Salzwelten Salzburg",
+      "placeId": "ChIJnYNDR96UdkcRV0X4vTrptVM",
+      "phone": "06132 2008511",
+      "hours": [
+        "Monday: 9:00 AM – 3:00 PM",
+        "Tuesday: 9:00 AM – 3:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 9:00 AM – 3:00 PM",
+        "Friday: 9:00 AM – 3:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: 9:00 AM – 3:00 PM"
+      ],
+      "address": "Ramsaustraße 3, 5422 Bad Dürrnberg, Austria"
+    },
+    {
+      "name": "Salzburg Puppet theatre",
+      "coord": [
+        47.8031736,
+        13.0424023
+      ],
+      "desc": "World-famous puppet theater with enchanting performances for children",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13666365222117039615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Live Music / Entertainment",
+        "Cultural & Historical"
+      ],
+      "rating": 4.8,
+      "ratingCount": 555,
+      "website": "http://www.marionetten.at/",
+      "photoRef": "places/ChIJZZG5lWSQdkcR_90JE8OuqL0/photos/AcnlKN1mrlO90FYlPlMVSCvFZwkiu-eXs5VkA6SlRsrpYsTQrVINfSZTwm1hRe8j07b6pywzDy8_EJDLtnRUBLkgFMdSi2yuYejebZKnv7L19eGFencpVNqHVSC0Q-V3NStwR_YcP15aGz8IknsiFlPYgOuM6C6XaXkj3sOYw6UcvRa58polRHRmrQhZCyQ9ZDm1qPZrAjWy8XZ3OWVrAu2xzIZBOAovTkLYE8Wc2aLlDsthpnSFSVbjIDdZqWgRG72dBFHHcrd7emkNsUqkLP3KT6iSe6mbAnR3WFJhMCGhChXcab-w2UeHbR3n_F0Fy4DL6fIspgHcRS7ZjznYZHUyHaqRYzka40gRF4_0R8WkA8bvZnt21RfQx6d4mHMGll0oKsFfFwbPdaKTWjJGmf1Vfvf6NtUyXe0leDTEUxpRsSI",
+      "photoAttribution": "ACHIM DÜRR",
+      "placeId": "ChIJZZG5lWSQdkcR_90JE8OuqL0",
+      "phone": "0662 872406",
+      "hours": [
+        "Monday: 9:00 AM – 1:00 PM, 5:30 – 7:30 PM",
+        "Tuesday: 9:00 AM – 1:00 PM, 5:30 – 7:30 PM",
+        "Wednesday: 9:00 AM – 1:00 PM, 5:30 – 7:30 PM",
+        "Thursday: 9:00 AM – 1:00 PM, 5:30 – 7:30 PM",
+        "Friday: 9:00 AM – 1:00 PM, 5:30 – 7:30 PM",
+        "Saturday: 9:00 AM – 1:00 PM, 5:30 – 7:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Schwarzstraße 24, 5020 Salzburg, Austria"
+    }
+  ],
   "markets": [
     {
       "name": "Hallstatt Christmas Market",
@@ -284,7 +1075,8 @@
       "photoAttribution": "SHARLICOHEN",
       "tags": [
         "Family Friendly",
-        "Romantic"
+        "Romantic",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -296,6 +1088,29 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "059 509 530"
+    },
+    {
+      "name": "Naschmarkt",
+      "coord": [
+        48.1986178,
+        16.3636494
+      ],
+      "desc": "Vibrant food market, 100+ vendors, exotic spices, fresh produce, local treasures",
+      "longDesc": "Vienna's most famous market buzzes with colors, aromas, and flavors from around the world. Perfect for families to sample local Austrian products, exotic foods, and traditional snacks while exploring the lively neighborhood.",
+      "gmapsUrl": "https://maps.google.com/?cid=412854214352792766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "photoRef": "places/ChIJUwyiX4QHbUcRvmyFdrjAugU/photos/AcnlKN1AGqVq8p2U0fRiIRy5v361gGhxu1JEa9hmwhXuL924LaGMM3nD3mGDSCQIZOyByaSA9WFPGOQkUFIBOLHXTt9BJQCUqzo29F0_8Dyb7mrQdUloJFCfuscMFoFon72qFABWdx79dhjzdmPBEFtGtyQ8C1pxaXGspXknTkkC4Obc6iYMrwu9LrkBJyPWNq5tFr-FMpeYNyszvDSQswOxcubKhRfmLOWhyMLrmbvbmCH9jems9WN-z0X1BPi-3GlMBTLXmtLJTdeDi6uo-PRzWM43cc1R3QdHjQPBx0pc4eBM91GcaUTDBUoAhdf1G2UokWTXZFRa9G8BhxdmIW2E-b4sf-L95XxgvYGhgJz24xMaOOWPmanMT9KKBMUDJkag9BKxUXxEQIqx4IgdXymAu9Q6kfqquAVIXhdjXBBPpYo8Uw",
+      "photoAttribution": "Maja Memic",
+      "placeId": "ChIJUwyiX4QHbUcRvmyFdrjAugU",
+      "address": "Naschmarkt, Wien, Austria"
     }
   ],
   "cityCenters": {
@@ -315,5 +1130,426 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Alpine Lakes & Castle Dreams (8 Days)",
+      "description": "A perfectly paced family adventure through Austria's fairy-tale landscapes, from lakeside castles to mountain resorts, designed for little explorers and their parents.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Fuschl am See",
+        "Salzburg"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival at Fuschl am See",
+          "dayType": "rural",
+          "base": "Fuschl am See",
+          "items": [
+            {
+              "name": "Rosewood Schloss Fuschl",
+              "type": "hotel",
+              "coord": [
+                47.808966,
+                13.2557388
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Settle in and explore the castle grounds",
+              "type": "freeTime"
+            },
+            {
+              "name": "See Club",
+              "type": "lunch",
+              "coord": [
+                47.808966,
+                13.2557388
+              ]
+            },
+            {
+              "name": "Afternoon by the lake with the kids",
+              "type": "freeTime"
+            },
+            {
+              "name": "Schloss Restaurant",
+              "type": "dinner",
+              "coord": [
+                47.8011,
+                13.2781
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Hallstatt Day Trip",
+          "dayType": "rural",
+          "base": "Fuschl am See",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Hallstatt (50 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Hallstatt",
+              "type": "sightseeing",
+              "coord": [
+                47.5622342,
+                13.649261699999998
+              ]
+            },
+            {
+              "name": "Café im Seehotel Grüner Baum",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lakeside café with Austrian classics and stunning views",
+              "suggestedCity": "Hallstatt"
+            },
+            {
+              "name": "Hallstätter See",
+              "type": "sightseeing",
+              "coord": [
+                47.5786078,
+                13.6628771
+              ]
+            },
+            {
+              "name": "Drive back to Fuschl",
+              "type": "info"
+            },
+            {
+              "name": "Landgasthof Holzapfel",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Austrian lakeside restaurant in Fuschl am See with family-friendly atmosphere",
+              "suggestedCity": "Fuschl am See"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Spa Morning & Transfer to Salzburg",
+          "dayType": "rural",
+          "base": "Fuschl am See",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Asaya Spa",
+              "type": "sightseeing",
+              "coord": [
+                47.808966,
+                13.2557388
+              ]
+            },
+            {
+              "name": "Parents take turns at spa while other watches kids by the pool",
+              "type": "info"
+            },
+            {
+              "name": "Seehotel Schlick Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lakeside hotel restaurant offering Austrian cuisine with lake views in Fuschl am See",
+              "suggestedCity": "Fuschl am See"
+            },
+            {
+              "name": "Check out and drive to Salzburg (30 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Hotel Goldener Hirsch, a Luxury Collection Hotel, Salzburg",
+              "type": "hotel",
+              "coord": [
+                47.7998886,
+                13.0409664
+              ]
+            },
+            {
+              "name": "Stiftskeller St. Peter",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Europe's oldest restaurant in atmospheric cellar, traditional Austrian cuisine",
+              "suggestedCity": "Salzburg"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Salzburg Old Town",
+          "dayType": "urban",
+          "base": "Salzburg",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Café Tomaselli",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic coffeehouse established 1705, Mozart's favorite spot",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Mirabell Palace and Gardens",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Baroque palace with famous gardens, perfect for kids to run around",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Triangel",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly traditional restaurant near Getreidegasse",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Mozart's Birthplace walk-through (quick for toddlers)",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Historic birthplace museum, keep it brief with young kids",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Bärenwirt",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Cozy traditional Gasthof with schnitzel and kid-friendly atmosphere",
+              "suggestedCity": "Salzburg"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Family Adventure Day",
+          "dayType": "rural",
+          "base": "Salzburg",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Hallein Salt Mine (20 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Salzwelten Hallein Salt Mine",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Interactive salt mine with slides and underground train, perfect for ages 2-6",
+              "suggestedCity": "Hallein"
+            },
+            {
+              "name": "Gasthof Bad Vigaun",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Austrian Gasthof with garden near salt mine",
+              "suggestedCity": "Hallein"
+            },
+            {
+              "name": "Drive to Krimml Waterfalls (1 hour 45 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Krimml Waterfalls",
+              "type": "sightseeing",
+              "coord": [
+                47.207678699999995,
+                12.1708108
+              ]
+            },
+            {
+              "name": "Easy lower trail walk with the kids",
+              "type": "info"
+            },
+            {
+              "name": "Drive back to Salzburg",
+              "type": "info"
+            },
+            {
+              "name": "NATUR BRAUEREI ALMTAL GmbH",
+              "type": "dinner",
+              "coord": [
+                47.897511099999996,
+                13.9493142
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Relaxed Salzburg",
+          "dayType": "urban",
+          "base": "Salzburg",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Late morning at hotel (kids need downtime)",
+              "type": "freeTime"
+            },
+            {
+              "name": "Café Sacher Salzburg",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Iconic café famous for original Sachertorte",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Sternbräu",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional brewery restaurant in Old Town, family portions",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Salzburg Marionette Theatre (if matinee available)",
+              "type": "optional",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "World-famous puppet theater with enchanting performances for children",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Fortress Hohensalzburg viewpoint",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Take funicular up for panoramic views, explore briefly with toddlers",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Esszimmer",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Michelin-starred fine dining for parents' celebration night (hotel can arrange babysitting)",
+              "suggestedCity": "Salzburg"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Alpine Excursion",
+          "dayType": "rural",
+          "base": "Salzburg",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Ehrwald (2 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Ehrwalder Mountain",
+              "type": "sightseeing",
+              "coord": [
+                47.3873965,
+                10.938142299999999
+              ]
+            },
+            {
+              "name": "Cable car ride with mountain views (even toddlers love this)",
+              "type": "info"
+            },
+            {
+              "name": "Alm Restaurant Ehrwald",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Mountain restaurant with terrace and traditional Austrian dishes",
+              "suggestedCity": "Ehrwald"
+            },
+            {
+              "name": "Easy walk at mountain station, playground area",
+              "type": "freeTime"
+            },
+            {
+              "name": "Drive back to Salzburg",
+              "type": "info"
+            },
+            {
+              "name": "Casual dinner at hotel or nearby",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Relaxed final dinner at K+K am Waagplatz near hotel",
+              "suggestedCity": "Salzburg"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Salzburg",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Café Tomaselli",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Final Viennese coffee and pastries before departure",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Café Tomaselli",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic café in Salzburg's old town, Austria's oldest coffee house, serving light meals",
+              "suggestedCity": "Salzburg"
+            },
+            {
+              "name": "Last stroll through Getreidegasse",
+              "type": "freeTime"
+            },
+            {
+              "name": "Depart from Salzburg Airport or train station",
+              "type": "info"
+            },
+            {
+              "name": "Zwettler's Wirtshaus",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Austrian gastropub in central Salzburg with local cuisine",
+              "suggestedCity": "Salzburg"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

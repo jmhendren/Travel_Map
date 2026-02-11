@@ -21,7 +21,8 @@
         "Romantic",
         "Splurge",
         "Photography Worthy",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=15021861896389222117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -43,7 +44,8 @@
         "Photography Worthy",
         "Romantic",
         "Adventure & Active",
-        "Family Friendly"
+        "Family Friendly",
+        "Iconic / Must-See"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=13014177471908200630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -72,7 +74,8 @@
         "Splurge",
         "Fine Dining",
         "Romantic",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -105,7 +108,8 @@
         "Splurge",
         "Fine Dining",
         "Romantic",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -138,7 +142,8 @@
         "Splurge",
         "Fine Dining",
         "Romantic",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -170,7 +175,8 @@
       "tags": [
         "Splurge",
         "Art & Design",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See"
       ],
       "phone": "04 12 05 55 60"
     },
@@ -193,9 +199,102 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See"
       ],
       "phone": "(01) 601 7200"
+    },
+    {
+      "name": "Dromoland Castle Hotel",
+      "coord": [
+        52.7830484,
+        -8.905636399999999
+      ],
+      "desc": "Medieval castle hotel, championship golf course, elegant dining, family-friendly grounds",
+      "longDesc": "A stunning 16th-century castle nestled in 375 acres of parkland, offering families luxury accommodation with both adventure and relaxation. Perfect for creating unforgettable Irish memories.",
+      "gmapsUrl": "https://maps.google.com/?cid=6003460564324082872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Romantic",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.8,
+      "ratingCount": 2565,
+      "website": "https://www.dromoland.ie/",
+      "photoRef": "places/ChIJ748FdHFrW0gRuGSaV5OTUFM/photos/AcnlKN0wb4M7c3rKfaAbQnqtQL8Bka8TwUGoPE8cCQ5cgpddW4vZYpyQ2zKoSJ9OCxhRhWvABbyws73R4inkENp8AVci2X_6XNJyjX5uJHg21IhNxJhdrT8x6IiGq4CO-M3ZhH_yCp2IglSYoGHpvLWYJyd0zIhr-zyk0br7F4FeSRJyLj8xR88YAv9wjVW_W7XSiPqLjBJhto4Q5gzltoZfneaqvSfqxiMj6CyHPh2gprPpwglq43nHa37-1NdtVB_a2-iKqHSPFBTFgPQ61OKE1xYfx_ZB_haFNNww_1f0xflrbw",
+      "photoAttribution": "Dromoland Castle Hotel",
+      "placeId": "ChIJ748FdHFrW0gRuGSaV5OTUFM",
+      "phone": "(061) 368 144",
+      "address": "Dromoland, Newmarket on Fergus, Co. Clare, V95 ATD3, Ireland"
+    },
+    {
+      "name": "Waterford Castle Hotel, Self-catering Lodges & Golf Resort",
+      "coord": [
+        52.253232999999994,
+        -7.059295
+      ],
+      "desc": "Island castle hotel, river views, medieval charm, tennis courts, family suites available",
+      "longDesc": "An enchanting 16th-century castle situated on a private island in the River Suir, offering families a truly magical stay with historical ambiance and modern comfort.",
+      "gmapsUrl": "https://maps.google.com/?cid=1399275793078738277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Photography Worthy",
+        "Romantic",
+        "Scenic Views",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1379,
+      "website": "https://www.waterfordcastleresort.com/?utm_source=mybusiness-home&utm_medium=organic",
+      "photoRef": "places/ChIJBTX21mLzZ0gRZd1Cjes5axM/photos/AcnlKN3xDRKhuNxLWBgRBpF1qOhiQ1uwY727TqnjFfPSVXPm7X43mc8RE2ZEGbqqQI0VCn3F34CrwKsDt6QmFlJMNp7I6qnveNZDpegNjrKtpTUcMaAyqKngc5B1uYwfqlmgeRw-yn-bdW0FyDG-Dn4e251GeMwOGbFMAq6Mz9GjFCkr8_vhXBYUBl4yoSTkKqOtOmGGMW0rum0RNrbj3iqe57kJwoSc93FlV3RsIF5Gj829z_84hDmWFKKxOfJ2W4yLcgC9EfmF5d9HMAeN3WG4FRUsNyXEGNWG6ZamvPS1Q4Do4Q",
+      "photoAttribution": "Waterford Castle Hotel, Self-catering Lodges & Golf Resort",
+      "placeId": "ChIJBTX21mLzZ0gRZd1Cjes5axM",
+      "phone": "(051) 878 203",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "The Island, Little Island, Ballinakill, Co. Waterford, X91 Y722, Ireland"
+    },
+    {
+      "name": "Hayfield Manor Hotel",
+      "coord": [
+        51.891013199999996,
+        -8.489652099999999
+      ],
+      "desc": "Five-star manor hotel in Cork city with gardens and family-friendly amenities",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7321969459490723627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Romantic"
+      ],
+      "rating": 4.8,
+      "ratingCount": 1979,
+      "website": "https://www.hayfieldmanor.ie/?utm_source=mybusiness&utm_medium=organic",
+      "photoRef": "places/ChIJAzIH9COQREgRKxc0EW7cnGU/photos/AcnlKN3NdJ7cjzQHjGJxKCYDqks_mXUa51hBkcaPHD5j0GoyYsWTXI9vwVT_AYVLpn-waIWbe61V-5BOV6xELNl4K7PPg7XBJu4p0OP-Nc3igmT8qEWsoknynjgEYHK-1KCUTzYLF1SR2lHTWFDf4xWUR7NN_EIgXM-OXWvSf3eDsuw7pIVhDOB-UERqDQUbvVMCdWGmKNvI7jAFXlXur0CLGjAJ40rvpxl-UecVzVZlhPc-M8n1_7YQggZi3e2rDmlNSSUg5xTJCAsDJVtaosA25TCBaod4phoCyYBDkUp-b8fkcQ",
+      "photoAttribution": "Hayfield Manor Hotel",
+      "placeId": "ChIJAzIH9COQREgRKxc0EW7cnGU",
+      "phone": "(021) 484 5900",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Hayfield Manor Hotel, Perrott Ave, College Rd, Centre, Cork, T12 HT97, Ireland"
     }
   ],
   "restaurants": [
@@ -211,7 +310,10 @@
         "Fine Dining",
         "Splurge",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Reservations Recommended",
+        "Scenic Views",
+        "Iconic / Must-See"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=14463671583304199373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.5,
@@ -241,7 +343,9 @@
         "Cocktails & Bars",
         "Local Delicacies",
         "Casual Eats",
-        "Budget Friendly"
+        "Budget Friendly",
+        "Off-Hours Eats",
+        "Hidden Gem"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=10494175191858656146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -272,7 +376,9 @@
         "Cocktails & Bars",
         "Local Delicacies",
         "Casual Eats",
-        "Budget Friendly"
+        "Budget Friendly",
+        "Off-Hours Eats",
+        "Hidden Gem"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=8013964487865987302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.5,
@@ -290,6 +396,403 @@
         "Saturday: 12:30 – 8:30 PM",
         "Sunday: 12:30 – 8:30 PM"
       ]
+    },
+    {
+      "name": "The Winding Stair",
+      "coord": [
+        53.3466667,
+        -6.263611099999999
+      ],
+      "desc": "Riverside bookshop restaurant, Irish cuisine, literary charm, cozy atmosphere",
+      "longDesc": "A unique restaurant housed above a beloved bookshop overlooking the Liffey, serving authentic Irish fare in an intimate, story-filled setting perfect for families seeking character and comfort.",
+      "gmapsUrl": "https://maps.google.com/?cid=17156732393871140613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies",
+        "Family Friendly",
+        "Off-Hours Eats"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2511,
+      "website": "http://www.winding-stair.com/",
+      "photoRef": "places/ChIJd03hP4MOZ0gRBWcgQzb1GO4/photos/AcnlKN1x67nQb8mQ0VP-STDuzAYE75KZHP049OFeHgLDTHrvxJ4yLxz0yDgKjkLvU6sIBcrQn0EPMmmheXBTCHjxQBnt_8dfyyzeJWJoxCgV--4_Ubpa3ggsSn9jm_AWPEHTvDDkZglN0skYnf0Gr2umtA2PGrZBOohBRVIQpeWMNdw6oOambb06QXC_advp379wFmpAHaparFWk5UkiJGXAbvcaGidEPYmSKlGl-vQhCk4JcPcLNtafGKjY6QMiRkxtewVcrHP4TWS_KpXe6OCDEPEFUdeWGkzvWP6nBdVH9v1Y5g",
+      "photoAttribution": "The Winding Stair",
+      "placeId": "ChIJd03hP4MOZ0gRBWcgQzb1GO4",
+      "phone": "(01) 872 7320",
+      "hours": [
+        "Monday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+        "Tuesday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+        "Thursday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+        "Friday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+        "Sunday: 12:00 – 3:00 PM, 5:30 – 9:00 PM"
+      ],
+      "address": "40 Ormond Quay Lower, North City, Dublin 1, D01 R9Y5, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Ballymaloe House Hotel, an SLH Hotel",
+      "coord": [
+        51.8650555,
+        -8.07484
+      ],
+      "desc": "Farm-to-table coastal dining, fresh seafood, elegant ambiance, garden setting",
+      "longDesc": "An acclaimed restaurant on a family-run estate serving exquisite seafood and vegetables from their organic gardens, offering a refined dining experience that celebrates Irish culinary excellence.",
+      "gmapsUrl": "https://maps.google.com/?cid=17891339999072644885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Photography Worthy",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 935,
+      "website": "http://www.ballymaloe.ie/",
+      "photoRef": "places/ChIJg7SuuqZ7Q0gRFW920O_OSvg/photos/AcnlKN28XiOEn8BZ2SXzoLvHrE2IzUtqJXmmIIEZI0IZNW2HCimEdjCNfIO3G0IkhIr9_lNmUdw9TrVI3CBxCb0ur9teLVh1ouHOGcsnsh9utrpbpoGDrAvQmmolzEz6EWhySRNe_rAVV0YMGOV_DwmLMDLjVGuHDRjkTZ_9Qdu66YbUWhB-BI0FTwYe8usypFOIvPtcIsHc67yj7xJGJbn5ggbr86B-9Nk116z8-rhnSKVcAfGtPJF_klcEu8q7AX_Gna2veFRZFo0XMmyOsqGq7Vfy2t6vd0bnexyC4U6kSKQFTw",
+      "photoAttribution": "Ballymaloe House Hotel, an SLH Hotel",
+      "placeId": "ChIJg7SuuqZ7Q0gRFW920O_OSvg",
+      "phone": "(021) 465 2531",
+      "address": "Ballymaloe More, Shanagarry, Co. Cork, P25 Y070, Ireland"
+    },
+    {
+      "name": "Market Lane",
+      "coord": [
+        51.898388,
+        -8.468105999999999
+      ],
+      "desc": "Popular restaurant on Oliver Plunkett Street serving modern Irish cuisine in Cork city center",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11784005841980078082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "rating": 4.6,
+      "ratingCount": 4196,
+      "website": "http://www.marketlane.ie/",
+      "photoRef": "places/ChIJYX7JmQ-QREgRArhZAuEyiaM/photos/AcnlKN2d9mKHlTDcNMl6Z43evI7SENK1Com4qlhwqpcYcGLCpdXU5a-TTyoxEbqOLg0TXjnrdkG1mtwOOVdsS9eEr-utxQeYSVRxFh39vz-mR3GY11F6AO_xjjwohqwhWhz4vlPTZoueMfMJkGoJl2wm2T1-ly7qsLgN6qNq4VWRYY-MpPGRdEH7yRVCaDvnuNsQQutZ2hvxVQQdAwy3c7mKmeppUK9Vvn9AV2JOJySBtIGW8PYSGQGWT0sehfa4LltucuCXo9I_yHNj3RmGLPhzXcRbsx5tL0wWxBdgOSJHdcm_Kg",
+      "photoAttribution": "Market Lane",
+      "placeId": "ChIJYX7JmQ-QREgRArhZAuEyiaM",
+      "phone": "(021) 427 4710",
+      "hours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 12:00 – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:30 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "address": "5-6 Oliver Plunkett St, Centre, Cork, T12 T959, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "The Farmgate Cafe",
+      "coord": [
+        51.897736099999996,
+        -8.473929499999999
+      ],
+      "desc": "Traditional Cork restaurant above the English Market, farm-to-table Irish cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4167228630193944572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies",
+        "Hidden Gem"
+      ],
+      "rating": 4.5,
+      "ratingCount": 959,
+      "website": "http://farmgatecork.ie/",
+      "photoRef": "places/ChIJhy7YVQWQREgR_DeMOFz41Dk/photos/AcnlKN22m_MWvhGz6tZhNnpzhTTrB4d-zLtj-Dvl8JsfF4IUnLVYRWgidO7vMT9VzwsFL_jYhWm0Afd4hfsSgSmYvaJIZi3xxrbVoJux7be_UkNzLpVgWddYfqsr1DjWBamFwXw14er524aRETA5aXmpqOnxbVpruFIxsp4LcLMUXq84h_aiZfMNtI4IIjpubu7zm6bwDo9H31nVZch_RxbIwW9uJevr9jne-CwsyP185XXYkZZTWTaMsBItgMdr7YalzffwimoPj7LI5IQTw4TT5LJupBGCYEzeYkZa1y_hxYl280OMzG0NH3aUlZ709gt-hUr4IN056cao1TtTRjFqyF5NiAY8OLwZni6dbNfeZAika1X8EspivxViGBPLzpx5HVxXGtLpLMuGxAibFL3ZG1RJYuuZV0GlPPyEoqEcxPIpTA",
+      "photoAttribution": "Khamphon INTHAVONG",
+      "placeId": "ChIJhy7YVQWQREgR_DeMOFz41Dk",
+      "phone": "(021) 427 8134",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 3:30 PM",
+        "Wednesday: 9:00 AM – 3:30 PM",
+        "Thursday: 9:00 AM – 3:30 PM",
+        "Friday: 9:00 AM – 3:30 PM",
+        "Saturday: 8:30 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "The English Market, Princes St, Centre, Cork, T12 NC8Y, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Munster Room Restaurant",
+      "coord": [
+        52.2533506,
+        -7.0593333
+      ],
+      "desc": "Castle's fine dining restaurant with river views and children's menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11727247828830808526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 7,
+      "website": "https://www.waterfordcastleresort.com/dining/munster-room-restaurant/?utm_source=mybusinessMUNSTER&utm_medium=organic",
+      "photoRef": "places/ChIJlTMDOCPEQkgRzmluRsSNv6I/photos/AcnlKN0D3U2-pbTohW6ME_uqz_QF7QAwR_u50FmSTnTGLSnjwqsCL5_4NRdxvR9qLOaI0fS0xoirIj1WPnZSqg0bei7kGV-IGiEYX1Gdxp1coJKvfxEFq2amZLEdT60pOpo3wv1jqYjfVN7gbxMFK5I1nxnepLfSztqEHqryVYiW1QdKFvabTlpsUX8o4vxiWfGLIpXB3AnYxbgocoo9zwpklNiqWXTvv2olKr3TdH9Mpm200BiutVjgecnYB1ToTHg2AynJ_j9ITGGYECEUboKYTeB1cU-Sz-naNb9AsxtBW9bc4A",
+      "photoAttribution": "Munster Room Restaurant",
+      "placeId": "ChIJlTMDOCPEQkgRzmluRsSNv6I",
+      "phone": "(051) 878 203",
+      "hours": [
+        "Monday: 6:30 – 8:30 PM",
+        "Tuesday: 6:30 – 8:30 PM",
+        "Wednesday: 6:30 – 8:30 PM",
+        "Thursday: 6:30 – 8:30 PM",
+        "Friday: 6:30 – 8:30 PM",
+        "Saturday: 6:30 – 8:30 PM",
+        "Sunday: 6:30 – 8:30 PM"
+      ],
+      "address": "The Island, Ballynakill, Waterford, X91 Y722, Ireland"
+    },
+    {
+      "name": "Fig Tree Restaurant at Dromoland Castle",
+      "coord": [
+        52.7821784,
+        -8.9089244
+      ],
+      "desc": "Castle's relaxed restaurant with garden terrace and children's menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4293287309308846002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 57,
+      "website": "https://www.dromoland.ie/dining-fig-tree-restaurant/",
+      "photoRef": "places/ChIJXUUVK6prW0gRst8Lng_SlDs/photos/AcnlKN2zJ83foY_PRClQByT3VvTmZJ_RpJp0jcfCvge9oErNrPp1EJdAUP_SpQHy4HXpDnQZ7caCh7SKFI78YpcCSQxN_vDF2wcRuiJM-EUL4wQnYwZ6VyDzSWx1Nw8eEawfso38BtbIKvl0yhiZk0Pan99l_4brfdo_kDzI7wNDeCrMPoQUopVL1-qtuq7GQ6pxax871oiiX9kls1B10wcqaqBmbEenTb6gZmTM5qe8C_xVIUql9hxAyQFYk6EyzxX5UOgEOSje-iRImZD9gqSIBbtOX9uPZDbFMzHs0AGdLNod3g",
+      "photoAttribution": "Fig Tree Restaurant at Dromoland Castle",
+      "placeId": "ChIJXUUVK6prW0gRst8Lng_SlDs",
+      "phone": "(061) 368 444",
+      "hours": [
+        "Monday: 10:00 AM – 8:30 PM",
+        "Tuesday: 10:00 AM – 8:30 PM",
+        "Wednesday: 10:00 AM – 8:30 PM",
+        "Thursday: 10:00 AM – 8:30 PM",
+        "Friday: 10:00 AM – 8:30 PM",
+        "Saturday: 10:00 AM – 8:30 PM",
+        "Sunday: 10:00 AM – 8:30 PM"
+      ],
+      "address": "Dromoland Castle, Dromoland, Newmarket on Fergus, Co. Clare, V95 ATD3, Ireland"
+    },
+    {
+      "name": "Moran's Oyster Cottage",
+      "coord": [
+        53.210929500000006,
+        -8.895266
+      ],
+      "desc": "Historic thatched cottage pub and restaurant in Kilcolgan serving fresh seafood and oysters",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16980999591700702233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Hidden Gem",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.8,
+      "ratingCount": 2991,
+      "website": "http://www.moransoystercottage.com/",
+      "photoRef": "places/ChIJe9OAab-aW0gRGaRf0iihqOs/photos/AcnlKN2Ihv8N0EdoxWyG61TxQWczb52lMqT0q_vgqxbpnB_XtcqjI0UFDZK8vw7akNUbgSo6U3aF1eWgdke5bqtINsw77scwac6orelre_CvqcjoBlsx2zOfF18aA08vZ6PNZT8z6vhrDsGMDfZmlXvtwy3_jfaAeCdtrF6cllOsEA_wpOm9IONgMSebVZ80fgBldAZ7dhSpbOvUmLXU4vhLE2yfU4Gy1eHR2t3X6DFYcLaNFi-vLVXOnIUk6hoLuUNXZr6x6zV5Ao2YwOiPnIzzOm_GECXPhb60uCTuzGzEhAPFS9a2UEf87QJcwN46NZgQwaqG2Cff34KqGMglQtMrblWW8cjQZrS6UkxlO7IGtQeHzKQ7urkWWbSTbVEFngisynHIx-cYKeYT82vUFeF5UvUFd2iFRxf8PmTD8OJhhXc",
+      "photoAttribution": "Marina Sapozhnikova",
+      "placeId": "ChIJe9OAab-aW0gRGaRf0iihqOs",
+      "phone": "(091) 796 113",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 1:00 – 11:00 PM",
+        "Wednesday: 1:00 – 11:00 PM",
+        "Thursday: 1:00 – 11:00 PM",
+        "Friday: 1:00 – 11:30 PM",
+        "Saturday: 1:00 – 11:30 PM",
+        "Sunday: 1:00 – 11:00 PM"
+      ],
+      "address": "The Weir House, Rahaneena, Kilcolgan, Co. Galway, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Kylemore Abbey & Victorian Walled Garden",
+      "coord": [
+        53.561639199999995,
+        -9.8893127
+      ],
+      "desc": "Scenic tearoom at Kylemore Abbey with children's lunch boxes and gardens",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17412239052951531945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 17014,
+      "website": "https://www.kylemoreabbey.com/?utm_source=mybusiness&utm_medium=organic",
+      "photoRef": "places/ChIJ6Q5Npx4vWkgRqTFcJyqzpPE/photos/AcnlKN3FjkYqPo09aAm-cKdfO0caqSnyoGlk3BPfgCyHJhqZE_RoHYh_54miODGn6-zA3mBbS5Z654BXOmFoqN4fHNi_vwzY39HuP8bDckExZEGHbVP_APaEGqbF2dXo5Sex7krPzxn_BUvUgdNLowouLlOKSsJQ3TG0O4Ijdgah1vDna1dgg4RNtHSKbufDfr45TKXzCJBm5hao-XFDoNw7Szj_X4SyjICZfvD2ApTpgEUW8XcdjGUFjzp93RDcuiIqv5GmxLRXX-ZXMOqN5GNiDKDtPJVFyS6VChXLXTfmEU8GZO_4wpCyzBqRj8AVtH_j-ooVLIOj159cMXg5eHyvbgMXl0pJkBujpyLi26blguVDNZDhQA7nzkVOtTFxHtOT28oCyifbkwCRy4PYRo2lvUAxNRMVZ9GGSdxl-D0aAhn8Rw",
+      "photoAttribution": "M Bombi",
+      "placeId": "ChIJ6Q5Npx4vWkgRqTFcJyqzpPE",
+      "phone": "(095) 52001",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Pollacappul, Co. Galway, Ireland"
+    },
+    {
+      "name": "Gus O'Connor's Pub",
+      "coord": [
+        53.0124359,
+        -9.3864399
+      ],
+      "desc": "Traditional thatched-roof pub in Doolin with hearty Irish fare and kids' menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14731319824944524964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Local Delicacies",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.5,
+      "ratingCount": 5548,
+      "website": "http://gusoconnorsdoolin.com/",
+      "photoRef": "places/ChIJ22jcq1MHW0gRpO58tlQpcMw/photos/AcnlKN0AEtM8YELWIz2WCmmZmkezVG8FzuHuMBaUlJ6_6OeXzmbCsAjIRgP966pqFrT6LmmyZpRASJY5Ti53nVHc45-ZiY1bYIjW5iePMXVHos7K8wc6hm9aKXn_2a_QIyBwLclPZj18_t3rQYn1SZkZuOtt5BoEC79ZRzAwr7eYiYyFvTW17tspbOUd7alQOSASMdtisbodfYgxGeQy1cWpUy6nRM-N5xvN5jQ-keyCnh9jMNsfWqIVwwi3r7VkYtiA_Wh-ahhV_RNXUk8y78x-07Euj7cgY0RDZ3LW02ySnlfZxQ",
+      "photoAttribution": "Gus O'Connor's Pub",
+      "placeId": "ChIJ22jcq1MHW0gRpO58tlQpcMw",
+      "phone": "(065) 707 4168",
+      "hours": [
+        "Monday: 9:30 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ],
+      "address": "Fisher St, Doonmacfelim, Doolin, Co. Clare, V95 FY67, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Earl of Thomond Restaurant",
+      "coord": [
+        52.7836589,
+        -8.9057537
+      ],
+      "desc": "Castle's fine dining restaurant with formal atmosphere, children welcome",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1863066069429589650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Dinner",
+        "Romantic"
+      ],
+      "rating": 4.9,
+      "ratingCount": 27,
+      "website": "https://www.dromoland.ie/dining/dining-earl-of-thomond/",
+      "photoRef": "places/ChIJ4wno2atrW0gRkhZvHbjw2hk/photos/AcnlKN2EnOVU78IDzQal9RMoc7-T_Wj_L8uJ7Opm0qP_q4Ewus2MboS7_Oy1DdzH-YX8hXYaE6tX5ut_PH5eh8azZha7TPPweycyX0r1AOY4-Yhw92R2ZOzb_yEvX3Ij2i6tP8Vs0WNRf_PN3jI1VJB-ItNjoRAjFuD0XLA0RmbikoIzpvUJMO3v3_FQ9xCNVdmxbiqDWX_OuKhch5AwvWiRZVS6uuOMKPgMSYyqB2QXhVFeOZs-phiBrd7EWcvTqCTPGHpn1jNDe5Px4aPOeeDkSZFQeIYwWMcSmmq8enGPzZbEDA",
+      "photoAttribution": "Earl of Thomond Restaurant",
+      "placeId": "ChIJ4wno2atrW0gRkhZvHbjw2hk",
+      "phone": "(061) 368 144",
+      "hours": [
+        "Monday: 6:30 – 10:00 AM, 1:00 – 4:00 PM, 6:00 – 9:30 PM",
+        "Tuesday: 6:30 – 10:00 AM, 1:00 – 4:00 PM, 6:00 – 9:30 PM",
+        "Wednesday: 6:30 – 10:00 AM, 1:00 – 4:00 PM, 6:00 – 9:30 PM",
+        "Thursday: 6:30 – 10:00 AM, 1:00 – 4:00 PM, 6:00 – 9:30 PM",
+        "Friday: 6:30 – 10:00 AM, 1:00 – 4:00 PM, 6:00 – 9:30 PM",
+        "Saturday: 6:30 – 10:00 AM, 1:00 – 4:00 PM, 6:00 – 9:30 PM",
+        "Sunday: 6:30 – 10:00 AM, 1:00 – 4:00 PM, 6:00 – 9:30 PM"
+      ],
+      "address": "Castle Hotel, Dromoland, Newmarket on Fergus, Co. Clare, V95 ATD3, Ireland"
+    },
+    {
+      "name": "Durty Nelly's",
+      "coord": [
+        52.6963739,
+        -8.8116933
+      ],
+      "desc": "Historic pub beside Bunratty Castle with traditional Irish food and family atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18386911043352341148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Local Delicacies",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 3662,
+      "website": "http://www.durtynellys.ie/",
+      "photoRef": "places/ChIJr8uOpBxCW0gRnCq5By1uK_8/photos/AcnlKN0gJUVAuxm_YPSv_s4P1b2Lr7Wh22sKnrg24n7cFFnRficGO59WEuWgf1S0mImGHX407KrbJlrxAN1cQuxNTtbNLlKMYE8bdkb3nkVg_tG5WyAVrVtGO3FcWNKApH9j4m4eJhYdXVw9cDQlMiwkPVa_9dvKubMPSVKpn3q-cCoyHergxqUngskGfwXyRjxtuQmzp84V9PHbBftDjEtvMkG3C7bnZJNPq2NedOYHI8Ok-l81tt-yO7OTU3xAK3-oHC4eAWU1w58TdgSeoumN-QUJfXOUkF-BrQowW6NITOUUMw",
+      "photoAttribution": "Durty Nelly's",
+      "placeId": "ChIJr8uOpBxCW0gRnCq5By1uK_8",
+      "phone": "(061) 364 861",
+      "hours": [
+        "Monday: 12:00 – 11:30 PM",
+        "Tuesday: 12:00 – 11:30 PM",
+        "Wednesday: 12:00 – 11:30 PM",
+        "Thursday: 12:00 – 11:30 PM",
+        "Friday: 12:00 PM – 12:30 AM",
+        "Saturday: 12:00 PM – 12:30 AM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "Bunratty, Co. Clare, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Wild Honey Inn",
+      "coord": [
+        53.0286124,
+        -9.2957336
+      ],
+      "desc": "Michelin-recommended restaurant and inn in Lisdoonvarna serving contemporary Irish cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3845511171255123956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Splurge"
+      ],
+      "rating": 4.6,
+      "ratingCount": 177,
+      "website": "https://mymenuweb.com/uk/restaurants/750852/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin",
+      "photoRef": "places/ChIJB2w9Px2oW0gR9D91LgkAXjU/photos/AcnlKN0h8tO4kRE_zAusrfl_N8EJs7RKXgtQdpWvzFZ3p_L-8grCuF7N-rlpJ8P4Kln5Y4WfuDN5ReHwnUtn_euZwemaXWLU2xJ9a_NgugVk8NJ1ZGFt88Kqk0bQx9uGtra4_-H8lTE08ku58JueFBPfWvaNt2ipDwzUSu37pgkln2aCkiz4Ur9uWH9g7Y10ngkqYJbRnVbRwyByO2rwqR01w9rU01f2cHikrURZ1hGnf-NeE9wwVsylh4c_2GWh7QD-kOO8pJHoFEiDxCrqjWGN8x_aIvS6V34BQ1Ha46M5hBlD3Q",
+      "photoAttribution": "Wild Honey Inn",
+      "placeId": "ChIJB2w9Px2oW0gR9D91LgkAXjU",
+      "phone": "(065) 707 4300",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 6:00 – 9:00 PM",
+        "Wednesday: 6:00 – 9:00 PM",
+        "Thursday: 6:00 – 9:00 PM",
+        "Friday: 6:00 – 9:00 PM",
+        "Saturday: 6:00 – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Kincora Rd, Rooska, Lisdoonvarna, Co. Clare, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
     }
   ],
   "experiences": [
@@ -306,15 +809,267 @@
         "Outdoor & Nature",
         "Adventure & Active",
         "Family Friendly",
-        "Romantic"
+        "Romantic",
+        "Scenic Views",
+        "Full-Day Activity"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=6531942507307843435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "photoRef": "places/ChIJwaMokQM1WkgRa79bSRofplo/photos/AcnlKN2B8DiesZgtB_Y5JZ55bteuqofL_UStUL4tKJr2ZEOR83MGvpN6l6FvZEoEYwrUx5ZLqKtd0XMW_e-S7QkQZEo8icDd2uoYS84eFF4xW7G1ykAooNjRXZ8PvBCYorx3ku8iR8-DJ9Aitq7aCeiqz6cfwy5yoM9X2WUQgSBrDhhKfQ835esY1uRxKYn1jrqv1-5JRhIOHG7jNvc-pkS4UkjlhjsJgofa3pfHt0iuKCrT3IzJRYDDGC26fV9EOYFzp_ZYNFVrn6lNwN78hrKzdRadsvLSiUZDaSFNDujZN_0-W0FpU1dJwymttVqemBpYTS3eGUCQrTsvySEQbtKI__YwOc4cZ-rfCxLSV-pjsGsG_cYkMlDuEnQS94YlpqAE-YeoniHsQljZB0dnyJFbr5JRAHPz3a3ZRWkLVzp_VVtYPQ",
       "photoAttribution": "Shane O'Malley"
+    },
+    {
+      "name": "Titanic Belfast",
+      "coord": [
+        54.608110599999996,
+        -5.909951100000001
+      ],
+      "desc": "Interactive Titanic museum, shipbuilding history, immersive exhibits, family galleries",
+      "longDesc": "A world-class museum exploring the Titanic's story through interactive displays and authentic artifacts, engaging families with both education and adventure in a stunning modern building.",
+      "gmapsUrl": "https://maps.google.com/?cid=5486917735018820114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 40376,
+      "website": "https://www.titanicbelfast.com/",
+      "photoRef": "places/ChIJcYljJ7AJYUgREnKW65tyJUw/photos/AcnlKN1qWU51VNGARZrP-K_SzE7oQwVmmJDBHni7mHfgUMURZUSHxpifoBC2ULqKxeg0Oo8gcidLQXW-SBGh9O18z_AKd8aMBQEDdLQdR93vrqMyR7McfmTvyv-xIyii1y4Nmvg1WRG4_-Mk0qDN6-5Y6VCTog50nMvlmMvzU42GCJP2JrVfYTBc5h8aUxS1SF9kCrfuZwORsYgFDuyA4n9U2LX46v7lCZS3rMTK5Xjxk4Q7ZTZqRIRZk1BRr4EIBmF5MO0xh1-qkJQBWtdXIoBg1DnaFKJ2akYVEkOgYMBmbehBllqjLFQ7CC_-m7S7pRa6jYB_UH43JfkrC0yEEHLe3gU_WdJvemGDIv6-dCRbAMPnvkZZc5_ia6ehOIli2uALXw3yISyziNVJJl621Up9L1JDpUki2TSVMDYnbf5RPZ4",
+      "photoAttribution": "Oleh Ryshchykovets",
+      "placeId": "ChIJcYljJ7AJYUgREnKW65tyJUw",
+      "phone": "028 9076 6386",
+      "hours": [
+        "Monday: 9:45 AM – 5:00 PM",
+        "Tuesday: 9:45 AM – 5:00 PM",
+        "Wednesday: 9:45 AM – 5:00 PM",
+        "Thursday: 9:45 AM – 5:00 PM",
+        "Friday: 9:45 AM – 5:00 PM",
+        "Saturday: 9:45 AM – 5:00 PM",
+        "Sunday: 9:45 AM – 5:00 PM"
+      ],
+      "address": "1 Olympic Wy, Belfast BT3 9EP, UK"
+    },
+    {
+      "name": "Hook Lighthouse",
+      "coord": [
+        52.123745299999996,
+        -6.929368299999999
+      ],
+      "desc": "Medieval lighthouse, cliff-top views, coastal walks, guided heritage tours available",
+      "longDesc": "Ireland's oldest operational lighthouse perched dramatically on a rocky peninsula, offering families breathtaking coastal views, fascinating history, and scenic walking trails along golden cliffs.",
+      "gmapsUrl": "https://maps.google.com/?cid=510429995167899075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 8952,
+      "website": "https://hookheritage.ie/",
+      "photoRef": "places/ChIJJ2eKKgeVQkgRw92vUGBpFQc/photos/AcnlKN2qz0eGzz1Bv4KeqCqvkF6XPvKhIfgalBTIIo1iWZtJa2wO3-x1XUNCvR0j2R7LDqljnDw6bt8PUfuBMSBFpS3MdL8anMgU2InP1BqzdNzT_O4Fizk1D4_lWZAPxcGifQNhNfuCxTNnYp-0wrCQ7LT8El-pN_6hl1Y_ST1ZWOoccn4q2Dd8TGXIF_CD6FAHi5xFCPSwHLS3tV1vgvgv2hF49RSZXhVZCC0nO3cc5zqafh15W2XFGORHB0LwNT5oBl38MPZ3kA7DdEhyGBFOeABdGRdKsi2XFXXwtDeWyb0Cv8oOfnQ1tW6Vy6wByJV4oCEES6U1rIfRliuxJMLKtArvWnqxf_Qh_j14VxBOd1458RtgenNsL76iQhsmTrFHBDO9HZA6DWAz1L4Jsao37A-vwrnjAkcCzQy1QBRm_vJx6G7vhAV9oJa2sNGN7OC9",
+      "photoAttribution": "Stuart Aldridge",
+      "placeId": "ChIJJ2eKKgeVQkgRw92vUGBpFQc",
+      "phone": "(051) 397 055",
+      "hours": [
+        "Monday: 9:30 AM – 5:00 PM",
+        "Tuesday: 9:30 AM – 5:00 PM",
+        "Wednesday: 9:30 AM – 5:00 PM",
+        "Thursday: 9:30 AM – 5:00 PM",
+        "Friday: 9:30 AM – 5:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 9:30 AM – 5:00 PM"
+      ],
+      "address": "Hook Head, Churchtown, Co. Wexford, Ireland"
+    },
+    {
+      "name": "Dunguaire Castle",
+      "coord": [
+        53.142160999999994,
+        -8.9259682
+      ],
+      "desc": "16th-century tower house castle on the shores of Galway Bay in Kinvara with grounds to explore",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1922503405661348635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Scenic Views",
+        "Half-Day Trip"
+      ],
+      "rating": 4.3,
+      "ratingCount": 5133,
+      "website": "https://www.dunguairecastle.com/",
+      "photoRef": "places/ChIJBdUB_SFCW0gRG2PsXakarho/photos/AcnlKN3AQ3mNNvVbI6LkhBsU8I3UshnjH17vhm-_vq8hhuBdVr9Cyg9g3DkasCYL9Unja9APKml-kWNhmW-iFglWtBJuc6_mTI7XVOutxwik3LzBjkH5BLlEKW8zpksQCbEXqFVg6bhFXMq1Cpr-F-rCmXnvu0wzBjF4ez-mjbm9OdHm7ESwEjMKT2-QfmNVFXKicQ6PtzSQlugLxL4RBeMzb5vmk-QaRY0HG6y6H35p3uFQjUSv1sad9_CSye4CFUey1UssyM0b_jxBEiLo9dDv0_c729zjlP5b96YHG0K8vea0M56yH3yvtHz_r_iGulGvusN8rp5dqF64dedj0pfbhskMQykn-IzscJ5_3CttjfwqUZ-_A1YjVc1t3Nt6jejDZR0u5WuquMlCeO_P7mS5pDUvWV3NuNGJt3A1lDDfBvxWEg",
+      "photoAttribution": "Warren Hanna",
+      "placeId": "ChIJBdUB_SFCW0gRG2PsXakarho",
+      "address": "DUNGUAIRE CASTLE, Dungory West, Kinvarra, Co. Galway, Ireland"
+    },
+    {
+      "name": "Cliffs of Moher",
+      "coord": [
+        52.971536799999996,
+        -9.4308825
+      ],
+      "desc": "Iconic dramatic coastal cliffs rising over 700 feet above the Atlantic Ocean, one of Ireland's most visited natural attractions in County Clare",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2898706895675637990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Iconic / Must-See",
+        "Photography Worthy",
+        "Scenic Views",
+        "Family Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 8609,
+      "photoRef": "places/ChIJ84G4C68BW0gR5sC4SJBGOig/photos/AcnlKN3WIt41nBngLZehh1-IBZyxDK2RLD8xGxhroow_nAUCDp0Kueh5RARBCoFRIkbVrem_8l9D-9ECs-umQ_tJlOaoIyUStd1Hso4hi-k-bsFS0Q5H-u5TJ-mbKUMAjfdpAyzjeqRiWu1Al3Hu8M32iFOZYJiVBGwfYlbZQYW-7mQvw6hFWvTDjb1hSqOSnBUTauhKupufwX_bgnlT9p7sHunVFyHmPzK68M65CU2NM4UeDXOXbIsx9sjFWXg95U5SsH-UJilX3JwdrMuaf-HsqA7qYhHsYTrlmMSXaMJTCPT1urATfjxrJKx2-PfFBS-a9c1LEVwmHiCraAOu_vGUk5Q54W3LqTOmwyED2GAh7UupJL04wRk0nt524GDYh28bXTKpnL3frYJrhD3ePuRXY2ruABjBJCihK5tBMpgfxnV1MQ",
+      "photoAttribution": "Md Saiful Islam Bhuiyan",
+      "placeId": "ChIJ84G4C68BW0gR5sC4SJBGOig",
+      "address": "Cliffs of Moher, Co. Clare, Ireland"
+    },
+    {
+      "name": "Cliffs of Moher Experience",
+      "coord": [
+        52.9707399,
+        -9.4258256
+      ],
+      "desc": "Iconic coastal cliffs with visitor center and family-friendly walking paths",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12712382707930902790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Iconic / Must-See",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 16960,
+      "website": "https://www.cliffsofmoher.ie/",
+      "photoRef": "places/ChIJcUCLuwEBW0gRBjEKQ7h0a7A/photos/AcnlKN3dytZKCA64LLE_SLxG4hIPGD5RT37Mc6aZik2udeETjufq4BKjDlPYsBhzJueugVBobuwa05MmR0D0RItD8KVsCleznTBOUCFJui2AK0PHDDgA416zLD4choBYB79PNMuywu9uSKjPTEnvMh_Ehh0CkuhxVMXdfpJ9XyvcecsjofMuwr_UkFKDztuvJGsFHaOX5mfkAwx3iMiS6QZlYFxD8bS8kbyk7rwOkEoGwV2X5f7YphBP1Ql11iVx7w0bP0v6D1BjiSxqzAbW7qIoiZdDkUtACmP1atc2v_Vpj3NFpg",
+      "photoAttribution": "Cliffs of Moher Experience",
+      "placeId": "ChIJcUCLuwEBW0gRBjEKQ7h0a7A",
+      "phone": "(065) 708 6141",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "Cliffs of Moher, Lislorkan North, Liscannor, Co. Clare, V95 KN9T, Ireland"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Fota Wildlife Park",
+      "coord": [
+        51.890873799999994,
+        -8.3069536
+      ],
+      "desc": "Open-range zoo, exotic animals, train rides, interactive experiences, beautiful island setting",
+      "longDesc": "A sprawling wildlife park on an island where families can see giraffes, zebras, and exotic animals roaming freely while enjoying train rides and interactive feeding experiences.",
+      "gmapsUrl": "https://maps.google.com/?cid=15395630401821312502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ],
+      "rating": 4.7,
+      "ratingCount": 13850,
+      "website": "https://www.fotawildlife.ie/",
+      "photoRef": "places/ChIJF8glDzSDREgR9oXD6UdEqNU/photos/AcnlKN0CJI9oGr7zO5lEQJCFH9U3Cv9hJqVu1C-GYF4nEI0eWKx5QkJSv8hdZmAdjMi2FcbwyA6ZTS3iKdwT91-o6qjN-l5IqBVZZWI3VP1op-e0P4JeIb5T-c9Ljc7-c3wOsxFmt13Ui3mGsZBwG5b_LcSNo1oH5jOHMXIoFkal60Q_7S9QeOFYjN2aLj7t9G5QBQ3vTd1r8-RSpLAj3TxaGyWSt4Bl2HyBkQ0uYyo8-IgcnwNefyg8W212omFFrAavrsa6U7H4_GQhWI5EoRRzzDFaRLTSB49fMi2pzIdAHcuTYyvxTnyInLE5KP5-UhXKMzXLiAa2j5QqngqPuPLeuZpSPtSLpfNbI6qu98fO9Zc8UF-LlSnrpbJ6cKHFrrRjMl_5k6oUklAwqG80WSGIOMAx_B26fUBtsqst_HUbAKAwVMk_nmfHImXetr9HDNrl",
+      "photoAttribution": "Damien Mc Sweeney",
+      "placeId": "ChIJF8glDzSDREgR9oXD6UdEqNU",
+      "phone": "(021) 481 2678",
+      "hours": [
+        "Monday: 9:30 AM – 3:30 PM",
+        "Tuesday: 9:30 AM – 3:30 PM",
+        "Wednesday: 9:30 AM – 3:30 PM",
+        "Thursday: 9:30 AM – 3:30 PM",
+        "Friday: 9:30 AM – 3:30 PM",
+        "Saturday: 9:30 AM – 3:30 PM",
+        "Sunday: 9:30 AM – 3:30 PM"
+      ],
+      "address": "Fota Wildlife Park, Fota, Carrigtwohill, Co. Cork, T45 CD93, Ireland"
+    },
+    {
+      "name": "Bunratty Castle & Folk Park",
+      "coord": [
+        52.700355599999995,
+        -8.8122455
+      ],
+      "desc": "Medieval castle with reconstructed village, farm animals, and interactive exhibits for children",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1849806111278806037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Cultural & Historical",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 15010,
+      "website": "https://www.bunrattycastle.ie/",
+      "photoRef": "places/ChIJBdUB_SFCW0gRFbQehtvUqxk/photos/AcnlKN0HEJl3xyBZbRkEGSnU_1rwbYESet0JBkjO67MtwzFoVg-23mC1Sha8ZjMt7nnTRUF8hc9NwehXI-SlRnEfDzJ7o9K7dM7u7-7bAkjzxAAGBd7tPol0RVm7ACcojhlaHAEBSp-ZdrvYfSYB1Yj5vqno6VtC1e4qu2QZqVpX9CwcUcCKIByEjo6TUgbhHMM969ciYN4edsJZtV4kJF0Pk51WFdqDsQg-Fye-3vJUMYZX0GDmHPOKMbg1KqkwMY1TfXEd8l8LIEBDWw1kctuIrP1VphXKVUZ-bXqsImWAE0-gEC4MQduUNmFUQAOwq8M52NuSYS_o6aqdRNNFzd7zQmOuqc2HQrnhpWievKEUEFy5_Z-DjqzdYEwB1wmO5U-Wv0vJR149LwXSPkBs1UyUnq3ZjyZ27JFSDaEEJCOTer2g4--1",
+      "photoAttribution": "John McFarland",
+      "placeId": "ChIJBdUB_SFCW0gRFbQehtvUqxk",
+      "phone": "(061) 711 222",
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 5:30 PM",
+        "Sunday: 9:00 AM – 5:30 PM"
+      ],
+      "address": "Bunratty East, Bunratty, Co. Clare, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "markets": [
+    {
+      "name": "The English Market",
+      "coord": [
+        51.897650399999996,
+        -8.4748223
+      ],
+      "desc": "Historic covered market, local produce, artisan foods, butchers, fishmongers, cafes",
+      "longDesc": "A vibrant covered market brimming with fresh Irish produce, specialty foods, and local delicacies since 1788, perfect for families to sample authentic flavors and shop for culinary souvenirs.",
+      "gmapsUrl": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Shopping",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.6,
+      "ratingCount": 11115,
+      "website": "http://www.englishmarket.ie/",
+      "photoRef": "places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AcnlKN3BjwYzgGdyUKtUB-EZVsAkt02CcrZn3WzUlP4CVpKV3e0GwOYgdF9KkGilYFk7Zmm1JffcOr_z49Miv_e2ICWhZeoBd4eJ-oIVcIL5nwiiN6a8_HFpIcfCciaI7S1rVaIFcMZmPVdY6VO_3xkAnGA7MFoTZm9UCHsCp40Dxfaw__C7WVf8hJn9FqVtHm7Lz4gLczgJznujso_wC3vQ_QeZPmjpIWbo9ByyMtGSsSGzrNWGKUhsNTOgq__A-flgI3EUBFkAcczSrM7NnN2J2PyfXwf18TJ8Ryqq-f_YsSwWWViYsFlF_RjNTKVoVIX2dhZhQtf7tY7Br6iPpX5GG1TL6pOQERHvF9itJB1L5lV3B885OM1SNsta-GhhuXBArKViXetLFcFXg0uRmX3poEuYmEJpGt__ZDp0DTB3yfFnGQ",
+      "photoAttribution": "Abdallah Abu Ghalyoun",
+      "placeId": "ChIJt0TfOD2QREgRAENZ1R4VP44",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Grand Parade, Centre, Cork, Ireland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "cityCenters": {
     "Glin": [
       52.5698,
@@ -337,5 +1092,350 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Castles, Coast & Countryside: A Family Journey Through Ireland (8 Days)",
+      "description": "Experience fairytale castle stays, explore wildlife parks and lighthouses, wander historic markets, and discover Ireland's wild Atlantic coastline—perfectly paced for little explorers.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Cork/East Cork",
+        "County Clare/Connemara"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Cork",
+          "dayType": "urban",
+          "base": "Cork/East Cork",
+          "items": [
+            {
+              "name": "Hayfield Manor",
+              "type": "hotel",
+              "suggested": true,
+              "suggestedCategory": "hotels",
+              "suggestedDesc": "Five-star manor hotel in Cork city with gardens and family-friendly amenities",
+              "suggestedCity": "Cork"
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "The English Market",
+              "type": "sightseeing",
+              "coord": [
+                51.897650399999996,
+                -8.4748223
+              ]
+            },
+            {
+              "name": "Market Lane",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular restaurant on Oliver Plunkett Street serving modern Irish cuisine in Cork city center",
+              "suggestedCity": "Cork"
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Ballymaloe House Hotel, an SLH Hotel",
+              "type": "dinner",
+              "coord": [
+                51.8650555,
+                -8.07484
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Wildlife & Coastal Exploration",
+          "dayType": "suburban",
+          "base": "Cork/East Cork",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Fota Wildlife Park",
+              "type": "sightseeing",
+              "coord": [
+                51.890873799999994,
+                -8.3069536
+              ]
+            },
+            {
+              "name": "Fota House Café",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual café at Fota House with garden views and children's menu",
+              "suggestedCity": "Carrigtwohill"
+            },
+            {
+              "name": "Afternoon exploration at Fota Wildlife Park",
+              "type": "freeTime"
+            },
+            {
+              "name": "The Farmgate Café",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Cork restaurant above the English Market, farm-to-table Irish cuisine",
+              "suggestedCity": "Cork"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Historic Lighthouse & Castle Stay",
+          "dayType": "suburban",
+          "base": "Cork/East Cork",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Hook Lighthouse",
+              "type": "sightseeing",
+              "coord": [
+                52.123745299999996,
+                -6.929368299999999
+              ]
+            },
+            {
+              "name": "Templars Inn",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional pub restaurant near Hook Lighthouse with seafood and kids' options",
+              "suggestedCity": "Hook Head"
+            },
+            {
+              "name": "Travel to Waterford Castle",
+              "type": "info"
+            },
+            {
+              "name": "Waterford Castle Hotel, Self-catering Lodges & Golf Resort",
+              "type": "hotel",
+              "coord": [
+                52.253232999999994,
+                -7.059295
+              ]
+            },
+            {
+              "name": "Munster Dining Room at Waterford Castle",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Castle's fine dining restaurant with river views and children's menu",
+              "suggestedCity": "Waterford"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Island Castle & Travel West",
+          "dayType": "rural",
+          "base": "County Clare/Connemara",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning on castle grounds",
+              "type": "freeTime"
+            },
+            {
+              "name": "The Parlour Vintage Tea Rooms",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly tearoom in Waterford with light lunch and pastries",
+              "suggestedCity": "Waterford"
+            },
+            {
+              "name": "Travel to County Clare (3.5 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Dromoland Castle Hotel",
+              "type": "hotel",
+              "coord": [
+                52.7830484,
+                -8.905636399999999
+              ]
+            },
+            {
+              "name": "Fig Tree Restaurant at Dromoland Castle",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Castle's relaxed restaurant with garden terrace and children's menu",
+              "suggestedCity": "Newmarket-on-Fergus"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Castle Grounds & Village Exploration",
+          "dayType": "rural",
+          "base": "County Clare/Connemara",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Dunguaire Castle",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "attractions",
+              "suggestedDesc": "16th-century tower house castle on the shores of Galway Bay in Kinvara with grounds to explore",
+              "suggestedCity": "Kinvara"
+            },
+            {
+              "name": "Moran's Oyster Cottage",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic thatched cottage pub and restaurant in Kilcolgan serving fresh seafood and oysters",
+              "suggestedCity": "Kilcolgan"
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Vaughan's Anchor",
+              "type": "dinner",
+              "coord": [
+                52.9385814,
+                -9.390816899999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Connemara Adventure",
+          "dayType": "rural",
+          "base": "County Clare/Connemara",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Cliffs of Moher",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "natural attraction",
+              "suggestedDesc": "Iconic dramatic coastal cliffs rising over 700 feet above the Atlantic Ocean, one of Ireland's most visited natural attractions in County Clare",
+              "suggestedCity": "County Clare"
+            },
+            {
+              "name": "Kylemore Abbey Tea Room",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Scenic tearoom at Kylemore Abbey with children's lunch boxes and gardens",
+              "suggestedCity": "Connemara"
+            },
+            {
+              "name": "Scenic drive through Connemara National Park",
+              "type": "freeTime"
+            },
+            {
+              "name": "Homestead Cottage",
+              "type": "dinner",
+              "coord": [
+                52.992714299999996,
+                -9.402998199999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Cliffs & Coastal Villages",
+          "dayType": "rural",
+          "base": "County Clare/Connemara",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Cliffs of Moher Visitor Experience",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Iconic coastal cliffs with visitor center and family-friendly walking paths",
+              "suggestedCity": "Doolin"
+            },
+            {
+              "name": "Gus O'Connor's Pub",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional thatched-roof pub in Doolin with hearty Irish fare and kids' menu",
+              "suggestedCity": "Doolin"
+            },
+            {
+              "name": "Doolin village exploration",
+              "type": "freeTime"
+            },
+            {
+              "name": "Earl of Thomond Restaurant at Dromoland Castle",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Castle's fine dining restaurant with formal atmosphere, children welcome",
+              "suggestedCity": "Newmarket-on-Fergus"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure via Limerick",
+          "dayType": "rural",
+          "base": "County Clare/Connemara",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Bunratty Castle & Folk Park",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Medieval castle with reconstructed village, farm animals, and interactive exhibits for children",
+              "suggestedCity": "Bunratty"
+            },
+            {
+              "name": "Durty Nelly's",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic pub beside Bunratty Castle with traditional Irish food and family atmosphere",
+              "suggestedCity": "Bunratty"
+            },
+            {
+              "name": "Travel to Shannon Airport",
+              "type": "info"
+            },
+            {
+              "name": "Wild Honey Inn",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Michelin-recommended restaurant and inn in Lisdoonvarna serving contemporary Irish cuisine",
+              "suggestedCity": "Lisdoonvarna"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

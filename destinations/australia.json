@@ -51,7 +51,8 @@
       "tags": [
         "Family Friendly",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -116,7 +117,10 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -149,12 +153,139 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "phone": "1800 867 169"
+    },
+    {
+      "name": "Park Hyatt Sydney",
+      "coord": [
+        -33.8557543,
+        151.2093354
+      ],
+      "desc": "Iconic Opera House views, luxury waterfront location, world-class dining and spa",
+      "longDesc": "Experience unparalleled elegance overlooking Sydney Harbour with direct views of the Opera House. This iconic hotel offers family suites, multiple pools, and exceptional service that makes every moment memorable.",
+      "gmapsUrl": "https://maps.google.com/?cid=10074837373616150203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Romantic",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2396,
+      "website": "https://www.hyatt.com/en-US/hotel/australia/park-hyatt-sydney/sydph?src=corp_lclb_google_seo_sydph&utm_source=google&utm_medium=organic&utm_campaign=lmr",
+      "photoRef": "places/ChIJIYDNhV2uEmsRu1Y4aDYD0Ys/photos/AcnlKN31V13LLPpOmXT_s3V5MiD2vEj7y7PiXBuyqKRSKKUMPANomJEQS5lFTvtrJqB9ql0uMWIRBe8_IDsPp4dcyL3gpjhPiWl9gWtr5JBbDK0fytuPPre8V0LSsLSg4mCERDXaXYPDvW-MmcoBKEVcrk82JLD5AjDocR5TTbPjVBdG3UHHPxe_2cFDEK1JbWCnUrubvCaaVIN3EwJnBGfS4v7Q2LianjuYl8_wHbm_h4k6QAOUn_8GaLfonTbm1JaOMIS73F-U34W_PA3FzUZH_X1H10hyyqvUXjJMcY28m3597Q",
+      "photoAttribution": "Park Hyatt Sydney",
+      "placeId": "ChIJIYDNhV2uEmsRu1Y4aDYD0Ys",
+      "phone": "(02) 9256 1234",
+      "address": "7 Hickson Rd, The Rocks NSW 2000, Australia"
+    },
+    {
+      "name": "Saffire Freycinet",
+      "coord": [
+        -42.1096861,
+        148.26547789999998
+      ],
+      "desc": "Luxury coastal retreat, pristine wilderness views, fine dining, spa with nature focus",
+      "longDesc": "A sophisticated escape on Tasmania's stunning Freycinet Peninsula. This boutique luxury resort offers families exceptional comfort, gourmet dining, and direct access to some of Australia's most breathtaking natural landscapes.",
+      "gmapsUrl": "https://maps.google.com/?cid=13279098844221375511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Wellness & Spa",
+        "Outdoor & Nature",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.9,
+      "ratingCount": 266,
+      "website": "https://www.saffire-freycinet.com.au/?utm_source=gmb&utm_medium=organic",
+      "photoRef": "places/ChIJ92FPi9F9caoRF4QdCwvWSLg/photos/AcnlKN2o8DrN2ip6NdT8oTSV03Np0FN0qnffV4sqLHaiYddcpE-OAmOgvzUH8bWMY4FzC7LKNcf1vrVrVX9iITY3dEAlvDif7bIsf0Z7IQ2ng-b7P1hVaX1ZO2XIPuqMVdYANaUzs80xMKMNC1QG5R4VAnuA0HvrLr5lbR1UGfif6bYZbf1JxM_k4yCcUm2dWc5HeVxAXP-ZrmBUe60DaiGjlNRo-zN9lRDS3XexhADqcr5VR2X6FNx6okcLRulMxQFviLFCYHtlIQzn10EC1_4npLv_YRg54SgdIqGc5U4mNMuobg",
+      "photoAttribution": "Saffire Freycinet",
+      "placeId": "ChIJ92FPi9F9caoRF4QdCwvWSLg",
+      "phone": "(03) 6256 7888",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "2352 Coles Bay Rd, Coles Bay TAS 7215, Australia"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Quay Restaurant",
+      "coord": [
+        -33.85756870000001,
+        151.2100844
+      ],
+      "desc": "Award-winning fine dining, innovative Australian cuisine, Opera House waterfront views",
+      "longDesc": "Sydney's most celebrated restaurant serves contemporary Australian fare with stunning harbour views. While geared toward fine dining experiences, they offer family-friendly options and unforgettable culinary moments.",
+      "gmapsUrl": "https://maps.google.com/?cid=10733518350048302131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Photography Worthy",
+        "Good for Dinner",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1475,
+      "website": "http://www.quay.com.au/",
+      "photoRef": "places/ChIJ4cQcDV2uEmsRMxTEHBIe9ZQ/photos/AcnlKN2Gfdv5YuJ_lsDaupxfze8K1VCVQ8hHWbC8bGucW4NjzvmB_k7fXB2CbdYIu95JFP6rN2s-G3jAbwB-kQKT5dmhRfVTLHCQlEGDfU3Hzjy2EMQmdJ6Ck1mzIWlIjJT8M4reQugX7CwuI_N-1xOQo0KrKsn21c3StbhQeSjNAZLFwQwuP-oC850pR9DkLhqXq4mj_uWiRn1RNwjtA4NFp3iGV2vXJaCcggy5P8mNO6GVTAKov75pytkiAh3HrsDmZAs0Ez1-0OzDVkCYzg857CgV_zXQpqvfSsN8Na6UbL-txw",
+      "photoAttribution": "Quay Restaurant",
+      "placeId": "ChIJ4cQcDV2uEmsRMxTEHBIe9ZQ",
+      "phone": "(02) 9251 5600",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 5:30 – 9:00 PM",
+        "Wednesday: 5:30 – 9:00 PM",
+        "Thursday: 5:30 – 9:00 PM",
+        "Friday: 5:30 – 9:00 PM",
+        "Saturday: 5:30 – 9:00 PM",
+        "Sunday: 5:30 – 9:00 PM"
+      ],
+      "address": "Upper Level Overseas Passenger Terminal, The Rocks NSW 2000, Australia",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Lûmé",
+      "coord": [
+        -37.8313716,
+        144.9613571
+      ],
+      "desc": "Immersive fine dining experience, multi-sensory tasting menu, artistic presentation",
+      "longDesc": "A theatrical fine dining journey where innovative cuisine meets artistic presentation. Perfect for adventurous families seeking an unforgettable culinary performance in Melbourne's vibrant dining scene.",
+      "gmapsUrl": "https://maps.google.com/?cid=7192665476055619195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Art & Design",
+        "Good for Dinner",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 444,
+      "photoRef": "places/ChIJXX4JCgBo1moRe9aCYCR70WM/photos/AcnlKN0yZu063m17yMRQOsdjmoY0W44U6nPUH8WDbKI0TkhP-XHon9bmmAY60CYMxBkhIZ1vPm0F0FPiql-Tx2cZLFsyC7y_1tGH2hYtn8YA-Iy5hzdRaHYVXsgfyPOzvx70w_jwtbIitkuJ9BuU-lc7BK-JxMzqNF9cKdSj6VPGVF3IpdyMDyr4Jpb6SW6Z5KJjavOf8Z-zl-KSIk8b7dLzlybFGGKcRVC9qQNOEJLyFLaAuBjPhLFf5jmmX4tD6Xkl1Z40z-GDZRecIpRXiJm77zfhlIF35iKgtZl6S9p_J2JPwg",
+      "photoAttribution": "Lûmé",
+      "placeId": "ChIJXX4JCgBo1moRe9aCYCR70WM",
+      "phone": "(03) 9690 0185",
+      "address": "226 Coventry St, South Melbourne VIC 3205, Australia",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    }
+  ],
   "experiences": [
     {
       "name": "Greenhouse The Bathhouse",
@@ -175,7 +306,8 @@
       "tags": [
         "Wellness & Spa",
         "Casual Eats",
-        "Budget Friendly"
+        "Budget Friendly",
+        "Off-Hours Eats"
       ],
       "hours": [
         "Monday: Closed",
@@ -208,7 +340,8 @@
         "Family Friendly",
         "Photography Worthy",
         "Outdoor & Nature",
-        "Budget Friendly"
+        "Budget Friendly",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -219,10 +352,114 @@
         "Saturday: Open 24 hours",
         "Sunday: Open 24 hours"
       ]
+    },
+    {
+      "name": "Reefinfo Visitor Centre",
+      "coord": [
+        -16.922736699999998,
+        145.77968570000002
+      ],
+      "desc": "Interactive reef education, stunning aquarium displays, gateway to world's largest coral reef",
+      "longDesc": "Explore the wonders of the Great Barrier Reef through engaging exhibits and interactive displays. This educational hub prepares families for reef adventures with fascinating insights into marine biodiversity and conservation.",
+      "gmapsUrl": "https://maps.google.com/?cid=9322473625458749350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day",
+        "Cultural & Historical"
+      ],
+      "rating": 4.7,
+      "ratingCount": 45,
+      "website": "https://reefinfo.com.au/",
+      "photoRef": "places/ChIJXyMPyZJmeGkRpq9qqV4UYIE/photos/AcnlKN29pPdsLwv-UvML5vHCP8fOqsuR0j4VPeHq2ABpwRDwtKTfXcsnecYmrD8YZx5XjrfKDejgfrTFahuVho-21LWTa7835qXs-ZrpfiyWdIsaOFvjjzZ-akbplVDK7RAIw2-Ejmeh5Jq6cC53mvZqES5cVpfPNXHdMu_L57EDN-q6bvOkRq7GIMk6uvnaJ1V6ASrs1femcR0NopI2MLwHXiCTy6meS5XV_RN8DONWeyRC86P58KB_k2KcjLhoDhdB6EEh2oX5dWiVDKlAwFeD4QWS85JvCDUqamqR9MBFkJrPSw",
+      "photoAttribution": "Reefinfo Visitor Centre",
+      "placeId": "ChIJXyMPyZJmeGkRpq9qqV4UYIE",
+      "phone": "(07) 4031 9566",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "address": "1/34 Esplanade, Cairns City QLD 4870, Australia"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Taronga Zoo Sydney",
+      "coord": [
+        -33.8435473,
+        151.2413418
+      ],
+      "desc": "World-class zoo, native Australian wildlife, harbour views, interactive keeper talks",
+      "longDesc": "Home to iconic Australian animals like koalas and kangaroos, Taronga Zoo offers spectacular harbour backdrop views. Interactive experiences and keeper demonstrations make it an unforgettable adventure for the whole family.",
+      "gmapsUrl": "https://maps.google.com/?cid=12590240040890262054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Playgrounds",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 34710,
+      "website": "https://taronga.org.au/sydney-zoo",
+      "photoRef": "places/ChIJq6qqWiSsEmsRJuIpepyEua4/photos/AcnlKN2-kZs0a7EjsXqCqZYWYik1y-zz5Rg8gRYJQPFmBcXxnhtrOwb_0k2PQgXPSQSbGkcYio-z3PB8Liz2Pu2ePz1bFIfYw_rUjNullZILM2OLB9ZexsDmkLaZ7ZIf4RCFNtqdsF56SRABQhzYihUDOtO_HuWnWrSGDyCVsOLxSvM-ugjNuwQZqfjfl_MJ9vQvQW3rCsvqVmYo-q1ZjfvPoV73GP4aL4zezHwXaUg4oke4pgEiAStolzRcRWDCxWoq2IwKV5d1siwcJ3YGXxkSjR3AeOdlKlbNtYyF2qeY6rcY5bvIpI_MhJkzwLPC4rRk8_GQ2B0qiVFTejK_DyqjOAOvj5-5E6wI13ex7LX2RVDD-AJqApycYFG3NURFd9MpYcit5MJQeMGNshL75TlqOPfXvBAIAZJtSkT6mpYRo6ZRZAjIwNNvt47ssnGm8rXd",
+      "photoAttribution": "Christopher lowe",
+      "placeId": "ChIJq6qqWiSsEmsRJuIpepyEua4",
+      "phone": "(02) 9969 2777",
+      "hours": [
+        "Monday: 9:30 AM – 5:00 PM",
+        "Tuesday: 9:30 AM – 5:00 PM",
+        "Wednesday: 9:30 AM – 5:00 PM",
+        "Thursday: 9:30 AM – 5:00 PM",
+        "Friday: 9:30 AM – 5:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 9:30 AM – 5:00 PM"
+      ],
+      "address": "Bradleys Head Rd, Mosman NSW 2088, Australia"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Queen Victoria Market",
+      "coord": [
+        -37.8075798,
+        144.956785
+      ],
+      "desc": "Historic public market, local produce, international foods, vibrant street atmosphere",
+      "longDesc": "A bustling Melbourne institution since 1878, Queen Vic Market bursts with fresh produce, artisan goods, and street food. Families love exploring stalls, sampling local delicacies, and experiencing authentic Australian market culture.",
+      "gmapsUrl": "https://maps.google.com/?cid=1082084875369108560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.5,
+      "ratingCount": 58215,
+      "website": "https://qvm.com.au/",
+      "photoRef": "places/ChIJsVeQNzRd1moRUNQyBXZWBA8/photos/AcnlKN0S3TRpfS2stS291Flo5FIUOW_5tnwELvVypbS8wr0wn56RpWHKOg4CWb5o0NwdociT_1IsHByOy-Nqz9tz5PC90kHq6SxuqaDrj95aocccpMbnN77THvhx2ns8ecW8fcheRuj9zPJKucqnCjd7fhyidZTX2Ix93diX_WGZ17yDT__B-c8Zh29cAdBgS-n2gSrk3p4BBpGgAVgcYLZy-yt1OGYelfqS7k6DqN2tf5So6XI2w4YY7Ki4zMvN1ec81Wil-RYj72Ww8c-IYBjJv1CpslVP-NRnLuMc8TNtAJRsl25tBC11UHamBXIcFcPp-zoE-UikhKAa1mg6IA_liax7l0qr9mMat7dwpxWk-8OaCFqNKlBHtAtvOtsYj6s9veVVggY2aZeYCUUja8k40FRjwQkfqq8Xx41YYMnWvz8",
+      "photoAttribution": "A T",
+      "placeId": "ChIJsVeQNzRd1moRUNQyBXZWBA8",
+      "phone": "(03) 9320 5822",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: 6:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "address": "Queen St, Melbourne VIC 3000, Australia"
+    }
+  ],
   "cityCenters": {
     "Melbourne": [
       -37.8229,

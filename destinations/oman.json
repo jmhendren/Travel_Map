@@ -50,7 +50,8 @@
       "tags": [
         "Splurge",
         "Adventure & Active",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: 8:00 AM – 12:00 PM, 4:00 – 9:00 PM",
@@ -62,12 +63,958 @@
         "Sunday: 8:00 AM – 12:00 PM, 4:00 – 9:00 PM"
       ],
       "phone": "9220 1547"
+    },
+    {
+      "name": "Al Bustan Palace, a Ritz-Carlton Hotel",
+      "coord": [
+        23.567151199999998,
+        58.615507199999996
+      ],
+      "desc": "Grand beachfront palace hotel, marble architecture, private beach access, fine dining restaurants",
+      "longDesc": "An opulent palace-style resort with stunning beachfront gardens, multiple pools, and world-class dining options perfect for families seeking luxury and cultural immersion.",
+      "gmapsUrl": "https://maps.google.com/?cid=17582949651604021793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Romantic",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 3860,
+      "website": "https://www.ritzcarlton.com/en/hotels/mctrz-al-bustan-palace-a-ritz-carlton-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJgUYW6zrxkT4RIaJvt4wvA_Q/photos/AcnlKN2alcBccJNM-Pz6JX080MvW-H4VH17dqEY-EzX2lF7KmxRSG4AiwgPbItrwTtSYDBLVkCh1tk3NG2NJFDGJ9V9S6pFqV_aNP2pBXSfNOr-fmaVlKtWWrcOPzWjnsVRYlPrrfbjtZs0OY0Ag9XxXBKVKge7vyG771kpULdSGbTZ2qdl88H-tO23qwUE116unOA4NR08rIZzi3ZCayBvHC3vVmE7GE3oGQ6w2eRgEf6wd495-1Nlq_ibupIGVEHRAO3v0eXsRDrx00K64oQDn0cbdYfYI2S2sPTTYDhFLdaheeQ",
+      "photoAttribution": "Al Bustan Palace, a Ritz-Carlton Hotel",
+      "placeId": "ChIJgUYW6zrxkT4RIaJvt4wvA_Q",
+      "phone": "24 799666",
+      "address": "Al Bustan St, Muscat 114, Oman"
+    },
+    {
+      "name": "The Chedi Muscat",
+      "coord": [
+        23.6022003,
+        58.3990514
+      ],
+      "desc": "Contemporary luxury resort, private beach, lagoon pools, modern Omani design, spa facilities",
+      "longDesc": "A sleek contemporary resort with beautiful lagoon pools and private beach, combining modern architecture with Omani heritage, ideal for families wanting comfort and elegance.",
+      "gmapsUrl": "https://maps.google.com/?cid=9417139652036292683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Photography Worthy",
+        "Wellness & Spa",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 3372,
+      "website": "http://www.ghmhotels.com/en/chedi-muscat-oman/home/",
+      "photoRef": "places/ChIJxTIG8Ab3kT4RS3Dej55msII/photos/AcnlKN0EnAYpYqAk9SsIsuiMiDIUAJnGOzg7qarxOuk6DUc3dGmvYBW7tfd73uurPp0JPdjqfpvYa3Sidl1z7iGEy-sDMtH94Y1csmKX3wIXu9ZHjkx-sYPoOaxnLvyn8sK484dhJlqjq0R99fDOmTTN-ZC1cdhmJG5DYdr18pGs402S4LsMy4BKUpcgk3TlEYBh4s8KM_pcgOOQaT0JI6haQWCJDcYP091YQiEx_C3kR4NMaRRp3SH_V5NAi6UN3lVypHzwGBCDo5M5phvh0GkqzzF4cEOslz6TTME5cxApH63jSg",
+      "photoAttribution": "The Chedi Muscat",
+      "placeId": "ChIJxTIG8Ab3kT4RS3Dej55msII",
+      "phone": "24 524400",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "133 18th November St, Muscat, Oman"
+    },
+    {
+      "name": "Al Nahda Resort & Spa",
+      "coord": [
+        23.6516365,
+        57.872466599999996
+      ],
+      "desc": "Budget-friendly family hotel, convenient location, restaurant, comfortable rooms, good value",
+      "longDesc": "An affordable, well-located family hotel offering comfortable accommodations and practical amenities, perfect for travelers seeking good value without sacrificing cleanliness and service.",
+      "gmapsUrl": "https://maps.google.com/?cid=8307381019806415144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 3.7,
+      "ratingCount": 886,
+      "website": "https://www.alnahdaresort.com/",
+      "photoRef": "places/ChIJ03s8Ri_bjT4RKDli6wW_SXM/photos/AcnlKN2Y6EoUZrznL0fQxWq3M8BJm_FdREqvYcAE3gdYGneo00_gE_mRNi8Adrtqqd9U2kyuoATOfmDvquhk_Qn3GACng6WishxnHHewxSEN4Axf5mUsdk-Uph6i_QTBrEyC8-XfbpNe47Wvalynu5WPoz6o3dZ8DKlWYK1yqQ0MOfRkHtiuRgh6QWZvYrWk_USAxBIhm70Pmu71SYL2ca2EKrugEoIKYt715ND48viN8tEzgciY44LrnH-rQwO7ZlrsxiAHVV3rOhVikvSdxgAjgW1jstHkOWYz7KS7JuO38RvTX15Ya428WEvMc--RXg8rH9K_PjDbQiYw6_Q-GRX8AGeNxH6zLIhipCled7g2vrQ-M1caHxtoS4ri02gfDhpP1qbMvXGb6JtiTRlYDaBELFnQox10fEzE7X_2Dbpac6BdGQw",
+      "photoAttribution": "munas pk padoor",
+      "placeId": "ChIJ03s8Ri_bjT4RKDli6wW_SXM",
+      "phone": "26 883710",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Al Nahda Resort & Spa Barka OM OM, السقسوق 320, Oman"
+    },
+    {
+      "name": "Shangri-La Barr Al Jissah, Muscat",
+      "coord": [
+        23.5505981,
+        58.65951150000001
+      ],
+      "desc": "Luxury cliffside resort, private beaches, cascading pools, three restaurants, mountain views",
+      "longDesc": "A spectacular cliff-top resort with private beaches and multiple pools cascading down the hillside, offering unparalleled luxury and spectacular views for an unforgettable family getaway.",
+      "gmapsUrl": "https://maps.google.com/?cid=4415818905465231204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Photography Worthy",
+        "Wellness & Spa",
+        "Iconic / Must-See",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 7472,
+      "website": "http://www.shangri-la.com/",
+      "photoRef": "places/ChIJbePBy83zkT4RZJe1BOYjSD0/photos/AcnlKN0efp9cKYyW3uZBJ0DjuuBTnbm_Tr0q2arT2DOjSZZs8iHxvJRpOKOAF4HeTYkJ5qA9xxSg45VNZhzUcRmWlyIcyBivZoP-p4w5wV0yH7F86Fch9kzUKwjZU7ZywnTU_EpL3GmcCkbvWbzZgArwQuBcBXYoXSTTPA2pXsaiVn0L6tuzoBbe2B1z9--XyaaXKlbJo9QZ0tOw_M4erMTVkAnoEnDnm7gQM1kdLLfRCkqFnmUSGCap6kiURF3pC2fc1Bci40nC9wb6HcHYW1LvBOldDdnIWpByYQ_nYaEHYvj1qDF43mbuGcFqhcwV7gkKDIPu1WvQOpXwmkShwZrd1dfFTyTrrPELyUvkoxi2g6vSaomUQBbiLv3HK-NQOgX2uH9eW5VrTzNXS8RQRpuR1biqAvcuOI8r53Ru7-ppUWp9M3oENwtg5t5yv2bTJqdH",
+      "photoAttribution": "Josh Uddin",
+      "placeId": "ChIJbePBy83zkT4RZJe1BOYjSD0",
+      "phone": "24 776666",
+      "address": "OM، Al Jissah St, Bandar Jissah 100, Oman"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Al Angham Oman",
+      "coord": [
+        23.614258799999998,
+        58.467612300000006
+      ],
+      "desc": "Traditional Omani fine dining, authentic local cuisine, elegant ambiance, dinner with views",
+      "longDesc": "An upscale restaurant showcasing authentic Omani cuisine in an elegant setting, perfect for families wanting to experience traditional flavors and cultural hospitality in style.",
+      "gmapsUrl": "https://maps.google.com/?cid=9278176923972944374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Family Friendly",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 307,
+      "website": "http://www.alanghamoman.com/",
+      "photoRef": "places/ChIJxdlenbb4kT4R9kGiJMG0woA/photos/AcnlKN0m-RnnfG-1AJs2VUvOSsojCBkZMe09rY0GEAhL8fGyI4080EMGit8GQOikLe6rUJIHPWjEeQbUVd6fhzgX91N9J0Z4B2HkXzZcEa7Xt9WrnaezPKFac23ZPw2urmuBx9VnPapN4ogfaJY_tlIAsYQ6X-mBATi5pY1CNCswOXd_dItPaW3yHin3QqhMmnSMe6QB5PVdPccMLp3Tw0gVq-0bQ9_unUGyoATodkgYQfduFL60SUi10U63AqhIiyrzt6HIiyUssqzeLJqNecZ5H8HhE-f-lkdy2hhpLxqQX0wy4fzEqqovRh6iy45gBWEGSQRzSUHSQYp8M-erdYlCbPUsN5d7Bf9edSLQsuBi8koGigonOpguCAqu-jEeq-20xf4whTS1ukPWmpQjBKNUMOeXyI7cOeUebVD0B7CmuF0CUQ",
+      "photoAttribution": "Prabi Krishna",
+      "placeId": "ChIJxdlenbb4kT4R9kGiJMG0woA",
+      "phone": "22 077777",
+      "hours": [
+        "Monday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Tuesday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Wednesday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Thursday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Friday: Closed",
+        "Saturday: 12:00 – 4:00 PM, 7:00 – 11:00 PM",
+        "Sunday: 12:00 – 4:00 PM, 7:00 – 11:00 PM"
+      ],
+      "address": "463 Al Kharjiyah St, Muscat, Oman"
+    },
+    {
+      "name": "Oasis By The Sea",
+      "coord": [
+        23.616183,
+        58.46184
+      ],
+      "desc": "Casual international cafe, fresh juices, light meals, outdoor seating, family-friendly atmosphere",
+      "longDesc": "A relaxed family-friendly cafe serving fresh juices, light meals, and pastries with pleasant outdoor seating, ideal for a casual breakfast or refreshing break during sightseeing.",
+      "gmapsUrl": "https://maps.google.com/?cid=5562647413091580510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Coffee",
+        "Family Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1595,
+      "photoRef": "places/ChIJv7O6w0z_kT4RXroRnFl-Mk0/photos/AcnlKN0pxmNyuu6kiap07Bhcrty3F83scmTjac2_1w_tolCARLR7uqbhvPbyHoKe2nI-MFFN5BjKtTBR7ixIa_DOpIFOvbY6czNyPNhXw4RxWl6hf-zgf-F8A4mKRYpmd0uAma_MPDqg0CnkU0w6sPn3GYqE-ZPOw8jf6WfrmpDIjgdiCfbQXhllr1yMzI0w6NI5N1ChOP0moUk0-9fgwbTST3pdt3mOxmBlIAy2n9rw-hvNeftARyV4lKsdUWVUMKc7ElpeENFXQuj27DggvfSg9Pb-NxNLtuCdWN9Gi-X2-jv8n-Uv_95nein8waVEoo__8-OYlvQ67_CLoHZpVVhZf1pP2r_IxnBrQY38GPw1FrdaZspcU0Rs1ApJDlxI3dQvO1skciiAT5daJRRKmGNU_Lwt-sW7lS00imzGWC65lz8",
+      "photoAttribution": "Aranyos Ferenc",
+      "placeId": "ChIJv7O6w0z_kT4RXroRnFl-Mk0",
+      "hours": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "address": "JF86+FPG, Muscat, Oman"
+    },
+    {
+      "name": "Ubhar Restaurant",
+      "coord": [
+        23.612509000000003,
+        58.464311
+      ],
+      "desc": "Contemporary Middle Eastern cuisine, cocktails, rooftop views, modern ambiance, evening dining",
+      "longDesc": "A trendy rooftop lounge serving contemporary Middle Eastern cuisine with craft cocktails and panoramic city views, perfect for parents seeking sophisticated evening entertainment.",
+      "gmapsUrl": "https://maps.google.com/?cid=5872230437903760026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Cocktails & Bars",
+        "Good for Dinner",
+        "Photography Worthy",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 850,
+      "website": "https://ubharoman.com/",
+      "photoRef": "places/ChIJx5VM3rT4kT4Rmnp9inhaflE/photos/AcnlKN2jq11lDlSi7Ncu7WuBDA6jmeFx46QxA3fby0IBqFkv289STa6j8JVr5Q0Y4cWFKTNcYrQQ44smKNKZ-1JVqeVxcaZ8AM3SS6LIxfNW9tvIWPGSNR0Hr4O-huxHrP-m6R3hBh3e64373g7t5AQpl_sFFhGQI9GsTFd2u7mwfHFWYWRuVPJgJArp1gle8u_6f3n1D1A_1IKS6N0Fzv1-UmBWd8xiZyCShlMZVdivkCHucAKWo8UaG3Au1tndTBw_AVYFcgtv3pVWE-Cyty6IbLzyekZBYLd5PqUviYpwZ8OCTQ",
+      "photoAttribution": "Ubhar Restaurant",
+      "placeId": "ChIJx5VM3rT4kT4Rmnp9inhaflE",
+      "phone": "24 699826",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "Al Kharjiyah St مسقط OM, مسقط 100, Oman",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Green Cafe",
+      "coord": [
+        23.5994113,
+        58.454694399999994
+      ],
+      "desc": "Traditional Omani coffee house, local sweets, shisha garden, authentic cultural experience",
+      "longDesc": "An authentic traditional coffee house serving Arabic coffee and local sweets in a charming garden setting, offering families an immersive glimpse into Omani hospitality culture.",
+      "gmapsUrl": "https://maps.google.com/?cid=398477907663272564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Coffee",
+        "Cultural & Historical",
+        "Local Delicacies",
+        "Off-Hours Eats",
+        "Afternoon Wine",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 186,
+      "website": "https://instagram.com/greencafe.om?utm_medium=copy_link",
+      "photoRef": "places/ChIJCykpJcX_kT4RdDocuYuthwU/photos/AcnlKN3uSXDTyEZshV69XmKdcRKrDWc3_Cv8fwv_F1tWIf2E3uW61z4wmvpOdybtDqOfzjKKhXX09ZjOM3S2aX8O2m2usBuXxlcPKzCkplPyiJY1EpQ7RT3RjoNIfgI8YrvjUqWZA5DuoWRSRuxq2cBtqD5O_1eCO4PN9b9jxiGb8rBpX_pFgJdO8RNIJC5sWiMfKRAHhK8L1Hl5wHNcAD4z_LGc6NQNJpQWyh7qqVMYL_VVgWzqiVOeBOXbMCDpdRYt-H71Onsz2c0BSs_0J0zo-KzkP1hpHzQqzb6h_8lLCYZUo0t4Cve8ZFrRInPbXdpzmq9gHcfgNHERBsuBV74upvPt2BHFPMP9gozukd4_vevhG2j95EuqkIAcM1y7mbT1n4NQIkMfc3-uZT0g3PRLndRxiGObtif_iFuiBleh_AlxF4Y",
+      "photoAttribution": "Isabella O.",
+      "placeId": "ChIJCykpJcX_kT4RdDocuYuthwU",
+      "phone": "7111 8533",
+      "hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ],
+      "address": "HFX3+QQV, Muscat, Oman"
+    },
+    {
+      "name": "Bait Al Luban Omani Restaurant - Mutrah",
+      "coord": [
+        23.624616099999997,
+        58.5612945
+      ],
+      "desc": "Omani restaurant on the Mutrah Corniche serving traditional dishes with harbor views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4238969189082005877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Scenic Views",
+        "Casual Eats"
+      ],
+      "rating": 4.2,
+      "ratingCount": 3156,
+      "website": "http://www.baitalluban.com/",
+      "photoRef": "places/ChIJh_rzw473kT4RdQEPuQTY0zo/photos/AcnlKN0lJ_R11CTqMy1dX3VjzvL7jbaNTa6PN7nJLUyvTf4MfR2BVaGoibjDqbiwzTd67jS6i4iYFmmMdT8UbVsk4fpNZxa9kmAa_DrxMlXqsAAy6KS_7wiFPBsGlCFEeXJWSwXuS5Si4DQXQf8U_w5LN34LV3eYyFN6TQUYLRpzPfxTpIB26GZyhzF0dsqGEQNTysv9Cixjfo_9nZHqX73lKmh4lBrZLPcNoV8Syv2g5fasqVKPMnFHRWatDVg-ckRRx1Wp1RX_I3A7sL6yBEONFCgjZRbPsUlQKk8Q0Yrooq-p_g",
+      "photoAttribution": "Bait Al Luban Omani Restaurant - Mutrah",
+      "placeId": "ChIJh_rzw473kT4RdQEPuQTY0zo",
+      "phone": "24 711842",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "CORNICHE Harat A'shamal St, Muscat 130, Oman",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Summer House on the Lake",
+      "coord": [
+        28.370444,
+        -81.520676
+      ],
+      "desc": "Resort restaurant at Six Senses featuring Mediterranean-Omani fusion cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=132656503815751052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Scenic Views",
+        "Splurge"
+      ],
+      "rating": 4.9,
+      "ratingCount": 16531,
+      "website": "https://www.summerhouserestaurants.com/disney-springs/?utm_source=google&utm_medium=social&utm_campaign=SHOL-GBiZ",
+      "photoRef": "places/ChIJb6B8uZx_3YgRjEUVK2NK1wE/photos/AcnlKN3Yk5Pc2eZHWdm_PEULtOxp_JKWV3_-FAleq8g_TSZIcSm-aIjfwjX8yPs15u-sNJ91nHsnOlnrlMEMY9uGncNl0JnGx4ib-iFYs67ArA5Q_N3E66s6xWUvvZcKD9W6q1-yN3e4P7EGyXPr9gOEi0e9Yi4z-l0v0Mjf07Rep6dMNK0ge_2oD40mYrXdqZ8Q0H4emaf1hOTfiIC7TPUw_WlMhUjl0IiudhE62zEszZ_OhUN10naCZfK1P1kF1Pv5eISCPbUl9_oG2RDVzpWqfU1x4_9MNxvfOjymgUuy4p2WFQ",
+      "photoAttribution": "Summer House on the Lake",
+      "placeId": "ChIJb6B8uZx_3YgRjEUVK2NK1wE",
+      "phone": "(407) 598-8645",
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 9:00 AM – 11:30 PM",
+        "Sunday: 9:00 AM – 11:30 PM"
+      ],
+      "address": "1498 E Buena Vista Dr, Lake Buena Vista, FL 32830, USA",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Hakkasan Muscat",
+      "coord": [
+        23.6194237,
+        58.284897400000006
+      ],
+      "desc": "Traditional Omani restaurant at Shangri-La serving authentic dishes in elegant setting",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3428413695171902063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Romantic",
+        "Splurge"
+      ],
+      "rating": 4.8,
+      "ratingCount": 148,
+      "website": "https://taogroup.com/venues/hakkasan-muscat/#page-body",
+      "photoRef": "places/ChIJSd-pvpv9jT4RbzrOWxcslC8/photos/AcnlKN2NX0178JQBDid8svKnQaK0iKF-NiEQN1ZnFmiqXwfW1-3ydBzDijsIGeEVoh1QK62SC_QYIrGRVcOBZRHG3O40BosC2t9iHgMipMfdqAGYrhpJk_tJDfygFXja7EH5hRWDn8P6o7Qpde3Y-3K9-m0vk-ti5VD44xCxr_qschBehce2gziadsQQF0jSc4DX9WzPAWtEVtCpfu0gidmoRyhaXYV38M-Q54_99hGLcvgXlWrNCjhAWmFcdcJ9F1HJZr-IqW1sHJEihiF-0bRST30lKKx8v96RyKP3ERspTNw-xA",
+      "photoAttribution": "Hakkasan Muscat",
+      "placeId": "ChIJSd-pvpv9jT4RbzrOWxcslC8",
+      "phone": "22 710480",
+      "hours": [
+        "Monday: 6:00 PM – 1:00 AM",
+        "Tuesday: 6:00 PM – 1:00 AM",
+        "Wednesday: 1:00 PM – 1:00 AM",
+        "Thursday: 1:00 PM – 1:00 AM",
+        "Friday: 1:00 – 4:00 PM, 6:00 PM – 1:00 AM",
+        "Saturday: 1:00 – 4:00 PM, 6:00 PM – 1:00 AM",
+        "Sunday: 6:00 PM – 1:00 AM"
+      ],
+      "address": "St. Regis Al Mouj Muscat Resort, Muscat, Oman"
+    },
+    {
+      "name": "Turkish House Restaurant",
+      "coord": [
+        23.592411199999997,
+        58.4302037
+      ],
+      "desc": "Ottoman-inspired cuisine in historic building near National Museum",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11838667388713199790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Cultural & Historical",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 6892,
+      "website": "https://turkishhouserestaurant.shop/",
+      "photoRef": "places/ChIJRx5tExD_kT4RrmhAHkRlS6Q/photos/AcnlKN2crvvNGh1xtSZbi01GfqPC9t9M6E3l52OnLwpjgqIou_Memnvjk2kOKkyFG69tUFeOVEmuTCbDjyh75kdaz_XSX7NMZph3qzstxQpozCkCTpmoUxg_eCrbrvpqSVkXuKRso5enkhyWhQhgKc79rH8uCeRvjkiE8RXwgf5h_hXxeCzVtiZjLO6anccby_6ql74A7fA2OhXRTH8kKg4gOP5MHgY7dH5aE1DUWcG0wo5YDpsCLLEONOLFPJ0VTtG2GT17w5R7c1_-uQh7Wp0tqkE185aGs2QWfKpjwvrcSdSdVTgj1tpoXvx9Jv8MfU1maSvyoe205FWZhpIm_2IcXrjMWIUgOExr_0c8q5DBsmQvNvYxFl92iMI7QbwkABGD_1HHMZMXhPMj5vZzpOK-H-29tOpTCCQpPpBuhiKtUF8aezoCcMAnsktN8QWYug",
+      "photoAttribution": "DP Mamaclay",
+      "placeId": "ChIJRx5tExD_kT4RrmhAHkRlS6Q",
+      "phone": "24 488071",
+      "hours": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 1:00 AM",
+        "Saturday: 12:00 PM – 1:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ],
+      "address": "HCRJ+X38, Muscat, Oman",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Bait Al Bahr",
+      "coord": [
+        23.549503899999998,
+        58.66221449999999
+      ],
+      "desc": "Fresh seafood restaurant with ocean views at Shangri-La",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13448229160943907733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Scenic Views",
+        "Local Delicacies"
+      ],
+      "rating": 4.4,
+      "ratingCount": 306,
+      "website": "http://www.shangri-la.com/muscat/barraljissahresort/dining/restaurants/bait-al-bahr/",
+      "photoRef": "places/ChIJ3ztvkMzzkT4RlXMcjCu1obo/photos/AcnlKN1ixgbSA4gBSO4PgOpMY6k6_nYOjrpeGMd_gPLCZ7CMjcrxprxeUf6XCP9W-wyrg6YKgDT1AxZOa0k5gQozG_aP_nMXzyA6uVw072xLf6QlQYyij1Q-_TtsXA3zT-KiC74ERVXmREhZXSXu-nxr92robw_f2k7pOx7slxMha7k8sqmNgWR6HHut5IItJ7D90zJ2E7OBOrkq5ex-2sGia7-lUa5g3ZVM5KauLVdPW-x8ItVa2qvUEVhv3QfbSEKZd6xNzsKCpXQk3XjEzNvr825TznhsZHIlLh3F6N3P0VQeWBATmPohYQWFF2a5X5TJzA2qb2Z3N3KGH7h8V-bt8uu-D4rGUx1PPbVMbWh9vXYeXmGP000xbrrKO3mVoZUrdzOMcLQuhRxqoItBTMaOeV4BJ7altpXew2GAonLvhch1hQ2P",
+      "photoAttribution": "Sandro",
+      "placeId": "ChIJ3ztvkMzzkT4RlXMcjCu1obo",
+      "phone": "24 776565",
+      "hours": [
+        "Monday: 6:00 – 10:30 PM",
+        "Tuesday: 6:00 – 10:30 PM",
+        "Wednesday: 6:00 – 10:30 PM",
+        "Thursday: 6:00 – 10:30 PM",
+        "Friday: 6:00 – 10:30 PM",
+        "Saturday: 6:00 – 10:30 PM",
+        "Sunday: 6:00 – 10:30 PM"
+      ],
+      "address": "Muscat, Oman"
+    },
+    {
+      "name": "China Mood",
+      "coord": [
+        23.566975000000003,
+        58.6158882
+      ],
+      "desc": "Asian fusion restaurant at Al Bustan with family-friendly options",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4955670156012818173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Dinner"
+      ],
+      "rating": 4.7,
+      "ratingCount": 40,
+      "website": "https://www.ritzcarlton.com/en/hotels/oman/al-bustan/dining/china-mood",
+      "photoRef": "places/ChIJz8hL9_rxkT4R_Q4mKcATxkQ/photos/AcnlKN1f5dIYbYeIycYZ5d60CD5ytBVIyU11bDw7lvuxIakNjHcFRyC1Y2c_WiaIce3tRTdFwA2lyV2YcI5kFrBaeeu_USIi7soeKTd9y4StmN1kCuut5sEw_ASveZCcmYZlUdBOCrh1c0P2FpiNcmlOkZJs1tXvAX-cJ0yokYK60HSFansQ6T0cfp_vZECVgCkv4B5soiGiXidGyWCO-doRDRztIxG9Lcf74PIdTNdD5xu-RbPOVduJlkOFWiGZd33J1LT-4Qj6daGHlPIlxYSnDch9HclUNVcAd2o5w5cNjuZ3rw",
+      "photoAttribution": "China Mood",
+      "placeId": "ChIJz8hL9_rxkT4R_Q4mKcATxkQ",
+      "phone": "24 764444",
+      "address": "Al Bustan Palace Ritz-Carlton Hotel, Muttrah Muscat OM, مسقط 114, Oman"
+    },
+    {
+      "name": "Bin Ateeq",
+      "coord": [
+        23.5964234,
+        58.4183866
+      ],
+      "desc": "Traditional Omani restaurant known for authentic local dishes including shuwa and majboos",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8104398676684842449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Dinner"
+      ],
+      "rating": 3.5,
+      "ratingCount": 912,
+      "photoRef": "places/ChIJJ_-4TRH_kT4R0SXyUaibeHA/photos/AcnlKN3uh7NqqFIkyLTkrqPkPqXbccOH2HUOBnLXSqzW32CyQLG6LuLrD3VTC0HRDjeIa9E6zwVLZ_lN--KcgA78P1HdC4GZNDvoPLF4pJmsS6uWW-na-oXz8ftlpBploTkJ_XWTZsN5VlZmUrlF1p9diBjbN_sdjLO-V9WQTVEsYvVrM_IrI1Lz68jh3azcu6TYoebEGII1KtYsVlejJK5DVFeQRfgFWdXnCQXEgjF3UM8jWdgKwPC7X7qhm0iPPE8A5Wh0capHAUFoGj7LLExUQIockg1BbkN4tqYI7-sJJyTHhPf2HhyBJuIYd6lbkj4zHhYeq9UMxVfUQeNuEyrMOpAUgvfOXak9SvcAgeIgtNNlrnyu_LKAZnjNGKnGk8NbdB6aaOmfVQTieH3S4XUbnTTa9DRRLIj5PWERa_2BtiC2jjT0TCRtefAGyTUzIffd",
+      "photoAttribution": "Jaco Bo",
+      "placeId": "ChIJJ_-4TRH_kT4R0SXyUaibeHA",
+      "phone": "24 478225",
+      "hours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: 11:00 AM – 1:00 AM"
+      ],
+      "address": "HCW9+H96, Muscat, Oman",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Wadi shab guest house",
+      "coord": [
+        22.847324999999998,
+        59.239343399999996
+      ],
+      "desc": "Simple restaurant near wadi entrance serving grilled meats and rice dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2453022160520752753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "rating": 5,
+      "ratingCount": 30,
+      "photoRef": "places/ChIJ_VZYUgDzkD4RcS4AiKjiCiI/photos/AcnlKN3wUiaok8e5qyQk1h7cWPnWupJ57Eriufeu3hdfyI5kqPGqA55prEeMgCSi2z6EPsMVhurdFE4t2yqIem03VgaEeKL6vgNydKdB9jHCDQwuSXsRrBnzhtdDCYz5Y5TVnwclMacaJX_EQeLQbv7xE3HvoCjAvGjnIvBXlPJAtigg67xlabYbUfsa3werUB1xhbyNMCE2-BfHa7ZsWp8uiamK3KTMgpDBjhXRp6NQ0_9q9EctX96I62ubJh3QUsnmG7lrQIqaX2141kqSFsnIdxheZzZC7qL2MNlkPiJK06ugkqFuITamzg-hyQ1tVOy4FulvyzfnepCwjhPLEX-L6mW885efRNpL0JUlzGlAqCrJvBRF0hZmCXjEOpI0EY8ZO54OMS09xiF494kLqH9DHylLdAsnw78D6XL47bLR6WGfl52pcBhhyw-1EP8EchSo",
+      "photoAttribution": "Habib AL muqimi",
+      "placeId": "ChIJ_VZYUgDzkD4RcS4AiKjiCiI",
+      "phone": "9965 8222",
+      "address": "R6WQ+WP, Tiwi, Oman"
+    },
+    {
+      "name": "Modern Sur Restaurant",
+      "coord": [
+        22.5787312,
+        59.514387000000006
+      ],
+      "desc": "Casual poolside restaurant at Six Senses with international menu and kids' options",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5007105791984095942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Lunch"
+      ],
+      "rating": 3.8,
+      "ratingCount": 460,
+      "photoRef": "places/ChIJm6UqaSqikD4RxlIDZDDQfEU/photos/AcnlKN1qE3oSxTCOyoMTE_8U0FkuvigJLeDSZZbl_OL2hqnwI-inExa7_2dr-JI6w-px_YTc_QRpoP25eZy1p2aLNrN8xlLpXr5jPBVkzidq5WGhzUBuvVkznCx-kxa6uYBqP_Gtel98W5tF49A3aw9gkeb36DKaxyh-9Gi8BFJVgVfITNLQJhGOkbsuZURIYza_36Dp8M18dTeQNtNo34yaSJpWa67bOtqZo21plocOSZG2lWg1Ku3KONsB9Rp3WHqotgBnZ0VNeSZqGnadcBCEeF0m7yyl_5oxmYdasGLaHsANaA",
+      "photoAttribution": "New Sur Restaurant (Modern Sur)",
+      "placeId": "ChIJm6UqaSqikD4RxlIDZDDQfEU",
+      "phone": "25 544286",
+      "hours": [
+        "Monday: 6:30 AM – 12:30 AM",
+        "Tuesday: 6:30 AM – 12:30 AM",
+        "Wednesday: 6:30 AM – 12:30 AM",
+        "Thursday: 6:30 AM – 12:30 AM",
+        "Friday: 6:30 AM – 12:30 AM",
+        "Saturday: 6:30 AM – 12:30 AM",
+        "Sunday: 6:30 AM – 12:30 AM"
+      ],
+      "address": "Bilad Sur Fort, صور 411, Oman",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE"
+    },
+    {
+      "name": "Pakistani Restaurant: Taste of Lahore",
+      "coord": [
+        22.568711999999998,
+        59.5274113
+      ],
+      "desc": "Fine dining restaurant at Six Senses with tasting menu and ocean views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10503795759752552938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4.8,
+      "ratingCount": 58,
+      "photoRef": "places/ChIJ195ydgChkD4R6iFOjZf6xJE/photos/AcnlKN1SPyMbn9TOAhbhHtMgYffEA7wqpaRlYSJPxRvp4iUNV8pE4oWUXtJF5X6TLYCz6wpQfcQn3lolKwywbDGWux-A3C_Mp1P-3YdJPWw1EhB_bJR3Y-FmzCVe3PH_LBufjcC11B-rpFM-tPmtNN1oMuY2f9R8fwLrf2KpnyXpLqgv-Zq0v2qitx39AJ1liwfn3_RrL0w31FrATqjYT1-2v3KqS6VsR0JopB2zQ5iudZeNqmRdxX29eiTl-K686vaib1MXM2rsNIWJ-MUOKBI5YHGKYbLL3eKJW6SX6XofXomzE-6WNaKOEOXRNzUfF4zbVhXmDHlZqtRFdfOTs1sjDBZEGHAqRSCZZ_Bw_-SO4HDnMu1WcDnPpolzmTc_4yXC6dVhHIzhJF1JiC4yKH_CXFExFD5_z9OD7ptlQHTVqL5YzefNJFuza04qpfkXPw",
+      "photoAttribution": "Rajveer Sandhu",
+      "placeId": "ChIJ195ydgChkD4R6iFOjZf6xJE",
+      "address": "HG9G+GX2, Sur, Oman"
+    },
+    {
+      "name": "Al Tanoor",
+      "coord": [
+        23.551153499999998,
+        58.6600966
+      ],
+      "desc": "Family-friendly buffet restaurant at Shangri-La with international and Middle Eastern cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12483188832720516464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 409,
+      "website": "http://www.shangri-la.com/muscat/barraljissahresort/dining/restaurants/al-tanoor/",
+      "photoRef": "places/ChIJ_Ur-y83zkT4RcPVtxhoyPa0/photos/AcnlKN2edtUJUNBFqG1qkr6H7mkNUf7WN5WLPCYzsPbvpsN3WVZZJNJyIH297xqtAiqX-8DREQa41M4pbOgD-sYpqUgt7QgGl8ZzSIsC9AP5ehe-SDWd8pAlGxuF1qhJwmGO-iMUhuX9_lC2FD43DS1rSRIJ4vVK67DbE2KexmjzQxkvGdIEDQe35OrvCAhNUAkTodw3IXH3HwKyqYffnmimEtSO1vXYywQCnORzTbzdDvK5Hr9iwvjtOxtyWYBzP0Mb9-SdAksOgZAtcXo5w3P4FaYuUuvH-SvloWNqeS3v3ZXpGg",
+      "photoAttribution": "Al Tanoor",
+      "placeId": "ChIJ_Ur-y83zkT4RcPVtxhoyPa0",
+      "phone": "24 776565",
+      "hours": [
+        "Monday: 7:00 – 11:00 AM, 6:30 PM – 10:30 AM",
+        "Tuesday: 12:00 – 3:00 PM, 6:30 – 11:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 6:30 – 10:30 PM",
+        "Thursday: 12:00 – 3:00 PM, 6:30 – 11:00 PM",
+        "Friday: 12:00 – 3:00 PM, 6:30 – 11:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 6:30 – 11:00 PM",
+        "Sunday: 12:00 – 3:00 PM, 6:30 – 11:00 PM"
+      ],
+      "address": "Barr Al Jissah, PO Box 644, مسقط 100, Oman"
+    },
+    {
+      "name": "Wadi Dayqah Dam",
+      "coord": [
+        23.0821006,
+        58.8489103
+      ],
+      "desc": "Pack lunch from hotel or stop at Sur roadside cafe",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16445810574051345171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch"
+      ],
+      "rating": 4.4,
+      "ratingCount": 3282,
+      "photoRef": "places/ChIJIXdI1p6zkT4RE4OxXZVBO-Q/photos/AcnlKN0oTnmsdP89cyrssFi-GcZPevJ00ctjc2EAVuI_YJHkEFMKCx3nxbmyoQecfIx9WkfRMyqQZwJm6ago3UB-b50VPWJPUDwVECiF0crstgUttxd3QOdyVjQV95TVUVskiEQbg0-QeaQ7OkJBz48TL4HVzWwF-cFrzY8fIl_G9DJ6nbZa165MAJzxW0AdA3HE_RFQe0p4_Y4urW7R7MOzz2ZxWT1_zbjcKbVMIXCIyx5XKIhtWK4ISpPSlX8paGeZMeCkfBj6LYB8pGLlMO-KCeUn6UC4iARkcvrkDaEZHh1Sa6nZQ-AgCSQzlBOK7_PFt2rLhBI4E7lFwZLCby6RomLymfsMfLyo5mxzqJ8QysNUMGsCM-5bAyPOtb8iWIS9Vt8JUEzQwaT1bptD1wNg7sxwAj8vEOvy2xrb99UO1WESSg",
+      "photoAttribution": "A Ijaz",
+      "placeId": "ChIJIXdI1p6zkT4RE4OxXZVBO-Q",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "address": "Wadi Dayqah, Qurayyat, 3RJX+RHV، المزارع، Oman"
+    },
+    {
+      "name": "Zale Beach Restaurant & Lounge",
+      "coord": [
+        23.628292,
+        58.2734508
+      ],
+      "desc": "Casual beachfront dining at Al Bustan with kids menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2850993573163306398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Beach",
+        "Casual Eats",
+        "Good for Lunch"
+      ],
+      "rating": 4.4,
+      "ratingCount": 720,
+      "website": "https://www.kempinski.com/en/kempinski-hotel-muscat/restaurants-bars/zale-club-lounge?utm_medium=organic&utm_source=google&utm_campaign=KIMCT1&utm_content=gmb&source=S308962248",
+      "photoRef": "places/ChIJ9XF-b-L9jT4Rng1SsYzDkCc/photos/AcnlKN2gtrQnIJiroCynP7g_vuq06JFIC0Sx0BXgNH6Gfk35hv5uQMQQ-w72ReBLWYZgFhp05AmedUHuFLQhcL3jaoTlxUWElHqd7i3yfODA4AW2UTgcfR0ENbSC6kKg704X59tz4DIUb3nDPKKYwSDLc10Wr1H9yTuQ4tq1oZ9YX82PKAyH1HalWauFk1j8sxNaEjyuo-EFOnHK0aLuxKPNFM_ZZkriYUz-feqlwdariTQ4B8tD4WAfsMi4tTpg7dssqlDlVOPgCAJV0ctYSFJ959UR5p2slgec-I1UlD3EXU1dWg",
+      "photoAttribution": "Zale Beach Restaurant & Lounge",
+      "placeId": "ChIJ9XF-b-L9jT4Rng1SsYzDkCc",
+      "phone": "24 985000",
+      "hours": [
+        "Monday: 1:00 PM – 1:00 AM",
+        "Tuesday: 1:00 PM – 1:00 AM",
+        "Wednesday: 1:00 PM – 1:00 AM",
+        "Thursday: 1:00 PM – 1:00 AM",
+        "Friday: 1:00 PM – 1:00 AM",
+        "Saturday: 1:00 PM – 1:00 AM",
+        "Sunday: 1:00 PM – 1:00 AM"
+      ],
+      "address": "Kempinski Hotel Muscat فندق كمبينسكي335, Street 6, Muscat, Oman",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Sultan Qaboos Grand Mosque",
+      "coord": [
+        23.5838077,
+        58.38866869999999
+      ],
+      "desc": "Magnificent Islamic architecture, vast prayer hall, intricate chandeliers, peaceful gardens, guided tours",
+      "longDesc": "An architectural masterpiece with breathtaking Islamic design, stunning chandeliers, and serene gardens, offering families an inspiring cultural and spiritual experience with knowledgeable guides.",
+      "gmapsUrl": "https://maps.google.com/?cid=6897930501325579737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Art & Design",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.8,
+      "ratingCount": 15569,
+      "website": "https://sultanqaboosgrandmosque.com/",
+      "photoRef": "places/ChIJLbC42cX_kT4R2eXXgD5ful8/photos/AcnlKN3kgBVZeTn3dlVloPN_IPcYmxPYXq6k5IUcsrqQyc9-inSynkdpEzjmMk4-9L_32k_iAqUd2cnU_4KUfoiZOChTQmqkvtJ2SXBVNn67BNEb_zfAY6ZA6hMn0fHT-xGUYOhJGHWUgZovmUuDJUJqdnzwbIFmer7-dyt6izM7XdvJ6CwskULw1ZfxCrd8TqbIxgyCb-wFv7LwZvFOMoJLhjmURbTdV4CNlnQWdXnbj9CGXafAgpPUR6b9749Qde1VX1BYW8C4w4u7bkmVywYcaQ3utCPwvgq88cPPGniIEI2UDonWS1klpsgH3gHIyEGaVY0aWRPdy3T0vwJBCi42BQZBcsS3aCN1u7BSrjV9jd7LVsUZdxdTpW19PrFovDcIxrXuIP_esAr4qi5Ft2yUEwM3qTMPlXmqTnUskp3dV1uhHQ",
+      "photoAttribution": "Claudio Picciola",
+      "placeId": "ChIJLbC42cX_kT4R2eXXgD5ful8",
+      "phone": "24 505170",
+      "hours": [
+        "Monday: 8:00 – 11:00 AM",
+        "Tuesday: 8:00 – 11:00 AM",
+        "Wednesday: 8:00 – 11:00 AM",
+        "Thursday: 8:00 – 11:00 AM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Sultan Qaboos St, Muscat, Oman"
+    },
+    {
+      "name": "Wadi Shab",
+      "coord": [
+        22.8388635,
+        59.246913299999996
+      ],
+      "desc": "Stunning canyon hike, emerald pools, waterfall, swimming holes, scenic trekking adventure",
+      "longDesc": "A spectacular wadi trek featuring dramatic canyon walls, turquoise pools, and a refreshing waterfall, ideal for adventurous families who want to explore Oman's stunning natural landscape.",
+      "gmapsUrl": "https://maps.google.com/?cid=14796347693562433159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Family Friendly",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 5705,
+      "photoRef": "places/ChIJS0oWr0vykD4Rh471N9UvV80/photos/AcnlKN25W3osZV6b9WDn7USy4s9ySSjSkJAMhZAzQuppB42OYPiBNvHXPdWAjxQ-s_U7OZgubit7az8Op5YCUYZqY5FdUfVOFJWlFK_T2-yIki_ajEv_0bAy8142jcoao8Y7cydb2tQ7PQ3suxrePCSImNRfRQSv5wYEWs41mTottQodt95d_k9iMZFROjLKFRMJnncR1cA-4dzIPdefjPbmvHdyCJTCegF8bExgpwxaabIcJzV3JRy0Zv7FrCSSh_lQWV1GXCE5TpzE5Q3JptwgobmdZlZ1EKsV17QhZrp5lTB0xwxaucP4aSBc8wm0K5ZUxLRtaAz7YZOGdX999r1g4Ritnq6E-ZPwn5adOoD02JJ2BZPB6HXyZxNpHadTYJHbGLwFBroyijWzVVC_vSKf_LYrJHhMViFjRRyE4B5CoFGXEkXu",
+      "photoAttribution": "Tech Mani",
+      "placeId": "ChIJS0oWr0vykD4Rh471N9UvV80",
+      "phone": "9974 3553",
+      "hours": [
+        "Monday: 7:00 AM – 5:30 PM",
+        "Tuesday: 7:00 AM – 5:30 PM",
+        "Wednesday: 7:00 AM – 5:30 PM",
+        "Thursday: 7:00 AM – 5:30 PM",
+        "Friday: 7:00 AM – 5:30 PM",
+        "Saturday: 7:00 AM – 5:30 PM",
+        "Sunday: 7:00 AM – 5:30 PM"
+      ],
+      "address": "Tiwi, Oman"
+    },
+    {
+      "name": "The National Museum - Sultanate of Oman",
+      "coord": [
+        23.6116015,
+        58.593728299999995
+      ],
+      "desc": "Modern museum, Omani history, maritime heritage, interactive exhibits, educational displays",
+      "longDesc": "A comprehensive museum showcasing Oman's rich history, maritime heritage, and cultural traditions through engaging exhibits, perfect for families seeking educational indoor activities.",
+      "gmapsUrl": "https://maps.google.com/?cid=6998811176691186579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Family Friendly",
+        "Art & Design"
+      ],
+      "rating": 4.6,
+      "ratingCount": 4283,
+      "website": "https://www.nm.gov.om/",
+      "photoRef": "places/ChIJM03GGgT3kT4Rkzu2FK_FIGE/photos/AcnlKN3PdFAKcY4exEOO308qgQZcbhsWijtDhwdfP-ypxLXbbduj1RNnLobRU9DVP3WuLqvURapJoE1bLl1Ys6_mt4ei89JiaegMESwvvzVwxqpgGjAXhgkLrQ--5mZQW7YcYZ5sU1hva8n32g_CJfxsiFzxy5PQNEmZn_PovUkuvXjA1xtRThL5J4xdemgh4HulnkZDYA3jxpj6FdkW8Nd_Fr1cmsIQWGeG8tTM5LX7vkfPT-KWu6cOLLAu5cR0J5sf0wg9t4E4b28aW_7mvWSFGvCE0T1kzTj2Sre6qwM0h3ON8t63euH-QKwFvlVuw1Ucd6BskRfpjjk9TjnsRNgmcKMuFjOxEpVsgP4lp87e-SyK2M5_9ae-igu5bioVW89freHmBa_Z2x6oBuIFULBO3EeuptrcDfFKO-ywZVCx1kNgW8XXPW8Umrz3byyGDA",
+      "photoAttribution": "Luboš Dajč",
+      "placeId": "ChIJM03GGgT3kT4Rkzu2FK_FIGE",
+      "phone": "22 081500",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "opposite Al Alam Palace، Al Saidiya St, Muscat, Oman"
+    },
+    {
+      "name": "Al Ayjah Castle",
+      "coord": [
+        22.5651574,
+        59.543181
+      ],
+      "desc": "Public beach near Sur with calm waters suitable for families and children",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15800221005628160945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Beach",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.1,
+      "ratingCount": 309,
+      "photoRef": "places/ChIJ7RktskGhkD4RsbshnUqpRds/photos/AcnlKN0h2e0SzHE_ljrSe9JZ0v_W0BjxVADxj5AFiVmByTOuO5qRxhohJYpseV8mdkXZkPQnrdqIiwf7eSm0J6IQW7sgNptj5rDvjAIwZrpwuhADPs_ODCLWC4bwp9A_i9Mn68akXY2GokAXfIf-65eR294MjUkIu5GlAdHxWVYvFQKxPOt3rjnbL0Ssb23bK67S_FC7XOX5RSaPlzBsRmj0_9VHKLtsubzTG4Sy06tpOPIX_ccfbZOMpsJW3TR91ghnxkBskzxmwf44CX-fcKPHv849_f4R8snW9PEfhyOF2yZoAhGJa05ikaX4ez93ZyPZVzgpw3C4hmDREEZQi1_rzF4iZfUBxPU_YLmbPLzF2fZhUx_rrD0f7eIdRYpKnrbBX3WnavTL8i2L69OjbYtYxJAfENRA8-KEsKBwrNEgPGhhYAytFfmGPC3HSl4Dta8h",
+      "photoAttribution": "Fab Delare",
+      "placeId": "ChIJ7RktskGhkD4RsbshnUqpRds",
+      "phone": "9472 3759",
+      "hours": [
+        "Monday: 8:00 AM – 1:30 PM",
+        "Tuesday: 8:00 AM – 1:30 PM",
+        "Wednesday: 8:00 AM – 1:30 PM",
+        "Thursday: 8:00 AM – 1:30 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: 8:00 AM – 1:30 PM"
+      ],
+      "address": "HG8V+377, Sur, Oman"
+    },
+    {
+      "name": "Al-Ayjah Lighthouse | منارة العيجة",
+      "coord": [
+        22.568984999999998,
+        59.539707199999995
+      ],
+      "desc": "Waterfront promenade and beach area in Sur perfect for sunset views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5331758315755415593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Beach",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1212,
+      "photoRef": "places/ChIJqf8utmmhkD4RKSjWdvA1_kk/photos/AcnlKN1oj3K9veJRH6q3IlyN6IHcO3F5ezFcqaTA5OlPEI0GMw_kw_J8vWrl85mKgo1moVfY9NfADG6wPVBm8LYb268ZSHsKj0xRd_EmV22MjzpxQ_RoIxxHOAxRtp9aWdV179qlgKsWCr20o8k-BLaHMOKB5cE9R5JpUvlQF2ku4dQHNidHVm9sNGyu_ph-S9Q1cSMB7Wvma1eIgyUlnC2bdmYIylRMx0H3B-uwPm6HR-WAVOQ5hO-cKy1iQns1kJMMp9OUhSCZpLZkmmomkCSSm3UYrzbUxo4bGir1otx4bG-qqbdjFPoYbS9ll4mF6uNHJIBO4Jpw_kDzDOtxiAWiIQrxZlpeaSJQWEIn2o7Ayq9TnELDhdtqsYzPGvyPFV5YNxsH6trZpo8ED6UITao0AXHyq84eeYJPk8UW21YB63MR_UW_MfLIkHl2IjbRDM8e",
+      "photoAttribution": "marabout ski",
+      "placeId": "ChIJqf8utmmhkD4RKSjWdvA1_kk",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Al Ayjah Lighthouse, Sur, Oman"
+    },
+    {
+      "name": "Qurum Beach",
+      "coord": [
+        23.6250108,
+        58.479280499999994
+      ],
+      "desc": "Popular public beach in Muscat with calm waters and facilities, ideal for families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14353345906735200383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1801,
+      "photoRef": "places/ChIJX1N9vaT4kT4RfzhCDQ5UMcc/photos/AcnlKN1iOf-T9izFQ_HcIcQ2Lx5o8waNWhdqZRbZSozlJWDpRY4zcDiSxkTyigQKNc47Hqyusakdz-TrpcjVByA5bum1fnVdcrwrQ_ep3FJB0iBsGbc1LbAPRn4EfT7axIYL1hwB3IpxCRr5kRBQprmh0IRB49nuzBvUUaXIEggtkS7qfy9AXJncua9knT60HhOIMseMe2Kcc99hH5fqdpNpONnsW5L5JERspTLvhuawnk_XWXfoDV1lz3gci1JxFr7ge733RuL0lkjdw3_j1TKLyAxKAmMC7W6asiNZaJPeh-LVhRNWjE4ZLvXZhZVs7YXOHqh_HEwz5SxjSGMbSjVaVRXGkcgNTZv1bnPJ01rgBL-lJKRYnnFpKiUCumQO9yCdkhkp4X1zUKLsxXESpFm0bkvF7B9Pm-JDsDthJoaqWl2Eskyg2qFcJoc7VjQHOBv7",
+      "photoAttribution": "hajar sadeghi",
+      "placeId": "ChIJX1N9vaT4kT4RfzhCDQ5UMcc",
+      "phone": "9864 0400",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Qurum Beach, Muscat, Oman"
+    },
+    {
+      "name": "Turtle Beach",
+      "coord": [
+        23.5508274,
+        58.6613652
+      ],
+      "desc": "Protected beach near resort where green turtles nest seasonally",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14550108017885053798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "rating": 4.2,
+      "ratingCount": 9,
+      "photoRef": "places/ChIJjfRnG0jzkT4RZgOaCSde7Mk/photos/AcnlKN2QjZJy4p993vNEJbczvdjCyQyt-NsJxOMluXGlAnBZ-SgEVZ39yMAtpDvTXlHn8sDOoshpYJdOs-UaqHIf6G4OISJLrLCAe_bLVzSNEUb3NxqGmLlVdE5zYzN5xkGvEZFhV9y3hq_X7W40hr-rXShX0ct8793C12HmKU7DFEG2siw96AZZCS7_93YlAIgUwLjh9OtRdSi33FWwECRtqhRN4IdC6fss55UY0e-B_ZEAv-tj_QUPNudlm2x2mlAPRkBG01apTt_UdwleDzG1kUeURQh3XdUt9guSduKDXcdpdRxmiwwt6w-eDwp_hLkb_Agiczy2yZTVzmPSjdoyWMqy7GBpzWrAXpesCW9ZQxiq8sMxufUeV4iaBhEXofRyBQQNt41BDB1d9eUR1q72hnGdvyYcwpS6Wmam26kfOkkUN7Qn",
+      "photoAttribution": "Guillaume",
+      "placeId": "ChIJjfRnG0jzkT4RZgOaCSde7Mk",
+      "address": "HM36+99, Bandar Jissah, Oman"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Qurum Natural Park",
+      "coord": [
+        23.6215625,
+        58.49268749999999
+      ],
+      "desc": "Beautiful seaside park, walking trails, playgrounds, picnic areas, family-friendly atmosphere",
+      "longDesc": "A spacious coastal park with scenic walking paths, children's playgrounds, and peaceful picnic areas, perfect for families to enjoy outdoor activities and relax by the sea.",
+      "gmapsUrl": "https://maps.google.com/?cid=4704612870433197814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Budget Friendly",
+        "Playgrounds",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 11666,
+      "website": "http://www.mm.gov.om/",
+      "photoRef": "places/ChIJRSn8SJT4kT4R9s7mw3okSkE/photos/AcnlKN3yWZ9DK-0AK0AZenh1EP8D5SZKlMP1pSWBQyZx7J9mIrwQt3Kk1B5RlSykYRbQjpB7Y01qd7G7ob6v48pHg6M_e51OOW8hWDhnF_fc1UydESdwlBgKB4unBls_sE0tEsNq2h_iXjTyBBdz5vONswXMaedrt_sL2ZY34wHqSiBM7AGFTaaLVOmyb-tM9KgRrCrowQArVq_oxhx06__KETsxb6VP9koJIvEI7C359hhXUmefQaNZiA23rg7AlaYnrRsy6qDHvSl2eCwMUijvNRlG2Gbvlclv7HG5kVAdZc04ueK0opZEbrDxJ6VxSzdX21n2M0_rc5w0hVjx9iAKgqIAr3n92x9HteB6MeVmZ5DP2_XEV2muTBC-63b4ICJ_UAOk04C8dhlXHCpOZh99IZvikjETo2w0uxZ8XOQu_xtmVw",
+      "photoAttribution": "Kalou Jaime",
+      "placeId": "ChIJRSn8SJT4kT4R9s7mw3okSkE",
+      "hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ],
+      "address": "JFCV+J3, Muscat, Oman"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mutrah Souq",
+      "coord": [
+        23.6204018,
+        58.56449999999999
+      ],
+      "desc": "Historic trading market, incense and spices, traditional crafts, colorful stalls, vibrant atmosphere",
+      "longDesc": "An enchanting traditional souq filled with aromatic spices, frankincense, textiles, and local crafts, offering families an authentic sensory experience of Omani commerce and culture.",
+      "gmapsUrl": "https://maps.google.com/?cid=1507248529356840384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Cultural & Historical",
+        "Local Delicacies",
+        "Family Friendly",
+        "Budget Friendly",
+        "Market / Street Food",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 28947,
+      "website": "http://omanstore24.com/mutrahsouq",
+      "photoRef": "places/ChIJL7iog4X3kT4RwF2LPI3S6hQ/photos/AcnlKN3eOq5JebFqPLK0uM57dMU78DLroHX1Ol6b_es_OIeDblhoBtmSya9qHX-u4yIU9CfBQ6esN5sxjKNwSBLZOGDVGploLrNhSVxT_icNuEqBbyg48bwiYmmWjYUvyvjqc8XhD_N6eNOPJg7HdkjItOQoSkEl_gcN6sJCDETa9dYJYy6OgS4vI8CFScn0cFcfaHc2bNKNV2udLXSA5lJmlPl7GCL1MtCzr9Odz0Ceay8YT87NBLRtQplSAjyVrWXimr7W0_0BnKK4SutYFJ6Tru3612K7FdBGurvDUcWd-Usp8JIVdKr0lFg3anSDlgwh9CRU7r0GPOa_9XqDFa-2KCFtiWYwuTQg-HkZZjQuVbPLMH-cRuBm9ZchrLNRfjXPy-80oZx71WukVsBNCMluP1LaTRF-3SudnU4N7lNNn0tOzQvPQuFEbV3I5sNWLkpF",
+      "photoAttribution": "‫د. عبدالرحمن بن عوده البلادي (عبدالرحمن البلادي)‬‎",
+      "placeId": "ChIJL7iog4X3kT4RwF2LPI3S6hQ",
+      "phone": "9827 7478",
+      "hours": [
+        "Monday: 9:00 AM – 11:00 PM",
+        "Tuesday: 9:00 AM – 11:00 PM",
+        "Wednesday: 9:00 AM – 11:00 PM",
+        "Thursday: 9:00 AM – 11:00 PM",
+        "Friday: 4:00 – 10:00 PM",
+        "Saturday: 9:00 AM – 11:00 PM",
+        "Sunday: 9:00 AM – 11:00 PM"
+      ],
+      "address": "سوق مطرح مطرح، مسقط،، Mutrah Market, near Mutrah Corniche, مسقط، Oman"
+    }
+  ],
   "cityCenters": {
     "Oman": [
       24.6624,
@@ -75,5 +1022,386 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Oman Family Adventure: Forts, Wadis & Beach Palaces (8 Days)",
+      "description": "An enchanting Arabian journey designed for little explorers—combining fairy-tale palaces, turquoise canyon swims, ancient forts, and endless pools perfect for tiny toes.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Muscat",
+        "Barr Al Jissah"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Muscat",
+          "dayType": "urban",
+          "base": "Muscat",
+          "items": [
+            {
+              "name": "The Chedi Muscat",
+              "type": "hotel",
+              "coord": [
+                23.6022003,
+                58.3990514
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Kargeen Caffe",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular garden restaurant serving Arabic and international cuisine in a relaxed outdoor setting",
+              "suggestedCity": "Muscat"
+            },
+            {
+              "name": "Afternoon pool time and beach play",
+              "type": "freeTime"
+            },
+            {
+              "name": "Early dinner at hotel to adjust to timezone",
+              "type": "info"
+            },
+            {
+              "name": "Oasis By The Sea",
+              "type": "dinner",
+              "coord": [
+                23.616183,
+                58.46184
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Grand Mosque & Old Muscat",
+          "dayType": "urban",
+          "base": "Muscat",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Green Cafe",
+              "type": "coffee",
+              "coord": [
+                23.5994113,
+                58.4546944
+              ]
+            },
+            {
+              "name": "Sultan Qaboos Grand Mosque",
+              "type": "sightseeing",
+              "coord": [
+                23.5838077,
+                58.3886687
+              ]
+            },
+            {
+              "name": "Turkish House Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Authentic Turkish cuisine in Muscat with views of the old town",
+              "suggestedCity": "Muscat"
+            },
+            {
+              "name": "Afternoon nap time for the little ones",
+              "type": "nap"
+            },
+            {
+              "name": "The National Museum - Sultanate of Oman",
+              "type": "sightseeing",
+              "coord": [
+                23.6143,
+                58.5431
+              ]
+            },
+            {
+              "name": "Al Angham Oman",
+              "type": "dinner",
+              "coord": [
+                23.6142588,
+                58.4676123
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Souq Adventures & Seaside Park",
+          "dayType": "urban",
+          "base": "Muscat",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Mutrah Souq",
+              "type": "shopping",
+              "coord": [
+                23.6204018,
+                58.5645
+              ]
+            },
+            {
+              "name": "Bait Al Luban",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Omani restaurant near Mutrah Corniche with harbor views",
+              "suggestedCity": "Muscat"
+            },
+            {
+              "name": "Qurum Natural Park",
+              "type": "sightseeing",
+              "coord": [
+                23.6215625,
+                58.4926875
+              ]
+            },
+            {
+              "name": "Playground time and nature walk",
+              "type": "freeTime"
+            },
+            {
+              "name": "Ubhar Restaurant",
+              "type": "dinner",
+              "coord": [
+                23.612509,
+                58.464311
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Transfer to Barr Al Jissah Beach Resort",
+          "dayType": "suburban",
+          "base": "Barr Al Jissah",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Shangri-La Barr Al Jissah, Muscat",
+              "type": "hotel",
+              "coord": [
+                23.5505981,
+                58.6595115
+              ]
+            },
+            {
+              "name": "30-minute scenic coastal drive to Barr Al Jissah",
+              "type": "info"
+            },
+            {
+              "name": "Al Bandar Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly Mediterranean restaurant at Shangri-La resort",
+              "suggestedCity": "Barr Al Jissah"
+            },
+            {
+              "name": "Beach time and pool exploration at the resort",
+              "type": "beach"
+            },
+            {
+              "name": "Bait Al Bahr",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fresh seafood restaurant with ocean views at Shangri-La",
+              "suggestedCity": "Barr Al Jissah"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Resort Day & Turtle Beach",
+          "dayType": "suburban",
+          "base": "Barr Al Jissah",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at the kids' pool and shallow lagoon",
+              "type": "beach"
+            },
+            {
+              "name": "Casual poolside lunch at resort",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Pool Cabana serving light bites and kid-friendly meals",
+              "suggestedCity": "Barr Al Jissah"
+            },
+            {
+              "name": "Afternoon nap or quiet time",
+              "type": "nap"
+            },
+            {
+              "name": "Evening turtle watching at Yiti Beach",
+              "type": "optional",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Protected beach near resort where green turtles nest seasonally",
+              "suggestedCity": "Barr Al Jissah"
+            },
+            {
+              "name": "Sultanah",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Arabic mezze restaurant with family-style sharing plates",
+              "suggestedCity": "Barr Al Jissah"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Wadi Shab Adventure",
+          "dayType": "rural",
+          "base": "Barr Al Jissah",
+          "items": [
+            {
+              "name": "Early hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "1.5-hour scenic drive to Wadi Shab",
+              "type": "info"
+            },
+            {
+              "name": "Wadi Shab",
+              "type": "sightseeing",
+              "coord": [
+                22.8388635,
+                59.2469133
+              ]
+            },
+            {
+              "name": "Family-friendly wading in emerald pools (first section only with toddlers)",
+              "type": "freeTime"
+            },
+            {
+              "name": "Picnic lunch by the wadi",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Pack lunch from hotel or stop at Sur roadside cafe",
+              "suggestedCity": "Sur"
+            },
+            {
+              "name": "Return drive to resort",
+              "type": "info"
+            },
+            {
+              "name": "Early dinner and rest after adventure day",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual Italian restaurant at Shangri-La for pizza and pasta",
+              "suggestedCity": "Barr Al Jissah"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Return to Muscat & Final Explorations",
+          "dayType": "urban",
+          "base": "Muscat",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Al Bustan Palace, a Ritz-Carlton Hotel",
+              "type": "hotel",
+              "coord": [
+                23.5671512,
+                58.6155072
+              ]
+            },
+            {
+              "name": "Short transfer to Al Bustan Palace",
+              "type": "info"
+            },
+            {
+              "name": "Check-in and explore the grand palace lobby",
+              "type": "freeTime"
+            },
+            {
+              "name": "Beach Club Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual beachfront dining at Al Bustan with kids menu",
+              "suggestedCity": "Muscat"
+            },
+            {
+              "name": "Qurum Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Popular public beach in Muscat with clean sand, facilities, and family-friendly atmosphere",
+              "suggestedCity": "Muscat"
+            },
+            {
+              "name": "China Mood",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Asian fusion restaurant at Al Bustan with family-friendly options",
+              "suggestedCity": "Muscat"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Muscat",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final swim or pool time before checkout",
+              "type": "freeTime"
+            },
+            {
+              "name": "Green Cafe",
+              "type": "lunch",
+              "coord": [
+                23.5994113,
+                58.4546944
+              ]
+            },
+            {
+              "name": "Last-minute souvenir shopping at hotel shops",
+              "type": "optional"
+            },
+            {
+              "name": "Transfer to Muscat International Airport",
+              "type": "info"
+            },
+            {
+              "name": "Bin Ateeq",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Omani restaurant known for authentic local dishes including shuwa and majboos",
+              "suggestedCity": "Muscat"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

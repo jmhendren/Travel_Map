@@ -29,7 +29,9 @@
         "Romantic",
         "Splurge",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Afternoon Wine",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 9:00 AM – 6:00 PM",
@@ -62,7 +64,9 @@
         "Splurge",
         "Adventure & Active",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views",
+        "Full-Day Activity"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -74,12 +78,893 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "(2) 2233 9641"
+    },
+    {
+      "name": "The Singular Santiago, Lastarria Hotel",
+      "coord": [
+        -33.437260099999996,
+        -70.6407144
+      ],
+      "desc": "Historic mansion hotel, art collection, rooftop terrace with city views",
+      "longDesc": "A beautifully restored mansion in Lastarria neighborhood offering art-infused luxury. Perfect for families seeking cultural immersion with modern comfort and personalized service.",
+      "gmapsUrl": "https://maps.google.com/?cid=9580696969447550034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Scenic Views",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 2083,
+      "website": "https://www.thesingular.com/",
+      "photoRef": "places/ChIJ_ZTOaJnFYpYRUiyVDCJ59YQ/photos/AcnlKN31E75WtBpvazyviPVXNdvIwTqBbwp_tuswtFF7m-CetDBqWgXYbWLcelbtOEF5FzkU5v-yLu_TW0yy_oxI3uxU1GCK1WFRDDpUiHrERkbmXObDkxs-4A-QpttU_-7eoakEfkVHf_hPiovOt8xE0lVOZg94X6miY6gk_HEQZd8znkh1ajzPBLdM7ygiUCONiBbSjtZ9uCiQMvdh_y85Kx6Xtb59wYYlyV0Yj7HZsnJ36NZr3AYyty3GsmpSAZ-Z6Y9jIEMTb5oFnTpX28tKeQWykvhs-AzVXeN37gaA3vJtSg",
+      "photoAttribution": "The Singular Santiago, Lastarria Hotel",
+      "placeId": "ChIJ_ZTOaJnFYpYRUiyVDCJ59YQ",
+      "phone": "(2) 2306 8800",
+      "address": "Merced 294, 8320128 Santiago, Región Metropolitana, Chile"
+    },
+    {
+      "name": "Explora Atacama",
+      "coord": [
+        -22.918125099999997,
+        -68.2045593
+      ],
+      "desc": "All-inclusive desert lodge, guided excursions, salt flats exploration, family adventures",
+      "longDesc": "An all-inclusive lodge nestled in the Atacama Desert offering curated family-friendly expeditions to otherworldly landscapes. Everything from meals to expert-guided tours is included.",
+      "gmapsUrl": "https://maps.google.com/?cid=4042872325520490140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Full-Day Activity"
+      ],
+      "rating": 4.6,
+      "ratingCount": 323,
+      "website": "https://www.explora.com/lodge/atacama-lodge/",
+      "photoRef": "places/ChIJJ3KjCPd0qZYRnP7nwvUqGzg/photos/AcnlKN17ni8eicwFh7jtfF_VsWyyxgDwXD4stEhilhvvyZLG6_KkywxZ0g5__Jf3V8usizO-wDR-vtQImXI-3Vw0oBS237Mqejx8VqLeIodIEBIRjZLxVLBWyfBBgculNW4FjZ7EtopqlZE9tOYKGrCF3QnIUW1Gh6qr3BGJ_pZ_9VNMcjts4Yoewkk__UOr65vLROhBajd2bOOG8uGT13xo0DfUy6NBVrTbczz4PgEhao7FDzviBD8o6GORKmSuPsvUxD2-C5V1D3HTra65l1MADg-wJWz6MXWKkMRC_HZJQicE0XqHTOQr7_JRqC3vHaO-9gI4UQwWC1hNWqpddVfat415rjxmRJWiNFP3z8ovO67ALwcvKmW6rQ04fAPtqyh6gmirrHu8xrOWeHYghPnM53HkLzQOyU3O2w7cW2oWwv77_hq_lEVpXGH17YwN-w",
+      "photoAttribution": "Andre Kok",
+      "placeId": "ChIJJ3KjCPd0qZYRnP7nwvUqGzg",
+      "phone": "(2) 2395 2800",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Domingo Atienza Sn, 1410000 San Pedro de Atacama, Antofagasta, Chile"
+    },
+    {
+      "name": "Explora Patagonia Torres del Paine",
+      "coord": [
+        -51.1164588,
+        -72.9917932
+      ],
+      "desc": "Patagonian luxury lodge, glacier views, outdoor adventure hub, family-focused amenities",
+      "longDesc": "An intimate lodge in Patagonia with stunning glacier and mountain views. Families love the proximity to Torres del Paine and the warm, welcoming atmosphere designed for all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=18343196840301255160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly",
+        "Scenic Views",
+        "Full-Day Activity"
+      ],
+      "rating": 4.6,
+      "ratingCount": 283,
+      "website": "https://www.explora.com/lodge/torres-del-paine-lodge/",
+      "photoRef": "places/ChIJq6qqqqoapb0R-Fk5_1YgkP4/photos/AcnlKN3GTEp27OGARvpTZfpqcpGnXV6MXrtPyRarhbd0aXT13gMSU4YyCqfMjEDCkKw48taM1uM5whxOxWQzmbbDN2p-Xs99PZnAQMrvZtoGJLmnx_HtQFT6FSChiVjp4Ep5ul0k5OE-URd8Fr9WLM1G0l5wV98b1E1iOm9iH4UDG5qKH2-3KBHlrGLECSjASm_h0dp2OTx_OumPcF2hmQd-MYufdYizyOCoTJ5VMA9Fa8hpfE2TU_sqzEY5xbtHmWYQUNgdWJmbqCZRzOcndCpIa-12c6Hku4jJrxNNefAqPOvKmg",
+      "photoAttribution": "Explora Patagonia Hotel Salto Chico",
+      "placeId": "ChIJq6qqqqoapb0R-Fk5_1YgkP4",
+      "phone": "(2) 2395 2800",
+      "address": "Torres del Paine National Park, Torres de Paine, Magallanes y la Antártica Chilena, Chile"
+    },
+    {
+      "name": "La Sebastiana Suites",
+      "coord": [
+        -33.4164199,
+        -70.60202029999999
+      ],
+      "desc": "Colorful hillside boutique hotel, ocean views, local artist vibes, family rooms available",
+      "longDesc": "A charming boutique hotel perched on Valparaíso's colorful hills with artistic flair. Family suites offer comfort while staying true to the city's bohemian, creative character.",
+      "gmapsUrl": "https://maps.google.com/?cid=13908332781637497103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design",
+        "Family Friendly",
+        "Cultural & Historical",
+        "Scenic Views",
+        "Beach"
+      ],
+      "placeId": "ChIJ0YJQ30HPYpYRD3Fss_lSBME",
+      "address": "7550180 Las Condes, Santiago Metropolitan Region, Chile"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Pujol Geraldo Vanessa K.",
+      "coord": [
+        -33.4745633,
+        -70.6470039
+      ],
+      "desc": "World-renowned fine dining, innovative Chilean cuisine, tasting menus, culinary artistry",
+      "longDesc": "One of South America's most celebrated restaurants showcasing contemporary Chilean ingredients and techniques. An extraordinary fine dining experience for special family occasions.",
+      "gmapsUrl": "https://maps.google.com/?cid=4933675070623811324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Reservations Recommended",
+        "Iconic / Must-See"
+      ],
+      "placeId": "ChIJzXlP8zjFYpYR_Ia7RVbvd0Q",
+      "address": "Arturo Prat 2251, 8361373 Santiago, Región Metropolitana, Chile"
+    },
+    {
+      "name": "Confitería Torres",
+      "coord": [
+        -33.41397310000001,
+        -70.5996378
+      ],
+      "desc": "Historic café since 1879, pastries, coffee, tea, family-friendly dessert spot",
+      "longDesc": "An iconic Santiago institution famous for exquisite pastries and quality coffee. Perfect for families seeking a sweet treat and authentic local café culture experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=5932609785691780675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Family Friendly",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Breakfast Spot",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1428,
+      "website": "http://confiteriatorres.cl/",
+      "photoRef": "places/ChIJuwPGREDPYpYRQzYq8yrdVFI/photos/AcnlKN1NQUZJCJmJO7vj8SHV6iBSWn7zBOUKXFuIKNATPCRqEzCJZ2MGaK6_XHdnaPRK6sGf039X6L1OwygwxrwNP3UUkcih7aU1FBtpZI3JNlMfRutUe1Bzsx6lebZsgCmAIKR1Xe0PVZoJjjIeGR78RWVzaUumF-zgyNDTSg8Qst_DrYTcDIu73hYvp4Z5fjIjFz3PLrO72Fqcwgk4n2zsrezWcKmh8c4FNKrzBxOLOFiQAGeJqzaTXh9kex90uOQ3mZs5uQPQGohYTRDCTHHLq2Z_KKFZuUROjKrFL6d6RDZnxw",
+      "photoAttribution": "Confitería Torres",
+      "placeId": "ChIJuwPGREDPYpYRQzYq8yrdVFI",
+      "phone": "(2) 2333 2639",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "address": "Isidora Goyenechea 2962, 7550057 Las Condes, Región Metropolitana, Chile",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Oceania technology",
+      "coord": [
+        -41.4313596,
+        -72.90706109999999
+      ],
+      "desc": "Seafood restaurant overlooking the bay, fresh catches, local specialties, family seating",
+      "longDesc": "A beloved waterfront seafood restaurant with stunning bay views. Families enjoy fresh local fish, relaxed atmosphere, and the opportunity to watch fishermen at work.",
+      "gmapsUrl": "https://maps.google.com/?cid=2568989592581286050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Family Friendly",
+        "Scenic Views"
+      ],
+      "website": "https://www.oceaniatechnology.cl/",
+      "placeId": "ChIJ3_JohbElGJYRoqh7YWzipiM",
+      "phone": "9 5863 0212",
+      "hours": [
+        "Monday: 8:30 AM – 6:00 PM",
+        "Tuesday: 8:30 AM – 6:00 PM",
+        "Wednesday: 8:30 AM – 6:00 PM",
+        "Thursday: 8:30 AM – 6:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Las Vertientes 299, 8450000 Puerto Montt, Los Lagos, Chile"
+    },
+    {
+      "name": "Federico Santa María Technical University",
+      "coord": [
+        -33.0359997,
+        -71.5954311
+      ],
+      "desc": "Casual international bistro, wine selection, vegetarian options, relaxed vibe",
+      "longDesc": "A welcoming bistro in artsy Valparaíso serving diverse cuisine with excellent Chilean wines. Families appreciate the relaxed atmosphere and variety of dietary options.",
+      "gmapsUrl": "https://maps.google.com/?cid=15343118899015989545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Cocktails & Bars",
+        "Family Friendly"
+      ],
+      "rating": 4.4,
+      "ratingCount": 639,
+      "website": "http://www.usm.cl/",
+      "photoRef": "places/ChIJL_ec1Y_giZYRKTlu6li17dQ/photos/AcnlKN22O8Ok2hdegK-0u73m88loFl_RhTGCNgOpxrB6xaH_mFCIC_e-EfSCIVnrnXRa0Tp7kTE2LGqJN9NBD53PjUjy4hkhZKh_j4j202FJfQbXzKVs1CrUvfU_nk9XSl4Sq6KgYLRD9AsQmHNi6JSg44TjPICWdSCOMSWoWq8xnApn097F-XWccUqMioYA4vMqiUz0qsE1ca0MGtHhH7yB3e5lSGaN4SPAqEFMiYJD8vi7zRryxd2gA8h-B2xSypFbA4yUBmabWZiX64EFqDojrcTSNCqxvnbWQQ_KDAuGIG_dps_AGrwCwzUOZf_tzS12KhV26TJr1OzRCxf4QYifQeZ5U93Q_NQ4zztKse5lFOIqL6IO15KL-d0dREonBfg08fxti5ROXV1hRGLu3Oi3p61Ylm19Uw4KT28aUaL7eew5_o1A",
+      "photoAttribution": "Ricardo Sanzana",
+      "placeId": "ChIJL_ec1Y_giZYRKTlu6li17dQ",
+      "phone": "(32) 265 4000",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Av. España 1680, Valparaíso, Chile"
+    },
+    {
+      "name": "Liguria",
+      "coord": [
+        -33.428499599999995,
+        -70.6191305
+      ],
+      "desc": "Classic Chilean bistro with hearty local dishes and family-friendly atmosphere in Providencia",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8806414475814351783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 5146,
+      "website": "http://www.liguria.cl/",
+      "photoRef": "places/ChIJk0Cm5mLPYpYRp7PFr06rNno/photos/AcnlKN1CPLaFdUuO52uq4lXoEP_Fs0eyskOEP3o_JFP-QZY0foh0x2Izsq7VqxEmiwaQtTFmM99xI87kGTCcM0O77TkEO53asryqatPJRLwqYp7OMdCmbBPIVkDrQbYhhGOXURw0Puz17sf5j2y8VGopVvZs_ouBZDLSxFMJW0JrSv06371ZiOg-7tcdKQydKaQGEjds5tUG_fhEGmig6xtovEOR8kAAAyTzi1zYrnjn-Y6_k9-UCWjj6oQ2o2sdc9MgnZsy21IpRjCL2TZ9mLeRzI6zNgHqinr7xe3oblTSKNYZuGP1ONZZWM6jnWBtodXZ64EV6jRu9MTBZ_GfAkLDsuiukOmclz9uNnZyad8Ny4lSAw2CfhUrQcZLtL8_BHgebhX9jGbYkZ-MgZYOTE-uLkg_Kve3Uez09wCaNvkz9VXl9ErHegKUWn3tqGgb9d7a",
+      "photoAttribution": "Felipe Buitrago",
+      "placeId": "ChIJk0Cm5mLPYpYRp7PFr06rNno",
+      "hours": [
+        "Monday: 12:00 – 11:30 PM",
+        "Tuesday: 12:00 – 11:30 PM",
+        "Wednesday: 12:00 PM – 12:30 AM",
+        "Thursday: 12:00 PM – 12:30 AM",
+        "Friday: 12:00 PM – 12:30 AM",
+        "Saturday: 12:00 PM – 12:30 AM",
+        "Sunday: Closed"
+      ],
+      "address": "Av. Providencia 1353, 7500575 Santiago, Providencia, Región Metropolitana, Chile",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Café Colmado",
+      "coord": [
+        40.7185748,
+        -73.9914749
+      ],
+      "desc": "Charming neighborhood café with excellent coffee and pastries near Lastarria",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2619615615533004083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Breakfast Spot",
+        "Hidden Gem"
+      ],
+      "rating": 4.6,
+      "ratingCount": 248,
+      "website": "https://www.instagram.com/colmadocoffee/",
+      "photoRef": "places/ChIJxes_BwBZwokRMzXp44W-WiQ/photos/AcnlKN3x7LGzy_Xn_GK78VRrU0inCa7H3f9sWjYOofXz9t7Svcx2uTPXL-6SOjYKonbJjNHNuOnB3NsRCMttBaptVTfXLJpgjOQ3WI5gnui8Z5fZZEOgpaWALFo6byTMvqojR1TTRZrXVaG17RP4XeJ0xx-87LIPp9dX1kJPB-q5B82mqpfdQnpTDCstThG8AyH5JjWqB08DGkdah_FY3OjzmKRs3CdPDogfyfGcBl17ZzZ9bwdyY0pdezRzGm-jfI0IPmgTpkmhTEORzVFUDeFinDODoD6jHdd7RRVnY-fWO_m7bOnFA7YMu10BRHuYYns7uuKLnhbyeLmHCUW1RR2Pm4FYitFALGuLV5KzM3OJGLJ0El6eRtqz6TEtlQsSs6F97ur73-UqujlIvMATLPoW7GkN6yQ5RNmPD4hqtsl7IuUIe1UBVnQluMBqMx3UvHK3",
+      "photoAttribution": "David Melaza",
+      "placeId": "ChIJxes_BwBZwokRMzXp44W-WiQ",
+      "phone": "(917) 846-2109",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "address": "286 Broome St, New York, NY 10002, USA"
+    },
+    {
+      "name": "Viña Viu Manent",
+      "coord": [
+        -34.6514471,
+        -71.3099331
+      ],
+      "desc": "Winery restaurant with family-friendly gardens, vineyard views, and picnic areas in Colchagua Valley",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10261653154114513121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Scenic Views",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 638,
+      "website": "https://viumanent.cl/visitenos/",
+      "photoRef": "places/ChIJBcdMp5dkZJYR4ShD0yy3aI4/photos/AcnlKN34MpkpeUU08ql53trwIw8XUaGSKHArn2WflwLAJWrY5wERdP7ZXweLOIdCcuEijfSJw_koaJqvwl9YylflZc7JqvIJF8C6WtFXmfLsHIePkpWQXRWnGVrs3DPzYHILSLot2gdnHHDmUzHUD43MAQ70fashpIT_GvOpH1UOUVQdDpZuHrsy-oqpU3EZdQqy5dv1ns1PKJFmXwipABF5Ws1B1tJvOvn5GNF2a8_8m9pNIJmotlr91LchkO-Q4dfH0z82d_WWDOJUJ1mCO46_5h8zNF7G5xnokSdKQjKPd8KJce9cUFLyXCoNNhjxqjjaJbH0sMVM4loMOZTs01PlQI8aC_GPMZ7zTRaEuMcSzgTH9XljHuGtV10IzBE57OGSC52jhRfYn13f537_HocO5f_0Vqby9gEvslDtQZ6_iWNybE34",
+      "photoAttribution": "Rodrigo Price",
+      "placeId": "ChIJBcdMp5dkZJYR4ShD0yy3aI4",
+      "phone": "(2) 2840 3181",
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "3130000, Carretera del vino km 37 Viu Manent, Santa Cruz, O'Higgins, Chile"
+    },
+    {
+      "name": "Remezón",
+      "coord": [
+        -53.167045900000005,
+        -70.9114404
+      ],
+      "desc": "Seafood and Patagonian cuisine in central Punta Arenas, family-friendly",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6838305454119893435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 4,
+      "photoRef": "places/ChIJAYhN9m9jsr0Ru7luYpSK5l4/photos/AcnlKN2rladQvxYA14QbNDxm_D3dSoQwiUrwQxzLpAluE9yncU5ltWOblJXwsgX2dUvO6ynwGpK-is53lcccAn3a-cilxIP4LzcR8e97UNgI6QEK6Mku4v6MBFtZg4YOArRhaC-CZEu8tMNeGUs_RQK2ubcX1Pjydiv_9ettWWBbbmz4sr9px4umUy-4eECm-sfB8oX9_4LTlA3beVzmA67D_VUEVfF9m7UMg4RmYHyvgcE7fEkwmhG1jr13yEBQeBFlL3NGiBNCji78Z4GZOpAxz7zhLBSSWQBvO-QQo-AvP04ZOKhj2aufL9HvtlbGcmTs8I6OhnGS35Ylq_Xh4MJdtS6RaUywbtwH5-vLljuc2iiUCUYniHxwgD_LtjQBzLG-N_8dFaATLs6mxjE0fxszA6m8ERA0qzRG2sSUwruiaBJFog",
+      "photoAttribution": "Hain Casa Hotel",
+      "placeId": "ChIJAYhN9m9jsr0Ru7luYpSK5l4",
+      "address": "José Nogueira 1600, Punta Arenas, Magallanes y la Antártica Chilena, Chile"
+    },
+    {
+      "name": "Bocanáriz",
+      "coord": [
+        -33.4384002,
+        -70.64131929999999
+      ],
+      "desc": "Wine bar and restaurant with Chilean wines and tapas in Lastarria, casual family seating",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10588422831985066557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 4414,
+      "website": "http://www.bocanariz.cl/",
+      "photoRef": "places/ChIJ58GnQJnFYpYRPQIbQHei8ZI/photos/AcnlKN0rw9orYsGVUluKNFdPRuGim9kUVLlG8TtFbOP0zXIuKmPBLzuOxXqLH0OW9a5iGiHirLTXbvfd0bmMx_kMrdDKE80J1aV40mR5ouQPz6E3yeFrgORtKkukv0kk7qPijQpPNVOFpep9wuS7nqTudBpMg1ioOeX7kfAqIXpgTtH5jjYTD5wRLCFvWibYCB-O2e7u_4n9N0GpPwIkTtnfZPtAmSCBWkCOZAjNovEu_1JHXBV-FXHjW4M3MCn4LMAZrFlJhq_Zw0RuqyQ8xQtq7nI1xndo_JHldc3GpLr1ji98Dg",
+      "photoAttribution": "Bocanáriz",
+      "placeId": "ChIJ58GnQJnFYpYRPQIbQHei8ZI",
+      "phone": "9 3911 0332",
+      "hours": [
+        "Monday: 12:00 – 10:30 PM",
+        "Tuesday: 12:00 – 10:30 PM",
+        "Wednesday: 12:00 – 10:30 PM",
+        "Thursday: 12:00 – 11:30 PM",
+        "Friday: 12:00 – 11:30 PM",
+        "Saturday: 12:30 – 11:30 PM",
+        "Sunday: 5:30 – 10:00 PM"
+      ],
+      "address": "José Victorino Lastarria 276, 8320126 Santiago, Región Metropolitana, Chile",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Rayuela Wine & Grill, viña viu manent",
+      "coord": [
+        -34.6508205,
+        -71.3099073
+      ],
+      "desc": "Casual grill restaurant with outdoor seating and playground in Santa Cruz",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12071371364876998553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Playgrounds",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 712,
+      "website": "https://linktr.ee/rayuelareservas",
+      "photoRef": "places/ChIJS903opRkZJYRmddQq0wghqc/photos/AcnlKN3Z2WQWEyhnnzX-u9Un8cVWn_auGvUlSva9QXqrWpie71f6BxNiNQKIdF-niQtbZsGZvFT1vMg6lnPABAc8VkKBfoESijF3sCUsgEp0z_oI2Cxc8OOGuRTOuG9ewxWTyMNmhBqeuQWFc271HRWlFDvpgTjmB9v79FhI5JZEHZY3if-HEEKoI5TdaPo1SSEfDcCFFCf4_pAFOmY25WwW_myLGzgrCWmDb-DooHTP0eIDLRCKOvk-yMztTJVp8o08xfzKqk3pVCbp5824iXQq-79dvTIO8LeOhJteBmS_Jv0gExljHM41-zDAVs_PIkSJJjVrR7tQYAa_T2VVLrM8sjMO3SgTe8KPmh9QrtGHw-u_CW8GH72GllSOfSRF-I4woNeJM2vcS8gr7GfpmrDvVUlxQYGUUG9guoespcvmy64d7Chg",
+      "photoAttribution": "Christian Steyer",
+      "placeId": "ChIJS903opRkZJYRmddQq0wghqc",
+      "phone": "(2) 2840 3180",
+      "hours": [
+        "Monday: 12:00 – 3:30 PM",
+        "Tuesday: 12:00 – 3:30 PM",
+        "Wednesday: 12:00 – 3:30 PM",
+        "Thursday: 12:00 – 3:30 PM",
+        "Friday: 12:00 – 3:30 PM",
+        "Saturday: 12:00 – 3:30 PM, 8:00 – 10:00 PM",
+        "Sunday: 12:00 – 3:30 PM"
+      ],
+      "address": "Carretera del vino - km 37, 3130000 Santa Cruz, O'Higgins, Chile"
+    },
+    {
+      "name": "Boragó",
+      "coord": [
+        -33.382497199999996,
+        -70.584028
+      ],
+      "desc": "Award-winning fine dining restaurant in Vitacura featuring innovative Chilean cuisine with indigenous ingredients",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4165840737811702179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Splurge",
+        "Reservations Recommended",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1752,
+      "website": "https://borago.cl/",
+      "photoRef": "places/ChIJxSErG0jPYpYRoyEeWBQK0Dk/photos/AcnlKN3erA4GZ4KZt8xfo4vwIUAUh1wCF_lYX9CFf2AWiTHBbhPKRBcZFv__2EK4cxpfpp1KSBrDCUrv-ZZK8U-PhnWAv8oM-ZZoud05qkv1GYP2khWKuEBGztLSHLQssbEJZ6cDPdWuqISwJpvin36TuebMw6Uva1saeSYWlN1MtKGy7vpki4iM-1sOfgTdy81reppCSfzTL7E2nkfnaq8aUSXMmWQOuC3zr2T4o_uaPaLhfCtIa8r3IsxJMd7l8WAMK5lerhRXg2XXETfJxMz6f0jXKpgh0RlEAsgMkkQZc8VqaT5YzLUqv0evWFH0vO6ZUP-tB_oqyLsJm5KpXqyw9YSE8UUGcCRMPc2hkNlUIoB3huAfNDS1UW7omAG4vrPM9nVwm-4rWbT20Ubdo_sPvMcLMQCtwc0wrpBWTtHi7gmIl5gF",
+      "photoAttribution": "Randolfo Santos ·",
+      "placeId": "ChIJxSErG0jPYpYRoyEeWBQK0Dk",
+      "phone": "(2) 2953 8893",
+      "hours": [
+        "Monday: 5:30 – 10:00 PM",
+        "Tuesday: 5:30 – 10:00 PM",
+        "Wednesday: 5:30 – 10:00 PM",
+        "Thursday: 5:30 – 10:00 PM",
+        "Friday: 5:30 – 10:00 PM",
+        "Saturday: 5:30 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Costanera Sur S.J.E. de Balaguer 5970, 7640804 Vitacura, Región Metropolitana, Chile",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "La Luna",
+      "coord": [
+        -53.16387830000001,
+        -70.9037839
+      ],
+      "desc": "Patagonian lamb and seafood restaurant near Punta Arenas airport",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13539499297581677115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 3186,
+      "website": "https://lalunarestaurant.cl/",
+      "photoRef": "places/ChIJcaw3Inpjsr0RO7oBNeD25bs/photos/AcnlKN2RPq1_QdvpWKypPZl49fta8KgE8ObIIV1B1WxE-p10IT3zD9q-mhKRfeRC328E8MP5eoQHCfAT31RmTmYtmwATQNdo7l05dR3jUXidJjK6Q7nWk4hBPY0LpYNku9W070GQTsa-Xr2oghBQ1ew57bMT14ibLQ9mWsXMj0wtc897up8APnF0MEDY5sSHWjDUI89_8ZhqDpGQh2oh8LjRDtMiyeCgzUdqDoFjrcMg4dnuM97clxFd7AaXWrdFMyCPeMLQoNnJN7KZnw3ViDCYYwgAUXYQ2z57Tzbm3GrVg8k",
+      "photoAttribution": "Restaurante La Luna",
+      "placeId": "ChIJcaw3Inpjsr0RO7oBNeD25bs",
+      "phone": "(61) 222 8555",
+      "hours": [
+        "Monday: 12:00 – 10:30 PM",
+        "Tuesday: 12:00 – 10:30 PM",
+        "Wednesday: 12:00 – 10:30 PM",
+        "Thursday: 12:00 – 10:30 PM",
+        "Friday: 12:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "address": "Libertador Bernardo O'Higgins 1017, 6201026 Punta Arenas, Magallanes y la Antártica Chilena, Chile",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Castillo Forestal",
+      "coord": [
+        -33.4351734,
+        -70.6427317
+      ],
+      "desc": "Classic Chilean restaurant near Parque Forestal with outdoor terrace",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=270363730845508689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Scenic Views",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 4433,
+      "website": "http://castilloforestal.cl/",
+      "photoRef": "places/ChIJu6iGdbvFYpYRUSQyeWGGwAM/photos/AcnlKN0WSt5rC0yLcP61SoqVbYoGHOQgi6qDu5tSzkGpX1LZJNRivamW6t0zBIqaMUz0l1BhYQlICSrpOQPd7xXazRT4sOGgSOr9dxgqd4mxu72EXB6OMSv4sbk0AeGQilSi8Z-5lFoHD63gQ0JEZGxUz4i22iWNjrCLDeyIv33eIPum484qJXnuRLuM1xRkiYSXPoKL06Ta_fnD7aZhJ3Dm_zbe4xYmLSV4vKN13cMF3Gbi0ahVrZAMZiq5jP6QzuXOmr4T422jz1e3Z35dMr45vihs8OTGschLQzR4hvRB2lgNZcHc8r9osFGa31N5pT3UMoMjPMGROrjG6mleUU2dQYc9sDeKiF7TDBzpJfc3YOL5_vifcz4YiKf7U6sV7B2Of6iV1-CtbS3EKhYp7na8r5mYYUSF7VL3dnBtuJ55eVaEehg1",
+      "photoAttribution": "Colin Noden",
+      "placeId": "ChIJu6iGdbvFYpYRUSQyeWGGwAM",
+      "phone": "9 4444 8531",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 4:30 PM"
+      ],
+      "address": "Av. Cardenal José María Caro 390, 8320054 Santiago, Región Metropolitana, Chile",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Café Mosqueto",
+      "coord": [
+        -33.4373279,
+        -70.64443589999999
+      ],
+      "desc": "Neighborhood café with excellent coffee and light bites in Providencia",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2292668639706794942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Casual Eats",
+        "Breakfast Spot",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2242,
+      "website": "https://m.facebook.com/CafeMosqueto/?locale2=es_LA",
+      "photoRef": "places/ChIJxTa2jZjFYpYRvstmEfsx0R8/photos/AcnlKN1KfAelgV07QkiWy2SzoMkhBkFw7OoQ4BYQVUWtlICI2fe2IP0xZFYCAdSgyWpKTqYfnOBV5Fxawe2Lef2_4ouihyKvPry5U_h0t-cJCErNE2aNGmkmQuaL4eEssItnz2A_BZMzEIJD2thFJ05oczfXbMUpx06X7VGpS9gvuG5cYOjoHUpRU4UAOTq_lBDovLOoxtEVMtl_JthEHIhFJwrh3F1rWSj6QbACUJONxFn6BdFXFvvnjmFudEBj0J0lpkEO5bELHGa0bChA1z5wDPdzAn1eiV5LgBgLV0CTflWZ1UNSP7_NEVoUM9Gl-2qzit4ZZNcE_f4rbNfkrM2QcGOQf46jxk63hLhJGhi2CJ5jMt-Ku1M0cC-DaspoNlAfz2eKMTG4ww8xGYybLWFIpSH6Wsvoy0Dp9iqpEmq4ChssF5VzRbYph3WKi7zSZRVk",
+      "photoAttribution": "CATALINA MICHAELLA MUÑOZ",
+      "placeId": "ChIJxTa2jZjFYpYRvstmEfsx0R8",
+      "phone": "(2) 2664 0273",
+      "hours": [
+        "Monday: 9:30 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 10:30 AM – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Mosqueto 440, 8320106 Santiago, Región Metropolitana, Chile",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Chilean Museum of Pre-Columbian Art",
+      "coord": [
+        -33.438667699999996,
+        -70.6523921
+      ],
+      "desc": "World-class pre-Columbian art museum, indigenous artifacts, interactive exhibits for children",
+      "longDesc": "An extraordinary museum showcasing ancient Chilean and South American indigenous cultures. Engaging displays and family programs make history accessible and captivating for all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=4907802166940367555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 10288,
+      "website": "https://museo.precolombino.cl/",
+      "photoRef": "places/ChIJ58cpbKTFYpYRw3pfdBEEHEQ/photos/AcnlKN3-GU12M5G1Ofso1Ft7WDALyXmefGszdbO65Gi0LkLVhA1R41ftFnymSr5Wtc3v0auXhurczHkLtdLRZLUm5rqy_0Y-dZdHldwaHn5UT9rqpuKmYsZW-OoRB2jAM7NgQAQNXuJoOEDbhtOTP7G1hzz_WIjWwufevZWp1hc2LMVi17aqULzWdSSER5lzFwoTfFv5Nexwks02W-TpRRa_EpO16iVdpHQdOj8iFG2IcQ0IFR_5O10mtM9ovQQqvtAkdoJjBeHQIj5P7MZkb1aQ44FKdYL49UOeFJEWB_iDkDSdgQ",
+      "photoAttribution": "Museo Chileno de Arte Precolombino",
+      "placeId": "ChIJ58cpbKTFYpYRw3pfdBEEHEQ",
+      "phone": "(2) 2928 1500",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Bandera 361, 8320298 Santiago, Región Metropolitana, Chile"
+    },
+    {
+      "name": "Torres del Paine National Park",
+      "coord": [
+        -50.942326200000004,
+        -73.40678799999999
+      ],
+      "desc": "Iconic Patagonian park, granite towers, turquoise lakes, hiking trails, breathtaking vistas",
+      "longDesc": "A stunning UNESCO biosphere reserve featuring dramatic mountain peaks and pristine lakes. Families can enjoy accessible trails, scenic drives, and unforgettable natural beauty.",
+      "gmapsUrl": "https://maps.google.com/?cid=13663681950728769112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.8,
+      "ratingCount": 10867,
+      "website": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
+      "photoRef": "places/ChIJB6_bgwEbpb0RWM4aRVcmn70/photos/AcnlKN1S9kfpYFr4XhSI2dDLKXUNWVIndjSFBtMn9869ib0hdPrqQV36MsYHS8eRKewKrsnMn_O2VWfwem2NPSImqheRArILRaYa8njYK8fttAJS1gPIXr_m-HP_KcHIK80naU4UN-dlmU9xG5h3BsKk4nZJ22MxuvuwsRO3716J9t9Vzv-G-GTW783HsI7bdWtnZ6n-XF_6HOOC9v4CRfLDGZQ3DHuwu41-ESZrR419d5hN2DYKAmVJ2W3rbi8GQW8tJUchLi7m55BS6eOA14lynCeXgP7WEJJ-taggbSGAVoKN_32ljnAn6XSlap1B9YLOMojQoJnquk7E7mPb3NlSBgck0jV5aSPs4PaT5vE6IsF-N9cSXJgF9q6bhd-K3JUu7tiLcvR3sflzDlbfFGt6nSXmNMyqY5EueKp45RezqK0t6t17",
+      "photoAttribution": "saurav sarker",
+      "placeId": "ChIJB6_bgwEbpb0RWM4aRVcmn70",
+      "phone": "(61) 223 8554",
+      "hours": [
+        "Monday: 8:30 AM – 6:00 PM",
+        "Tuesday: 8:30 AM – 6:00 PM",
+        "Wednesday: 8:30 AM – 6:00 PM",
+        "Thursday: 8:30 AM – 6:00 PM",
+        "Friday: 8:30 AM – 6:00 PM",
+        "Saturday: 8:30 AM – 6:00 PM",
+        "Sunday: 8:30 AM – 6:00 PM"
+      ],
+      "address": "Magallanes and Chilean Antarctica, Chile"
+    },
+    {
+      "name": "Salar de Atacama",
+      "coord": [
+        -23.1320454,
+        -68.310079
+      ],
+      "desc": "Surreal salt landscape, mirror effect in water, otherworldly photo opportunities, guided tours",
+      "longDesc": "One of Earth's most alien landscapes, the vast Atacama salt flats offer magical sunsets and floating experiences. Family-friendly tours guide visitors safely through this natural wonder.",
+      "gmapsUrl": "https://maps.google.com/?cid=9422082949298860075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.8,
+      "ratingCount": 52,
+      "photoRef": "places/ChIJm6qrhBcGqZYRKzA5pYX2wYI/photos/AcnlKN0zzLI5bAoN9pPlBUmWAvF-dg2MIsJYuJdAxVg-bwUIP2bIfL5CKDMThmibhFzLigu6Kr1kQGo0r1wSLpHX5lqPNHOwqEfACndfjBoiRq31P56Iy92CTuSjMJCZlFFUC7m8FVigaJeCxFX3P46IbIx-d6QL0fdjNLixeypd7vcW26hWnUSwylW5VpDaBVpK177ZfSNm3DfHLNqhXBwU2qraGCjngxw4kAVmO-t5MxKz2F_cTNZg6hMVc42nCGcaLqYEzGNa4fXN3-qbexdgXaai9dhnJMXDxY6GrQN6hri-f8f1KvVU7tyKzh8BpMEbxa_hQISjm8YsTOFDABkuQsjvWvA20jn1EeIaLWor-CcDi4HjYPjNnK-iuC1R3u6wgMtIkLFhJJViFSVos_CYVuqG7TkEurSszhLkPWYxeXhp-52f",
+      "photoAttribution": "Rosa Angelica Villa Nuñez",
+      "placeId": "ChIJm6qrhBcGqZYRKzA5pYX2wYI",
+      "address": "Salar de Atacama, San Pedro de Atacama, Antofagasta, Chile"
+    },
+    {
+      "name": "Mirador Las Torres Base",
+      "coord": [
+        -50.942752,
+        -72.9495098
+      ],
+      "desc": "Iconic hiking trail and viewpoint in Torres del Paine National Park leading to the base of the three granite towers",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9700440340207618398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Scenic Views",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.9,
+      "ratingCount": 1472,
+      "website": "http://www.parquetorresdelpaine.cl/",
+      "photoRef": "places/ChIJw03pJSIwpb0RXsnxIhjjnoY/photos/AcnlKN2O2F-6gRQCNWmXXMRn2HqOgZ5Ce1Bc3G6K-ut0ZMRGiSiiD2pMIfRERuPrrRxwSxiqMHLK9JZmr3VRJTFNQY4ct0F9N1XKrVUSu3-qwOTI5XjxZkjl27vmy9PxknRNJnvb27kjjvHuMJKyvJ7lA6YCRcxSeqolbiDq7x3G24NPJfCMUJ30UziX4AcbVUyCTo1Ie1Tv41i1BDji9lx-DaowME4zO0DZx2Xyi33wm5Dg-Tzc23bitY8IGmuMZ25D107YrlyuJ-kLBjM6bbb_CgYvaijKnX6YSmQLEFgf0tQT7_TWafqiGcdf5U3-9esoGi94VPfeQ6xiI-4iRCUtQv6PGIVKt4IJL205gFfzgbCbyq5tH5Xa-soIQVeaBWFXbExU8XzM8ku11H9omSDOMo96qr0UrzJqqZAqPoANzJo-jVUu",
+      "photoAttribution": "Renato Cortes",
+      "placeId": "ChIJw03pJSIwpb0RXsnxIhjjnoY",
+      "hours": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: 8:00 AM – 4:30 PM",
+        "Sunday: 8:00 AM – 4:30 PM"
+      ],
+      "address": "Torres de Paine, Magallanes y la Antártica Chilena, Chile"
+    },
+    {
+      "name": "Hotel Lago Grey - Torres del Paine Chile",
+      "coord": [
+        -51.122561,
+        -73.1159613
+      ],
+      "desc": "Restaurant at Lago Grey Hotel with views of Grey Lake and glacier, serving Patagonian cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10826647642304306823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1330,
+      "website": "http://www.lagogrey.com/",
+      "photoRef": "places/ChIJr6ESZvw_pb0Rh17eK6v6P5Y/photos/AcnlKN1VhujwwwRybWTbiP8niXbKe4ly9jDWedjoJ8RbC-OWjl2Deoa5dhEm5QuCYo3ICrc6VvroNaq9Ma3YOnyx4t5NMmWRCkjj2wCXJwQyEj77OWohO-AYKyJxaDjKi9Q2mQeI4vKmNCxpdNY8sCly8hO1JqQ25cQ6XifL-WhHTryjLr5-mEYUYxgOmKUmQ9mEfyvq_yKU013iqceZvgT87snQHGMybBXy2Eq6aR2_YP5FljiNdnr3A6ntTqWPxpBv_bLJyKPKTfnI-LZgaa0S7aLsZxOUxAtTuo6fnHiurGOiZA",
+      "photoAttribution": "Hotel Lago Grey - Torres del Paine Chile",
+      "placeId": "ChIJr6ESZvw_pb0Rh17eK6v6P5Y",
+      "phone": "(61) 271 2191",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Sector Lago Grey S/N, Torres del Paine, Torres de Paine, Magallanes, Chile"
+    },
+    {
+      "name": "Galindo",
+      "coord": [
+        -33.433129099999995,
+        -70.63484919999999
+      ],
+      "desc": "Traditional Chilean restaurant serving classic dishes in a casual, family-friendly atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9569358055583272017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 7720,
+      "photoRef": "places/ChIJx9ZPo5rFYpYRUUyQb3MwzYQ/photos/AcnlKN3S7OCAY5i5YhbsmSvkjpVOfLFdzo7xbVXBLOG9P2lbVD0nllYDdBtv5c94uo-c1szwRqTROnkjcDcw02pvrCz9u4H5S0ZXgckXTOTRuzOfYYi61G-FMjECk75D3Mh5fOKA84F3j8Y1wXpaObUliIst6k8R8kphSHUJYVPoiNIYBmPbIwtdgWfXi-jNV5ceCfujUwC3x5TBvRp4zJ1HjmWg8HQ9L3rVqdp0wxXrj6G0ig7P7anFMbA468BTnX0u1ybo13sQACspAbl7W6dyE8V3f1HmWw6yS6TM1XWvO9hnvI9DPFwkzUekli-SlrMd6v3qns8ypnxpAepwMviGilDDD8n4saHqz2UMbPHGKrbpDp-Fo15NLoHCnKaY5pL9KOFxTVFyOhRHy7G0iLe6U8tg-3w1am01aCH2GkiqzNcqtg",
+      "photoAttribution": "Jurate Norkiene",
+      "placeId": "ChIJx9ZPo5rFYpYRUUyQb3MwzYQ",
+      "phone": "(2) 2777 0116",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:30 AM – 11:00 PM",
+        "Wednesday: 11:30 AM – 11:00 PM",
+        "Thursday: 11:30 AM – 11:00 PM",
+        "Friday: 11:30 AM – 12:00 AM",
+        "Saturday: 11:30 AM – 12:00 AM",
+        "Sunday: 11:30 AM – 10:00 PM"
+      ],
+      "address": "Dardignac 098, 8420434 Providencia, Región Metropolitana, Chile",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Peumayén Ancestral Food",
+      "coord": [
+        -33.4328182,
+        -70.6350162
+      ],
+      "desc": "Restaurant specializing in ancestral Chilean indigenous cuisine from different regions",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1686095624501250592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Splurge",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1821,
+      "website": "https://www.peumayenchile.cl/",
+      "photoRef": "places/ChIJ3bFtoZrFYpYRIMq8gwk3Zhc/photos/AcnlKN1wYneYOIKsNCFvo9-RPy208TAGeklz8nh6ZPNpfC6zRuQZQUwi9GfxU5xvZIEWPdXg8C7bKL5WOxXlOmn-8_X5Il__ZfHPnaWUK1h8lfKBR4Ma2NN5hCbzlc42l69wdoGAFZTLwjmN5-ir0b73NajYaSdu7TvPGFyR8OX5gjqcA1kfnlV1fppt9V6tUgHEuMHrrn-DuJxoOVsVu1Q0lbzN3S0SGTVs9jk0fUu6YJzftkqVxS9FIrZwaZvXFcYgiBlT3yE0gYIoWmSixjdHDCYlvYizUxbeVYdlKoJCIb5UXA",
+      "photoAttribution": "Restaurante Peumayen - Comida Chilena Santiago",
+      "placeId": "ChIJ3bFtoZrFYpYRIMq8gwk3Zhc",
+      "hours": [
+        "Monday: 1:00 – 5:00 PM, 5:30 – 10:00 PM",
+        "Tuesday: 12:30 – 5:00 PM, 5:30 – 10:00 PM",
+        "Wednesday: 12:30 – 5:00 PM, 5:30 – 10:00 PM",
+        "Thursday: 12:30 – 5:00 PM, 5:30 – 10:00 PM",
+        "Friday: 12:30 – 5:00 PM, 5:30 – 10:30 PM",
+        "Saturday: 12:30 – 5:00 PM, 5:30 – 10:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Constitución 136, 7520367 Providencia, Región Metropolitana, Chile",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Astrid y Gastón Chile",
+      "coord": [
+        -33.425598,
+        -70.617851
+      ],
+      "desc": "Upscale restaurant by renowned chef Gastón Acurio, serving contemporary Latin American cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2249507616001882237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Splurge",
+        "Reservations Recommended",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 64,
+      "photoRef": "places/ChIJiWnwx2PPYpYRffhTI0LbNx8/photos/AcnlKN3G4Dy3UVQpnnXcDWFfKP4BAjJLQWT-PYA-SWu5gn30CkBLhtAaY8Q26nZ3ghsGwSV-NfwG6AnHvP90trUHwx7WV6viE2D9O5zhUDQpMfXuIVtdlwgspi71O_ooSv5g5aE5NsPjtQM5XcbqhF-jtdxtgGn4y6qud7UOEh5YsEq8zzlzGiw5YLT0eGCCbqAmEz8awO2dmb0PQ95408gkG0bn_8tu1Mh1A98OeXZO8LbiYLGUU1mQVSm_kd60VSvl7D7vgfBiARphXu-aXS-B8HRH96ll-nyNjI1BbEW7fQ488oF9eHTmnnKU_b5YLdUbV9QE8No4y1FltXYw5GFWChW7Ti3YyKCl5ZJkn3J63ei2FWeMYDwPgx1fLKjVBZaLv1phXphomXbczLO7EXeAIWfqDNA4fxgKaigoMXlIL6PaGIGP",
+      "photoAttribution": "Agnaldo Mendes",
+      "placeId": "ChIJiWnwx2PPYpYRffhTI0LbNx8",
+      "phone": "(2) 2650 9125",
+      "address": "Antonio Bellet 201, 7500025 Santiago, Providencia, Región Metropolitana, Chile"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Parque Metropolitano de Santiago",
+      "coord": [
+        -33.4244255,
+        -70.6331585
+      ],
+      "desc": "Urban park with playgrounds, cable car, picnic areas, natural pools, family activities",
+      "longDesc": "Santiago's beloved green space offering hiking trails, swimming areas, and countless family activities. Kids love the cable car to the summit and expansive playgrounds throughout.",
+      "gmapsUrl": "https://maps.google.com/?cid=14768108569220502282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Budget Friendly",
+        "Playgrounds",
+        "Good for Groups"
+      ],
+      "rating": 4.7,
+      "ratingCount": 43646,
+      "website": "https://www.parquemet.cl/",
+      "photoRef": "places/ChIJ165eV5DFYpYRClPKuH_c8sw/photos/AcnlKN16F1hTwh213w_IbtCMgGjmhfxnP15Nymzub66PRmTTujT7UB12oS0FR-tpFuQPIaVAD9HC5C12k8P-C-5bQBsmk1LSdJ8vlx_njAhB1R8pN3DLLJbYFDG2gArElXbupKfKR_UUqs1i5B8bqqqKTlkY4EaWM_EIT79pHwDXMzJfNhx_reDcWD-W-1tvKdfcKiZJ0mU8TkPviWf6LUop3QCUacK8e6wCYNb-j2-YF_q28rK4pg_vuEcaKPe_T4VNwBG5TABNfldUhNgOVEp4hVBw_ThN3zlDabiigPh-euZTcTn7kZyYzksS9bhU7dQPH0dqzn_JRCTvocagL3Wb8O9E5KOnojD-BD0A4Do7_4Lu0xca6leUfP3VIGXsBDcZh6d4GdH53gq9mqCib9Gtw5r7YTy-tNVeOdOT1uhHLlx49aqV",
+      "photoAttribution": "Anderson Vitório de Sousa Costa",
+      "placeId": "ChIJ165eV5DFYpYRClPKuH_c8sw",
+      "phone": "(2) 2730 1409",
+      "hours": [
+        "Monday: 6:00 AM – 8:30 PM",
+        "Tuesday: 6:00 AM – 8:30 PM",
+        "Wednesday: 6:00 AM – 8:30 PM",
+        "Thursday: 6:00 AM – 8:30 PM",
+        "Friday: 6:00 AM – 8:30 PM",
+        "Saturday: 6:00 AM – 8:30 PM",
+        "Sunday: 6:00 AM – 8:30 PM"
+      ],
+      "address": "Pío Nono 450, Recoleta, Región Metropolitana, Chile"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Santiago Central Market",
+      "coord": [
+        -33.4334323,
+        -70.65110609999999
+      ],
+      "desc": "Historic central market, fresh seafood, local produce, bustling atmosphere, food vendors",
+      "longDesc": "A vibrant, historic market bursting with Chilean seafood, produce, and local flavors. Families enjoy exploring colorful stalls and sampling fresh empanadas and traditional snacks.",
+      "gmapsUrl": "https://maps.google.com/?cid=17894133404705798009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Cultural & Historical",
+        "Budget Friendly",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.2,
+      "ratingCount": 49943,
+      "website": "https://mercadocentraldesantiago.cl/",
+      "photoRef": "places/ChIJ6YvQprzFYpYRebfwPoa7VPg/photos/AcnlKN0Nx9aZjMsOjXvgwFTILB4eYJm_sJSHCpUb2adXMwY32q_2V_vmVNoU9gjOxAGcqvgvdbNB9r5ZP5vElMg6IOAqI31z9MN6DopsFUw3ruveNtlgwMboyO0MxCKU8jD_ZhgGxGk9xOLq5JWoqNJ_Ij1_N5v8KNh1-AyiMDPReiBdsgmls6rxbjtHr-bpjbCadueieo6TgEU5onhhUxSiF4eSiO_pES_NSsRlLZ2nu6DqW26HkiT9VCTq47tA2RFXsmd7GUJig5-HkBP5LkyQ_aJEToqeLx9IKQMfRXYgWG31Mhw-0RWym9lCbTZHzgIspcRRiUpeAK07djWxgnt4epDVZGbBLjq_qXtUOpaGoe8uG-k0dzPb8i7V994prcK6emnVbsp5dTBiHCc4jvA_J947AYA7G-NYukmQ_cPVRLXCfIi1",
+      "photoAttribution": "Fernando GUSMÃO, filho",
+      "placeId": "ChIJ6YvQprzFYpYRebfwPoa7VPg",
+      "phone": "(2) 2697 3779",
+      "hours": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ],
+      "address": "San Pablo, Santiago, Región Metropolitana, Chile"
+    }
+  ],
   "cityCenters": {
     "Multiple": [
       -33.4786,
@@ -92,5 +977,464 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Chile with Little Ones: Santiago, Wine Country & Patagonia (10 Days)",
+      "description": "Experience Chile's captivating contrasts—from art-filled Santiago streets and vineyard picnics to Patagonian glaciers and turquoise lakes—at a pace designed for families with young explorers.",
+      "familyFriendly": true,
+      "duration": 10,
+      "bases": [
+        "Santiago",
+        "Torres del Paine"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Santiago",
+          "dayType": "urban",
+          "base": "Santiago",
+          "items": [
+            {
+              "name": "The Singular Santiago, Lastarria Hotel",
+              "type": "hotel",
+              "coord": [
+                -33.4372601,
+                -70.6407144
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Settle in and explore hotel rooftop terrace",
+              "type": "freeTime"
+            },
+            {
+              "name": "Confitería Torres",
+              "type": "lunch",
+              "coord": [
+                -33.4139731,
+                -70.5996378
+              ]
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Liguria",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Classic Chilean bistro with hearty local dishes and family-friendly atmosphere in Providencia",
+              "suggestedCity": "Santiago"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Santiago Culture & Play",
+          "dayType": "urban",
+          "base": "Santiago",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Café Colmado",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Charming neighborhood café with excellent coffee and pastries near Lastarria",
+              "suggestedCity": "Santiago"
+            },
+            {
+              "name": "Chilean Museum of Pre-Columbian Art",
+              "type": "sightseeing",
+              "coord": [
+                -33.4386677,
+                -70.6523921
+              ]
+            },
+            {
+              "name": "Santiago Central Market",
+              "type": "lunch",
+              "coord": [
+                -33.4334323,
+                -70.6511061
+              ]
+            },
+            {
+              "name": "Parque Metropolitano de Santiago",
+              "type": "sightseeing",
+              "coord": [
+                -33.4244255,
+                -70.6331585
+              ]
+            },
+            {
+              "name": "Cable car ride and playground time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Bocanáriz",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Wine bar and restaurant with Chilean wines and tapas in Lastarria, casual family seating",
+              "suggestedCity": "Santiago"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Wine Country Escape",
+          "dayType": "suburban",
+          "base": "Santiago",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Transfer to Colchagua Valley (2 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Chilean Vineyard-Integrated Hotels",
+              "type": "hotel",
+              "coord": [
+                -33.478617,
+                -71.4768974
+              ]
+            },
+            {
+              "name": "Viu Manent Winery",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Winery restaurant with family-friendly gardens, vineyard views, and picnic areas in Colchagua Valley",
+              "suggestedCity": "Colchagua Valley"
+            },
+            {
+              "name": "Vineyard exploration and grape stomping for kids",
+              "type": "freeTime"
+            },
+            {
+              "name": "Afternoon by the hotel pool",
+              "type": "nap"
+            },
+            {
+              "name": "Hotel restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Farm-to-table dining at vineyard estate with children's menu",
+              "suggestedCity": "Colchagua Valley"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Vineyard Leisure & Return to Santiago",
+          "dayType": "suburban",
+          "base": "Santiago",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning vineyard walk and estate gardens",
+              "type": "freeTime"
+            },
+            {
+              "name": "Rayuela Wine & Grill",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual grill restaurant with outdoor seating and playground in Santa Cruz",
+              "suggestedCity": "Santa Cruz"
+            },
+            {
+              "name": "Return to Santiago (2 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Arrive at The Singular Santiago, relax",
+              "type": "freeTime"
+            },
+            {
+              "name": "Boragó",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Award-winning fine dining restaurant in Vitacura featuring innovative Chilean cuisine with indigenous ingredients",
+              "suggestedCity": "Santiago"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Fly to Patagonia",
+          "dayType": "rural",
+          "base": "Torres del Paine",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Flight from Santiago to Punta Arenas (3.5 hours)",
+              "type": "info"
+            },
+            {
+              "name": "La Luna",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Patagonian lamb and seafood restaurant near Punta Arenas airport",
+              "suggestedCity": "Punta Arenas"
+            },
+            {
+              "name": "Scenic drive to Torres del Paine (5 hours with stops)",
+              "type": "info"
+            },
+            {
+              "name": "Explora Patagonia Torres del Paine",
+              "type": "hotel",
+              "coord": [
+                -51.1164588,
+                -72.9917932
+              ]
+            },
+            {
+              "name": "Welcome dinner at lodge",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "All-inclusive lodge dining with Patagonian specialties and children's options",
+              "suggestedCity": "Torres del Paine"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Torres del Paine Family Adventure",
+          "dayType": "rural",
+          "base": "Torres del Paine",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Torres del Paine National Park",
+              "type": "sightseeing",
+              "coord": [
+                -50.9423262,
+                -73.406788
+              ]
+            },
+            {
+              "name": "Easy family hike to Salto Grande waterfall",
+              "type": "freeTime"
+            },
+            {
+              "name": "Picnic lunch provided by lodge",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Packed gourmet lunch from Explora for lakeside picnic",
+              "suggestedCity": "Torres del Paine"
+            },
+            {
+              "name": "Guanaco spotting and Lake Pehoé views",
+              "type": "freeTime"
+            },
+            {
+              "name": "Return to lodge for rest time",
+              "type": "nap"
+            },
+            {
+              "name": "Lodge dinner",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Evening meal at Explora with local wines and warm ambiance",
+              "suggestedCity": "Torres del Paine"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Glacier & Wildlife Day",
+          "dayType": "rural",
+          "base": "Torres del Paine",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Mirador Base Las Torres",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "viewpoint",
+              "suggestedDesc": "Iconic hiking trail and viewpoint in Torres del Paine National Park leading to the base of the three granite towers",
+              "suggestedCity": "Torres del Paine"
+            },
+            {
+              "name": "Short boat ride to glacier (optional for older kids)",
+              "type": "optional"
+            },
+            {
+              "name": "Lodge picnic lunch",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Prepared lunch from Explora served at scenic glacier viewpoint",
+              "suggestedCity": "Torres del Paine"
+            },
+            {
+              "name": "Wildlife viewing: condors, foxes, and flamingos",
+              "type": "freeTime"
+            },
+            {
+              "name": "Return to lodge for pool and relaxation",
+              "type": "nap"
+            },
+            {
+              "name": "Restaurant Grey",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Restaurant at Lago Grey Hotel with views of Grey Lake and glacier, serving Patagonian cuisine",
+              "suggestedCity": "Torres del Paine"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Leisurely Patagonia Morning & Return",
+          "dayType": "rural",
+          "base": "Torres del Paine",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at lodge: playground and nature walks",
+              "type": "freeTime"
+            },
+            {
+              "name": "Lodge lunch",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Final lunch at Explora before departure",
+              "suggestedCity": "Torres del Paine"
+            },
+            {
+              "name": "Drive to Punta Arenas (5 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Overnight in Punta Arenas",
+              "type": "info"
+            },
+            {
+              "name": "Remezón",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Seafood and Patagonian cuisine in central Punta Arenas, family-friendly",
+              "suggestedCity": "Punta Arenas"
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Return to Santiago",
+          "dayType": "urban",
+          "base": "Santiago",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Flight from Punta Arenas to Santiago (3.5 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Arrive Santiago, check into The Singular Santiago",
+              "type": "info"
+            },
+            {
+              "name": "Castillo Forestal",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Classic Chilean restaurant near Parque Forestal with outdoor terrace",
+              "suggestedCity": "Santiago"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Final evening stroll in Lastarria neighborhood",
+              "type": "freeTime"
+            },
+            {
+              "name": "Galindo",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Traditional Chilean restaurant serving classic dishes in a casual, family-friendly atmosphere",
+              "suggestedCity": "Santiago"
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Departure from Santiago",
+          "dayType": "urban",
+          "base": "Santiago",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning market visit or souvenir shopping",
+              "type": "optional"
+            },
+            {
+              "name": "Café Mosqueto",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Neighborhood café with excellent coffee and light bites in Providencia",
+              "suggestedCity": "Santiago"
+            },
+            {
+              "name": "Transfer to airport",
+              "type": "info"
+            },
+            {
+              "name": "Peumayén Ancestral Food",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Restaurant specializing in ancestral Chilean indigenous cuisine from different regions",
+              "suggestedCity": "Santiago"
+            },
+            {
+              "name": "Astrid y Gastón",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Upscale restaurant by renowned chef Gastón Acurio, serving contemporary Latin American cuisine",
+              "suggestedCity": "Santiago"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

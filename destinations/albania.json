@@ -8,8 +8,126 @@
     19.925
   ],
   "defaultZoom": 8,
-  "hotels": [],
-  "restaurants": [],
+  "hotels": [
+    {
+      "name": "Hilton Garden Inn Tirana",
+      "coord": [
+        41.3209872,
+        19.795229799999998
+      ],
+      "desc": "Luxury five-star hotel, rooftop bar, modern amenities, city center location",
+      "longDesc": "Modern luxury hotel in Tirana's heart with spacious family rooms, excellent dining, and helpful staff experienced with traveling families. Great base for exploring Albania's capital.",
+      "gmapsUrl": "https://maps.google.com/?cid=16227818312459346802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Wellness & Spa",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1117,
+      "website": "https://www.hilton.com/en/hotels/tiagigi-hilton-garden-inn-tirana/?SEO_id=GMB-EMEA-GI-TIAGIGI",
+      "photoRef": "places/ChIJU-IiolIwUBMRcuO3ycbKNOE/photos/AcnlKN0cOwG0qogv5vHHCTCUvPjrafRpGBGpHZJ99h2TgWmByU40kD1-QbIFaTPCiHMYAZEiMnrImxVfNwseuAESRI_pOnZbFhzDPynjsHzN5JD4A1ka_g0d6Q3ztHNvadkJdCrQGj5IOINGpSAcdpsy_VlO6XO8kuKqP9azbjlAJgXxECU4xEEKvlQNk4KWeU05Zzngo76eApvpBKUTkv-aJcwZCugDBNDyFSjNJD_cV1i8D7quKsKWZhDlFx_BrwMEV8lkwZWmnW-RyPdrPvWzhTyrKVRdKorPDpeqE4ocHsYPjQ",
+      "photoAttribution": "Hilton Garden Inn Tirana",
+      "placeId": "ChIJU-IiolIwUBMRcuO3ycbKNOE",
+      "phone": "04 220 0444",
+      "address": "Bulevardi Gjergj Fishta 146, Tiranë 1001, Albania"
+    },
+    {
+      "name": "Hotel Aquila „D“",
+      "coord": [
+        41.3176737,
+        19.4525735
+      ],
+      "desc": "Boutique beachfront hotel, Adriatic Sea views, family suites, beach access",
+      "longDesc": "Charming beachfront boutique hotel perfect for families seeking seaside relaxation. Direct beach access, friendly service, and comfortable family rooms at reasonable prices.",
+      "gmapsUrl": "https://maps.google.com/?cid=13133383537453444898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Romantic",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 23,
+      "photoRef": "places/ChIJ52EoTADbTxMRIi_gYL4mQ7Y/photos/AcnlKN1h00CSezKZI8Saj1G_NdoLJl60MLTbmYYbNa9_sqtAG9GspcrOdCPKqhsn-cBVweL-Aroro8X6jkZFu0cLhfdi630TJylk0nqlgZtUXJOuRK2Nx46sltVolLVN9waFIPJ_mlN37uUP4Q7jUk6swfQ86xRY9zDui9i2xTgwfLAdrWOcx9STO6VmDuAJqIRKWWLUDSGyP2bUEXtAWTfIRYzkS5XWh4gvpVkUPhdZwkr0zuPHlWUPM0ubLYgfuoflHBSqi2ShiNn117SpF2kq8I9w39cEX4oSazmp-dFI_Ce5Bn_MGx5WSer1A8HtfHQACCLyyMVdCI5yeliHf6v3p7gkibbUma6-Bu3tONVPbLsL3YFv_BEbkjUc_JfndahEkj00_D174g807DR8uiZknhxwMaSicl-BhItkezUMEAEObyYBWBRfQo994q5VBg",
+      "photoAttribution": "mr julian",
+      "placeId": "ChIJ52EoTADbTxMRIi_gYL4mQ7Y",
+      "phone": "052 204 040",
+      "address": "8F93+328, Rruga Egnatia, Durrës, Albania"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Oda - Traditional Albanian Restaurant",
+      "coord": [
+        41.3315272,
+        19.824637799999998
+      ],
+      "desc": "Contemporary Albanian cuisine, elegant ambiance, locally-sourced ingredients, fine dining",
+      "longDesc": "Sophisticated restaurant celebrating traditional Albanian flavors with modern presentation. Welcoming to families, featuring creative dishes in a warm, refined atmosphere perfect for special dining.",
+      "gmapsUrl": "https://maps.google.com/?cid=14807611960058811421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Reservations Recommended"
+      ],
+      "rating": 4.2,
+      "ratingCount": 5014,
+      "website": "https://odarestaurant.al/",
+      "photoRef": "places/ChIJ4WtZ4BAxUBMRHZQho580f80/photos/AcnlKN06euSWxcZHa2sFHiNU8mwSnyfNkY7thCzApI094SQPn15ap9Fx7Efsf1YaURsDPCdHcxt9cuLkWfvEdo_2PT4yrvOjU70ZwReBZckrdtv6AhFy7UdaPHz46N-CMRZB5DRgv3yk3jAcHtTlRV8Vt7nkBrCKbj9gahNJKiBrnrpdfa0NXv_BqIHtfXKqGLk1x4ryiCOXMMkMkWSnbD3hLLbR51lGmY5Caa2j7WYy8V3ThI_fAGzGbJza__fJOE54iQ4yu1jMDF-FgpXxLiAWc6dv8qoyuTkTzc3jI9kziE6jlA",
+      "photoAttribution": "Ristorante Tradizionale Albanese Oda",
+      "placeId": "ChIJ4WtZ4BAxUBMRHZQho580f80",
+      "phone": "069 966 8881",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "Rruga Riza Jasa, Tiranë 1008, Albania",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE"
+    },
+    {
+      "name": "Rus Traditional Food Berat (Halal)",
+      "coord": [
+        40.7044237,
+        19.9549372
+      ],
+      "desc": "Casual local eatery, authentic Albanian fare, terrace views, budget-friendly",
+      "longDesc": "Family-run taverna in historic Berat offering authentic, hearty Albanian dishes at excellent prices. Charming terrace seating with views of the old town creates memorable meals.",
+      "gmapsUrl": "https://maps.google.com/?cid=14844209817066802140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Family Friendly",
+        "Local Delicacies",
+        "Off-Hours Eats"
+      ],
+      "rating": 4.9,
+      "ratingCount": 3077,
+      "photoRef": "places/ChIJH3uhZ6yZWhMR3AuiPS46Ac4/photos/AcnlKN33yI6ZKqF_2qdqyMhfk1Il-9wC55WNfHxYR8-R4Ae6QkzNplk1XHAOTQtkyHyRBKGl_Mqln1I_WEWxlmZNhTMGXw87lHYh-EGpdLZm6cfdD2skMZteOrW1uPaXeIN9xYCjpLHTGYb9D3yFPuAdwvZeWvKS_JduIgY-bc3W04AsfesgtZtt0qkk5ishDNsntpFqJ8uxz3IwZefd-PRV6f8MeXGwwxKpg_bBnfzJJcyP5Y_3EETTIaecH1dxLUcC0axb7I6fIOT2wOE1gGYPOV29oEz3cI6SWm3fSCPk4RcEAg",
+      "photoAttribution": "Rus Traditional Food Berat (Halal)",
+      "placeId": "ChIJH3uhZ6yZWhMR3AuiPS46Ac4",
+      "phone": "068 608 0400",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:30 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ],
+      "address": "Berat 5002, Albania"
+    }
+  ],
   "experiences": [
     {
       "name": "Accursed Mountains",
@@ -30,7 +148,8 @@
       "tags": [
         "Outdoor & Nature",
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Full-Day Activity"
       ]
     },
     {
@@ -52,7 +171,8 @@
       "tags": [
         "Adventure & Active",
         "Outdoor & Nature",
-        "Budget Friendly"
+        "Budget Friendly",
+        "Full-Day Activity"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -84,7 +204,9 @@
       "tags": [
         "Photography Worthy",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Half-Day Trip",
+        "Scenic Views"
       ]
     },
     {
@@ -106,10 +228,125 @@
         "Outdoor & Nature",
         "Photography Worthy"
       ]
+    },
+    {
+      "name": "Dajti Ekspres",
+      "coord": [
+        41.350705,
+        19.8608552
+      ],
+      "desc": "Mountain cable car ride, panoramic city views, scenic hiking trails, family adventure",
+      "longDesc": "Ride the cable car up Mount Dajti for breathtaking views of Tirana and surrounding mountains. Perfect for families seeking outdoor adventure without strenuous hiking.",
+      "gmapsUrl": "https://maps.google.com/?cid=17420777721044658886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 668,
+      "website": "http://www.dajtiekspres.com/",
+      "photoRef": "places/ChIJ-0qSJQI0UBMRxurnvQkJw_E/photos/AcnlKN3ba5RG9qc-mGBOJcetJzYpk_-h4W7WO3I-es3GAJ-XCg-bhlHPV9vKv1VBmP_Q-78CN4ccqQF5you7WZO3OL0-8Q-yzUum3J0gHw60Ze37M-NlYGUO2fibW7jSkmJ8UbObAd7k3inqrVdB4zdKMyXtXW1UJt6FA2WOhGDk8sr4Y9oEuNi_H7neAYPy6wDSaSbE26eLi8c0O5PDdSPbaHj2hxQRw_15h5TI7D0ZEjm04avXNQ9G17y69kRXfEV8X-osEVbqujyiXqGc3t82NT_wK2fKIzftsBSaL4pBK71K9g",
+      "photoAttribution": "Dajti Ekspres",
+      "placeId": "ChIJ-0qSJQI0UBMRxurnvQkJw_E",
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "address": "Tiranë, Albania"
+    },
+    {
+      "name": "Butrint National Archaeological Park",
+      "coord": [
+        39.7440147,
+        20.0194685
+      ],
+      "desc": "Ancient ruins, UNESCO World Heritage site, archaeological treasures, coastal history",
+      "longDesc": "Explore extraordinary ancient ruins spanning Greek, Roman, and Venetian periods. A fascinating open-air museum where kids can discover history while enjoying beautiful seaside surroundings.",
+      "gmapsUrl": "https://maps.google.com/?cid=5445269485590657089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 13205,
+      "website": "https://butrint.al/",
+      "photoRef": "places/ChIJZVB_lfFrWxMRQbjnMr97kUs/photos/AcnlKN2PYiPqZ0VOaGxh-D4eEc-_dfhEcx_NxWfz3lkpCsD8wp6FBY_MIXNkTHoXJTpDqO7dmSZRk2lOB-p5yJ8C7RdgtORpL8KKM9Nf1bf4WkpObptfRuoWObnksYMQQ5SfXGx7nEAxeKrDN_UXdqlSRCeEkrUjUR5UNNgVJroO0KeQ77kWuZvat8lIc26GwdE4VWAsCzahTNgWZreBi763DIxU9qc2PYoNJkUzh6iGCmBga_cxCDY97Lq2AKmGHJJc-i9fa8vbtDyFpw0OQphiur1fii7lpu2eJbZMnAPKAGOMmJiOL4eHqJ8OFvsqm2VLSi1imPuHPJl8mB2zeWZz9eLAJ7DM501ls7G45ajJsAim2LmZNQWVGVCq3KEwYB1hDKR1EV94asyyERAAkX_wltlPlHXZzhBpwmMap1z8g7Ch7Q",
+      "photoAttribution": "Sandro Sponticcia",
+      "placeId": "ChIJZVB_lfFrWxMRQbjnMr97kUs",
+      "phone": "069 226 6969",
+      "hours": [
+        "Monday: 8:30 AM – 6:00 PM",
+        "Tuesday: 8:30 AM – 6:00 PM",
+        "Wednesday: 8:30 AM – 6:00 PM",
+        "Thursday: 8:30 AM – 6:00 PM",
+        "Friday: 8:30 AM – 6:00 PM",
+        "Saturday: 8:30 AM – 6:00 PM",
+        "Sunday: 8:30 AM – 6:00 PM"
+      ],
+      "address": "SH81, Butrint, Albania"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Beach of Durrës",
+      "coord": [
+        41.2925149,
+        19.5036278
+      ],
+      "desc": "Sandy Adriatic beach, shallow waters, beach bars, lifeguards, family-friendly swimming",
+      "longDesc": "Extensive sandy beaches with calm, shallow waters ideal for young swimmers. Clean facilities, nearby amenities, and vibrant beach atmosphere make this perfect for family seaside days.",
+      "gmapsUrl": "https://maps.google.com/?cid=3058633145718877049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 3.8,
+      "ratingCount": 854,
+      "photoRef": "places/ChIJkQbIh23ZTxMReSvPBKRycio/photos/AcnlKN2VhP9X9R7pODbvG9JU1xTxbaGfhVozXC5o0TzLSoafbczbgvTGJzTEC-gugFY5agXpTla3dYoCtvJ7tSMG16HAPeJkXLU45AHzk_QTKRPYVyP-pEtjk7nC3o-5jAldwADbFTg9MCXNPRs5gYEyViNoQ08EbUw3XIxVyaFZszg0tmiaHPQNwS8UWeRBawxVNCsy3sRUg_68fSUmUJmaUQUmp2GHGsltI6x6IzRTSun5JDu-2q7-zR3yrxbvCGmjoEW_9tusJ7vai3Q9Tc8ey1LpEkzA_Ch-sBudJ0wcuxgYFBUJGgnhGsHNiuR40ZvEe8mzavg3uK6tpasZHAjsPUmheex5f9bHx-x8ByHP2hxJioUBJFWe560Exeq3k_8LRo9qgn4rVdFpworevJto0Qtkzk4baFmqyMQVd7ikrpNsVA",
+      "photoAttribution": "Nelson Celestino",
+      "placeId": "ChIJkQbIh23ZTxMReSvPBKRycio",
+      "address": "Beach of Durrës, Albania"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Pazari i Ri",
+      "coord": [
+        41.329982699999995,
+        19.8244656
+      ],
+      "desc": "Historic covered market, local produce, artisan goods, traditional crafts, food stalls",
+      "longDesc": "Vibrant covered market brimming with fresh Albanian produce, local handicrafts, and street food. A sensory experience where families discover authentic local culture and flavors.",
+      "gmapsUrl": "https://maps.google.com/?cid=18064074813019303807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "photoRef": "places/ChIJw_xRNRExUBMRf68YulV8sPo/photos/AcnlKN10ifw3ypuCrK9QGMeFda7WemFhR2fB1YTrN4ngvSLwU_OZnCKyw1jzRqxScJG-wwidVHHIjg3okkFye-J_wHSebwrpAs63J46c_Ahko7nvs6ccwqo14AuY6B5QbP4cIvvPe0iGJfHGTSJhZK_H_lpdIxgm7byPFssGhCVs5mD_lOqaQU-jb2_hih5DtIbqq5qPuBjfQ4KEqKArW-5r7HdqdjzTpOiSBQa-z6UCQieURjKlaYIkpD66yTr3e2vBpsH05OCKlfV6dZm1pnKASqoh1zESNZFXLv6RGE1HBoPdxTJ0CDzThtrvxmGNnwLi8rbdVEkg4iRcaxw0IuNI2dbv_Ahttwk3-jFUPo0Itrytsaa53T5mNGsbO_BFCPVNdngZTtXzNnvRUbDDjJYE-gpne59HFlTQiK2un6lgRRWkyFOm",
+      "photoAttribution": "Edlira Kondo",
+      "placeId": "ChIJw_xRNRExUBMRf68YulV8sPo",
+      "address": "Pazari i Ri, Tiranë, Albania"
+    }
+  ],
   "cityCenters": {
     "Northern Albania": [
       42.3521,

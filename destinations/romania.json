@@ -29,7 +29,8 @@
         "Romantic",
         "Photography Worthy",
         "Splurge",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Scenic Views"
       ],
       "phone": "0767 374 998"
     },
@@ -53,15 +54,983 @@
         "Romantic",
         "Photography Worthy",
         "Cultural & Historical",
-        "Art & Design"
+        "Art & Design",
+        "Hidden Gem"
       ],
       "phone": "0728 371 762"
+    },
+    {
+      "name": "Hilton Garden Inn Bucharest Old Town",
+      "coord": [
+        44.4330974,
+        26.100675199999998
+      ],
+      "desc": "Luxury five-star hotel, central location, rooftop bar with city views",
+      "longDesc": "Elegant luxury hotel in downtown Bucharest offering families modern comfort, excellent service, and convenient access to major attractions and restaurants.",
+      "gmapsUrl": "https://maps.google.com/?cid=11507290761568874812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Romantic",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 3955,
+      "website": "https://www.hilton.com/en/hotels/buhgigi-hilton-garden-inn-bucharest-old-town/?SEO_id=GMB-EMEA-GI-BUHGIGI",
+      "photoRef": "places/ChIJdzZnYz__sUARPHFyuvobsp8/photos/AcnlKN2vPBUCrx54xRB6uRadCwRn9KAmnxNGWuE68XKy3xqSn9ILCUmWr4cbIMf1p6lJhz0625mPwTwCJ9EuOUSlM4xFKqgfMHJlAB5p-9bMrTq1CVb_Wcg9DiqF2vw9KBv6adT43A8RRU3rry7FKL0Qw_3sB91oatK6uvwm0w9fo86nMtB9QEC0c3d9zOgWOgM2r0tJ4qmVbxRHnCjp_pUjdabAWW7bBcEkT47bIL5YeG2Fqi1e3nmLYzWUCfFmEPtVwEA9wj3oRYd5ne1zcUweBcb01vpL4rWjyLozBlLCZZrzwA",
+      "photoAttribution": "Hilton Garden Inn Bucharest Old Town",
+      "placeId": "ChIJdzZnYz__sUARPHFyuvobsp8",
+      "phone": "021 312 0300",
+      "address": "Strada Doamnei 12, 030055 București, Romania"
+    },
+    {
+      "name": "Brukenthal Summer Palace",
+      "coord": [
+        45.730784799999995,
+        24.3775151
+      ],
+      "desc": "Boutique hotel in historic palace, period furnishings, central square location",
+      "longDesc": "Charming boutique hotel housed in a restored historic palace, offering families authentic Transylvanian character with modern amenities and picturesque medieval surroundings.",
+      "gmapsUrl": "https://maps.google.com/?cid=15826659531613715403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.2,
+      "ratingCount": 4853,
+      "website": "http://www.palatulbrukenthalavrig.ro/",
+      "photoRef": "places/ChIJ7T7SuDOLTEcRy7viov2Wo9s/photos/AcnlKN0nPxCeanVAGkbNukHKSnCX1QiJgnvkakA0Y2grwjNM8-LyrGBwsGlOYOKYw7Rv4YbWbprCMU3XDyYIbbTkwkf3DQn1FkhxE4R0tDP0c0ucOzzhb7HRAdBchm7sTo4xTksOD4i3ZxCrK-AudmcC79tUWifDxoWCVZmGLPCnT7kWBlAjPZPTaLf_stJ26D7sTQewBFco3-jGWLVYeYRF9Jvr_m30x9r-qkGTS4mPfID9KeSEx3iWJ_YXw7b7UwVe3ai1jO91vAnDX8uiETjdxQUk9oaTFPOt2pumOAq5Pd9c7Q",
+      "photoAttribution": "Palatul Brukenthal Avrig",
+      "placeId": "ChIJ7T7SuDOLTEcRy7viov2Wo9s",
+      "phone": "0726 234 417",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "address": "Oranjerie, Strada Gării 6, 555200 Avrig, Romania"
+    },
+    {
+      "name": "Pensiunea Sonnenhof",
+      "coord": [
+        46.2297589,
+        24.7381317
+      ],
+      "desc": "Family-friendly guesthouse, medieval town views, warm hospitality",
+      "longDesc": "Cozy family-run guesthouse in the heart of Sighișoara's medieval citadel, perfect for families seeking authentic accommodation with personal service and cultural immersion.",
+      "gmapsUrl": "https://maps.google.com/?cid=9403722928181688186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Cultural & Historical"
+      ],
+      "rating": 4.9,
+      "ratingCount": 187,
+      "website": "https://pensiuneasonnenhof.ro/",
+      "photoRef": "places/ChIJE6gyBn2fS0cRejd3HC68gII/photos/AcnlKN2Gb5syksLpsNV86hGLMMqjr5NL2lZbcXS58bkOAAabQSBNl4NzAgwf4Wy88hP9EBaK28px5zYJZc4OkjB_t5gDvDPFjA0B9AMldwlzNlqoJkOzRTiQRUanhF_GTYXWS22hzr-jmUEwQn3uf1WWthg5Y70-UmfgALBPxB-BVJMr5wvZmrcJaDYhU3a8LBb3y9J8zYWnSG4aqx6uIGqjl3_Ab5kO4lQkvWfEcv6O5jSj9o9VwR3IF5oH5xM4otHrZPJNzJNNV43oLdzEoVxhEynmtLpPhxrr0YQIupAfInAhIxuiBcefn472Mir9TNAmzpz8kkyd8E2JX7u_Nc1Jao37bl2f3b_nOHUDs1jpjQB8tyrs8yS_5cibDJp7gH2W-Oj3cky7caS8_uIUzdeBAYRYffMYiJZclV4rkFCW4xEpTg",
+      "photoAttribution": "Mirela Orboiu",
+      "placeId": "ChIJE6gyBn2fS0cRejd3HC68gII",
+      "phone": "0744 573 650",
+      "address": "Cartier Rora NR. 11C, 545400 Sighișoara, Romania"
+    },
+    {
+      "name": "Wellness Center Praid",
+      "coord": [
+        46.542269999999995,
+        25.110303
+      ],
+      "desc": "Salt mine resort, wellness center, unique therapeutic experience, family pools",
+      "longDesc": "Unique resort built within a salt mine offering families therapeutic salt rooms, spa treatments, and wellness activities in an extraordinary underground setting.",
+      "gmapsUrl": "https://maps.google.com/?cid=8333398013352776025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Family Friendly",
+        "Playgrounds"
+      ],
+      "rating": 4.1,
+      "ratingCount": 1676,
+      "website": "http://www.wellnesspraid.ro/",
+      "photoRef": "places/ChIJrXFhWiv-SkcRWZHWRVctpnM/photos/AcnlKN3rGVOME5sFApPDd2PgZxfqDWnEsbarOVm8HIHy7hNAC2WvD8ycy_Lep7uQkPib38lv7bykRKpeubn7CFBUEpKAxyZxPVXSWa7Yp7-KgF0GCIjgn0zUPsnDSSaVnrwDN5eDaCWni4KKeOxH1ZKwmJBgeKunNvqkCCCwiT5Gx89tQSNBiBtRF6kvmqNDsxWk5BjxSNK-CF3IiwxXh8ebOtehGueSZw1qMzhcf_D8tmQkkRKOdYq1kX9BUl7iDF0BLiF_6UBe8rMKDtu6Z_Hynw9kNB16a34TMVM0upNdzfHqRw",
+      "photoAttribution": "Wellness Center",
+      "placeId": "ChIJrXFhWiv-SkcRWZHWRVctpnM",
+      "phone": "0722 408 777",
+      "hours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 12:00 – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "address": "Strada Minei 79, 537243 Ocna de Jos, Romania"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Caru' cu bere",
+      "coord": [
+        44.4320175,
+        26.0981208
+      ],
+      "desc": "Historic fine dining restaurant, ornate interior, traditional Romanian cuisine",
+      "longDesc": "Iconic elegant restaurant in a beautifully restored 19th-century building, serving refined Romanian dishes in an atmosphere that feels like stepping back in time.",
+      "gmapsUrl": "https://maps.google.com/?cid=14593284683301693268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Local Delicacies",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 78588,
+      "website": "https://www.carucubere.ro/meniu",
+      "photoRef": "places/ChIJwXfea0D_sUARVKdY1hnDhco/photos/AcnlKN15uvo978Zw4Wnv4o9_Jmah2gztxylmQHoqeQikuhJO4wG8xAIgs5N_GVpRjjvm-qvtl0mb-psztDQAAMXIvskzP0HSbi0RbecxL-Eb8pfDmPMTqCtEQDaUEMGl5DxYJGL2uvVZU7ffdf2t-N63PI7PLqKDBWddty6WfVx4QGPCusOGqiU0u9cEKLrMeX2hmzxLIozlJs705u4OAa2RAFFEzZvtIG9cvXkxgKwN_Z6wZDteyI96H-SKVuF_bibqqvyvt_EnoUg9XGA8YGTggdx6pJ_ZMt_EmLDF7yems9XY-Q",
+      "photoAttribution": "Caru' cu bere",
+      "placeId": "ChIJwXfea0D_sUARVKdY1hnDhco",
+      "phone": "0726 282 373",
+      "hours": [
+        "Monday: 10:00 AM – 12:00 AM",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ],
+      "address": "Strada Stavropoleos 5, 030081 București, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Restaurant Hanu' lui Manuc",
+      "coord": [
+        44.4297202,
+        26.102305299999998
+      ],
+      "desc": "Historic inn-restaurant, traditional recipes, charming courtyard, family-style dining",
+      "longDesc": "Romania's oldest continuously operating hotel-restaurant, serving family-friendly traditional Romanian fare in a charming courtyard setting with old-world character.",
+      "gmapsUrl": "https://maps.google.com/?cid=15439727830362881762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 46755,
+      "website": "https://hanumanucrestaurant.ro/",
+      "photoRef": "places/ChIJtS8YJz7_sUAR4v59lajuRNY/photos/AcnlKN1-pCiqx1QoUwr75OHRIUUNfRfQhQOWdUHZ4sw4SpMd1uh9DiSsWvKqybH5jeLK9CUjqZD9AzE9IVXVUBUBcIniBjWzV2hjOrk9LWC82-KL91s9z0Idjjrb2uRYCHzgFwscCXgONQ5DpYXYSnpIr9MtgJRzsXu5qxiehJoK8m4esVUvFAF7CBNcR3O3cIiOJWg94PCVPnXfS0bo3JtONN8GOI2u22PvXcmD4tgeLOZGmdf0xGbgSbt1lOAHXIe2FNqpYlPuPrn6rHUaivIxk2WnO-AD3KY7LDpO6vgNSAL_NA",
+      "photoAttribution": "Hanu' lui Manuc",
+      "placeId": "ChIJtS8YJz7_sUAR4v59lajuRNY",
+      "phone": "0730 188 653",
+      "hours": [
+        "Monday: 10:00 AM – 12:00 AM",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ],
+      "address": "Str. Franceză 62-64, 030106 București, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "The Train - Journal Cafe",
+      "coord": [
+        45.7987442,
+        24.156366199999997
+      ],
+      "desc": "Cozy coffee shop, homemade pastries, overlooking Piata Mare square",
+      "longDesc": "Delightful cafe perfect for families, offering excellent coffee, fresh pastries, and a peaceful spot overlooking Sibiu's charming main square for people-watching.",
+      "gmapsUrl": "https://maps.google.com/?cid=12886824380771246174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 12,
+      "photoRef": "places/ChIJkeTiv0xnTEcRXqC2On8y17I/photos/AcnlKN1yqonqLbr_r1brsQN71pCIUj9dYnQqY6YaHPWfFWtE7u5AJe0UhsURa_6MigRKfvBBovQFp85GaY-RC2dPhyeaXdBdEuBvBtxNRcH8g7S_hoOaWr-73MFHsSJahCM03jUvHIGSLzqmtB7XdyfXSo7TguRCqwSeyzM0O_Wz4geTWtSYBLGP5Q4j2el-YHigwqZfghLsL40bBIG0bK2UOOGootrP8LQhKWCL3Cuxl0ngVU6Jz6MRuhnnri09x_OSsmeZo1gFsIfwB3T_Du9WOVkyPIMqKlNT8FMQGGUbvfg98g",
+      "photoAttribution": "The Train - Journal Cafe",
+      "placeId": "ChIJkeTiv0xnTEcRXqC2On8y17I",
+      "phone": "0771 674 139",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 6:00 PM – 2:00 AM",
+        "Friday: 6:00 PM – 2:00 AM",
+        "Saturday: 6:00 PM – 2:00 AM",
+        "Sunday: Closed"
+      ],
+      "address": "Strada General Magheru 39, 550185 Sibiu, Romania"
+    },
+    {
+      "name": "Mama Manu",
+      "coord": [
+        46.770356199999995,
+        23.5948419
+      ],
+      "desc": "Casual local chain, authentic Romanian comfort food, warm atmosphere",
+      "longDesc": "Popular family restaurant celebrated for authentic Romanian home cooking, generous portions, and welcoming atmosphere that makes visitors feel like part of the family.",
+      "gmapsUrl": "https://maps.google.com/?cid=3537939584454250745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Budget Friendly"
+      ],
+      "rating": 4,
+      "ratingCount": 2192,
+      "website": "http://www.mamamanu.ro/",
+      "photoRef": "places/ChIJi41j_SYMSUcR-VAwqE5JGTE/photos/AcnlKN27142_yqg0jbM9IjWhg5JcIRKToNblz73XxgDZwjcJbCDzHz2wcf2ElqOZBxpLuZA0C17G0r5Z2sk18MXsWktG-dkUS0G5wdGxdJrcbteJvwKJIiQf_-blU8W6NULYgJfZvd89qG2S7fooma58WkMMuhfRXRfyBVmYkIG7WU-b2SwkPiYiJ5l34riyNQdXyXfp3FcK4NCmhNV9oMXuu_hU2R_djQEIriEHNohrbR8kfJVAoE74h0atkJd_8H-u8kV48LPgLqLmbnVRLcSTcDWXv6dLV-zCCt1iTmKdgqmcPMecWsDRZ6EOMVbr-k8TrMTVi2bb-4MMvglDKYI9TcuOd15Jy4KBFLiMm_bloKFiA0BcZ17cuaDI_uXmNFE5SHq-cScCLbvAT0s9PdKu4yZKozle4rsAwsdDhDwEgVM",
+      "photoAttribution": "gheorghe balahura",
+      "placeId": "ChIJi41j_SYMSUcR-VAwqE5JGTE",
+      "phone": "0264 432 801",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Bulevardul Eroilor 43, 400129 Cluj-Napoca, Romania"
+    },
+    {
+      "name": "Casa Vlad Dracul",
+      "coord": [
+        46.2195446,
+        24.7928526
+      ],
+      "desc": "Traditional Romanian restaurant in Dracula's birthplace house",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16522957180235386451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Cultural & Historical",
+        "Iconic / Must-See"
+      ],
+      "photoRef": "places/ChIJv3Fbmch1S0cRU47rVgNWTeU/photos/AcnlKN3XfdptDTXcUbGZgrvwtdF8-I8fAt0t7tNUdp2zcfh3gq1Gwe9jvx0HxXe0EtZ5KGYXfIlIDnDe82MtHkBdBo_pcmI9FZ0jh1ecE5tuUhbocUmGd2ENdL-QE1AzwN7OL-LhV9JoEPlrnVIXQ5RSTIxiL0l1JDaisaEKZ6EE9qRpu-EcQjOJbto3priENNuQL26cs_0RQ9gENTWWZLZTuI6uXnNH-pet2-dftSHcSwCm-4iQmm2f8ocTKuHGPeoY8dHbUoOBKuWdZGvJ0jisYkpUJ2DFe339q1Vqt6TWy-OSVnIxQQLu373iZ_WV1BFu5IxLBbwuW9JfSHQAn_Xn3Wgj2xNODWDH4PvE1izYtupJQt2S5ppsJH5jjiVsL6SAthobH4hE9HjTuJBcEevpQ5TrEB3RieVKN1G1cmP28WQ1bQ",
+      "photoAttribution": "Andrzej Firszt",
+      "placeId": "ChIJv3Fbmch1S0cRU47rVgNWTeU",
+      "address": "Casa Vlad Dracul, 545400 Sighișoara, Romania"
+    },
+    {
+      "name": "Locanta Jaristea",
+      "coord": [
+        44.4236611,
+        26.091936099999998
+      ],
+      "desc": "Traditional Romanian restaurant in central Bucharest serving authentic local cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9680242927025669189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1164,
+      "website": "https://www.jaristea.ro/",
+      "photoRef": "places/ChIJGbDczhL_sUARRUTabKchV4Y/photos/AcnlKN3twvD42iX7tPste8JyUMq4GtDwGAA15h2iZBNogUhVcfKFIWoFEGfvYZbpH02M-v97_cTmfu-fbLuwL455ubIVERMCl1RcH7xfm7e70lwVCpLf6JNhK8atI-rdXZCGQiHyf9RMvszw7QhTxrZTmqDPdx98Jb7f9TEI62l6PlxI9D3H11lv1KL8PTPazqlna8h6WRknfXmLH6NPllWFLVhYNJZHwHXtB1gKQG7CgeJIeLjD9fZs7zbymiITP7Pr80n95idQWYUKhHriWPLkTjYxgoyYl9Ja5P3kchBr6Qoid0dHpC_dWmfWfZoHuFKdtNqsaolWGtQQGunsW_086302Rtd397LawKOlPCjMtNL_e2Bik_Ljt8qgeJ8_faH89PQw2LrBIRjMzUw-3GMiJhbvtK3z7bCuGTzLDHm0tJ8AQA",
+      "photoAttribution": "Liz Serban",
+      "placeId": "ChIJGbDczhL_sUARRUTabKchV4Y",
+      "phone": "0721 961 936",
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: Open 24 hours",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "address": "Strada George Georgescu 50-52, 040133 București, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Origo",
+      "coord": [
+        44.4332121,
+        26.0953452
+      ],
+      "desc": "Specialty coffee roaster in the Old Town with pastries",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14169121335398956031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Breakfast Spot",
+        "Budget Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 4865,
+      "website": "https://origocoffee.ro/",
+      "photoRef": "places/ChIJQbgapEH_sUAR__vch8jUosQ/photos/AcnlKN3yFnwe5JsQtfkf74mj0i9rKApubOC9Hvn8P-kKuqcIrTNkbYxwhqiFiuC7-Zhy-x6-inq3Rlv8XSl3ua2IGvFybyVdczDGQ7XxQnwtKnQxY3cyhusYqbJrRqeOyxOCaIoLK77w_CSXD-PLbTKy9TXsZRO3wOI8x1XwZnH6-dtilOTtfFRQiFBZjYRXLiriNJE1GHQFcmYYgTyjgk-zyG3UcJe_MuBCLvTT6cHx8JgjLPPQwORNUaH2bNhsrlvNN35n5coEatXuP_H_jOqlKvt-q8ezZnhlbAJ595ALM3lwzaXLpT-saZ79alkJdODMG4CVYGTrLbDDoOWKbf60-tlrAbni8vtyrRyrKX-OfLvOzOIuc_QRgDqWg8wzMkoTjD6OH7RBKEFhbtHXlS9UoCstjPguKtP0Ql9-nKr6a8A",
+      "photoAttribution": "Sascha Gloede",
+      "placeId": "ChIJQbgapEH_sUAR__vch8jUosQ",
+      "phone": "0757 086 689",
+      "hours": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 12:00 AM",
+        "Wednesday: 7:30 AM – 12:00 AM",
+        "Thursday: 7:30 AM – 12:00 AM",
+        "Friday: 7:30 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "address": "Strada Lipscani 9, 050971 București, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "La Mama Universitate",
+      "coord": [
+        44.434798799999996,
+        26.0994092
+      ],
+      "desc": "Family-friendly Romanian home cooking in central Bucharest",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2505945668108446656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4,
+      "ratingCount": 1674,
+      "website": "http://www.lamama.ro/",
+      "photoRef": "places/ChIJh2G-zUD_sUARwGsI3k7oxiI/photos/AcnlKN1Ep19EPCSR3VCRZNFfBp6l8cOehI_eFMGb3WhFDMxF9ggi--DQkSh2kfoyOhDd-hx8sJzzuVWMTgN29US6ZPhoYZFTYjzj7XErxOlzNbm2SRnNnlkBCouPHk8Z47DXlzWmjtOI6PFjNadwwPdGb2vxOLkHY3aJ_ZVulGq0fhWT7YZVHrMxlprrzKygF8B7N_Z9_7vHds5c5wBzh5QLAeg0qZsfe95Izryz2hylI_OrqYlfPDqA4Qr0H4xGt7RqZNw_JAMMjGolpaeULBaDhO67U6VkOvuKXY6eFbYMyTkbV8N2Tdv1q5CUJMPuWAST0ZrL-_FiQkSc09RLEo42pk4RObQFRSS8P2RuGE4_hjLe2a6LowJ4L7cwGY86uwnv6exzcNCe0njpXN0YnHEgWUTyieGjEW1DyX0ZVAUMghCuXCA",
+      "photoAttribution": "ioannis noulis",
+      "placeId": "ChIJh2G-zUD_sUARwGsI3k7oxiI",
+      "phone": "0721 104 451",
+      "hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ],
+      "address": "Bulevardul Regina Elisabeta 11-13, 030167 București, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Sergiana",
+      "coord": [
+        45.645230399999996,
+        25.589825899999997
+      ],
+      "desc": "Traditional Transylvanian restaurant with rustic decor and local specialties",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15933378101089908357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Dinner",
+        "Cultural & Historical"
+      ],
+      "rating": 4.6,
+      "ratingCount": 16991,
+      "website": "https://sergiana.ro/ro/restaurante/restaurant-sergiana",
+      "photoRef": "places/ChIJxW-ZBHpbs0ARhbZz2_a6Ht0/photos/AcnlKN1Desfwi_dw4yU4OMMJ6NDpcrt1M_kSOA13s0PyPei7NfB1GhmslOYTwCxPkoiNc4lH-L48HaPk-6laMHHEte0AF0ZOrE7p32B6VWJodMMfFiaNQ7xJ0t3AMFJR3BZwFUNuQxjtpeGen1rMP4U-F757fGsmtNThZZlKdlX2YFZNhcESon4s2Gj6ApeSQtytCjwsSJ8hrIJ8DkeeZiCgJTXxTZ3PVmwABS4FHJPyLCDmytx9OWe3VhdnSHJ4u9_wSPAatC1Jxj6vzqQhTLEDw7Jnp3a9rSWL5v2e5OCimv1prQ",
+      "photoAttribution": "Sergiana Mureşenilor",
+      "placeId": "ChIJxW-ZBHpbs0ARhbZz2_a6Ht0",
+      "phone": "0723 294 923",
+      "hours": [
+        "Monday: 11:00 AM – 11:30 PM",
+        "Tuesday: 11:00 AM – 11:30 PM",
+        "Wednesday: 11:00 AM – 11:30 PM",
+        "Thursday: 11:00 AM – 11:30 PM",
+        "Friday: 11:00 AM – 11:30 PM",
+        "Saturday: 11:00 AM – 11:30 PM",
+        "Sunday: 11:00 AM – 11:30 PM"
+      ],
+      "address": "Strada Mureșenilor 28, 500030 Brașov, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Viscri 32: White Barn and Blue House",
+      "coord": [
+        46.055221499999995,
+        25.0926837
+      ],
+      "desc": "Garden restaurant in Viscri with organic local ingredients",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7803498934597635110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Romantic"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2027,
+      "website": "http://viscri32.com/",
+      "photoRef": "places/ChIJNb99LQFoS0cRJszUse-YS2w/photos/AcnlKN2jXLzvBUGl8xrsg0f2Ubh4UMbJ0fljPSSgGCAHTq9M57opxQ1EnnK3BAOktEy3R_189V_0ymMW2j9RU9-yRREQjON5nwHVOGjwuewNxQM2l4fgQUqco0eKNDsadGeIHWB_v3ncPBoKK7C9gkSXZ3ypNSnaVyFo-07oWuN3zQ2ks3rR3bsPKYJpzxBAOKNK6tgju0ImvDVZ2dH_yYuKfgePlUSzmgg4_M-OQUQHu9FpPmVW0DWRAmuit1M_bOcLVvOd_fljaOphIkxXglOybQiZ5MvfFPziKBvSDq0ZRv5vfQ",
+      "photoAttribution": "Viscri 32: White Barn and Blue House",
+      "placeId": "ChIJNb99LQFoS0cRJszUse-YS2w",
+      "phone": "0755 084 084",
+      "hours": [
+        "Monday: 1:00 – 8:00 PM",
+        "Tuesday: 1:00 – 8:00 PM",
+        "Wednesday: 1:00 – 8:00 PM",
+        "Thursday: 1:00 – 8:00 PM",
+        "Friday: 1:00 – 9:00 PM",
+        "Saturday: 1:00 – 9:00 PM",
+        "Sunday: 1:00 – 8:00 PM"
+      ],
+      "address": "32, 507039 Viscri, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Casa Frieda",
+      "coord": [
+        45.793143799999996,
+        24.149111899999998
+      ],
+      "desc": "Traditional Romanian restaurant in Viscri village serving local Transylvanian cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16179873151414947817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Hidden Gem",
+        "Good for Dinner"
+      ],
+      "rating": 4.6,
+      "ratingCount": 14095,
+      "website": "http://www.casafrieda.ro/",
+      "photoRef": "places/ChIJa7r8KJBnTEcR6c_3FOh0iuA/photos/AcnlKN2ydCQU4biF6my1wYtCsMR9Qv8FnlVCfUClvnN5aqlcuz5ZJ3LhUzavP3ODvCslnJKJTKKxvZKfZKYMqEttzK4Vsoh-XZQ60OPLc5lS5eWe-Gh820pRfiOgVX9DyfUMdLxKVGpRbPDtAwMiyXKfs2Cr1x5xqaCVXiX1jpCZ9069I7Xe3q2i19DQpQkzs-Lj8yCKxTaUi9rMXq6A46Z2BO296yVSQ26-US8EaIsvb6uGsVIoC7UC02tTKPu3uxYdH3wK7UdiqpgRhyX_Ao9G_rsvFRupNMwRLOp_-7yPL8ar-A",
+      "photoAttribution": "Casa Frieda",
+      "placeId": "ChIJa7r8KJBnTEcR6c_3FOh0iuA",
+      "phone": "0269 218 821",
+      "hours": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 9:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 12:00 AM"
+      ],
+      "address": "Strada Nicolae Bălcescu 40, 550159 Sibiu, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Cafe Wien",
+      "coord": [
+        45.7976819,
+        24.149525399999998
+      ],
+      "desc": "Historic cafe on the main square with pastries and light meals",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1718437638642628732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Breakfast Spot",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 3129,
+      "website": "http://www.cafewien.ro/",
+      "photoRef": "places/ChIJFemHTpFnTEcRfHj0e-0d2Rc/photos/AcnlKN3fU23c_GuXVt1cYuguBxs2WTICaBAko5AEwrdrDKXB1bij5PUPkBcmOLdOZIJW7dT8SxquAW4F1Y_sVGQsvs7FC-t2tUij3rIPIShYLJbnjXmcFVKdcfnUd4TS_5WTPJMMaHQz--z9rFgJ5s8BjmWIwuD_Tckyzk_9Z0JE2VcbjXbfsOxT8aeNozB29MFwlIYMVCU-LzEt1B-nueEPyGupXT0ZZNVP4kJiD9GtI02Eh78MK8HUf9GomLJrSSkNA-5-rRh-IVb_X5fjQYi7EKtg9KDbnA2d-bbuLumL8VsRuw",
+      "photoAttribution": "Cafe Wien",
+      "placeId": "ChIJFemHTpFnTEcRfHj0e-0d2Rc",
+      "phone": "0269 223 223",
+      "hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 12:00 AM",
+        "Saturday: 9:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ],
+      "address": "Piata Albert Huet 4, 550182 Sibiu, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Casa Romaneasca",
+      "coord": [
+        45.636144699999996,
+        25.579717799999997
+      ],
+      "desc": "Traditional Romanian restaurant serving local Transylvanian dishes in a rustic setting",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18141695261617295889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 4291,
+      "website": "http://restaurant-casaromaneasca.ro/",
+      "photoRef": "places/ChIJPcJnm2hbs0ARERIWvLg_xPs/photos/AcnlKN3dPIQWQZJoZjnZH4xf5V3oI6obIvuh9jMiUy_Oh2KwpIpicQocS5Ge_osLWwtc3oJLwf0WRruCab3ENiUVu8JoAYV7kYRXLWbZ7z9C5ghWK82Y1hUjx0Ip7RN_W4cXTXMUSrAnYNrCzzAZA72UdccgLLPOmnqvGEYOc_8AN4hnMsmUsK_fbYN9bpfJjPevkbBaFpBGo_dUcMnSZ3rXNmCypY4-j4Kai_HT9FEbPTsvY_AX0KomGPMMSesswvQjVGWP-hZ_TBAEGS6NWvihUsMBGWSQAhSHdi1hBVKJHilw9Q",
+      "photoAttribution": "Casa Românească",
+      "placeId": "ChIJPcJnm2hbs0ARERIWvLg_xPs",
+      "phone": "0268 513 877",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Piața Unirii 15, 500123 Brașov, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Bistro de l'Arte",
+      "coord": [
+        45.643254400000004,
+        25.590875
+      ],
+      "desc": "Contemporary restaurant in Sibiu with European and Romanian cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7435709308420617458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Art & Design",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 4637,
+      "website": "http://bistrodelarte.ro/",
+      "photoRef": "places/ChIJ9051U3pbs0AR8vR5TTjyMGc/photos/AcnlKN2lbujRJm8TXpVhmRlQ7u-lEziF3ojRxkikexLJYQE3DxtlULwTSpwcuOGv_uJh1zJicwEFli7PhNhrpzi_ot7r8PwsdHTR30KB6H8h_yC1aIfb2CaU3m15zVInEGz55rzUeOEAoAvyHoNfxQEDcpyYuwSlwFxGQXmn2Jybi22vayuFrCtdhAGoqWnHJtFg8EanRSTYH8itCH9tH2vzbdLjLuYwZ8GJFXPZCAX606C8MscSSV2_u4tzjwQdL7io3eKko-7FYjjsAw0vQa70g3KkJXcTaQUVLrvWEEXcTGLWbFjs2aCl2waHWOlh4XNMjq0Nwg4APYqx_MG20rc__ZWqYRnyPzBlg-AM5pPexOWN-_V8F6AFPWQYlIrqE-3MCKcsIlsUv3HZjhDdOuVCnu9pyNIVPdR0HSGeybmWFGGy5w",
+      "photoAttribution": "Yulia",
+      "placeId": "ChIJ9051U3pbs0AR8vR5TTjyMGc",
+      "phone": "0720 535 566",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "Piața George Enescu 11Bis, 500031 Brașov, Romania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Palace of Culture",
+      "coord": [
+        47.1574351,
+        27.586461
+      ],
+      "desc": "Grand Neo-Gothic palace, museums, art galleries, architectural masterpiece",
+      "longDesc": "Magnificent early 20th-century palace housing multiple museums and galleries, offering families rich cultural experiences and spectacular architecture showcasing Romanian heritage.",
+      "gmapsUrl": "https://maps.google.com/?cid=8952894149659762691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.8,
+      "ratingCount": 16103,
+      "website": "https://palatulculturii.ro/",
+      "photoRef": "places/ChIJ5Sbc0537ykARA6AkbssRP3w/photos/AcnlKN2QQ42K4rUGkt56KdhZmtKdXeTy0OL5B5QbMRPH9fog-LkLtuzhvpg9pu3FOwCBAMU9FV-G3C34eUfDzm-MnEq0Ej634YojnBrzvFNeNBzHh2mRq9brDNc-H4xlRKABSkCgcRvyleWf7KCUHX_PrrzIpGpmya4kW3BxJcMreoDNb5zMA-o8W9OOrTjYgbwsr9rEu8Rgv8ARE9w2NRNAgmXQJ9xtB4fwWB8mXKCMtirF_H85r29cjKa1BCZHLfgjgJluSGeooluU3aS6X6RuA10KJcqoWMswVElJ5aAj9EJ25K-CTPxg_KGirSyhMhoG0ZgdExwliEca6eZpfU0_-R__NZqz-3O5kIFXsCvgCVpuXojHRiy0Zut5WxDNR5cwnGpG4DFPf7IY6m3lm14mKoTkqgX5RvftAYFIUXaSzDHeLA",
+      "photoAttribution": "Andreea",
+      "placeId": "ChIJ5Sbc0537ykARA6AkbssRP3w",
+      "phone": "0232 275 979",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Bulevardul Ștefan cel Mare și Sfânt 1, 700028 Iași, Romania"
+    },
+    {
+      "name": "Transfăgărășan",
+      "coord": [
+        45.4533844,
+        24.6248668
+      ],
+      "desc": "Scenic mountain drive, dramatic landscapes, hairpin turns, stunning views",
+      "longDesc": "One of Europe's most spectacular mountain roads, offering families breathtaking Carpathian views, mountain scenery, and thrilling driving experiences through pristine wilderness.",
+      "gmapsUrl": "https://maps.google.com/?cid=5787546061776127799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Scenic Views",
+        "Full-Day Activity"
+      ],
+      "photoRef": "places/ChIJr5ZMOKrdTEcRN4dgvXp-UVA/photos/AcnlKN3ipZdWb7sSjkra_7OA7clwTnFk2M8sw4ImdsTpfbQAqarCw3iyQZw87SGWp73oCHy73omaPV3Y3adjZVsnsD6RxGVDamk_ml63devJurQbyrQuM-ML_uHmNXly3uOEbxW8n1ReN1tYanukfhiHTkJOommTAOs4TjW8w_bP6bD1735tz8NGfRolFJEEl7j5o0ww6VZvRrp4Ln0pjbql2CpoElslXv9Kc2emSMUnwdxPEmwQ2NUKE1NvpRw-2t7WEaTEkivnuo4eOk3LOptM3Ld7qs5R6yGdYVSC8B3eSDCTPcTKqKn_jRCKEPhlSEg8mtZWZOMshwwTbiX44qA7psWKgElNxaaiGV7mbGpO5Sfm0WmbuEG42DsmZnXZStzhT-37O1R4lx7xbUG-pLxAb3xU2C91zCCY9qlvbfDBQ8CrK4I",
+      "photoAttribution": "Bolda Radu",
+      "placeId": "ChIJr5ZMOKrdTEcRN4dgvXp-UVA",
+      "address": "Transfăgărășan, Romania"
+    },
+    {
+      "name": "Valentin’s Ship",
+      "coord": [
+        45.2617541,
+        24.3196279
+      ],
+      "desc": "Scenic valley hiking, traditional villages, mountain streams, outdoor adventure",
+      "longDesc": "Beautiful valley exploration featuring traditional mountain communities, natural landscapes, and accessible outdoor activities perfect for active families seeking authentic rural experiences.",
+      "gmapsUrl": "https://maps.google.com/?cid=1734333293985505359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Scenic Views",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 293,
+      "website": "https://www.facebook.com/VaporCalimanesti/",
+      "photoRef": "places/ChIJk2RY418ZTUcRT6AjJvGWERg/photos/AcnlKN2XhvnOoAbV4ZBC_EuyTS9pFUjK2x4UZPQiTf_O47fJlo8eLx2coqnjFULEVvg3AONGijb3OsZ_WnLRQzZQr_F-es7ktOc7nWCeQMJZ-uc-F2YWCjFWePx2T_T0aAaSWlTynRRXZRA-nHo5YA1gwmL5mdzaRdpYSdCD6h5l8jomY1iYvjXfUk7ElhJQ4AgbAR346_28xZdGmBMV7cTQ9LwLhvPAn9sO520EQ5A6kKk6e5CDbxssZMPDxNUBAfVn6YsdE1Nv9Fb9ZdDkAydjkynDmFZDXruQxCUsPTqPuuTCTA",
+      "photoAttribution": "Vaporas Valentin Caciulata",
+      "placeId": "ChIJk2RY418ZTUcRT6AjJvGWERg",
+      "phone": "0745 081 584",
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "address": "Parc Caciulata Izvorul 1-2, 245600, Romania"
+    },
+    {
+      "name": "Sighișoara Citadel",
+      "coord": [
+        46.2197639,
+        24.791927899999997
+      ],
+      "desc": "UNESCO medieval fortress with colorful houses and Clock Tower, birthplace of Vlad the Impaler",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11041019637936187639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Photography Worthy",
+        "Half-Day Trip"
+      ],
+      "photoRef": "places/ChIJNY8rJsZ1S0cR92hM5dyUOZk/photos/AcnlKN2_TPu3nzc6Wcva_XS6ZbRDIuQefQrGd-chFl_RMibPj58f8mYEfUJWV2SR1Gj637hJn8cW2yddvOniEUxXwcnH3c3xovjS7fHT8_cDy_1MMReIFLvwN45aXloqJGvKZR7kIVpvbykupJcS1wDtMic5S2DSNXRZgBt6WmWTk1F2Je_GpIZ3RY-_vrJCnv2einFRInhGYBIIBh1iEnk8l5GnnivVRIAyudsnsdc_dmYKUTj7qN3GzAnM3nNMYfV9b3IUdJGPXG5PAx0ZMP0aSAa1-guRDo_stx5-N9LUkZGHjHy5zGIG4YafHliwoqlMEOd0lira1pmO_bkff8ZDs0WuoiwX8AjaRHRC67KevAuEg0-juJFVTa6nLqa_8xGHn73pjwDJtsKEPM3_4p9eYkG3G1X7DX8YbKaYWODEEhCFogye",
+      "photoAttribution": "Alfiero Battistoni",
+      "placeId": "ChIJNY8rJsZ1S0cR92hM5dyUOZk",
+      "address": "Cetatea Sighișoara, Piața Cetății, 545400 Sighișoara, Romania"
+    },
+    {
+      "name": "Dino Parc Râșnov",
+      "coord": [
+        45.5914742,
+        25.474063500000003
+      ],
+      "desc": "Life-size dinosaur park with over 100 scientifically accurate models in a forest setting near Brașov",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8143798716381350656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Playgrounds"
+      ],
+      "rating": 4.6,
+      "ratingCount": 31980,
+      "website": "https://dinoparc.ro/",
+      "photoRef": "places/ChIJeb9jX69Fs0ARAEsx7MiVBHE/photos/AcnlKN1vWk57s8NvHLWwHA3h-r7K73cG-Y64WprKZniNpJOoQONiSck1J1Mnym6LmWdQ3AaKGoehnpjkwA_eFs7lp5XdRMQX5_5iMN5B54huQq4TbI-Nhlx983HqrEW310igBTxbRDIHcPAv5hd_c_gRmPKZs-5VArg22svPGJWaEXEzNvoeKWp0dXJeY1kOIy6g7TydO6kTQMh5wGlZiy7kqtxgUsYQ1pKe3r2dJArGsiUxwvW6M9_w3m_qO8PXZVTTH5u6qmKxJ7lv78kpjwE-oBx6_n9WQhCTYmnFNoWg5cU7EQ",
+      "photoAttribution": "Dino Parc Râșnov",
+      "placeId": "ChIJeb9jX69Fs0ARAEsx7MiVBHE",
+      "phone": "0741 208 703",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:30 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 5:30 PM"
+      ],
+      "address": "Strada Cetății, 505400 Râșnov, Romania"
+    },
+    {
+      "name": "Bâlea Lac",
+      "coord": [
+        45.604865800000006,
+        24.6164718
+      ],
+      "desc": "Glacial lake at 2,034m with cable car and mountain views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18110162946174448762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "rating": 4.7,
+      "ratingCount": 522,
+      "photoRef": "places/ChIJsQWNWtLrTEcRenQrbz85VPs/photos/AcnlKN3yFBep769o-w8nKCQCiTQCIld2AIItjkFtvznw4RQnWPi192niD7IyA7ceXOcQ0BuLTlPh3XvDP1jfrtDJhQQ-jnNnjh6dlsaiZafhAOhXLrLV-egK3lZxT0btBONdv2YaDfatDe1GghlyMQ0AZsj9qZ5-ug2mN0K2rQS5cr8JdB3tPBbeMfZ7CtewMCLS9yamAtmVnPPotYPj7u_sKb0iVt41XIcc69TFEei3Pgv5Ag1UIgqOrMA5uTMv7vxi1_iWtW8ZKkEGeg5E-UWkb6zkZifYVF59P1mEISKAHcD2P60XDfWoWdUAJiJaIdtmpiRD9XF9QXvXMEOrGoJPRTEY-pC4ga9JBWV82sKvcuw5eQjT1Eoe7TzWiS5c1gQQJmxXp-JIZHy4LYPgi70eotoZfN3umoD0Cvp3aqXdQFm-Rw",
+      "photoAttribution": "maria loredana hodorca",
+      "placeId": "ChIJsQWNWtLrTEcRenQrbz85VPs",
+      "address": "Transfăgărășan, Romania"
+    },
+    {
+      "name": "Peleș Castle",
+      "coord": [
+        45.3599816,
+        25.5426424
+      ],
+      "desc": "Neo-Renaissance castle in Sinaia, former royal residence with ornate interiors",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11127941292098835885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Photography Worthy",
+        "Half-Day Trip"
+      ],
+      "rating": 4.7,
+      "ratingCount": 72563,
+      "website": "https://peles.ro/ro/",
+      "photoRef": "places/ChIJbVXg0uwWs0ARrdXzlKVjbpo/photos/AcnlKN0VEEUI-F2_vJn3gFvBSQX-_4BhhRkbm0hM3QWkBol1KZrm7jzXx5PU2LpNNYT6iLtBtD1cxSooxh-fbArvN4boaCsYTbKS_p8zAl7aJXKbd9dOZC73nK1qHi4SV5mFFhpugMYVjYo_IlFQbkG7j6hyGEtI0Hj2DEr_HSi3Sgz-ellRxaZiMLKenNZl0pvTUKDKpOe0-9gSJS_UvX3K4_xfXPnDq-nNYzl_XUY-UrojwY2HuSOkH2HHi3bES4gLJJ3TP3RwC_glUl9vI-kEbfL7NQAJApN-yW3s0HNu7Kl0iNVSI8yX-OftXJd5tehZD1ZDzt970BD4bDZP4bLP7LFsdsQ1r232gGZlSp9-Zq3-donE5oTophkNo-X90iyqIYa9yL9C24J6FI_0QFDSpFipX4IL6ZC1VLz-JgLrE38fmcs",
+      "photoAttribution": "Michał Balion",
+      "placeId": "ChIJbVXg0uwWs0ARrdXzlKVjbpo",
+      "phone": "0244 310 918",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 9:15 AM – 5:00 PM",
+        "Friday: 9:15 AM – 5:00 PM",
+        "Saturday: 9:15 AM – 5:00 PM",
+        "Sunday: 9:15 AM – 5:00 PM"
+      ],
+      "address": "Aleea Peleșului 2, 106100 Sinaia, Romania"
+    },
+    {
+      "name": "Salina Turda",
+      "coord": [
+        46.58769890000001,
+        23.7871819
+      ],
+      "desc": "Underground wonderland with boat rides, playground, and salt therapy",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15311771678551163148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Adventure & Active"
+      ],
+      "rating": 4.5,
+      "ratingCount": 30371,
+      "website": "https://www.salinaturda.eu/",
+      "photoRef": "places/ChIJZca_hbNoSUcRDMHtZTdXftQ/photos/AcnlKN1RPnXpow9mQWfbdURqaTX-bUd3ehALvzn0FVJrejVFtnbRUUUBA68C2B6eoRToJ4G27OgEp3NwxHkhu4uymw_OEUibxxp70Y4i8BWbcdvVq0_jsY6SSlyfzaydFMYJeT0351I5OFY4HKCec1M6qu580QiZvc9K56rXIVVC73U1cXPf3w1Myp0vX2TE2Uh5t9PVU2L9Ddv6MHTT3KIld77b2lbYXp_5obvwYcEjkGQOwq5gY4zB-grjXDhA0vnmRRD9TyWybrFQ8w5TfNjmmBx85woMXfSLa_mOPhrcIBqBqHdJxHjptR88uV7NFKeGkt6O_5pf0yU3gYc6JDQH5AQjFmtWCGZrs130zHFKy8hwyAu0EMIMyYkHYH1u9JOMl2-GV9fWGLdvYmGEePUsL71JnFE2YcRWH4KJAVOMaMAfJ32KyHfBl7cBNfQ9LRQL",
+      "photoAttribution": "Gus Chiggins",
+      "placeId": "ChIJZca_hbNoSUcRDMHtZTdXftQ",
+      "phone": "0364 260 940",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "Str.Aleea Durgaului.7, Judet:, 401106 Turda, Romania"
+    },
+    {
+      "name": "Evanghelic C.A. Fortified Church Viscri",
+      "coord": [
+        46.054915,
+        25.0884298
+      ],
+      "desc": "UNESCO Saxon village with whitewashed church and horse carts",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9791435049913175276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Hidden Gem",
+        "Family Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1349,
+      "website": "http://biserica-fortificata-viscri.ro/",
+      "photoRef": "places/ChIJGTM-bORpS0cR7Exi90wq4oc/photos/AcnlKN31maEAyvNpS2x6nIWyQ9jMKXdxUjoNZAnhEQ5fCioeFP7vxzS8lif2p_h_1o_hM6GweJjZgELSnz_NCLnkk0eMoc4G5x3vNqIXJDhcT5wNukIi-B38RhAI7iPuLmqwEVtUjt2uxpBMbe7MhrOgKH0kSdtuuNnpJWD6o6PwtpZIn3lvW3kNwEZYxsBpr8jV80H7z1SO_sNAmc6f5JjnOddEXpfvrGSi7MrduAGX4aN2BhXVWFXrk0EpRa7wcPwmgvy-EonLho8lt14Il92rzXC_JUXo4Fyb5h-ncXCL0c9Opw",
+      "photoAttribution": "Biserica Evanghelica C.A. Viscri",
+      "placeId": "ChIJGTM-bORpS0cR7Exi90wq4oc",
+      "phone": "0745 324 394",
+      "hours": [
+        "Monday: 10:00 AM – 4:00 PM",
+        "Tuesday: 10:00 AM – 4:00 PM",
+        "Wednesday: 10:00 AM – 4:00 PM",
+        "Thursday: 10:00 AM – 4:00 PM",
+        "Friday: 10:00 AM – 4:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ],
+      "address": "Bisericii Nr. 47 Com. Bunești, 507039 Viscri, Romania"
+    },
+    {
+      "name": "Bâlea Lake",
+      "coord": [
+        45.603192799999995,
+        24.6170796
+      ],
+      "desc": "Glacial lake in Făgăraș Mountains accessible by cable car, popular hiking destination",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15301734772968719972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Scenic Views",
+        "Half-Day Trip"
+      ],
+      "rating": 4.8,
+      "ratingCount": 3219,
+      "photoRef": "places/ChIJ1_IUFtPrTEcRZAYLNrSuWtQ/photos/AcnlKN2DwvNrQcfE7n2_l7QWTwbwAwJniTBOHygpx-qHzd7xBo6EEyqejibN6jB2Zjo_sJgIlilp0CoRKeMLGRROlX_RyBwKxJVe7rQLg3Fdw9D3LZgXGjeLx1otUaSdD0-A07vxNW-0Bu1avrVYHPILYBgbaaptnX6SnxJKh2BS8-cFIaBFAE8GSK4H0zy-LnCLpq8xxhsN_rswq2lM0DcYC9EDp16W82a2M9HsXAREfPv8q8fQHImkMySZKXvmNOD4ckV7S34jGhXzihgRCI0vx13sE_UfvBy-Uv1AXEqXtcinPuTXT4vyHmN8PNM9xe0NAC2QzXcB5prrT2yyEn7CIu39YQ0UWopvyNBixNiKemIB3OVbhgDJ9ccmNrrvLL60DHceWcnwo4x2Dr3QDgLAxPQvM7B7mh9PDwO4BHKwBXS6Klw",
+      "photoAttribution": "Vlad Cristian Cretu",
+      "placeId": "ChIJ1_IUFtPrTEcRZAYLNrSuWtQ",
+      "address": "Bâlea Lake, Romania"
+    },
+    {
+      "name": "Cascada Bâlea",
+      "coord": [
+        45.6269308,
+        24.6117296
+      ],
+      "desc": "Spectacular waterfall along Transfăgărășan Highway with viewing platforms and hiking trails",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4259697751554792312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Scenic Views",
+        "Adventure & Active"
+      ],
+      "rating": 4.8,
+      "ratingCount": 5895,
+      "website": "https://transfagarasan.travel/ghid/locatie/cascada-balea/",
+      "photoRef": "places/ChIJlSku_7zrTEcReBv0Q4l8HTs/photos/AcnlKN1N7ECA8Y_0ztWBPrSP_3qE7drdp8zM4GBTmyDl6QqEuhWuFLiO_q2S65N4mzO8FR_SyQ1BFJKE5UP0syvy5nHrGQHnTY3l6zMUJmudU-FzgC61SEmomnhfk3gLx9gA9dWyUpTB8LZo8kXQkpD6_Rcj7qL7T7ioRfeOs8s8kjgJCT8AZfgWTiaECxzNWz5VRZ6aRMQYPdXWlEap8iMQkrb2xxeP1q3BNxvIBnHJFOqiGAdBzZet-5shSsG8Hpg-2S7LjCjhQ-Q_HeeSvqUS9ljCaWPsuoxkrvnt2f4zD-g9EZ0Td2wpMuUu0-4KlM5Aqf3rvD1w5Qvf6euKM7W7oxCdff4eCt6xD388j5q3lv15UXq7NmEYi0th-QBrBxt5GigfiOoK33nA98TaR8TuZz4s0pg-Hf8q9pOMWGcUuARDSw",
+      "photoAttribution": "Viorel Iosub",
+      "placeId": "ChIJlSku_7zrTEcReBv0Q4l8HTs",
+      "phone": "0722 222 222",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Transfăgărășan Comuna, Cârțișoara, Romania"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Dinosaur World Transylvania",
+      "coord": [
+        45.5275168,
+        22.9056917
+      ],
+      "desc": "Interactive dinosaur park, life-size exhibits, themed playground, educational fun",
+      "longDesc": "Engaging family attraction featuring dinosaur exhibits, interactive games, and outdoor play areas that make learning about prehistoric life fun and exciting for children.",
+      "gmapsUrl": "https://maps.google.com/?cid=16286035121159076661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Playgrounds",
+        "Good for Groups"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1750,
+      "website": "https://dinosaurworld.ro/",
+      "photoRef": "places/ChIJo8WbY01xTkcRNfs41KeeA-I/photos/AcnlKN0m1QG69SbF0KK8pKZGSNp0G7Jm8nqvEWoxmZy6YOTjTbMmwwHrMLkzrKbCuc4MkxuZpnu6_IcD7fGemRF3lYgIJOSTEc519bnQ74yAfobPobFH7z9yaBReJUHmtmamSzX-oEvxM-_8wERZ4qvuqBgW3UKoBfTDwSlU6xZnXyCkEgasd7sMAH-Q5ejdO6Z-G55ZRVmqHFeVCGw7R5IYb7Xyln6vOoaTr1-vAlnWhVeMGI9SCCk9p6UjBzeQla-6LAKb788BJ8O7L8KMkYSVqQQtym5aa1-IWeHPIFpkvTe5cQ",
+      "photoAttribution": "Dinosaur World Transylvania",
+      "placeId": "ChIJo8WbY01xTkcRNfs41KeeA-I",
+      "phone": "0799 453 212",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "DC79, 337388 Sibișel, Romania"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Central Shopping Center",
+      "coord": [
+        46.772764099999996,
+        23.5894074
+      ],
+      "desc": "Historic market hall, fresh produce, local crafts, artisan goods, food stalls",
+      "longDesc": "Vibrant indoor market where families can explore local produce, artisan crafts, regional specialties, and traditional foods while experiencing authentic Cluj daily life.",
+      "gmapsUrl": "https://maps.google.com/?cid=5721054509902366407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Good for Groups"
+      ],
+      "rating": 4.1,
+      "ratingCount": 4528,
+      "website": "http://www.magazincentral.ro/",
+      "photoRef": "places/ChIJHzG9MZwOSUcRx4Zg68NEZU8/photos/AcnlKN353h6ASDO26bwGIDX_sE5o3kWCdbthBieQ3UJsu9r3DorFfxXBEeZxl0HDG5klqLcC_Iz7qYM9qPKLOUW3QsA1yUE13TPLl18fI1rNerT0txUJ4jYx7P4VgRGP6IeNYK5GRI3hw4Z1gzN-At4Fejc4fSGuiIhC1konm-sWghn9LKwvDPI2gDbLVNwzTG6oWELFom8MXE4qA2FuGYH5bc4GphiYM5LtzyKPRq6TWdZfKqaxsrwjFoErttCKP9_UgRgcRtT1W8o2D8GkGA5GmnGX0IKOxVO5AQ-lYCyUraXXvc5OdeIgW0Unpmf6WrCNTf5nJywclLoMnS12WeDC4qNzomjDvJ_ku7JPkJZEMLc1uRA6EMyfi8Q_PIK0G0S4HUPXcZKws7dU7YVka-vOqO9GKFHIBzslEruKzojcc0Au8KPV",
+      "photoAttribution": "Iulian Sipos",
+      "placeId": "ChIJHzG9MZwOSUcRx4Zg68NEZU8",
+      "phone": "0264 594 140",
+      "hours": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Strada Regele Ferdinand 22-26, 400110 Cluj-Napoca, Romania"
+    }
+  ],
   "cityCenters": {
     "Transylvania": [
       46.1396,
@@ -69,5 +1038,358 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Fairytale Transylvania: A Family Adventure (8 Days)",
+      "description": "Medieval fortresses, dinosaur parks, and countryside estates—a magical journey through Romania's heartland designed for curious young explorers.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Bucharest",
+        "Transylvania"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Bucharest",
+          "dayType": "urban",
+          "base": "Bucharest",
+          "items": [
+            {
+              "name": "Hilton Garden Inn Bucharest Old Town",
+              "type": "hotel",
+              "coord": [
+                44.4330974,
+                26.100675199999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Locanta Jaristea",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Romanian restaurant in central Bucharest serving authentic local cuisine",
+              "suggestedCity": "Bucharest"
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Restaurant Hanu' lui Manuc",
+              "type": "dinner",
+              "coord": [
+                44.4297202,
+                26.102305299999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Discovering Old Town Bucharest",
+          "dayType": "urban",
+          "base": "Bucharest",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Origo Coffee Shop",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Specialty coffee roaster in the Old Town with pastries",
+              "suggestedCity": "Bucharest"
+            },
+            {
+              "name": "Village Museum walk",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Open-air ethnographic museum with traditional houses and farm animals",
+              "suggestedCity": "Bucharest"
+            },
+            {
+              "name": "Caru' cu bere",
+              "type": "lunch",
+              "coord": [
+                44.4320175,
+                26.0981208
+              ]
+            },
+            {
+              "name": "Afternoon nap",
+              "type": "nap"
+            },
+            {
+              "name": "Old Town stroll and playground time",
+              "type": "freeTime"
+            },
+            {
+              "name": "La Mama",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly Romanian home cooking in central Bucharest",
+              "suggestedCity": "Bucharest"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Transit to Transylvania",
+          "dayType": "rural",
+          "base": "Transylvania",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning drive to Transylvania (3.5 hours to Sibiu region)",
+              "type": "info"
+            },
+            {
+              "name": "The Train - Journal Cafe",
+              "type": "lunch",
+              "coord": [
+                45.7987442,
+                24.156366199999997
+              ]
+            },
+            {
+              "name": "Bethlen Estates",
+              "type": "hotel",
+              "coord": [
+                46.1448738,
+                24.692038099999998
+              ]
+            },
+            {
+              "name": "Estate grounds exploration",
+              "type": "freeTime"
+            },
+            {
+              "name": "Kulinarium",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Farm-to-table restaurant near Bethlen Estates with traditional Transylvanian fare",
+              "suggestedCity": "Apold"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Medieval Towns and Dinosaurs",
+          "dayType": "rural",
+          "base": "Transylvania",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Sighișoara citadel exploration",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "UNESCO medieval fortress with colorful towers and Dracula's birthplace",
+              "suggestedCity": "Sighișoara"
+            },
+            {
+              "name": "Casa Vlad Dracul",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant in Dracula's birth house with traditional Saxon menu",
+              "suggestedCity": "Sighișoara"
+            },
+            {
+              "name": "Peleș Castle",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "castle",
+              "suggestedDesc": "Neo-Renaissance castle in Sinaia, former royal residence with ornate interiors",
+              "suggestedCity": "Sinaia"
+            },
+            {
+              "name": "Casa Romaneasca",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Romanian restaurant serving local Transylvanian dishes in a rustic setting",
+              "suggestedCity": "Bran"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Salt Mines and Wellness",
+          "dayType": "rural",
+          "base": "Transylvania",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Turda Salt Mine visit",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Underground wonderland with boat rides, playground, and salt therapy",
+              "suggestedCity": "Turda"
+            },
+            {
+              "name": "Restaurant in Turda town",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual lunch near the salt mine entrance",
+              "suggestedCity": "Turda"
+            },
+            {
+              "name": "Return to estate for afternoon rest",
+              "type": "nap"
+            },
+            {
+              "name": "Evening at Copsá Mare Guest Houses",
+              "type": "optional",
+              "coord": [
+                46.1342914,
+                24.5489438
+              ]
+            },
+            {
+              "name": "Restaurant Sergiana",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Transylvanian restaurant with rustic decor and local specialties",
+              "suggestedCity": "Brașov"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Countryside Adventures",
+          "dayType": "rural",
+          "base": "Transylvania",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Viscri fortified church visit",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "UNESCO Saxon village with whitewashed church and horse carts",
+              "suggestedCity": "Viscri"
+            },
+            {
+              "name": "La Copaci",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Garden restaurant in Viscri with organic local ingredients",
+              "suggestedCity": "Viscri"
+            },
+            {
+              "name": "Piata Sforii",
+              "type": "shopping",
+              "suggested": true,
+              "suggestedCategory": "shopping",
+              "suggestedDesc": "Local artisan market and shops near Rope Street featuring traditional crafts and souvenirs",
+              "suggestedCity": "Brasov"
+            },
+            {
+              "name": "Bâlea Lake",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "nature",
+              "suggestedDesc": "Glacial lake in Făgăraș Mountains accessible by cable car, popular hiking destination",
+              "suggestedCity": "Cârțișoara"
+            },
+            {
+              "name": "Casa Frieda",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Romanian restaurant in Viscri village serving local Transylvanian cuisine",
+              "suggestedCity": "Viscri"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Palace and Mountain Views",
+          "dayType": "rural",
+          "base": "Transylvania",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Brukenthal Palace",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "museum",
+              "suggestedDesc": "Historic baroque palace in Avrig housing art museum and beautiful gardens",
+              "suggestedCity": "Avrig"
+            },
+            {
+              "name": "Cafe Vienna Sibiu",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic cafe on the main square with pastries and light meals",
+              "suggestedCity": "Sibiu"
+            },
+            {
+              "name": "Bâlea Waterfall",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "nature",
+              "suggestedDesc": "Spectacular waterfall along Transfăgărășan Highway with viewing platforms and hiking trails",
+              "suggestedCity": "Cârțișoara"
+            },
+            {
+              "name": "Early dinner and packing",
+              "type": "dinner"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "rural",
+          "base": "Transylvania",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning drive to Bucharest airport (3.5 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Airport lunch before departure",
+              "type": "lunch"
+            },
+            {
+              "name": "Bistro de l'Arte",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary restaurant in Sibiu with European and Romanian cuisine",
+              "suggestedCity": "Sibiu"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

@@ -29,7 +29,9 @@
         "Romantic",
         "Photography Worthy",
         "Splurge",
-        "Fine Dining"
+        "Fine Dining",
+        "Iconic / Must-See",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 12:00 – 11:59 AM",
@@ -61,7 +63,8 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: 12:00 – 11:59 AM",
@@ -73,12 +76,889 @@
         "Sunday: 12:00 – 11:59 AM"
       ],
       "phone": "40 86 63 00"
+    },
+    {
+      "name": "InterContinental Tahiti Resort & Spa",
+      "coord": [
+        -17.570925,
+        -149.61873599999998
+      ],
+      "desc": "Beachfront luxury resort, lagoon access, water sports, spa facilities",
+      "longDesc": "This stunning beachfront resort offers direct lagoon access, perfect for families wanting water activities, with excellent kids' clubs and easy snorkeling from the beach.",
+      "gmapsUrl": "https://maps.google.com/?cid=2430065248674433466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Wellness & Spa",
+        "Outdoor & Nature",
+        "Beach"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2042,
+      "website": "https://tahiti.intercontinental.com/",
+      "photoRef": "places/ChIJfxtMSmQwmnYRuslC-HdTuSE/photos/AcnlKN2BSNxnewyiHJtXE3txCoo5J87oLCA3e_CG8FlZ1tWwayYXtVbunTZl0Psfpf7qx8P9m8hlTdDhvysSvT4ChkD3ywa7Bt7Ii3q1MH0McYLF9bp9QVUNwNJcTMD0PIDwFPWb4hKghL-jEjPpr0m1ynExx91rqJEU7p2W3XJ6areziDUWI31zMhwxw6rbIk9GaY_i7t1o_OJA0owESgF-_AqWqzUQok2qhw7z1LKxHD9-Xhl9gzLs9G6UR6y9vRT9IObjvvFSSqUesEKgBMyoqnUtAqvB4YC35AJh9hohXtQq6-VHnugoDtp9aM8_n9YwKZjvEIK3hVqm58OyDD4SjTk55UBhgVq1Y3W7vnZAs6tU57Z-uk7WPraZZ-m5ZOb6_U032j_cpL1EQYlvRzAjIbNrBbbzSWyYHDcWKrcwzXRNiYP7",
+      "photoAttribution": "Francis Guerin",
+      "placeId": "ChIJfxtMSmQwmnYRuslC-HdTuSE",
+      "phone": "40 86 51 10",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "PK7, Fa'a'ā 98702, French Polynesia"
+    },
+    {
+      "name": "Sofitel Kia Ora Moorea Beach Resort",
+      "coord": [
+        -17.5007987,
+        -149.764881
+      ],
+      "desc": "Overwater bungalows, pristine beach, lagoon snorkeling, family pools",
+      "longDesc": "Iconic overwater bungalows combined with beachfront accommodations make this an unforgettable family experience, with calm lagoon ideal for children's water play.",
+      "gmapsUrl": "https://maps.google.com/?cid=2827088031662614426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Romantic",
+        "Splurge",
+        "Photography Worthy",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1604,
+      "website": "http://sofitel.accor.com/hotels/0566?merchantid=seo-maps-PF-0566&sourceid=aw-cen&utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps&utm_term=Sofitel-Launch",
+      "photoRef": "places/ChIJ3VdN77MmmnYRmicCFJbVOyc/photos/AcnlKN1OqT5HJY_HwcVuM_PzxI-FKx-wzaqLbMhANDI1EcwoDE49hyB8VzA75cq2-Bk-850GDpi5g5IK_Wafa63RL8ruojo9WBbc-AhHT5kFqgqSftjKlUIYKxCXTl1mVqPBoeZcjJciNNuBG20mDhOxBe2knFrVeThsXoMl0MVuaJDFEg_RbjM_i2Eg8k-e0NG3EdCtFOKC6f8vWuV5xcR3bd5RbD1B19tuCFZi7GyXHZDfky5hUKvmWxb3XqYT139Ymy_RJ0qqqJRZytr26GeaXjQWHg7cNAr4im_El7f8Av3WvA",
+      "photoAttribution": "Sofitel Kia Ora Moorea Beach Resort",
+      "placeId": "ChIJ3VdN77MmmnYRmicCFJbVOyc",
+      "phone": "40 86 66 66",
+      "address": "Teavaro, Moorea-Maiao 98728, French Polynesia"
+    },
+    {
+      "name": "Motu Beachfront Art Villas",
+      "coord": [
+        -21.2717939,
+        -159.7587585
+      ],
+      "desc": "Budget-friendly guesthouse, local atmosphere, island views, family rooms",
+      "longDesc": "A charming budget-friendly pension offering authentic island living with comfortable family rooms, perfect for travelers seeking genuine Polynesian hospitality without luxury prices.",
+      "gmapsUrl": "https://maps.google.com/?cid=11077924785351139396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Beach"
+      ],
+      "rating": 4.9,
+      "ratingCount": 88,
+      "website": "http://www.motuvillas.com/",
+      "photoRef": "places/ChIJw_jxWQPUV3ERRKBZH-axvJk/photos/AcnlKN2dAYrgjO6Tml7QT_WFa6VarVFm8WrA2KViQ2sv-arCxLrThV_uE3tHpmu4SqqC95KAjk9CZmIJLQpWpXS3I-TayP8ZSAsh5oNMVySDzay9zuhyIKGqRG_W3fNIga_7zLkkGRoyM3DfcDOXJIn9naaMuUoOXG34HVc9A495k5_iPwbOcprWzQ4koLFRIBfkDKfw07XAYJGUdf3bntQVsWifuE4LYfNRSyE86XIuJkqCQ3u1lLKo1TYPcctx8VtooSC9Y5KslCp-CJJMEvKOn2jLEX8UJ7Y8IES1dTmO1NEaSTmJ9vaGqL9xgJAQgCkMbe5j8kPSDIboDyYxMytuy0SHPHAkLn2OgAie0FFf4aDVK6-OEDGb0i7JjaGBSQ1Oa-cs1Vx7_ml8KQMBC9zcSj199yjaj7ivWA8PQZkNhT8GEL3g6wKWH4tHmmTfSejM",
+      "photoAttribution": "Cyndi Leger",
+      "placeId": "ChIJw_jxWQPUV3ERRKBZH-axvJk",
+      "phone": "24 682",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 12:00 PM, 4:00 – 6:00 PM"
+      ],
+      "address": "Ara Tapu, Takitumu District, Cook Islands"
+    },
+    {
+      "name": "Le Taha'a by Pearl Resorts",
+      "coord": [
+        -16.6084712,
+        -151.5630638
+      ],
+      "desc": "Overwater bungalows, vanilla plantation tours, lagoon activities, spa treatments",
+      "longDesc": "Exclusive island resort featuring overwater bungalows and unique vanilla plantation experiences, offering families an immersive cultural adventure with world-class amenities.",
+      "gmapsUrl": "https://maps.google.com/?cid=1994052565711162086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 704,
+      "website": "https://www.letahaa.com/",
+      "photoRef": "places/ChIJyZVQ9WiDvXYR5oqrWj5MrBs/photos/AcnlKN15Ono-FdOQTWLIWyE6tl1uN3BxBBIQq8Mc54CGRI9rY6oxI8tOfT2S8D8Z5sOwTgwJHGdTZsbbpr5AP6UfGRwvE6hNclvmEYHW5Wss6boDwKuS-OXUvjVBSkXEFez_DbXQUv52zTAqSH7f8id2BLt3e3fQPH4BKweSv3pZyCaD-Rc7HlNwk_EkbZ0lAsL0_FNrbLIVgLXjMYbupf3WBhk_iY9MGAFD0U5tSwOIY64IwMaeYXR4166CSC1BUzH5HmS5BjAF5VdYp_R8b3U8Ngy56yKuOuyS12XihpmRp2LLnw",
+      "photoAttribution": "Le Taha'a by Pearl Resorts",
+      "placeId": "ChIJyZVQ9WiDvXYR5oqrWj5MrBs",
+      "phone": "40 60 84 00",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Taha'a, French Polynesia"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Moko Café Tahiti",
+      "coord": [
+        -17.5389312,
+        -149.56553019999998
+      ],
+      "desc": "Fine dining seafood, French Polynesian fusion, waterfront views, elegant ambiance",
+      "longDesc": "Upscale restaurant showcasing fresh local seafood and French-Polynesian cuisine with stunning waterfront vistas, ideal for special family dinners with refined atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=9945760241918680195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Romantic",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.9,
+      "ratingCount": 88,
+      "photoRef": "places/ChIJUzD7IJw7mnYRgxzEwD5wBoo/photos/AcnlKN3OkLKoVwfDyo1hRTI5A__2oEDRcoiOoAMzzljI4J3u7bUa5C_BWlqCDrNx3K6m5I3etOmE9jU_YOXAM9wxTJwG83D47U62YuRujjdmt1khZjb2Pfhq6TYFWfjDZjCMjlq21PyjNnhD1h83WewBCsPbQO_6S-NLbemgsKMEMUR78cbBBb5zCK45uqqCAq0-wQAMLf3V9aPO_NqHEY15DvKVcpO3KADJLqkuXXX5y5cycJ4c_r6-42-B5Ttq7fQpxp28JntU-HXeRZ5H2p9zDRxM6V_Y_TUXeSCfndnrtiqx3D3X-_Xfl7CfgiGjpk1MK5L1Z3lyibzQ6dNYG7oQFxyhsUJdcKlmZQmLvo9jCpS2tjWX9W1Wc0-sOw-d6lKSiPrqy8xISPpWb7GeHQliucTv7NSsztRrztfahIvnWrk",
+      "photoAttribution": "Werner Mayer",
+      "placeId": "ChIJUzD7IJw7mnYRgxzEwD5wBoo",
+      "phone": "40 83 29 00",
+      "hours": [
+        "Monday: 6:00 AM – 2:00 PM",
+        "Tuesday: 6:00 AM – 2:00 PM",
+        "Wednesday: 6:00 AM – 2:00 PM",
+        "Thursday: 6:00 AM – 2:00 PM, 6:00 – 8:30 PM",
+        "Friday: 6:00 AM – 2:00 PM, 6:00 – 8:30 PM",
+        "Saturday: 6:00 AM – 2:00 PM, 6:00 – 8:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "FC6M+CQH, Rue Charles Viénot, Papeete 98714, French Polynesia"
+    },
+    {
+      "name": "Bloody Mary's Bora Bora",
+      "coord": [
+        -16.5298286,
+        -151.74430859999998
+      ],
+      "desc": "Casual beachfront dining, fresh fish, tropical drinks, laid-back vibe",
+      "longDesc": "Iconic beachfront restaurant famous for fresh grilled fish and tropical cocktails, offering a relaxed family-friendly atmosphere perfect for sunset dining with ocean views.",
+      "gmapsUrl": "https://maps.google.com/?cid=6850716944810583472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Off-Hours Eats",
+        "Beach"
+      ],
+      "rating": 4.1,
+      "ratingCount": 716,
+      "website": "https://www.bloodymarys.com/",
+      "photoRef": "places/ChIJGTjo_dSivXYRsCUvwMOiEl8/photos/AcnlKN2qr6Yexnht6ZHlOyfwy5vE03V_z1LOO5rXIlzCrkNFx_Ec7qCq4LZkpRdYbL3jbOA35SqVVwB1AOrSL9x1j12TGD8V0hO7I2lhW40ld0iZk4zj0yJ1wMBM8GxrU83inY0ZoaNonDtM6etmHaGvxLZGUC8NYr6BA1e9HF1RysoapC8E1mILf94hddXcEuwlR54HCtOEdG3EBFkmu4Hzi0OdWNjbsLenMOrVbSOv4NDdfyBLgeb7dnMj-VL8L7I6Bku0828WxQ7SGWPsepP7QWahzBcLrWOKIimOLzgLXO7aLw",
+      "photoAttribution": "Bloody Mary's Bora Bora",
+      "placeId": "ChIJGTjo_dSivXYRsCUvwMOiEl8",
+      "phone": "40 67 69 10",
+      "address": "Povai Bay, Bora-Bora 98730, French Polynesia"
+    },
+    {
+      "name": "Oasis Carrefour Arue",
+      "coord": [
+        -17.5280639,
+        -149.5376761
+      ],
+      "desc": "Local café, fresh pastries, strong coffee, authentic breakfast spot",
+      "longDesc": "Charming local café serving excellent fresh pastries and strong Polynesian coffee, perfect for a casual family breakfast before exploring the island's attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=15026736408732182188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 5,
+      "ratingCount": 2,
+      "placeId": "ChIJ5ZqMyMM5mnYRrCbpDyaxidA",
+      "hours": [
+        "Monday: 8:30 AM – 5:30 PM",
+        "Tuesday: 8:30 AM – 5:30 PM",
+        "Wednesday: 8:30 AM – 7:00 PM",
+        "Thursday: 8:30 AM – 7:00 PM",
+        "Friday: 8:30 AM – 7:00 PM",
+        "Saturday: 8:30 AM – 5:30 PM",
+        "Sunday: 8:30 AM – 12:00 PM"
+      ],
+      "address": "FFC6+QWG, Arue, French Polynesia"
+    },
+    {
+      "name": "Restaurant Tiahura Chez Irène",
+      "coord": [
+        -17.493557199999998,
+        -149.9091877
+      ],
+      "desc": "Traditional Polynesian cuisine, local dishes, family-style dining, cultural experience",
+      "longDesc": "Authentic restaurant featuring traditional Polynesian dishes served family-style, offering children a genuine taste of island culture in a welcoming, casual environment.",
+      "gmapsUrl": "https://maps.google.com/?cid=5072192206015220710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Family Friendly",
+        "Cultural & Historical",
+        "Casual Eats"
+      ],
+      "rating": 4.6,
+      "ratingCount": 490,
+      "photoRef": "places/ChIJg8dx4b2LmXYR5ssKEPALZEY/photos/AcnlKN0rILKffeJuCuLGBGIyjUtO-B-JpegdFGXdONq2Z3SLi7uiuMApwXoRm2K_iKnNr9rHLF5femJjFi8jEv5bmjSsXuG7CJrQNhyBRw7gPvORIFNGpJfiODO8kz80fhhJmEFetdxSIRZggSUOIw33hyZ-K1lDaIYKJHaMuVn-t35tC7acvF8UmYkRnqRQxOVwWQphVJlo0S9nGfdlz1nF6s9WAdYdcy1n8Bg3ddXiiaJMRJXHTwVzYwmJ7naeJbWlMZiDxk5OcpDrsa18jDgB0RZhL3oelZ041gf4CBnfw9dFiJy7DvpTeUyU-opFZPaQojJVLjB6zmWwnqDRYg9abdwjlLzycYK71OyZxSZ1ILwkg6yI2tDjs3_lDeDyYOEjsY9jE_6ukOkYnz3DurlGbqlhyP-mmYflMbUNqX2NOdw",
+      "photoAttribution": "Yusuke Miura",
+      "placeId": "ChIJg8dx4b2LmXYR5ssKEPALZEY",
+      "phone": "87 23 34 89",
+      "hours": [
+        "Monday: 11:00 AM – 1:30 PM, 5:45 – 8:30 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 1:30 PM, 5:45 – 8:30 PM",
+        "Friday: 11:00 AM – 1:30 PM, 5:45 – 8:30 PM",
+        "Saturday: 11:00 AM – 1:30 PM, 5:45 – 8:30 PM",
+        "Sunday: 11:00 AM – 1:30 PM, 5:45 – 8:30 PM"
+      ],
+      "address": "Moorea-Maiao, French Polynesia"
+    },
+    {
+      "name": "O Belvédère",
+      "coord": [
+        -17.5642659,
+        -149.52932149999998
+      ],
+      "desc": "Upscale French restaurant with panoramic views of Papeete and the lagoon, known for fine dining",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5656707684943880651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Scenic Views",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 300,
+      "website": "http://www.o-belvedere.com/",
+      "photoRef": "places/ChIJOQh1ZA03mnYRy2FNP6upgE4/photos/AcnlKN0GLqxQVsJd_J5dsP1gbsodZr4_iXOTbpVUABx31BpNQ-lbCejhq9qg11rZ2JeUOk6m_hud_Z7ip4IhJ_X9lFYzFv4Kd7-JUIQUC4wxtplUvV-Uk1v0rQ9ybUjyve0KP5x1nww01MALyb7D0GKBrvEAMWCcgHKbeN8GYqki78BhpR3_03JnjNP11rJnwGFTQ7xPPbppOW58-sv49cJSOv5HbuiRLmhNKS6DQxKy9f4h5JG3s2jd8qexskqC2R61NHit5n6754hcdFgEU38bh5K48GZKw-hWz6z37fSvSKQQAZLh7RTUhkQ8vwHLkhLCnD3ABw-PKdEGz2WNMLiWok1-QFzEx3s79LGDg2rXN1UaWyCaqDkhmrVjJ4-E1De2_6TZg6nJXCXWTzAAL7qg98KFPBbNfE8-M6nB6Ewcx5c",
+      "photoAttribution": "Lesio",
+      "placeId": "ChIJOQh1ZA03mnYRy2FNP6upgE4",
+      "phone": "89 40 34 03",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 4:00 – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ],
+      "address": "Pīra'e, French Polynesia"
+    },
+    {
+      "name": "Le Retro",
+      "coord": [
+        -17.5400286,
+        -149.5687399
+      ],
+      "desc": "Casual waterfront bistro with fresh poisson cru and tropical juices near the marina",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12034245365303806544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Romantic"
+      ],
+      "rating": 4,
+      "ratingCount": 447,
+      "photoRef": "places/ChIJb0NQhxw6mnYRUArTSmY6Aqc/photos/AcnlKN3EiyJtsx-S65vhi-rCNzG2iREBSDR2sDGtBTY_X2PtpPWUQEWMShQJHymH5ptERLA0D52JBLOIkRpcQhaQ6FCDep0tj9UP8TQ7E5tOrzuD1pCTQ5P4rT9skOsqDJXZyZ2PDZoUhO50M5LqfPfbl92eI7l19ROx6-hOaiydbV5ImIsMjFLWletT_fm4ncS8E9e7nINwiep9kujCGwSYAjOZXXz4DdnBCkdHmJc4W3nJdMKKG_ql_FNj7EFNr65y6gmYTLJLqv44rRP9bzewAXUeaS1ohjGnFAdCc8eP7lIpZM60xkuUZhxm2yiNqOkbdbp21q8DT18JM4kQHZoVG3_qPvSGvrW9yOzbgUPn-cnKQ2iRT8RfH8Xln2lk4yLNOMxQoKJj--2BVj1hzXLqmmil3g9iAKFKtnwIDqlHSFLFK4nJ",
+      "photoAttribution": "Adam Neubauer",
+      "placeId": "ChIJb0NQhxw6mnYRUArTSmY6Aqc",
+      "phone": "40 42 86 83",
+      "hours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 12:00 AM",
+        "Saturday: 7:00 AM – 12:00 AM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ],
+      "address": "BP 616, Papeete 98714, French Polynesia"
+    },
+    {
+      "name": "La Plage de Maui",
+      "coord": [
+        -17.7842931,
+        -149.30387399999998
+      ],
+      "desc": "Beachfront restaurant at InterContinental with fresh seafood and kid menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14408828102670659125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 444,
+      "website": "https://www.facebook.com/laplagedemauioff/?ref=page_internal",
+      "photoRef": "places/ChIJCZ0lE8Sxm3YRNa5ZcdFw9sc/photos/AcnlKN0cCIse5NRmSLBsEDnqo2As4UY2Sqt25ymZg9Ly8WfYjwj1AklyMthGj4Sj1a66wXYJLmPV5clOhNnyjl6B-zrBSrdU0isKadUBlZObe4XP6xzHJEev617rT2E2KwJyVuGjsIbkwIOpe1DI_uMCcYyyuo_jHTi-jVovyGGww-FvtO0L7TNDKX16SILPhQ48PX1EnBoCvxYX8u5obngKHk9sF-R_VTiGfKmRp8oMtZNE6QGSP3m7Pgy-frnj75Lv2YZUc6pzqNKNkwXhxu5tIt7mTNFP7Cn9VzfT_R6doFmK5oFLSItAMm2ZAIX47B5fk7Bck0K63WEq-lnQM7Eq-a-TlMLaYFyiwXxnMmHZQ5JJHCxPawqiLu-UrQN3oO66mWu9_xLJm0uQBfIZq3YUJkIjNZEJ4QmtwtZFC-qOdeMtk-WRNJaaW7y8VkgtBQ",
+      "photoAttribution": "Josh Costanza",
+      "placeId": "ChIJCZ0lE8Sxm3YRNa5ZcdFw9sc",
+      "phone": "87 74 71 74",
+      "hours": [
+        "Monday: 11:00 AM – 3:00 PM",
+        "Tuesday: 11:00 AM – 3:00 PM",
+        "Wednesday: 11:00 AM – 3:00 PM",
+        "Thursday: 11:00 AM – 3:00 PM",
+        "Friday: 11:00 AM – 3:00 PM",
+        "Saturday: 11:00 AM – 3:00 PM",
+        "Sunday: 11:00 AM – 3:00 PM"
+      ],
+      "address": "Taiʻarapu-Ouest, French Polynesia"
+    },
+    {
+      "name": "L'O A La Bouche",
+      "coord": [
+        -17.540993999999998,
+        -149.567769
+      ],
+      "desc": "French bakery and café near airport with sandwiches and pastries for departure day",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13848013525942808377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Breakfast Spot",
+        "Sweet Treats",
+        "Budget Friendly",
+        "Coffee"
+      ],
+      "rating": 4.7,
+      "ratingCount": 236,
+      "website": "http://www.loalabouchetahiti.com/",
+      "photoRef": "places/ChIJbXRGtwM6mnYROS-gku4GLsA/photos/AcnlKN1MbMoOBFTo1IIFjPj51igjI92EbrLLK_Bhuo6_3w3InrpSrgjAniYkJTlBZRWmm_hVHqDAcyliQ_PNAUUg--auHRYzvcm62_cp5M5z8f0OyXh-HJzvmuFFQiS57zyi5TLhDpW8K_6Gt-_4TuxldqHv5ZuBcff1Jt-6OmFRfgKQ6oX3Y1_k6_LVdGwZanQyono_67m686AFrX_LwjAAhwSLLlWiaEuOlk1etU3YmhZKw72HDdp6zBliZ2Yg_ujD309d8SLPced-Uq-7Px_datp42AzXqWaeBTM7A4WNQhhU7kxNXiNeUfeItelsjWLPWWLg7IiEhNc6KNyxgOlkHYvBVl9wT22Y8UBTqXUlOhM_CEocZ9bNJV1KRZ_xc3jQsg6L43czww4Dew28mGu38p1suV7mVLprmrbRhvRZnVaCb_qhoRkQqp1nX9Chkt13",
+      "photoAttribution": "Robert Twete",
+      "placeId": "ChIJbXRGtwM6mnYROS-gku4GLsA",
+      "phone": "40 45 29 76",
+      "hours": [
+        "Monday: 6:00 – 9:30 PM",
+        "Tuesday: 11:30 AM – 1:30 PM, 6:00 – 9:30 PM",
+        "Wednesday: 11:30 AM – 1:30 PM, 6:00 – 9:30 PM",
+        "Thursday: 11:30 AM – 1:30 PM, 6:00 – 9:30 PM",
+        "Friday: 11:30 AM – 1:30 PM, 6:00 – 9:30 PM",
+        "Saturday: 6:00 – 9:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "BP 343 Papeete, Papeete 98713, French Polynesia"
+    },
+    {
+      "name": "Roulottes in Place Vai'ete",
+      "coord": [
+        -17.537271,
+        -149.5686332
+      ],
+      "desc": "Famous food truck collective on the Papeete waterfront serving diverse local and international street food",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6555301744765482599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Market / Street Food",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Hidden Gem"
+      ],
+      "rating": 4.2,
+      "ratingCount": 24,
+      "photoRef": "places/ChIJ3-ietRw6mnYRZ7Y-lDQc-Vo/photos/AcnlKN1XhA8ighktO0CEG1_R29H1guUvCGQy0XC_BMRg6caBwuaXCdSMaZKGq_Dl6eSTvbMQplNnx-iHM3QtCCDAlC7CRTYvIL0E525v4AhFx0_pUGqdnVZnKgjl9KXe4AnYvqQVgMoVSF1xDNNY2DaS2V5E3NGruGSKEOQkSLaESgPsFQw42JblhuZ-e1zD9AsfIKHNG7lZa7C7ZoOWPhCB5EYXz23QqJd-9UlwhXuyKUOY2IBd5j2Nur4xpswh8CWapi2Vfdwr5bAfrRHXMNdYNx-jVEWAPdIj9a9ZbZRjGlOO2ekb3-PhNMPWz8dp3-fjRdBTMqFQUKPJstn0gytl6n5RZoIgboc5NuOoFjrKHHYwBMAkSEV6K7b9O-kjr5-rVbeTM_B-6SjN4miCILV6qTqq3_EijumzqUtYpdRn0v4",
+      "photoAttribution": "Didier DD",
+      "placeId": "ChIJ3-ietRw6mnYRZ7Y-lDQc-Vo",
+      "hours": [
+        "Monday: 7:00 – 10:00 PM",
+        "Tuesday: 7:00 – 10:00 PM",
+        "Wednesday: 7:00 – 10:00 PM",
+        "Thursday: 7:00 – 10:00 PM",
+        "Friday: 7:00 – 10:00 PM",
+        "Saturday: 7:00 – 10:00 PM",
+        "Sunday: 7:00 – 10:00 PM"
+      ],
+      "address": "FC7J+3GX, Papeete 98714, French Polynesia"
+    },
+    {
+      "name": "Tahiti La Plage",
+      "coord": [
+        -17.624710999999998,
+        -149.6129281
+      ],
+      "desc": "Family-friendly beachside grill with grilled mahi-mahi and tropical cocktails",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10237542683604636346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 390,
+      "website": "https://tahitilaplage.com/",
+      "photoRef": "places/ChIJgwMa1J0xmnYRulInddQOE44/photos/AcnlKN2EQHeKBKRr71p08ka4nVDeQ4-MuRWjFAf6SEqwIGfqd9vScF2O72oRnJPvWbtkKRcf_T7nGAS3ti_TmUdvq5K54_XyjaMHY6XgLMfOvzopfZq74QjVnnRIgV2vRyFLs7PDQFo3P4LHsY-KBvRVZvEoj8k3txoGFLbZ5hFHeZI4ABy6u1pb0pnwGXMpE5Lwi5eiBTbttJYi34l_yoEOOoopPCF9RQuudCcTZPIoQ3fNG7hp__xIb04FNz2_U4wwftyD46W7zJ1rOMJlutdO_SHDU7DCmvHSJVeaaadBKQAx_ArAnAlSkYakqBBqcXjTmjJoU_NSR44p7xJzX6etYl_YknFy9HYCtUYSwnrs3C-c5Ubp6BahIfWosmhKBwUkEiVK8ZhZ9kAyTx1cYgneVvhMFEg2Z8Y-_hkCc3qFmKGPkQ",
+      "photoAttribution": "Christine Ingate",
+      "placeId": "ChIJgwMa1J0xmnYRulInddQOE44",
+      "phone": "40 58 21 08",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:30 AM – 9:30 PM",
+        "Wednesday: 11:30 AM – 9:30 PM",
+        "Thursday: 11:30 AM – 9:30 PM",
+        "Friday: 11:30 AM – 9:30 PM",
+        "Saturday: 11:30 AM – 9:30 PM",
+        "Sunday: 11:30 AM – 2:00 PM"
+      ],
+      "address": "Restaurant le Coco's, 200 PK 13, Punaauia 98703, French Polynesia"
+    },
+    {
+      "name": "Snack Mahana RESA",
+      "coord": [
+        -17.4916133,
+        -149.8829657
+      ],
+      "desc": "Beachfront snack bar with fresh poisson cru and grilled fish, perfect for families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3165577862630591455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Family Friendly",
+        "Local Delicacies"
+      ],
+      "rating": 4.7,
+      "ratingCount": 718,
+      "photoRef": "places/ChIJ2SjlyUuKmXYR38vvSktk7is/photos/AcnlKN1mDNYCAAUgHRD6uAq2hbNitDIN3CSa-Rwi3JB3QF6ZUNiPcDEUZ8PTZAhiaapwboZyxJSVbdo1zzlB9Gz9YhErtvRWZhgsn5KvwrhWH9oHwfMO-yfhcm2GMCXudp6iMbibbpb5MGYsNsYTVC5jAbkHBf_pbSHH-x6FXioLx_Rr-CYruA5WskDgBBBH8tz7xoWixIkOIVIwvU1DXwwIj9COmkwCGCpjH8pl5cCtxnXiXl4oE8pfMAvf-Ui6ItgMP1J4gEuAMhUjIc7Qgr1NurM8s0aYyoTCztg6NykOXABIKo12GwcjhqWYi-yZ7CYOnE-SvsZlOV_mUvAQWqUM_Cuz7Jmqp4ps5DRalF44wU9vQE23IEh48-YNe7YGoukjOAH_hOM6mdrcBohosNfgPaaRz_a3Fp30b7uJcVPL7TsaQYXX",
+      "photoAttribution": "Pascal SCHEIDECKER",
+      "placeId": "ChIJ2SjlyUuKmXYR38vvSktk7is",
+      "phone": "40 56 41 70",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 2:00 PM",
+        "Wednesday: 11:00 AM – 2:00 PM",
+        "Thursday: 11:00 AM – 2:00 PM",
+        "Friday: 11:00 AM – 2:00 PM",
+        "Saturday: 11:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Moorea, Polinesia Francese, Moorea-Maiao, French Polynesia"
+    },
+    {
+      "name": "Holy Délices",
+      "coord": [
+        -17.4940514,
+        -149.89442359999998
+      ],
+      "desc": "Casual grill with kid-friendly options and excellent fresh fish",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6926872092247163139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Local Delicacies",
+        "Good for Lunch"
+      ],
+      "rating": 4.2,
+      "ratingCount": 642,
+      "website": "http://www.holysteakhouse.com/",
+      "photoRef": "places/ChIJvXPmiraLmXYRA4H1vncxIWA/photos/AcnlKN2i1WItTJq_nh2eXNnYKaBe1HaPi4MVwB8M8QUMfloy7PnqQsG3ls2H_P91gFXCi0lEXIo767m40VIgnYKoXu8fS5L3a6OsE3GLR4Z8mAPEKfPaDkFs4Sa_yJtkhOQina-OdDz8d4rfKwzhXbpHmSygN6IjdSU2lGCOcECHvKtz1tG3sWkAlQpuSBwTnti97dWESBBCd2Rqwm3-lhGTRMDp3HhXlRO31bnnO8uW5Iq4UgEWwb_4S5kPj8A5TZA4drTiuU1_QVDyJ0OVwt7h5YG68QuLtUwT1RtMokokUcDNBQ",
+      "photoAttribution": "HOLY STEAK HOUSE",
+      "placeId": "ChIJvXPmiraLmXYRA4H1vncxIWA",
+      "phone": "87 75 86 33",
+      "hours": [
+        "Monday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+        "Tuesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+        "Wednesday: 5:30 – 10:00 PM",
+        "Thursday: 5:30 – 10:00 PM",
+        "Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+        "Saturday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+        "Sunday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM"
+      ],
+      "address": "Moorea-Maiao, French Polynesia"
+    },
+    {
+      "name": "Rudy's",
+      "coord": [
+        -17.4831996,
+        -149.8109943
+      ],
+      "desc": "Family-run eatery with traditional Polynesian dishes and warm hospitality",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=653312053665954290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Hidden Gem"
+      ],
+      "rating": 4.6,
+      "ratingCount": 669,
+      "photoRef": "places/ChIJK7eiDcIgmnYR8nk99tkHEQk/photos/AcnlKN09X5AwjeD-Yr60wRTkMhinPOSFMj5jiIqJ1c2F-MCPMdCk4X_LnOs35eXy1aWvJJ-VvmpN_mbUvc_NMwYysREsWzYpFieo8GOl4MbmlrLE4R9P7jTVKPZZ5J6J9qVFaUFkYw19bB75Rtbe8qt3C8wl8h1L0nnsZQAQCBk6UBwLOqSKtcEn3A3d_jO63n0V1djlwboEJEzkty8RNfm8Jrb93yrDoJ_WfqCxS-Jx0X9ZtEHN9de4qK6mxmwA46MC6CZBx9LgfJL4W12xGFwsU8qZH0JkGjUXMFTsmHx6WoxlLJ_mua3T2wA5FobytUac61n7OQ67LWeFU2p1OVArRseL9o9NzYYP1cIad-s30tqR8EQngUNgkwqkDm16ZHMYs4ch5PfGhYuz7HVR1k35XzLtP2ENRS7fpb8Tox1RWH3z4Q",
+      "photoAttribution": "Jerome GUYOT",
+      "placeId": "ChIJK7eiDcIgmnYR8nk99tkHEQk",
+      "phone": "40 56 58 00",
+      "hours": [
+        "Monday: 5:30 – 9:00 PM",
+        "Tuesday: 5:30 – 9:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 5:30 – 9:00 PM",
+        "Friday: 5:30 – 9:00 PM",
+        "Saturday: 5:30 – 9:00 PM",
+        "Sunday: 5:30 – 9:00 PM"
+      ],
+      "address": "PK 6,9 Coastal Road, Moorea-Maiao 98728, French Polynesia"
+    },
+    {
+      "name": "Snack Rotui",
+      "coord": [
+        -17.5068202,
+        -149.8229735
+      ],
+      "desc": "Casual beachside snack restaurant serving local dishes and fresh fish on Moorea",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3499474116833791151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 52,
+      "photoRef": "places/ChIJCxJIV0snmnYRr0yNEiuhkDA/photos/AcnlKN23-SwdCSKVmq0t3MiTgaXpIkCVYCBrbGKaX0k2aNALNpVcowWaXUgdWAQ5EyzsYHafAL58UoPaAg7uWvdge7-HA3mKdFiIXSyFsvVWuWdZ29TCsVyqaSn5jTK2ne1k14pzD-8HnXU81ySAW_0oiLd5aMLRxMuj0_8rU_LeTP0SRu9xqPCx6WGpqhjwhddNe7Mo7ZSLeIeWmE5Yjj0GguGjkugJHvgCrREy8kaDLp1nEHq5B7K4Pzb-I1glryroFgpvv7t_x4TbA0dT71WInb5NB3bb26K4R1tuNUJVnA3jjlxERlgmpnvsgtC9AIVF72rV8neQcQUCX6GFD6zTdixxT8Pv1ePMnpICVp3fcKb0EpOOV0wAIBJnGOPZ9hiM-TJhzrsLjUEGIWqHYllWf4nWRNI1x5mIrn0tvMkpA001Fw",
+      "photoAttribution": "G B",
+      "placeId": "ChIJCxJIV0snmnYRr0yNEiuhkDA",
+      "phone": "40 56 18 16",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 7:00 AM – 4:00 PM",
+        "Wednesday: 7:00 AM – 4:00 PM",
+        "Thursday: 7:00 AM – 4:00 PM",
+        "Friday: 7:00 AM – 4:00 PM",
+        "Saturday: 7:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Moorea-Maiao, French Polynesia"
+    },
+    {
+      "name": "Restaurant le Sunset",
+      "coord": [
+        -17.4980275,
+        -149.914803
+      ],
+      "desc": "Beachfront restaurant in Moorea serving pizza, grilled fish and international cuisine with sunset views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16260839200466976019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 3.5,
+      "ratingCount": 197,
+      "website": "https://www.hotel-hibiscus.pf/",
+      "photoRef": "places/ChIJb9cAamSLmXYRE72UZRkbquE/photos/AcnlKN32aLc5ThR7Bhx1umhBK6ytmWWF_Y382jPD1RCAeV0df54OLUrydFSdfD5oSaxBbPCOBu3YyGb5gSIyeH_G6V4v3xw_iH17H2ilK39iVeqT_X1gA02JBodqOb0NLiMJM5darpD1kDQnM-qo629iQt9FGE0vO-bY4APRl9otHF7pt1udIPXeBMqDwIxr_k3r834pivkwGaGWwllFsZrNvzMkKJMPbXgRiktC0wTtM80XvHyz9hhzUhEA1TESkEQ843PwYC5frqK6UAE0jv3jk4sxxo2odPZ6jocnwD-h_0A-zg",
+      "photoAttribution": "Restaurant Sunset Moorea",
+      "placeId": "ChIJb9cAamSLmXYRE72UZRkbquE",
+      "phone": "40 56 12 20",
+      "hours": [
+        "Monday: 7:00 AM – 2:00 PM, 5:30 – 9:00 PM",
+        "Tuesday: 7:00 AM – 2:00 PM, 5:30 – 9:00 PM",
+        "Wednesday: 7:00 AM – 2:00 PM, 5:30 – 9:00 PM",
+        "Thursday: 7:00 AM – 2:00 PM, 5:30 – 9:00 PM",
+        "Friday: 7:00 AM – 2:00 PM, 5:30 – 9:00 PM",
+        "Saturday: 7:00 AM – 2:00 PM, 5:30 – 9:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM, 5:30 – 9:00 PM"
+      ],
+      "address": "Mo'orea, Tiahura 98729, French Polynesia"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Museum of Tahiti and The Islands",
+      "coord": [
+        -17.632319199999998,
+        -149.6137908
+      ],
+      "desc": "Polynesian culture museum, traditional artifacts, art exhibitions, educational displays",
+      "longDesc": "This comprehensive museum showcases Polynesian heritage through artifacts, art, and interactive exhibits, providing families insight into the fascinating history and traditions of the islands.",
+      "gmapsUrl": "https://maps.google.com/?cid=4460965145879691455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Family Friendly",
+        "Rainy Day",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 581,
+      "website": "http://www.museetahiti.pf/",
+      "photoRef": "places/ChIJ6evMB4MxmnYRv8COOyqI6D0/photos/AcnlKN3UCGZ1E-vHMM6C1P9RDpljdi4dYYC8zY4ctoFbxf2c_9v31Y2BH23LFwLQwzLsXR3w4AEm_Ai26NJmV-lYaaxc7QMIeugFBFrb7Z6hHJtw7pLDcdAHbpoK066mRyj93PleJftUb3NaySVZldkVJFriMb7LfRjXWrATPx9Me59USzZ6RyH-LAPcPOHNPL-6PJnv-ECXNkqWajFJHwhVC0oByIUmw3origU0DuDH2XMLbQPUPhoFGXzYnsXE3Lu3hiE4S_Rd7Do38MxNdptVsIVFQXNwW4cwR1lqRN5pJnDKAQ",
+      "photoAttribution": "Musée de Tahiti et des Îles - Te Fare Manaha",
+      "placeId": "ChIJ6evMB4MxmnYRv8COOyqI6D0",
+      "phone": "40 54 84 35",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "380354 Punavai, Punaauia 98718, French Polynesia"
+    },
+    {
+      "name": "Otemanu",
+      "coord": [
+        -16.5,
+        -151.7333333
+      ],
+      "desc": "Scenic mountain trek, panoramic island views, challenging hike, nature adventure",
+      "longDesc": "An exhilarating guided trek up Bora Bora's iconic peaks revealing breathtaking panoramic views of lagoons and neighboring islands, perfect for adventurous families seeking natural splendor.",
+      "gmapsUrl": "https://maps.google.com/?cid=11132692162874566765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 58,
+      "photoRef": "places/ChIJPyURJRe9vXYRbejp4YlEf5o/photos/AcnlKN2KiCAen9pYIMPpsufzN98wNF0331pejbTJ6eGOcAv8MjdLhiss4fbKVCNryJZzeaNbb-6NkXV00n-0-HGcAhX4mPKHqwBRuYnn_djQRSlusY0mtG5SxTzwEjS6Nb0Vw5KQgQX6WP2J-1_navuZPKvZyXWqUFrzMOklLISLzUv3iTL2KMdGB2-h16xEKIzpC4S-ze6plIaWvKrkGcuV91VCeX8zzHEtDGijJj90qKDPzlPJkDMn1lxCxR0-lUAZOd5YlNuRVz9wOHjAX5LWZuAdQz6HPsOruCmd31X04-tXl9Pqinnn54Gt14u-1XAIKo5ull28bn5mAYlYt_qxmNvNkmxWG3DpUSNuPedxR7YyPdQYfmye24GeENJ_nx8VK-KmLk7APl-hArNd03Z-HahGaweIq003-59TY6mH8AEWQ5I",
+      "photoAttribution": "Randolfo Santos ·",
+      "placeId": "ChIJPyURJRe9vXYRbejp4YlEf5o",
+      "address": "Otemanu, Bora-Bora, French Polynesia"
+    },
+    {
+      "name": "Corallina Tours excursion baleine snorkeling Moorea Polynesie",
+      "coord": [
+        -17.4938427,
+        -149.8711181
+      ],
+      "desc": "Guided snorkeling, colorful coral reefs, tropical fish, shallow water access",
+      "longDesc": "Professional-guided snorkeling adventures showcase vibrant coral gardens and tropical fish in safe, family-friendly shallow waters perfect for children's first reef exploration.",
+      "gmapsUrl": "https://maps.google.com/?cid=64540300775137015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 125,
+      "website": "http://corallinatours.com/",
+      "photoRef": "places/ChIJm5ZfqdghmnYR9x5mxQ9L5QA/photos/AcnlKN0679lBy6fYMu__MaeKXl9XqhXyPfVCByywgoNyBRKb_QrSxrCw7BBhESNsUJEiHmwQXCWimMsx6uoKnGD_7ETun0M2WedPiUHpw8rYlKeffjPbaX7QkKR6OFaPiZeaWFTuNc6m0MdJEejCy5HoHU8DeeBo5R7JLNAeJ3JaxIfwswEkwjNuqlJTV2tFFZVeKdhcVoH40AgzvZNC4mZS3chHPrYiZH4h3LNsHJDBzt2Qp3FpJJr5ykNzeq2a8lc33q05PI6ppW973NgXtJ2d5YQtlNE3acn17Dn5iztHgscUNw",
+      "photoAttribution": "Corallina Tours excursion baleine snorkeling Moorea Polynesie",
+      "placeId": "ChIJm5ZfqdghmnYR9x5mxQ9L5QA",
+      "phone": "87 21 41 55",
+      "hours": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 5:00 PM",
+        "Saturday: 7:30 AM – 5:00 PM",
+        "Sunday: 7:30 AM – 5:00 PM"
+      ],
+      "address": "Papetō'ai, Moorea-Maiao, French Polynesia"
+    },
+    {
+      "name": "Public Beach",
+      "coord": [
+        -17.498748499999998,
+        -149.7618401
+      ],
+      "desc": "Public beach on Moorea's northeast coast with white sand and calm lagoon waters, perfect for swimming and families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5012414047467405654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Toddler Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 271,
+      "photoRef": "places/ChIJFdoWTLImmnYRVgF57gSsj0U/photos/AcnlKN0kQ6jmkOAne_n5tuuDV5VSqQxwF6lZLUS-Ud2sS476bWIGRarUExPsbbm1Ljq2MIAKl5l125KnNzfsowl3XrCdbwJMB4fPvW6TRWnP9jyipqLy8srJQMGOTuPDe3W7cKiLaqgxB71Jvon-H34JrexNBAwfs_HZvc4HgqNwbj6g3RN6Hj6KU4FJ828ClcQoiah6R6Yr1xePVameXlzoIQBkIxtnc9wFZFt-sn0a93XIgpc4yGrN89cukbpJNj-XnfoHM13r7hmUStk4ZVn-GQiFOohIrlRvjA5dIhdD1HEHwWkx4Y9ywX1yfHRgClnWtU3Hl2714kH4ZJj8GK1bstjdTRHDnSS8Zdn_KfIRSdH33NhSWbkSVgm8uYqzkMTD5oiy9T9oRpnyPlfP42kC9m3xwpc6zIhfzh5V6VbN7tvQmtQ",
+      "photoAttribution": "Kris Joosten",
+      "placeId": "ChIJFdoWTLImmnYRVgF57gSsj0U",
+      "address": "Public Beach, French Polynesia"
+    },
+    {
+      "name": "Tropical Garden",
+      "coord": [
+        -17.5016832,
+        -149.84868570000003
+      ],
+      "desc": "Botanical garden with vanilla orchids, tropical fruits, and easy walking paths for kids",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16054005441688487673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Photography Worthy",
+        "Toddler Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 454,
+      "photoRef": "places/ChIJG7ghsQWKmXYR-cYHNuRIy94/photos/AcnlKN3drvbfyaNdBbduLLfzfnqH2y1pPJPSA9J4uytejhXALoHdimZM63eWkWLf_r9AEAQzA2GWdr-tyev_4_I8mCEGTqcuKasSMyp9zGpZQBzF1vO0fKUbIz9u-DssU-98eCfKCV7wOPV82fjsLqwqkQ1NChxhWl61rxxqkmOshrTuQ2LFMclEQjCC9FS8P_z7xcCQInvAeKe4BkUrjfJ8v0G6dt1q_LBgj36uQcNS-p17IXrBzNKaeN_i1jx8AT3NZcEj_DbMhyHgGJyN5t2-UALjquT6dsTl4dv92vfccHbVQNslgileirOOCwvYQqUj_RJ0mFdvfzIQ0QIPo1mO6whVqH6DNF-01u3h9NqVlXkmts6guuyeS5RisEddlUn60rhoVrY7JEgz_zqD4K-uGR6E4Sl5RPrqG3WQnJ-NAGmHpA",
+      "photoAttribution": "Sylvanas (Sylvanas)",
+      "placeId": "ChIJG7ghsQWKmXYR-cYHNuRIy94",
+      "phone": "87 70 53 63",
+      "hours": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 11:00 AM – 2:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 2:00 PM"
+      ],
+      "address": "F5X2+8GG, Moorea, French Polynesia"
+    },
+    {
+      "name": "Belvedere Lookout",
+      "coord": [
+        -17.540325,
+        -149.82686669999998
+      ],
+      "desc": "Panoramic viewpoint overlooking Cook's and Opunohu Bays with easy photo stops",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4665457688318766857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.8,
+      "ratingCount": 1295,
+      "photoRef": "places/ChIJX_OZTXAnmnYRCe_aggwJv0A/photos/AcnlKN2RovdhmUXFa8wgJmQ1L8Sf6ziirYOUiDzdhvJg053ySEUW_0oiUanbrklrFnjU1y3AiHErpjSQfDZ70eE1LaWN6bifZUlXPOrniM2wnoL088VZ7mqF0Ti4GTHuBxfjEzhtYxhPoRY240srV6pxd1mJxfdwD41lyJimjU9yXJ8ATEx6QZEj2o6MCRBZjgI3amobicsO6j4wvQ6Xu4cgmmeRlqHMcMbJQ7pRjPpDXz7fn4tqbKoHQI9WPREWMGUN3xPpePK19vqcPB_gsG4nS3kAzeaGAtueBmGyN4x3OERURRLg4YW7gaDWPiiUBFDTPUTYE560Ug9PWtYn7z7E6wBRBgKQj3JwOXDNk-Fwva-iD9jNt5Km0o4rY0GrwZ-FI-fOTJZaMxp4YDaI3Ma-itlkagFY6mgdvV-sX-xq9DJAJrl0",
+      "photoAttribution": "Alessandro Cappucci",
+      "placeId": "ChIJX_OZTXAnmnYRCe_aggwJv0A",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "F55F+V7C, Moorea-Maiao, French Polynesia"
+    },
+    {
+      "name": "Plage de Tiahura",
+      "coord": [
+        -17.4976078,
+        -149.91480579999998
+      ],
+      "desc": "Public beach on Moorea's northwest coast with shallow waters ideal for children and families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11506142520242673920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.5,
+      "ratingCount": 130,
+      "photoRef": "places/ChIJL7sn37iLmXYRABkV9qgHrp8/photos/AcnlKN3edFI39a9rmb4okKr4_pAhx6ejLR9YYvmIYYTZUZrLvq6vofqvKyesIeEj8JI-4A015H_GV1GsM0ns7dOD24eEvnYuBglfs4UtXbtI6OzR0-bdLVbKo1I7O07nW4ucQWWiWabHsjkbP4LGXCBK_dNLNP9-kcVj6klebDXa918_4qyy6yQ7Jk9v7X-G3Lfjr9j1JVTCGX8b2zI7qer9U0T8HKTnmZulXWIUvkhYsL_bu0-JwH6S79BLZC3tD4hauwKMTpZz4nho14xorcOZ9uyn-18g-0nKZ3dTSLaprrUzsE2S-AhZF7bZMy_-f31k8ijRCLLe069ff7OFzHWpdEirDFbHpx4Y6hXgxa0aDgH4HPS4Z3rs7_Ay1mvKn5AINHIcEJW8r5vpX5eUioNplT5hl13odjxefGBVRezW5t6J4IxcXNUKGz_zhEx49PVU",
+      "photoAttribution": "Vinay Anantharaman",
+      "placeId": "ChIJL7sn37iLmXYRABkV9qgHrp8",
+      "hours": [
+        "Monday: 7:30 AM – 5:30 PM",
+        "Tuesday: 7:30 AM – 5:30 PM",
+        "Wednesday: 7:30 AM – 5:30 PM",
+        "Thursday: 7:30 AM – 5:30 PM",
+        "Friday: 7:30 AM – 5:30 PM",
+        "Saturday: 7:30 AM – 5:30 PM",
+        "Sunday: 7:30 AM – 5:30 PM"
+      ],
+      "address": "Mo'orea, G32P+X34, Moorea-Maiao, French Polynesia"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Matira Beach",
+      "coord": [
+        -16.5412092,
+        -151.7378875
+      ],
+      "desc": "Pristine white-sand beach, calm waters, family facilities, shallow lagoon area",
+      "longDesc": "Matira Point's perfect crescent beach features pristine white sand, calm crystal-clear lagoon waters, and excellent family facilities, making it ideal for young children's beach play.",
+      "gmapsUrl": "https://maps.google.com/?cid=15985832943322657387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Beach"
+      ],
+      "rating": 4.8,
+      "ratingCount": 623,
+      "photoRef": "places/ChIJDzBwDtuivXYRa_J7iV0W2d0/photos/AcnlKN3UzH-qKFDo7uvhwqaMU06etXeIjxSwKKLa6OD6Fnp-BO6LW3ySYEj3Op2feya3JvoY7E_uL4KR-WqHFb7dvYatSnO3vS6VuPomSjb3fPgbICHOAfKUKBu1GPYnCAOv6uS63ilY4ofrX5palUFdUsPzTI4qQC4yYiThyet83fDWdC9KpW0V2Cvu2NIJ4vS-s93T3id4LwQHt-9eJBmSm2kbJa_E09bY8wyJ6c6U1wLKXiavBOjm3uBp16spS8l5bfiemHMiOkL6FfInns2H6J6s2twgG6Wb9Ed3Ab85K3o98yeA2oh2hgjNiH7kPgu7jm3KnWJa6AX2KXC_o9GIhk-hJuX8lfyujY3lH8G5L7ALWto7gSZGRQIT7I7DKOyGM5khIk_dtkKOYpmyUSh4Tv7xs2FE-xDc0frC75yG_O0NRg",
+      "photoAttribution": "aj",
+      "placeId": "ChIJDzBwDtuivXYRa_J7iV0W2d0",
+      "address": "F756+GR9, Bora-Bora, French Polynesia"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Papeete Market",
+      "coord": [
+        -17.5387046,
+        -149.5676542
+      ],
+      "desc": "Vibrant open-air market, fresh produce, local crafts, tropical fruits, authentic experience",
+      "longDesc": "Bustling central market overflowing with colorful tropical fruits, fresh seafood, and handmade crafts, offering families an authentic sensory experience of Polynesian island life.",
+      "gmapsUrl": "https://maps.google.com/?cid=2028669276840773559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2001,
+      "photoRef": "places/ChIJzS9NHAM6mnYRt8fXfPVHJxw/photos/AcnlKN1LS1H-NGpKsz-9QZPwkHOXgI4oi1_H005fzOvb-gg2Py1yrLzv8cHzo9KyNjy--p3gXp5E-pVRCuPK7A3n0HazojcRBBtlDvLvCE8XQFDjdoIHg4ll2ntPgexQCWCnd10V0Yix1pdlHYK8XvcMFmX7G7wG5JlcMSaIkAuaC6g6qLr5-92LzxbBDsCSzSfDjb22G5SMnH-ViDbnUdQ7e-ULjGmLg-jkG2oHyQiyWnc2FAq45pEBDBQqMm2OPAEfpUYoVus-TkBmhFHrePywrjlY-FE1ipHRQPgU_7aH6sjqKusw0K_QqgyiAUfudA1bb3b19VLG1YAirjKuQNn02Kow9uxwjZZ55Lhzl5qdK87lHwGwpYpsdzKumebQhyF7sWb0-daQgD0NfK24BGj94PE_S0BhVKAMB-4ytm6kP3uBDfIDS-CIp4b6WZhws1Ro",
+      "photoAttribution": "Michael M",
+      "placeId": "ChIJzS9NHAM6mnYRt8fXfPVHJxw",
+      "hours": [
+        "Monday: 5:30 AM – 4:00 PM",
+        "Tuesday: 5:30 AM – 4:00 PM",
+        "Wednesday: 5:30 AM – 4:00 PM",
+        "Thursday: 5:30 AM – 4:00 PM",
+        "Friday: 5:30 AM – 4:00 PM",
+        "Saturday: 5:30 AM – 1:00 PM",
+        "Sunday: 4:30 – 10:00 AM"
+      ],
+      "address": "BP4588, Papeete 98713, French Polynesia"
+    }
+  ],
   "cityCenters": {
     "Tahiti": [
       -17.0228,
@@ -91,5 +971,378 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "French Polynesia Family Paradise (8 Days)",
+      "description": "Overwater bungalows, coral gardens, and vanilla-scented breezes — this is the island escape where toddlers can safely wade turquoise lagoons while parents sip cocktails at sunset.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Tahiti",
+        "Moorea"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Tahiti",
+          "dayType": "urban",
+          "base": "Tahiti",
+          "items": [
+            {
+              "name": "InterContinental Tahiti Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                -17.570925,
+                -149.61873599999998
+              ]
+            },
+            {
+              "name": "Moko Café Tahiti",
+              "type": "lunch",
+              "coord": [
+                -17.5368,
+                -149.5585
+              ]
+            },
+            {
+              "name": "Check-in and pool time for the kids",
+              "type": "freeTime"
+            },
+            {
+              "name": "Le Belvédère Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale French restaurant with panoramic views of Papeete and the lagoon, known for fine dining",
+              "suggestedCity": "Papeete"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Exploring Tahiti",
+          "dayType": "urban",
+          "base": "Tahiti",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Oasis Carrefour Arue",
+              "type": "coffee",
+              "coord": [
+                -17.5280639,
+                -149.5376761
+              ]
+            },
+            {
+              "name": "Papeete Market",
+              "type": "sightseeing",
+              "coord": [
+                -17.5387046,
+                -149.5676542
+              ]
+            },
+            {
+              "name": "Le Retro",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual waterfront bistro with fresh poisson cru and tropical juices near the marina",
+              "suggestedCity": "Papeete"
+            },
+            {
+              "name": "Museum of Tahiti and The Islands",
+              "type": "sightseeing",
+              "coord": [
+                -17.632319199999998,
+                -149.6137908
+              ]
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Le Coco's",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly beachside grill with grilled mahi-mahi and tropical cocktails",
+              "suggestedCity": "Tahiti"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Ferry to Moorea",
+          "dayType": "suburban",
+          "base": "Moorea",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Ferry from Tahiti to Moorea (45-minute crossing)",
+              "type": "info"
+            },
+            {
+              "name": "Sofitel Kia Ora Moorea Beach Resort",
+              "type": "hotel",
+              "coord": [
+                -17.5007987,
+                -149.764881
+              ]
+            },
+            {
+              "name": "Restaurant Tiahura Chez Irène",
+              "type": "lunch",
+              "coord": [
+                -17.493557199999998,
+                -149.9091877
+              ]
+            },
+            {
+              "name": "Settle into overwater bungalow and lagoon play",
+              "type": "freeTime"
+            },
+            {
+              "name": "K Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Resort's signature restaurant with French-Polynesian cuisine and sunset views",
+              "suggestedCity": "Moorea"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Snorkeling & Beach Day in Moorea",
+          "dayType": "suburban",
+          "base": "Moorea",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Plage de Temae",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Public beach on Moorea's northeast coast with white sand and calm lagoon waters, perfect for swimming and families",
+              "suggestedCity": "Moorea"
+            },
+            {
+              "name": "Corallina Tours excursion baleine snorkeling Moorea Polynesie",
+              "type": "sightseeing",
+              "coord": [
+                -17.4938427,
+                -149.8711181
+              ]
+            },
+            {
+              "name": "Snack Mahana",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront snack bar with fresh poisson cru and grilled fish, perfect for families",
+              "suggestedCity": "Moorea"
+            },
+            {
+              "name": "Afternoon nap for toddlers",
+              "type": "nap"
+            },
+            {
+              "name": "Sunset beach walk",
+              "type": "freeTime"
+            },
+            {
+              "name": "Holy Steak House",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual grill with kid-friendly options and excellent fresh fish",
+              "suggestedCity": "Moorea"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Island Exploration in Moorea",
+          "dayType": "suburban",
+          "base": "Moorea",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Moorea Tropical Garden",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Botanical garden with vanilla orchids, tropical fruits, and easy walking paths for kids",
+              "suggestedCity": "Moorea"
+            },
+            {
+              "name": "Le Mayflower",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lagoon-view restaurant with fresh seafood and shaded tables",
+              "suggestedCity": "Moorea"
+            },
+            {
+              "name": "Belvedere Lookout scenic drive",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Panoramic viewpoint overlooking Cook's and Opunohu Bays with easy photo stops",
+              "suggestedCity": "Moorea"
+            },
+            {
+              "name": "Pool time and rest",
+              "type": "freeTime"
+            },
+            {
+              "name": "Rudy's",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-run eatery with traditional Polynesian dishes and warm hospitality",
+              "suggestedCity": "Moorea"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Relaxation Day in Moorea",
+          "dayType": "suburban",
+          "base": "Moorea",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at resort's family pool",
+              "type": "freeTime"
+            },
+            {
+              "name": "Snack Rotui",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual beachside snack restaurant serving local dishes and fresh fish on Moorea",
+              "suggestedCity": "Moorea"
+            },
+            {
+              "name": "Toddler nap time",
+              "type": "nap"
+            },
+            {
+              "name": "Optional kayaking in calm lagoon",
+              "type": "optional"
+            },
+            {
+              "name": "Plage Publique de Tiahura",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Public beach on Moorea's northwest coast with shallow waters ideal for children and families",
+              "suggestedCity": "Moorea"
+            },
+            {
+              "name": "Le Sunset Restaurant Pizzeria",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront restaurant in Moorea serving pizza, grilled fish and international cuisine with sunset views",
+              "suggestedCity": "Moorea"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Return to Tahiti",
+          "dayType": "urban",
+          "base": "Tahiti",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning ferry back to Tahiti",
+              "type": "info"
+            },
+            {
+              "name": "InterContinental Tahiti Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                -17.570925,
+                -149.61873599999998
+              ]
+            },
+            {
+              "name": "La Plage de Maui",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront restaurant at InterContinental with fresh seafood and kid menu",
+              "suggestedCity": "Tahiti"
+            },
+            {
+              "name": "Afternoon pool and beach time",
+              "type": "beach"
+            },
+            {
+              "name": "Final sunset at the lagoon",
+              "type": "freeTime"
+            },
+            {
+              "name": "Bloody Mary's Bora Bora",
+              "type": "dinner",
+              "coord": [
+                -16.5298286,
+                -151.74430859999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Tahiti",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final lagoon swim and packing",
+              "type": "freeTime"
+            },
+            {
+              "name": "L'O à la Bouche",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "French bakery and café near airport with sandwiches and pastries for departure day",
+              "suggestedCity": "Papeete"
+            },
+            {
+              "name": "Transfer to Faa'a International Airport",
+              "type": "info"
+            },
+            {
+              "name": "Les Roulottes",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Famous food truck collective on the Papeete waterfront serving diverse local and international street food",
+              "suggestedCity": "Papeete"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

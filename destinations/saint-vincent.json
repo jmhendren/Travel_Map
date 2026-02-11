@@ -1,0 +1,1301 @@
+{
+  "destination": "Saint Vincent",
+  "hotels": [
+    {
+      "name": "Moku Canouan",
+      "desc": "Luxury island resort, Grenadines gem, exclusive Caribbean experience",
+      "longDesc": "A premier resort in the Grenadines offering luxury Caribbean hospitality with pristine beaches and island exclusivity.",
+      "coord": [
+        12.713761,
+        -61.321232
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 204,
+      "website": "https://www.mandarinoriental.com/en/canouan/caribbean?src=loc.yext.mocan.ggl",
+      "photoRef": "places/ChIJ0xX0fX99R4wRX-58Sy4UMnQ/photos/AcnlKN2ZGhUcvKpSoJonROT_P56EyRh6a_6l7SfhpOU4klhV0Av_w56-pd7fBWg8j2QMN2UEOi3yIe2EQuANUc2d2-0Xhjtiyw5eX25LGT3ISFuWjrggGquKZITsH3y-Rc_jjikkYmpeNRJaV2IA2kvxhIvrPjqWlp7jllyMaFP_g4EM9jR88-90b-qYL9ECzoVBBqPFXvm-QMiJY2-C_ZraJ6fGvyK66r1oAQUWj1mwVoxfd-mWj4Y19nixnjX7ZCCpDm66S7vNubehrW-rcJQTjDvGBJbDVzifePmTQblHC3L7Zg",
+      "photoAttribution": "Mandarin Oriental, Canouan",
+      "gmapsUrl": "https://maps.google.com/?cid=8372776846302703199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ0xX0fX99R4wRX-58Sy4UMnQ",
+      "address": "VC, Carenage Bay, Canouan Island VC0450, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Beachcombers Hotel",
+      "coord": [
+        13.135582200000002,
+        -61.2020079
+      ],
+      "desc": "Waterfront hotel in heart of capital, convenient location, ocean views, friendly staff",
+      "longDesc": "A welcoming beachfront hotel perfect for families exploring Kingstown. Close to shops, restaurants, and local attractions with easy access to island adventures.",
+      "gmapsUrl": "https://maps.google.com/?cid=17933555683800162192&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 479,
+      "website": "http://www.beachcombershotel.com/",
+      "photoRef": "places/ChIJn5AbyBNRR4wRkJ-Y3ODJ4Pg/photos/AcnlKN3cX5EOmyCOQgstX16t1HUjkSDYs5LbVNhZ6WNZvJpKNtSZHOdgY1wR79J0Fm49FKcwfykfKm7Fj_XoaHz8fFavRHiSwikXsXhDSMS_hij4BJ1Rzpvx-5t-U8LzQbxWEmrwE9nD-QF_v4TD7u4WOwl6Z0JsBeTIeyVrMeugC0M2edcOsrkPqPKALzZbipE_Nuo05q9oyM58tREMR3_2lFYwThMdr9Po0IetEM_y3JrofIIfjlLEpzrBeGtFomvSFChVI2SpOaj_2cDZZK8Epoa1r6Nw5s-uiEKr89NgcYGuXw",
+      "photoAttribution": "Beachcombers Hotel",
+      "placeId": "ChIJn5AbyBNRR4wRkJ-Y3ODJ4Pg",
+      "phone": "(784) 458-4283",
+      "hours": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ],
+      "address": "Villa Beach, Villa, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Sugar Reef Bequia - Adults only",
+      "coord": [
+        13.025603,
+        -61.217462
+      ],
+      "desc": "Island resort with beach access, water sports, relaxed Caribbean vibe, family suites",
+      "longDesc": "A charming beachfront resort on Bequia island offering direct beach access and water activities. Perfect for families seeking a relaxed tropical escape with excellent service.",
+      "gmapsUrl": "https://maps.google.com/?cid=18118569689670757808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Splurge",
+        "Beach",
+        "Scenic Views"
+      ],
+      "placeId": "ChIJIwdE68VbR4wRsC387iIXcvs",
+      "phone": "(784) 458-3400",
+      "address": "Belmont Rd, Crescent Beach VC, 2QGM+62V Bequia Island, VC0400, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Young Island Resort",
+      "coord": [
+        13.131314800000002,
+        -61.2020358
+      ],
+      "desc": "Private island resort, secluded elegance, water sports, romantic setting, all-inclusive options",
+      "longDesc": "An exclusive private island resort offering ultimate seclusion and luxury. Families can enjoy pristine beaches, water activities, and world-class amenities in a paradise setting.",
+      "gmapsUrl": "https://maps.google.com/?cid=2120226482704884265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Outdoor & Nature",
+        "Beach",
+        "Scenic Views",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.3,
+      "ratingCount": 574,
+      "website": "http://www.youngisland.com",
+      "photoRef": "places/ChIJHZpM4xBRR4wRKSIAqcCObB0/photos/AcnlKN0U47gBKT9IOle9sYd25iAkFqP8O5ZRBLX2BzKz1OfQ-peoSiu9Yi37wouav3p39-2p7ca7ZHGEcCTY-7-Sbtg7f2i9Iu1qtMDq0hSEo0cCZ-nt1xETGCV5DDjMyWrWBu8He7pWGAqaf97p96W5__5mqG-_y5XSJdbnCBblu309RkZiV2VSbBcmy_zMvxVjz43rKDnYnImhqbGS-dhkB810tCJXjWO_NmUbNeq-I14xKf46SE_QhPW3Gb40Kt2vfX1uIKaggn80RkR54c18znnVsTQNG30WUZeg4VXNnHb612kfA33oyXgMZep0bVM9iWFBAaR9FkE4oK37wDkknZ6LCoCT0OxrEB9D1evvKqjyLJH9pLVfIlypeHgtYggKgbnnIDfbD6q_f5fbSABkvM6ao5UyzEYFHNDgJULhT7WO9WjF",
+      "photoAttribution": "Paul Anderson",
+      "placeId": "ChIJHZpM4xBRR4wRKSIAqcCObB0",
+      "phone": "(310) 440-4225",
+      "hours": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "4QJX+G5G, Arnos Vale, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Rosewood Apartment Hotel",
+      "coord": [
+        13.1382357,
+        -61.2019513
+      ],
+      "desc": "Ultra-luxury resort, private villas, spa, gourmet dining, pristine beaches, Caribbean elegance",
+      "longDesc": "A world-class luxury resort featuring elegant private villas and exceptional service. Perfect for families seeking indulgent comfort with direct beach access and fine amenities.",
+      "gmapsUrl": "https://maps.google.com/?cid=15044801064001582915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Fine Dining",
+        "Beach",
+        "Scenic Views",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.3,
+      "ratingCount": 38,
+      "website": "http://www.rosewoodsvg.com/",
+      "photoRef": "places/ChIJVbKhJhNRR4wRQ7c7YNveydA/photos/AcnlKN1zeFpDRA149bC_8yJtXlBYR8CA0AdXDbDQwBrH5-ClqYBHmIXci9jmgpuSpZVSGynkWpF0eog3pNhg8uEEdOswuG8cOWE35XTp75Qggpvu_phPIS7ogTQpc0LokHqtxTx0JHs5GkeDv1Xo5Z0kASVBYraEUf11FmEQNYfxTNNy4Z1opCxyQUoarQOHsgzzv10fr6jOmj_Yhupng_SV4OkxzQh-79hWuX9FQxquKSwVGjDuKQNPviP3MoMBcUrnTiU4QtlkPXqzGtIvbWuQe6UYvXX1WnbtudTwYiB6-N_AVxK6TrzGp7JauvyYYCrfUOPiWkXuytsLZ0WZG3zGL6mBqP5QqxlXBvegCI4D0SZGe1e2VEfpGwyi7kChinqaHMxm5O2xpqt0yzqHD9a-p6P_CQh9QuDYjoiNrkB2Y3k2H8f3",
+      "photoAttribution": "Sn00p's W0rld",
+      "placeId": "ChIJVbKhJhNRR4wRQ7c7YNveydA",
+      "phone": "(784) 457-5051",
+      "address": "Saint George, Rose Cottage Road, St Vincent and the Grenadines"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Basil's Bar",
+      "coord": [
+        12.880740099999999,
+        -61.1881523
+      ],
+      "desc": "Famous beachfront eatery, fresh seafood, casual island vibes, sunset views, local favorite",
+      "longDesc": "An iconic beachfront restaurant beloved by locals and visitors alike. Families enjoy fresh seafood, relaxed atmosphere, and stunning sunset views over the Caribbean Sea.",
+      "gmapsUrl": "https://maps.google.com/?cid=6359803553592883990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Photography Worthy",
+        "Off-Hours Eats",
+        "Scenic Views",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 442,
+      "website": "https://basilsbar.com/",
+      "photoRef": "places/ChIJ_____6ZnR4wRFrsr5aKPQlg/photos/AcnlKN1-sh5aSd_0ugjZ2ePCnMMbh-jrpeHr05hWTJxg81VCxNi7acmuvcKjZJb-lB2uYLeyT83mstX7LCFyvCGf318CoAA5txB7aexYgfPf1a_EXMzXVNEgP0_9egjxnYuqDrO5FQsHKHNs4FR-Lim1_32qgkJYcDKcSyrbEJLBDSt8uD5S6Elyd-rDUxTqEAaM_y5RDpIQUfBhH_YxMj5Ks-8it61lBu_SCzGYuOsifinLH_SRas6r3-WUzO7q08sWLhGjrhafzw9AWay38blyxnAxgV6fW8SDKgcJrpMLEooJzu1CON8FY4iCZJTNVtkke00sUuiG8EV41oHMFhkFalDpL6lmE2LHbHpSpeZNt2hFz6OPZG97-J7HwKQGOTgPiCHYZg2S3c9VoWwckLIhIqPOtVNEaMo_4M2TNlMACs18sw",
+      "photoAttribution": "Radio Offshore",
+      "placeId": "ChIJ_____6ZnR4wRFrsr5aKPQlg",
+      "phone": "(784) 488-8350",
+      "address": "VRJ6+7PX, Lovell, St Vincent and the Grenadines"
+    },
+    {
+      "name": "French Verandah",
+      "coord": [
+        13.1322298,
+        -61.19960779999999
+      ],
+      "desc": "Colonial charm café, local coffee, pastries, shaded veranda, perfect lunch spot",
+      "longDesc": "A charming colonial-style café serving excellent local coffee and fresh pastries. Families appreciate the relaxed atmosphere and shaded outdoor seating ideal for tropical dining.",
+      "gmapsUrl": "https://maps.google.com/?cid=6043157685176462837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Good for Lunch",
+        "Budget Friendly",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Breakfast Spot",
+        "Hidden Gem"
+      ],
+      "rating": 4,
+      "ratingCount": 452,
+      "website": "https://www.marinershotel.com/the-french-verandah-restaurant",
+      "photoRef": "places/ChIJW0KAwRFRR4wR9W2diuWb3VM/photos/AcnlKN2vIbaOH783T5GmWj0DVG6NcEpmwd4Fm0ky63IzK7hQaigv_PeV4dzoO69bCFIbSsy-V5lBxrvnb956OPM1_L43A9SdOdjX-8YfSHbcBbcj8j_CFtApdLvJXzLqdsW0ZAo_xwu7okGznNWrAY-DtnhW3c3moo-nU_pjitpkaNPVeSBPdVEG1cY78pE3Rt-VZQ1R8vUsyZVpwzH2jILdPympp1AE2NclrftzfyKx8JPkfItTiz3Sd8b_gMA3PMWyY9qQWzJt36XmEXwx6OF-DFwCzDJGUxZa29WNfleAvwoaeM43mJpIO0FtoGJmGq9W1RfujjemIucqpRVpX8cuuoUQibCuLYZzCPKpjBT6PbVWOR6coOdhA46MS57N5fjSdqlcfuEyXjwn1cNwkxMmYjfeDEl-XmtKA4cojt6JQsn9FcE",
+      "photoAttribution": "hellen pachon",
+      "placeId": "ChIJW0KAwRFRR4wR9W2diuWb3VM",
+      "phone": "(784) 453-1111",
+      "hours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ],
+      "address": "4RJ2+V5R, Villa Stretch, Arnos Vale, St Vincent and the Grenadines",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Sunset Cove",
+      "coord": [
+        12.6054531,
+        -61.447389699999995
+      ],
+      "desc": "Fine dining establishment, Caribbean cuisine, ocean views, elegant ambiance, special occasions",
+      "longDesc": "An upscale restaurant featuring authentic Caribbean cuisine with spectacular ocean views. Families can enjoy a special dining experience with impeccable service and refined dishes.",
+      "gmapsUrl": "https://maps.google.com/?cid=4349001310959107821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge",
+        "Photography Worthy",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 89,
+      "photoRef": "places/ChIJ3Y4gK3N9OIwR7f5se6bBWjw/photos/AcnlKN1iaP9i5tNVi9KW-i0eOHpO56IWm56-fqFry3_Fjsakulw2ZiMAAA8n5zsAawEnHjSozuTCQaxx0O8KZXMaiRGO9gBIZEr44xHB0mwD9SE_towQ0kg5XqYgBBwBGe5nA6pU8mPMIoPMngNaHpwOkwhR8WW9KmwyxPSNQM5wBXQ6GXRNX1sKNv6wF0ralYhKhmG1Ft4dFxqe_QBlCaXy_SdzT85DOrKZhfhrHRtgc6BVo1rUCIbaK5pmSMzT6VOd6tcXmk9vQvfzSSpYukbko-6OD5pX26No3k4oOgInK8XqjsDA1LnB4P6vdgtQ7L1kjNJTXHdrQXntlvZwQLCqkGFvprf65PeLs2dTOkNPuPYDl-LhLa8SeXz49--kjHFqfZN7jGJAKwSLkoDDI7X1uB_KK3xz2pGIGsWVDpbQih0",
+      "photoAttribution": "David Peavey",
+      "placeId": "ChIJ3Y4gK3N9OIwR7f5se6bBWjw",
+      "phone": "(784) 497-8543",
+      "hours": [
+        "Monday: 10:00 AM – 11:30 PM",
+        "Tuesday: 10:00 AM – 11:30 PM",
+        "Wednesday: 10:00 AM – 11:30 PM",
+        "Thursday: 10:00 AM – 11:30 PM",
+        "Friday: 10:00 AM – 11:30 PM",
+        "Saturday: 10:00 AM – 11:30 PM",
+        "Sunday: 10:00 AM – 11:30 PM"
+      ],
+      "address": "JH43+52Q, Ashton, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Friendship House",
+      "coord": [
+        12.9937548,
+        -61.237089899999994
+      ],
+      "desc": "Casual seafood spot, grilled catch of the day, beachside location, friendly service, local eats",
+      "longDesc": "A laid-back beachside seafood restaurant where families enjoy fresh grilled fish and Caribbean specialties. Known for authentic local flavors and welcoming island hospitality.",
+      "gmapsUrl": "https://maps.google.com/?cid=11384107993117433775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Beach",
+        "Hidden Gem"
+      ],
+      "rating": 4.7,
+      "ratingCount": 11,
+      "website": "http://www.friendshiphousebequia.com/",
+      "photoRef": "places/ChIJwVBXhQxfR4wRrx9zdud5_J0/photos/AcnlKN04tRDsLwfB7xGpR5MNf1h8_3wpLW--Oss2gytXsS14i9BJPXqrMdnI9Yu4Nz8GEA1LYSrY1ikYBETpUNupKaZtC_YcuoPq7i36K3D5FARSHbnPqL7mLCLGkX3hFzzGK13TVAz1eJRFujm1qMdm8UcmnZkm5h3-7IBMYoj_EGRPOpl68LyuQV148AbgdZWmaU0OTvrG9YsrxQrJtrWiGq1AX9k6yYFdacMrlQn1eiTr1Ssg9Xpric7n9fAzavPej72CeDUMkSVcLHE1m2O4LU9KXd7lmu0clzZXDEpci8M_CzqsShUXQ5_oMxmz80nGH6g_dXuoQUd9UUcEntcvOnza7BP8bESJtbgy2ogtuLbWTJXk72UdoSkHNcltSC-MG1BNOZZjlOA3xJXJZMZpCXbNBTFShNx0xNOurJlb5VrxBonY",
+      "photoAttribution": "Libby Bull",
+      "placeId": "ChIJwVBXhQxfR4wRrx9zdud5_J0",
+      "phone": "01225 585100",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Friendship House Friendship Bequia, XQV7+G53, Port Elizabeth, St Vincent and the Grenadines"
+    },
+    {
+      "name": "The Cobblestone Inn",
+      "coord": [
+        13.1533333,
+        -61.224166700000005
+      ],
+      "desc": "Stone-walled courtyard serving fresh fish and local dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8178905263872976196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Photography Worthy"
+      ],
+      "rating": 4.1,
+      "ratingCount": 322,
+      "website": "http://www.cobblestoneinnsvg.com/",
+      "photoRef": "places/ChIJEUyDN1BRR4wRRKW4-ABPgXE/photos/AcnlKN2eGoU6DX0ZhCdJcOc4Z79ebt3bHpUpFvLD4Wce8kAN0Jzn-li_SbCWUfFvKWzd0omCuMja6OIk-z-DmTzXV8abXzp-9uJ625euVva_jXNQ3PoQ-rbyYq37Mypsogyz4oZENuUeeSXcwtLX0qqYXa8rVR0SNljoHwPhrs4oozpX03ovDO_xuTu9B-mtxzVfWOueUzf-O5h7OMxR5ySpomBXMlAkJDmxfxTL1sa5zwGA8B7QZHZe02Nfh55MMQnO6quyx0ksN-mf0Khc0x5eKzOjzq30LL-ajPsQ81_7H7ZAFw",
+      "photoAttribution": "The Cobblestone Inn",
+      "placeId": "ChIJEUyDN1BRR4wRRKW4-ABPgXE",
+      "phone": "(784) 456-1937",
+      "address": "5Q3G+77G, Bay St, Kingstown, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Mac's Pizza & Kitchen",
+      "coord": [
+        13.006755,
+        -61.237881099999996
+      ],
+      "desc": "Family-friendly pizzeria on the waterfront in Port Elizabeth",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9173231162073151566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 375,
+      "website": "https://restaurantwebexpert.com/Mac's%20Pizzeria",
+      "photoRef": "places/ChIJzc0nLwpZR4wRTvjp2SPdTX8/photos/AcnlKN1rkjTmTtRHOVyV-gcyBF2ajNQzNZuOK-Ve5y9YfhLWbw-53ssBqXA-wbZgrPYwCe5-LyAiwBjCku_vRCDehZsLVQJOapSVEAoPUtgbps2lQHdRjgsq0Hv1zItvdBcg8VmXIOhQIvTmUovNzlPd8g617ktLzlinSBcYEQ7vyVBkT858REC7dqqfOVgbL6pD-dMm_xmESy0Ku3UYqdv0kBFyTmIa_dtUq7SKIKWe2EQZBCHYX4YEGNjXrqKDhUE8ey_7WVYPgHER2mQynzVD-qeOdcLSGFC7sl270lYU8Mqdm18BNX8oHxlJYDAvnNE7UW9xRWG4nhc17yRM7x1Gm6YLVSUomJe_KkQXoBl3oCeZsKHPn8S1CfdSU32J4RYUxO55mBJ4aTNsK4QQsbS9Cc8kr7vBwHapIJHHYfT-7uVtJe8",
+      "photoAttribution": "leroy maita",
+      "placeId": "ChIJzc0nLwpZR4wRTvjp2SPdTX8",
+      "phone": "(784) 458-3474",
+      "hours": [
+        "Monday: 11:30 AM – 10:00 PM",
+        "Tuesday: 11:30 AM – 10:00 PM",
+        "Wednesday: 11:30 AM – 10:00 PM",
+        "Thursday: 11:30 AM – 10:00 PM",
+        "Friday: 11:30 AM – 10:00 PM",
+        "Saturday: 11:30 AM – 10:00 PM",
+        "Sunday: 11:30 AM – 10:00 PM"
+      ],
+      "address": "Port Elizabeth, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Gingerbread Hotel Bequia",
+      "coord": [
+        13.0079376,
+        -61.2374733
+      ],
+      "desc": "Waterfront dining in historic gingerbread house with fresh seafood",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5152900190279485593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 4.1,
+      "ratingCount": 65,
+      "website": "http://www.gingerbreadhotel.com/",
+      "photoRef": "places/ChIJmbUhNlhZR4wRmcim_GvHgkc/photos/AcnlKN0TaUM0cdfe-LXCgpEN4X37I-CTBq2fRsArLMBn71sd3fV4Ex19ODIe8441_Bl3fJoLeJ_j2mRpLOngf5kIjm-uYZ343aVoEH6vmZRs6wM66PN8S9DOi1sry0DQpIm-OC8B6lJp8UzZziecHObPSKGId-IoolGFNczMOqQVBfBrnC40XSsZrvz1ERGu0DR6AAQ5paUCOpOwDhtOk2TFJDGV-U5krB957Tb48i2xuz65KjGc3IkZc3cjCE_lc-KTI2RKdA42WiEoqWko67K8AsEEdOnSBZQS0tADJBKTGFmN2g",
+      "photoAttribution": "Gingerbread Hotel Bequia",
+      "placeId": "ChIJmbUhNlhZR4wRmcim_GvHgkc",
+      "phone": "(784) 458-3800",
+      "hours": [
+        "Monday: 7:30 AM – 6:00 PM",
+        "Tuesday: 7:30 AM – 6:00 PM",
+        "Wednesday: 7:30 AM – 6:00 PM",
+        "Thursday: 7:30 AM – 6:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 7:30 AM – 6:00 PM",
+        "Sunday: 7:30 AM – 6:00 PM"
+      ],
+      "address": "Port Elizabeth, St Vincent and the Grenadines"
+    },
+    {
+      "name": "De Reef Restaurant & Bar",
+      "coord": [
+        12.996230299999999,
+        -61.2461701
+      ],
+      "desc": "Beachside cafe with Caribbean BBQ and casual atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9895108344445185246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 171,
+      "photoRef": "places/ChIJCVJPfbJeR4wR3qyo3Jx8Uok/photos/AcnlKN2VHliPD7uKgnvi4ZOpaIaxMdR5HKssWNUh_mKHhQj1QQxVG4OSU8mTmvCvF6YqNtupK7-bGmj_80lw0Kx0IqBq14p0xaocK1lzrFzkfMMbI1emJ2gGXt0S92xfk_XDyqL0ATs5UGLYTppWqIVWH5xiuiMdyVXgUZeTTIYus6D5H8zXRzy6Nd6FyNCwgB-FTO1mJDS-l1xs3-BBHaNNOZlvw-_oJNbNXtqo0ZNfHnw-yVapvHifDE8pRoP0Z9eR-r2tJnFa8DQBbtvwVAdirS9xzxSF1lKz9kgw2asJosly9V1xfzmD-M9kjNXMltrW6bFjw9uxv7xz0txCC3nK0k32BQwsBLH6_8GX56ePLV5TNkd5dqVTppxL7NBAN8kWRaiWA6flJvukiAan0G6uIoe44U9jJVJJcE7OYBwk2wHb5HMt",
+      "photoAttribution": "Zonecia Daniel",
+      "placeId": "ChIJCVJPfbJeR4wR3qyo3Jx8Uok",
+      "phone": "(784) 528-4958",
+      "hours": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "address": "Lower Bay Rd, Bequia, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Vee Jay's Restaurant & Bar",
+      "coord": [
+        13.1557202,
+        -61.227985100000005
+      ],
+      "desc": "Local Caribbean spot with rooftop views and rotis",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4654282488369067207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4.1,
+      "ratingCount": 394,
+      "website": "https://www.facebook.com/veejaysrestaurantandbar/",
+      "photoRef": "places/ChIJ8Tjh1lNRR4wRxzSPg0NVl0A/photos/AcnlKN1O9qf1OH40ZBFUhi1BC-U27ZAoaMSwzNWIKZ7CG223Kq75MUa5UfyEjLfZa9a5zYzXufXIZAPTXQaItrGB3t10p3SMKb-8fB17wtFpjjYbxTRRDUB2CAqLCVOND-e-yLVhOXdQIjrCe0i7JufItcl62jtb2CNySUhL2sOSo3pySBbw1tUXULWoYA1Ximpai1UaQdQoZTg4UhyySE1N89YERntZXl9__fCL9e_wdIblihdGAgHctzJ0y-n_KWC754qgtlbNaZJlmYNtVAqqAi_nDfocfAGKbRnz_qSVX27R4hQNepGOahibsAM66VCQYWsy6kdBvVisTXg6KsdY4sSSqjKJBQERPjdPOi1RZTADv4yjTDxgoIICaJJx9BLTwj5KjzDE57AEa_1XtkPwjzvP-5t4maUbj0Lu9akkR50q3jmq",
+      "photoAttribution": "Marko Djipalo",
+      "placeId": "ChIJ8Tjh1lNRR4wRxzSPg0NVl0A",
+      "phone": "(784) 457-2845",
+      "hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Lower Bay Street (Opposite Bay, View Carpark, Kingstown, St Vincent and the Grenadines",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Flow Wine Bar and Kitchen",
+      "coord": [
+        13.152391399999999,
+        -61.223071299999994
+      ],
+      "desc": "Morning coffee and pastries in Villa",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7691834337637110735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Breakfast Spot",
+        "Brunch",
+        "Sweet Treats"
+      ],
+      "rating": 4.3,
+      "ratingCount": 257,
+      "website": "http://flowwinebar.com/",
+      "photoRef": "places/ChIJtz9qGVBRR4wRzxMDtpPivmo/photos/AcnlKN3g1zGkjs_YR6j2aLsPYkHOxYAph25HdHoUcnT6zpFewVsxxWQufBHrhIXCVUZJD0vYbPFTndrFtAT4I_AZw2TpQZ3XOuCugQc3eBX2SSRNqlIQdDSdHHMSAjXLcv5gIpr_CyoILgIcpEkKLRgIZku0MwOSnqkRrAiv-LHdsgHeW2oTFRh3Y3q3bwCRDeej8h5n-OpIl3uUSgakcekNq0U7cLON8x3f0RpH-WOddSz7qOW4ZO4sqG6DNmC2QcYPNTjYrWOr0xFBj4z4H0HgiNmazSYhLpxHtTkWzlVEuw5nNhetEa28AzNfKs2u5uDY9Ha9v0CKEfLmhWfU9VD7L3fy0jXYWC9JL8IHrFjiphevcehFMb2rqwH9GAmeHLyHJOO04dudMlMViAnkp2KoNttmojaNdSWEpqTzyXtDbG8dcQ",
+      "photoAttribution": "Riaanna Jordan",
+      "placeId": "ChIJtz9qGVBRR4wRzxMDtpPivmo",
+      "phone": "(784) 457-0809",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "James St, Kingstown, St Vincent and the Grenadines",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "The Fig Tree",
+      "coord": [
+        13.0065387,
+        -61.237997299999996
+      ],
+      "desc": "Garden restaurant with Caribbean classics in Lower Bay",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9481451920484565931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 229,
+      "photoRef": "places/ChIJ0zDZIldZR4wRq4Nta0nilIM/photos/AcnlKN1-F2p7DWTqYrZNR07emgM4sNKECL3Xl39Lasuq_IKLXT78866sY2kcJyGHWpVYKIEO3Oq1ZSyg2PS5QKnGQYHSyCUAzbtbNXgp2-hG07jhl-d8r7rKLjKElhbYUZL6ZclIKkHGnmG61NCXoVCqdzavs7NT6t-xUHrQeRRQpNyhY-7ozgNowEIql-ePDbaQLFJMkR-Ing-GItwHAq88nwBoy3UnGKpTSdlClWvOpnRmBybGdzAPCuOPzMAVsGoLE8R90PEOoyU61MDYyzL3ARbArkMuFNahGloB1bt7bpSkjQ",
+      "photoAttribution": "The Fig Tree",
+      "placeId": "ChIJ0zDZIldZR4wRq4Nta0nilIM",
+      "phone": "(784) 457-3008",
+      "hours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "address": "Port Elizabeth, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Fernando's Hideaway",
+      "coord": [
+        12.9979722,
+        -61.24269069999999
+      ],
+      "desc": "Hillside Italian restaurant with harbor views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2119067576788667680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 45,
+      "photoRef": "places/ChIJmUXhJ7JeR4wRIE2J2btwaB0/photos/AcnlKN3SdSiXHhA3wWCQaGRA_YdaIBLm_cth0cET6FT7bNyLook0HnZDnSrLU6_qQQ-t6-3fCVkBkexcrDAdy-IExH-U67Xm5XuajS9qVs0yw6IAxxdC6GkNyQ1JSw3eKZ5sP-ohZ2pe67d4CLppWCAeze-KNeWksqF7LfjARGlI4fL8EX_f03QSiqZ_z8iWUK8tVNgpzKeMO52VRolROcat4lg9swO8yvcw4As-bL_i8TSSta1dCzlJYUbKjdnNo5mvCDGkq18lGsQzGX3bqfdJWZLMyawk6Dc6xJrmV2jS3mrbN2fetD6x6Pl08ZousjaytPRPgm6iMadm9Ohi9aYs5fJ6_VLrrdh2p14McbFMi_ruAWf2B_ezmqZ5buRO4HnNAEhE0RbrSDYmc8bansFODTGJHH073yVOM0-gaSA4YUOpJA",
+      "photoAttribution": "Annemieke K Rysgaard",
+      "placeId": "ChIJmUXhJ7JeR4wRIE2J2btwaB0",
+      "phone": "(784) 458-3758",
+      "hours": [
+        "Monday: 7:00 – 11:00 PM",
+        "Tuesday: 7:00 – 11:00 PM",
+        "Wednesday: 7:00 – 11:00 PM",
+        "Thursday: 7:00 – 11:00 PM",
+        "Friday: 7:00 – 11:00 PM",
+        "Saturday: 7:00 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "XQX4+5WM, Port Elizabeth, St Vincent and the Grenadines"
+    },
+    {
+      "name": "The Loft Restaurant and Bar",
+      "coord": [
+        13.127834799999999,
+        -61.190620599999995
+      ],
+      "desc": "Caribbean fusion dining with local art in Villa area",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6634368766245302202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Art & Design"
+      ],
+      "rating": 3.8,
+      "ratingCount": 90,
+      "photoRef": "places/ChIJozSyiAhRR4wRum__FD4DElw/photos/AcnlKN2N-p_Zl2fC_QLvx3o8EbyIjidM_qz7i2_eq1RP5N9rRCcwMrt5DVHIq5cddkEA6eHoVVtFer-ISMFbdCH_uwLicv7_mqR0CrUfiLuqALMUUZieigcGJSyXHeKO8GOW0O-1TPc7ezUOD1Rk_4AmmkaWTqfE5b5GuDtDRIEvSuLuKodYG5pcOi8b9WHRdmwq2TFpO0X_KEtvfG14YI8Lv_0zcoE6uXQLHTkUqUIAM652rXmwcM6Q87pFH5HL5iOUy2DBVoRMpAGpjplYvoqbYFCTVlm56lXXfm8DGYvIwyhflQ",
+      "photoAttribution": "The Loft Restaurant and Bar",
+      "placeId": "ChIJozSyiAhRR4wRum__FD4DElw",
+      "phone": "(784) 458-4308",
+      "hours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ],
+      "address": "VC0120, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Greenhouse Café Bequia",
+      "coord": [
+        13.0043973,
+        -61.2383971
+      ],
+      "desc": "Local coffee shop with fresh roasted beans and pastries",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15795909742775173198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Breakfast Spot",
+        "Sweet Treats",
+        "Hidden Gem"
+      ],
+      "rating": 4,
+      "ratingCount": 1,
+      "photoRef": "places/ChIJB3thWp5ZR4wRTgA_gjhYNts/photos/AcnlKN3yi4hXmk2-2eH_1fAS0n_yBrDZQ8CX4VziUjh9lJVcshIV7irbFjtA2m99LHJGIgqLNZlWn8xy4HFcgZarmizM16S-ewLA31_gJArOeuAtuHAqePRkNAz2JOHAifIQobJY98icOeuTbEPUiVdMnzSYeczKI_o2X5FSdY1LGPgd4KmjS8Xr40gw9z0QhXDxWRZ46K3SiFsR1Kt8ALl5Qglir0SGpcW2ztfKajqArbwglA8WN1yL1KZ-BnCnfuD19poEb79WC-8d5HR_gRsPa9Gdqzo2F6sIRMcWLpLVWdxVEw",
+      "photoAttribution": "Greenhouse Cafe Bequia",
+      "placeId": "ChIJB3thWp5ZR4wRTgA_gjhYNts",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 1:00 – 6:00 PM",
+        "Saturday: 11:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM"
+      ],
+      "address": "Port Elizabeth, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Keegans Beachside Hotel, Apartments and Restaurant",
+      "coord": [
+        12.996915,
+        -61.245227
+      ],
+      "desc": "Sunset dining on Lower Bay beach with fresh catch specials",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17679901704779562883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.1,
+      "ratingCount": 274,
+      "website": "http://www.keegansbequia.org/",
+      "photoRef": "places/ChIJ1UIiYa1eR4wRg381qe2gW_U/photos/AcnlKN1jrwE_eQpOnOSOVZZ7zMNaFVW6f3nemAWSCTRrseh2TRG1xxFQSxvPLQc3ApApMNSgYe9BNuDvdHUpOKU2gXCe7x6IUj_qNTQOvsko8zgFeljqtniBcYAxsDqJ-SR7ZFH0ii1dINMUiytFOU0u8IVKaolo3-pAWFpwR8iUGEpo6UmwoShyw-GgRNvbckiyRF-txQypv1Vyt1oCWQZ5nSl3qU25nP8UepbFYBYq5RRXbF9JoBy2-Il_sc2KkBqZiSpEQe3q1ewEwAIgl8J7DvpOKHPUQwMrS39q-rtK6CNS-A",
+      "photoAttribution": "Keegans Beachside Hotel, Apartments and Restaurant",
+      "placeId": "ChIJ1UIiYa1eR4wRg381qe2gW_U",
+      "phone": "(784) 458-3530",
+      "hours": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "address": "Bay St, St Vincent and the Grenadines"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Fort Charlotte",
+      "coord": [
+        13.1580687,
+        -61.2421211
+      ],
+      "desc": "Historic 18th century fortress, panoramic views, cultural significance, interactive history exhibits",
+      "longDesc": "An impressive historic fort offering panoramic views of Kingstown and the coast. Families explore fascinating colonial history while enjoying magnificent vistas and educational exhibits.",
+      "gmapsUrl": "https://maps.google.com/?cid=3550255572647712393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.3,
+      "ratingCount": 428,
+      "website": "http://tourism.gov.vc/tourism/index.php/national-sites-of-svg/fort-charlotte",
+      "photoRef": "places/ChIJH5vQ4a5WR4wRiZaEHaIKRTE/photos/AcnlKN211xKgg0Y3RqYvTPlb9JURuH1SpSSAWkeX7iPpm9-3tfdtcXgz1l-gfHurbeVdu67zrPfqFgK-FCdm9VJEsGxGdlJoIn8zbjVPmQW8tjymBxblrZJ2vIbq-ZxeyG_HgqMqdw_5pEN4UamVMEnjkCFVnhK8stkCG376Joauj1po0dplIi0BtLKGhBWSFzD5-oTczkYvZyOtO_JyMAfvWW4FCxfk1ZC1HvKsQ6KQe1-yOPW-96ZTWDsdBuMvSV98PEpe-CwqNaEaiwSYbCir2sNmg0EZWnEUCeYiDJShOkXi4qop0BoUXAxOe1SNyhMxLv4Vants01VYUmqecb_fOO0J45WMXGkW9O7sAeHjNWLUWRSbiKfTidj7VQIJN7UtgI4px3TdaYL3MWjloEPJcIVd8JmlRJnWzLceRaPlhSc",
+      "photoAttribution": "Simon cook",
+      "placeId": "ChIJH5vQ4a5WR4wRiZaEHaIKRTE",
+      "phone": "(784) 456-1165",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ],
+      "address": "5Q55+65C, Clare Valley, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Botanical Gardens",
+      "coord": [
+        13.1632179,
+        -61.2278403
+      ],
+      "desc": "Lush tropical gardens, exotic plants, peaceful walking paths, bird watching, nature retreat",
+      "longDesc": "Beautiful tropical gardens featuring rare plants and exotic flowers. Families enjoy leisurely walks through serene landscapes with opportunities for bird watching and nature discovery.",
+      "gmapsUrl": "https://maps.google.com/?cid=4326124925339497692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Photography Worthy",
+        "Hidden Gem"
+      ],
+      "rating": 4.5,
+      "ratingCount": 973,
+      "website": "http://www.botanicalgarden.gov.vc/botanicalgarden/",
+      "photoRef": "places/ChIJIy8x_1VRR4wR3PTS5LJ7CTw/photos/AcnlKN05Z-s9Ab_BsVX6Ed4HkOIUDW7MiZvzaedpfid-2bnZfukLs8fnCO9hX9PBVORBetD6THi0jAc5U7DSXRIgl-mxT_JCHjvw3GK4V-1ewjcYc51UiY571LQMg_2ICm7HIG6zFBOWiFnk28w_RDOdPKZcAsU3_T6OZEO3zqFRAFX-MDVplMvAkqBSoiUSaSWueyU3XyI7Y5-JzjP2h7STgkxZ7pCWtRIHrtRhaKJ--vgehAjRQqzY8SqgYCm4WL6GxeIYU2oOuvqHEX5WQKkYBcluiajerbHUTYQQifNetqVUSqGg80t4u6pfy2L6Nw4YAm3-HAtLIkZeqV-CBz88fadYG_K75IcohAY9uH7W9_cGD2ECyDr_HunmN112z95YNsFlxhQJrE2vDrtpxTFvYgn8MwJ_yrQDa2IfFJ1uNsxsGA",
+      "photoAttribution": "Dmitry Danilenko",
+      "placeId": "ChIJIy8x_1VRR4wR3PTS5LJ7CTw",
+      "phone": "(784) 493-5824",
+      "hours": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 7:00 AM – 6:00 PM",
+        "Sunday: 7:00 AM – 6:00 PM"
+      ],
+      "address": "5Q7C+7VM New Montrose, & St Vincent, Kingstown, St Vincent and the Grenadines"
+    },
+    {
+      "name": "La Soufrière Volcano",
+      "coord": [
+        13.335288199999999,
+        -61.1824194
+      ],
+      "desc": "Active volcano hike, geothermal features, sulfur springs, adventure trek, natural wonder",
+      "longDesc": "An active volcano offering thrilling hikes with breathtaking crater views and geothermal features. Adventurous families experience nature's power while hiking through lush mountain scenery.",
+      "gmapsUrl": "https://maps.google.com/?cid=7652130999642660308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Full-Day Activity"
+      ],
+      "rating": 4.5,
+      "ratingCount": 48,
+      "website": "http://uwiseismic.com/",
+      "photoRef": "places/ChIJG4KlRfavQIwR1J10-JnUMWo/photos/AcnlKN3ed8R8-1e9AirAGiizX2GVNMeyXWypUyh9mNCCd0kcTJ0CMg_YWsC6w_wqxHaQlwsHpofULESHQUWia40zVSuagACLVz0GAa6_01jnpOUthjUUU2P7wl6cNrqmYS38HMJv3J5SxuWfz1hlVqKupogKFsI8qALtdJ2xNMYWSBBrPXQL50HKlHb6NXlmzJxedWTCXUDZM17QWSWWpMpRcgjFmC8xhEqNDdC1hBPRKqI96fkel8nE0a7La7xYadcTEC5Or5b1_tqtxTD5S38XuN36k5K09tYf9eFc9b2JU4kKMaaPgnMd6bKMIKQPu7Yy2HmgzM0PWOE3O1KvE_26FH_shC7OUg70sqr3kS8JDAXcoPsFVI1NKFZxKB7621pQSiUIIgxl7HNSS85WyX9ZOHgvBmWBNYD9pjMgKN64Ntm6ySo",
+      "photoAttribution": "Rick Garrison (RickyRico)",
+      "placeId": "ChIJG4KlRfavQIwR1J10-JnUMWo",
+      "hours": [
+        "Monday: 9:00 AM – 4:00 AM",
+        "Tuesday: 9:00 AM – 4:00 AM",
+        "Wednesday: 9:00 AM – 4:00 AM",
+        "Thursday: 9:00 AM – 4:00 AM",
+        "Friday: 9:00 AM – 4:00 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "8RP9+428, Georgetown, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Bequia Heritage Museum",
+      "coord": [
+        12.9920303,
+        -61.232129
+      ],
+      "desc": "Island history museum, artifacts, cultural exhibits, educational displays, rainy day activity",
+      "longDesc": "An engaging museum showcasing the rich history and culture of Saint Vincent and the Grenadines. Families learn about indigenous heritage, colonial history, and local traditions through interactive exhibits.",
+      "gmapsUrl": "https://maps.google.com/?cid=16000047488903622562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Rainy Day",
+        "Hidden Gem"
+      ],
+      "rating": 4.8,
+      "ratingCount": 36,
+      "website": "https://www.bequiatourism.com/history.htm#heritagemuseum",
+      "photoRef": "places/ChIJZRHPNuxdR4wRoi97VWuWC94/photos/AcnlKN3yff98PKhmYN2TQ06ODSN8-TZjKKP73cvUGLczbhVgUN6qs-MtxYS27I2TUzJ7VfTxn51nUvRCppqjTHYN_j1NMItRuwSwmERhdGwLUq6iFDkWhYHIC0LUGm-EDjog168OAQc2LnBBsFc5gkHmMKlS2TEYR8IfZ61w_CRos-_sgcNwDOuvoJHBEsWXLO4TjAD1tGmcrU0kLjnxiEs57JQ16tH5zrRCDO7G3Vp6w4Azy60ZeNFt6LH3LRFWkeAVSSzc3nZrwBmeDJ-BjdHrPrFXz2djQLzXjp5CnjZ4VBwCxw",
+      "photoAttribution": "Bequia Heritage Museum",
+      "placeId": "ChIJZRHPNuxdR4wRoi97VWuWC94",
+      "phone": "(784) 532-9554",
+      "hours": [
+        "Monday: 10:00 AM – 1:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 1:00 PM",
+        "Thursday: Closed",
+        "Friday: 10:00 AM – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "St Vincent and the Grenadines"
+    },
+    {
+      "name": "Lower Bay",
+      "coord": [
+        12.9945442,
+        -61.2474041
+      ],
+      "desc": "Scenic beach on Bequia's southern coast with restaurants and water sports",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8375344684015966820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Good for Groups"
+      ],
+      "photoRef": "places/ChIJu5rNN7JeR4wRZFo6mp0zO3Q/photos/AcnlKN1JQyaV5nngEZxdgB8qjICcQ-AA6YPlnI50xLAzOBtj32-2HuUpNMZRHBkm-UTrjDhpk7ngAMhRT1NxAlGBpHq3FTfE6xZQQzIG8wNUpbRKzysQASntNlHzJaVp3fEGVqF3Jpd7DNEXjCsELSNZOzcEqFNhH5zGesLJHwKpzD1nlvAENYsmc-Jj7TjnMikB3CdicEu_YcHoiA9entloHjmsrmkfbo_PYhX5EUQn_hGp1qu3XjrKNAD6z4WspmWjZX95y4jcw3tZ0gj_qITAKw4EjMA5jnNP6VkLObIw3mhf_66_hhFKvhR0IMulKnfB3h4hasXpC46d271Tde_jY9v-zQ9_pNn506dYYdASDUtlH_9nXJtXrE7OR0lbyvcHEnzIqvHviB6xV8aAt9MKvplAsUpCH0VdjcnSz5HF87UTVGU",
+      "photoAttribution": "Chad Couser",
+      "placeId": "ChIJu5rNN7JeR4wRZFo6mp0zO3Q",
+      "address": "Lower Bay, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Villa Beach",
+      "coord": [
+        13.1349064,
+        -61.202484
+      ],
+      "desc": "Popular public beach near Kingstown with calm waters and local atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6460925384536452250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.1,
+      "ratingCount": 50,
+      "photoRef": "places/ChIJQxp9CrlRR4wRmmyZ4WfRqVk/photos/AcnlKN2uSGXEldKNcyMvDceQxAuPoVfsNFP3m2ailxWDwrY2USNi2SAflSr9CsbotEOQU9H4Ue3pwZLkSZDdTGzE5cMOn8VYCDkQtKpx-3FHNw1znksQTPPJDknj1vKzfVi8-v-l-R61XDy8ZxofID0Fjz1XMJYyXV1Y2IzhpdzSxlvqFB5YBPe9GDjb4fUtcK7TZCerLaiaWJ5TF3GSNjwOeQMYZHSKL6-J-mg-hdXiXNky5R-NKy6jCozTsVrAD3Z_UNOiJSI0uSFC1Lvth0NGlpnoryO8QHolX_pEvjSQFyXE1TzaPSIuQniWopibwbRJbb4TWE5wDVT95Uc_FBnt4TsjFsmcdoNdtibjNgdBDMmQpGIzZATARM-gNqiDCO6wAEDexTN0kCKlDdYP50URtqny4hcdPFMO3VnnpPWexcgMgQ",
+      "photoAttribution": "Frederick Browne",
+      "placeId": "ChIJQxp9CrlRR4wRmmyZ4WfRqVk",
+      "phone": "(784) 494-4421",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "4QMX+X26, Arnos Vale, St Vincent and the Grenadines"
+    },
+    {
+      "name": "Jack's Beach Bar, Bequia",
+      "coord": [
+        13.0029268,
+        -61.2401885
+      ],
+      "desc": "Beachfront bar and restaurant at Princess Margaret Beach serving drinks and local food",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7621309978655343785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Casual Eats",
+        "Cocktails & Bars",
+        "Local Delicacies"
+      ],
+      "rating": 4.3,
+      "ratingCount": 427,
+      "website": "https://jacksbeachbar.com/",
+      "photoRef": "places/ChIJ2doQ5VNZR4wRqUTk0AtVxGk/photos/AcnlKN3rhqEKKrhIDtrFBpR9RJ3XRNSMXSnrcCGaoXoNSiQsUN0-kGVhGQVZKCmUM7kUZLz3-jGCkNYpPxuArRM-7QiJrdVV1mJhhpiWLkvQ_4XGucQt9fciwpd_ofjSYxWhFahqWTy4K_TzK-EFKN0SzL9EuJ6gdJD5liaJ3RaCZfcFbu3XjSyA5fy3FIaRMr63vkTvzQFYLtJe5OhvE-x4thAqXhU8pZVaTuxH_0zs4doyrh7bPDFOgWYHwtoPjjHxpo3fDmNtjjBV1m_dzG-7EF6iiJjAnza0Fm_4S3aU1qfGCQ",
+      "photoAttribution": "Jack's Beach Bar",
+      "placeId": "ChIJ2doQ5VNZR4wRqUTk0AtVxGk",
+      "phone": "(784) 458-3809",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "Princess Margaret Beach, Port Elizabeth, St Vincent and the Grenadines",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Frangipani Hotel",
+      "coord": [
+        13.0083054,
+        -61.236931
+      ],
+      "desc": "Waterfront restaurant at Frangipani Hotel known for Thursday night jump-ups and Caribbean cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4388081618111130035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Cocktails & Bars",
+        "Local Delicacies",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4,
+      "ratingCount": 118,
+      "website": "https://www.frangipanibequia.com/",
+      "photoRef": "places/ChIJS1kqyKReR4wRs2nvjPuY5Tw/photos/AcnlKN2AiedMWDKkdJoUrWniY1QeGH-jPtFN62O_1ZrsI11wJI2sVl1V73Wc_SnfDWohpmAxj0p7CetwT-cGNq1UgRyVwsRcN9wlcBP3WXqJPv8aF2ee4pznGJKX9F2E9QiNIOjK4JgZspGu_ESsOKnIOklIVRMD61LlclEHOYLp3sq9vj4ZW9NymyKHcm1_pchJtz98xO1Yp9qQ-8b8ZqHDZKLFjBNGN1R422wY_SUI_QCSUs4JV81Qx3pSJM7jfrTuQLTLA1l2O0r38UqTiCOzRDGu2pDajcczq7B4sAfUE1j5ok6leniAxRs8zpu9WvtyOBluShDn2H6PvDoo3wujAowaT4FGtr6b7b9C6vV8Wrn_ib20D6l6ssorJXEW8XQfbrXSxpmKQJWJ-oupU83E2FGYawq2AJq177-4Kbbsz9WhbJgA",
+      "photoAttribution": "Corry Kilty",
+      "placeId": "ChIJS1kqyKReR4wRs2nvjPuY5Tw",
+      "phone": "(784) 458-3255",
+      "address": "Admiralty Harbour Bequia Island, Port Elizabeth, St Vincent and the Grenadines"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Princess Margaret Beach",
+      "coord": [
+        13.0013437,
+        -61.240946099999995
+      ],
+      "desc": "Family-friendly beach with calm waters, soft sand, beach bars, shallow swimming, picnic areas",
+      "longDesc": "A perfect family beach with calm, shallow waters ideal for young children. The sandy shores offer safe swimming, beach bars, and plenty of space for building sandcastles.",
+      "gmapsUrl": "https://maps.google.com/?cid=11163734262321636325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Beach",
+        "Good for Groups"
+      ],
+      "rating": 4.7,
+      "ratingCount": 353,
+      "photoRef": "places/ChIJZ7myo1NZR4wR5eOJ4CmN7Zo/photos/AcnlKN3mVnuY0lo-i0QXVtjl_PV5YR7lxwzB8Y_o6QSQUCReRsYPwM14OArLBNLe8t2ycPMbH24WZtyUm8FGVqCW7jh-Sl_xVuBxToq9soZ_qelXQgm776Qznq_j9pY4m3SOJGw82vjuDx5lUJcP5rQKxLIpijxmromZ0P9YXjY-P8Tcy0uNmhWmZDavTTou3qUJ-71CicT-1Y_YQKWMXG4DMVK9P5ydps41we1snGIDUxQi1dLY3qOUeXI4DRPg9xQgXSwtKka8NSWvvf9Y-U2S53pvRaa2Uyk9qRYKRPciMg0OZOEtFfeYlvV2BBMuIRTgBJorgZXu5ozVH56SJtoY2s5Uuh6Z1Mr10rM7MTWyGSCp2xXsCAcewZm5mVfFIExp3MozBTtQ4_jDbX31IptsnL-mheo4lfIQeLUIcwpj6Bs_SQ",
+      "photoAttribution": "Dvt Doc",
+      "placeId": "ChIJZ7myo1NZR4wR5eOJ4CmN7Zo",
+      "address": "Charter yacht Atlantis II, St Vincent and the Grenadines"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Kingstown Fish Market",
+      "coord": [
+        13.1542937,
+        -61.22673940000001
+      ],
+      "desc": "Bustling waterfront market, fresh seafood, local produce, authentic island experience, vibrant atmosphere",
+      "longDesc": "A lively waterfront market offering fresh catches, local vegetables, and island goods. Families experience authentic Caribbean culture while browsing colorful produce and meeting friendly vendors.",
+      "gmapsUrl": "https://maps.google.com/?cid=6792553329741859362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Budget Friendly",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4,
+      "ratingCount": 47,
+      "photoRef": "places/ChIJnV_okFFRR4wRIgop0UP_Q14/photos/AcnlKN3xs-mcpGf7vCyIQMpHn9zhjvwO45E_NMFxxwSrFd78kxShRif1Gl3G_wLhMDecOyyBmmLnNGvMYLhDhsh9tnPK5rW9nZZavkzq856aaVtJyMqHE9KQyfP8_ddZ1rPjmwQqNyjFIK7Msl9ea83jJRNyGj0LZkhluq06SuNtQg1FKKt6vokYy_IIHNA8IXeRTnDAQvx8cwd4kExTOKBP-3gH2c8gSZKI3wPL5aduMH_-wl74Qjn9oE0_diWNKiZHFtgi_IIegfiJT0NkM5I1rZaQDGsgKLHjOyos4LTJ923VgqPH92ZGJpWR5G-Pk0dIiLPpR5OD7dteNNTGGRa4U1Pfn36MvehW8-cS_vUMiYBY_f5XAy760Al1e1SfR5M2VWlaeTvLooAnqKcZdEjyinLKhXWNn4p8e9oUTs4ueBI",
+      "photoAttribution": "Sarrah John-Gibson",
+      "placeId": "ChIJnV_okFFRR4wRIgop0UP_Q14",
+      "phone": "(784) 485-6156",
+      "hours": [
+        "Monday: 8:00 AM – 4:15 PM",
+        "Tuesday: 8:00 AM – 4:15 PM",
+        "Wednesday: 8:00 AM – 4:15 PM",
+        "Thursday: 8:00 AM – 4:15 PM",
+        "Friday: 8:00 AM – 4:15 PM",
+        "Saturday: 8:00 AM – 4:15 PM",
+        "Sunday: Closed"
+      ],
+      "address": "5Q3F+P86, Kingstown, St Vincent and the Grenadines"
+    }
+  ],
+  "itineraryData": {
+    "a": {
+      "name": "Saint Vincent Family Island Escape (7 Days)",
+      "description": "Explore volcanic peaks, pristine beaches, and colorful markets on this Caribbean gem designed for families with young children seeking adventure and relaxation.",
+      "familyFriendly": true,
+      "duration": 7,
+      "bases": [
+        "Kingstown",
+        "Bequia"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Kingstown",
+          "dayType": "urban",
+          "base": "Kingstown",
+          "items": [
+            {
+              "name": "Beachcombers Hotel",
+              "type": "hotel",
+              "coord": [
+                13.135582200000002,
+                -61.2020079
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Relaxation at hotel pool and beach",
+              "type": "freeTime"
+            },
+            {
+              "name": "French Verandah",
+              "type": "lunch",
+              "coord": [
+                13.1322298,
+                -61.19960779999999
+              ]
+            },
+            {
+              "name": "Afternoon nap for little ones",
+              "type": "nap"
+            },
+            {
+              "name": "Kingstown Fish Market",
+              "type": "shopping",
+              "coord": [
+                13.1542937,
+                -61.22673940000001
+              ]
+            },
+            {
+              "name": "Vee-Jay's Rooftop Diner & Pub",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual rooftop spot with local Caribbean dishes and ocean views",
+              "suggestedCity": "Kingstown"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Historic Kingstown",
+          "dayType": "urban",
+          "base": "Kingstown",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "French Verandah",
+              "type": "coffee",
+              "coord": [
+                13.1322298,
+                -61.19960779999999
+              ]
+            },
+            {
+              "name": "Botanical Gardens",
+              "type": "sightseeing",
+              "coord": [
+                13.1632179,
+                -61.2278403
+              ]
+            },
+            {
+              "name": "Fort Charlotte",
+              "type": "sightseeing",
+              "coord": [
+                13.1580687,
+                -61.2421211
+              ]
+            },
+            {
+              "name": "Chill's Restaurant & Bar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly spot with grilled fish and Caribbean comfort food",
+              "suggestedCity": "Kingstown"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Villa Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Popular public beach near Kingstown with calm waters and local atmosphere",
+              "suggestedCity": "Kingstown"
+            },
+            {
+              "name": "Cobblestone Roof-Top Restaurant & Bar",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic inn rooftop dining with West Indian cuisine and harbor views",
+              "suggestedCity": "Kingstown"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Volcano Adventure",
+          "dayType": "rural",
+          "base": "Kingstown",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Early morning departure for volcano",
+              "type": "info"
+            },
+            {
+              "name": "La Soufrière Volcano",
+              "type": "sightseeing",
+              "coord": [
+                13.335288199999999,
+                -61.1824194
+              ]
+            },
+            {
+              "name": "Flow Wine Bar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual Georgetown eatery with local plates near volcano trail access",
+              "suggestedCity": "Georgetown"
+            },
+            {
+              "name": "Return to hotel for afternoon rest",
+              "type": "nap"
+            },
+            {
+              "name": "Pool time and relaxation",
+              "type": "freeTime"
+            },
+            {
+              "name": "Bounty Restaurant & Art Gallery",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Caribbean fusion dining with local art in Villa area",
+              "suggestedCity": "Villa"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Ferry to Bequia",
+          "dayType": "suburban",
+          "base": "Bequia",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Ferry from Kingstown to Bequia (1 hour)",
+              "type": "info"
+            },
+            {
+              "name": "Sugar Reef Bequia - Adults only",
+              "type": "hotel",
+              "coord": [
+                13.025603,
+                -61.217462
+              ]
+            },
+            {
+              "name": "Friendship House",
+              "type": "lunch",
+              "coord": [
+                12.9937548,
+                -61.237089899999994
+              ]
+            },
+            {
+              "name": "Princess Margaret Beach",
+              "type": "beach",
+              "coord": [
+                13.0013437,
+                -61.240946099999995
+              ]
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Gingerbread Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront dining in historic gingerbread house with fresh seafood",
+              "suggestedCity": "Port Elizabeth"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Bequia Island Life",
+          "dayType": "suburban",
+          "base": "Bequia",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Bequia Coffee Roastery",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Local coffee shop with fresh roasted beans and pastries",
+              "suggestedCity": "Port Elizabeth"
+            },
+            {
+              "name": "Bequia Heritage Museum",
+              "type": "sightseeing",
+              "coord": [
+                12.9920303,
+                -61.232129
+              ]
+            },
+            {
+              "name": "Port Elizabeth waterfront walk",
+              "type": "freeTime"
+            },
+            {
+              "name": "Mac's Pizzeria",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual beachfront pizzeria with kid-friendly menu",
+              "suggestedCity": "Port Elizabeth"
+            },
+            {
+              "name": "Lower Bay Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Beautiful crescent-shaped beach on Bequia with restaurants and water sports",
+              "suggestedCity": "Bequia"
+            },
+            {
+              "name": "Afternoon nap",
+              "type": "nap"
+            },
+            {
+              "name": "Basil's Bar",
+              "type": "dinner",
+              "coord": [
+                12.880740099999999,
+                -61.1881523
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Island Exploration",
+          "dayType": "suburban",
+          "base": "Bequia",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Jack's Beach Bar",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach_bar",
+              "suggestedDesc": "Beachfront bar and restaurant at Princess Margaret Beach serving drinks and local food",
+              "suggestedCity": "Bequia"
+            },
+            {
+              "name": "De Reef",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachside cafe with Caribbean BBQ and casual atmosphere",
+              "suggestedCity": "Lower Bay"
+            },
+            {
+              "name": "Return to hotel for rest time",
+              "type": "nap"
+            },
+            {
+              "name": "Pool time and relaxation",
+              "type": "freeTime"
+            },
+            {
+              "name": "Keegan's Beachside Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Sunset dining on Lower Bay beach with fresh catch specials",
+              "suggestedCity": "Lower Bay"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Return and Departure",
+          "dayType": "suburban",
+          "base": "Bequia",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final beach walk and packing",
+              "type": "freeTime"
+            },
+            {
+              "name": "Fernando's Hideaway",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Casual beachside restaurant on Lower Bay Beach serving fresh seafood and Caribbean cuisine",
+              "suggestedCity": "Bequia"
+            },
+            {
+              "name": "Ferry to Kingstown and airport transfer",
+              "type": "info"
+            },
+            {
+              "name": "Frangipani Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Waterfront restaurant at Frangipani Hotel known for Thursday night jump-ups and Caribbean cuisine",
+              "suggestedCity": "Bequia"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

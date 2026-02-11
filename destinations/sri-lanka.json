@@ -30,7 +30,8 @@
         "Romantic",
         "Photography Worthy",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -63,12 +64,157 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach",
+        "Scenic Views"
       ],
       "phone": "077 363 8381"
+    },
+    {
+      "name": "Galle Face Hotel",
+      "coord": [
+        6.9201163,
+        79.846126
+      ],
+      "desc": "Historic oceanfront luxury, colonial charm, iconic verandah, impeccable service",
+      "longDesc": "A legendary beachfront palace offering timeless elegance and British colonial heritage. Perfect for families seeking sophisticated comfort with stunning Indian Ocean views.",
+      "gmapsUrl": "https://maps.google.com/?cid=3440799377783898496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 9775,
+      "website": "http://www.gallefacehotel.com/",
+      "photoRef": "places/ChIJ2e3NszhZ4joRgMEx0M0swC8/photos/AcnlKN1liRv41nFqbl8UkwkCZbrTngFPA8ft4A4MXn4JeR3zIuoxA5hMXQx91Op3b6X-Lwspsq3JdANGxq8f19MiXV27PEMJLW9t21gt4jZA9Dhx4wWWPcSP87tRoK1yvJMGuJFrNu8PbczeaqjlDgciMhw0GsdM0QsewHzuf_XL44G2i108cwySkMqgbFBc2JUvrQPmG_M3mtpKH3zgFtcnHeny3fSxMibcowCuCZJlXHMZEKo_k3iH1OhoDTh8-upaBiyvCbzJu8ljpJdBK_9TrXCZbIBXNiKBeHPgyVcBBiq_Kw",
+      "photoAttribution": "Galle Face Hotel",
+      "placeId": "ChIJ2e3NszhZ4joRgMEx0M0swC8",
+      "phone": "0117 541 010",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "2 Galle Rd, Colombo 00300, Sri Lanka"
+    },
+    {
+      "name": "Jetwing Lighthouse",
+      "coord": [
+        6.0421658,
+        80.19477049999999
+      ],
+      "desc": "Boutique clifftop retreat, panoramic ocean views, intimate atmosphere, gourmet dining",
+      "longDesc": "An exquisite boutique hotel perched above crashing waves with personalized service. Families love the spectacular sunset views and direct beach access below.",
+      "gmapsUrl": "https://maps.google.com/?cid=14079233183002145190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Family Friendly",
+        "Romantic",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3156,
+      "website": "http://www.jetwinghotels.com/jetwinglighthouse/",
+      "photoRef": "places/ChIJmyNMRrtz4ToRpjG8Jvx7Y8M/photos/AcnlKN1u3YwWWIqbAUzsolSwGbHHu3wtyhD9z5_TygiFk5WKJZhu0NfHqOlivKIqFrJbRMf96_kjYtShbcuBo4728WQC5xr1FcWuX-Ma53NcAjYvizVEaSGY1O-IGLiuuhV55PwK2EeWBpgOit8pGLaYJbRphcNmGDLPZX3_61CD94t26GYq332fGSatstDUtGlgBwx1LOd-rZ8E-E39HJq8_Zjtk7OZkDmDYrybrKk6vDXsPOJs645lXZT2VzeTqq7KeGKEql5Kh0W70iSWQY3YFXBcq_u0kt21F0kf8wLViLJEPw",
+      "photoAttribution": "Jetwing Lighthouse",
+      "placeId": "ChIJmyNMRrtz4ToRpjG8Jvx7Y8M",
+      "phone": "0912 223 744",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Dadella, Galle 80000, Sri Lanka"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Ministry of Crab",
+      "coord": [
+        6.9336079999999995,
+        79.84334729999999
+      ],
+      "desc": "Award-winning seafood, fresh crab specialties, stylish warehouse setting, impeccable cuisine",
+      "longDesc": "Sri Lanka's premier seafood destination showcasing the finest crustaceans prepared with innovative techniques. An unforgettable dining experience for adventurous family palates.",
+      "gmapsUrl": "https://maps.google.com/?cid=10060580693981079615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Splurge",
+        "Reservations Recommended"
+      ],
+      "rating": 4.4,
+      "ratingCount": 5129,
+      "website": "http://www.ministryofcrab.com/",
+      "photoRef": "places/ChIJzYLatSVZ4joRPyjlgtZcnos/photos/AcnlKN3T2Do0EJPUQwm96STIPOfp823mTQBfbtqGL9MWgHZfzLFmWCSIWeF5io62Kx69-ShzokgGLLEzcczZBvPZfnEdozJEsKh7s1hLo1LMiOWH2CdTUkOvrk_130i-X4TIBhkqPnZhi-rle_SuU27SVKRRoAWQwNFG_Goo9du042b6g6o_EJdnAPN2vtwuSLxkUkxBdakjTTtVDQeHY_85XMtX33AWtQ_qLV6XiPGOHoTaCKZT3-PEs_JoLkbs0gGbL-VpQ4gPQmOCtq0bVAIrRZHELlToaZCA5oDLHaJe5yifrA",
+      "photoAttribution": "Ministry of Crab",
+      "placeId": "ChIJzYLatSVZ4joRPyjlgtZcnos",
+      "phone": "077 002 4823",
+      "hours": [
+        "Monday: 12:00 – 10:30 PM",
+        "Tuesday: 12:00 – 10:30 PM",
+        "Wednesday: 12:00 – 10:30 PM",
+        "Thursday: 12:00 – 10:30 PM",
+        "Friday: 12:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 12:00 – 10:30 PM"
+      ],
+      "address": "Old Dutch Hospital Complex, 04 Hospital St, Colombo 00100, Sri Lanka",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Cafe Banana Chill",
+      "coord": [
+        7.293541500000001,
+        80.64830769999999
+      ],
+      "desc": "Cozy garden cafe, authentic Sri Lankan cuisine, herbal tea blends, family-welcoming charm",
+      "longDesc": "A delightful garden sanctuary serving authentic Sri Lankan dishes and fragrant herbal teas. Families appreciate the relaxed ambiance and kid-friendly traditional comfort food.",
+      "gmapsUrl": "https://maps.google.com/?cid=16430819296844300477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Family Friendly",
+        "Local Delicacies",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.9,
+      "ratingCount": 859,
+      "website": "http://www.bananachill.lk/",
+      "photoRef": "places/ChIJz5PvKgBn4zoRvcAJpRj_BeQ/photos/AcnlKN0crvYvUPMjl1rzn8drbgJ-cVIBblQQXnovV44-SIp6p4yaAAMhkjG6Ga-tUqJ6ytBlo_OW6BZypdsOU21C4fJSCLdE4JizWJznI4qkbiiE-tXvAHWn0QWpGHY4QXqsBHN3q3qaTYq4UcV3m-WPP6P8OGWYIiWP3LVbN_TDcfXXi6n4u-nuL7GSDtUNidgUl9IhS1JzN4r08qwiEKvnxdpeNPs_aNx8qo2G8i7CIhmVU_EUiGGH5dMlLCXmnrI8eWijfwyVf2bpBuL8H9_4MsukXRYKNfB-zYQLEPdrh5sphA",
+      "photoAttribution": "Cafe Banana Chill",
+      "placeId": "ChIJz5PvKgBn4zoRvcAJpRj_BeQ",
+      "phone": "077 588 2041",
+      "hours": [
+        "Monday: 6:30 AM – 9:30 PM",
+        "Tuesday: 6:30 AM – 9:30 PM",
+        "Wednesday: 6:30 AM – 9:30 PM",
+        "Thursday: 6:30 AM – 9:30 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 6:30 AM – 9:30 PM",
+        "Sunday: 6:30 AM – 9:30 PM"
+      ],
+      "address": "129/8b Anagarika Dharmapala Mawatha, Kandy 20000, Sri Lanka"
+    }
+  ],
   "experiences": [
     {
       "name": "Pekoe Trail",
@@ -90,7 +236,8 @@
         "Adventure & Active",
         "Photography Worthy",
         "Outdoor & Nature",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Full-Day Activity"
       ]
     },
     {
@@ -111,7 +258,8 @@
         "Adventure & Active",
         "Photography Worthy",
         "Outdoor & Nature",
-        "Family Friendly"
+        "Family Friendly",
+        "Full-Day Activity"
       ]
     },
     {
@@ -134,7 +282,8 @@
         "Splurge",
         "Cultural & Historical",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Half-Day Trip"
       ],
       "hours": [
         "Monday: 8:30 AM – 5:30 PM",
@@ -146,10 +295,116 @@
         "Sunday: Closed"
       ],
       "phone": "0117 895 820"
+    },
+    {
+      "name": "Sigiriya",
+      "coord": [
+        7.957032699999999,
+        80.760257
+      ],
+      "desc": "Ancient rock palace, 5th century majesty, panoramic views, mystical carved frescoes",
+      "longDesc": "A breathtaking UNESCO World Heritage site featuring dramatic staircases carved into a massive rock formation. Kids love the adventure of climbing to discover ancient ruins and stunning island vistas.",
+      "gmapsUrl": "https://maps.google.com/?cid=12328446918798019922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Adventure & Active",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 23290,
+      "website": "https://sigiriyafortress.com/",
+      "photoRef": "places/ChIJs5pMcluh_DoRUg03WydxF6s/photos/AcnlKN2tsy9tHkpLz_9wc_8ldmdXQkE7RFcs5m6nsAEi401Qoo6lOedGNGRyW6JcwkOcVpaHQj5d2CdRwSQYtGlp4IQbVCHX5sLw5CMvroeG_9iXnM50S5WHCsdBdWGWdE8Bz7k8Dkic0kvjGGInkBdoB37ICqAJZjXkY8qVP2CYRIjnVoXZkaPyZfolZiyR3qnSFRcgHiEypKQZzT2khrXkIbyf2WZHD3JGkxcELIZqhEgjBrYUNo93ny8i-uYeowB6p_ieWnT4oJnespGDbrgvlY-2L5WLrEUm5gmn6R57LCn165ACTWZn05Fb_mpBzyd5oks5wbVWxxfzpjuyAAYWaYr_JKXPNje46fE24Vz_jKFWY53KKPgQtZ44B8BaNiAhwxGPFuQxOhIJtEqD83W4TDNwBCaSCPsvtv6o1wJHukRFKTgurNB3uxJofteeTw",
+      "photoAttribution": "Apurva Thakur",
+      "placeId": "ChIJs5pMcluh_DoRUg03WydxF6s",
+      "hours": [
+        "Monday: 5:00 AM – 6:30 PM",
+        "Tuesday: 5:00 AM – 6:30 PM",
+        "Wednesday: 5:00 AM – 6:30 PM",
+        "Thursday: 5:00 AM – 6:30 PM",
+        "Friday: 5:00 AM – 6:30 PM",
+        "Saturday: 5:00 AM – 6:30 PM",
+        "Sunday: 5:00 AM – 6:30 PM"
+      ],
+      "address": "Sigiriya, Sri Lanka"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Cinnamon Bentota Beach",
+      "coord": [
+        6.4249054999999995,
+        79.9968753
+      ],
+      "desc": "Pristine sandy beach, calm turquoise waters, water sports, turtle sanctuary nearby",
+      "longDesc": "A family paradise with gentle waves perfect for young swimmers and plenty of beachside activities. Explore nearby turtle hatcheries and enjoy safe, supervised water sports.",
+      "gmapsUrl": "https://maps.google.com/?cid=11495570623908230271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Toddler Friendly",
+        "Beach",
+        "Good for Groups"
+      ],
+      "rating": 4.8,
+      "ratingCount": 5726,
+      "website": "https://www.cinnamonhotels.com/cinnamon-bentota-beach?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "photoRef": "places/ChIJvRNrbpAu4joRfzR3iJN4iJ8/photos/AcnlKN0pB27bw0SZDTVMY4JZ7khlMbuSmTXBYDqPf3phDGjekCG0X1-eAUrLYMx9ke2Jj_EzwlLm98KGZOYZf1dYKfSFxwgruseMwHJAr-acjy8ZImPQOOX-Vw8l5nJZkkgW5yO8LkimK5s1X1tTO1rooaO-ioJsbX4Xf9EBzLRTB0jxvngLcTgCMYlXIb8y8SAyF3njSTAdnP99GrvtU0rNSTqoD5_X0Ck_toVhyH9WCx9coijlRu8QcdzqRBxQ8hSfkjt0hWPVGftjNlsAxiKP6CK_qI_upVWLcWJjM3ISBcysjwA9ND9zCASdLms22SnzA1iaPipNLMDdpVocisQ6tdVx9bOSqGREizibC8JIbqLX7bD-8SV1zckGNHX-xKQyzRCSLY6MeNRw3TBs3N691TQ8uf2dTT_X-C6N0eoXc0DmBQ",
+      "photoAttribution": "Thisura Wijewardena",
+      "placeId": "ChIJvRNrbpAu4joRfzR3iJN4iJ8",
+      "phone": "0342 275 176",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Galle Rd, Bentota 80500, Sri Lanka"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Pettah Market",
+      "coord": [
+        6.937201699999999,
+        79.854187
+      ],
+      "desc": "Bustling urban bazaar, local crafts, souvenirs, spices, vibrant street culture",
+      "longDesc": "An energetic market in historic Fort district showcasing authentic local crafts, spices, and souvenirs. Perfect for families seeking genuine Sri Lankan goods and cultural immersion.",
+      "gmapsUrl": "https://maps.google.com/?cid=15604811169442259498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4,
+      "ratingCount": 4441,
+      "photoRef": "places/ChIJYZELmiFZ4joRKmKnrRRtj9g/photos/AcnlKN0aDDVDMKATuqsDdpGIcS_DS-UxMhl2o3J9KxsYnmiYz8w0MuipLnxP8YkT7b6CsUyBEIXtH5g4k29mEqRAyBpVrjBaUbTPC_3EpkL5qn9wiwisGbYDF2XZiI80Ztsw-RB_7HVN2q8JqdZ64Dzwa9Dha6dV_Gqa3m_2mXOUrE8bQxhcMzlqcOtMjPuPJ0uGqVhdVll6-6CmYK5EHGEJOD4c6xxopczs1Vvyx4IkWllqDIjyIqFkMVsGD5XYZ6ghb_M2HBDkehD_gc1vnoqy2FxbB8EMVk39epV5Mp8EAJx7ynaJv3O324rkAdtgGuK4pCDJbWDSXlI4l3CLeqtOhMUzbsU6EKHsiFidxo2CPYqJ2KyR0pCmDQG4ga42FQRcBl23jha2c6m0ip6wosQ30xY0CwaMTjtKexN3n4JpHIsqOg",
+      "photoAttribution": "Clarance Artist",
+      "placeId": "ChIJYZELmiFZ4joRKmKnrRRtj9g",
+      "phone": "072 565 2773",
+      "hours": [
+        "Monday: 8:30 AM – 7:00 PM",
+        "Tuesday: 8:30 AM – 7:00 PM",
+        "Wednesday: 8:30 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:30 AM – 7:00 PM",
+        "Sunday: 8:30 AM – 7:00 PM"
+      ],
+      "address": "WVP3+VMM, Keyzer St, Colombo 01100, Sri Lanka"
+    }
+  ],
   "cityCenters": {
     "Central Highlands": [
       7.2685,

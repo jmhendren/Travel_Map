@@ -28,7 +28,8 @@
       "tags": [
         "Wellness & Spa",
         "Splurge",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -60,7 +61,8 @@
       "tags": [
         "Splurge",
         "Photography Worthy",
-        "Art & Design"
+        "Art & Design",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -93,7 +95,8 @@
         "Splurge",
         "Outdoor & Nature",
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -105,9 +108,155 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "(604) 233-0460"
+    },
+    {
+      "name": "Dunlin Auberge",
+      "desc": "Luxury auberge property featured in Condé Nast Hot List",
+      "longDesc": "A premium auberge property recognized for excellence in North American hospitality and design, featured in Condé Nast's curated Hot List for discerning travelers.",
+      "coord": [
+        47.5370037,
+        -79.6729711
+      ],
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Reservations Recommended"
+      ],
+      "rating": 3.9,
+      "ratingCount": 139,
+      "website": "http://www.theauberge.ca/",
+      "photoRef": "places/ChIJ1b9YNn58Jk0RdO2asPM1YHw/photos/AcnlKN0MWueykLS9U3U0gXYyfvr-CGK9RrhuDkuDJRIZfYtRIQPEr4ex4DNZAZ8Y_x1zeB3SnVEzg2wku5Cjl2p-UvdFnF9CK7PrV89p3eqgobomBQNUg8VhyWn4HdF2T3C8ck_MnD0bTBA2B2AXj0bDostNTi7FYIxtjHsiKAnE_MUbWGLORLH9RFCvKk0oy_XAqi1a6ynqg16rEojaZ_IzyohVewsrr9v9hAGV6fnolYnemiBIIxg25gKSF9UHZUFoo7HHeJ0vy07UqqshPNxRbJ6qWv53ko0aQ0h2KiHrh_IJo1MzcY7aD8PilwZxwQTTxL5k5VIKFI_L9VF159NT1QEJUNrvRgB5EXOnawilrGc24Cjb-Bz5NwLP7oKmmVsNfJjkbUxRlXJ1batLcEMKr01Z50VpbHTjHRCpxwC0Mv8W1pJP",
+      "photoAttribution": "Aldo Debettin",
+      "gmapsUrl": "https://maps.google.com/?cid=8962222579223555444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ1b9YNn58Jk0RdO2asPM1YHw",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "200 Drive in Theatre Rd, Temiskaming Shores, ON P0J 1P0, Canada"
+    },
+    {
+      "name": "Fairmont Banff Springs",
+      "coord": [
+        51.164331999999995,
+        -115.56183
+      ],
+      "desc": "Historic castle-style resort, mountain views, spa, fine dining, family activities",
+      "longDesc": "A majestic castle perched in the Canadian Rockies, offering world-class amenities and unforgettable views. Perfect for families seeking luxury combined with outdoor adventure and exploration.",
+      "gmapsUrl": "https://maps.google.com/?cid=43322584249726670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Photography Worthy",
+        "Wellness & Spa",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 16559,
+      "website": "https://www.fairmont.com/en/hotels/banff/fairmont-banff-springs.html?goto=fiche_hotel&code_hotel=A550&merchantid=seo-maps-CA-A550&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTIzNjEzODctNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+      "photoRef": "places/ChIJv7gvLjvKcFMRzvb0LKnpmQA/photos/AcnlKN1U46SiKDNLVmL0VDxtrTZ1s71p3eIX2pqXFPReSdp6uEyprHn2n1avhuux9XLUgFBO0EJfPJMZfS9lwH3RAMMi2UiBb3CqhQESY3PuWipSOw2c2CW1_UmFFFcGRdAVBo9UA5sVHoeoGoX0w1-Qg8XS-fV6J3oJheZZBHLuVyMaeV3lRveM4j5rBtJJuau2KmgfCAEvu1s_OmIUrsi7-rCEkV8zU7mka1nTTiYIGUcaps1Anp2T8BoH3UOSicq4Fn6NjSCOPu36ZHU9Rcec4OOsG7wtFYTDsgvN9PS72C5dgg",
+      "photoAttribution": "Fairmont Banff Springs",
+      "placeId": "ChIJv7gvLjvKcFMRzvb0LKnpmQA",
+      "phone": "(403) 762-2211",
+      "address": "405 Spray Ave, Banff, AB T1L 1J4, Canada"
+    },
+    {
+      "name": "JW Marriott The Rosseau Muskoka Resort & Spa",
+      "coord": [
+        45.168661199999995,
+        -79.6419038
+      ],
+      "desc": "Lakefront cottage resort, waterfront activities, boat rentals, family cabins, dock access",
+      "longDesc": "A charming lakeside retreat in Ontario's cottage country offering cozy cabins, water activities, and pristine natural surroundings. Ideal for families wanting authentic Canadian cottage experiences.",
+      "gmapsUrl": "https://maps.google.com/?cid=9442743262880747684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Toddler Friendly",
+        "Beach"
+      ],
+      "rating": 4.3,
+      "ratingCount": 2174,
+      "website": "https://www.marriott.com/en-us/hotels/yqajw-jw-marriott-the-rosseau-muskoka-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJ-eSvWwNZKk0RpFA4wfdcC4M/photos/AcnlKN0dhyLecbHIrHzwK4Ft4tNzMZNquIbV_QYyJip5bwo21ovt7gbsCJ-OJRezgOdNo5NWkUaA3Cjh6GSESrsYzJhlj94PNtYUhWdV4vcvKZT0z57dlaW5tw4yzE9-h2_IjQMpR8Xhm9Ia3SGoIub_gj_-K6OU-B4j2VE7t9XHYiTFiPn8gB7Ie7BwKAKHrfUlG3XiC7eoHsLVmM4N61n60tveoOeOsg7b7P6_Up6S1EpXWUB1IslL5fzLRy_bQT3gC-_c7lG9Lwjh4FAll0hAKF7NhEb2hIYC4bsdOZP8QXmcjA",
+      "photoAttribution": "JW Marriott The Rosseau Muskoka Resort & Spa",
+      "placeId": "ChIJ-eSvWwNZKk0RpFA4wfdcC4M",
+      "phone": "(705) 765-1900",
+      "address": "1050 Paignton House Rd, Minett, ON P0B 1G0, Canada"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Alo",
+      "coord": [
+        43.6484905,
+        -79.39594149999999
+      ],
+      "desc": "Award-winning fine dining, innovative Canadian cuisine, tasting menus, elegant ambiance",
+      "longDesc": "An acclaimed farm-to-table restaurant celebrating Canadian ingredients through creative, multi-course experiences. A special occasion destination for adventurous families seeking culinary excellence.",
+      "gmapsUrl": "https://maps.google.com/?cid=15014388871101470235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Reservations Recommended",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2126,
+      "website": "https://alorestaurant.com/",
+      "photoRef": "places/ChIJryijc9s0K4gRG9aU7SDTXdA/photos/AcnlKN2ax5rBgA9IgoUB75Xmf-ruYhwrDXLDRd2zqNl0dj45QcWOkgUfdJi-mXzMpyIKObwJFYWksaDZYT5DYg1s9A4tHztUrkkJqZCEhpSFtNZCHkJa3xGdIvH9QraEe4T9p-Xo92KjScROKzyOcRVfVrKipE8A-SwnX5RmjiIdaXTIMKQayL53YY_tBn_phaaewncSYPdAJjH0DuTduotSUcPbsLk3MlvVOe9u7Qv8Pz8AkWMYbybKPtfou2A4A30XFmd7nOpi3A2ojiJGCWDG_fOR9fKc34wZbWF_lbCLLXLziQ",
+      "photoAttribution": "Alo",
+      "placeId": "ChIJryijc9s0K4gRG9aU7SDTXdA",
+      "phone": "(416) 260-2222",
+      "address": "163 Spadina Ave., Toronto, ON M5V 2L6, Canada",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Beck Glass",
+      "coord": [
+        49.271717699999996,
+        -123.0748581
+      ],
+      "desc": "Casual brunch spot, creative cocktails, local coffee, welcoming vibe, family-friendly patio",
+      "longDesc": "A trendy neighborhood café and bar perfect for leisurely family brunches and relaxed lunches. Known for excellent coffee, playful cocktails, and a welcoming atmosphere for all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=6137660103020611861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Coffee",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Brunch",
+        "Breakfast Spot"
+      ],
+      "rating": 4.1,
+      "ratingCount": 100,
+      "website": "https://beckglass.com/",
+      "photoRef": "places/ChIJI765Kil4hlQRFYmhUFhZLVU/photos/AcnlKN0aGXr0xQb8yvyzTgLOi0kkD5R7Gg0tI6ZHjBWP5KlONry-FZtGPh0qS9VpjsK4EUapWvQvBQjw6BzSO6bQteiP33yf4o8tfa-aaLGuEecQiK69f7-wde8nijRsTgfIAum_poZwmWnh9ZW0k1eUCEpTiUGwYBpGgKbY9GISYa8H4eu9rSTpFHqjhnJ5SVzn5vS-7scySpWHjb8p3RmAfJIepm1VHI4d_wYBV-fGxnGlGzbKc8loa9fVcajViPVq4T3s5cf68O82HEVxc5oc4N0irqjywl_bmUvhKXaQBaFFAg",
+      "photoAttribution": "Beck Glass",
+      "placeId": "ChIJI765Kil4hlQRFYmhUFhZLVU",
+      "phone": "(604) 421-8111",
+      "hours": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "1423 Grant St, Vancouver, BC V5L 2X9, Canada"
+    }
+  ],
   "experiences": [
     {
       "name": "British Columbia Coastal Rainforest",
@@ -128,7 +277,8 @@
       "tags": [
         "Adventure & Active",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Full-Day Activity"
       ]
     },
     {
@@ -151,7 +301,8 @@
         "Family Friendly",
         "Adventure & Active",
         "Splurge",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Full-Day Activity"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -163,10 +314,118 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "(250) 200-1151"
+    },
+    {
+      "name": "Canadian Museum of History",
+      "coord": [
+        45.4298745,
+        -75.7082739
+      ],
+      "desc": "Interactive exhibits, Canadian heritage, IMAX theater, family programs, artifact collections",
+      "longDesc": "Canada's premier history museum featuring engaging interactive exhibits and immersive presentations. Families discover the nation's diverse stories through hands-on activities and stunning artifact displays.",
+      "gmapsUrl": "https://maps.google.com/?cid=12279286298702380228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day",
+        "Cultural & Historical",
+        "Toddler Friendly",
+        "Playgrounds"
+      ],
+      "rating": 4.6,
+      "ratingCount": 13949,
+      "website": "https://www.historymuseum.ca/",
+      "photoRef": "places/ChIJL-0QIPEEzkwRxPx5idTJaKo/photos/AcnlKN2bxrACYiURFRmBZQKjBfvkAX9gvgDARWcYh6SNb_tTf_WJwOqh4hQaG-5iqCpJ_X1sQE-YcDr4iVafofCTUDSNbwC93O-q2oNnUCABd_lW7-wl7ogyPbaKGGmoi2cBnv1oRX9YzXepWP1kj0w8izk3K4W2vzFgQuCLEc0x6jVSIA0Gg7bqoSzCUJnyuCdJwzljgheSJCqv-E-lIR1ZjNiTeSuzgyb4a_48RMdQaKpCyHwUZEjGPQcLRowfkxlnkYrfsN_ac2s9EAtR3lD0lNtPchCqiAKXKJCxX5y6KhrlHd2CH3i9N2U_Btz5M_ad_yysverGqi_r18IdkyhRlH-pxGRmzGQY2MJkiaUAhyIu9r8_Gh4tQzXKEWYtP1CqsYe8FQ5IB67nwxypKKKpEXLhuNU2HZhuZAunIzDgYGbESA",
+      "photoAttribution": "Sylvain Perrier",
+      "placeId": "ChIJL-0QIPEEzkwRxPx5idTJaKo",
+      "phone": "(819) 776-7000",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "100 Rue Laurier, Gatineau, QC K1A 0M8, Canada"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Toronto Zoo",
+      "coord": [
+        43.817866699999996,
+        -79.18543729999999
+      ],
+      "desc": "Large wildlife zoo, endangered species, animal shows, splash pad, themed pavilions",
+      "longDesc": "A sprawling zoological park housing over 5,000 animals from around the world. Young children delight in observing exotic creatures, enjoying interactive shows, and exploring beautifully themed habitat zones.",
+      "gmapsUrl": "https://maps.google.com/?cid=11392271285188539864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Playgrounds",
+        "Good for Groups"
+      ],
+      "rating": 4.4,
+      "ratingCount": 36075,
+      "website": "https://www.torontozoo.com/",
+      "photoRef": "places/ChIJzdqWrfHZ1IkR2LWLAmB6GZ4/photos/AcnlKN0ieeyKhgHDPYpJsO6i2MEAXVkDdtDoFmSQme-_283WgjOiEeGU1SNhE1qWpn_QlbOXC5BYOG4b6mieFRnwDM9ev5xkpncx1AMpKDEmdHQir5WW3U2S491cu9uxVb01SDEmNVFbgctZXXkaf0aYkEx8Zbo-CIggrF0R6Z2ziyjAlQCn4Xly7vuB8yfrdcntwMc8eEbkKOCF3-Qf9ArAspid7bplTnZD3-fKZ494P0tficezMHWVqeKhQbEuAqEvwgnf5ODfGgyWcwTQQe5pAnP4jDb4DR1QAJ0gAGWsQMLKfKakkYt3ilIbr28XnuK8GjgQWGxfZdPj5zcSgmVDj1emJg8ErDURFLXTDiTsRU0EFTUrtB2GPDnjQ2CMy_-LPwkHc9biZLLYYp7QeTGuwivCMSiOAL15W_GKleNOzz8oHw",
+      "photoAttribution": "Elizabeth B",
+      "placeId": "ChIJzdqWrfHZ1IkR2LWLAmB6GZ4",
+      "phone": "(416) 392-5900",
+      "hours": [
+        "Monday: 9:30 AM – 4:30 PM",
+        "Tuesday: 9:30 AM – 4:30 PM",
+        "Wednesday: 9:30 AM – 4:30 PM",
+        "Thursday: 9:30 AM – 4:30 PM",
+        "Friday: 9:30 AM – 4:30 PM",
+        "Saturday: 9:30 AM – 4:30 PM",
+        "Sunday: 9:30 AM – 4:30 PM"
+      ],
+      "address": "2000 Meadowvale Rd, Toronto, ON M1B 5K7, Canada"
+    }
+  ],
+  "markets": [
+    {
+      "name": "St. Lawrence Market",
+      "coord": [
+        43.6486879,
+        -79.3715454
+      ],
+      "desc": "Historic public market, local produce, artisan foods, vintage vendors, community hub",
+      "longDesc": "Toronto's vibrant indoor-outdoor marketplace showcasing local farmers, specialty foods, and artisan goods since 1803. Families enjoy sampling Canadian treats while exploring diverse stalls and historic architecture.",
+      "gmapsUrl": "https://maps.google.com/?cid=14558648499821721341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Good for Groups"
+      ],
+      "rating": 4.6,
+      "ratingCount": 41345,
+      "website": "https://www.stlawrencemarket.com/",
+      "photoRef": "places/ChIJWyfdtDHL1IkR_bal8ay1Cso/photos/AcnlKN02vu8vLuGImQZaVYdo7Dd24wbI3MrtuWDnq8ymIy5mEiQW0rSM6YSXgCHI-GXNAQdCrRrTFWRJ7NNC3IQy6zjGiEtatJCoOAJGfsa4LBQaZPvDO_SLLVS8Nh6CZjG2d3lmNGSO28CqB9Uli9RNcn0uTK0mWyXN9SFkYD1Rtmo8Ycqyw24PIH3oUxd6W6FZLB6WjB-FLQZ3XnT5S3Y5fx2OGKzEOCEdSKWFPqQMPnoXXrSYzVwQANxhciY_zGAxNTmAIaaO7DNgtx2_r5MVbnoXi8-uVzWiTyT2FjB6xoi4ZA",
+      "photoAttribution": "St. Lawrence Market",
+      "placeId": "ChIJWyfdtDHL1IkR_bal8ay1Cso",
+      "phone": "(416) 392-7120",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Toronto, ON M5E 1C3, Canada",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "cityCenters": {
     "Alert Bay": [
       52.8182,

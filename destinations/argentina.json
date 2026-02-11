@@ -29,7 +29,9 @@
         "Romantic",
         "Splurge",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Afternoon Wine",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -41,12 +43,418 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "0261 476-9831"
+    },
+    {
+      "name": "Fierro Hotel",
+      "coord": [
+        -34.5789164,
+        -58.4353828
+      ],
+      "desc": "Boutique luxury hotel, San Telmo neighborhood, rooftop terrace with city views",
+      "longDesc": "A charming boutique hotel in historic San Telmo offering personalized service, stylish rooms, and a rooftop terrace perfect for family gatherings with panoramic Buenos Aires views.",
+      "gmapsUrl": "https://maps.google.com/?cid=244958675688481906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Art & Design",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 792,
+      "website": "http://www.fierrohotel.com/",
+      "photoRef": "places/ChIJi41175O1vJURcuQPIZ5EZgM/photos/AcnlKN309uu4a7z4yE23XIYsuc_DXOGTPgq0y2XmbNQEwiSRvQff1G_BSMOm9QBPPvpEVHQkPIqIGPfn7HLqg79hyRLNbIwqjRdt77jWyaEKhJa_uX9Of6udliollIoV1TH-bvHx-sgFA14GkEAmR54xwQWR3ISRCL42qXMSDE_XDUCaHE51AufV6sKjcwS86P8ZYXTpULD_0GPsNj9RtdIwmV_MlLc5muQGvYR7OWswQf2mfPtaoOHC6qqkwlgo1n3ObtK-LFr0scGa5Ejti26cDtbFxe2AZfwA8iyCila6bXbUcA",
+      "photoAttribution": "Fierro Hotel Buenos Aires",
+      "placeId": "ChIJi41175O1vJURcuQPIZ5EZgM",
+      "phone": "011 3220-6800",
+      "hours": [
+        "Monday: 12:00 PM – 11:59 AM",
+        "Tuesday: 12:00 PM – 11:59 AM",
+        "Wednesday: 12:00 PM – 11:59 AM",
+        "Thursday: 12:00 PM – 11:59 AM",
+        "Friday: 12:00 PM – 11:59 AM",
+        "Saturday: 12:00 PM – 11:59 AM",
+        "Sunday: 12:00 PM – 11:59 AM"
+      ],
+      "address": "Soler 5862, C1425BYJ Cdad. Autónoma de Buenos Aires, Argentina"
+    },
+    {
+      "name": "Home Hotel",
+      "coord": [
+        -34.5822287,
+        -58.4391453
+      ],
+      "desc": "Design-focused boutique hotel, La Boca district, contemporary art installations",
+      "longDesc": "An artistic boutique hotel in vibrant La Boca featuring contemporary design, colorful surroundings, and easy access to cultural attractions and family-friendly neighborhoods.",
+      "gmapsUrl": "https://maps.google.com/?cid=14110492015214099825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Art & Design",
+        "Splurge",
+        "Photography Worthy",
+        "Hidden Gem"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1255,
+      "website": "http://www.homebuenosaires.com/",
+      "photoRef": "places/ChIJmfrt3JK1vJURcX3SLLqJ0sM/photos/AcnlKN11gAFvnwlyjE5nKoBsSV3PzgjlA9-vyr2rkjihTnUzvcCLfnz_iBqlm7fwGHSvoiDDiohpw1n95Cf9a5XwPIV7fvtWeAT_C4t0R5Q4MQsNR6cAMyOWKPWwm4lX3ZiYE5g23phfSaRb0SGHlmfOFEzCu4i15EQrFKWot_2Lsyrs1j0_upSKF6kvgbl7jfIyKRtiE70Jree99eIn_FNQuxp8iXlC04Q_Fdd5pzQP-MPqbAVqFLbZKfk_BkAYzJ8pOAmNaPlYa3XHWjeVc7QxHrH6y36T4rDLjuHJRENdgvNfGg",
+      "photoAttribution": "Home Hotel",
+      "placeId": "ChIJmfrt3JK1vJURcX3SLLqJ0sM",
+      "phone": "011 4779-1006",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Honduras 5860, C1414BNJ Cdad. Autónoma de Buenos Aires, Argentina",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Hotel Legado Mítico Salta",
+      "coord": [
+        -24.782045,
+        -65.41035099999999
+      ],
+      "desc": "Colonial-style boutique hotel, historic Salta city, traditional architecture, family rooms",
+      "longDesc": "A charming colonial-style hotel in historic Salta featuring traditional Argentine architecture, comfortable family rooms, and prime location near plazas and cultural sites.",
+      "gmapsUrl": "https://maps.google.com/?cid=3615840474366562155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Budget Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 259,
+      "website": "https://legadomitico.com/salta/",
+      "photoRef": "places/ChIJe7_h0r7DG5QRa08Z_8ALLjI/photos/AcnlKN22vNpXikQanuTwWz1a6TSbci9e46hvzwLqN4MAYo6Gxt824C78hauZ-KK3BQYUIMFJbszGmsnMxfXIwwU1V2aSP5ETFp3QGmU5f5ES-e3m7Al_cTOc0SY5PatOM91drHO5dHtViXfvQS7aHBvJY48BF4fF6nR72Gbp6b2F73JXpKdSX9M0lBQrzJGW2cKHbv_saQac7y8IeSJ-thchWKenTObA0BYtarBkmZBY31o29kNGqtahAPxBqKonJ2-74LhBQjNRJe737qjsl1ZRQ05tAczokBGt80rFF5tCP214bQ",
+      "photoAttribution": "Hotel Legado Mítico Salta",
+      "placeId": "ChIJe7_h0r7DG5QRa08Z_8ALLjI",
+      "phone": "0387 422-8786",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Bartolomé Mitre 647, A4400 EHM, Salta, Argentina"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Hotel Casa Crespo",
+      "coord": [
+        10.443657,
+        -75.5202381
+      ],
+      "desc": "Fine dining parrilla, grass-fed beef, wine pairings, intimate atmosphere",
+      "longDesc": "An upscale steakhouse showcasing Argentina's finest grass-fed beef with expert wine pairings, offering a memorable dining experience for special family occasions.",
+      "gmapsUrl": "https://maps.google.com/?cid=12368010563590788440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Reservations Recommended"
+      ],
+      "rating": 4.3,
+      "ratingCount": 392,
+      "website": "https://www.booking.com/hotel/co/casa-crespo-beach-65-148.xu.html?aid=2258729",
+      "photoRef": "places/ChIJIWEPk10l9o4RWJUbPRQApKs/photos/AcnlKN3cNvGHq1wZ7AgPihHD01HHTmnHeD73IseZrz_w_Dx44PbwGQoS4aiQv0z85anCZPZZ4OMLimOCfBxRy4nECBkTP_4SCnsrat7v9la00vnSXwCmoH9KBUSgDSkAgi5T5-TZp-35O5HlYXrVmMpISbulQWNJJX0tX-y-4ykmb8SmWXDLBy5vWwMR3SvbA_42gVFoOnLK_zG_dEv3Jxm0ZjoDeKbake7mOwhZruHx-E0AbNtYX4TukzwsXXvJYn3yNRgJcA_I7GUsejz4WcnUSPEwxo7gw-vjFaDrboE_E76IFA",
+      "photoAttribution": "Hotel Casa Crespo",
+      "placeId": "ChIJIWEPk10l9o4RWJUbPRQApKs",
+      "phone": "316 1111081",
+      "address": "a 65-148, Cra. 2a #65-2, Cartagena de Indias, Bolívar, Colombia"
+    },
+    {
+      "name": "El Querandi - Cena Tango Show",
+      "coord": [
+        -34.6117328,
+        -58.3746185
+      ],
+      "desc": "Traditional Argentine restaurant, tango shows, local cuisine, cultural experience",
+      "longDesc": "A beloved Buenos Aires institution serving authentic Argentine dishes with live tango performances, providing families an immersive cultural experience with delicious traditional food.",
+      "gmapsUrl": "https://maps.google.com/?cid=18167115467285874337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Local Delicacies",
+        "Family Friendly",
+        "Reservations Recommended",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.4,
+      "ratingCount": 3567,
+      "website": "https://querandi.com.ar/",
+      "photoRef": "places/ChIJG_AaYdTKvJURoUYUlUOPHvw/photos/AcnlKN3gh2soBzF10rR43U3KEhHPPUFnJCxa7epcgfRwpX2sFa1EXDQ_1VV2-tPG68S1EfAnpaKvR20o-Bhc_0Mscukwt4U8X694P52OtmJrVbLCYqpsYqCtduW_E3qpCdGYliBuLeexagpyRlgJOGyW9Anoc_mcWFyKlz2SfSIWn0F5chozeL7EsBI-UjqTLJlSvr1e7AaGhxb6gkpS4ijQWMXlKwbUbFFEsYydJqXm0w0R_dsrXvAeyaixp7pZDMPRFG-cXd6lx3QL3xraEI11cBLXk8th7VxCppKXTx5SqYONIg",
+      "photoAttribution": "El Querandi - Cena Tango Show",
+      "placeId": "ChIJG_AaYdTKvJURoUYUlUOPHvw",
+      "phone": "011 15-3848-5242",
+      "hours": [
+        "Monday: 10:00 AM – 11:30 PM",
+        "Tuesday: 10:00 AM – 11:30 PM",
+        "Wednesday: 10:00 AM – 11:30 PM",
+        "Thursday: 10:00 AM – 11:30 PM",
+        "Friday: 10:00 AM – 11:30 PM",
+        "Saturday: 5:00 – 11:30 PM",
+        "Sunday: 5:00 – 11:30 PM"
+      ],
+      "address": "Perú 322, C1067AAH Cdad. Autónoma de Buenos Aires, Argentina",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Café Tortoni",
+      "coord": [
+        -34.6086531,
+        -58.3782121
+      ],
+      "desc": "Historic café, 1858 establishment, hot chocolate, pastries, literary heritage",
+      "longDesc": "Buenos Aires' most iconic café since 1858, famous for rich hot chocolate and fresh pastries, offering families a glimpse into Argentine literary and cultural history.",
+      "gmapsUrl": "https://maps.google.com/?cid=5911962012960146477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Iconic / Must-See",
+        "Breakfast Spot"
+      ],
+      "rating": 4.5,
+      "ratingCount": 39059,
+      "website": "http://www.cafetortoni.com.ar/",
+      "photoRef": "places/ChIJ01wendHKvJURLcQXvCCCC1I/photos/AcnlKN1GHv0iKhSDqhOdcZcsQtlTLnm-Z7QKnyub2RTlSd5hrsuV3VZI3eMjJpPBguctXxU4LWmfebS3L-kgpoEyMvpVOtTYoWHFekX5BBHUtIyk_eBbGw5A4z5DZOxCJzYLvGrVRn9TOr-l9Xe5G-JIZtTBHf8SmYKYZ0BPkUXxJa8GER4BwLSEIefkAVCMeRbU3KV8wKFIlK2HzMP7aWwhX6j2pKzdKSw6PMyasmVAYNfWucgQhG0Q2bTJtE9nzhZ_EcfXv_CAkoiob6M0GlAENdui7pb1c1YBjf7Yb-ld-gGo_Tskm8LVc3clP2RAISFHP0lgP4pJ4nZUypCP7PkxM4kD4st9LBZ1sM3cJut4khpOiQwBTmlciWvK0jUiq9OD9bwokH0JPoBH9N5Ojiy4N6VbGTIbKd3u4k2-43OGhxSzFOLgglowM0UAwmV4SGuD",
+      "photoAttribution": "L*oo*J",
+      "placeId": "ChIJ01wendHKvJURLcQXvCCCC1I",
+      "phone": "011 4342-4328",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "address": "Av. de Mayo 825, C1084 Cdad. Autónoma de Buenos Aires, Argentina",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "San Telmo Antiques Fair",
+      "coord": [
+        -34.6206425,
+        -58.37222059999999
+      ],
+      "desc": "Casual market eatery, empanadas, local snacks, Sunday gathering spot",
+      "longDesc": "A lively Sunday market with casual food stalls serving authentic empanadas, local snacks, and street food, perfect for families seeking budget-friendly traditional Argentine bites.",
+      "gmapsUrl": "https://maps.google.com/?cid=13481442954037015123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.5,
+      "ratingCount": 2645,
+      "photoRef": "places/ChIJodpTUM00o5URU7IRX_C0F7s/photos/AcnlKN1YidLuWGTMjj5A8fEgoOwLgTCZpWnIKAExYXyS8N_vlb6zcOPzLHo8TXq9fjzr-xn_sz1v0ZlxVqO8lQFvRXgFBSISDhzBu7CO7ABpxFAVwBEiL_gwxhg-G5DCQjUKmPiKC0ZQ1v7fijVZRe3rxUhrkWZYNtUBIrY1bsocIHJTdPe--zSXmc_wH7ZLnupkbqMS_h-MrHeKmFn33AZuIs99h3Hcoiyov6jHshzsLvoSvWT9HUUj08cTibW_8j3xIRTV1it0swnlaHTLIk5JgcVTaPD1fwJKYfTJ50x94Ku6XLZsz32PFoaQ3LvmcSEloWccMMq8AyI-2q1ERVb_9gQVgsKEZdWhMbNLi6vtNWAawIpZBBXUigs9IMx65Cg_lTaSVGHhfMGtOes7UJc_SGcvy5ZvsuCbG-ijgaAK_SieNWRn",
+      "photoAttribution": "Paulo Vitor Herrmann",
+      "placeId": "ChIJodpTUM00o5URU7IRX_C0F7s",
+      "phone": "011 3181-5188",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Humberto 1º 401, C1103 Cdad. Autónoma de Buenos Aires, Argentina"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Teatro Colón",
+      "coord": [
+        -34.601152,
+        -58.3833278
+      ],
+      "desc": "Iconic opera house, 1908 landmark, guided tours, architectural masterpiece",
+      "longDesc": "A stunning 1908 opera house offering guided family tours showcasing Belle Époque architecture, ornate interiors, and rich cultural heritage in the heart of Buenos Aires.",
+      "gmapsUrl": "https://maps.google.com/?cid=5996665133387583913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.8,
+      "ratingCount": 85539,
+      "website": "https://teatrocolon.org.ar/",
+      "photoRef": "places/ChIJIxYSMMbKvJURqZGJyCpvOFM/photos/AcnlKN21gUnemCpwPeEoGIgSF1dSTtH_JYhfFyV3c7dmfboS65ypAk14rqb0dTCvgu28dpaW6AMAemEnOGAV-3XRL52gnJnUnh_zoA2rWbvzU9AKxpl_qN7NSi_F8iw7ZEif7J2FRi95yygyn_VR_jIAKULKp1r5yqG-2Iq1Vda4MNZThXU_orgv8NSwcdK7eAJ8puCQTwUH3A38a2KYCUhyfjJWlDJPnW1P7DRdInS1mGeyJXXN_CLSgDyMNfucqmw3NhhbnNs8Yv0prL0t4pzNo-kSc1uKFJWabnQv-7Pk5ncC1144PMEI7WD-JS1cxE1K3GdndbK9qmQXYX5Z7E8l6d_YECt7foPQf7A-Z0uHaE9W0IvYwCA1PKywrdK2WZNp8Dwq9wC3Wh76nIw1fVf4a8tE-bev6QvLFDbfvAfSYZ8Frw",
+      "photoAttribution": "Alyssa Miranda",
+      "placeId": "ChIJIxYSMMbKvJURqZGJyCpvOFM",
+      "phone": "011 4378-7100",
+      "address": "Cerrito 628, C1010 Cdad. Autónoma de Buenos Aires, Argentina"
+    },
+    {
+      "name": "Bernardino Rivadavia Museum of Natural Science",
+      "coord": [
+        -34.6051463,
+        -58.4376677
+      ],
+      "desc": "Natural history museum, dinosaur exhibits, interactive displays, kid-focused collections",
+      "longDesc": "An engaging natural history museum featuring impressive dinosaur skeletons, interactive exhibits, and educational displays that captivate children and families for hours.",
+      "gmapsUrl": "https://maps.google.com/?cid=9979569839218361454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day",
+        "Good for Groups"
+      ],
+      "rating": 4.5,
+      "ratingCount": 25112,
+      "website": "http://www.macnconicet.gob.ar/",
+      "photoRef": "places/ChIJgZtFc23KvJURbgTQDeWNfoo/photos/AcnlKN0ZKSKZaqpqMaTei8KWQSFItNEyRiMyNnajT520DHAXT_Hcq8Lc84ekiDCCpOM2upoeDyomtG3LQBDQoFF1HUWZfB0PFDyzJoOuhFAccQ7Cg47u7aaB2rwwEZT6jtNViBUJvJrwvVR22MRgU5jTT0pYTE7VWCkN49lJrWKn3QTJ57szvLIS090V31BI7d56BN2PTO4zn46DRQDJ3BBIlOkHcFCaELThRfDhtNl7jbHgTMgmuAJZqRTmmT0U6fDXAnCG0-4esIWC19feFkNJgA5Tn-vlSk6NY7qveLZsz17VQ5UqlWssVV_zPm791UIlMvuSUViiXEA3I2g_gIZHztOwIRGehCTXdjJ0_WqLLQdw6nhlQ3-TzDzo8E-26wl-5mS10VVknhCs9m_Nv3j0M0sdLo3I-KUx9dPWXoJ31iavQw",
+      "photoAttribution": "Gustavo Villanueva",
+      "placeId": "ChIJgZtFc23KvJURbgTQDeWNfoo",
+      "phone": "011 4982-4494",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 2:00 – 7:00 PM",
+        "Wednesday: 2:00 – 7:00 PM",
+        "Thursday: 2:00 – 7:00 PM",
+        "Friday: 2:00 – 7:00 PM",
+        "Saturday: 2:00 – 7:00 PM",
+        "Sunday: 2:00 – 7:00 PM"
+      ],
+      "address": "Av. Patricias Argentinas 480, C1405 Cdad. Autónoma de Buenos Aires, Argentina"
+    },
+    {
+      "name": "Glaciar Perito Moreno",
+      "coord": [
+        -50.4714258,
+        -73.046472
+      ],
+      "desc": "UNESCO World Heritage glacier, ice trekking, scenic viewpoints, natural wonder",
+      "longDesc": "A spectacular advancing glacier offering thrilling ice trekking adventures and stunning viewpoints, creating unforgettable family memories of Patagonia's raw natural beauty.",
+      "gmapsUrl": "https://maps.google.com/?cid=6105208471959480845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 4.9,
+      "ratingCount": 2319,
+      "website": "https://www.argentina.gob.ar/interior/ambiente/parquesnacionales/losglaciares",
+      "photoRef": "places/ChIJHWK7u4gNu70RDarZKsIOulQ/photos/AcnlKN3KB62xusyPx3UhZnvz588i4ySv26hj8QgZb-jcdlMKv-PWFlRRQ3PvpbA40lwri6MSf83wqxnQ5UgU3BDBV4cu6XymIz-kwHyp98epebxyYb08yuWy9G72r8dZuzM4EN5dU3tTiTE7zgAcuLOCJrqB4SLVc8S30l3uXpfkZmGggsJRn5kSC2GqcoVkVxBoT53mNG86k6swhy2zO9syMoSzwkIm63DALkiCT4gpEAuNS_p8p7fd-B0-F9jwhKlPJ16Ku2sO4K7sg09xVRPcb2YNxjy1rNUO9gnsbvBrgGEPvSpmMJEWrY99ZolCHwpNwu2c1W3DyoszLT_JTDWrMatRZKaMPhSoHLzVVqQ2lAG_x0i60g8cLJokdpoD2KnW3KSBAPtbWD0CEdEyVdZ_lO06-QyR0YvbVOwMcbCfBPE92CmH",
+      "photoAttribution": "Freddy Moreno",
+      "placeId": "ChIJHWK7u4gNu70RDarZKsIOulQ",
+      "address": "El Calafate, Santa Cruz Province, Argentina"
+    },
+    {
+      "name": "Iguazu Falls",
+      "coord": [
+        -25.695259,
+        -54.4366662
+      ],
+      "desc": "UNESCO World Heritage waterfalls, jungle trails, boat tours, natural spectacle",
+      "longDesc": "One of the world's most majestic waterfall systems with accessible jungle trails, thrilling boat rides, and diverse wildlife, providing families an awe-inspiring natural experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=10483101301903104126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 4.9,
+      "ratingCount": 124950,
+      "website": "https://iguazuargentina.com/es/index",
+      "photoRef": "places/ChIJbRuqowzq9pQRfphenBd1e5E/photos/AcnlKN2qKRVVPxMcX3NaLYwwm3cncR5a5jKt7KZdEKVZEvA_HwZ4GPp6EPCQOqvegDsib0tpqX_raPmppPYQDqX4Y39pr3vKGGZ-QFnqDRbNbhPW_Rsh2M1SG4_L3LJDErhr5TDBECEDwkF0kAAbiNlSBWJpmQ5EfjsKjglQ0L5bvQ07B_zE8-YDSrA5EwF9S26l_PhiAs_3Bg1EngQTLAElYPOji5I4Zm5qAjXo5go5ytn8MAhZ0ROBJ_fy-80QwP_-vYjNnxssrVmedfZVEsfeSW-VdWwEtvm1cW0ztGKpqTdciVtbrmOolRs84erjK0ffJmYrWgC2R3R0O1LnWEzT19jpqXOPvvybC7oGoYnsbn7L2gZoAHr5z0PZAjm4g6ZygfJt21bG-mU_57N_prO_kjHXJsfRLXQJf7IWPUIqm11gmGON7pLC3_OoWLOg9fMb",
+      "photoAttribution": "Matheus Ribeiro",
+      "placeId": "ChIJbRuqowzq9pQRfphenBd1e5E",
+      "phone": "011 5258-7318",
+      "address": "Misiones Province, Argentina"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Parque Centenario",
+      "coord": [
+        -34.60612570000001,
+        -58.4353388
+      ],
+      "desc": "Urban park, playgrounds, lakes, green spaces, family recreation area",
+      "longDesc": "A sprawling urban park perfect for families with playgrounds, peaceful lakes for paddling, walking trails, and plenty of green space for kids to run and play freely.",
+      "gmapsUrl": "https://maps.google.com/?cid=15012150169060747374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds"
+      ],
+      "rating": 4.6,
+      "ratingCount": 112786,
+      "website": "http://www.buenosaires.gob.ar/ciudadverde/espaciosverdes/parque-centenario",
+      "photoRef": "places/ChIJYeuUiWjKvJURbqivfQrfVdA/photos/AcnlKN0q8OaHt1I4TgS6nqoyNpNto22RCJef4NTNeHIQxjU57zDee-5h8yCxYMie-Bibyn0k5163wRazyh4vE8e7u_2f7WdzNk1o1n5qho7qfn-yTp01vsneBlIxH0VJcxxK16R_WtLHJZh3qoH5m9eWVI49lXShTMs3HVatIJUG3daluXplDjngT78pf5IfrYjauzqwMPNaI5K6rf64xoLWxYmeUSdFKxxG5IimYHhCcnDqRe9hj4lVC7YQxhVoFaOdoZWuIzJewvtRwGh6xnTau1pFtkoID35dcBE7aGRg7eMb3I-fyGc80rJ2rZdVUoIw5crL4tsZAs9Q1zQoPcjSUPv30dLp-Mi4PCymCCGUty8OuJBf-DYhShMX97_9GLQcrikNAvihv6HOQQPBrBQaP1ZG0Vsb2Rn6nrhdWn1K2ZY",
+      "photoAttribution": "Alejo Sarno",
+      "placeId": "ChIJYeuUiWjKvJURbqivfQrfVdA",
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "address": "Av. Díaz Vélez 4859, C1405DCD Cdad. Autónoma de Buenos Aires, Argentina"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mercado San Telmo",
+      "coord": [
+        -34.6193062,
+        -58.37282
+      ],
+      "desc": "Antique market, local crafts, Sunday gathering, artisan goods, vintage treasures",
+      "longDesc": "Buenos Aires' beloved Sunday antique market featuring local artisans, handmade crafts, vintage treasures, and family-friendly food stalls in historic San Telmo neighborhood.",
+      "gmapsUrl": "https://maps.google.com/?cid=8192213105842434178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Market / Street Food",
+        "Good for Groups"
+      ],
+      "rating": 4.5,
+      "ratingCount": 28249,
+      "website": "https://www.mercadosantelmo.com.ar/",
+      "photoRef": "places/ChIJ01hQWivLvJURgrAJYmqWsHE/photos/AcnlKN3YDNQBWiO2111qwOhE2FsL50Uy0gQk56xGic7fhSTGQAlVBqWTdO1OoxBR7JC5_yupBOhp38Mc7H7-keWt3UK9LGFYmE0bzjOWg-Zbi2VnlwQLapMeDlGydJsGj57vDx7R0Txe0bI151lCXqcoUnVk3728MRu7k51fAGSq2BhyJ4W7ayN1Jl9aHNT5Ed_7IQMSIp6PAU-DWjQrSmY1zkRooUatQMPzJPhTBsAGhH84yBndDWmLNxCnQ1lT6iw3s_fUd6ED4Imv9dN7cH8ClecnOHgYrPZNRDGbW-rDOtRi0wwsSgtDJEoLE9g33YrylPKzQAHoJhWU62zGFqL3kygOy2VVgfTtm9meE_CdU_bu0Ku8m0qK6W2I8hbP9g_XAeT2bt9sUTYOi6qXds6ue2vtP8M7ntaNejzubUWjbqrTLFJi",
+      "photoAttribution": "Leo Rotondo",
+      "placeId": "ChIJ01hQWivLvJURgrAJYmqWsHE",
+      "phone": "011 4314-0133",
+      "hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ],
+      "address": "Bolívar 970, C1066AAT, C1066AAT Cdad. Autónoma de Buenos Aires, Argentina"
+    }
+  ],
   "cityCenters": {
     "Multiple": [
       -33.6147,

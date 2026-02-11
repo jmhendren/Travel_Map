@@ -29,7 +29,9 @@
         "Splurge",
         "Adventure & Active",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Scenic Views",
+        "Iconic / Must-See"
       ],
       "phone": "050 3228755"
     },
@@ -55,9 +57,171 @@
         "Romantic"
       ],
       "phone": "050 5517022"
+    },
+    {
+      "name": "Hotel Kämp",
+      "coord": [
+        60.16788259999999,
+        24.9472221
+      ],
+      "desc": "Historic luxury hotel, iconic Helsinki landmark, elegant rooms, fine dining",
+      "longDesc": "An elegant 5-star hotel in the heart of Helsinki offering timeless luxury and impeccable service. Perfect for families seeking sophisticated comfort with easy access to city attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=8147017912346287572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1734,
+      "website": "https://www.hotelkamp.com/en/",
+      "photoRef": "places/ChIJb-mbCMwLkkYR1B0lZKAFEHE/photos/AcnlKN38_nkzAKEqgVTxnbIWlTsBpCs8Ql4EDpw1NLcEPTSD86T1m7nxWoXSvTQyw1lXxzj-NYRhDGMfWB5IaGlv2YlMWqm1A9h7I9YLlRRMJFpVz7XEf87Qh9e_6mqM3fKBhhAtfL6idew_FEQ1PAgCglOjGFIp-QMiK7dwecci4OtpZj6dBaXWpEU24XkR7_1jCz7O5OQUHLqZcjBfFD0wZ_9XVPu2Py3cQiJvqqG5xGjrWZnQvLBLCGc8yeXbF4_kFCyrFrVavDPinssNY7eX1s4P1EJ3KXMtvcly7_xPv3qa_Q",
+      "photoAttribution": "Hotel Kämp",
+      "placeId": "ChIJb-mbCMwLkkYR1B0lZKAFEHE",
+      "phone": "09 576111",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Pohjoisesplanadi 29, 00100 Helsinki, Finland"
+    },
+    {
+      "name": "Arctic TreeHouse Hotel",
+      "coord": [
+        66.5394354,
+        25.7999938
+      ],
+      "desc": "Unique treehouse suites, Arctic wilderness, glass igloos, magical northern lights views",
+      "longDesc": "Sleep under the northern lights in glass igloos or cozy treehouses surrounded by pristine Arctic forest. An unforgettable experience for families seeking wonder and natural beauty.",
+      "gmapsUrl": "https://maps.google.com/?cid=6077548602905317630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Family Friendly",
+        "Scenic Views",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 617,
+      "website": "http://arctictreehousehotel.com/",
+      "photoRef": "places/ChIJHUopOSxMK0QR_tBXDUHKV1Q/photos/AcnlKN0ySzTkO0I38PCWWMFV-Cgidl3y_4YipVLJeodFETW5aZYVvaeyV4GCSXm_YlUtfi1LF0exlcmWjbVrmiLvt7Pn7zUqgGhTiYVxnle5NEBFDlYg2lEx6wL_0yTtEAaJ6DonuSFqG4kvGFd9e7cQrcfp1pN2JE0g2zNWzzx_8G6hv1wTA2D5zrEAfCtNsM3N-tKERBNTHd9EwPJvdX56gOIUCpYDEnbHbaFuJs5QWwEi757MJ_3fGxSXClriVTIB9PteRE5arLMxNb0vMbDOhRjxk3rjcYuI-BrvpLgVGBRAtQ",
+      "photoAttribution": "Arctic TreeHouse Hotel",
+      "placeId": "ChIJHUopOSxMK0QR_tBXDUHKV1Q",
+      "phone": "050 5176909",
+      "address": "Tarvantie 3, 96910 Rovaniemi, Finland"
+    },
+    {
+      "name": "Original Sokos Hotel Villa",
+      "coord": [
+        61.4966667,
+        23.7766667
+      ],
+      "desc": "Mid-range family hotel, central location, modern amenities, great value",
+      "longDesc": "A comfortable, well-located hotel in Tampere offering excellent value for families. Close to museums and attractions with friendly staff and spacious family rooms.",
+      "gmapsUrl": "https://maps.google.com/?cid=15830502469134595315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Toddler Friendly"
+      ],
+      "rating": 4.2,
+      "ratingCount": 1142,
+      "website": "https://www.sokoshotels.fi/hotellit/tampere/original-sokos-hotel-villa",
+      "photoRef": "places/ChIJDwQzzKvYjkYR8zS2QB8-sds/photos/AcnlKN0SnGbeTWOYUJiAWK_GqhsJtmBR4vGLaI8PYmw4oYemps0jRODdYX4fKZAQIbywn1j9gTUSP95h8VsBcJgxhLJs3uGz2EwTV8BfBrmhgBHdNIu0yLUfREh_78jVeso2B7CXSM8LHB0V2L9U-5oZf-AlGM-dLAdhMhF6uscODCnm3GjthlXSm3--nhhebcz2eGKGMNTJwV-jCwIiQZAV2jWf9C7N9m-n2lvS3M4XXf2NZLtL85JlbFTZOKIpnozGvfoftjL9jPHhDNHHS892XTBHPUL2G_Kw9KdI28jtzgXMYA",
+      "photoAttribution": "Original Sokos Hotel Villa",
+      "placeId": "ChIJDwQzzKvYjkYR8zS2QB8-sds",
+      "phone": "020 1234633",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Sumeliuksenkatu 14, 33100 Tampere, Finland"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Lounasravintola Juuri Deli Herttoniemi",
+      "coord": [
+        60.1969606,
+        25.0437627
+      ],
+      "desc": "Farm-to-table Nordic cuisine, seasonal menus, local ingredients, cozy atmosphere",
+      "longDesc": "A celebrated restaurant showcasing the best of Finnish culinary traditions with locally-sourced ingredients and creative seasonal dishes. Intimate setting perfect for special family dinners.",
+      "gmapsUrl": "https://maps.google.com/?cid=11445530959654517394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Reservations Recommended"
+      ],
+      "rating": 4.1,
+      "ratingCount": 140,
+      "website": "http://juurideli.fi/",
+      "photoRef": "places/ChIJ-5CRNTEJkkYRknrxS8Sx1p4/photos/AcnlKN0Rrq1Zy0Ape70eYEawCwTn05vkHrwpKNdWIytpn9xOZRBO9hYgV7tWb5sifGJEWiwf5WaHKP70KvfX7w09jU804i4DGLCYa13EeBKOV7x2eGZEzFvFwlmNjuI77crUD9S8RZWUxjKEQt71efFVZvDwGRFH05LQfZ6MSdzqE0RqYLXcQKS23p6dmWgkdbiaJBa26d_tvv3P1oeShqR_kpUpZzN4UxF2GcbwkmoFizh63PcpH2TupcNwgiuicrCqgROhaca7kPnq96SlEAllG8KLEcaASBpw8B5bhSGE5KBOjAIhpYGpoPxtcT0WkVtmYqobJv9nt2R4JK9jw3oyjxFVYzax7K76qANtVlZSuGL0Jp_zGp89TSnpmFy7LI_k4K_tqbr1saSYFhs2KPvt-idrLm-Z8x9DfPV5rtYC_WaKV4WE",
+      "photoAttribution": "Risto Tuomarla",
+      "placeId": "ChIJ-5CRNTEJkkYRknrxS8Sx1p4",
+      "phone": "040 6849286",
+      "hours": [
+        "Monday: 10:00 AM – 2:00 PM",
+        "Tuesday: 10:00 AM – 2:00 PM",
+        "Wednesday: 10:00 AM – 2:00 PM",
+        "Thursday: 10:00 AM – 2:00 PM",
+        "Friday: 10:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Sorvaajankatu 15, 00880 Helsinki, Finland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Fazer Café Kluuvikatu",
+      "coord": [
+        60.1686468,
+        24.947673599999998
+      ],
+      "desc": "Charming riverside café, fresh pastries, excellent coffee, casual family-friendly vibe",
+      "longDesc": "A delightful riverside café in historic Turku serving freshly baked pastries, quality coffee, and light meals. Perfect for families seeking a relaxed break with riverside views.",
+      "gmapsUrl": "https://maps.google.com/?cid=14433473876977098829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.4,
+      "ratingCount": 5806,
+      "website": "https://www.fazer.fi/fazer-cafe/kahvilat/karl-fazer-cafe/",
+      "photoRef": "places/ChIJi_D3ks4LkkYRTaAZ8AQATsg/photos/AcnlKN1bEKGddPfT8BXs8RVyaLGHBJwIDE4guYRId5jt5pQW-ercKrQ5UPoJ3PzrMGG6Cx89_ekmkwlOKnONHhuNBJa7w8Wb-DNwZypKwXFwuJ91Pc7xluR3wlRIsRUcgVtFgFsQVfM0KuiZdVQyqb1XQShB8BIV7GQt7RW37dQc8qExtde_08pnTb_2y-aig440buUN0lZv1aGdP2GYVj0yio2udugpU-BSbyG4tSWLOrMTR-Iyfe3qiCwc_3iKj4J6EQNwm2MuE9KHW1bMw5_HRZ_1tAeVwGRVRKtBF7aNxczj_w",
+      "photoAttribution": "Fazer Café Kluuvikatu 3",
+      "placeId": "ChIJi_D3ks4LkkYRTaAZ8AQATsg",
+      "phone": "040 5902434",
+      "hours": [
+        "Monday: 7:30 AM – 10:00 PM",
+        "Tuesday: 7:30 AM – 10:00 PM",
+        "Wednesday: 7:30 AM – 10:00 PM",
+        "Thursday: 7:30 AM – 10:00 PM",
+        "Friday: 7:30 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "address": "Kluuvikatu 3, 00100 Helsinki, Finland",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Löyly",
@@ -78,7 +242,8 @@
       "tags": [
         "Wellness & Spa",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 11:00 AM – 11:00 PM",
@@ -91,10 +256,131 @@
       ],
       "priceLevel": "PRICE_LEVEL_EXPENSIVE",
       "phone": "09 61286550"
+    },
+    {
+      "name": "Suomenlinna",
+      "coord": [
+        60.14539999999999,
+        24.988140100000003
+      ],
+      "desc": "UNESCO island fortress, historic cannons, scenic walks, ferry ride, museums",
+      "longDesc": "Explore this UNESCO World Heritage island fortress with well-preserved fortifications, scenic trails, and fascinating museums. A short ferry ride offers families an adventure combined with history.",
+      "gmapsUrl": "https://maps.google.com/?cid=907738204477064983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 26521,
+      "website": "https://www.suomenlinna.fi/",
+      "photoRef": "places/ChIJhTiFuI0LkkYRFwfoahbvmAw/photos/AcnlKN2xVdrEMxeTQAe1NJ6KBOMc1nm_a_GpJG44r8wEvC4BLX6iq2-peGHMrD0LNpj14iUL3wUgR864c2s_bfJE8dySCz4QH0HYvnlpWi4SyORh86wqeIS6uWFTIUl_PwIDPxtLzImEWnyYcwgf-3qf3iT-h9q6U4aDUpEWjmSUOJK0v-HIfk1tWnK_pi1y5uwsMQBMlnPhTOv6IKQ_zUUxojnwIYBfD6ICkDCgdpfj0YqNLMJOOmrwzEDsigKDLTm7u-hItmHTZYZBss04bp0vFh245nPssP3-aKHPBys5hejV6aF0cyg9SsXwObSB4q0YjChQDhAKhRl7tnyArHX6fIpvGgpXEBGqqudLljETUb9-DAYgdVH5jahlkg5ADEj5v_ge6Jww4ZldVVvQSIrwjXKhpzl2PYd-we-8jtBkR2xnTa5D",
+      "photoAttribution": "Roger Hung",
+      "placeId": "ChIJhTiFuI0LkkYRFwfoahbvmAw",
+      "phone": "029 5338410",
+      "address": "00190 Helsinki, Finland"
+    },
+    {
+      "name": "Natural History Museum",
+      "coord": [
+        60.171412,
+        24.9312608
+      ],
+      "desc": "Interactive dinosaur exhibits, Nordic wildlife, hands-on learning, modern displays",
+      "longDesc": "A world-class natural history museum with engaging dinosaur exhibits and Nordic wildlife displays. Perfect for curious families with interactive zones and stunning specimen collections.",
+      "gmapsUrl": "https://maps.google.com/?cid=507393498826614684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day",
+        "Cultural & Historical"
+      ],
+      "rating": 4.6,
+      "ratingCount": 6642,
+      "website": "https://www.helsinki.fi/fi/luomus/yleisokohteet/luonnontieteellinen-museo",
+      "photoRef": "places/ChIJ4bddCzMKkkYRnCfn6rKfCgc/photos/AcnlKN3lBFavKaIzUEiyLUN2dN4Ni-mL08VzRJMsBrMoaF_fFGuoSiF4yHldFGv3fWCaHD5HwPf3zo-E9TtSSeWi_p0oCS-T3qB4ddC9Rdvf2zZResYBcSP6-z0zZ4P4Cc-P3jm_xgpf5r1yHG4VyvcpGX3vV_amfNL3beYC0Rw4drfSJBSoAA-6_OI0lT1wZJqYxjajaLYr0Fe_Mpd8qtcO8W-Fchs-18HJJtRWuW3bh7eYNeXOGHrckDnFTFgPC08qW-8v2tKL183XkU0uvpFAam8pnGcH1WWfLnt53SgKspbElg",
+      "photoAttribution": "Natural History Museum",
+      "placeId": "ChIJ4bddCzMKkkYRnCfn6rKfCgc",
+      "phone": "029 4128800",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ],
+      "address": "Pohjoinen Rautatiekatu 13, 00100 Helsinki, Finland"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Moomin World",
+      "coord": [
+        60.4719898,
+        22.0055385
+      ],
+      "desc": "Magical theme park, Moomin characters, island adventure, summer-only attraction",
+      "longDesc": "A whimsical island theme park celebrating the beloved Moomin characters with attractions, shows, and character meet-and-greets. An enchanting experience for children of all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=16571368356918182035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy",
+        "Playgrounds",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.3,
+      "ratingCount": 4528,
+      "website": "https://www.muumimaailma.fi/",
+      "photoRef": "places/ChIJ9xQg2cyIi0YRk8BBxLhT-eU/photos/AcnlKN09yXkjeiIdfOiu3bQxxE3FuvmElAVz-DG4ciaxex2x8oaWNbn4YJSYLUPZLK2sErgxmfhh7toorIYd7IqMpTNDmQ8FXqXrSqbQL_frZQCMl7CMKyCvXAOpm1jz5apNaUYQvl-vQD7naNA3qGMCoDWVq4HYw2zRSwFUljtzohkkZOFfRfniwnkb29eeru9FH0m4jcodEUg7gEDtpXlefdptuJ2aQxpzDVQynW67AH356AV5hPo5gkViqRvVsy0CRPi2KOYac_PelkA_gx3DfcYegpGy6M_jwhCwUzUhOm74Ew",
+      "photoAttribution": "Muumimaailma",
+      "placeId": "ChIJ9xQg2cyIi0YRk8BBxLhT-eU",
+      "phone": "02 5111111",
+      "address": "Kaivokatu 5, 21101 Naantali, Finland"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Old Market Hall",
+      "coord": [
+        60.1661637,
+        24.952819299999998
+      ],
+      "desc": "Historic indoor market, local food vendors, fresh produce, Finnish delicacies, souvenirs",
+      "longDesc": "A vibrant covered market hall in central Helsinki featuring local food vendors, fresh produce, traditional Finnish delicacies, and artisan souvenirs. A sensory delight for the whole family.",
+      "gmapsUrl": "https://maps.google.com/?cid=13721457226805426076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3730,
+      "website": "https://vanhakauppahalli.fi/",
+      "photoRef": "places/ChIJWS7idIkLkkYRnDd0_KVobL4/photos/AcnlKN3Dm9kq3WeGwfxt5ObM37SSI8l1Lhz2jSoyBR5R_ylBWIP2Qg_65i8nwS10UYDB5ZXOPcR4YmI3p4j6O7YXB6TzTpPK8y7DA_LJt59E18dmk2_n8nfiV0jZEDulsKcQHQ9a_zV4vj9mVBuzLyOl9VmK0GXsQS5HYVKlVl9h5E6cIcwU2SAj4mro-eKrTHNdOz4lYhMMZgXV1-3-0hjPUawCKe34A1BEaall5WEkGuPXCJ0epb2zcvzdA6DFQ14wmOHP52w_0Ny-gI144BLCjoAx4Eh_E14quxLU9f4pesF0BQ",
+      "photoAttribution": "Vanha kauppahalli",
+      "placeId": "ChIJWS7idIkLkkYRnDd0_KVobL4",
+      "phone": "040 1359051",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Eteläranta, 00130 Helsinki, Finland"
+    }
+  ],
   "cityCenters": {
     "Levi": [
       67.7671,

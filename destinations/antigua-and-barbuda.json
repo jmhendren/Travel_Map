@@ -1,0 +1,399 @@
+{
+  "destination": "Antigua And Barbuda",
+  "hotels": [
+    {
+      "name": "Curtain Bluff",
+      "desc": "All-inclusive luxury resort, dual beaches, Caribbean elegance",
+      "longDesc": "A legendary all-inclusive luxury resort in Antigua featuring two pristine beaches, world-class dining, and sophisticated accommodations for upscale family vacations.",
+      "coord": [
+        17.0140413,
+        -61.842343400000004
+      ],
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Beach",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 237,
+      "website": "http://curtainbluff.com/",
+      "photoRef": "places/ChIJKQxlEfnsEowRYACGBTwNJYY/photos/AcnlKN2Z9s1ja09gR8toozUSG7wAVWsn_9m32TSby_DDgrc-MnVvifcxqg_nF2p14fBpE27dRdVKF65JbLRlrgA44oUap0uyOOO4imG7wJ6SmUCAAZrowi87g-uxGz3KvjHL_9B42zisfcyemq4XVY4a1z1rL0Y4uVMM3E5bYNoKBP6aXUz4QtK9b_kWzHQB8wVjTWawXnjpcTnBg_vRouQ8tBu0SvI9Vh7r66Rou0yolFAkT-3GQ3QMYW3Q82ajCA9G4KGY8JjXPe38q1LBoc22Sy5fNnchwqik_dfL2KMExkNz2g",
+      "photoAttribution": "Curtain Bluff",
+      "gmapsUrl": "https://maps.google.com/?cid=9666146726662504544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJKQxlEfnsEowRYACGBTwNJYY",
+      "address": "Morris Bay St. Mary's Parish Old Road, Old Road, Antigua and Barbuda"
+    },
+    {
+      "name": "Hermitage Bay",
+      "desc": "Michelin 2-Key resort, Caribbean luxury, beachfront paradise",
+      "longDesc": "An exclusive beachfront resort in Antigua recognized with two Michelin Keys, representing the highest standards of hospitality and design in the Caribbean hotel world.",
+      "coord": [
+        17.0848439,
+        -61.893306900000006
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Beach",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 378,
+      "website": "https://www.hermitagebay.com/?utm_source=google&utm_medium=organic&utm_campaign=google_local_hermitage_bay",
+      "photoRef": "places/ChIJVduFCV6NEowRzTozrbBpTGs/photos/AcnlKN187mUwHolaEu9lGPWMJ-jOK5-thEVW2pbJdY-aqtz3WX3GHjdJMIoYZGeI5fRLmPIx1cQg_p6gslylni56Qgdtc5Gb_qA-JArJPsJkQEOhmOwiea2yTuOF07TOjRzcBWLHjashrZtFmo5mKQsf5LiEDF_ia1pdn-MiR4lgFwkg1AGXHBMtZKJnBcvgFn7jn1TYbBiMeQdWJM62q17JiJSgwa5Ay6kgbDShlrH0m4Vq9erTV6KwVfmFjGhFDp1RZQN_2Bg7tnsqicToT33vLJtC81PR9a4U0DEDz6s935dy9A",
+      "photoAttribution": "Hermitage Bay, an SLH Hotel",
+      "gmapsUrl": "https://maps.google.com/?cid=7731670867829275341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJVduFCV6NEowRzTozrbBpTGs",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Jennings New Extension Hermitage Bay, Antigua and Barbuda"
+    },
+    {
+      "name": "Jumby Bay Island Resort",
+      "desc": "Private island resort, all-inclusive luxury, Caribbean paradise",
+      "longDesc": "An exclusive private island resort offering all-inclusive Caribbean luxury with pristine beaches and exceptional service.",
+      "coord": [
+        17.1543319,
+        -61.760041900000004
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly",
+        "Beach",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 253,
+      "website": "https://www.oetkerhotels.com/hotels/jumby-bay-island/?utm_source=google&utm_medium=organic&utm_campaign=local_jumby_bay",
+      "photoRef": "places/ChIJhbUSUrWTEowR7lYjqJ-ljqM/photos/AcnlKN3JUGvbPpPCp-bszmWsoOwgut4_MW6IyCHr9K_V7U3HQKpXjBLyCwPD-Exn6evHb8KCyQxljUUBj8-8DH9agyhGeGJ7tDj7bpti3BTZZzfJZVS_f7l6P2olZr71C9npp58V5nb8hZZLs3TAFO5FAqiYkh1Dh8wJI3anFZYq7fy3VduSG5ksYA5bSpSvBZ0_Vy7BhhGVNuPt5kZYP7-RkTIgYIApRnZtjQBhxhQ8lkK5POAw8lFHBw8WesUY9SAVcvK1Zq1ky4GYHQDF2-Wd4VIm1DReX30QQp1OpqwinJBfPQ",
+      "photoAttribution": "Jumby Bay Island",
+      "gmapsUrl": "https://maps.google.com/?cid=11785539380014438126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJhbUSUrWTEowR7lYjqJ-ljqM",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Jumby Bay Island, Antigua and Barbuda"
+    },
+    {
+      "name": "Sandals Grande Antigua",
+      "coord": [
+        17.1557668,
+        -61.8472904
+      ],
+      "desc": "All-inclusive beachfront resort, water sports, kids club, championship golf course",
+      "longDesc": "Perfect for families seeking all-inclusive convenience with endless activities. Multiple beaches, restaurants, and a dedicated kids' club keep everyone entertained from sunrise to sunset.",
+      "gmapsUrl": "https://maps.google.com/?cid=8106770678182115064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Beach",
+        "Good for Groups",
+        "Reservations Recommended"
+      ],
+      "rating": 4.3,
+      "ratingCount": 2687,
+      "website": "https://www.sandals.com/grande-antigua/?utm_source=google_maps&utm_medium=business&utm_campaign=sandals_grande_antigua_bl",
+      "photoRef": "places/ChIJrRq5sJ6REowR-PaY9PoIgXA/photos/AcnlKN1SEBgj2XUEi9GwjtoT5SGuXQKDTTuttgu4XJQ6f76q14seuy1FWeeMhpE672VnxeBtSNSiKC0iTxlCyADFNky6MQelgzWeF24N_ScnKYqfWLm_OziYDUANndAABhgcGAofJ3U1cn3OYrBfKj_xt53ayljBdW1uPDIpF_M4gt-9OoUH27_okrXF3bhhBHU0bKvG0hwrU_HIvE_eO0-1g0QrfQ19IEchZ-0lJTbJg0KMY8EEncVqaLGP8Abasq6Yc2Ek8_Hv_iLs4tC3JBXoVPxIzTv9OIJNzOH26rqiEmLBYg",
+      "photoAttribution": "Sandals Grande Antigua",
+      "placeId": "ChIJrRq5sJ6REowR-PaY9PoIgXA",
+      "phone": "(888) 726-3257",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "St John's, Antigua and Barbuda"
+    },
+    {
+      "name": "The Verandah Resort & Spa, Antigua",
+      "coord": [
+        17.0967765,
+        -61.6863305
+      ],
+      "desc": "Beachfront resort, two private beaches, water sports, family suites, lagoon views",
+      "longDesc": "Twin private beaches and spacious family suites make this resort ideal for families. Kids love the calm lagoon waters and extensive water sports activities available daily.",
+      "gmapsUrl": "https://maps.google.com/?cid=939882177735338930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Toddler Friendly",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 955,
+      "website": "https://www.theverandahantigua.com/",
+      "photoRef": "places/ChIJS41i9yW-EowRsquiZtwhCw0/photos/AcnlKN2JXEXP8J1FVmgDtzJemW7T-m_IVqZr6SRo656A1OzCm79xAIE3mlZfaOLkX-npmB1jVL3TZmCja_3DpIZ09pUgj_iTqBMAYmotR2To2aVQp9wZI6YfLyrqJBvLpWTX0Bg0tPjW8IS9xIY_tHQyKsmG_pjcTggaNT7-uJ65c5kR8_XgpOXz4WC5TO2uZQSxfdr3n1CmsC5Y2Guct8HA7fV2PD6S04Np8_5QGIlzOwlg2rG5tQqSGRAT_xxIFjhqfAqVeSA3EzLN8ZuSjEunZD2htcdSJ3qFNWX1t_cAs4rKJQ",
+      "photoAttribution": "The Verandah Resort & Spa, Antigua",
+      "placeId": "ChIJS41i9yW-EowRsquiZtwhCw0",
+      "phone": "(866) 237-1785",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Long Bay, 38W8+QM, Willikies, Antigua and Barbuda"
+    },
+    {
+      "name": "Cocobay Resort (Antigua)",
+      "coord": [
+        17.05381,
+        -61.894420000000004
+      ],
+      "desc": "Boutique oceanfront resort, colorful architecture, spa, intimate villas, stunning views",
+      "longDesc": "Intimate boutique resort with vibrant island charm and peaceful oceanfront setting. Perfect for families wanting personalized service with a more local feel than larger resorts.",
+      "gmapsUrl": "https://maps.google.com/?cid=8665890856391929456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Romantic",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 915,
+      "website": "https://www.cocobayresort.com/",
+      "photoRef": "places/ChIJw3ZZzafyEowRcO6L7dFtQ3g/photos/AcnlKN1vsIEIgNwUlrRvMPRJQ7BU7LAR3NorqiWTUiCznF5ZIdvZ6YVArWW0NTt_O9_iNsVdR8M7PitcqH-bFyvBiPxVwckD3tB6DQ5vu2VDj8CgGE7uaJjEgR7eOjY83Hh0QtnMTAdHy6Flk0r5GivJ5UDkSjCZamJK73DJmVSCL6iG8wab5jonUh6V1Kuq1KGkByh1vsxEWF8HwfcacPjPPlfeeYIA-Gg-T17Xs5pL3O0sXxgrj74RuaTNIJFz2EqsW7grdQJWCtDxo2gNoPV2i7FgVgFX-_YpXlQmgQRM0hE",
+      "photoAttribution": "Cocobay Resort (Antigua)",
+      "placeId": "ChIJw3ZZzafyEowRcO6L7dFtQ3g",
+      "phone": "(268) 562-2400",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Valley Church, NA, Antigua and Barbuda"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Catherines Café",
+      "coord": [
+        17.008543799999998,
+        -61.7769559
+      ],
+      "desc": "Local bakery and café, fresh pastries, coffee, sandwiches, authentic Antiguan breakfast",
+      "longDesc": "Charming local spot perfect for a casual breakfast before beach days. Fresh-baked goods, strong coffee, and friendly staff make families feel welcomed into the community.",
+      "gmapsUrl": "https://maps.google.com/?cid=17897094589482599444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Good for Lunch",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.3,
+      "ratingCount": 555,
+      "website": "http://www.catherines-cafe.com/",
+      "photoRef": "places/ChIJYyYBwAfrEowRFAStzbRAX_g/photos/AcnlKN0k7Zjg0_4UHU5gdTvgHtc8Vx5mdqRHCrnB-fzs2IdH8Ql881kDwu2C8oiwlQGjemUatlx-Mb8cLFoTrmFCajEbftSTTSqWjw8wisGthMJ_7mXZvLO7EwmnNxVi8r8F3Pe9d3u40RwXDI560N-5AxdLANVubHehLIhZDeJShvPq5DZ4Ee3gyKZIjXJeirkMgukHGHMqBdiyQxSZ_r8YzGX3NusSSCeh4KVlqWbU6y0uUFqk6LhkLMl7YZJkuob4ThmQakTBQU_ZdG7brix6_ch4HhKwRuq7Xr0Mmsom0hg-yNZg5dKxK0ByhzY7bybo16xWh1KAmrv6k0b9SY5wjcihYTcAPRBSQOqYA8LwoHWiaFyiHMp5envEHgFf1iHewmKGjoyhzgoxHMCSuSUNL0ql1gbhPT_3MG6wLl_s752k18UN",
+      "photoAttribution": "Roc (Roc)",
+      "placeId": "ChIJYyYBwAfrEowRFAStzbRAX_g",
+      "phone": "(268) 463-6161",
+      "hours": [
+        "Monday: 10:30 AM – 5:00 PM",
+        "Tuesday: 10:30 AM – 5:00 PM",
+        "Wednesday: 10:30 AM – 9:00 PM",
+        "Thursday: 10:30 AM – 5:00 PM",
+        "Friday: 10:30 AM – 5:00 PM",
+        "Saturday: 10:30 AM – 5:00 PM",
+        "Sunday: 10:30 AM – 5:00 PM"
+      ],
+      "address": "Pigeon Point Beach, English Harbour, Antigua and Barbuda"
+    },
+    {
+      "name": "Sheer Rocks",
+      "coord": [
+        17.0540913,
+        -61.89463109999999
+      ],
+      "desc": "Fine dining, Caribbean cuisine, oceanfront setting, sunset views, sophisticated menu",
+      "longDesc": "Elegant beachfront dining with exceptional Caribbean fare and breathtaking sunset views. Perfect for special family dinners with refined service and a romantic island atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=15966315929987838922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Photography Worthy",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 722,
+      "website": "http://www.sheer-rocks.com/",
+      "photoRef": "places/ChIJH6YaXK_yEowRyvOVwr6_k90/photos/AcnlKN29vHeaB4pn2QV5poh61ggOuHO-bg5uBl8c6DTsGtzsrERbUlpn9VaYw0gjddrUG2v0YnMSuKiEdd7zwWL80dWTq4l8CNSvXzidIJ2siarCcun7uxznYo4BiHN5t8E0LS4aDwrUWdKtYmg3Fg0eVZLDhzFj6Zj3Zpp8oeXFsTOQfLp-sUq3-WKZkmfg4Ur8ugnaE2xuBzfCUDPcldUsr3eKyUv2dJIfcDMEiAHLrsoK2fYpD_jBJqU8QeA0GcgNfg0FSmXD-wI4u77W86uj9CWuMc5vh2BssS8C45MgXWIOFo8-8KaLgFXq-1TB7yJsJgetsI21ssyNxJ0lyKOPB4IxDyxrTpjqmDzGlGtnK7P84J2bA1GmTlDg5lpTN84PiFSbySFNjdMUE4cnIH46w1r35hxCw_xwRB8uO4UyW4RsJL9p",
+      "photoAttribution": "L",
+      "placeId": "ChIJH6YaXK_yEowRyvOVwr6_k90",
+      "phone": "(268) 463-6161",
+      "hours": [
+        "Monday: 11:30 AM – 11:00 PM",
+        "Tuesday: 11:30 AM – 11:00 PM",
+        "Wednesday: 11:30 AM – 11:00 PM",
+        "Thursday: 11:30 AM – 11:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 11:30 AM – 11:00 PM",
+        "Sunday: 11:30 AM – 11:00 PM"
+      ],
+      "address": "Ffryes Beach, Valley Road, St Johns, Antigua and Barbuda"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Nelson's Dockyard National Park",
+      "coord": [
+        17.0076289,
+        -61.7648444
+      ],
+      "desc": "Historic naval dockyard, museum, scenic harbour views, Shirley Heights fort, hiking trails",
+      "longDesc": "Explore centuries of naval history at this UNESCO World Heritage site. Kids enjoy climbing the hill to Shirley Heights Fort for panoramic views and discovering maritime heritage.",
+      "gmapsUrl": "https://maps.google.com/?cid=13321301001717777108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 27,
+      "website": "https://www.nationalparksantigua.com/",
+      "photoRef": "places/ChIJ72PPyQbrEowR1IJxia7E3rg/photos/AcnlKN1UBGQY8YHodGurVGRJLxhs3Vu_aKYVbqUUw408mhF0yNKw-VoDpms1W2fa6pDWIOrgxSnVsQI8dGnkkXGyRa1eVRjWEYXxiiJWxl62lKN7VpYzrLy2gnwL5I3Zu4paaXoQcB2wnGjg-C-q5Zy0Vhc3JW8k3EjSv5ygOFlLv544uz_QbJNuyMphRCUMpktGqXFhRCswXxOlhyeQT50lXkYYcBi4E9-pbBPPSbuL2hQ_Z7WLQq1wHvEaz1-hAkYIXEJsqBAYSfU6RCZxlD5cHaLLsZ29nDjLwJHT4VY-TaqYn0FMeWDYVJ_bKTduPJGQtvEweEZ8vD1-BbjjsZsMUD2EEW1K4GIgu2TutjqucSN9c92gAcQGGeA4x_-WJohR2MMWpdlOwERVnUAhp4PmkMf9T3bdIqcFs3MAi79GR2mg_r3C",
+      "photoAttribution": "ASM TRAVEL",
+      "placeId": "ChIJ72PPyQbrEowR1IJxia7E3rg",
+      "phone": "(268) 481-5021",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "265P+332, Unnamed Road, English Harbour, Antigua and Barbuda"
+    },
+    {
+      "name": "Frigate Bird Sanctuary",
+      "coord": [
+        17.6971979,
+        -61.8666265
+      ],
+      "desc": "Frigatebird sanctuary, boat tours, pristine lagoons, exotic wildlife viewing, tropical birds",
+      "longDesc": "Boat tour through mangrove lagoons to see thousands of nesting frigatebirds in their natural habitat. An unforgettable wildlife adventure for nature-loving families.",
+      "gmapsUrl": "https://maps.google.com/?cid=3795434777164960267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Photography Worthy",
+        "Full-Day Activity"
+      ],
+      "rating": 4.5,
+      "ratingCount": 17,
+      "photoRef": "places/ChIJQ5vqPwBtDYwRC9IUHdIXrDQ/photos/AcnlKN1_Ji5yQQX86UACNyzOQ4F-1bhvJEEsfKrCW720rX_7zYx7_0TlROywPEDa0ZYSmdCqCXNBrSElfyIR_HrO4w0XsbIluS8AqiSTQhiiB40sHaarI7hEfpY8kV_-J9RdCog9NmvpVynrljCZLKauA3vwIZcPvYe_hMYD8EFUdxPmNREtlWCQaEvurEakJRY21bt4jQrlsq2f317CkZqHe06fLsOJPPNzDRtadnzehLqrHgCCBOgGmzTsFP1wwkNdG8K8oHgQ4rvIkmXHM0gBGmcSrXEEbtVfvK1hY5ruX79adYHkD0tCdxfCjoy_AZ5ARW32pRpZpvkFCXmhDG24hqlx_xqj9KijOZyH3W7VEP42syVD60cvR1fcnm12ppSoSjrkbVniNFcc7zyQX0tAd-TfZWzew-54OdJWb4-mf5P9JyeeF6GfRKhM9-vA8bKD",
+      "photoAttribution": "James Gardiner",
+      "placeId": "ChIJQ5vqPwBtDYwRC9IUHdIXrDQ",
+      "address": "M4WM+V8, Codrington, Antigua and Barbuda"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Pigeon Point Beach",
+      "coord": [
+        17.009539,
+        -61.775571899999996
+      ],
+      "desc": "Scenic sandy beach, calm shallow waters, snorkeling, beach bar, family-friendly amenities",
+      "longDesc": "Beautiful curved beach with crystal-clear shallow waters perfect for toddlers and young swimmers. Great for snorkeling and family picnics with beachside facilities nearby.",
+      "gmapsUrl": "https://maps.google.com/?cid=3487480355080058791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Beach"
+      ],
+      "rating": 4.6,
+      "ratingCount": 641,
+      "website": "https://visitantiguabarbuda.com/destinations/pigeons-point-beach/",
+      "photoRef": "places/ChIJI5t7_3PrEowRpzezzecEZjA/photos/AcnlKN36-1VgnlfypsGe8ru3e1R4UzH40Qi1wjRaWq3uYQyESZ39v1lMHVSo5OO1I77yB_d33pL2ZBfGL2aNI6EgI64Ek6ZmkucIuUAis-d8fsatGkq5HJLIKraELyu-i3JkpuZFko01hTJgtlFplRb8Z7E_ZCOQVpFuXCQLfbOGIL0mH58mGL46avoXFG3NxM367TdDzxrnanDMTqqaDhNSb7ZU0gn9ZSptLCRwYKMTOGIqK5c7yu50CYY7jjJOChs882JmeKxdqBRmgPaDd3q52w8NHa4U6p7u7h2NAir15y-C9s_PzLHp2kIqUNKR-VNCgj7qtsDflVA_LMMjW75SWJx4r6JBO_LXhtiHorD0dQlhdVOChNqrkCrm-NpyaZtaa4gu1bGSgiEIe7S10wDU8jztdb52U_Hujrej6tyAGqvdFKtI",
+      "photoAttribution": "Thomas Easterby",
+      "placeId": "ChIJI5t7_3PrEowRpzezzecEZjA",
+      "address": "Pigeon Point Beach, Antigua and Barbuda"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Public Market Complex",
+      "coord": [
+        17.1171389,
+        -61.843804299999995
+      ],
+      "desc": "Vibrant local market, fresh produce, tropical fruits, local crafts, authentic island experience",
+      "longDesc": "Colorful traditional market brimming with fresh tropical produce, local crafts, and authentic island culture. Families enjoy sampling fresh fruits and exploring local artisan goods.",
+      "gmapsUrl": "https://maps.google.com/?cid=1206398903734052789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 3.9,
+      "ratingCount": 851,
+      "photoRef": "places/ChIJofoedkuSEowRtSd9Qmn9vRA/photos/AcnlKN3Eb5fIT9DqFXWZLt38beTqU-8j0r8mJAWu8pH6nOqa0RbNQxg2MzIJNGqUBcAAft2YkJPQ9g1g8sn0Kf2O6qqHTFlhGjMIrIsXhZrRVKi0Baj46vkGRR4WXy5j34jwgw6wn0uuza9lFrcyHsSLSGybU-Jg8f7ozhwG_FqrkX0XVHjTqlvNRq4j0WrGMxSTd87nZJsklNpw9cc5v-0fhdv1Yr4Da1yzqqENIXqB8cEHKeZsQXVOHFP0RCfSC5g13SeRu8SS_ElFZ71HR5lBfpyYsVeKqcusYGwMHQmTy1JMkXc-I53L5s4hGl22bKQqG7eV0TdsV7IiTbXRwjX61QCL3Q4EGBMpEa7h55qOItaBRQSd3U6UooVCw63rVdqdw8DGSAysiAR4ip-aV_ils51vJYlcNDYAAr-hijkVjV5lLg",
+      "photoAttribution": "Hensley Isaac",
+      "placeId": "ChIJofoedkuSEowRtSd9Qmn9vRA",
+      "hours": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 12:00 PM"
+      ],
+      "address": "4584+VF4, Valley Rd, St John's, Antigua and Barbuda"
+    }
+  ]
+}

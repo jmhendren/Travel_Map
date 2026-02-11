@@ -20,7 +20,9 @@
       "tags": [
         "Romantic",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Iconic / Must-See",
+        "Scenic Views"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=3951589830072630970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -49,7 +51,9 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -114,12 +118,158 @@
         "Splurge",
         "Romantic",
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views"
       ],
       "phone": "023 913 888"
+    },
+    {
+      "name": "Jatik Koh Russey",
+      "desc": "Island resort, beachfront accommodation, family-friendly, Cambodian coast",
+      "longDesc": "An island resort on Koh Russy offering beachfront family accommodation with direct beach access and a relaxed atmosphere on Cambodia's southern coast.",
+      "coord": [
+        10.4974549,
+        103.5625184
+      ],
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Toddler Friendly",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 4.9,
+      "ratingCount": 123,
+      "website": "http://jati-resort.com/",
+      "photoRef": "places/ChIJI4I-IwAHCDERxXqH-xJOfCE/photos/AcnlKN3gAuQal7BCyQZ2XKIgiI-CX7WhMPO4B6oqHyQfybng20VOmYVp1YEIe0llWiG6v7tDARTAgrrBznb4pdiaZpcLRhdFw_IVvoAVEBXkq38wgy5GQMeWaMUwlIG4tGwfFHcvlAIyh1mupxksck3sP4BlrpbQ5Cd9HVIvxHHyg7p51PG3f2_oxUpFpxPFsdIBS_dzFIM_UDHb1WAxSDgsetClUquGeA-0IuiaxtB5L26HVJfEJe2hRimm5aGfrYaGvAZqPEItwj4rsK48mCj3t-myix9eyt8BU8OS24QKwMIOUA",
+      "photoAttribution": "JATI Koh Russey",
+      "gmapsUrl": "https://maps.google.com/?cid=2412889343800081093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJI4I-IwAHCDERxXqH-xJOfCE",
+      "address": "Koh Russey Island, Oung Village 180108, 18108, Cambodia"
+    },
+    {
+      "name": "Sokha Beach Resort",
+      "coord": [
+        10.6091225,
+        103.5148811
+      ],
+      "desc": "Beachfront family resort, private beach access, multiple pools, water sports activities",
+      "longDesc": "A sprawling beachfront resort perfect for families, offering direct beach access, multiple swimming pools, and plenty of water activities to keep children entertained throughout their stay.",
+      "gmapsUrl": "https://maps.google.com/?cid=1877292617268038106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Splurge",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 4.3,
+      "ratingCount": 2436,
+      "website": "https://www.sokhahotels.com.kh/sihanoukville/",
+      "photoRef": "places/ChIJsRrqKpLhBzER2om5Z7B7DRo/photos/AcnlKN1EKndIuFpEbmhZ875JsC-COUfq9ds5ROt9aGh7ALuA6OHaWcycGev-BGMuXVsWxBpvKs2CC8b3XPlBPzITlZiEc4alSWHVBG40jUAqLNQvbaNb3feFh-CO-UI5QTWoJEtrzKv4i_a20EyBPCs97NaMEWk6LAsWoL0MTD5P2MiXWsTV3GecqSPWqgUIbg4ipvHosgmEUTWcmvnJJxB1O1RSsFhYliBA5abIJqUjVUcQqB0Yks4l4ipNVoQiabzjM-qyyQdU57wW3--mDu-0_5VTSlJMZDINM6opZTBWY6vgSA",
+      "photoAttribution": "Sokha Beach Resort",
+      "placeId": "ChIJsRrqKpLhBzER2om5Z7B7DRo",
+      "phone": "034 935 999",
+      "address": "Preah Sihanouk, Cambodia"
+    },
+    {
+      "name": "Oh Battambang Boutique Hotel",
+      "coord": [
+        13.114803199999999,
+        103.2007258
+      ],
+      "desc": "Charming colonial-style boutique hotel, river views, traditional Cambodian architecture, intimate setting",
+      "longDesc": "A beautifully restored colonial boutique hotel along the Sangker River, blending traditional Cambodian design with modern comfort. Ideal for families seeking authenticity without sacrificing amenities.",
+      "gmapsUrl": "https://maps.google.com/?cid=12119349765720327997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design",
+        "Cultural & Historical",
+        "Hidden Gem"
+      ],
+      "rating": 4.7,
+      "ratingCount": 121,
+      "website": "https://www.ohbattambangboutiquehotel.com/",
+      "photoRef": "places/ChIJEwGnDJJLBTERPUd5nmaUMKg/photos/AcnlKN2V5rZtIS-MMm47y2CL-fKT4Z1ckPLOavt46jQekfh2bbNg3thpYVKOh2ZrSHjhUKCjFgRmVVxCMjQ0rxPZR2A2SGRPYzePj208BAeDEapwuTZ0IUKiNg0PMQG0zy9CYtJRIQa8FadUxSKBbyj8A_9vqsp4eJADMtZRU8fwp2iItDbUui-azd2_0Vsnaa1NHwYxXi1UVtMJxepMSPvvJgG_8gTe6puOP-5ztH-xdSY73xCEkvEiY2eIwHKTMMQFBXgbu7ademJCnrqTcAVo3yYGrnFzDTzlMUVDUf6mbIM",
+      "photoAttribution": "Oh Battambang Boutique Hotel",
+      "placeId": "ChIJEwGnDJJLBTERPUd5nmaUMKg",
+      "phone": "012 614 219",
+      "address": "4672+V5, Krong Battambang, Cambodia"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Malis (Norodom Boulevard)",
+      "coord": [
+        11.5531531,
+        104.9291294
+      ],
+      "desc": "Fine dining Cambodian cuisine, chef's tasting menu, traditional recipes, elegant riverside setting",
+      "longDesc": "An upscale restaurant celebrating authentic Cambodian flavors through innovative tasting menus. The elegant atmosphere and educational approach to local cuisine makes it memorable for adventurous families.",
+      "gmapsUrl": "https://maps.google.com/?cid=13447135835127679437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Splurge",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1748,
+      "website": "https://malis.thalias.com.kh/",
+      "photoRef": "places/ChIJJaAn2y9RCTERzQk2y8vSnbo/photos/AcnlKN1oBq_oUuFzSTU81b5wNk1UFymVCKTE4ogn06IkjJMNr7cRrT8gglkGcRp7GqoWwVGqyouH6YShOa1KRldATSf9a9DkXRArkbWCc8IOTsxTqllucsYGmq695o6lO6ydY7IelGacKgDnhTEs3rvbX8qwhzt76Fldi8KKJAZJ32lMEySIBMZZiHOx7iDfBTjlL4bb2Fy0lGb9HgSSDAVMTeDE45MiU5Aui1lwjMrCIxmjGjK_KFXiyzGmFBpomKCNW9irnnR1Ig_S9eUsL5AbiiOr-nqtLASe7htm37E5Gpao2g",
+      "photoAttribution": "Malis Norodom",
+      "placeId": "ChIJJaAn2y9RCTERzQk2y8vSnbo",
+      "phone": "015 814 888",
+      "hours": [
+        "Monday: 6:30 AM – 10:30 PM",
+        "Tuesday: 6:30 AM – 10:30 PM",
+        "Wednesday: 6:30 AM – 10:30 PM",
+        "Thursday: 6:30 AM – 10:30 PM",
+        "Friday: 6:30 AM – 10:30 PM",
+        "Saturday: 6:30 AM – 10:30 PM",
+        "Sunday: 6:30 AM – 10:30 PM"
+      ],
+      "address": "Phnom, 136 Norodom Blvd, Penh 12301, Cambodia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "ភោជនីយដ្ឋាន​ រំដេង​ - Romdeng Restaurant",
+      "coord": [
+        11.5587673,
+        104.9239517
+      ],
+      "desc": "Casual eatery supporting street children, traditional Khmer dishes, friendly staff, social enterprise",
+      "longDesc": "A casual restaurant with a mission, serving authentic Khmer comfort food while supporting local youth through job training. Families enjoy good food knowing they're giving back to the community.",
+      "gmapsUrl": "https://maps.google.com/?cid=11797616219520953740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Off-Hours Eats"
+      ],
+      "rating": 4.4,
+      "ratingCount": 374,
+      "photoRef": "places/ChIJZ3m0TABRCTERjO3u-HGNuaM/photos/AcnlKN0r_43d4mZ3IH_twTP_uGc45c-8qI06RWhropmFOOdIOq9JURkt220PUFg1RkKYmS3GBCvKF4q-m3nf8J5l3MB5tqdPf9fCxnahoZAaezGkwhV4lgHTji8HdJCAJh_EUwa2IfL_H83xU0MmaYxZaA5QQgHqwPtupDEikeNIoQ7bRzgs2NKL-glcEyFw3FmmM9NQ0gL3MoADwrcx8yV_wr88JPA9NiCqpvw4_xwdyrDziBnvPGDRgHuRD94BtJC7ol6vDe7VnpRs9ZWAckUhLDt9EKJDfEOnhXyo5DvOQvjFyA",
+      "photoAttribution": "ភោជនីយដ្ឋាន​ រំដេង​ - Romdeng Restaurant",
+      "placeId": "ChIJZ3m0TABRCTERjO3u-HGNuaM",
+      "phone": "069 390 330",
+      "hours": [
+        "Monday: 6:30 AM – 9:00 PM",
+        "Tuesday: 6:30 AM – 9:00 PM",
+        "Wednesday: 6:30 AM – 9:00 PM",
+        "Thursday: 6:30 AM – 9:00 PM",
+        "Friday: 6:30 AM – 9:00 PM",
+        "Saturday: 6:30 AM – 9:00 PM",
+        "Sunday: 6:30 AM – 9:00 PM"
+      ],
+      "address": "35, Preah Ang Phanavong St.(240, corner 55, Phnom Penh 120207, Cambodia"
+    }
+  ],
   "experiences": [
     {
       "name": "Koh Rong",
@@ -141,12 +291,125 @@
         "Photography Worthy",
         "Outdoor & Nature",
         "Romantic",
-        "Budget Friendly"
+        "Budget Friendly",
+        "Beach",
+        "Full-Day Activity"
       ]
+    },
+    {
+      "name": "Tuol Sleng Genocide Museum",
+      "coord": [
+        11.548850999999999,
+        104.9176751
+      ],
+      "desc": "Historic memorial museum, poignant education site, respectful guided tours, important cultural landmark",
+      "longDesc": "A sobering but essential museum documenting Cambodia's recent history. While emotionally heavy, guided tours provide important context and perspective for older children and adults alike.",
+      "gmapsUrl": "https://maps.google.com/?cid=1428245123630618791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 11830,
+      "website": "https://tuolsleng.gov.kh/",
+      "photoRef": "places/ChIJw8jeJSJRCTERp9gvbl8l0hM/photos/AcnlKN1S5-rw_48Skf2izYCBXjP3khVq3VH3kzNpSTZZ6R2LPQHx9fGrkLwqktKzkDnBDd_giZz1D_ILRJjQF0PKd_JmMS7xXvpYD8egNitI2hgbeGAUsbHM5D9tmhMMIgCVA7JN846sCGCZad9vHDOpPlMwbtgEMgwdvkNNu_JG93Bl1ffMBIasFTZ5z3ABCxJNEpRO3pUJocRpPjZW184ZYP-hJBl07JNQW2uH9zCRRckFARVhMeZfZwCNUqXBDeZNBFPj28Rz-harWYHlm7tjMTnpWkBaEfl4GwyUqfb3Q5f-LFiIEuSTaZ2Msw1iquuOQf-W9nsUTopWx3KNoZRFZPMvUiAZgXxAVhALXJpDlDHBwsiHV-1VQCvT8OQJo1HxSfva9zEQ9aTL2Q_dqJAf5WL6FBp9anGSazHC4Ny7BFealw",
+      "photoAttribution": "Juan Mora Rodriguez",
+      "placeId": "ChIJw8jeJSJRCTERp9gvbl8l0hM",
+      "phone": "077 252 121",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "address": "Street 113, 3, Phnom Penh, Cambodia"
+    },
+    {
+      "name": "Floating Village",
+      "coord": [
+        13.0689084,
+        104.0933531
+      ],
+      "desc": "Unique floating communities, scenic boat tours, fishing demonstrations, authentic village life experiences",
+      "longDesc": "Explore the world's largest freshwater lake via boat tours through stilted villages where families live and work on water. An unforgettable cultural experience showcasing traditional Cambodian life.",
+      "gmapsUrl": "https://maps.google.com/?cid=12227888088428179736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Half-Day Trip"
+      ],
+      "rating": 4.4,
+      "ratingCount": 82,
+      "photoRef": "places/ChIJjz7WjmnXDzERGPH9J24vsqk/photos/AcnlKN3A0qE8SJnFYbC1MPyWGOA3nmdudV1t2F1i3YjLlwlMba0ul390qHbEV7ZZE8IFXlWxapyEFWOkLx3ynKjz4Bj10oiHIXY2S9B-hr94K7F2jfyKTpjVv5kmJZc4fNvTpfb38rLQFslej41Yv5ziJjK3m7Gczd5La0L1F7GhdFmFlu04HSjBUkWAW6xTCzED3VkZfFV39Zi71bTne5GiZtGCQnZ3qcWESLv4Msa0KdphrGVPIGJfC_Xas0TCWFEA2kfGrkt7hol-YkceAbaUdHEoCAmgxZS4Xc6Smx1ZGGelj9_qHA4ndUXgxeldUpT3iIhTTfGyND5GkvXpibIkNx-RR15A6IRz3Kp9mZ7_6U3c7SAbQRClH1UBEo4LU7tcOK6zqR1wwyhgaYdWx_Tn4X1HQHMXz69EDK17u_GHjbkvHA0WDjv8jiz-zcISVCMX",
+      "photoAttribution": "Farha Patel",
+      "placeId": "ChIJjz7WjmnXDzERGPH9J24vsqk",
+      "address": "44FF+Q3, កំពង់ឃ្លាំង, Cambodia"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Phsar Khmer Food Court- ផ្សារខ្មែរ",
+      "coord": [
+        13.354561499999999,
+        103.8536068
+      ],
+      "desc": "Evening market with street food stalls, live entertainment, bright lights, fun family atmosphere",
+      "longDesc": "A lively evening market perfect for families, with food vendors, entertainment, and a festive atmosphere. Kids enjoy the energy while parents sample local snacks and shop for souvenirs.",
+      "gmapsUrl": "https://maps.google.com/?cid=9120251138003229117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Budget Friendly",
+        "Toddler Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.7,
+      "ratingCount": 681,
+      "website": "https://greenmarketsr.com/",
+      "photoRef": "places/ChIJ86buFukXEDERvdkIvxakkX4/photos/AcnlKN34vcuhPOYNx2X0njCfkdbZOUWW-CPLi8DA8A8SlJMcFTcA5NTUHMIuS9rdcdRIbk3wsK89Mjr1o9xS1Tm9aurJumyN_u3KjteSAb19s8V4A-UEmGUuOJnFGpM5W0ngRTsH8AhhbUrfMXhm0FD_GlNYMV4tmZSGeC9IAtHQCFlOAPrPcGzj1UPP8ZehDi2td5dCb-fU3QJOPVPDiLIhcA1YsasD5AJZmsg3K49_9TyPK4VOCR_VjYmp4_5xGyMb2QbFTZZ8_Y8Kj--XZAbx54A8n90JzUOEF08NWUGLl1FMP4ZxCqbAtt8f0fh6y_7ravM5Wh2K9UETPXf09JLQc5v4PKAaJK2ttLDQoINW7xgrxw7zO2LWftB0jdmc2ejAbvyGPq2zy1FfgXyl17vbCPrPeUpVm6dPM-1JwT3H6DzZYnzdV37qvzixNX6hNf6h",
+      "photoAttribution": "Christian Mueller",
+      "placeId": "ChIJ86buFukXEDERvdkIvxakkX4",
+      "phone": "096 829 9192",
+      "hours": [
+        "Monday: 4:00 PM – 12:00 AM",
+        "Tuesday: 4:00 PM – 12:00 AM",
+        "Wednesday: 4:00 PM – 12:00 AM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 4:00 PM – 12:00 AM",
+        "Saturday: 4:00 PM – 12:00 AM",
+        "Sunday: 4:00 PM – 12:00 AM"
+      ],
+      "address": "Moha Vithei, Sivutha Blvd, Steung Thmey, Opposite Street 08, Krong Siem Reap 17252, Cambodia"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Central Market",
+      "coord": [
+        11.569552,
+        104.920908
+      ],
+      "desc": "Historic art deco market, local souvenirs, crafts, textiles, vibrant atmosphere, family-friendly browsing",
+      "longDesc": "An iconic 1937 art deco market building bustling with colorful stalls selling souvenirs, textiles, and local crafts. Perfect for families to experience authentic market culture and find unique gifts.",
+      "gmapsUrl": "https://maps.google.com/?cid=8497784371787364789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Shopping",
+        "Budget Friendly",
+        "Photography Worthy"
+      ],
+      "placeId": "ChIJvYX7NUFRCTERtXlA6twx7nU",
+      "address": "Central Market, Phnom Penh, Cambodia"
+    }
+  ],
   "cityCenters": {
     "Phnom Penh": [
       11.5761,

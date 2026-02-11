@@ -29,16 +29,943 @@
         "Splurge",
         "Wellness & Spa",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach",
+        "Iconic / Must-See"
       ],
       "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
       "phone": "(649) 339-7788"
+    },
+    {
+      "name": "Amanyara",
+      "desc": "Luxury beachfront resort, private island setting, world-class amenities",
+      "longDesc": "An ultra-luxury resort offering pristine beaches, exceptional service, and exclusive island experiences in Turks and Caicos.",
+      "coord": [
+        21.8292,
+        -72.338
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 308,
+      "website": "https://www.aman.com/resorts/amanyara?utm_source=Google&utm_medium=Yext&y_source=1_MTU3MDc1NTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJOSLn-ipPS4kRN013ytXOxew/photos/AcnlKN2tr5ou5zn2Wwh4FBe7LSBn85e_8pibtJ_1dSR-JiTMi3fmY9qxL-kn1h45suJS143dF9tNcwXXwkmozAx_Db_Su2Ux52A1imlw9KzTDiBV_xVgY7UTQJQStR7MoYlQpbNUHGV6OKFZHdOTUOrnXWU4dy5JUjtTHK8KgowyTewH9e0QFLC2xpvko5FJyxlehwrvlKjqReDVuyGzCuXv2EKdbijy8N1NVlW2DOIAlk3kBsE3cdg_-vNddXoNTz93p9kOhymXCyLJV7NGVJon5AB5lR3Kjx_3evsqxiHQxffvQg",
+      "photoAttribution": "Amanyara",
+      "gmapsUrl": "https://maps.google.com/?cid=17061270180983164215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJOSLn-ipPS4kRN013ytXOxew",
+      "address": "Northwest Point, Wheeland Settlement TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "The Palms Turks and Caicos",
+      "coord": [
+        21.7918356,
+        -72.190837
+      ],
+      "desc": "All-inclusive beachfront resort, water sports included, family suites available",
+      "longDesc": "A vibrant all-inclusive resort perfect for families, offering water sports, kids clubs, and direct beach access with calm turquoise waters ideal for swimming.",
+      "gmapsUrl": "https://maps.google.com/?cid=18022781611900693203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Outdoor & Nature",
+        "Beach"
+      ],
+      "rating": 4.4,
+      "ratingCount": 654,
+      "website": "http://www.thepalmstc.com/",
+      "photoRef": "places/ChIJh_2LlwlPS4kR02rIIWPIHfo/photos/AcnlKN01s3wtqH-mS7aqf9u6g9AjfECw3aF_JfYDqSEydwR-WtZ9cOJsBTbLT92iGvIAa2izWktYVSIdqofWofwomhYlt28y8qObTBKYjRn7AhEL8h5z2Bp-_iX7smJGWI7UFS6nrInojSyN8PoUJaBh2fIzlIghsMclP18TE7UHu2RVNZ18CgvE4V0JD3vxnGW2NSSAAFFxliPJbidgjv4UbWLDkBsN7B8kpulNJFQ2JkSv085kV3EGn-pkoyg0RVxa4JA09iVZIl01sIj4RUhrKElBc-X7Bt9-fhggw7IuTq9nKg",
+      "photoAttribution": "The Palms Turks and Caicos",
+      "placeId": "ChIJh_2LlwlPS4kR02rIIWPIHfo",
+      "phone": "(649) 946-8666",
+      "hours": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ],
+      "address": "16 Princess Dr, Grace Bay TKCA 1ZZ, Turks and Caicos Islands",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Beaches Turks & Caicos",
+      "coord": [
+        21.784525499999997,
+        -72.1954009
+      ],
+      "desc": "All-inclusive family resort, kids clubs, water slides, multiple pools and beaches",
+      "longDesc": "An expansive all-inclusive designed for families with kids clubs, water slides, and diverse dining options ensuring every family member has an unforgettable Caribbean experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=15526332695079536065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Toddler Friendly",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 4.3,
+      "ratingCount": 3886,
+      "website": "https://www.beaches.com/resorts/turks-caicos/?utm_source=google_maps&utm_medium=business&utm_campaign=beaches_turks_caicos_resort_bl",
+      "photoRef": "places/ChIJZfKRkwVPS4kRwcW_-lKdeNc/photos/AcnlKN2FmyURRoZq-RNAZAl4qiJ1Y1s1cFL5iep2jd9i9-4uKeR67jhtD-RxNQIJs76igu11KeMFTo58TPaeJi46Wucnsi1pTFCMviza-koeV8vBKMNp-orISQ-B15vXJsBWgeOown9mfcBL1bp0Q_2MPeNE6DHjUZg6-_PIPPMxZ8rOAXDiPOMQvPU-fNCQvsV9XSlcqJVeKmh7TVkoHxwdknKmy8MOQMC4E72w3XycvLmL7exAV0Tx5mAaVuU72toWl6-qrjdq7cdDAWRyO71twabu3Sq4kj1ykxqX_k_D80RhRw",
+      "photoAttribution": "Beaches Turks & Caicos",
+      "placeId": "ChIJZfKRkwVPS4kRwcW_-lKdeNc",
+      "phone": "(888) 232-2437",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Lower Bight Rd, The Bight Settlement TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Alexandra Resort – All-Inclusive",
+      "coord": [
+        21.7912904,
+        -72.19252589999999
+      ],
+      "desc": "Oceanfront condo resort, kitchens in units, spacious suites, family-friendly",
+      "longDesc": "Spacious condominium-style accommodations with full kitchens and oceanfront views, ideal for families wanting flexibility and comfort during their island getaway.",
+      "gmapsUrl": "https://maps.google.com/?cid=10524118997688017400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Beach"
+      ],
+      "rating": 4.1,
+      "ratingCount": 900,
+      "website": "https://www.alexandraresort.com/",
+      "photoRef": "places/ChIJu3YQBglPS4kR-GEiH3guDZI/photos/AcnlKN0vgiqphBrP85zMri0qxsKlZdIHYwYUPnDPh-0UQ9nSRTCBH0rh79PEKKjhGx-_wR3tgEysYEDt6jcer3ZHT2R8VhfBLdgaATgtBiPgk7kkaPLji6bF-fKd7XzdRsb2b2FTtG7BrNXie3InPJ4pUfEInVJZMpf-v1j3Cz04BPbfuvkxQEjzNiZwRZoHLSavtBuhAIEdYS4M5GYUtnLYe2qzZrxumBl2CusAyReA94uJj4vvgD1KIOJ4qJeYtb04fcMVkrK6LkHwzwTI8IKmARaqc373pO6e4U9ItB5a7Bq6OA",
+      "photoAttribution": "Alexandra Resort",
+      "placeId": "ChIJu3YQBglPS4kR-GEiH3guDZI",
+      "phone": "(800) 284-0699",
+      "address": "Princess Dr, Grace Bay TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Sibonné Beach Hotel",
+      "coord": [
+        21.794151799999998,
+        -72.1900424
+      ],
+      "desc": "Boutique beachfront hotel, intimate atmosphere, excellent service, great value",
+      "longDesc": "A charming boutique property offering personalized service and beachfront access without the resort crowds, perfect for families seeking a more intimate Caribbean experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=7110723684246595730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Romantic",
+        "Beach",
+        "Hidden Gem"
+      ],
+      "rating": 4.5,
+      "ratingCount": 303,
+      "website": "http://www.sibonne.com/",
+      "photoRef": "places/ChIJ3c6EYhhJS4kRkqh5P4RdrmI/photos/AcnlKN0ngLDpusED0WKD9OYs8kfn2vxK6Zw98UQJjhRK8sO0T26g4GLIgqxcqheRfXfEpyKuh2Gp8S0T2pIV0HwX4e8vQNtsDYscLTYXyCaTfUnq-rFEwcBxdmdHosYrw9Q1d1UJQwBoEkQunWek0nbG9xLiBULibcsZw_eih_lZ02eDX89QP_lBs3D_PvYCrroPcaSiNsBvn-BoJt9Xhoyymh3l9pKi5pcg32bwACkE1A6hnZixSN7HhdghRr_z0BHhzquBVNSPOClZFfE4bw0ipwF_rcDMIPqq89H7RFuvWjvSYg",
+      "photoAttribution": "Sibonné Beach Hotel",
+      "placeId": "ChIJ3c6EYhhJS4kRkqh5P4RdrmI",
+      "phone": "(649) 946-5547",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "address": "QRV5+MXF, Princess Dr, The Bight Settlement TKCA 1ZZ, Turks and Caicos Islands"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Da Conch Shack",
+      "coord": [
+        21.793689099999998,
+        -72.2610394
+      ],
+      "desc": "Casual beachside eatery, fresh seafood, conch salad specialty, casual vibes",
+      "longDesc": "A beloved local spot serving authentic Caribbean cuisine with fresh conch salad and fresh-caught fish in a relaxed beachside setting families adore.",
+      "gmapsUrl": "https://maps.google.com/?cid=2257044718103046426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Beach",
+        "Market / Street Food"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1913,
+      "website": "http://daconchshack.com/",
+      "photoRef": "places/ChIJq6qqqlpIS4kRGim0eDaiUh8/photos/AcnlKN3EZGNq8q9zx0ux9f1ZAcK695_jgFXxMtFSNB_U2NHvkazCUSPiffjr-pfRmsorzIV1MIhjYAyL0UHtfansubylAX_RDFlwUiAI5PdoLLqStk-C3TYaQCiYsGtz4VWtyxiKu8tATfqXVXpSeMjzguTDHSp5L69D4X5bFVm0x8GM7Wg8AQD_1qEGyuAuM1-grdkEcTj_FHfqPGORbpjQ5j3q7By1IeYTnDdwu65fmkvSQcOwmBYKHm-ppkFeMzOIpdcRanNmEgnqzE2TXTOQUrSBDZPumgIuRIr17gkVXfvGt_oiiN9amDhR7LpjrvjzEjSsHv8NvuLB7TUxtGdzL1XHZCcaPNssUFbz83DeBz4PVjyR7Us59PcsgX5aZN8PwBnS3RHIzBL0ei-MO0VqlPp76eZELusvadevq4wa4nw",
+      "photoAttribution": "Kitts Caribs",
+      "placeId": "ChIJq6qqqlpIS4kRGim0eDaiUh8",
+      "phone": "(649) 946-8877",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "address": "Blue Hills Rd, TKCA 1ZZ, Turks and Caicos Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Chalkies Sports Bar and Grill",
+      "coord": [
+        21.742490699999998,
+        -72.2786483
+      ],
+      "desc": "Waterfront dining, Caribbean fusion, sunset views, excellent service",
+      "longDesc": "An upscale waterfront restaurant blending Caribbean and international cuisines with stunning sunset vistas, offering a special evening experience for families.",
+      "gmapsUrl": "https://maps.google.com/?cid=13539067484163705877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Romantic",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 133,
+      "website": "http://www.chalkiestci.com/",
+      "photoRef": "places/ChIJTSaQP-FJS4kRFYyezyRu5Ls/photos/AcnlKN3daIyccAf7KXRCmVoxByXi06436JTORmK8_Pni5alvXJKt8xiKKswPAK9GGlngP8BrrcaX4JAxdPayvapgnmBiFPKbgXH-6_qh55quRJol7ll3sqMrldnog5XdP5iGLrrr99hYCt4R4FF5F4HLzuUy7BmMu7uFzHWoLIPuveX0dsiRM3YPBNMvxHU28yCnPgIQuyWkguloYramxhfRng0lTi7h2LgkdYF4AsdvG9n-GRL5LulKw3bhvcCkWlSaorQebkRIWWT8tFGgGwYiYelzlsFw22Ar4i1eyFXRcgC7Kw",
+      "photoAttribution": "Chalkies Sports Bar and Grill",
+      "placeId": "ChIJTSaQP-FJS4kRFYyezyRu5Ls",
+      "phone": "(649) 332-0755",
+      "hours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ],
+      "address": "513B S Dock Rd, TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Bugaloos",
+      "coord": [
+        21.7556135,
+        -72.2638266
+      ],
+      "desc": "Casual beach bar, fresh seafood, island atmosphere, live music nights",
+      "longDesc": "A relaxed beachfront establishment serving fresh seafood and tropical drinks with a fun, laid-back island vibe perfect for families seeking casual dining.",
+      "gmapsUrl": "https://maps.google.com/?cid=6753594742007497362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Cocktails & Bars",
+        "Good for Lunch",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Beach",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.4,
+      "ratingCount": 858,
+      "website": "https://bugaloostci.com/",
+      "photoRef": "places/ChIJnbnM0GtJS4kRkoJNwqKWuV0/photos/AcnlKN27kUOOCb-iUFYXSQuMbtw9uXQ0PzVFJdWh5a5Eh7tuE7mrJ6CpOOF3_Zj4k_9JOX_Qq6y7s5MSvpTh1EXCEByXGSiVH2gH6G4NsDr9DVhXSwqZj1kTpnEq3g1IrzYxMOKwWJhjTeiXWlLQX6XaxmOG39k0WoBX9V3Dn1U7k2nxSnkviiBYQDthjItA6IbGbwPiEQ62mQZj5HSzOO3fvOvX87F3wTMKjqlrtVi-MvFJSzF0L4AEVSQbdmCwUk9ET-cd2EjXGRtkvUUaSiiEFR0ZfdHD4JyJHowZJ28009J0Dg",
+      "photoAttribution": "Bugaloos",
+      "placeId": "ChIJnbnM0GtJS4kRkoJNwqKWuV0",
+      "phone": "(649) 941-3863",
+      "address": "Five Cays Rd, TKCA 1ZZ, Turks and Caicos Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Coco Bistro",
+      "coord": [
+        21.796041,
+        -72.17036999999999
+      ],
+      "desc": "Farm-to-table dining, tropical garden setting, French-Caribbean fusion cuisine",
+      "longDesc": "An intimate restaurant nestled in a lush garden setting offering creative Caribbean-French dishes made from fresh local ingredients in an enchanting atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=10019746533514521610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Photography Worthy",
+        "Romantic",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1277,
+      "website": "http://www.cocobistro.tc/",
+      "photoRef": "places/ChIJq6qqqlpIS4kRCqyVpWJKDYs/photos/AcnlKN01e8xjVsr6wJIl7_6fsBHNWOIeJ_oh8uf1zXqikvIS6mLPONgE_zYu7IwmRJ_PyZQbucI5UnJgQ271BUVkfvoJ0gkcqQDbnA-873-lPx3nyg9P6duOxNRZH0hxLN8xtLO0AHIArn6C_LaAZKX3ReqnHHrSUd-ZY6-FgxARc7aggi31Z2m06TN9xtGkbini_VwZqeiJChxaOYBt60MvlbgM0VhIpYu6ZplCCA8jQzydOruBBY9YRkUgml4f9DxxQM_74KnSajw9G0LMYqzKgtgxSQdQAIatwPttyo9XWmTPlw",
+      "photoAttribution": "Coco Bistro",
+      "placeId": "ChIJq6qqqlpIS4kRCqyVpWJKDYs",
+      "phone": "(649) 946-5369",
+      "hours": [
+        "Monday: 5:00 – 9:00 PM",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 9:00 PM",
+        "Saturday: 5:00 – 9:00 PM",
+        "Sunday: 5:00 – 9:00 PM"
+      ],
+      "address": "Grace Bay TKCA 1ZZ, Turks and Caicos Islands",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Caicos Cafe Restaurant",
+      "coord": [
+        21.7952618,
+        -72.1751215
+      ],
+      "desc": "Casual beachfront cafe with breakfast smoothies and coffee",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9071620305599954472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Breakfast Spot",
+        "Coffee",
+        "Beach",
+        "Family Friendly"
+      ],
+      "rating": 4.5,
+      "ratingCount": 329,
+      "website": "https://caicoscaferestaurant.com/caicos-cafe-restaurant-food-menu",
+      "photoRef": "places/ChIJVyYIG71PS4kRKH6BvJre5H0/photos/AcnlKN1vw6v6XYdtM7F5f4YpkH6zL0cDPH8rOvwCOcq1V1qwls7hwYj16BmENAKYC7Zm4AQEyZGD6PZKBpDtI-_xeb0Gqnz7JwLpcx4qdvUqL8sW3zxAtiEWaWiEKwYkVq9mOmqCrG9bnGXrSUZHD1u6bA0oh2K8K46KD778V6WChUyMr3NLOW3vtGrbQKF8CG2JB7kzj6Qil1SE4XRDD_yd0ylAgL81XzG_GnmR-fZbjTIFIsgYlSvFuyhhiEmnbCdvma1rNCxfxdMljJFEtEhahqgIWREXWkCnwNP11Eq9MtzqKw1ulYqkT42M2t3li2SuaF54moWea8I1Q-sXmGhPD_ZJsDH11gptvI3mBWK1ay17RlCtLpOxT-1pHRi7NnlyJaL6TKhX_B5VFTjA95T4mItRlGWRrt_n6DZnsef3ZKEo-8BaHu08Bv5AH4ykFA",
+      "photoAttribution": "david LeBlanc",
+      "placeId": "ChIJVyYIG71PS4kRKH6BvJre5H0",
+      "phone": "(649) 946-5278",
+      "hours": [
+        "Monday: 3:00 – 10:00 PM",
+        "Tuesday: 3:00 – 10:00 PM",
+        "Wednesday: 3:00 – 10:00 PM",
+        "Thursday: 3:00 – 10:00 PM",
+        "Friday: 3:00 – 10:00 PM",
+        "Saturday: 3:00 – 10:00 PM",
+        "Sunday: 3:00 – 10:00 PM"
+      ],
+      "address": "Grace Bay Rd, Grace Bay TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Hemingway's on the Beach",
+      "coord": [
+        21.795344,
+        -72.1884216
+      ],
+      "desc": "Beachfront dining with Caribbean seafood and island views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14488762140515043723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Beach",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 898,
+      "website": "http://hemingwaystci.com/",
+      "photoRef": "places/ChIJq6qqqlpIS4kRiwmH7GZsEsk/photos/AcnlKN3sqGWpk0yxEVmJw5yQlpYafSIrqJfi9wcvwQ1ML_kVTKeUP-w8oFpYalTQztqfKjKq-Q1zjZSqIu_o4x8fhNkS1NlcuZ1ufk-YhevtJEHZbyJoFhpNwEhInwFL65-XFF6cKRQFPo1t1nf_FJTs1lxxQA98YNoKEc2pbYv4CGHN5WiTCjfCgskqjT-4HaRHjd00stfwQMTMgY2OJXJB7xITxcI8f6irN3joMejIS-RyYOVMYOlvymLcbilfs-_fF4r1ejFQA1EF5DU5OBhGs1_Zpooh8XI4WFEaq0qai2AUXQ",
+      "photoAttribution": "Hemingway's on the Beach",
+      "placeId": "ChIJq6qqqlpIS4kRiwmH7GZsEsk",
+      "phone": "(649) 941-8408",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "address": "416 Grace Bay Rd, Grace Bay TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Bay Bistro",
+      "coord": [
+        21.7941854,
+        -72.1900802
+      ],
+      "desc": "Upscale beachfront dining with fresh seafood and sunset views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6044591842835193168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Beach",
+        "Scenic Views",
+        "Romantic"
+      ],
+      "rating": 4.2,
+      "ratingCount": 543,
+      "website": "https://bay-bistro.com/",
+      "photoRef": "places/ChIJGW7mf5BPS4kRUF1qZEG04lM/photos/AcnlKN1qPR3GWqaH_85pO_QwUBYfVPZlsPvDyblWWdyu5A_v5gWQHk7ERMTblSgWt7awRLyHTPHRyrhUX3T0ItrwTR77ngNPlKFRqM5jSiG_vD4GdkcDt9ySNhUJnmXcYl75KNJQ1nmtQ-TWK1y4m8AS99gfd88oznwfkryfvpX0b0jnuMmLvivxHphvvBKAPEIYufHDCj84zsgDpkMEcLdY6BwDLTcVE3Iy4Ev42ue87BuPVYcPlZp32SH_fpbkGmsCzq1kG6aFDH2uh4Usycw3MRR7U0TGFQr0o5tnlLgw-XzdDQ",
+      "photoAttribution": "Bay Bistro",
+      "placeId": "ChIJGW7mf5BPS4kRUF1qZEG04lM",
+      "phone": "(649) 442-1058",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "Princess Dr, The Bight Settlement TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "The Deck",
+      "coord": [
+        21.797848,
+        -72.17658660000001
+      ],
+      "desc": "Beachfront fine dining with Caribbean-Mediterranean fusion and stunning sunset views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16429409860401289286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Beach",
+        "Scenic Views",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 311,
+      "website": "https://www.sevenstarsgracebay.com/",
+      "photoRef": "places/ChIJo9d0_ZdPS4kRRtiEpjj9AOQ/photos/AcnlKN39alVZ3oq51FozOCjGvZXJ3eiMcsMUqS1UgQ9DsrdDEJKIcLh6f04gn-kYsZdVD5nn3KoPvlLNIlfjzyhwML_oTBAoHlnDZD5yWKxclnoJ-dhyhtlDVLqswF2GFNaQIxKa46qvLYe7xt_bIiWOqAHCYof_PRer6G0E0sOfcug8JvOjdQed1wMM_NOrWVhze8IwhqyszJvS7nQEYDSfIDaQeboI1bAVwbapvt_mjzpTPGRGnaKRSg3h-yzz7hgAGR_nN1L9WwKBr_2GbyUdGgnfavfUTxDbpsqKTFdz4HEjCygmY4HUWcSA4egC1zTT0aAnZQHQ5u7yohikXOmem5rVq5bTwN96PzlnFJ4kFWl4epz_8MJuoYz1HPfnsXWhfNq6xYg2U55Bd__FE03jZNLgfo1GiPIZIk-eQNamTCsU5ZfANiDLfkmFyaKfVxeB",
+      "photoAttribution": "Zach Johnson",
+      "placeId": "ChIJo9d0_ZdPS4kRRtiEpjj9AOQ",
+      "phone": "(649) 941-7777",
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "address": "QRXF+49M, Grace Bay Rd, Grace Bay TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Las Brisas Restaurant",
+      "coord": [
+        21.744901199999997,
+        -72.28241469999999
+      ],
+      "desc": "Waterfront Caribbean cuisine overlooking Chalk Sound's turquoise waters",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18381183584058825066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Scenic Views",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 818,
+      "website": "http://neptunevillastci.com/",
+      "photoRef": "places/ChIJ76HnlJFJS4kRalkR_xQVF_8/photos/AcnlKN3nmncfDRmth86FaScUPQUs9bGA8Js6uPDEvNMfTouICGh-Xv7RYuSdjfeqgxbeY7_164jgz0pBa4q7ijQw78zYVJ3dpByS8Up0osodWHFHaVGCJl3_TjBgWfvphHAXlWqPiGZtnR9XcXWtWLmHFJ7QeUxgG0WepibORHrhVORS01_4zltkAjbYIxwM6FSlY8542eVXR0O56g9lSZPNJtA8blWoSCvr6rokjZ8fK9PYcqmzEzCu2U1s3YAMXU04YZhaiqoW9HSZwF4ofy81bzNHlxI98oZnONcra929moTvTtZEK6E31pJH12Br5iqu6VxzhvZA27WWadEKDNFphusBTIDHepVTQzONQ4HrdzxZSIRIwSEw33dbtF-aAlH8qcuqxOz2T3U-BaKIAbRYY1mfc1XtdBVYdFDHZwe9wo8FK3aX",
+      "photoAttribution": "Sarah Stemen",
+      "placeId": "ChIJ76HnlJFJS4kRalkR_xQVF_8",
+      "phone": "(649) 946-5306",
+      "hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ],
+      "address": "Chalk Sound Dr, TKCA 1ZZ, Turks and Caicos Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Somewhere Café and Lounge",
+      "coord": [
+        21.785407,
+        -72.204505
+      ],
+      "desc": "Casual beachside cafe with fresh salads, sandwiches, and smoothies",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10226714360774482698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Good for Lunch",
+        "Budget Friendly",
+        "Family Friendly"
+      ],
+      "rating": 4.2,
+      "ratingCount": 839,
+      "website": "http://somewherecafeandlounge.com/",
+      "photoRef": "places/ChIJTbmopBtPS4kRCltZFYeW7I0/photos/AcnlKN0wMTmek4ihsrw3q6o95Cud18EN8rqJH4_cKSNdqZjG3CAn9n0NsEDmQaKLXvMKP75QtgBAj2BUjn6VqXYMwQ01hkrhqFrlJCzV_g8xnsfqm0k6TG3VwIUMVh_VKyqy39L1M4_1hRkvT2kHb5k4FrxtVyWlweN2mlIMMyNc723B7VXpi1Tx1SjKp9TlqAnm4s5RMmoiPHIgTYxpqTXMIEOur3fHJ_PWkOaaQBfULh8247-CaOOuNFygKNnCg6DLqKES3RECVEAGDf00mpD2Mbnf38Mf_eJlwCBCh2pQ0cgSEw",
+      "photoAttribution": "Somewhere Café and Lounge",
+      "placeId": "ChIJTbmopBtPS4kRCltZFYeW7I0",
+      "phone": "(649) 941-8260",
+      "hours": [
+        "Monday: 8:30 AM – 10:00 PM",
+        "Tuesday: 8:30 AM – 10:00 PM",
+        "Wednesday: 8:30 AM – 10:00 PM",
+        "Thursday: 8:30 AM – 10:00 PM",
+        "Friday: 8:30 AM – 10:00 PM",
+        "Saturday: 8:30 AM – 10:00 PM",
+        "Sunday: 8:30 AM – 10:00 PM"
+      ],
+      "address": "5 Penn's Rd, The Bight Settlement TKCA 1ZZ, Turks and Caicos Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Captain Oak’s Tiki bar",
+      "coord": [
+        21.799386,
+        -72.13412060000002
+      ],
+      "desc": "Casual beachside grill with island favorites and cold drinks",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16636958718354077584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Cocktails & Bars",
+        "Good for Lunch"
+      ],
+      "rating": 4.7,
+      "ratingCount": 39,
+      "photoRef": "places/ChIJAzzTwddRS4kRkDdV1s5Z4uY/photos/AcnlKN3SY6Y2ngwl3_kFM_jE5CKDcYHWbgyBq3Omzi8oA2NH9HKwFm-dJYzwIZPMCFNtFYBv7SoVjB9F_eHI51V_r5WXF3P5BiDN8ikaWb8u_aBrII43tQK0PwBKC-hJAv8w8k9ckfV67-qhRoc_c27Ox1vgcN6eQJCpMoyV2nIi9lx7SsK1Any3UkbS2aV5ZBrlLvCT6nSCkNFirnRmkJsMN_zU615Z5gy_nOT8aGsOnSvD6QYJ_BMOm7dfsKJfHaM8RThlHrPztOANpxZcfLcO0WLDIfv7PzrZn1zNH5xzwks8D-jtf3NtF6e25AQqa--fknuJWtMrjCvIuMfj42oajC5-fazW5_r-PocZpG7oxqy1vEvEKtaqV8nb0g7vcV7ilL2syI6IVtgWBXuPL8pDUFKPdOvqNtFaySQpXvqGZnDvkEMo91qElQTtAUuGww",
+      "photoAttribution": "Photos are copyrighted by their owners",
+      "placeId": "ChIJAzzTwddRS4kRkDdV1s5Z4uY",
+      "phone": "(649) 345-6581",
+      "hours": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 12:00 – 6:00 PM",
+        "Wednesday: 12:00 – 6:00 PM",
+        "Thursday: 12:00 – 6:00 PM",
+        "Friday: 12:00 – 6:00 PM",
+        "Saturday: 12:00 – 6:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ],
+      "address": "Old Grace Drive, Leeward Settlement TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Fire & Ice restaurant",
+      "coord": [
+        21.8171464,
+        -72.14726739999999
+      ],
+      "desc": "Contemporary fusion dining with sushi and grilled specialties",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6523069592388917188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Beach",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "rating": 3.9,
+      "ratingCount": 24,
+      "website": "https://www.bluehaventci.com/dining/",
+      "photoRef": "places/ChIJTY8LVP9PS4kRxFd-yzuZhlo/photos/AcnlKN1y1UASJUmKXcERyRfiGwcM6m4vZS7OEzntNoNYByiSfOfel9CSrX_xDXqQ6RNit8McK1QKBCTg5QVCNNfaq_PdGWwVY9yhos8VTzP2ymvAsSnpXUpj_cPdSaHQXSZ9ytWoZ5PFj_PF9j4eNBuPvgNKBX57RtQmu5qK6spUpbevJ3GsJcgan8nuSd4qE9hJpXrSSWeL4i_6Z2bC4wBDzo9NF2Hh92qA5vWZr1jYesc3ikFDhJr_8uzvGDS12nW0vwn2SQPKKxH-vIEYeFrZrEwlFPRyXZ0Ytnbe7IcVyl1pufr2Sq_AHgXWRzgxG0HAGZkd1_CVZ8tAf6sv0bE9PcO2nsUEDq_2r4vNZFb8YiX4pVUnxHvMjWoks8Eu7igCKl0pUOyRBcFTldyURWK3NwlJR9qGWMS6JAnf9GEeMNIBkyM",
+      "photoAttribution": "Brian Wemett",
+      "placeId": "ChIJTY8LVP9PS4kRxFd-yzuZhlo",
+      "address": "RV83+V35, Leeward Settlement TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Parallel 23",
+      "coord": [
+        21.791838,
+        -72.19089989999999
+      ],
+      "desc": "Upscale beachfront dining with Caribbean fusion and excellent wine list",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11069966436368691838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Beach",
+        "Romantic",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 99,
+      "website": "https://www.thepalmstc.com/dining/parallel23/",
+      "photoRef": "places/ChIJ98M4gQlPS4kRfrJAm9JroJk/photos/AcnlKN1A6Dv-wURyyjycoc4ExB1b1AnaK_2tvChYEnVvvQ9TSYfOb3FyELEWKuKu8x1TrL4d53iVoJIhSf6bubgT9SCexussSapsOkE-Os2-ITZ3m5mzKSTHjCyLwQwDma1hHMiDtfcwWNeMoou31n9wEgTAlqRrSYHZumYK3FYfhfIbSVlKKtMja8tK7mIzqhtg2VRSE3RAdwQGZgZ6u46SfNz-HYbHLgHkkFvmItCMnZPbdCUvDGEOu3kN5HbTl9e8GUMcujzHSZS4_SiSyi5UcdB90lGX1LSaD3SvdMDSrfRlcg",
+      "photoAttribution": "Parallel 23",
+      "placeId": "ChIJ98M4gQlPS4kRfrJAm9JroJk",
+      "phone": "(866) 877-7256",
+      "hours": [
+        "Monday: 6:00 – 10:00 PM",
+        "Tuesday: 6:00 – 10:00 PM",
+        "Wednesday: 6:00 – 10:00 PM",
+        "Thursday: 6:00 – 10:00 PM",
+        "Friday: 6:00 – 10:00 PM",
+        "Saturday: 6:00 – 10:00 PM",
+        "Sunday: 6:00 – 10:00 PM"
+      ],
+      "address": "The Bight Settlement TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Shay Café & Lounge",
+      "coord": [
+        21.795066,
+        -72.18237069999999
+      ],
+      "desc": "Light cafe fare near airport with fresh juices and sandwiches",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6646245890157744026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Breakfast Spot",
+        "Coffee",
+        "Good for Lunch",
+        "Budget Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 715,
+      "website": "https://sites.google.com/view/shay-cafe-lounge/home?authuser=0",
+      "photoRef": "places/ChIJLTOlc6FPS4kRmo_AfGw1PFw/photos/AcnlKN3D21y2BIX2X6tGbwOtzcskLijzn8UGGSbIaCZHoWKKd0zTq25q9VoK-DK0uQX7GE0uS-l_LORl4rdYS7BQ_ugHR6TJqYmnXucvn7C-pdnduoMwuyLnQTmX6fteF9LpqC93rtxajwtksQtSORTZfRwguq00n-jEgPRo52mC6Cy4arkAT0CiCIgzpOMvtoCrbqFwk4e32yM7nIzYtl0FC1kpQDQrkMIrvMSIiKTBJEyPcITnBRF4nDQiFhPdSKFA13ma4bUSsRZD8WaclH524LYq-Y8iN6mbpfp4_9cyFWuV9WzJFXh634-7KAld65jNyTqeuYofunFylJD6CpPWrWg4p5Ko-gRgr0Qf1q-ja9B8K0mrwJzKzaTy5lRisGMcTeTBa8Rayns1y9OtG0KtoRNjuNnS-N7v_Xf0kLbvmiRGM_pc",
+      "photoAttribution": "Ian Soper",
+      "placeId": "ChIJLTOlc6FPS4kRmo_AfGw1PFw",
+      "phone": "(649) 941-4959",
+      "hours": [
+        "Monday: 7:00 AM – 2:00 PM",
+        "Tuesday: 7:00 AM – 2:00 PM",
+        "Wednesday: 7:00 AM – 2:00 PM",
+        "Thursday: 7:00 AM – 2:00 PM",
+        "Friday: 7:00 AM – 2:00 PM",
+        "Saturday: 7:00 AM – 2:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM"
+      ],
+      "address": "E101, Le Vele Plaza, Grace Bay Rd, Grace Bay TKCA 1ZZ, Turks and Caicos Islands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Smith’s Reef",
+      "coord": [
+        21.7865334,
+        -72.2296428
+      ],
+      "desc": "World-class snorkeling, vibrant coral reef, abundant marine life, family-friendly",
+      "longDesc": "One of the Caribbean's premier snorkeling destinations where families can swim alongside colorful fish, sea turtles, and pristine coral formations in shallow, protected waters.",
+      "gmapsUrl": "https://maps.google.com/?cid=8847013957889310852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 487,
+      "photoRef": "places/ChIJyzVfdS9PS4kRhEDqOlLoxno/photos/AcnlKN13b2OOrvn5OdaSC0xZK_6cQWAR6_vmeGDWDEad6nhReTMTSKTXjQCiV5X0-UPwsof1kmWe7KJgqr-W5BpS8Pec7ThBz0eRmzzKxQ7agTUqEV7IqW2B6MF8cKzAAxVypgEVdsbxB18BHDhuKTCgqWRCDNOvrcn2Owv9QtPc4cCNHcZOq48YuT29MnafE4RwYFYfY8L9P4Io5fGfXkxSz_0Ml4P9uAUl-ExFLIFbsTKsyTj5Feo-4_5SnK5euPQmNZhSqemdYg_AZa8w79_1sH5BjDPfwEfFMwb_KBqel91V1YWriuBxtiMllyqbtnk6QFb7diuxN60cMt4i8IN_56uqo84nyHMmra36_q1hN_TxfXtCx1I9S5sm2FtPWyvDuepxh04yf4rXtGdnUsYIT-GCglhCbKwaIwzkbjXMalmgziGt",
+      "photoAttribution": "Luke Sledge",
+      "placeId": "ChIJyzVfdS9PS4kRhEDqOlLoxno",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Coconut Rd, TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Grand Turk Whale",
+      "coord": [
+        21.4260079,
+        -71.1449246
+      ],
+      "desc": "Dramatic underwater cliff, spectacular diving site, dramatic marine ecosystem",
+      "longDesc": "An awe-inspiring underwater dive site where the ocean floor drops dramatically away, revealing an extraordinary world of deep-sea creatures and stunning coral formations.",
+      "gmapsUrl": "https://maps.google.com/?cid=11160550734506416209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 39,
+      "photoRef": "places/ChIJV0U60UXXso4RUdj6C8M94po/photos/AcnlKN0NldDoEUynDGHihbRGwi845yhGlTrrpCjH8vtG8zTwuGQrLpRSHC9U5I1WW6eMrVBi7BA6ehLoVSK-63dNUudTJme-gGD-uwj9pNKDBPb0N4912qp2XKONtwzqAQJCqHxiU8y1EcGZmogAccnMmwkpryZeXxrtANqXFKg3sPBzL49C5RMc0jvF1FeDKIieueIxs4nknd-gG176my3DGF5Jp7hVgrpSZOYtERODiKplfGKK_vBUcO2oScg55Zu1uGTom6DTrq_lUgvhVb7Pr8OoA5KXk_sUzldSlaKvCoQcjnqsK5tl9WrrDN6k3PywSDbbrXPHIvDR7GXOVJuZSU8CCoQrNqS9pgPAatbQyr7JbH13Gy3OS1kNaMunvnsGwKbvZT_rcNbP1KM3SldAKqHpq9uKVbXQixG5V_8Iw9CD6WOL64SvkkPjH6hXNg",
+      "photoAttribution": "Ludomir B",
+      "placeId": "ChIJV0U60UXXso4RUdj6C8M94po",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "CVG4+C2, Cockburn Town TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Chalk Sound National Park",
+      "coord": [
+        21.7690533,
+        -72.2978297
+      ],
+      "desc": "Stunning lagoon, kayaking, shallow turquoise waters, white sand cays",
+      "longDesc": "A breathtaking protected lagoon featuring brilliant turquoise waters, small sandy islands, and calm conditions perfect for family kayaking and swimming adventures.",
+      "gmapsUrl": "https://maps.google.com/?cid=1792542679868417081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views",
+        "Half-Day Trip"
+      ],
+      "rating": 4.9,
+      "ratingCount": 27,
+      "website": "https://www.visittci.com/providenciales/chalk-sound-national-park",
+      "photoRef": "places/ChIJPahHalhJS4kROaRI7hFk4Bg/photos/AcnlKN1hLmXysn-L2j52n4RUTsIBRMKywfbQzukJPeYZqrK9AOzVCNL8tZroQtU9LlV3hkOl1BZtVdovMhyyl5O3cpotTuCljhklW1s75KZaM8kLmkRw4D3uRVC3z1HsKlevwWkCTZFuV174atm-dpI9dRIkq_PUSXf5QZP7vd9AC4CaHw4Oo7X5QWL4eISFC6--kJdJ02g0VW2gdLXg9cMd3BsPzY88Jo95sqCACKgdGH3LIU3lbWJ3j8REv_IRlJZBzzY_o7K0wK7oj-7RqvZByCUXdZspYxRCKLfh6sJ3UWo9k98mK_Txv8qJh_YOIefMlKV45ILJWxdyQ0jLrF3H-LyxSYm96jNfC9r_z49ljERkBA40iiFq1GjiDq2YMKNMBuvbbGcXMNSV5HnL-6ZDQtjjM2-B60-0LvjPz21HwWFAyK7j",
+      "photoAttribution": "Nicholas Dass",
+      "placeId": "ChIJPahHalhJS4kROaRI7hFk4Bg",
+      "address": "188 Chalk Sound Dr, TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Grace Bay Beach",
+      "coord": [
+        21.7980019,
+        -72.1760505
+      ],
+      "desc": "World-renowned white sand beach, main public beach in Grace Bay with shallow calm waters perfect for families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14917578005965573168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Iconic / Must-See",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.8,
+      "ratingCount": 846,
+      "photoRef": "places/ChIJu1zi45dPS4kRMAzC4ijiBc8/photos/AcnlKN2CidKKSUpm0T6yrDLV9EtpmdIdBCkFFNcDlD00L9amEoTnWqOTTd3wBXBem33BbWm92c_jIq8q51xj9NVDu0SJUpLB1Cq_lq6UB_ej6P6KzxkVLV_WQApUyrE2zNOoQI-U4Fx4XWz5usovNHBlyyeDTpkTk3gJzkw1mhiH_0VcQM1Gh_mf23SCcYalAH1rj377HkWoukRWqlnzFBbzXY7gvsx9rUVzOdQ4PErXuKpOBQZvonH2dBie2TS-7FN-FmeOozH06NyfxvIsR70bwU9BP6W5ILtH7V7cF5G7jYKCxNSvdFcTB2BWfK4kZVV-wdyvP_X8KeLVYF4v1jpBez6Nty1k8NX0Awvzj6S8Wo_BOYs_GMVYu4a2rqtiKE5UtcfSQKmNqW1BaTRBADwRn5uWjinJXae41e5dxkWGwgxqaXHTEewd4f37M6GSpxzc",
+      "photoAttribution": "Carlos Alberto do Amaral",
+      "placeId": "ChIJu1zi45dPS4kRMAzC4ijiBc8",
+      "phone": "(401) 636-8124",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Grace Bay Beach, Grace Bay TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "The Salt Mills Paza",
+      "coord": [
+        21.7947655,
+        -72.18150949999999
+      ],
+      "desc": "Open-air shopping center with local boutiques, crafts, and souvenirs in Grace Bay",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11157714579297948561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Family Friendly",
+        "Hidden Gem"
+      ],
+      "rating": 4,
+      "ratingCount": 3,
+      "photoRef": "places/ChIJQzcATgBPS4kRkVNANEsq2Jo/photos/AcnlKN1fkY4tPHvp25DrD9_cE0pDwX0ZoqJJfcyK-uAbB6JlHN_gCCEPLLuhJWAoDeK7hmxTecV8z2L06aMDDURMaQmUiNuzu63HvyOPogNTsWYG5g9ZepbMjdvFb9Z9wj6-sVhlB20S0ZujHA59rzr6ZcT3Z-GC0fjRu_mr0U6L-qb8aVfynUoj3-Nbmo-XuOkLR5o55giyJO3j1lfP49e10-hAEIrHPiNHuTJQZOjphxIfv4lYDQRCT2bUTuAJIYrMqZ9rYZfYRe8uo2LkwFuisCGHGTB998cPiRQOPKpnhTVV38z0GBgQVIq_DsQdQVFeymm4zjtkehmcneJ1ebrrf8nqTgmd9Tbk5XEEr3188eYwTNFBh_eznDeyf0iYmOxp730aH-AF4p2swT3fKpXGCAdL2wjDySG6OiXYGthhzjigvUBatC7NEHEG4f-ubg",
+      "photoAttribution": "Christopher Gonzales",
+      "placeId": "ChIJQzcATgBPS4kRkVNANEsq2Jo",
+      "address": "QRV9+W95, Grace Bay Rd, Grace Bay TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Grace Bay Adventures | Turks and Caicos Islands",
+      "coord": [
+        21.7856937,
+        -72.2265887
+      ],
+      "desc": "Family-friendly boat tour to shallow waters with sea turtles and stingrays",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15503308527029581471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Adventure & Active",
+        "Toddler Friendly"
+      ],
+      "rating": 4.9,
+      "ratingCount": 140,
+      "website": "https://www.gracebayadventures.com/",
+      "photoRef": "places/ChIJZVIfS25PS4kRn_bhHPfQJtc/photos/AcnlKN2HuXuHrzuw0gpJbKs994SFaLMXgpxz8ZOu4qKfnHpFjUofw5_aXGFA6mAWcfyOmYACMtcOtGIWDfiaawkL2zauEfk6_ac3WcqQW-7Kq6GEPGbbmBk4N9sqNeRPMbHSMouuO7-FO8o9T1RjUrsGGIlzj7--hu5b9c0molnAIqyEOrfiHiOrAIO9R4y1vKpwQkj5onoDpLuxU7Le7RVFoMyrI0-LFvaHn7dOqR7NpAbLoI0Uxw7f0Ln6UuykKQXJgfretC0ZEbbVvFQCEQGT1g5bnYOaTTkganrIhfZK2s4x9Q",
+      "photoAttribution": "Grace Bay Adventures | Turks and Caicos Islands",
+      "placeId": "ChIJZVIfS25PS4kRn_bhHPfQJtc",
+      "phone": "(705) 606-5472",
+      "hours": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 6:30 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 7:00 AM – 7:00 PM",
+        "Sunday: 7:00 AM – 7:00 PM"
+      ],
+      "address": "12 Bridge Rd, Turtle Cove, TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Long Bay Beach",
+      "coord": [
+        21.77084109191525,
+        -72.16392693634728
+      ],
+      "desc": "Beautiful beach on the south side of Providenciales, popular for kiteboarding and quiet relaxation",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17452127104668869856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 90,
+      "photoRef": "places/ChIJv_FgczVOS4kR4CTB6CJpMvI/photos/AcnlKN2RF-jBgQvQBYyVYMRCzKav7u7xo4UgQxTXj56hCSob_kT7HkyU8wS41-Kl25vCfXbcH8HuB01_PH2K2CNO2Zb05pE0KFNtupMinhMOoeHUrHjJs5uXKfY2oSJCNtlKQsVNIr40zKvEM5D5TyA6AO34Xq9RqYadrhwxFQ4je7UYsECKePVmPLxsXhgYd01VdvDlzF3ewVlsPsrW0E1vOoUEDcDYB0GeZS8uxmQs-sPyVptfszCQ-RZ8nu9QdOdydPXVYUEXgsX1C-xdAyGd0Neh8wQYWJFQ40Gysas3z3Smd2BLRY1_PWZHUDzOnzFwbmkr--6qZ8jEREVRIC3tMng2GwRuEYLDhEAQD2QUFWVF--NojN7TTrZ0VplFeOCzOm-69d1mnLzYzj0f4GZh2XissQMDxyisc5mKAgT_jDI5d9M",
+      "photoAttribution": "John Bailey",
+      "placeId": "ChIJv_FgczVOS4kR4CTB6CJpMvI",
+      "address": "Long Bay Beach, Long Bay Hills TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Chalk Sound Drive",
+      "coord": [
+        21.7557331,
+        -72.3002422
+      ],
+      "desc": "Protected calm bay beach ideal for sunset viewing, swimming, and snorkeling",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16485984877328158201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Scenic Views",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "photoRef": "places/ChIJeXuZoJFJS4kR-U2bQeb7yeQ/photos/AcnlKN1cdYGpyjJCA-uNpLumVQyfbcpxTLzFo9wEvPjLYz53kHA7sdiLHGLlQUBxY_z8iK-skQCcVu0c43WruDT0fbGA-vpmaWBtPj1_41UYI32xzc3hZWLldZSxX4lyRjyhvW8ItfMbEVqhFPZhsoxrlFmfThrqYj5UFKYGm5yjuq6sLSXi6-WsbSjn_3oMX4VQFG4YvcFMTX2vBZuTz6VSzYQnZ1oVzKrPDEA-wo9AKqoXYCQ1AzTI5_nfFsehW7GPlB71ERG77iLm4uaGiFaNOIkcbohGhnucJovvbgmkqYt4QbBdC3-J17hlzcv7QyQ8ZPoW5CYraLXDbIho-AneoQYt0fCRetEdIOG_v023znEe3AxXpej3hxgeinvezhlCXmU2WL_TGIak1a6-15SAb96J7ZeCDSq-CIZnjD4wF9GnnQ",
+      "photoAttribution": "Marv Baker",
+      "placeId": "ChIJeXuZoJFJS4kR-U2bQeb7yeQ",
+      "address": "Chalk Sound Dr, TKCA 1ZZ, Turks and Caicos Islands"
+    },
+    {
+      "name": "Magnolia Restaurant & Lounge",
+      "coord": [
+        21.783279399999998,
+        -72.2273941
+      ],
+      "desc": "Upscale waterfront restaurant featuring Mediterranean cuisine and extensive wine selection",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14005191411711613862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Romantic",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 289,
+      "website": "https://magnoliaprovo.com/",
+      "photoRef": "places/ChIJuVoQAClPS4kRphts4mJvXMI/photos/AcnlKN24LTh7J_0xwxtnqrhXKrEi0XSki_HTxoGPOgxjJTF4D7sSfmEoBKmF0okiulrPk1nHBCpz30nwG9JtCijpgBsQYuzBREcOwasSelG7aQhbVYdkm3xDZoUa40qwoPqtfZkfPD9ILH_-_3gPxA1TBS-4zztC6xWfIDnQlLKA8dM3OoxPPsLvUPp615gFn1RBLlzujNNxVsQW3jWkiBUD5CZZJefqdl0OYrEZwE_2Wzwlh9U3mf3S06UBIwvMT3vjGBUD3tiZm8CgsBm9NLJWl_bTzwciDi9KIeicZg2MqeYHX1uMcAEfDPXksQpcuA3pi_nte95Gz1pl59AaCUKCMe_WX5TAmD2SZXi6i627NJQA2jvewpH9JkbwCAvMvzOH_DoE9DSlHjQQnc7worJysfpH6QywVUup25tN6tSs3fvHIpcL",
+      "photoAttribution": "Brian Wemett",
+      "placeId": "ChIJuVoQAClPS4kRphts4mJvXMI",
+      "phone": "(649) 443-6750",
+      "hours": [
+        "Monday: 4:00 PM – 2:00 AM",
+        "Tuesday: 4:00 PM – 2:00 AM",
+        "Wednesday: 4:00 PM – 2:00 AM",
+        "Thursday: 4:00 PM – 2:00 AM",
+        "Friday: 4:00 PM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 4:00 PM – 2:00 AM"
+      ],
+      "address": "76 Sunburst Rd, TKCA 1ZZ, Turks and Caicos Islands"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "The Bight Fish Fry",
+      "coord": [
+        21.7884334,
+        -72.1877312
+      ],
+      "desc": "Weekly street festival, local food vendors, live music, cultural celebration",
+      "longDesc": "A vibrant weekly gathering where locals and visitors enjoy authentic Caribbean street food, live music, and colorful island culture in a festive family-friendly atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=12150166268745833432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Nightlife",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.4,
+      "ratingCount": 279,
+      "photoRef": "places/ChIJy_jebh9PS4kR2FuH2tgPnqg/photos/AcnlKN3je3aoZz6ie9ZqNv0N0F3OCrO9LzfirvA5chB47G36fba7v-AmPtYE0_TE8gGvuGAl_2L8Nvyb-RGoxBV7MK4xNns5ISVbSSzAPvgWxlEe2QHuFhS-jkN091lsQL7s1oX4DyAmmOGpydtFibZvXK9ZfN0lpsZtd95zcoPhdathbWQhZBGkopqNw1C6okcuRWHZNQ7xn8Z0nAWdnDHqtEIkCqBAZHt7E-FXOuSOe1sd5Kx13Cwa7vSl_sh5h8qEzeLFxjHUid4u1CP66jSDSlDbSdPKQKBIt1Pn76BgMTQIfWQV7eHzQySlMGr85toWVTe27JXtgynVS0Vh1p1cGnji0-crB-ME6YdVmmbVqaEY-qQbE5TyLOq3xLanQ7yWKpmQfSQl0MKDwUjvg-rI1KQRcZ49iLVQPchCX1iSERkNnUk",
+      "photoAttribution": "Jeanette Bunn",
+      "placeId": "ChIJy_jebh9PS4kR2FuH2tgPnqg",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 5:30 – 9:30 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "QRQ6+8WV Stubbs Diamond Plaza, Stubbs Diamon Plaza, Princess Dr, The Bight Settlement TKCA 1ZZ, Turks and Caicos Islands"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Salt Cay",
+      "coord": [
+        21.3331516,
+        -71.2056228
+      ],
+      "desc": "Local artisan crafts, handmade souvenirs, island art, authentic local products",
+      "longDesc": "A charming market featuring handcrafted items, local artwork, and authentic souvenirs made by island artisans, offering unique treasures and cultural connection.",
+      "gmapsUrl": "https://maps.google.com/?cid=6650725507678217369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Art & Design",
+        "Family Friendly"
+      ],
+      "rating": 4.9,
+      "ratingCount": 10,
+      "photoRef": "places/ChIJW6chBfMns44RmSTKt5wfTFw/photos/AcnlKN0tm-xM3p_6C1zNOnrdEoKs9R-ydMP1Whloaj70SVRRKvO2LZJTN_Fq98uuIC159DgYI44yhiMRhEMQu9m15X3HezICvbSZKD0vZEqC6Ev2NyEhmu9siwLPoGORr_n6K3HWltg1yWEk21UdqbLd-cTBg3mZJH3BaqewHUPxp-x3-VvOeU8Spcczibdq1NOvqA-PpeGRlM8jZjtyCf3a_BSIDUn3APVBHIZ1i5j81xjjbOMs92EQX8i_nBaqN3TYo_3Y-eSMOXEfzLyAiJbR5aIlv8BMlTPh4l4kYBGWG4muXrXPk5RCr60YPLNmuVCNPt6Dev8tmlJ0n1quxvWcbKViIwIOzM9k5MiAsjd6e5xEkcgRW2DK2VnhKI8gQl6KOqV0bxYfVUGAnhwBtLS13gQ8V7Jh1jeVvqyADlcD7uAH4Q",
+      "photoAttribution": "Sean Gordon",
+      "placeId": "ChIJW6chBfMns44RmSTKt5wfTFw",
+      "address": "Salt Cay, TKCA 1ZZ, Turks and Caicos Islands"
+    }
+  ],
   "cityCenters": {
     "Parrot Cay": [
       21.9362,
@@ -46,5 +973,318 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Grace Bay Family Escape (7 Days)",
+      "description": "A perfectly paced week of turquoise waters, powder-soft beaches, and island adventures designed for families with young children—where every day balances exploration with the downtime little ones need.",
+      "familyFriendly": true,
+      "duration": 7,
+      "bases": [
+        "Grace Bay"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Grace Bay",
+          "dayType": "suburban",
+          "base": "Grace Bay",
+          "items": [
+            {
+              "name": "Beaches Turks & Caicos",
+              "type": "hotel",
+              "coord": [
+                21.784525499999997,
+                -72.1954009
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Settle in and explore the resort",
+              "type": "freeTime"
+            },
+            {
+              "name": "Da Conch Shack",
+              "type": "lunch",
+              "coord": [
+                21.793689099999998,
+                -72.2610394
+              ]
+            },
+            {
+              "name": "Afternoon at the resort pools and water slides",
+              "type": "freeTime"
+            },
+            {
+              "name": "Coco Bistro",
+              "type": "dinner",
+              "coord": [
+                21.796041,
+                -72.17036999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Beach & Snorkel Day",
+          "dayType": "suburban",
+          "base": "Grace Bay",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Smith's Reef",
+              "type": "sightseeing",
+              "coord": [
+                21.7833,
+                -72.2167
+              ]
+            },
+            {
+              "name": "Bugaloos",
+              "type": "lunch",
+              "coord": [
+                21.7556135,
+                -72.2638266
+              ]
+            },
+            {
+              "name": "Nap time back at the resort",
+              "type": "nap"
+            },
+            {
+              "name": "Evening kids club while parents relax",
+              "type": "freeTime"
+            },
+            {
+              "name": "The Deck at Seven Stars",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront fine dining with Caribbean-Mediterranean fusion and stunning sunset views",
+              "suggestedCity": "Grace Bay"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Chalk Sound Adventure",
+          "dayType": "suburban",
+          "base": "Grace Bay",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Chalk Sound National Park",
+              "type": "sightseeing",
+              "coord": [
+                21.7858,
+                -72.3245
+              ]
+            },
+            {
+              "name": "Las Brisas Restaurant & Bar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront Caribbean cuisine overlooking Chalk Sound's turquoise waters",
+              "suggestedCity": "Chalk Sound"
+            },
+            {
+              "name": "Afternoon pool time and rest",
+              "type": "nap"
+            },
+            {
+              "name": "The Bight Fish Fry",
+              "type": "dinner",
+              "coord": [
+                21.7858,
+                -72.2645
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Resort Day & Local Culture",
+          "dayType": "suburban",
+          "base": "Grace Bay",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at Pirate's Island Waterpark (resort)",
+              "type": "freeTime"
+            },
+            {
+              "name": "Hemingway's on the Beach",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront casual dining with fresh seafood and island cocktails",
+              "suggestedCity": "Grace Bay"
+            },
+            {
+              "name": "Afternoon rest and kids nap",
+              "type": "nap"
+            },
+            {
+              "name": "Saltmills Plaza",
+              "type": "shopping",
+              "suggested": true,
+              "suggestedCategory": "shopping",
+              "suggestedDesc": "Open-air shopping center with local boutiques, crafts, and souvenirs in Grace Bay",
+              "suggestedCity": "Grace Bay"
+            },
+            {
+              "name": "Chalkies Sports Bar and Grill",
+              "type": "dinner",
+              "coord": [
+                21.742490699999998,
+                -72.2786483
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Beach & Marine Life",
+          "dayType": "suburban",
+          "base": "Grace Bay",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Grace Bay Cafe",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Local coffee spot with fresh pastries and smoothies",
+              "suggestedCity": "Grace Bay"
+            },
+            {
+              "name": "Half-day boat excursion to see turtles and rays",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Family-friendly boat tour to shallow waters with sea turtles and stingrays",
+              "suggestedCity": "Grace Bay"
+            },
+            {
+              "name": "Bay Bistro",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront bistro with fresh fish and kid-friendly menu",
+              "suggestedCity": "Grace Bay"
+            },
+            {
+              "name": "Long Bay Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Beautiful beach on the south side of Providenciales, popular for kiteboarding and quiet relaxation",
+              "suggestedCity": "Long Bay"
+            },
+            {
+              "name": "Casual dinner at resort",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Arizona's at Beaches resort - casual family dining with Italian specialties",
+              "suggestedCity": "Grace Bay"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Explore & Unwind",
+          "dayType": "suburban",
+          "base": "Grace Bay",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Grace Bay Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "World-renowned white sand beach with turquoise waters, consistently ranked among the world's best beaches",
+              "suggestedCity": "Grace Bay"
+            },
+            {
+              "name": "Somewhere Cafe & Lounge",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual beachside cafe with fresh salads, sandwiches, and smoothies",
+              "suggestedCity": "Grace Bay"
+            },
+            {
+              "name": "Afternoon spa treatment for parents while kids at kids club",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sapodilla Bay",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Protected calm bay beach ideal for sunset viewing, swimming, and snorkeling",
+              "suggestedCity": "Chalk Sound"
+            },
+            {
+              "name": "Parallel23 at The Palms",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale beachfront dining with Caribbean fusion and excellent wine list",
+              "suggestedCity": "Grace Bay"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Departure",
+          "dayType": "suburban",
+          "base": "Grace Bay",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final beach walk and resort time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Shay Cafe & Lounge",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Light cafe fare near airport with fresh juices and sandwiches",
+              "suggestedCity": "Grace Bay"
+            },
+            {
+              "name": "Transfer to Providenciales International Airport",
+              "type": "info"
+            },
+            {
+              "name": "Magnolia Wine Bar & Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Upscale waterfront restaurant featuring Mediterranean cuisine and extensive wine selection",
+              "suggestedCity": "Grace Bay"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

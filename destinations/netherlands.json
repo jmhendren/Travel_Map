@@ -21,7 +21,10 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=13678015166463104817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.8,
@@ -43,9 +46,34 @@
         "Photography Worthy",
         "Romantic",
         "Outdoor & Nature",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Hidden Gem",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=4547782265235907518&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    },
+    {
+      "name": "Hotel Greenside Texel",
+      "coord": [
+        53.098957,
+        4.7673049999999995
+      ],
+      "desc": "Family-friendly hotel with garden and bike rentals near Texel beaches",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9219362295996439119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Beach"
+      ],
+      "rating": 4.4,
+      "ratingCount": 417,
+      "website": "https://www.hotelgreenside.nl/?utm_source=GMB&utm_medium=organic",
+      "photoRef": "places/ChIJm50-hJc6z0cRT1p_dCnB8X8/photos/AcnlKN1Y7dno0SyE2SaBW4a2HUJ_8bZp6lsyTLM2xmmhTrxmar84SYzZ2axs5jlghz1VxFRCs_Iiu4Iri7Eg1KEE6qZCMVRsGlV7DP8oAIDh4ZvnpXRwARY2RaAS2viTPFhWToZjcCwQHBJDatdsppRII1LuublJsCwnkGwFgc4XrWei6n3PzgPSwkG2Ngamyh-A_qQ_lUorgp9J2-mqiRYczqa-vSyC--hVEBHK6cp0Dj_H138HKPoXxUte2n_t2WwwrDnBa2P6HZiYN_Pg7lm99YGAVaOG6ZCSpyMaBRhnumTngA",
+      "photoAttribution": "Hotel Greenside Texel",
+      "placeId": "ChIJm50-hJc6z0cRT1p_dCnB8X8",
+      "phone": "0222 327 222",
+      "address": "Stappeland 6, 1796 BS De Koog, Netherlands"
     }
   ],
   "restaurants": [
@@ -60,7 +88,8 @@
       "tags": [
         "Casual Eats",
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Hidden Gem"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=3160870099503182623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.8,
@@ -90,7 +119,8 @@
         "Casual Eats",
         "Good for Lunch",
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Off-Hours Eats"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=8403508901715702393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -120,7 +150,8 @@
         "Fine Dining",
         "Good for Dinner",
         "Local Delicacies",
-        "Splurge"
+        "Splurge",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=12667583424720290351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.8,
@@ -150,7 +181,8 @@
         "Casual Eats",
         "Good for Lunch",
         "Good for Dinner",
-        "Budget Friendly"
+        "Budget Friendly",
+        "Off-Hours Eats"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=1470289793093148002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.1,
@@ -180,7 +212,8 @@
         "Casual Eats",
         "Good for Lunch",
         "Good for Dinner",
-        "Budget Friendly"
+        "Budget Friendly",
+        "Off-Hours Eats"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=1503574558421151184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.4,
@@ -209,7 +242,8 @@
       "tags": [
         "Casual Eats",
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Hidden Gem"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=4888786380800990374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -239,7 +273,8 @@
         "Fine Dining",
         "Good for Dinner",
         "Local Delicacies",
-        "Splurge"
+        "Splurge",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=13279254265575132856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.5,
@@ -268,7 +303,8 @@
       "tags": [
         "Casual Eats",
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=10808014070706652792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -298,7 +334,8 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=9185762713332119734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.8,
@@ -335,7 +372,8 @@
       "tags": [
         "Good for Lunch",
         "Casual Eats",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Off-Hours Eats"
       ],
       "hours": [
         "Monday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
@@ -369,7 +407,9 @@
         "Coffee",
         "Good for Lunch",
         "Casual Eats",
-        "Rainy Day"
+        "Rainy Day",
+        "Off-Hours Eats",
+        "Breakfast Spot"
       ],
       "hours": [
         "Monday: 9:00 AM – 12:00 AM",
@@ -401,7 +441,10 @@
         "Coffee",
         "Sweet Treats",
         "Budget Friendly",
-        "Good for Lunch"
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: 8:00 AM – 5:00 PM",
@@ -433,7 +476,9 @@
         "Good for Lunch",
         "Photography Worthy",
         "Casual Eats",
-        "Splurge"
+        "Splurge",
+        "Off-Hours Eats",
+        "Breakfast Spot"
       ],
       "hours": [
         "Monday: 9:30 AM – 6:00 PM",
@@ -498,7 +543,9 @@
         "Cocktails & Bars",
         "Good for Lunch",
         "Casual Eats",
-        "Rainy Day"
+        "Rainy Day",
+        "Afternoon Wine",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: 12:00 PM – 12:00 AM",
@@ -529,7 +576,8 @@
       "photoAttribution": "Counter",
       "tags": [
         "Good for Lunch",
-        "Casual Eats"
+        "Casual Eats",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Closed",
@@ -560,7 +608,8 @@
       "photoAttribution": "Marie Marguerite",
       "tags": [
         "Casual Eats",
-        "Good for Lunch"
+        "Good for Lunch",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: 5:00 PM – 12:00 AM",
@@ -572,6 +621,135 @@
         "Sunday: 12:00 – 10:00 PM"
       ],
       "phone": "020 692 2506"
+    },
+    {
+      "name": "Texel Brewery",
+      "coord": [
+        53.044866199999994,
+        4.8278991
+      ],
+      "desc": "Local brewery with family-friendly menu and outdoor terrace",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1570423042060168295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Local Delicacies"
+      ],
+      "rating": 4.4,
+      "ratingCount": 883,
+      "website": "http://www.texels.nl/",
+      "photoRef": "places/ChIJIU2vCigxz0cRZ6wVsW9DyxU/photos/AcnlKN1sCWiWNxqHFYQ3quXeo9DvJNrdyAm1osh93m9dcNJ4Qxdfps-IFUGZlgUS7M_vN7aWkvtcvId99pLhwlE_vAIUHMteXXFqeMprljSFy_bd0MLljVyiCzMsUB0c-Oo51XKI5RR-S9vd7TzJnwB6qAQxfukZdXOTTDS8sF_zYQPS_9B6xyfDhRkDomWHWxpdQ2u9rml7SgR8ZeE0dUQvePt_UJQ49kZdCc_vF6m5_W4FLGvoFjYBjQdFy6M8x4dJtQHdcc5Nmm4Q4YV4wABFiuZk6XNFHH7uyPubYzrV4SBiAg",
+      "photoAttribution": "Texelse Bierbrouwerij",
+      "placeId": "ChIJIU2vCigxz0cRZ6wVsW9DyxU",
+      "phone": "0222 320 325",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 6:00 PM",
+        "Friday: 12:00 – 6:00 PM",
+        "Saturday: 10:00 AM – 6:30 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ],
+      "address": "Schilderweg 214b, 1792 CK Oudeschild, Netherlands"
+    },
+    {
+      "name": "Beach Pavillion Kaap Noord",
+      "coord": [
+        53.174977999999996,
+        4.8683795
+      ],
+      "desc": "Beachfront pavilion at the northern tip with panoramic views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=383480660562436491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 4622,
+      "website": "http://www.strandpaviljoenkaapnoord.nl/",
+      "photoRef": "places/ChIJv3GAdO4uz0cRi2EOB6FlUgU/photos/AcnlKN0kEDwhaJz5aTS5l4m3EPKZW6G0W0hG2b6wxnv0R_ThJHb1b9A-ofLHq9w9teZVFGVVXtbBY-jXL7bZ2llIeWFWpWaxruF30Viwtgq-ps8x-iZ4m4bc-MkGrMhQiLVDTZtFRU22ht9uCYHdQ-qBrLqg8jV3jao0fxvKPhnbyIJkSVntkrpax8soJ0Sn1tqV5sUEMHEtqt_lQpXvjiAauovLoamZaXnCjjDBbkEzmqXsOOJJPwWCcxBFHgv3QIOo6cCWblvwz13NTWRJptdYCXKkFK8r9gnv7yPWIRfHqHPdlw",
+      "photoAttribution": "Strandpaviljoen Kaap Noord",
+      "placeId": "ChIJv3GAdO4uz0cRi2EOB6FlUgU",
+      "phone": "0222 316 340",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 9:30 PM",
+        "Friday: 11:00 AM – 9:30 PM",
+        "Saturday: 11:00 AM – 9:30 PM",
+        "Sunday: 11:00 AM – 9:30 PM"
+      ],
+      "address": "Volharding 4, 1795 LH De Cocksdorp, Netherlands"
+    },
+    {
+      "name": "Bij Jef Restaurant & Hotel",
+      "coord": [
+        53.024715,
+        4.7498149
+      ],
+      "desc": "Cozy farm-to-table restaurant with local lamb and vegetables",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5559180222686361749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Romantic"
+      ],
+      "rating": 4.7,
+      "ratingCount": 314,
+      "website": "http://www.bijjef.nl/",
+      "photoRef": "places/ChIJWdF0Qu45z0cRlfiYb_UsJk0/photos/AcnlKN2VL61SCOLdkZQtHRs4VgkgMkJLA5xb74wpbLPGijf8Zs7cCoc0g0LVfXHmQDp9tY7Maa-pYF3GEb5EOEjxCE_anVbv3-AXFZrLckUoxK3MbL0AJM5WlN8eUgFxljgIMVrts2FzUEzbA70ROyV4dSYtx7TinY41cMx0P0LfsmVE4W0OVsqqnJPpcQ6uOvfHFu4Y7ltLkwkJd4wCahUEDkzpNY6zPKHdyF0joUUYj_ryQAmNQKC4yJQhM5PjPm7JcarJBN5jNXTZgndZpy0udFYMRZP7vdyKTiwfvQPKgOl68rf2pWt7WUlWsb_PG1QTW-XXhoGhsA72Ow6yjiZP1roNjgOmSZX88H7ewGJxoHrBI-zAyu1A-8z-hi9XMz50T3yLp9jM9uFqiyUkAjCRqRyctChneyK4r46uo3TxBmqBxA",
+      "photoAttribution": "Culinaire verwennerij Bij Jef",
+      "placeId": "ChIJWdF0Qu45z0cRlfiYb_UsJk0",
+      "phone": "0222 319 623",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 6:00 – 10:00 PM",
+        "Wednesday: 6:00 – 10:00 PM",
+        "Thursday: 6:00 – 10:00 PM",
+        "Friday: 6:00 – 10:00 PM",
+        "Saturday: 6:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Herenstraat 34, 1797 AJ Den Hoorn Texel, Netherlands",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Café de Zeevaart",
+      "coord": [
+        53.3589592,
+        5.215295600000001
+      ],
+      "desc": "Traditional Dutch cafe with stamppot and local Texel specialties",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2562391573983766915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch"
+      ],
+      "rating": 4.2,
+      "ratingCount": 106,
+      "website": "https://www.facebook.com/Cafe-De-Zeevaart-Terschelling-108558643984071",
+      "photoRef": "places/ChIJ7bDmy9UoyUcRg6nBdo9xjyM/photos/AcnlKN1GyxWMX57AcV_bimxh9U4XLu15JUJTbRLPzxjIL-ILShmdraMb-BnhXCnczA15bfPQyQdmMtUBjxYrckigIvbRfEI7I6sbEpo8w3HFXy-KqQw52vRWx5jrxjpBBz0O72D3CkJGsHRtwD_OibMhZOLctHWop0yDFdcl4F6dezrIHndQgKwsjDb3pF-n-IcvNFW1cm0wr0snZakT7ka4TY8iETq0Ur5nX9__XXplWws7wl6ldNNJHRZ9EVOrO1vYwQQXKR5T9nH-V7QB3f4Bg1U9uacLuVnVOvHSrhkfVQ3_anBzhJDF9KhZoZxChAm2UazIxCTsSNyfHWE1DsedjTJD4ZCzKA2GYoNEY_RHF3Uo2NkViGhKlQMdUGu1vKf4d2ids_Ut6OxiarvAZ645ZvMoMaa6pZv5oluk5ph88cZsbw",
+      "photoAttribution": "Ruud van Gaal",
+      "placeId": "ChIJ7bDmy9UoyUcRg6nBdo9xjyM",
+      "hours": [
+        "Monday: 2:00 PM – 2:00 AM",
+        "Tuesday: Closed",
+        "Wednesday: 2:00 PM – 2:00 AM",
+        "Thursday: 2:00 PM – 2:00 AM",
+        "Friday: 2:00 PM – 2:00 AM",
+        "Saturday: 2:00 PM – 2:00 AM",
+        "Sunday: 2:00 PM – 3:00 AM"
+      ],
+      "address": "Torenstraat 22, 8881 BK West-Terschelling, Netherlands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
     }
   ],
   "experiences": [
@@ -588,7 +766,9 @@
         "Outdoor & Nature",
         "Photography Worthy",
         "Budget Friendly",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Half-Day Trip",
+        "Beach"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=10597303017613758150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "website": "http://www.texel.nl/",
@@ -623,7 +803,8 @@
         "Photography Worthy",
         "Romantic",
         "Cultural & Historical",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=4545930067315335830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -650,7 +831,8 @@
       "tags": [
         "Shopping",
         "Photography Worthy",
-        "Art & Design"
+        "Art & Design",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Closed",
@@ -714,7 +896,8 @@
         "Shopping",
         "Sweet Treats",
         "Budget Friendly",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -746,11 +929,239 @@
       "tags": [
         "Photography Worthy",
         "Family Friendly",
-        "Romantic"
+        "Romantic",
+        "Scenic Views",
+        "Iconic / Must-See"
       ]
+    },
+    {
+      "name": "Amsterdam Boat Trips",
+      "coord": [
+        52.372383799999994,
+        4.8961014
+      ],
+      "desc": "Family-friendly canal boat tour through Amsterdam's historic waterways",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16804239775840767343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.9,
+      "ratingCount": 5268,
+      "website": "https://amsterdamboattrips.com/",
+      "photoRef": "places/ChIJV1IziOcLxkcRb416HwunNOk/photos/AcnlKN0_KQFyR_aC5IDCooY2fDgmou_hyyzpwc9jAosgdUxqNtdvqigxb7sw6TO_KK74u-DuVYig2KRToIu8qpSAR046QUTZTtEGxnmWtivHBw0W-xQ3py1L1Is6kP-T437oELFnas01EO_nOD2g-52BbhPumklcLjkbEhY-lzoC2KUUcgeQBCradWAMJMmQK4LisHoT8P1oqpNeTKawv9ar00k9woeljFCHHqUMXtvAvttPwlKiC5pdXoRUP1D1KxgrawEyfoodh5DjzkqipPnYbyvAEtibHZrNZBDtYfdaIcw",
+      "photoAttribution": "Amsterdam Boat Trips",
+      "placeId": "ChIJV1IziOcLxkcRb416HwunNOk",
+      "phone": "06 84040040",
+      "hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ],
+      "address": "Oudezijds Voorburgwal 226, 1012 GJ Amsterdam, Netherlands"
+    },
+    {
+      "name": "Strandpaviljoen Paal 17 Aan Zee",
+      "coord": [
+        53.0808598,
+        4.7362077
+      ],
+      "desc": "Wide sandy beach perfect for young children with shallow waters",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15107077897143995730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Beach"
+      ],
+      "rating": 4.3,
+      "ratingCount": 7726,
+      "website": "http://www.paal17.com/",
+      "photoRef": "places/ChIJTVE1J186z0cRUk1shU4fp9E/photos/AcnlKN1wEzkYTUPF6rgVz2jX-DoC6SMwIXxwQeg1HgSxO3H5UV8UKzK6aGJluzAzSbXrAqW21WyK1gAEAMiYkhnKXHNSUKM4gAZXu7nz1N1f2d60VDR2Ank3MvkQNGatjtXM4AXpz2UqrQ7ZnYM3etQZd7ZAzZyNeR9csbE2BEB_TXivm02ljrlFbsWRiFPNgbwEgINQPS_2Vzss88zUxoqJS70cgBL6TQ3cFIEgS2xlmjzvXkIb9P3oYI3UapA4w7Mx_URX3BSH3suuB3QFW_Sng5Yk4pbcUT_3iUEBqMY-tk9HrEaC9U6LzXstK_7PNCscYPwbjtOSI62573BXeK08O_IiwJ-Ynxr6_L1c4TSfPN4Pqq6I2ORM3ZASi2kqWrSz2MuuuHWyRhKsbFco1G745mRcKahL-6l0hrjt0YgOyY24zBQ_",
+      "photoAttribution": "Jennifer Rijsdijk",
+      "placeId": "ChIJTVE1J186z0cRUk1shU4fp9E",
+      "phone": "0222 317 614",
+      "hours": [
+        "Monday: 10:00 AM – 7:30 PM",
+        "Tuesday: 10:00 AM – 7:30 PM",
+        "Wednesday: 10:00 AM – 7:30 PM",
+        "Thursday: 10:00 AM – 7:30 PM",
+        "Friday: 10:00 AM – 7:30 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "address": "Ruijslaan 94, 1796 AZ De Koog, Netherlands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "De Slufter",
+      "coord": [
+        53.1384056,
+        4.8086721
+      ],
+      "desc": "Unique wetland nature reserve on Texel with walking and cycling trails through dunes and salt marshes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4638558802737727412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Half-Day Trip"
+      ],
+      "rating": 4.9,
+      "ratingCount": 264,
+      "website": "https://www.npduinenvantexel.nl/4983/zien/de-slufter",
+      "photoRef": "places/ChIJLe91Cuwvz0cRtIfxqqd4X0A/photos/AcnlKN1QUGtkrs0H3aQN5-yxf8ZgfVIRX7P_dmytjQ5Zb4XvmWMf2wc7baYsfP8ArY19IRA6-5kniuaZ-wmnFnURl7ryOsogP3l1aNQDJTaYCTt-DAhlS1a5IudYwboP_9t3LRlL3EL-xzuFipCwJNfk4HGeEHivJBwm0MYS3QUffNfqtNri0YdeVygPYsFPOhU-owD5pYRgtnxw9mtNrk2ywMqlLGg5YeYFU4Sr-LdB6404xB4KTEaqfJHxvDlk1Do0-CCldLVF0AuCaHLF1JunxuGT7UeNeVRZbcV4HlCI1V-PkzUp3QWVpCv-OmA0LfxGFkakQHCkfgsoNUNcAReU5lKDdq69csuIAwiAn8XjWa-s46hejStbkhkZUIEVfwUxwJlOGeGVo-61Po0HRyEwIVuNAvLC5Ks4QwvHJvZfshK0dKs8",
+      "photoAttribution": "Jasper Frie",
+      "placeId": "ChIJLe91Cuwvz0cRtIfxqqd4X0A",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "1795 LA De Cocksdorp, Netherlands"
+    },
+    {
+      "name": "Strandpaviljoen Paal 9",
+      "coord": [
+        53.0211712,
+        4.7111678999999995
+      ],
+      "desc": "Popular beach location on Texel with facilities and beach pavilion",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4069903466548102303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Beach",
+        "Good for Groups"
+      ],
+      "rating": 4.3,
+      "ratingCount": 4192,
+      "website": "http://www.paal9.nl/",
+      "photoRef": "places/ChIJqwxZSXQ5z0cRnwS7uaMzezg/photos/AcnlKN2LPpQGpsMRcYW9lEiY3ax-_QFydv79mUL9qE4IUYPfonN34gO6H8NV576p3uwiQtVrfYfTa4oUm_7QKBeRU4rUF6gmxygCblsOlOtaKju0bh4OefwjfSczCj8rXpJUMtjofWXLGKwCD9db7r1lvDSiwgTOhXN0oganXjFU9d6sHL6gkIoNI-aJPf9JyKDZjb4P-zo_wPY5LO1D7LFS_qyEwsfoTME47B2JaP2tKfqGlkBhM1qGj4-vibvXrGdxDcrwXSXBfiQ7pemUvReVWR6qaz2drRfiMW63HxBrs7HcUwr782RR27Zmebp1RYg8GIgwjIjf4TQz_MRS_jpL8RI27rv71uL_-qECk9ED4tXDV2GvbewE1ejDHO67UFaw7MZtuxOiR5onpV5_UiWxJ1lrhFF0cwU_Hi4lNmNNfNTI1Q",
+      "photoAttribution": "Barbara DB",
+      "placeId": "ChIJqwxZSXQ5z0cRnwS7uaMzezg",
+      "phone": "0222 319 309",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 7:30 PM",
+        "Saturday: 10:00 AM – 7:30 PM",
+        "Sunday: 10:00 AM – 7:30 PM"
+      ],
+      "address": "Hoornderslag 8, 1797 RT Den Hoorn Texel, Netherlands",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
     }
   ],
-  "kidFriendly": [],
+  "kidFriendly": [
+    {
+      "name": "WOW Family Center",
+      "desc": "Children's camp and activity center, ages 3-8, creative play and exploration",
+      "longDesc": "A parent-approved family center where young children engage in creative play, artistic exploration, and discovery activities while parents enjoy Amsterdam's attractions.",
+      "coord": [
+        52.3558205,
+        4.8980659
+      ],
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Art & Design",
+        "Playgrounds"
+      ],
+      "rating": 4.7,
+      "ratingCount": 17,
+      "website": "https://www.wowfamilycenter.nl/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8675540600309666599",
+      "photoRef": "places/ChIJLaisfd0JxkcRjLbvUn68x_4/photos/AcnlKN1fZzCEgfsQz6fwhw88ntzwRGCv2PIoP309NyXjnveraDTmIZBD0L-eLJMuW1GfVUKp0jlrlFOOBNIxyqWAhs3yJNfUWD6OY3nsgKpaq8KX0Gv7ZINK2Mh1j50Z0jqfRByyDe7gU7vcBNMb5GZciG7-S2JYsXA1pZrTx8ia_BxmGmvSnnuwXCc0YYlpimZ1zdDorBFsZkTzc4D7kIVC13wa8O7ekQ5_rN2_FkuoeLLdGJgMvGUx19TLZbGedWONd3tRjdDMUzDuTCN7o8_1UFsEi8bfTySiXxu98O8NoE9oDQ",
+      "photoAttribution": "WOW Family Center (the Pijp)- workshops, camps, parties",
+      "gmapsUrl": "https://maps.google.com/?cid=18358849656742459020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJLaisfd0JxkcRjLbvUn68x_4",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Eerste Sweelinckstraat 21H, 1073 CL Amsterdam, Netherlands"
+    },
+    {
+      "name": "Ecomare",
+      "coord": [
+        53.077931199999995,
+        4.7453949
+      ],
+      "desc": "Seal rescue center and nature museum perfect for young children",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10668278752183612561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Cultural & Historical"
+      ],
+      "rating": 4.5,
+      "ratingCount": 10873,
+      "website": "http://www.ecomare.nl/",
+      "photoRef": "places/ChIJDbLE3l46z0cRkXTAjABXDZQ/photos/AcnlKN0bEjli_j9T3PRIfNyD3zFiZr9vlDs7PbsqingJynMxSrxxq5KlrE6Den3c5LTA0aUW9wseBJ2ez7p-py6BSi8nHDIOI53kVvt1PXvJ7ZM0BVj5OT6uC5CivnKRg07B2wRQ9J9Oj0CSYwx94GGQ0T1IZLAR400g85eWj72LlOYBE5tmtDpkH_RaoAtlmxQzLxXVyhCMhmvABHz1ZS3JND7mAQA5kIgXUSqJIcOX5jjXJEN1z-xPXUG_W1fsvdvjBtjUrdYuLGoPxfMbtyke2NH9krPEsfvTNWTceFcGLvBzqw",
+      "photoAttribution": "Ecomare",
+      "placeId": "ChIJDbLE3l46z0cRkXTAjABXDZQ",
+      "phone": "0222 317 741",
+      "hours": [
+        "Monday: 9:30 AM – 5:00 PM",
+        "Tuesday: 9:30 AM – 5:00 PM",
+        "Wednesday: 9:30 AM – 5:00 PM",
+        "Thursday: 9:30 AM – 5:00 PM",
+        "Friday: 9:30 AM – 5:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 9:30 AM – 5:00 PM"
+      ],
+      "address": "Ruijslaan 92, 1796 AZ De Koog, Netherlands"
+    },
+    {
+      "name": "Texel Sheep Museum",
+      "coord": [
+        53.033617799999995,
+        4.7901785
+      ],
+      "desc": "Working sheep farm where children can meet lambs and see cheese-making",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18264084549247035968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 60,
+      "website": "http://www.schapenmuseum.nl/",
+      "photoRef": "places/ChIJpUUP9Uw3z0cRQOqRWSEQd_0/photos/AcnlKN1RMrwJTKrPRvG6KE_e6LvOFkxSwW9x_aRTuLWVrvaICGFnIwkF9qwUoD0qo0Qb_ZMx7plwYOlm8tdFQAOtEkQ__j6MRMaZhQ7Xy9bog25i7oHAKp13BadPYDxbQhbzZ2K1DoGuHvXFBKiUhLeYpbrlxBtV1gGTZtCubt-aR-AoLkpHT13_UHS_NZOskxNfy29VZUe49hrRTRNNZk7x67a44WegLya5492rONkIAQSXyb3omPoD9VmYBZ7YBF9DEsm4hSgH3U_9BKiZ3Y4NgMWVutBlwoSBEPYlHwV8-mhnDA",
+      "photoAttribution": "Schapenmuseum Texel",
+      "placeId": "ChIJpUUP9Uw3z0cRQOqRWSEQd_0",
+      "phone": "0222 315 090",
+      "hours": [
+        "Monday: 9:30 AM – 5:00 PM",
+        "Tuesday: 9:30 AM – 5:00 PM",
+        "Wednesday: 9:30 AM – 5:00 PM",
+        "Thursday: 9:30 AM – 5:00 PM",
+        "Friday: 9:30 AM – 5:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "address": "Hoornderweg 29, 1791 PM Den Burg, Netherlands"
+    }
+  ],
   "markets": [],
   "cityCenters": {
     "Texel": [
@@ -769,5 +1180,418 @@
       0.051
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Canals, Beaches & Tulips: A Dutch Family Adventure (8 Days)",
+      "description": "Discover Amsterdam's whimsical canals and hidden playgrounds before escaping to windswept Texel Island for beach days, bike rides, and fresh stroopwafels by the sea.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Amsterdam",
+        "Texel"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Amsterdam",
+          "dayType": "urban",
+          "base": "Amsterdam",
+          "items": [
+            {
+              "name": "Over-Amstel",
+              "type": "hotel",
+              "coord": [
+                52.340570400000004,
+                4.923403599999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning walk around the farm trails",
+              "type": "freeTime"
+            },
+            {
+              "name": "Counter Amsterdam",
+              "type": "lunch",
+              "coord": [
+                52.371140399999994,
+                4.9315321
+              ]
+            },
+            {
+              "name": "Herengracht Canal",
+              "type": "sightseeing",
+              "coord": [
+                52.3702,
+                4.8952
+              ]
+            },
+            {
+              "name": "Early dinner and rest after travel",
+              "type": "info"
+            },
+            {
+              "name": "Turbo Amsterdam",
+              "type": "dinner",
+              "coord": [
+                52.360634399999995,
+                4.9253402
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Amsterdam Family Fun",
+          "dayType": "urban",
+          "base": "Amsterdam",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Saint Jean Bakery",
+              "type": "coffee",
+              "coord": [
+                52.3803056,
+                4.884282400000001
+              ]
+            },
+            {
+              "name": "WOW Family Center",
+              "type": "sightseeing",
+              "coord": [
+                52.3558205,
+                4.8980659
+              ]
+            },
+            {
+              "name": "Kitchen at Carmen",
+              "type": "lunch",
+              "coord": [
+                52.364008000000005,
+                4.8896118
+              ]
+            },
+            {
+              "name": "Afternoon nap time",
+              "type": "nap"
+            },
+            {
+              "name": "Tony's Chocolonely",
+              "type": "shopping",
+              "coord": [
+                52.3676,
+                4.9041
+              ]
+            },
+            {
+              "name": "Bon Burger Bar",
+              "type": "dinner",
+              "coord": [
+                52.362977,
+                4.862239
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Amsterdam Canals & Sweets",
+          "dayType": "urban",
+          "base": "Amsterdam",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Cafe de Linden",
+              "type": "coffee",
+              "coord": [
+                52.380255299999995,
+                4.8857725
+              ]
+            },
+            {
+              "name": "Canal boat tour",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Family-friendly canal boat tour through Amsterdam's historic waterways",
+              "suggestedCity": "Amsterdam"
+            },
+            {
+              "name": "Buffet van Odette",
+              "type": "lunch",
+              "coord": [
+                52.3623386,
+                4.8890787
+              ]
+            },
+            {
+              "name": "Auto Drop",
+              "type": "shopping",
+              "coord": [
+                52.368,
+                4.9015
+              ]
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Europizza",
+              "type": "dinner",
+              "coord": [
+                52.3839406,
+                4.9219912
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Transit to Texel Island",
+          "dayType": "suburban",
+          "base": "Texel",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Den Helder and ferry to Texel",
+              "type": "info"
+            },
+            {
+              "name": "Hotel Greenside Texel",
+              "type": "hotel",
+              "suggested": true,
+              "suggestedCategory": "hotels",
+              "suggestedDesc": "Family-friendly hotel with garden and bike rentals near Texel beaches",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "Topido Texel",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual beachside lunch spot with Dutch pancakes and fresh fish",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "Beach exploration at Paal 17",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Wide sandy beach perfect for young children with shallow waters",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "Early dinner near hotel",
+              "type": "info"
+            },
+            {
+              "name": "Texel Brewery Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Local brewery with family-friendly menu and outdoor terrace",
+              "suggestedCity": "Texel"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Texel Island Adventures",
+          "dayType": "rural",
+          "base": "Texel",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "De Slufter Nature Reserve",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "nature",
+              "suggestedDesc": "Unique wetland nature reserve on Texel with walking and cycling trails through dunes and salt marshes",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "De Waddenzee fish lunch",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fresh seafood restaurant near the harbor with kids menu",
+              "sugestedCity": "Texel"
+            },
+            {
+              "name": "Ecomare seal sanctuary visit",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Seal rescue center and nature museum perfect for young children",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "Strand Paal 9",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Popular beach location on Texel with facilities and beach pavilion",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "Bij Jef Texel",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Cozy farm-to-table restaurant with local lamb and vegetables",
+              "suggestedCity": "Texel"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Texel Relaxation Day",
+          "dayType": "rural",
+          "base": "Texel",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Strand Paal 15",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Quiet beach area on Texel near De Koog with natural dunes",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "Strandpaviljoen Kaap Noord",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront pavilion at the northern tip with panoramic views",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Texel sheep farm visit",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Working sheep farm where children can meet lambs and see cheese-making",
+              "suggestedCity": "Texel"
+            },
+            {
+              "name": "Cafe de Zeevaart",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Dutch cafe with stamppot and local Texel specialties",
+              "suggestedCity": "Texel"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Return to Amsterdam",
+          "dayType": "urban",
+          "base": "Amsterdam",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Ferry and drive back to Amsterdam",
+              "type": "info"
+            },
+            {
+              "name": "Waldorf Astoria Amsterdam",
+              "type": "hotel",
+              "coord": [
+                52.364768,
+                4.896945
+              ]
+            },
+            {
+              "name": "Gifure Ramen Bar",
+              "type": "lunch",
+              "coord": [
+                52.3702553,
+                4.881822
+              ]
+            },
+            {
+              "name": "Afternoon in hotel garden with tulips (spring) or rest",
+              "type": "freeTime"
+            },
+            {
+              "name": "Antiek 58",
+              "type": "shopping",
+              "coord": [
+                52.3641,
+                4.8843
+              ]
+            },
+            {
+              "name": "Testamatta",
+              "type": "dinner",
+              "coord": [
+                52.362124599999994,
+                4.8734791
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure Day",
+          "dayType": "urban",
+          "base": "Amsterdam",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning canal walk or hotel garden time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Cafe Caron",
+              "type": "lunch",
+              "coord": [
+                52.357372399999996,
+                4.8887136
+              ]
+            },
+            {
+              "name": "Final Dutch treats at the airport",
+              "type": "info"
+            },
+            {
+              "name": "Departure from Amsterdam Schiphol",
+              "type": "info"
+            },
+            {
+              "name": "Omakase Amsterdam",
+              "type": "dinner",
+              "coord": [
+                52.3728,
+                4.8945
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

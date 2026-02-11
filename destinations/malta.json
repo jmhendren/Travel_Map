@@ -30,7 +30,8 @@
         "Romantic",
         "Photography Worthy",
         "Art & Design",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See"
       ]
     },
     {
@@ -52,11 +53,145 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See"
       ]
+    },
+    {
+      "name": "Hilton Malta",
+      "coord": [
+        35.922019299999995,
+        14.4930656
+      ],
+      "desc": "Beachfront luxury resort, multiple pools, water sports activities, family suites",
+      "longDesc": "A stunning beachfront property offering direct access to the sea, multiple pools perfect for kids, and excellent family amenities. Ideal for families seeking comfort and convenience.",
+      "gmapsUrl": "https://maps.google.com/?cid=920156060461040548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Wellness & Spa",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 7060,
+      "website": "https://www.hilton.com/en/hotels/mlahitw-hilton-malta/?SEO_id=GMB-EMEA-TW-MLAHITW",
+      "photoRef": "places/ChIJFyFWAWtFDhMRpAO00Q8NxQw/photos/AcnlKN3Xwh3xHUB_ax6yYynBru5eO379KR04BcP701UPKxg-1mFVZjIBuWHGb9zgau3zGTriD7o2HphmsPyKPkmRB8u_ZwowmPWYd_7P19w6Ir5cHeKS66ZgODnR3Qx7f6_VGyrIgukd9OxlRcS7kvgJSGGfgNpYy6PQj4-0WCyE0Vng5DFlPu04GgutXWyiiUH7Oj20isdvomM1AspJ1T5Jm8KDfoVp8t0JhDt2l1w_LvmYzmpId3GafOYxwfkXrcdbSj_HJoTfYYqE9vz4SytLvbqhydVl6b7A-Jgry9xyszs9Ew",
+      "photoAttribution": "Hilton Malta",
+      "placeId": "ChIJFyFWAWtFDhMRpAO00Q8NxQw",
+      "phone": "2138 3383",
+      "address": "Vjal Portomaso, San Ġiljan STJ 4012, Malta"
+    },
+    {
+      "name": "The Waterfront Hotel",
+      "coord": [
+        35.907579,
+        14.498766999999999
+      ],
+      "desc": "Boutique beachfront hotel, rooftop pool, modern design, family rooms available",
+      "longDesc": "A contemporary boutique hotel with a rooftop pool overlooking the Mediterranean. Offers comfortable family rooms and a central Sliema location perfect for exploring nearby attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=15409884410220228865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Splurge",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2521,
+      "website": "http://www.waterfronthotelmalta.com/",
+      "photoRef": "places/ChIJiTyDyDdFDhMRAbEB3Tno2tU/photos/AcnlKN3QsI37ryErA5WeFpytLWZuNYCuf4dhtZ3zHqy13V33KDm371rn1IGrfT-maqFMbS2X8Hy-K6qyjD3A3UgloJ2AyEt1XfObxWYpfi4WUuQDu2YwbNoBswu2xgiQuqtcJuGuBDBLS8LGj-mmuxGEnNtQg5ZZ4gEfOb9ABe2nOPYZgmZssAt5JJ-tLbuyt15TMST6pb7oQImPRj5Bpb8kk4wCXnbzktZ7nMMgTLq9dFp99ui3ln-WhgvJcrZzfn8pPxN3MzqeJJJwFzN8UVKUDKF2zcnfYyXwCb_JcD2E8b3hjA",
+      "photoAttribution": "The Waterfront Hotel",
+      "placeId": "ChIJiTyDyDdFDhMRAbEB3Tno2tU",
+      "phone": "2090 6899",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Triq Ix - Xatt, Tas-Sliema SLM 1028, Malta"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Veranda Grill & Wine",
+      "coord": [
+        35.920035899999995,
+        14.4902322
+      ],
+      "desc": "Traditional Maltese cuisine, terrace with harbor views, local specialties, family-friendly",
+      "longDesc": "Serving authentic Maltese dishes with sweeping views of the Grand Harbour. A family-favorite spot for experiencing local flavors in a welcoming atmosphere with plenty of space for children.",
+      "gmapsUrl": "https://maps.google.com/?cid=5911132111135047850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Photography Worthy",
+        "Afternoon Wine",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1573,
+      "website": "https://www.facebook.com/verandagillandwine",
+      "photoRef": "places/ChIJ6zIRh3ZFDhMRqgCcKFaPCFI/photos/AcnlKN1ENT2u-hfR2ReqbcLJK5I6592w0xrYp31iBBRXt0SMl1mftK0tQnw5zGRF84T2MZ--omxjeffTurfzeCbY0QhYqKSG_Rt7B6eLWXfYr2RznTbLBZNaCtoMRgvAHSP4XP48sniYwVKJN_LS8Rzk6nJMlnDpEWJsVgyhms1KfhKjGMCZhqMrXS7lqtyH3y7gouR8Qtiv3Z5vORN1fJqD2Fshiqith0OyTlw2H3qmrvCQm1X6iAC6Od0qkJxi6MmCbHeiWRDzfKzFOAInvW-ZVsU8tqKRiLiQawSgCAThJHRZQA",
+      "photoAttribution": "Veranda Grill & Wine",
+      "placeId": "ChIJ6zIRh3ZFDhMRqgCcKFaPCFI",
+      "phone": "2138 8881",
+      "hours": [
+        "Monday: 12:00 – 11:30 PM",
+        "Tuesday: 11:30 AM – 11:30 PM",
+        "Wednesday: 11:30 AM – 11:30 PM",
+        "Thursday: 11:30 AM – 11:30 PM",
+        "Friday: 11:30 AM – 11:30 PM",
+        "Saturday: 11:30 AM – 11:30 PM",
+        "Sunday: 11:30 AM – 11:30 PM"
+      ],
+      "address": "St George's Road, St Julian's STJ 1304, Malta",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Caffe Cordina",
+      "coord": [
+        35.8987116,
+        14.513152400000001
+      ],
+      "desc": "Historic cafe, traditional Maltese pastries, coffee, casual seating, kid-friendly",
+      "longDesc": "Malta's most famous cafe since 1837, offering delicious local pastries, hot chocolate, and coffee. A charming spot where families can enjoy a casual break while exploring Valletta's historic streets.",
+      "gmapsUrl": "https://maps.google.com/?cid=6430397743372098828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.1,
+      "ratingCount": 6027,
+      "photoRef": "places/ChIJBRwagilFDhMRDN0qiq1cPVk/photos/AcnlKN100v3TnwopM_FpVhfEOjz4d9XEQFwGcy_iSQA-NoIAbVbELun_-CSo86GtwttNhCYYIIGwducid_kWl8KbHD6rZDDCcAWTEPqHWoEUVkJQt301MIaxLWi41UiSzA3UOOCgdqBrN4dwsEky4fB-6SMs3_wWk19oifpSyp6sjVA0SdW2peLdGYqVGCUjjH3lB22MeKE7mhwy237KJklZW5AY0HMzSQmzocGtFgIc6I-6WIVeX73etBUBp_7tTIasiB5Rcm7WVU9K9Sh0HBD0PFQNH2TfIMK1T2oBtKRDk-HDKrgmoexy1uCsno90DwUan3kZbpcggTB2_N7G9a9g1kYajJBu4lMDcTFl5JP_tNXu0-UIFtmf7LxuihZChJ8qvdQPMt5kgE4CWRFgXDbfji4VK9gnoI3MA7xy__gcIVFL5Jt6U-GCZ4ufFPvdOw",
+      "photoAttribution": "Stuart Bradshaw",
+      "placeId": "ChIJBRwagilFDhMRDN0qiq1cPVk",
+      "phone": "2065 0400",
+      "hours": [
+        "Monday: 7:30 AM – 9:00 PM",
+        "Tuesday: 7:30 AM – 9:00 PM",
+        "Wednesday: 7:30 AM – 9:00 PM",
+        "Thursday: 7:30 AM – 9:00 PM",
+        "Friday: 7:30 AM – 9:00 PM",
+        "Saturday: 7:30 AM – 9:00 PM",
+        "Sunday: 7:30 AM – 5:00 PM"
+      ],
+      "address": "244 Republic, Il-Belt Valletta VLT 1114, Malta",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Valletta City Gate",
@@ -77,7 +212,8 @@
       "tags": [
         "Photography Worthy",
         "Cultural & Historical",
-        "Family Friendly"
+        "Family Friendly",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -106,12 +242,139 @@
       "tags": [
         "Photography Worthy",
         "Cultural & Historical",
-        "Romantic"
+        "Romantic",
+        "Iconic / Must-See"
       ]
+    },
+    {
+      "name": "Popeye Village",
+      "coord": [
+        35.9609375,
+        14.341154000000001
+      ],
+      "desc": "Colorful film set village, boat rides, swimming cove, interactive activities for kids",
+      "longDesc": "A quirky coastal village built as a movie set, now a family attraction with vibrant buildings, beach access, and boat rides. Kids love exploring the whimsical structures and swimming in the sheltered cove.",
+      "gmapsUrl": "https://maps.google.com/?cid=8917864711763153921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Playgrounds"
+      ],
+      "rating": 4.4,
+      "ratingCount": 34543,
+      "website": "https://popeyemalta.com/",
+      "photoRef": "places/ChIJBxs5A1NMDhMRAVSi27Sewns/photos/AcnlKN2X5I3_03G_6HhPpDu5a3FUbdwfK7hgW1u5VLn5SGkLlxg11DPINupVXIEJw6irAXBBp8KLyoEvOXRe5SfHUp9WUWEgDYiz5KJ_sPmxeGLsRehWarUhVSYmAfkQ5mSrsPacE8uf0bWbuQjVhIcSYqMk6V2zm50SR2c5rwFYEXj9pKjV5Sk-h266Uxcvm4u1PihkYfYjJJmEzEzVgKg4nS7I88LFs5x4Roq8A8TFRN3dKtzeEaMUDSvf682dd9mL5ywXlQVGQeu8AdFBJVn4bysBfknQlElMI4IrcrqviAWwBpCo6_Nx27YIgh8kSsLJ-hptWUYs-M2oubELSwM8STX4JBioUMbUHXUgHji1QM81R-6I6YFHV026oAhKJh3JiCwscAdJY9FlgyURKifc__JLMg6WOxZRBFoGZRDKY2YyX_I",
+      "photoAttribution": "Jo Patrick",
+      "placeId": "ChIJBxs5A1NMDhMRAVSi27Sewns",
+      "phone": "2152 4782",
+      "hours": [
+        "Monday: 9:30 AM – 5:00 PM",
+        "Tuesday: 9:30 AM – 5:00 PM",
+        "Wednesday: 9:30 AM – 5:00 PM",
+        "Thursday: 9:30 AM – 5:00 PM",
+        "Friday: 9:30 AM – 5:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 9:30 AM – 5:00 PM"
+      ],
+      "address": "Triq Tal-Prajjet, Il-Mellieħa, Malta"
+    },
+    {
+      "name": "National Museum of Archaeology",
+      "coord": [
+        35.897445,
+        14.51113
+      ],
+      "desc": "Ancient artifacts, prehistoric temples, interactive exhibits, educational for all ages",
+      "longDesc": "Houses Malta's most important archaeological treasures spanning 7,000 years of history. Family-friendly exhibits showcase ancient pottery, tools, and statues that bring Malta's fascinating past to life.",
+      "gmapsUrl": "https://maps.google.com/?cid=11969215430114868332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Rainy Day"
+      ],
+      "rating": 4.4,
+      "ratingCount": 3949,
+      "website": "https://heritagemalta.mt/explore/national-museum-of-archaeology/",
+      "photoRef": "places/ChIJzd0W8SxFDhMRbPweoAQyG6Y/photos/AcnlKN2XMy4ss15h2ImLuqzjhpgHUVULQOwamrBt7EXL1jg2krdnJD83mnuGAnqaa0N-tUYU-0OejZBPPi1aGrPgu_ufQ08c6wMgzxYfrhWWBswIBYdKM_fUMKP1G2iJmm7B-GaIwyL12jlsX7J8uywY3uS4AQZITy8ZOcgn8N29FRpBrypYHpIGwuD3v4J25uL8PUPvAvb_SPH1edYeJx0rWSZ-hbojfpaMTrQTfa5GIcZitFCuKiWQGwIEUNapZkBqi0BsdftJ9phAb496br6sYoxY5ElNrLWF-ApE1hWI-E9INk3xV2K_S58QQker50WpXzv9TTg5qvuM4WMJZzw3nmbUaNh8-I4vF1efRW2PAeEnO2yTZ8wOb8VCUkzZkkVgqX_Y7CyMiRy-8B2jenrsVfkPeQOhabOFGAL2mZ1wJoapdA",
+      "photoAttribution": "Martin",
+      "placeId": "ChIJzd0W8SxFDhMRbPweoAQyG6Y",
+      "phone": "2122 1623",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "Republic St, Valletta, Malta"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Splash & Fun Water Park",
+      "coord": [
+        35.938450599999996,
+        14.457884799999997
+      ],
+      "desc": "Water slides, wave pool, children's splash area, shaded picnic zones, refreshments",
+      "longDesc": "Malta's premier water park offering thrilling slides, a wave pool, and dedicated kids' zones. Perfect for families seeking a fun-filled day with pools of varying depths and plenty of shade.",
+      "gmapsUrl": "https://maps.google.com/?cid=4998752440079910095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Playgrounds"
+      ],
+      "rating": 3.8,
+      "ratingCount": 3847,
+      "website": "http://www.splash.mt/",
+      "photoRef": "places/ChIJk1W2DJtPDhMRz4QUF9wiX0U/photos/AcnlKN3x0E78c25CsVSY1aC9eHLeueGBZpmJ2Z7yG9c15kw7CQ-ZMBalfHlMos7shB-zwixUSX_q663BAfDVOepsU09OfnJoyXPjgSNNhS49tHCmSbFJitmmMhHB_1KOwvC8dqYvJJh4_tyiGL69cTm4OcVAQ8OPZ8HCSw7C52hZMCAsVkPNAuwgdrcz2WCxvPeeItAeqUClZq7lBrK_aqBHob8pcdeITzYS0GNARXjfOwl9dQHDYL9lGD1XdCUZKRJ6n4LbKfYfEVgn7whjVUFI4nYDipJ5WLLKVd50SIceb9rjeQ",
+      "photoAttribution": "Splash & Fun Water Park",
+      "placeId": "ChIJk1W2DJtPDhMRz4QUF9wiX0U",
+      "phone": "2780 0088",
+      "address": "Tul Il-Kosta, Naxxar, Malta"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Ta' Qali Artisan Village",
+      "coord": [
+        35.8907995,
+        14.418079899999999
+      ],
+      "desc": "Artisan workshops, local crafts, blown glass, pottery, souvenirs, open-air market",
+      "longDesc": "A charming open-air market featuring local artisans at work creating glass, pottery, and traditional crafts. Visitors can watch craftspeople and purchase unique handmade souvenirs while kids enjoy exploring the village.",
+      "gmapsUrl": "https://maps.google.com/?cid=16819687639010149647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Shopping",
+        "Cultural & Historical",
+        "Budget Friendly",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 3.8,
+      "ratingCount": 1195,
+      "website": "https://www.facebook.com/artisanvillagesmalta",
+      "photoRef": "places/ChIJJZl_V8BRDhMRD4U6DMuIa-k/photos/AcnlKN3RpyNWqx9H9qA5eP7SQFX1diOArw7Q0FcjEs9G16ZWndp2pHjWwzhYpSb-xmEIWD1yGyY9qw_JiKpKd6eoXC3jA913apvik_K2Ff4GkCKnY1oO49-6j1Ke1j2kn2AsyAKYGSDXPcNksmwKeW-kneb_MhST7DWafe7rjcrbagxUVglFc1s26G8Sv8IEnD-9gpCnoSO6TRA81EKf1yduhAetFSZlOa-GUqEswfCnWnmO9LPSBG9__SyCkV9kU4BwSEiAW5DiAW3fqPKjOqlFSs_36qSkzmJfeJynIZG6Z3Y599tAJ8JardPj01NzWNkjTU53MfIyjeQWKAQjQPTbvexKsLb8X9lhCI3Zyqre2yyQWo5J5SASLE2aX7miKpblBssfPEmO7dCFaiig6lyV9dmDONmFyVDLB3AUk1Kvo8KQZlWMJWIOMuM5jt3ZZM1n",
+      "photoAttribution": "Monika Monique",
+      "placeId": "ChIJJZl_V8BRDhMRD4U6DMuIa-k",
+      "hours": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Attard, Malta"
+    }
+  ],
   "cityCenters": {
     "Valletta": [
       35.8976,

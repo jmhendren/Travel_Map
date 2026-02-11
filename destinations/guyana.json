@@ -8,8 +8,287 @@
     -58.9302
   ],
   "defaultZoom": 10,
-  "hotels": [],
-  "restaurants": [],
+  "hotels": [
+    {
+      "name": "Cara Lodge Hotel",
+      "coord": [
+        6.8135743,
+        -58.157398199999996
+      ],
+      "desc": "Boutique colonial hotel, lush gardens, personalized service, intimate atmosphere",
+      "longDesc": "A charming colonial-style lodge in Georgetown's heart offering personalized hospitality, beautiful gardens, and authentic Guyanese character perfect for families seeking local charm.",
+      "gmapsUrl": "https://maps.google.com/?cid=12616380994947919692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Budget Friendly",
+        "Family Friendly"
+      ],
+      "rating": 4.1,
+      "ratingCount": 300,
+      "website": "https://caralodge.com/",
+      "photoRef": "places/ChIJs8LYYK_vr40RTC_coqtjFq8/photos/AcnlKN1NTiOo7zyq-9uK5VYtTZpjoXQjkMrv2GBUd5tPpYIs6MTPT_Qf1g6QhVeEq5_Gcya6CBglqx9WIFL4iGwmS_-i9hYGteS1EeM4k3F-0v3E-shtMWHvvNhezN26WMOFUaOReRvMZ7NVEEZNQ87z5w985I1RfZThzi76_nGQXwmvcPASZ_p9SV4ex-3ASGMjxwnb3xOs00c_JfVssniABOFxhBrTW5wrw8TxWwD5E6Rf7Sgl-QqUbwR2Jv_H9-1qzzHN8zRownHkKjW2TJH2lEmM0eAjDakB_uwUywsCC6O0iw",
+      "photoAttribution": "Cara Lodge Hotel",
+      "placeId": "ChIJs8LYYK_vr40RTC_coqtjFq8",
+      "phone": "225 5301",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "294 Quamina St, Georgetown, Guyana"
+    },
+    {
+      "name": "Rock View Lodge",
+      "coord": [
+        3.9614873999999998,
+        -59.1237018
+      ],
+      "desc": "Jungle eco-lodge, rainforest immersion, wildlife viewing, rustic comfort",
+      "longDesc": "A sustainable eco-lodge deep in Guyana's interior rainforest offering authentic jungle experiences, wildlife encounters, and eco-friendly accommodations for adventurous families.",
+      "gmapsUrl": "https://maps.google.com/?cid=7739869325519617654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly"
+      ],
+      "rating": 4.2,
+      "ratingCount": 39,
+      "website": "https://rockviewlodge.com/",
+      "photoRef": "places/ChIJVSzY5NxMlo0Rdv6J2ySKaWs/photos/AcnlKN32QRnNVen__ifQNeKdHZbm_Zzz1oTBZ-fHKg01Kr65mutcUO33yHnDbn7s4yTbcVkhTp80TTmERYF9GsKYBeFU7JsCcdHaHffyrw4MIsBMM_xhByox1aL4EzR8VWRFDz4T6Yq0c99UsgA7uTy6yceEP7489ZbUjaD5c6NPxGgGEd7DAposHZk8CO-DpWthHnPXD9_we1n1-EGclcsEO866i1kAxXrZylvOK9q63NSKhpjW2TWRvnGc4fvA7RCD6Lhvq15Fx5ttwZhxKvMkMfJAaVh_gxC45dJH4i2KH3waCw",
+      "photoAttribution": "Rock View Lodge",
+      "placeId": "ChIJVSzY5NxMlo0Rdv6J2ySKaWs",
+      "phone": "645 9675",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Rupununi Rd, Annai"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Backyard Cafe",
+      "coord": [
+        6.7925347,
+        -58.1586446
+      ],
+      "desc": "Garden cafe serving fresh juices and Guyanese comfort food",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12500859838158732792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Budget Friendly",
+        "Family Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 92,
+      "photoRef": "places/ChIJw0qvhLjvr40R-P1lWMr5e60/photos/AcnlKN0n5qOrZzWWSAy_kQfO_Kxsx4MQ8IzUHNo8dJKsb6aPtLg1wMoTXOmSdiuRXUvxcGNwr6qWxzioQSxvzfpZRBAgwTtjsYOPv32-9-Lbpfko81CU_Vz7HJeOY-JUiwFw-Uqtk0cU9M8pl5WWJ4ZeRZxKtBUrTPoM0jmm4rdf5IQmYffT9Y-txAVXKYjw3ctfOwuDFV2d5qjHU9Zr7vncQQSHyLWWwQ4gHzQKrKhffuWsOP8-c1mpFM3yaDx86YvLJaHHfyIXggFPRiEHDr7DzJs0cY5mOuO_N9YV1o-IdEIRvjjbB8wPr8VoHc-Kwe1LOAGCzi2w-7yFq4xO1Pa5s1oQp8iu7aNM8-_DSZPqpIkMbJ3CPEl1Lc_bxDd9vh5Scz5Hm3keTON-oSwMlME-o16V7LwCzy-eSljmTmAGDApjlA",
+      "photoAttribution": "Albert Katryan",
+      "placeId": "ChIJw0qvhLjvr40R-P1lWMr5e60",
+      "phone": "663 5104",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 7:00 AM – 10:30 PM",
+        "Thursday: 7:00 AM – 10:30 PM",
+        "Friday: 7:00 – 11:00 PM",
+        "Saturday: 7:30 AM – 11:00 PM",
+        "Sunday: 8:30 AM – 9:30 PM"
+      ],
+      "address": "QRVR+2G9, Georgetown, Guyana"
+    },
+    {
+      "name": "Bistro Café & Bar",
+      "coord": [
+        6.8156335,
+        -58.160637900000005
+      ],
+      "desc": "Local favorite for roti and Caribbean fusion dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5240553700321639440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Hidden Gem"
+      ],
+      "rating": 4.2,
+      "ratingCount": 319,
+      "website": "https://www.bistrocafebars.com/",
+      "photoRef": "places/ChIJ14UkAAzvr40RELwHJtMvukg/photos/AcnlKN0RPEVINgOUbC2EoKtruhLsHvcZzPCZhaeerxN1Cc11Oqua7QmMq5oHL04G0CVTwDL3mcmfahBe7qGE56-futOqX0p0FRv4u7LWwtMTLYQE43DiX1mqfKEGQzjCpAi7b42Rznzoy_bI8oKPH18LKjaNxCzAsL1owp5DzPMD7u98Elfq49fXH3cXYwZBrbxeCNrc8h1pk7EtklIpF54kgzvrSMQVK_kJx6nKL-iH7YwIKTyplEKLLDea4r9is2Obrr4kWPlKI8h2dAxGfK_-Hcf_SeeV9u3zBtcMZfShrd-0f7KhUXw5nyGJettW367jPwUsUb2VBDUXaSmTlZavUOt3p4IZElSygWSOqkJ-jFQYKb2WSvGgcwCEO8JjoTZjGQ_EJIVS2SltOcyYI-ethsQcfwYM7GOQ1aSpA3ywqg6i-5mFNot7FwX9LzabERkX",
+      "photoAttribution": "Catadores Locales",
+      "placeId": "ChIJ14UkAAzvr40RELwHJtMvukg",
+      "phone": "225 8634",
+      "hours": [
+        "Monday: 9:00 AM – 9:30 PM",
+        "Tuesday: 9:00 AM – 9:30 PM",
+        "Wednesday: 9:00 AM – 9:30 PM",
+        "Thursday: 9:00 AM – 9:30 PM",
+        "Friday: 9:00 AM – 9:30 PM",
+        "Saturday: 9:00 AM – 9:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "176 Middle &, Waterloo St, Georgetown, Guyana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Oasis Restaurant",
+      "coord": [
+        3.9684033,
+        -59.128348200000005
+      ],
+      "desc": "Lodge-prepared field lunch with local fruits and cassava bread",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1533009683576324157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.6,
+      "ratingCount": 24,
+      "photoRef": "places/ChIJiQPYa-pMlo0RPQDNWi9YRhU/photos/AcnlKN1iD_6VXTJkr3YX9E-Bj5fzgy5XDP_AgVtGtzyL3nmxrixjUQcOpwOz8hxGAm90MnpQMPq-FIkoTmAaTYWZQLiV5B5gy7vGev7eBq7fzTDMlo7PhP0g0MW-8QcH_lXZmF8S4V3eLQkbN8wpZi3vNgRSSqIc7IdTBZI3Xjh_N5h6wCMIAQx895R5c6yoq2m2LShbzddUju8KOppj1_XXxus8B26027BalKgv3ijaFkFTby6jbKyoE1dHs_vhhr2d_aXERpWQCFhWPfU2NT2iC9FRZBbN3hnNTQuo6uYu5qbSOVX7J96H8Lv32itlHRKdVOt9MFqriji57WsKpgMV_k9ynbrB_qAj2QTNs4FXYtImZArwm6vUTHqWrw7R9lHTmRq8OoR4TdJnS4fQx4HrinJyWBByr7E4EbrzKaXIU820Yw",
+      "photoAttribution": "Sergio Vacchetti",
+      "placeId": "ChIJiQPYa-pMlo0RPQDNWi9YRhU",
+      "phone": "639 6994",
+      "address": "XV9C+9M6, Annai"
+    },
+    {
+      "name": "Iwokrama River Lodge",
+      "coord": [
+        4.6608237,
+        -58.68061540000001
+      ],
+      "desc": "Riverside lunch with views of river dolphins",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8429713009445208640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Scenic Views",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.5,
+      "ratingCount": 80,
+      "website": "http://www.iwokramariverlodge.com/",
+      "photoRef": "places/ChIJQy8ZH48-vY0RQIJ4zlFb_HQ/photos/AcnlKN37MDe-VNYUDFWHPdnoT81jX62fkH-GadntgtMzbg-MmtGQxw1YS7kRQneCMP05-9iHtYo2_eEvvPFUSbjWeQIe44LXWTizIOlW_OvlVoJhyujvcMiDsM5QjOhrA89_sLZsS6HD8WCo6r2i0Tqifq-b278_FZ69M6RDIgDBTvGO83bYH-VCc6hAjbJ04Ix5Wqnbylq-vYWPUcBolFC0DzRy8sxpkQytZnCYx8RBkApVBXnATA3xkU4R9zBPeR5GhUpzZTvlP-pX6jAV4bmokDBYUD5Xw_8-anu5IKmg4FLVbw",
+      "photoAttribution": "Iwokrama River Lodge",
+      "placeId": "ChIJQy8ZH48-vY0RQIJ4zlFb_HQ",
+      "phone": "691 2543",
+      "hours": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 4:00 PM",
+        "Sunday: 6:00 AM – 12:00 PM"
+      ],
+      "address": "Iwokrama River Lodge - Kurupukari Crossing Essequibo River Kurupukari, Essequibo River"
+    },
+    {
+      "name": "Iwokrama River Lodge & Research Centre",
+      "coord": [
+        4.6719425,
+        -58.68471619999999
+      ],
+      "desc": "Main dining facility at Iwokrama River Lodge offering Guyanese dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17828179913900659653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.8,
+      "ratingCount": 23,
+      "photoRef": "places/ChIJxeWS3I4-vY0RxZPNhyxravc/photos/AcnlKN3pBFL0VArw6MV9SL_mPgQthi6BaIQIZsKV3oZ_5faQifvP1MRNfjRrG053NWuC4tJijVJMOce05kP45B3sfGC5WAjFpdF3NCGmI8-qVBypGyU5ZdOr3-3N5AmWsPnueXGqNDL-bSh18YySpfVpM74crydpJarseYtLLhSr8AV_4ODhXByn_Z_PNdJu14DMM9kWWsQFZxfKLbEwiMeLxG-rZls-tapk8wYjjvGAeJ7kbT2Yk6xzzUndS6Z1ktNyMSj7afKjZ07hAVFtPN2J9XOemBS6e4xDJEiNaVYd1JHgRW1XV4Skz2fHV4BXwhks4e4oN_nJ7y10K6h-aN6_k32JpJuGJ8YgJY1Ib92qHkevrPWg3Dax-RVOyFbNmhRE2va9GxcusqMb3X5dwwLXbs3eic4Cw1YppingOF_ae_Y",
+      "photoAttribution": "Dhani Persaud",
+      "placeId": "ChIJxeWS3I4-vY0RxZPNhyxravc",
+      "address": "M8C8+Q4F, Post"
+    },
+    {
+      "name": "The New Thriving Restaurant",
+      "coord": [
+        6.760432300000001,
+        -58.176561
+      ],
+      "desc": "Popular Chinese-Guyanese fusion spot near the seawall",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5849788499620463316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 3.8,
+      "ratingCount": 298,
+      "website": "http://www.newthrivingonline.com/",
+      "photoRef": "places/ChIJfwwVGBLwr40R1AILm6WfLlE/photos/AcnlKN3LWdAIfcdyNBzlZO9C80biM7ZANSqhP_kHymCbyQaau1l2wKmJQJNeXxbrRg4p8K_TbozTqoES39gJmngSDYQ-jy_rWvojVfbPvTNavKMo5fOxC2K2Tvh3v4r0mxJ90S6Vajjc4uEu8GdX8oHvoxdu6zsAlEh-TxLFvvOcB1vm4hewwinY_lntJMnvMO5cKSGxSRBfZhTU0KTxF6Qus63xtgCTOLKTc9yvnicrXN0o4dlMo_xGRYfgln-MwHP43DkTA_m4SZiC3YW9Hqhc0k_8t-NIt4pz3BkhbZofaHUI3CNXTighvb5x0P_CeSOtvw_L-lC5ytjHCoEkK1_PW-K0eRZXYJ1drXtqyPmsHcWKahY0v7P2CMrcnaQwESx1bj5h9bxpVICbDryXFDE_n8Y911VpRGU0nOOLpGbg7uTIzyIk",
+      "photoAttribution": "Anthony Manmohan",
+      "placeId": "ChIJfwwVGBLwr40R1AILm6WfLlE",
+      "phone": "265 7882",
+      "hours": [
+        "Monday: 10:30 AM – 10:00 PM",
+        "Tuesday: 10:30 AM – 10:00 PM",
+        "Wednesday: 10:30 AM – 10:00 PM",
+        "Thursday: 10:30 AM – 10:00 PM",
+        "Friday: 10:30 AM – 10:00 PM",
+        "Saturday: 10:30 AM – 10:00 PM",
+        "Sunday: 10:30 AM – 10:00 PM"
+      ],
+      "address": "QR6F+59G, Georgetown, Guyana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Blues Alley Club",
+      "coord": [
+        38.9046983,
+        -77.0625642
+      ],
+      "desc": "Relaxed spot near airport route for final Guyanese meal",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13308340091285040406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1789,
+      "website": "http://www.bluesalley.com/",
+      "photoRef": "places/ChIJ6bJ4V0m2t4kRFm0ia824sLg/photos/AcnlKN31w8lOXF1Q8KeS-fZ8N_Gfkm9RqgVsEeHGBETiGURMpU-dRVTA9QXeETElksrZmuhL-OQNNOmuZUuSy4OE0ulDm5F7BNkCwHUdHCkcOyg8StW74_jfEdAR2kY95HW2zUVYaIzvOnx8Di52Qqc5SkEjqY_1bWO392CYFoVBEEYuU6ebaS9V3VyRYiGr-gXAWmZHwSws2QleBGSq5v1DT_ui4nv0NzQTPoqYcP9ozotxAt2473a6sJsSsZf3YiKilksPAV6U2eEvyYWuhN2G2Ms4MWmXhtQV6cC_Nkl3MWPXoQ",
+      "photoAttribution": "Blues Alley Club",
+      "placeId": "ChIJ6bJ4V0m2t4kRFm0ia824sLg",
+      "phone": "(202) 337-4141",
+      "hours": [
+        "Monday: 6:00 – 11:00 PM",
+        "Tuesday: 6:00 – 11:00 PM",
+        "Wednesday: 6:00 – 11:00 PM",
+        "Thursday: 6:00 – 11:00 PM",
+        "Friday: 6:00 – 11:00 PM",
+        "Saturday: 6:00 – 11:00 PM",
+        "Sunday: 6:00 – 11:00 PM"
+      ],
+      "address": "1073 Wisconsin Ave NW 1st Floor, Washington, DC 20007, USA",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Guyana",
@@ -28,11 +307,502 @@
       "tags": [
         "Outdoor & Nature",
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See"
       ]
+    },
+    {
+      "name": "Pegasus Suites & Corporate Center (New Wing)",
+      "coord": [
+        6.8254247999999995,
+        -58.1612276
+      ],
+      "desc": "Upscale modern hotel, excellent restaurants, business hub, family suites",
+      "longDesc": "Georgetown's premier modern hotel featuring spacious family suites, multiple dining options, and full amenities ideal for comfortable family stays in the capital.",
+      "gmapsUrl": "https://maps.google.com/?cid=9840074908447661982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Fine Dining",
+        "Reservations Recommended"
+      ],
+      "rating": 5,
+      "ratingCount": 4,
+      "website": "https://www.pegasushotelguyana.com/",
+      "photoRef": "places/ChIJhV5nGgDvr40Rnt9Bif73jog/photos/AcnlKN2OZ_ortSx9EaLPwEj9qatG9nUa5MXeYng65dYcgRUdeuMCjP8yjrSRFl4QfZQVkYINtezlDbu-81gdONy3QamQjhZuOr2HgNcNeC3LB5CaxTkkghWVMgHgZ2oBNLHfZHU28tPy1KefzDpiDy96S4yAcVE7Taxdn6CcIUB-X8qM_SEtsTBuPl2l1h8VckiRk77Xpc3iOw4mTHgFrCQe4Q_PR5dlfnOcQa_6H_DJiHCs_lLjBIUTTcBZAUq3bntIgypsWnpfpEBErZuuktWHPyRqqx7V3jhxvBRlOIfcR4yZDxSJwP2VODPauxDOWbT-q8_jrjRM-POygpNon0L-NfuXtvQPp6jz9qoPoNgBpIzvgdPYQhGrQFHkTk2_-EU7HeEiOpSuwsFZaiJfJk4nDueCfdc7qUBPnkqplsgth8gqTdTJloaJiz7CHNqgImsi",
+      "photoAttribution": "Danys Yanier Rivero",
+      "placeId": "ChIJhV5nGgDvr40Rnt9Bif73jog",
+      "phone": "225 2856",
+      "address": "RRGQ+5G6, Georgetown, Guyana"
+    },
+    {
+      "name": "Almond Beach Resort",
+      "coord": [
+        16.839425,
+        -88.27066889999999
+      ],
+      "desc": "Beachfront resort, water activities, pool facilities, relaxing getaway",
+      "longDesc": "A scenic beachfront resort offering water sports, comfortable accommodations, and beach access, perfect for families seeking seaside relaxation on the coast.",
+      "gmapsUrl": "https://maps.google.com/?cid=12537761628490211737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Budget Friendly",
+        "Beach"
+      ],
+      "rating": 4.6,
+      "ratingCount": 211,
+      "website": "https://www.almondbeachresortbelize.com/",
+      "photoRef": "places/ChIJFzJP9xOZXY8RmaGu8MUT_60/photos/AcnlKN3l4ZrGfR0IHeVXDzjytf70jGD9c5B_27fSAK7C-oj9EoNvsKfhwsmjJjfBk6Vzhlqhq6Se6EsEN21oG3jSuuu7NpcCAwHNYZOfwBRNeCEcWuhUlx1lQU6jTVn3ZU0WDeo4ib9VyKOk6dzO6QUyjX2Kc6uyKf2S08GsUtEMbur83XGwHxL2r4744bJFwjVgAqY3FIhHeM0CJfXszmSFRzEpPqALP8bt5N4Kt6kBwY923zSvHmk84WghdaJliHKWsotUat-3izr7aW1g99NJtGGSC1QJJ7o9qcxIqIXn3ui_0g",
+      "photoAttribution": "Almond Beach Resort",
+      "placeId": "ChIJFzJP9xOZXY8RmaGu8MUT_60",
+      "phone": "822-3851",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "False Sittee Point, 101 B, 101b Sitee River Road, Hopkins, Belize"
+    },
+    {
+      "name": "De Churrascaria & Pizzaria Restaurante",
+      "coord": [
+        6.8085124,
+        -58.15954199999999
+      ],
+      "desc": "Brazilian churrascaria, premium meats, tableside service, elegant ambiance",
+      "longDesc": "An upscale Brazilian steakhouse offering premium cuts carved tableside with all-inclusive salad bar, perfect for special family dinners and celebrations.",
+      "gmapsUrl": "https://maps.google.com/?cid=14757181529150625713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Reservations Recommended"
+      ],
+      "rating": 3.9,
+      "ratingCount": 121,
+      "website": "https://dechurrascariapizzariarestaurante.com/",
+      "photoRef": "places/ChIJQbW_36bvr40RsZf68mkKzMw/photos/AcnlKN1uYWj1fK2LK1zXnSjyPS3nae6kLhkxvQhLS-NyWUXrvpSp0xP014t1TDxETr4bc6VSRi1q4l7C9aFo378Km1JFShxLnPW3TaWUNPUvVjLreqPLlCvh9V7_u07VilqKNCBw9nF8_OaYl9bl463KStgSHyJMu4Aul1eA4w6ICmWMOJTKSmMUmWNHwAxp4UqRQCb3SWSmaPl0sQT25RRCw9a-tTcXLYXsJ83B4T3lY8Jm0b0R1GxdWhrGSQNe4G0z6In4o1HXCcwGvdsz5IJHqeTvQb3fR8RpXoEnp_nKw_gb-A",
+      "photoAttribution": "De Churrascaria & Pizzaria Restaurante",
+      "placeId": "ChIJQbW_36bvr40RsZf68mkKzMw",
+      "phone": "223 3033",
+      "hours": [
+        "Monday: 10:00 AM – 11:00 PM",
+        "Tuesday: 10:00 AM – 11:00 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 11:00 PM"
+      ],
+      "address": "208 Alexander St, Georgetown, Guyana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Realm Sky Bar & Steak House",
+      "coord": [
+        6.8139815,
+        -58.1613525
+      ],
+      "desc": "Local cuisine, multicultural fusion, casual dining, authentic flavors",
+      "longDesc": "A popular casual restaurant serving authentic Guyanese and multicultural fusion dishes in a relaxed family-friendly setting with generous portions and local charm.",
+      "gmapsUrl": "https://maps.google.com/?cid=8239621284069738815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Family Friendly"
+      ],
+      "rating": 4,
+      "ratingCount": 11,
+      "photoRef": "places/ChIJs1iKDADvr40RP4m5COcDWXI/photos/AcnlKN2mWLID-h9L9qkn40EP_yNt5iu7pMyKiL6OLqSqAJmMlGgRzuPDx5W4eZx_A1LuQn1DFg6DIWG8uhK4neXHw4HgDis61aYsSk3GNJX03cTkQTU3nkF1bH7yRYkF_JLMxFKSm8D70qzwZPQzD_cxL1Ur7GIDWcjM82rZPs6WXlWScGRFIxUVdnOe1FRH5ZWQN8hjvHxjB45DMwDMw_jBTeJlgWl-yclZknAsZ8Sx8nLsQqpad6bxRoI4GetvPOtzBGoA0ZwrZbagdLGpM-xzVqrUYbZdcqp98mM8F_bXkkRx5xTxt97OjqaE8fKG1kfitiLI5PtpkZUyiz8tcGCoaN_1RXVakxU2E0JZnrnZhy8eEg_gHMZPCImwrV1o0lD16wZRYcXXNwNa6tfHmNmOwnpYxt2h5yPGgw4skcV8uOT39d9AL3WwyaIKbFXEsQ",
+      "photoAttribution": "Michael Sparrock",
+      "placeId": "ChIJs1iKDADvr40RP4m5COcDWXI",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 5:00 PM – 12:00 AM",
+        "Thursday: 5:00 PM – 12:00 AM",
+        "Friday: 5:00 PM – 12:00 AM",
+        "Saturday: 5:00 PM – 12:00 AM",
+        "Sunday: 5:00 PM – 12:00 AM"
+      ],
+      "address": "184 Waterloo St, Georgetown, Guyana"
+    },
+    {
+      "name": "Sacred Ground Cafe",
+      "coord": [
+        38.792421999999995,
+        -104.8591989
+      ],
+      "desc": "Artisan coffee shop, fair-trade beans, cozy atmosphere, light breakfast",
+      "longDesc": "A welcoming café serving excellent fair-trade coffee, pastries, and light meals, perfect for morning family gatherings or afternoon coffee breaks in the city.",
+      "gmapsUrl": "https://maps.google.com/?cid=7068688667169256160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Budget Friendly",
+        "Casual Eats",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.3,
+      "ratingCount": 676,
+      "website": "https://www.sacredgroundcafe.com/",
+      "photoRef": "places/ChIJLSpPp0VbE4cR4PJzKuQGGWI/photos/AcnlKN3TIodvVxKm94VWaXH1HoKOWf5G2n3RHg5bMuJ_I4r30yYsJPBb6oMHSljvmS7cLYBFXjdXMhOaOntM0hS9lta3UTOJLF_4Z916pXCPFwoLL1tRlEmh3npGvCMW6sOYYNoH-Ah8EvoMnyhIBmHUbqD2lD0jLnX5oKoJW0b5R4IA004mL3qdhLqpQdm-GBX5w_BL71ftYQv0LzNIb5Vy9m_RMb2DxqXRghrhhvG1oF-5_lxmV4n8Hd7InM1hS3Om-PTkju7qGzJOIQs-zB086mNOMMvalhDzCWIPCsfrluD10A",
+      "photoAttribution": "Sacred Ground Cafe",
+      "placeId": "ChIJLSpPp0VbE4cR4PJzKuQGGWI",
+      "phone": "(719) 475-0888",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "address": "1801 Cheyenne Blvd, Colorado Springs, CO 80906, USA",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Oasis Cafe",
+      "coord": [
+        6.815110799999999,
+        -58.16272849999999
+      ],
+      "desc": "Contemporary bar, signature cocktails, entertainment, vibrant atmosphere",
+      "longDesc": "A lively bar and entertainment venue offering craft cocktails, live music, and energetic nightlife atmosphere perfect for adult family members seeking evening entertainment.",
+      "gmapsUrl": "https://maps.google.com/?cid=5078168341223664291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cocktails & Bars",
+        "Nightlife",
+        "Live Music / Entertainment"
+      ],
+      "rating": 3.8,
+      "ratingCount": 458,
+      "website": "https://www.facebook.com/TheOasisCafe/",
+      "photoRef": "places/ChIJuYJ_NAzvr40Ro2pFeDNHeUY/photos/AcnlKN2n3F9dOkfkuY8hJPlshf_IWgxPquimYkM-tfB64zUIvS6oycVLkBHyQEUv5D0-wR-XIxmPn6AfX2e0S8SeqTydPmKk9qa5Vx6949iphTaNtjeOPleciCP7H94aPzsF2Xms0oWEWHKrrZlkTrOvAqulxskOAjE-kErh3BFdkIkf7VueJAVrtZ83ZrqCZ5BUwBvcRG3mJGQzQ6PVFbwhjdP-aGrOTlTZAkcA28c3ERXuH5lpysYaXd5ScNAT2eH0W9zPBYyG0dT4b_F4GwzZBJ_YrL9BC2BwDQ7knjSJYeuLPdxbUJv0XezczhfhtTfs3Tmaaftj9YRGAHwbSEdA8nbRGM_XInmY8VExWP_hM8A9TPHXkCpmYV1RhwzSyIMqvzlRE6QCcrkfYEGqOn9_Op1-QHfunq0xsyUf5hBZVIhW83nG",
+      "photoAttribution": "Shemar Lindie",
+      "placeId": "ChIJuYJ_NAzvr40Ro2pFeDNHeUY",
+      "phone": "226 9916",
+      "hours": [
+        "Monday: 7:30 AM – 7:00 PM",
+        "Tuesday: 7:30 AM – 7:00 PM",
+        "Wednesday: 7:30 AM – 7:00 PM",
+        "Thursday: 7:30 AM – 7:30 PM",
+        "Friday: 7:30 AM – 10:30 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "address": "125 Carmichael St, Georgetown, Guyana",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Guyana National Museum",
+      "coord": [
+        6.8134375,
+        -58.165687500000004
+      ],
+      "desc": "Cultural heritage museum, indigenous exhibits, colonial history, educational displays",
+      "longDesc": "Guyana's premier museum showcasing indigenous cultures, colonial history, natural history, and artifacts, offering educational and engaging exhibits for curious families.",
+      "gmapsUrl": "https://maps.google.com/?cid=11992786713785645523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Family Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 269,
+      "website": "https://guyananationalmuseum.com/",
+      "photoRef": "places/ChIJ9VST2Qrvr40R07k3xvnvbqY/photos/AcnlKN12s5cK3zcD1GcblGofAGvvfZLBOY-YuDt-RAovHpOE9OHR-AKiCS97flYCdkfPKwOgLPUIZ-mKomB3grOYc5inZV-ZvfLcR0haL8wKa0AJl6-9H2o5VNDn94lYJDwre72_9sgppXNCPIE17S7HnzCv52ewQPVtX6LWkvkV0Hz62PKvM3z1W17uhAkadrB3Jt-WeLqohW8UQnI07RWJNYNJIpmM9batQvxBSN19TLVuwrTGpfXDghxSvkQ1d-0-4vCd8WoHU6CF6jARi9mXT8FbbDl3buuzWD8Lha9C25ma6gLpkMLLxWAaZs8LElL-oKjTO-2nMagSkLiTxVwNLY0ywfDDGJEJsGqYhYwpB8ssTLGk5MiAIc7f6nK_U3MTLGQDaKJuBKRu-DbYXIyDfbxr9iV__8igU2YJGqAh6PA7bZk",
+      "photoAttribution": "john d Lin",
+      "placeId": "ChIJ9VST2Qrvr40R07k3xvnvbqY",
+      "phone": "225 7191",
+      "hours": [
+        "Monday: 9:00 AM – 4:30 PM",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: 9:00 AM – 2:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Georgetown, Guyana"
+    },
+    {
+      "name": "Kaieteur Falls - Guyana",
+      "coord": [
+        5.1765159999999995,
+        -59.480752900000006
+      ],
+      "desc": "World's highest single-drop waterfall, dramatic rainforest setting, scenic helicopter tours",
+      "longDesc": "One of the world's most spectacular waterfalls deep in pristine rainforest, accessible by scenic helicopter tour, offering breathtaking natural wonder for adventurous families.",
+      "gmapsUrl": "https://maps.google.com/?cid=1892313508682124159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 481,
+      "photoRef": "places/ChIJI5rzdV0_vI0Rf8urOBzZQho/photos/AcnlKN0nq5CVIuShBSEEb0zKL0j7O_86pm0yRneKXyY1QirLHShVcs11ibd8LkhWj01zV3yY1L9A9QpHmj117bxP31oRDMKAKe7FHD36OUTo9bO-bQf5gL8KaWszom68j25oZZn8KPL5WIXFSxcg2EAwNYC3lfrjjL_wC6vroCeuYpMwFlgbxapk9ccWwEPnaf4ojKkumyhrF1fqPriMcYx7ORJZJuoBcjTuj-OrZx0Y6ohvt28JYpDV5oBm99CYKzQLoawbYaNE_gOTpYExETjFzUKH_RD0-G0h7lLZyRPnmXeh2mhebzSanM6UiRCNDSRTLXD6JI3QAQ8rlVngwO8YFaOLTjIpT8Vbdb2HX96u3Gn25msGMAyzTR6ykMeCreuWVE9BQuvOW7ohFQwJG6LztJRh4qNedtaIVoiNqzVAtxGVU-PD",
+      "photoAttribution": "Álvaro Torres Bazaga",
+      "placeId": "ChIJI5rzdV0_vI0Rf8urOBzZQho"
+    },
+    {
+      "name": "Iwokrama International Centre for Rainforest Conservation and Development",
+      "coord": [
+        6.8222818,
+        -58.163208
+      ],
+      "desc": "Rainforest research center, guided nature walks, wildlife spotting, canopy tours",
+      "longDesc": "A world-renowned rainforest research facility offering guided jungle expeditions, wildlife observation, and educational programs for families interested in tropical biodiversity.",
+      "gmapsUrl": "https://maps.google.com/?cid=2453260664902836055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly",
+        "Half-Day Trip"
+      ],
+      "rating": 4.7,
+      "ratingCount": 14,
+      "website": "http://www.iwokrama.org/",
+      "photoRef": "places/ChIJj5gTehLvr40RV9_4qJO7CyI/photos/AcnlKN38WcJXH1PSzSxOrMwsuevVAs7YF9twu-P6740Ykg2ZOJCn3PQ3q694dKmZq_dmPkR8_vvqgVAhI7uNajUQIEmuLyuopcfEWLmKtcqSqveo3vZ7-SSwYjNzviFuWtpwPND6h_nSkn5xGGXjNFvfeUa4Lg1C1Qis6y_gjhU38wgg-FXEpptILrIisoYdquU0OaLdje_zWG7HagJmzMrEguFU6go9ahg_mvB4xtqKumjRmHaGAEG-xg65xw_YSZlMrzBKaRwyVYGe-5CwRsICKXOYclNIawJjB3L7RXEMzM8QVg",
+      "photoAttribution": "Iwokrama International Centre for Rainforest Conservation and Development",
+      "placeId": "ChIJj5gTehLvr40RV9_4qJO7CyI",
+      "phone": "225 1504",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "49 High and, Barrack St, Georgetown, Guyana"
+    },
+    {
+      "name": "Stabroek Market",
+      "coord": [
+        6.809831099999999,
+        -58.1677751
+      ],
+      "desc": "Historic iron market, colorful vendors, fresh produce, local crafts, cultural hub",
+      "longDesc": "Georgetown's iconic Victorian iron market bustling with vendors selling fresh tropical fruits, vegetables, and local crafts, offering authentic cultural immersion and local flavors.",
+      "gmapsUrl": "https://maps.google.com/?cid=13868011285591565228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Budget Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.1,
+      "ratingCount": 933,
+      "photoRef": "places/ChIJcwS5l5_vr40RrCPL0skSdcA/photos/AcnlKN2Z0ecrY311xah2_Tp5ZOJCTvdyDgsilinOKaX9d318izRgNGblgxdGf3zR6NgV4rDv9KM68wxmUHZGv6TLxQNtjUbvDxSs59C7rIQxxS3kpnyREKrTAC-0gSxaW3Qc3fW5soitwdUHG_t2kEVTrGdRdXevjmuTdczkWsC8_ZbeRX4lh0hqmzB1bskigUBmfweItjsVlL-wYBuEDoU3mxLyQSk6mnNrLIoa1L07nmof9wrSbUNIzcpmcGaFC0sHYrmrCBDjwFXscBSbVxAICZ8twoYlNsIaRMQCc7fpFh5uq0nicK073N9GZ7MQmllTwINnsdxXtyWRjj0YuRNvUtdrUmKI-30UdSp5RvNmG3qimd0DNc4VNROU5avQC-9NiPQ8Bd0rOPVenhtvw7URY3gd59gT_L_Yw2IDIsqo-TWJry6o",
+      "photoAttribution": "Bimo Satrio",
+      "placeId": "ChIJcwS5l5_vr40RrCPL0skSdcA",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 12:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "RR5J+WVQ, Water St, Georgetown, Guyana"
+    },
+    {
+      "name": "St George's Cathedral",
+      "coord": [
+        6.812604599999999,
+        -58.163616999999995
+      ],
+      "desc": "Historic wooden cathedral, architectural landmark, spiritual site, guided tours available",
+      "longDesc": "A stunning wooden cathedral built entirely without nails, representing a remarkable architectural achievement and important cultural landmark worth visiting with families.",
+      "gmapsUrl": "https://maps.google.com/?cid=7181235515306949091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 84,
+      "website": "https://www.facebook.com/pages/category/Religious-Organization/St-Georges-Cathedral-Guyana-1012853198756558/",
+      "photoRef": "places/ChIJSxRsxhDvr40R4zlKQqffqGM/photos/AcnlKN0CBfy02ET85KZHkl_SPdjDMjLHWycRSG_olkYfNMigGnrTmmKw3yBBm8it2m3DwWnaa8LFpZBNFiGpsARkPZLfSG-KE5QpNYgIGCtKXuEA7jW-ulj3OD5PSrMlFKw6K5209aEPvYC-mqRuIgviLSgLYfh9MTDlAbg_QiEa2lkIQpwqYI5OoFp2glCVdC5l8hRs9R8cYYHm0H8xaWBGe0T9qjfd2e0sSxJKpEEoRIpg-_JV1Let1UdNT-6UIsIwoTgKCvmL-HmxKnQQfiWLpmKh-SexwikuuJiG_2zua4bUkWHZS1Kql71k8B24ZCIVgy5TIuhKWL0qIrGYVOQ4g6EogiNaZaNYcbRGa23gKFjr-O-M3p4oucxVgk9YUKUB7wh4nbAmZr8LPmn8aJ4ItZOwFTGfQ8ZwgKFDEagAaVEiLw",
+      "photoAttribution": "CK Cheong",
+      "placeId": "ChIJSxRsxhDvr40R4zlKQqffqGM",
+      "phone": "231 6150",
+      "address": "3a North Rd, Georgetown, Guyana"
+    },
+    {
+      "name": "Enta' Fun Park",
+      "coord": [
+        6.7624276,
+        -58.1773828
+      ],
+      "desc": "Water park, splash pools, water slides, family activities, refreshing fun",
+      "longDesc": "An exciting water park with slides, splash pools, and interactive water features, perfect for cooling off with young children and enjoying active family recreation.",
+      "gmapsUrl": "https://maps.google.com/?cid=15169473092445637664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds"
+      ],
+      "rating": 4,
+      "ratingCount": 53,
+      "photoRef": "places/ChIJM8x83BHwr40RIIwRAWjLhNI/photos/AcnlKN1kk-ebYIYbtzDK8d9ZSAS6ZoMFZ43fnp1rhEx4V3PUyY9TdZG4CdyPHoRWyzKi36uD-iRom5RDPBnCdyKlGA7Sa5s-Nx3kWZpzhqDXwNPKtSfSP-GDIibXKoTtoG3s476tZq0XKpUZcqB1BmpZxtOVAe0sJ0K1ncjkDUA-ysPvGQCfbMM19qQ73RsfvOX4QClVWzrUgsaLFtCrPl655d7INsK-KlhOmfuEZ9dZD4zKGXZ45QuXbhzMj_MEm7h_BQxlxV65dJnpL4HcoehvBqt6j3ayVbY5alj_7azLGN44rtmvcuXFz0k1vtw4mjNl9tY5rE_XNBQNWIFHH1_BcFNbz9PWtc0egSxBvZrBOx3Q5LiXJkJU4Gs4ydO_0Fm83Vi-OqHG66W57SLl-4FXItw9VT6D_ZjrjZMELiOelI18cfe3Yt3ujvdAUmSQEA",
+      "photoAttribution": "074thewin",
+      "placeId": "ChIJM8x83BHwr40RIIwRAWjLhNI",
+      "hours": [
+        "Monday: 2:00 – 10:00 PM",
+        "Tuesday: 2:00 – 10:00 PM",
+        "Wednesday: 2:00 – 10:00 PM",
+        "Thursday: 2:00 – 10:00 PM",
+        "Friday: 2:00 – 10:00 PM",
+        "Saturday: 1:00 – 10:00 PM",
+        "Sunday: 1:00 – 10:00 PM"
+      ],
+      "address": "QR6F+X2H, Georgetown, Guyana"
+    },
+    {
+      "name": "Aroma Express",
+      "coord": [
+        38.8975565,
+        -77.0429157
+      ],
+      "desc": "Popular coffee shop in Georgetown serving specialty coffee, pastries, and light meals in a comfortable setting",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10590397567888180960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Breakfast Spot",
+        "Casual Eats",
+        "Budget Friendly"
+      ],
+      "rating": 4.5,
+      "ratingCount": 161,
+      "website": "https://aroma-holdings.com/",
+      "photoRef": "places/ChIJ-QIljHW3t4kR4MYiSHqm-JI/photos/AcnlKN3lCtqL4mfl5_08bzFfPJ5K8iwkvfMmsLyybQGmb00P5-ckRsv5xKtKwHITPCiJcBwQzQ7co6d0qcXILoJYvEFfjuUcP6PMjJlf_aAym6G6_p4B0r8B59I0lLQztm3tj8Ye44CkrWAZ3V8whKr5CepXbUeg2o1va4wGWX7zQhuVB7bKGoFy277uQ_RmKxIbs-txlbcp7_u2MzsOogMA2buV6A4b-2OfyhNNQVy0zZ3bYR9imujIgGALaBP_D6Y8jUvnErF0mJHrPgGHgGulHolcRrQImkdhsRENb4DLWD84cA",
+      "photoAttribution": "Aroma Express",
+      "placeId": "ChIJ-QIljHW3t4kR4MYiSHqm-JI",
+      "phone": "(202) 507-8273",
+      "hours": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "1889 F St NW, Washington, DC 20006, USA",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE"
+    },
+    {
+      "name": "The Wild Tales",
+      "coord": [
+        3.3583833,
+        -59.7953099
+      ],
+      "desc": "Indigenous-led wildlife spotting and medicinal plant identification",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1894867295198558953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Adventure & Active",
+        "Half-Day Trip"
+      ],
+      "rating": 5,
+      "ratingCount": 22,
+      "website": "http://www.thewildtales.com/",
+      "photoRef": "places/ChIJbdtjf4Oplo0R6brQ-sPrSxo/photos/AcnlKN2fSDWqbEGk-4B9tJ3TCxnFavkz0c9Rb3hpl6lcCD9tSbC_Xl-PS-bwhfc72rH8LBZjV-AsXbMy38IfZuBZIJkoVkwUazVECVFvf1OCZQXo27fv1INh2JGf47gfnWtQbZRKUwph9T6E468DKeSW65vuS8W_2O2T7NcFMTNtH5ssgaHgp3v225trEjMTLRJ_4XX4kWPDY5t99VC7gxvr6YvZIemQbIWLExcgfzqrRS9l97wm_SIRVks87Gd-cCsBU7jiGHwn5-UXhrLWtgsj1L-K5wfdwGnxAU7FJrR392YI5rNO65GxHzJ9HgBttHCQAnZAENuwRuD6aj-qHvk5NgQiupEZZoCts-XlHe4oQ1eR500Hd8vQuSVctKGyYtKVuyEfc616653vyVtBRFJKehEYj9iwk-dGdBAdLhb9Skwf8Kn-4cf1ijD-nWH9uLQW",
+      "photoAttribution": "JJ K",
+      "placeId": "ChIJbdtjf4Oplo0R6brQ-sPrSxo",
+      "phone": "663 9127",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Mountain stream lodge Rupununi Saint Ignatius, Lethem"
+    },
+    {
+      "name": "Iwokrama Canopy Walkway",
+      "coord": [
+        4.4942338,
+        -58.7758535
+      ],
+      "desc": "Suspended walkway through rainforest canopy with giant otters nearby",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2281787759834118164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 15,
+      "photoRef": "places/ChIJ8UKArnZpvY0RFDi_zeCJqh8/photos/AcnlKN2v53Bi8GRJXaUGh_x2AVPvW617Rb-OA4PvWUn1512f-cdVsuq7DCJoOYH94LznUZXKYfKt6JQox202Dww6SZ3_Ht1mAP0xGN4n3lhX3RmMVR938xPImOL0_xA5nmIZIAvZ0aN288AJMiaiIw7H6jOX4sOEU_QXREm5jSRWWmtCLrPyfLKc4ovXKLFi9Ubeam6Rh0TOx0rjO2hL7YN3-HDevqrBxHt0MEI3I6OVWpwkmDt3misYqpZNBFADLMpq7XgXiH-S7ao5B3o9hAofjGqdqsxiuDH14tJDE-seRAcJzQ",
+      "photoAttribution": "Iwokrama Canopy Walkway",
+      "placeId": "ChIJ8UKArnZpvY0RFDi_zeCJqh8",
+      "phone": "227 7698",
+      "hours": [
+        "Monday: 6:00 AM – 6:06 PM",
+        "Tuesday: 6:00 AM – 6:30 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ],
+      "address": "Iwokrama Forest Reserve Lethem to Georgetown Road Mauisparu"
     }
   ],
-  "kidFriendly": [],
+  "kidFriendly": [
+    {
+      "name": "Mahaica River Tours, Resort & Lodge",
+      "coord": [
+        6.5323837,
+        -57.87996699999999
+      ],
+      "desc": "Calm water wildlife spotting for capybaras and caimans",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12684614150846880674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Toddler Friendly"
+      ],
+      "rating": 4.7,
+      "ratingCount": 42,
+      "website": "https://mahaicatours.com/",
+      "photoRef": "places/ChIJy8F_A35jpY0RohsfPl3NCLA/photos/AcnlKN2ZltZAM_pPfUKzKegShWUZoQj24Z1oCHLAuLiv3hXiiHQX94Mm9jvqPyqkfdhemU-EoG7WTu4ogFupdFh3Y2HYNyMBK0h5UiMDa3Lm_kLGF_ukFEIpUFeoMBbgMWPMU69BIng7EShaIIk1pnsEf5K7JwSx8I0BcLfwAiTB9XZnUNma4bgTGU2wloVCjqBUUismt214wZxQFvPQi4gAkYAgzQwMog-hd-u-992HIAogpcJyXxua9PrisK9r4nKFJ68qjmMEmgeJ_wCkfwYg7vq-yeq_YtzigrR_KArybzntxNe6RjnFnSorMRp6O1PFvSCpLUOGBJmPbGOEMOjrIECUIrGFSTfZ8At2H0w6mLrbRorrjIuOmd33amphAxwwRs2hcPhZ15JU-D6NmfRMoHgbnYHIbYVaWmZRbKG7B5meoFE",
+      "photoAttribution": "Ravi Ramcharitar",
+      "placeId": "ChIJy8F_A35jpY0RohsfPl3NCLA",
+      "phone": "621 7332",
+      "address": "Baiabu, Guyana"
+    }
+  ],
   "markets": [],
   "cityCenters": {
     "Guyana": [
@@ -41,5 +811,390 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Guyana Jungle & Waterfalls Family Adventure (8 Days)",
+      "description": "Experience the world's most powerful single-drop waterfall, sleep in a rainforest lodge where jaguars roam, and discover a country where nature outnumbers people 100 to 1.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Georgetown",
+        "Annai"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Georgetown",
+          "dayType": "urban",
+          "base": "Georgetown",
+          "items": [
+            {
+              "name": "Cara Lodge Hotel",
+              "type": "hotel",
+              "coord": [
+                6.8135743,
+                -58.157398199999996
+              ]
+            },
+            {
+              "name": "Hotel breakfast and pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Stabroek Market",
+              "type": "sightseeing",
+              "coord": [
+                6.809831099999999,
+                -58.1677751
+              ]
+            },
+            {
+              "name": "Backyard Cafe",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Garden cafe serving fresh juices and Guyanese comfort food",
+              "suggestedCity": "Georgetown"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "De Churrascaria & Pizzaria Restaurante",
+              "type": "dinner",
+              "coord": [
+                6.8085124,
+                -58.15954199999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Georgetown Heritage & Culture",
+          "dayType": "urban",
+          "base": "Georgetown",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Aroma Fine Coffee & Cafe",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "coffee shop",
+              "suggestedDesc": "Popular coffee shop in Georgetown serving specialty coffee, pastries, and light meals in a comfortable setting",
+              "suggestedCity": "Georgetown"
+            },
+            {
+              "name": "St George's Cathedral",
+              "type": "sightseeing",
+              "coord": [
+                6.812604599999999,
+                -58.163616999999995
+              ]
+            },
+            {
+              "name": "Guyana National Museum",
+              "type": "sightseeing",
+              "coord": [
+                6.8134375,
+                -58.165687500000004
+              ]
+            },
+            {
+              "name": "Bistro Cafe & Bar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Local favorite for roti and Caribbean fusion dishes",
+              "suggestedCity": "Georgetown"
+            },
+            {
+              "name": "Pool time and rest",
+              "type": "freeTime"
+            },
+            {
+              "name": "Realm Sky Bar & Steak House",
+              "type": "dinner",
+              "coord": [
+                6.8139815,
+                -58.1613525
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Kaieteur Falls Day Adventure",
+          "dayType": "rural",
+          "base": "Georgetown",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Early morning: Kaieteur Falls scenic flight and guided tour",
+              "type": "info"
+            },
+            {
+              "name": "Kaieteur Falls - Guyana",
+              "type": "sightseeing",
+              "coord": [
+                5.1765159999999995,
+                -59.480752900000006
+              ]
+            },
+            {
+              "name": "Packed picnic lunch at the falls",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Tour operator provides packed lunch with local specialties",
+              "suggestedCity": "Kaieteur Falls"
+            },
+            {
+              "name": "Return flight to Georgetown (afternoon arrival)",
+              "type": "info"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Oasis Cafe",
+              "type": "dinner",
+              "coord": [
+                6.815110799999999,
+                -58.16272849999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Family Fun & Transfer to Rainforest",
+          "dayType": "urban",
+          "base": "Georgetown",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Enta' Fun Park",
+              "type": "sightseeing",
+              "coord": [
+                6.7624276,
+                -58.1773828
+              ]
+            },
+            {
+              "name": "Wellman's Seafood Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront spot famous for fresh fish and Guyanese pepperpot",
+              "suggestedCity": "Georgetown"
+            },
+            {
+              "name": "Private transfer to Rock View Lodge (4-hour drive through savannah)",
+              "type": "info"
+            },
+            {
+              "name": "Rock View Lodge",
+              "type": "hotel",
+              "coord": [
+                3.9614873999999998,
+                -59.1237018
+              ]
+            },
+            {
+              "name": "Dinner at lodge restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Farm-to-table dining featuring ingredients from lodge gardens",
+              "suggestedCity": "Annai"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Rainforest Immersion",
+          "dayType": "rural",
+          "base": "Annai",
+          "items": [
+            {
+              "name": "Traditional breakfast at lodge",
+              "type": "breakfast"
+            },
+            {
+              "name": "Guided morning nature walk with local Makushi guides",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Indigenous-led wildlife spotting and medicinal plant identification",
+              "suggestedCity": "Annai"
+            },
+            {
+              "name": "Packed lunch on the trail",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lodge-prepared field lunch with local fruits and cassava bread",
+              "suggestedCity": "Annai"
+            },
+            {
+              "name": "Afternoon: Pool time and hammock relaxation",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sunset bird watching from lodge deck",
+              "type": "optional"
+            },
+            {
+              "name": "Rock View Lodge Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant at Rock View Lodge in Annai serving local and international cuisine",
+              "suggestedCity": "Annai"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Iwokrama Rainforest Experience",
+          "dayType": "rural",
+          "base": "Annai",
+          "items": [
+            {
+              "name": "Early breakfast at lodge",
+              "type": "breakfast"
+            },
+            {
+              "name": "Visit to Iwokrama River Lodge for canopy walkway",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Suspended walkway through rainforest canopy with giant otters nearby",
+              "suggestedCity": "Iwokrama"
+            },
+            {
+              "name": "Picnic lunch by Essequibo River",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Riverside lunch with views of river dolphins",
+              "suggestedCity": "Iwokrama"
+            },
+            {
+              "name": "Gentle river boat ride (toddler-friendly)",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Calm water wildlife spotting for capybaras and caimans",
+              "suggestedCity": "Iwokrama"
+            },
+            {
+              "name": "Return to Rock View Lodge",
+              "type": "info"
+            },
+            {
+              "name": "Iwokrama River Lodge Dining Room",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Main dining facility at Iwokrama River Lodge offering Guyanese dishes",
+              "suggestedCity": "Iwokrama"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Return to Georgetown",
+          "dayType": "urban",
+          "base": "Georgetown",
+          "items": [
+            {
+              "name": "Breakfast at lodge",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning wildlife spotting around lodge grounds",
+              "type": "freeTime"
+            },
+            {
+              "name": "Private transfer to Georgetown (4-hour drive, mid-morning departure)",
+              "type": "info"
+            },
+            {
+              "name": "Cara Lodge Hotel",
+              "type": "hotel",
+              "coord": [
+                6.8135743,
+                -58.157398199999996
+              ]
+            },
+            {
+              "name": "New Thriving Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular Chinese-Guyanese fusion spot near the seawall",
+              "suggestedCity": "Georgetown"
+            },
+            {
+              "name": "Afternoon at hotel pool and gardens",
+              "type": "freeTime"
+            },
+            {
+              "name": "Pegasus Suites & Corporate Center (New Wing)",
+              "type": "dinner",
+              "coord": [
+                6.8254247999999995,
+                -58.1612276
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Georgetown",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Gear Outfitters Guyana",
+              "type": "shopping",
+              "suggested": true,
+              "suggestedCategory": "shopping",
+              "suggestedDesc": "Specialty shop in Georgetown for local crafts and souvenirs",
+              "suggestedCity": "Georgetown"
+            },
+            {
+              "name": "Sidewalk Cafe & Jazz Club",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Relaxed spot near airport route for final Guyanese meal",
+              "suggestedCity": "Georgetown"
+            },
+            {
+              "name": "Transfer to Cheddi Jagan International Airport",
+              "type": "info"
+            },
+            {
+              "name": "The German Restaurant & Bar",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular Georgetown restaurant serving German and international cuisine",
+              "suggestedCity": "Georgetown"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

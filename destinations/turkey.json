@@ -21,7 +21,9 @@
         "Romantic",
         "Photography Worthy",
         "Budget Friendly",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Beach",
+        "Scenic Views"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=10340849163227298254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "photoRef": "places/ChIJCRCjhMg-wBQRzvkOmoYTgo8/photos/AcnlKN23ocDJsdexgc6i5LpJkvJaL7Vr86OBB2RVT5dLncIiU_9e0ZPmdcXA_bQwea1jAS4tXYpR0mfi7kV6umoTL9EC_P23PKVfOKAKwTYCH5KJCqf3tta1rggkmYeb5f2H8CRBJbjkREDPd01ZylYXxK_itkMrz49WqtjyWDGr_mQnpK_1HOnMFnM-n9NL9pj3Jg8sG0-HBTSIf-Q30uI1-IbkjzQkxT732Fkxg_l6bNXEbc6mOco_msdvca-jV1RYCP6190HWovKr3mdpBy8XK9qMP_ffgeRxQL7SnRSi4Ivx2fN9W-x23YQ7z5fu2p2-3d_lxEHSC2w9OjYCrMXsDq8VRpRsTRDJpGHi3HGwpBDyjTWnnZRQ4pIMWIEZjx51JnGJU3peNVG9q_zuoljnT4lmZ6w8didEdIK4KTV0tjrBUA",
@@ -38,7 +40,9 @@
       "tags": [
         "Romantic",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Beach",
+        "Scenic Views"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=6874762731925486874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.5,
@@ -59,7 +63,8 @@
         "Splurge",
         "Nightlife",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Beach"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=14022486366906844201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -80,7 +85,10 @@
         "Splurge",
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach",
+        "Scenic Views",
+        "Hidden Gem"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=16628272154438195320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.3,
@@ -108,7 +116,9 @@
       "tags": [
         "Romantic",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Beach",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -140,7 +150,8 @@
       "tags": [
         "Romantic",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Beach"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -174,7 +185,9 @@
         "Romantic",
         "Fine Dining",
         "Wellness & Spa",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Reservations Recommended",
+        "Iconic / Must-See"
       ],
       "phone": "(0212) 393 11 00"
     },
@@ -195,7 +208,8 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Beach"
       ],
       "phone": "0533 620 44 54"
     },
@@ -218,7 +232,8 @@
       "tags": [
         "Splurge",
         "Family Friendly",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Beach"
       ],
       "phone": "(0252) 311 01 50"
     },
@@ -241,7 +256,9 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Beach",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 10:00 AM – 8:00 PM",
@@ -274,7 +291,10 @@
       "tags": [
         "Photography Worthy",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Off-Hours Eats",
+        "Beach",
+        "Scenic Views"
       ],
       "phone": "0544 429 27 40"
     },
@@ -297,7 +317,9 @@
       "tags": [
         "Splurge",
         "Fine Dining",
-        "Good for Dinner"
+        "Good for Dinner",
+        "Reservations Recommended",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Closed",
@@ -330,7 +352,9 @@
         "Splurge",
         "Cocktails & Bars",
         "Nightlife",
-        "Romantic"
+        "Romantic",
+        "Reservations Recommended",
+        "Live Music / Entertainment"
       ],
       "hours": [
         "Monday: Closed",
@@ -342,6 +366,324 @@
         "Sunday: Closed"
       ],
       "phone": "0501 810 82 26"
+    },
+    {
+      "name": "Kocadon Hotel",
+      "coord": [
+        37.0354232,
+        27.4214687
+      ],
+      "desc": "Traditional Turkish restaurant in historic Bodrum stone house, family-friendly atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11128890297176638172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 78,
+      "website": "https://kocadonhotel.com/",
+      "photoRef": "places/ChIJTX6fMg1tvhQR3EKBC8PCcZo/photos/AcnlKN0D4ylxETjONUM4Lluydxs-YOi7Eu7fv9w0c2JC5-aPrLqiT-YHml-9ID46W1ElnlPw2pWvCOlX0x_MoUIBtVgk6Kg7uEOgYH3ub0Zsh9XA7HBZVvRiIV-zj3a13INcJ-2DCYptzxqIWUdEr0Evrj1Qomub_G8EVg998uIBQs0tpoPr4nam0bnXaTFe4YyiW5kDGl5nQqt54fR-wqf86thWn5L2-2MCDB-6kV-CPOHQHYRx4d9cVvgllan8GV87MKz-6YLE-MxnHxdnCfNI6teIdVhE7Sd16zyDy4f0VndwmQ",
+      "photoAttribution": "Kocadon Hotel",
+      "placeId": "ChIJTX6fMg1tvhQR3EKBC8PCcZo",
+      "phone": "0535 469 63 39",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Eskiçeşme Mah. Davulcu Ali Sk. Kapı:2, Eskiçeşme, 48400 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "LİMON GÜMÜŞLÜK RESTAURANT",
+      "coord": [
+        37.0594292,
+        27.2361179
+      ],
+      "desc": "Mediterranean restaurant with seafood and international menu in Gümüşlük village",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11472478618951532231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1150,
+      "website": "https://limongumusluk.com/",
+      "photoRef": "places/ChIJNcwJIKJ1vhQRx77eJ4VuNp8/photos/AcnlKN0ohl8s4yo6nChvRAszrnUlsHpZkJvdw5iz72WfVw_Lt1xOIiArznhcbgEdG_CQByt1HGYAIgbXuVb-jtZirbczG4WcSXuddnzlH7vyeRF02wm6dvCAlaSOimI3GC6jVtThbaLtVVun8hI-tMZGlGe50P128OI_fOuWFAneatuiabnikA-RnLNjuc8Lf5KamYgiHYbc5-lJ7ozQl110nnQDUnuDH4QbMGi9HkG5no0obCD2NcAKedP_MIe15X9Jisrdv0_IhODtgRqBmkMblONBfNCrl2bvbZ2day_k54Gk_11de37gYm14DlTQzaNIKpriPsg-QdB2n6fRPifh3qJK6DOzoR7IPPuErGKbk8gBzaI3_jbCvD_L5LmItDexe7dwEOzHD20-YUVpT0-Wwvo46lHsZezX1wEHAoi570AWx3Go",
+      "photoAttribution": "Annelies YLLW (YLLW)",
+      "placeId": "ChIJNcwJIKJ1vhQRx77eJ4VuNp8",
+      "phone": "0554 740 62 60",
+      "address": "Gümüşlük, Kardak Sk. No: 7, 48970 Bodrum/Muğla, Türkiye",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Orfoz Restaurant Bodrum",
+      "coord": [
+        37.0302332,
+        27.4402156
+      ],
+      "desc": "Waterfront fish restaurant at Bodrum Marina, child-friendly with simple grilled options",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13765787386976569021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 739,
+      "website": "http://www.orfoz.net/",
+      "photoRef": "places/ChIJK8EeTELOvxQRvYZKtrHmCb8/photos/AcnlKN3bg8goHPTHP7vERh_R9ufvDhI2x5uEH2LX8kditVsloBhkRQecilyZY6uGeMBrpBWC0QBj1XmuFm0l2taFcT-3KDT0gcmG-mnXa5hR23Nkb_f8Kt8Y0KFTPT_m3uFtz4v75YTAxtjtIaFde3Cnm4oFVFIMaHbKu25r98RTztSCfE5a73KPCEb1wCOjli5n5duLfTD9jipnqMZbQ9WSRC6qZeLKya3eyGSSg2wdIRL1cihRDbPU7U33Kz0L_s8k4mNDbrdK-8UumYyp7uGMqwnincFlHEVfNDR5wOu31Gov-g",
+      "photoAttribution": "Orfoz Restaurant Bodrum",
+      "placeId": "ChIJK8EeTELOvxQRvYZKtrHmCb8",
+      "phone": "0544 316 42 85",
+      "address": "Kumbahçe, Zeki Müren Cd. No: 13/1, 48400 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Buzz Beach Bar",
+      "coord": [
+        36.5466658,
+        29.122757699999998
+      ],
+      "desc": "Casual beachfront restaurant with fresh seafood and Mediterranean fare, kid-friendly",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16215913913919595372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Beach",
+        "Family Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1439,
+      "website": "http://www.buzzbeachbar.com/",
+      "photoRef": "places/ChIJC8kXH6RAwBQRbON9A8p_CuE/photos/AcnlKN1AdLV57_ROPdi3QfXySgz1IwEDCymSccwJNZIq7EdCVayn9N-2W9Z_kMjCQVJ4-zOhgEGilkBlz-0Fz2m-FsohJT9327hAx3KfOnlN2sdr8jrJMgROx7WnTMK_v8KJ5qwqVlRTsgd5t_McuyXzVCc5a1Hh22Nsqu2WS_2lmtiMGnfTWsskLr3kJldrUfuqXMuXYSIIPwlYuZDgRTpebhI6zu-8vJXQGROLFGJBJ-uyiRinYCpWULRZz51Gf86DXhG6JmVsS1O_pXaCOSzWrLM9TXqknPyH8Ki8KDdgHwq7Xg",
+      "photoAttribution": "Buzz Beach Bar",
+      "placeId": "ChIJC8kXH6RAwBQRbON9A8p_CuE",
+      "phone": "0534 612 48 45",
+      "hours": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "address": "Ölüdeniz, Denizpark Cd. No:7/B, 48300 Fethiye/Muğla, Türkiye",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Beforelunchcruise",
+      "coord": [
+        36.6220721,
+        29.107260099999998
+      ],
+      "desc": "Traditional Turkish meze and grilled fish served aboard the yacht",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12066527325942437065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "rating": 5,
+      "ratingCount": 27,
+      "website": "https://www.beforelunch.com/",
+      "photoRef": "places/ChIJ88riVGJBwBQRydRX96vqdKc/photos/AcnlKN1stRWAyj9AbZJqAuXgi0PWS-lHZbQbr3hZ6QrY_0B4JJI7Psw0PEF0HDluzJZBfsquXFmRC_owEQv3sNY4bt-r_LnDxcrBehqltT6mLUft03QtaRjbPQ2NIMXp7njNoux_Ts1hukS4gEsNn4ezlWoYVzzmavtrAvyHr-erNy_kPCPV8oH-a9y4V4dg4ePjkehyF8DBzmW6sP5KcYfW6LgXUWbrtlgGP7jyS2dGX7EpZUk-lDK63fb6yTqIEnYcKOtp7fjMW5WVvuAFkuJD0eaYbMPp4EdmjWLvpujONfx3tw",
+      "photoAttribution": "Beforelunchcruise",
+      "placeId": "ChIJ88riVGJBwBQRydRX96vqdKc",
+      "phone": "0532 623 43 59",
+      "hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 11:00 PM",
+        "Friday: 9:00 AM – 11:00 PM",
+        "Saturday: 9:00 AM – 11:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ],
+      "address": "Özsüt Cafe Önü, Cumhuriyet, Atatürk Cd. No:3, 48300 Fethiye/Muğla, Türkiye"
+    },
+    {
+      "name": "Nazik Ana Restaurant",
+      "coord": [
+        37.0352418,
+        27.4314245
+      ],
+      "desc": "Traditional Turkish homestyle cooking near the harbor, known for gözleme and pide",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4986130297599765048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1567,
+      "website": "https://nazikanarestaurant.eatbu.com/",
+      "photoRef": "places/ChIJOf0umERtvhQROCo_iBZLMkU/photos/AcnlKN1cuCx9FUBnVCZdtToexUNdCzZKOrkPy3-WWJGNoF6GljlwBq3YOCu49oQZnRr9_eX2BBY2Yg-fFTrTwFACGwPppFCboHbD2gp6DdLPdHTCjP3i4Wu2Na7Wqa7hTINA9Z--zORC9xQkOKBv1ihwKSqFg7uWO_aOU-0Z-jw-oEuigVfrruh00jGkyOokATkX6IMTsaoDEWGaKPMird8B55ho9d11mshjcGYJ6g46wR_mqN6wUFDQOCWerFeKh0Dz_RQ05cw1IKTGCWacYiBjjkPDIL4XTFGLfA5gOggY4SWOa9rOywfR3IgR0z-8-yo0D02c3nTa2sYR1d52j5jM9YhNkzuRyYEWGddXBC6-zhoy1uhT8lJLWrhAxy26ZEhWHYQOr5kof9-UOAyF2zRZr_L9rEnNOXGXTRdRn4h1o40QeQ",
+      "photoAttribution": "Ertan Çayır",
+      "placeId": "ChIJOf0umERtvhQROCo_iBZLMkU",
+      "phone": "(0252) 313 18 91",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "address": "Çarşı, Eski Hükümet Sk. No:5, 48400 Bodrum/Muğla, Türkiye",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE"
+    },
+    {
+      "name": "Mussakka Restaurant",
+      "coord": [
+        36.2648461,
+        29.415127199999997
+      ],
+      "desc": "Family-friendly Turkish restaurant with traditional meze and grilled meats, kid-friendly portions",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3330037451967139771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 208,
+      "website": "https://www.facebook.com/mussakkarestaurant/",
+      "photoRef": "places/ChIJJzGju9UswBQRu48_VWurNi4/photos/AcnlKN1t-5l5Yjk-oPAbeO4geL9PBnC-5C1d75baM8TP2Yz_Z548Ogohc-_oHUxg6ReS4veOogFHBLktIpZaCKxGBNPgF2YSa9UocTDrtIxWO0cHf_wVreaZaExLMQjP1h_28PpSHk2kd6ZE9Sde9m7piu_yLY4kZi0mB9egm7ENQQ1AJIoVu_HwysstYn9tcuhsmNzgmRSWI6NehfNxyNGQyLnkYgucF3pc3UfJdlHq_F385COLeVdW7zHxy4NTqgCNjUXyZRQsmL-d6wpEsphRwin823sNmV9aM9FfAyS_Kx0Y_g",
+      "photoAttribution": "Mussakka Restaurant",
+      "placeId": "ChIJJzGju9UswBQRu48_VWurNi4",
+      "phone": "(0242) 844 15 76",
+      "hours": [
+        "Monday: 9:00 AM – 2:00 AM",
+        "Tuesday: 9:00 AM – 2:00 AM",
+        "Wednesday: 9:00 AM – 2:00 AM",
+        "Thursday: 9:00 AM – 2:00 AM",
+        "Friday: 9:00 AM – 2:00 AM",
+        "Saturday: 9:00 AM – 2:00 AM",
+        "Sunday: 9:00 AM – 2:00 AM"
+      ],
+      "address": "Kalkan, Mustafa Kocakaya Cd., 07580 Kaş/Antalya, Türkiye",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "SAİT RESTAURANT",
+      "coord": [
+        37.0365464,
+        27.4257757
+      ],
+      "desc": "Waterfront seafood restaurant with family-friendly menu near Bodrum beaches",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14298928680195332687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 3.5,
+      "ratingCount": 22,
+      "website": "https://saitrestaurant.eatbu.com/",
+      "photoRef": "places/ChIJg0DeeJFtvhQRTxqwK-D_b8Y/photos/AcnlKN39uMRRGTiviTSTgz5Xg4ZB8MG79VMIiARiO6v4H3MASn4UJDka_LZwY1WfXizF_RafzP3YDnhiv9QY8iZh4CHWrxv1IO3Owrv6Rm3DBj6U7k1GGd_Bf29SYSmbYUJg_RVVBBQJN7LpXTjJkvZ94UMAyTJJwgNGgMN_CweY9HGdibwuiDBMzI628ENRcvAaFtAKoRTtXv7jefY8fqMmDoHfPI5h8fHzAl5iaq8fraVJV2m2JJuhp1AE2LPVg_aFYtiM1xbNZjJmg1I5rQZ-U0qq5CBcxYfFySJWQQ4iVUpt1vc7daPWsh4CjdgqSXu9-E6vs7pAyIx8hxfyFgRLsJZ4yClbGM_fQdMboZ3r1y4RblPqP6-FtAtDjOl5NDvZkF68mgxTtyA_m0Odez3E-2Ww8Ual5KBR2f-7PV_yUZ4",
+      "photoAttribution": "Amish Patel",
+      "placeId": "ChIJg0DeeJFtvhQRTxqwK-D_b8Y",
+      "phone": "0546 223 36 28",
+      "hours": [
+        "Monday: 2:00 – 8:00 PM",
+        "Tuesday: 2:00 – 8:00 PM",
+        "Wednesday: 2:00 – 8:00 PM",
+        "Thursday: 2:00 – 8:00 PM",
+        "Friday: 2:00 – 8:00 PM",
+        "Saturday: 2:00 – 8:00 PM",
+        "Sunday: 2:00 – 8:00 PM"
+      ],
+      "address": "Tepecik, Neyzen Tevfik Cd. 1/A, 48400 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Kahve Dünyası - Bodrum Marina",
+      "coord": [
+        37.034743,
+        27.421910999999998
+      ],
+      "desc": "Charming coffee house near Bodrum Marina with excellent Turkish coffee and pastries",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8513953294665507180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Budget Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4,
+      "ratingCount": 975,
+      "website": "http://www.kahvedunyasi.com/",
+      "photoRef": "places/ChIJK97530VsvhQRbOHNommjJ3Y/photos/AcnlKN0rr-lhaen2HbQCVTH8Nh4QMpmGK9FPUJCvOJR8lditsjXN9R7DHHNNfcjcZhK1H9d6BIuAvWGWHIyZa8Vdt8NMLL_rRCP92Mf5lcAAu8z2Nj1i4gMzp8ZD0DBIlbwymUX_Q_bEWTWI4Ej9OM8Jvf63dEWUElbximhnG8lE_QfzQSWmZS1DbQwJQxqOEN1CPbPyyGQbF14dZcb-NoPzggLoi2RFVjvz3KiT9AFTg3YEIuqRzkoqUd50WU86fxDZNQzZNLsmc69kfqH_dOoFnWIHuyGjt67tSZgmG90B6y6Guz4_oNZ9H491YxjeSQrePkV8zTLpK0ph3W0U9xwRbo505m7X7zwbJY6Xx-IDpMqVFiweWjvdHLk0Z5KIcEnAsWQ8ZgOGMEQKBUSWojBYaO8QqthvJe6JgTMLOLxFpmYrLTQ",
+      "photoAttribution": "Flaviu Beu",
+      "placeId": "ChIJK97530VsvhQRbOHNommjJ3Y",
+      "phone": "(0252) 313 25 87",
+      "hours": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 12:00 AM",
+        "Saturday: 7:00 AM – 12:00 AM",
+        "Sunday: 7:00 AM – 12:00 AM"
+      ],
+      "address": "Marina Çarşısı, Eskiçeşme, Neyzen Tevfik Cd., 48400 Bodrum/Muğla, Türkiye",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "MUSTO BİSTRO",
+      "coord": [
+        37.036035999999996,
+        27.4233123
+      ],
+      "desc": "Modern bistro in Bodrum Marina with international and Mediterranean cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1555284404234123190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1635,
+      "website": "https://mustobistro.eatbu.com/",
+      "photoRef": "places/ChIJAe2jwoZtvhQRtncU5-x6lRU/photos/AcnlKN1lJD_Tz9qhk3BrHIqZH9nuQuufcb2DCNaV-V48FMQx8i8kH-fsvW0OBt0UqoUYzsG0wEymnXKFZlH56tuP8WKJzjkM_sVETU-5pa-xnKtZe5QuvILhLcI_Z_Qb1DlDAK32lUvgWY7lQ8by5OpYYByMe8WL4fCvwJeNzC0fP80ExTazyOlA9Pcn4xUBxeRP2FgPctHpgkOBLqKt8RBQ5ogjC75IhVurFVoYUa_IHICYjSZ2X_LmE_p7MQSxJ_Fyc4ZdPpupQOKw6i3gBAskQ1WmCUa34PBd3IIJCSB5YhzyNCBTpeWAfB-3TVA2sdQCtSfN67-2tHtUxkdVY0PxPeeBG8NnSEvpLQ04CVvemKAJUjSOlocQl1FkZMylX6X2_ThJW5g3POgQ3KtXnljHvOAPjXeAIcNyWawZzrfHJmVOf_35k2F5zSjRQPrMcYx6",
+      "photoAttribution": "Sarah Bin Buraikan",
+      "placeId": "ChIJAe2jwoZtvhQRtncU5-x6lRU",
+      "phone": "(0252) 313 33 94",
+      "hours": [
+        "Monday: 8:00 AM – 1:00 AM",
+        "Tuesday: 8:00 AM – 1:00 AM",
+        "Wednesday: 8:00 AM – 1:00 AM",
+        "Thursday: 8:00 AM – 1:00 AM",
+        "Friday: 8:00 AM – 1:00 AM",
+        "Saturday: 8:00 AM – 1:00 AM",
+        "Sunday: 8:00 AM – 1:00 AM"
+      ],
+      "address": "Eskiçeşme, Neyzen Tevfik Cd. No:130, 48400 Bodrum/Muğla, Türkiye",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
     }
   ],
   "experiences": [
@@ -364,7 +706,9 @@
       "tags": [
         "Adventure & Active",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Full-Day Activity",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 9:00 AM – 6:00 PM",
@@ -394,8 +738,295 @@
       "tags": [
         "Budget Friendly",
         "Outdoor & Nature",
-        "Romantic"
+        "Romantic",
+        "Beach",
+        "Half-Day Trip"
       ]
+    },
+    {
+      "name": "Kabak Koyu",
+      "coord": [
+        36.4616702,
+        29.125768100000002
+      ],
+      "desc": "Natural pebble beach directly accessible from Faralya village, family-friendly with clear waters",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1374886257875563041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "rating": 4.1,
+      "ratingCount": 3368,
+      "website": "https://www.instagram.com/thefabrickabakkoyu",
+      "photoRef": "places/ChIJPevF1Y8_wBQRITI9X8STFBM/photos/AcnlKN0XYdu2AHYwTVT9QnYgBgZPStYBJy3-4xJPUFml39o1s3W24y9v-QjDa5Ql8BzLbZjMNhOGtaufO_m6mo9vHA-2N_rEtZjnb_USG3IA79wN5Sbzk1KV1cGr3Kjd54v6s5U5IxL_tFK45_pGXoQxj4XGRovO4p7WgnMG8chZ0vYdVkkq4g6hg3JP4yN7uftSapc6iPlSS_9QVmkcmlbiMYXuAGJiDX0HBNYLcLeUzK4dqoi7pTLZBcrrhbQVF1XMU3EriCnkLOLtLQU9Qah5UQLtnQlJ3APoyAHr6CQs5szJoQ",
+      "photoAttribution": "Kabak Koyu",
+      "placeId": "ChIJPevF1Y8_wBQRITI9X8STFBM",
+      "phone": "0530 509 11 70",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Faralya, Kabak Sokak, 48300 Fethiye/Muğla, Türkiye"
+    },
+    {
+      "name": "Kelebekler Vadisi / Butterfly Valley",
+      "coord": [
+        36.4975157,
+        29.1266529
+      ],
+      "desc": "Official viewpoint overlooking Butterfly Valley canyon and beach, accessible via short walking path from Faralya",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8631105998679888916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
+      ],
+      "rating": 4.4,
+      "ratingCount": 5750,
+      "website": "http://kelebeklervadisi.com.tr/",
+      "photoRef": "places/ChIJ60ZyZdQ-wBQRFNQOHi3Zx3c/photos/AcnlKN24S4n9DgQj6h-tSEXtGXdPHH82K9Sjt4XD0cYQGErsIUa3kZoQCBzFC8S6d0yV2ircDWAh9RXF_vmbpbDuw6Jfcxn-OqAxTLCu-vlnVyX9h7SMBw6BVeLRF5t-iwTpx8aXLz1jzcXKJTVSYFAdyCJxGhnDYkKOE3eFsze8sLIA-7HtA5bpvho3PaWYFg2O-pwnuO-Ud3iG3inRncz7AbBFg14QEiV9zq2ehFrQCo7FIWP80ItnQjKsUEWr3IcQMTw5CX001gbGgSQe9VYSz-wwwmO88TTcNoo3FW9ur_MrQg",
+      "photoAttribution": "Kelebekler Vadisi / Butterfly Valley",
+      "placeId": "ChIJ60ZyZdQ-wBQRFNQOHi3Zx3c",
+      "phone": "0530 302 19 65",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Faralya, Hisar Cd. No: 90, 48300 Fethiye/Muğla, Türkiye"
+    },
+    {
+      "name": "Club Dedeman Bodrum",
+      "coord": [
+        37.036366799999996,
+        27.394352899999998
+      ],
+      "desc": "Large waterpark with kids' pools, slides and splash areas at Dedeman Bodrum resort",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10541468399578188340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Playgrounds",
+        "Adventure & Active",
+        "Good for Groups"
+      ],
+      "rating": 3.9,
+      "ratingCount": 687,
+      "website": "http://www.clubdedeman.com.tr/",
+      "photoRef": "places/ChIJ2avFJqVtvhQRNArdh6jRSpI/photos/AcnlKN163qHAkaawUBWXokXIUrE-508Esb-EsdKECaEw067C1hk5j9Aq6bOQWRds87nZrZMZaAkv0edeP-dyPDky0UTmB7-XTz48rsgzSbOAcBE0SYjo1CzQn5-TPbJrChzWHD8iO0S78qz18BzmzYeZnivpPGpX682WVAeXb_qZFzPb59NJhpqtHNYKWNO7C3NaLYTXoCGGRFRALhTHW2_0IKEh2V4w4dYRkB5p3RBWsB4yvJcgTom2uFc4wuYkT_FUv-SR9j73X2S6JK8Oc5pSQJAkaDAh1RIDg9TOMd4xH5w",
+      "photoAttribution": "Club Dedeman Bodrum",
+      "placeId": "ChIJ2avFJqVtvhQRNArdh6jRSpI",
+      "phone": "(0252) 319 38 38",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Bitez Mah. 2517 Sok. DEDEMAN DEVREMÜLKLERİ Sit, Bitez, D:6, 48470 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Bardakçı koyu",
+      "coord": [
+        37.0287809,
+        27.417501299999998
+      ],
+      "desc": "Popular family beach in Bodrum with calm waters, facilities and water sports",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8605126903593316257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.2,
+      "ratingCount": 483,
+      "website": "https://gezilmesigerekenyerler.com/bardakci-koyu",
+      "photoRef": "places/ChIJr4tIU1BsvhQRoS_Wr1ONa3c/photos/AcnlKN3_ga6rIrWwErebD7IqkbJIn1dyoLGCddtlotUDiFxPqR63GGau3dp1eQzG-GqWzDjXffdeUh9-AhtYo0LkzN5ricF5q76JakA5-pYt4cTu51_PEcJ0aa6PMnx4g_94T2ymzMCe_Nn-onlMCggiG4tHX59k3Uthwr0Bz4zmr7vUsJf1LO4Zv3-jlMFvkuIDwMC_iGA6vmwaNDdMgSmxTjXtRO-OlCOD8bq9hZv2EEXgoz-xTubkiHfFKqvxQUmRfRuj5gidZ8CnSsyseFNlWBvojdKA_JkwGhbFu5FazX5yYUuZJcgPLzTSEdngKprDuQ-MGXitYhBQbMApgdqnO-zvKAh3Y2bfrnIa9mFM6oiid163-Es7wRPPElrfWT2JC6W5nWlWvicUpYDqP43-q1GDmb5T59eez8HzmwyxfcOHnDDn",
+      "photoAttribution": "Zeliha Kirbasoglu",
+      "placeId": "ChIJr4tIU1BsvhQRoS_Wr1ONa3c",
+      "address": "Bardakçı koyu, Eskiçeşme, Kaptan Kalesi Sk. No:9, 48400 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Bodrum Museum Of Underwater Archaeology",
+      "coord": [
+        37.031712999999996,
+        27.429032499999998
+      ],
+      "desc": "15th century Crusader castle housing shipwreck exhibits, family-friendly historic site",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14255114089565408580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Rainy Day"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1609,
+      "website": "https://muze.gov.tr/muze-detay?sectionId=BSA01&distId=MRK",
+      "photoRef": "places/ChIJqdSVl0FsvhQRRE021bxW1MU/photos/AcnlKN3eMPjXezIVnHmdjvgySXxEr42yGZrpgKu79MQWT25rC07dRTkMvKez6sZIMxXwMiBjV9haPyayn0Mz1eaUSM3ExnN_5KgdrP8o9WTRKrUWLFI1dp3JzM12fu-9DpOYQ3HSkB--O-mQ_Um1wshAJ0WGem3PSBLPT8lW3qBYdmSsrlzziCljQ9gnn9vdD2M1iIPNmdJnD0jQH-ZmaD0V0695M005avennpi2aBihR0-HiP3bWP9DccEIpGYbsle5bcPIkfebg81q4eewqqUVE9vKjb3ELW-o_xVLRwTuor8j3UGxNvPXpIAjng1hCCdHFYdBaopQijezb8I8Uq-kHQ0v7-MCjJXAmPMdj_BO28pk3gf2FvORO0d0WkCLyS91Eh0ULtKY68kI1kqeABPhlIbYAgbFbO1U2QM20vCfgj6WRCAfYAfoJteXic7ULTTV",
+      "photoAttribution": "Nihatcan Özaydın",
+      "placeId": "ChIJqdSVl0FsvhQRRE021bxW1MU",
+      "phone": "(0252) 316 25 16",
+      "hours": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 5:00 PM",
+        "Sunday: 8:30 AM – 5:00 PM"
+      ],
+      "address": "Çarşı Mh., 48400 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Bitez Beach Bar",
+      "coord": [
+        37.0261777,
+        27.384089099999997
+      ],
+      "desc": "Sandy beach popular for water sports including paddleboarding and kayaking, family-friendly facilities",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10568962888537662654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "rating": 4.3,
+      "ratingCount": 68,
+      "photoRef": "places/ChIJZ_xzHHVtvhQRvuSSF8B_rJI/photos/AcnlKN1KChxnG3w64yckLP4Sz1Nk-sdu4lP_rrC2Z4V0CfKnTQHeFZcTwSrSpwSAXWnrq41vyGzha0Fc4eJiW9TEh7M0DPGx1KIDrQO95CVSdYCPOcIfQ8ZOVEfs5vG9DrgWcalBXU9QUo5cTJlnOLJI0OxyUxkkKev9OTjtSfk4Zl5nwmrE-KIWsX7y5bQw5iMoeVUzr_KGCkz9sCqinDuTI2BuX85blPb2v1uekFlTXLqOEGzPAvEN7auCVc1qKwCkJsvMmnUAMvI2av1kSLQpd2j9xrmlbtGdIhn-NKXgXqWEFNes9f-LZEcA0oIa3RkkFN1GmkbFykZIWEimEEORUM_709KjoiVCWfFeHKbsWeR5nbrN79_d6SU8oRhpXpkbTc5qmaUdi1MXYOLt3ORTRnJTroOB1VhlhN5Wvb9mDuWSzprg",
+      "photoAttribution": "Sławek Rzadkowski",
+      "placeId": "ChIJZ_xzHHVtvhQRvuSSF8B_rJI",
+      "phone": "(0252) 363 79 20",
+      "hours": [
+        "Monday: 9:00 AM – 3:00 AM",
+        "Tuesday: 9:00 AM – 3:00 AM",
+        "Wednesday: 9:00 AM – 3:00 AM",
+        "Thursday: 9:00 AM – 3:00 AM",
+        "Friday: 9:00 AM – 3:00 AM",
+        "Saturday: 9:00 AM – 3:00 AM",
+        "Sunday: 9:00 AM – 3:00 AM"
+      ],
+      "address": "Bitez, Pomelan Cd. No:28, 48470 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Camel beach",
+      "coord": [
+        37.0142802,
+        27.3294546
+      ],
+      "desc": "Sheltered sandy beach in Yalıkavak with shallow calm waters ideal for toddlers and families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9766301510108312749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Budget Friendly"
+      ],
+      "rating": 4.1,
+      "ratingCount": 98,
+      "website": "https://www.camelbeachsunset.com/",
+      "photoRef": "places/ChIJY5qz1WlzvhQRrfRdt3rfiIc/photos/AcnlKN0X8-pvUpxyQHNITipf5ZQh3axAJQABZHk0afQ_VBpJne1proCfcGqgK_fQRd4Zkg01B7fOSPbJlRFoWsQaf2PrE87odzI7lRpOxiYWBCnAcuakQNwXlimtxqpzEDBwJnzUQV0lZgqLg2hePpeusQC99iecQIFsE5_bV1Xzb3Kp0JX8cdpBRP8t-kMQXzwuOnDGykCorduYedpz72zpUgs-bDMCHOdQLgf7aOg4o8HNvPDoXOa2ZECs3x0RNWKHlScaTKDwvJ1F7GFjPbBZMYk90Cdk4K6fkdb9brBxSTLqtYs-X_t1WJv7aQiuAzvKLfetmZXjNRj0q98RtkTEwWGxUTznhSAz3Oj71ldFRXSXZXmc9jIxjo_52OxFGmOquKrj_hynZHIIR0Iy4HlBn3fnT2him4unQLu2-GiV6Qtc2HqNYhGa2ZRStaIJ2VUi",
+      "photoAttribution": "MURAT BERAT DOĞAN",
+      "placeId": "ChIJY5qz1WlzvhQRrfRdt3rfiIc",
+      "phone": "(0252) 348 39 11",
+      "hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ],
+      "address": "Ortakent Yahşi, Müskebi, 48420 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Akvaryum Bodrum",
+      "coord": [
+        37.0051638,
+        27.381116499999997
+      ],
+      "desc": "Secluded cove near Bodrum with crystal clear waters, popular yacht anchorage with natural beauty",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11801887160790494985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Scenic Views",
+        "Hidden Gem",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 821,
+      "photoRef": "places/ChIJlxJVM0FtvhQRCS8p-te5yKM/photos/AcnlKN2hhSRCBd6b2JiHYWZlrvIDJqapU3V4y9wew9WQo8ETb5tBlVqYuAZ9AsMrGq5HKlr9ewPUYcuvwd7gqcw5MC3xAMso9E1ObybuCFvwdGPchta_zmtIyz-ArWjjoAcDmWZqrmla4xPakM-209SRw8XWlwmmLj_mT65WriCS3mhfd2v_F728JiCToAjGeFsWEJOagyUcd-VTOSnoFMGDvcuYdr3jEclvWOFXWGUWIKQOuJo7MPQ_7bCmkhQfeGTRZbC_UBKZAq2ABhLKH8R44lX8rOuvxdPkmEVLbiaxjqEMmWRHf9BThKk_5j2Fa9kXjqrp7u49y3ctH9DTPxrxrlhDEsL1BkLyd0ZnCK2EtVDJewMI6hF0wYOeTZvlKrDX6thu18GFjr-v_xHjZJIUe1vc2Wxu7jnlN52klWG7fD_AAY4_",
+      "photoAttribution": "Vlada Byelyayeva",
+      "placeId": "ChIJlxJVM0FtvhQRCS8p-te5yKM",
+      "address": "Akvaryum Bodrum, Gümbet, 48470 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Gümbet Beach",
+      "coord": [
+        37.031322599999996,
+        27.4046235
+      ],
+      "desc": "Popular sandy beach in Bodrum with calm shallow waters and family facilities",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1754878904730388869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Budget Friendly"
+      ],
+      "rating": 4,
+      "ratingCount": 4446,
+      "photoRef": "places/ChIJXaPcSaxtvhQRhQlI7BCVWhg/photos/AcnlKN0nawS2j2lQRoQpKoZ8c6_k9L_A2WHGxVCLI3aFJHkmxNVoA01QzAMaB5hEAus7QRMAWdGHAwY4_SIqHpjJTbH26tnw_LZ8wQDPaFMvI8pmIHThEPiWb8wPvI3AcRHKFeiwnSPbzzaQDvl7aHoeY5xq6GvSrIR9Q1SdC48R0EZy6G53PcqwpYSm2NNHeDRwe7j38gv2ghZsv2rkRdxXmXgaVXdmbANFXJB9rohgqYfVldju-LMBQyCo8v-eBrbWHK8M_f6cELcDDVf6mZ_lXydHEiEOdUKuz1wlZruf7eJwue-obeV8__AMfaVBQ0CbCYkJQmoYXp_b9sJIlboWC72QuNQ_mfQpwDLKQzWFpwezTrOTtcnJuna3Oh_LmbXcSxlNzNBi_GFvcuxNa5Ai2v0cQ9f_E2yUxV4zUGYi02IDlQ",
+      "photoAttribution": "Hanna Tulińska-Tomicka",
+      "placeId": "ChIJXaPcSaxtvhQRhQlI7BCVWhg",
+      "address": "Gümbet, Osman Nuri Bilgin Cd., 48400 Bodrum/Muğla, Türkiye"
+    },
+    {
+      "name": "Windmills Bodrum",
+      "coord": [
+        37.0259382,
+        27.414576999999998
+      ],
+      "desc": "Historic windmills overlooking Bodrum peninsula, perfect for family photos",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14494084562687259665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Scenic Views"
+      ],
+      "rating": 4.1,
+      "ratingCount": 1659,
+      "photoRef": "places/ChIJSxsWkUdtvhQREXRy5x1VJck/photos/AcnlKN09KPY2aWdozVFi8P3n2pVpvcvjfkCbXfnF8IXeT_g-Udl85O_92HpcYQ4yRWfQ97vmaxOsMIIz5YtrGuUOHzQ5yqqHrvy5i30MZFN5Na_oVOKf9D9Xik9EODVhqtfGUCH90Gho3iH4mQmDkTlF9FxplMOVsc1QQcgRO4WPgnGxXSrA9tjSYwqbXmN9b6-mjXmSwac-Z-Ho0u1R68Ff4FXcKpBnGMezRR3wsQlXJyhsH9SLWM2PaJU_qUxTl-Ay6mTQuVUXgkx0Sbo6zqG9tSjNwcSlWgTljt6UeOvw1zuU3ZK9az4bEIkty_UkZDK_iWMi8WSdj4eIaBr3B8sTMwoEU57LNWXebt_OaWHFR6Q82fwXjXzdQCf3TeRWdhAGpM-jYC76duJbkeGX5AIzROjhxpTU7n6B8QAYV6lom6954jhP4gPS2fWx0KYva0IO",
+      "photoAttribution": "Lella DF",
+      "placeId": "ChIJSxsWkUdtvhQREXRy5x1VJck",
+      "address": "Eskiçeşme Mh, Haremtan Sk. No:10, 48400 Bodrum/Muğla, Türkiye"
     }
   ],
   "kidFriendly": [],
@@ -417,5 +1048,374 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Turkish Turquoise Coast Family Escape (8 Days)",
+      "description": "A sun-soaked adventure along Turkey's legendary coastline, where azure waters meet ancient ruins, featuring villa living, boat excursions, and child-friendly beaches perfect for families seeking both relaxation and exploration.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Turquoise Coast",
+        "Bodrum"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival on the Turquoise Coast",
+          "dayType": "rural",
+          "base": "Turquoise Coast",
+          "items": [
+            {
+              "name": "Yazz Collective",
+              "type": "hotel",
+              "coord": [
+                36.6128535,
+                29.053657
+              ]
+            },
+            {
+              "name": "Transfer to resort by boat (resort arranges water taxi)",
+              "type": "info"
+            },
+            {
+              "name": "Limon Gümüşlük",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Seaside restaurant in Gümüşlük offering fresh seafood and Mediterranean cuisine with views of Rabbit Island",
+              "suggestedCity": "Gümüşlük"
+            },
+            {
+              "name": "Settle into villa and explore resort grounds",
+              "type": "freeTime"
+            },
+            {
+              "name": "Rups by the Sea",
+              "type": "dinner",
+              "coord": [
+                36.47981,
+                29.107624299999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Beach Day and Coastal Relaxation",
+          "dayType": "rural",
+          "base": "Turquoise Coast",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Camel Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Sheltered sandy beach in Yalıkavak with shallow calm waters ideal for toddlers and families",
+              "suggestedCity": "Yalıkavak"
+            },
+            {
+              "name": "Buzz Beach Bar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual beachfront restaurant with fresh seafood and Mediterranean fare, kid-friendly",
+              "suggestedCity": "Ölüdeniz"
+            },
+            {
+              "name": "Afternoon nap and pool time at the villa",
+              "type": "nap"
+            },
+            {
+              "name": "Sunset viewing from resort deck",
+              "type": "freeTime"
+            },
+            {
+              "name": "Dinner at resort restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Yazz Collective's on-site dining featuring Turkish and Mediterranean cuisine",
+              "suggestedCity": "Turquoise Coast"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Blue Voyage Yacht Adventure",
+          "dayType": "rural",
+          "base": "Turquoise Coast",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Blue Voyage Yacht Charter",
+              "type": "sightseeing",
+              "coord": [
+                36.6226159,
+                29.105318500000003
+              ]
+            },
+            {
+              "name": "Packed lunch on boat (arranged by charter)",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Turkish meze and grilled fish served aboard the yacht",
+              "suggestedCity": "Turquoise Coast"
+            },
+            {
+              "name": "Aquarium Bay (Akvaryum Koyu)",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Secluded cove near Bodrum with crystal clear waters, popular yacht anchorage with natural beauty",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Return to resort for rest",
+              "type": "freeTime"
+            },
+            {
+              "name": "Perdue Hotel restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Sunset dining with Mediterranean views at nearby Perdue Hotel",
+              "suggestedCity": "Faralya"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Transfer to Bodrum",
+          "dayType": "rural",
+          "base": "Bodrum",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Water taxi back to mainland, then private transfer to Bodrum (approximately 3.5 hours)",
+              "type": "info"
+            },
+            {
+              "name": "MAXX Royal Bodrum",
+              "type": "hotel",
+              "coord": [
+                37.1305802,
+                27.404457899999997
+              ]
+            },
+            {
+              "name": "Mezze by Lemon Tree",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Turkish restaurant in Bodrum town center, family-friendly atmosphere",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Explore hotel facilities and kids club",
+              "type": "freeTime"
+            },
+            {
+              "name": "Gümbet Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Popular sandy beach in Bodrum with calm shallow waters and family facilities",
+              "suggestedCity": "Gümbet"
+            },
+            {
+              "name": "Dinner at resort",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "MAXX Royal's all-inclusive dining with multiple cuisine options and children's menus",
+              "suggestedCity": "Bodrum"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Bodrum Castle and Harbor Exploration",
+          "dayType": "urban",
+          "base": "Bodrum",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Bodrum Castle and Museum of Underwater Archaeology",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "15th-century Crusader castle with maritime museum, family-friendly exploration",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Nazik Ana",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Turkish homestyle cooking near the harbor, known for gözleme and pide",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Bodrum Marina stroll and gelato",
+              "type": "freeTime"
+            },
+            {
+              "name": "Return to hotel for pool time",
+              "type": "nap"
+            },
+            {
+              "name": "Kocadon Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restored stone house serving elevated Turkish cuisine in Bodrum old town",
+              "suggestedCity": "Bodrum"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Resort Day and Wellness",
+          "dayType": "urban",
+          "base": "Bodrum",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at kids club and children's pool",
+              "type": "freeTime"
+            },
+            {
+              "name": "Poolside lunch at resort",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual poolside dining at MAXX Royal with grilled options and fresh salads",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Parents' spa treatment while kids are supervised (resort childcare)",
+              "type": "optional"
+            },
+            {
+              "name": "Bardakci Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Beach with water sports facilities including jet skiing, parasailing and banana boats for children",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Sunset cocktails (parents) and juice bar (kids) at resort",
+              "type": "freeTime"
+            },
+            {
+              "name": "Macakizi Hotel restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Sophisticated beachfront dining at nearby Macakizi, short taxi ride",
+              "suggestedCity": "Bodrum"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Windmills and Beaches",
+          "dayType": "urban",
+          "base": "Bodrum",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Bodrum Windmills viewpoint",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Historic windmills overlooking Bodrum peninsula, perfect for family photos",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Bitez Beach Club",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Beach club on Bitez Beach offering loungers, umbrellas and facilities for families",
+              "suggestedCity": "Bitez"
+            },
+            {
+              "name": "Orfoz Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fresh fish restaurant on Bitez Beach, known for mezes and grilled seafood",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Return to hotel for afternoon rest",
+              "type": "nap"
+            },
+            {
+              "name": "Final evening at resort with kids' entertainment program",
+              "type": "freeTime"
+            },
+            {
+              "name": "Farewell dinner at resort",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Special farewell dinner at MAXX Royal's signature restaurant",
+              "suggestedCity": "Bodrum"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Bodrum",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final swim and packing",
+              "type": "freeTime"
+            },
+            {
+              "name": "Transfer to Bodrum-Milas Airport (approximately 45 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Airport cafe",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Cafe at Bodrum-Milas Airport for pre-flight meal",
+              "suggestedCity": "Bodrum"
+            },
+            {
+              "name": "Musto Bistro",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Modern bistro in Bodrum Marina serving international and Turkish cuisine in a family-friendly atmosphere",
+              "suggestedCity": "Bodrum"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

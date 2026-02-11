@@ -28,7 +28,8 @@
       "tags": [
         "Splurge",
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -61,7 +62,9 @@
         "Romantic",
         "Splurge",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Hidden Gem",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 8:00 AM – 10:00 PM",
@@ -73,6 +76,101 @@
         "Sunday: 8:00 AM – 10:00 PM"
       ],
       "phone": "(844) 738-5895"
+    },
+    {
+      "name": "Galapagos Explorer",
+      "desc": "Luxury expedition yacht, bespoke design, wildlife viewing, Galapagos Islands",
+      "longDesc": "An ultra-luxury small-ship expedition vessel featuring hand-designed interiors by Adriana Hoyos, offering intimate exploration of the Galapagos Islands with exceptional wildlife encounters and artisanal craftsmanship.",
+      "coord": [
+        -0.9551421,
+        -90.96617669999999
+      ],
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Art & Design",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 12,
+      "website": "https://discovergalapagosexperience.com/",
+      "photoRef": "places/ChIJYfSyiYPrq5oReLnqQ8KWA8U/photos/AcnlKN1AXH4_wXobth7rXTDW70orgVFHXgjtZn_kfDT3msvlAtCv1Noco4gsnRCqL9v4M8aI1AnGvLfaOow4ZYuUkcqTz_q99inqJeAGcr2SmBjW_qxir6uCLonOH0Vblxiv2lt83ud8GVXrW3n2HvOCg1B3-jb5lrStHztd3RPuOZGr78v2MDUV3fX18rl6rJ9ffvvlBa4QmXx1JizujRFiTzks4ELCziS3GLewLTx4lCQM61Pqe07pMRy5seOqGret1-z8jyb3y1q0SQe5-rCa7GnXxahup8SU7yHpWXFLI0_f9Q",
+      "photoAttribution": "Galápagos Explorer",
+      "gmapsUrl": "https://maps.google.com/?cid=14196356211509213560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJYfSyiYPrq5oReLnqQ8KWA8U",
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "address": "200103, Puerto Villamil 200103, Ecuador"
+    },
+    {
+      "name": "Hacienda Zuleta",
+      "coord": [
+        0.2024375,
+        -78.0921875
+      ],
+      "desc": "Working hacienda hotel, Andean farm experience, horseback riding, authentic countryside retreat",
+      "longDesc": "Historic working hacienda offering immersive rural experiences. Families can participate in farm activities, horseback riding, and learn traditional Ecuadorian highland life.",
+      "gmapsUrl": "https://maps.google.com/?cid=14159624355705530939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Hidden Gem"
+      ],
+      "rating": 4.6,
+      "ratingCount": 467,
+      "website": "http://www.haciendazuleta.com/",
+      "photoRef": "places/ChIJV8YB3y8aKo4ROyrMolQXgcQ/photos/AcnlKN12nfG772FUsc29SmnWkgUl4fZnrv_pPPkpdDqS2IeulbUL2PO87VB7-ck457VGsA1c5EBCNfUBzRuSmaZWqa2vgeTl7hMseKSHvNMv3d9nIJZIGSUva5tBWDaLW6rQBqiSdfbUJht26jbYbuYFYmqezZZEKQhzpRNR87dRNGhwsvK29koDshH_IYSDCY74AfpyoZAYaYDeUALG-J4ExehHXNVyyig_4RmbwX1ML-6be8BEzKmYZngNvXi1KN0igWcNWaznnKKopprEiF0HlYmSrXcoqoHEfVRQrx4w0gz7BQ",
+      "photoAttribution": "Hacienda Zuleta",
+      "placeId": "ChIJV8YB3y8aKo4ROyrMolQXgcQ",
+      "phone": "098 534 2606",
+      "address": "6W25+X4, Ecuador"
+    },
+    {
+      "name": "Finch Bay Galapagos Hotel",
+      "coord": [
+        -0.7530106,
+        -90.3118438
+      ],
+      "desc": "Sustainable Galápagos lodge, ocean-view suites, guided wildlife tours, naturalist experts",
+      "longDesc": "Eco-conscious Galápagos hotel combining comfort with conservation. Families enjoy guided nature walks, snorkeling, and unique wildlife encounters with expert naturalists.",
+      "gmapsUrl": "https://maps.google.com/?cid=14373920071926341680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 464,
+      "website": "https://www.finchbayhotel.com/",
+      "photoRef": "places/ChIJRxLey05dqpoRMOAGLSZsesc/photos/AcnlKN3B5Nvr12BG8YUhceQAILroAxpBwxJBlS9YESsj-vm5kYUUTns_CnGJnhchSQoks1VoRkAjyR7qmN0lb6bXzgeOY3KzuBZZugXBnuEubn2-V9T1fh2MaEHFJE-0SNzlbQPQnFpYmGiYulJqDOXALYjiAJnWoOxSCf57RAG1GRNclKxsAw-U7kzebNPf9Jm09mMD4BTDzvLGeas6GgTqFNuMn693-OrLBUFAJlU6LHLVsdpOZaUdzu08vKhpfZdPl8w7g3AKHJu27gnxvFgpj5P1b0BBcBIUVT_yPVzd4KjIkw",
+      "photoAttribution": "Finch Bay Galapagos Hotel",
+      "placeId": "ChIJRxLey05dqpoRMOAGLSZsesc",
+      "phone": "(844) 391-4613",
+      "hours": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 10:00 PM",
+        "Saturday: 6:00 AM – 10:00 PM",
+        "Sunday: 6:00 AM – 10:00 PM"
+      ],
+      "address": "Barrio Punta Estrada, Puerto Ayora, Ecuador"
     }
   ],
   "restaurants": [
@@ -88,14 +186,218 @@
         "Fine Dining",
         "Splurge",
         "Photography Worthy",
-        "Good for Dinner"
+        "Good for Dinner",
+        "Reservations Recommended",
+        "Iconic / Must-See"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=16943989168917672376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    },
+    {
+      "name": "Hotel Boutique Cultura Manor",
+      "coord": [
+        -0.2050425,
+        -78.4977713
+      ],
+      "desc": "Cozy boutique café, specialty coffee, homemade pastries, restored colonial building ambiance",
+      "longDesc": "Charming Old Town café in a historic mansion serving Ecuador's finest specialty coffees and fresh pastries. Perfect for a leisurely family breakfast with cultural charm.",
+      "gmapsUrl": "https://maps.google.com/?cid=13560570476997401234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Budget Friendly",
+        "Family Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.7,
+      "ratingCount": 203,
+      "website": "http://www.culturamanor.com/",
+      "photoRef": "places/ChIJYelNghaa1ZERkloUeQDTMLw/photos/AcnlKN1xEjgWRoyQVnT-wnTYar5KXvtmkklFKioL1VJRHMgfnUDFTACd8SXwyWNCqyBwjVYgad1C0qQoXG7p2m-UoJlPS82bFRp4Vlc8LG137P8607vQPlVmaTmqoH-Og6uDWX6B6_uKvWfqRR-OzpQPZLizfUVQLjWLn7W4l2BawCGdZDrRXcn1ZfgMMon_bbQ0Ctq86u3mRaY2AOL4EFbFkLTF7MQegSlmGSZJQhf5R-bKUtQKCeelC9nP_U_-YI1SaiAwmKlxCwx9fzoC9MLNWp52MEm_65pT3Oym4JSlDg_qvw",
+      "photoAttribution": "Hotel Boutique Cultura Manor",
+      "placeId": "ChIJYelNghaa1ZERkloUeQDTMLw",
+      "phone": "(02) 222-4271",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Jorge Washington E2-43, Quito 170526, Ecuador"
+    },
+    {
+      "name": "Ventano del Diablo",
+      "coord": [
+        40.2381618,
+        -2.0713388999999998
+      ],
+      "desc": "Upscale Ecuadorian cuisine, fine dining, locally-sourced ingredients, colonial ambiance",
+      "longDesc": "Elegant restaurant celebrating Ecuador's culinary traditions with refined dishes using fresh local ingredients. An intimate family dinner experience in Cuenca's charming historic center.",
+      "gmapsUrl": "https://maps.google.com/?cid=4443636220747743515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Splurge",
+        "Good for Dinner",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 2974,
+      "photoRef": "places/ChIJgSs60X9rXQ0RG4G6cJn3qj0/photos/AcnlKN0e-iInYqE4LVvOaOiCRjx3uolkgsjE8Ao75rQZ8oTFQ9JkyqTox45AopIhSls3YOxEpsqLlMHDvtcevi4CXPfxj1WJ-_kAio8ysTCpLkuL4YFtnm4nwj1exj1yoyE2B_j29pommlGeaZJr6koOuPEFo3bRZ2f1XA4Q-Cd7qWhwQWNY5p-EzOMw089gtn97348f3xquZJkDRVenlFdaEMgzC-qdx7B-66En3Qs7whtTgST5_sEVXRay8yguSUKLNZ0kNWTxgwuNp6RiVFB_12v49gxpf0Tz38Jg3shkB1W9T8LH8n-vEryJ7f9j0ZsYZPQyv5124PevlsAcLbZSnkOi6t6q29qBlCHbGScz0a-8yl0QNfR1L9sQy1n5FIhs2jMH2mt2_vrvBb-EgC41QscB-1S6ERK4dAJh2R2fyuWYzA",
+      "photoAttribution": "Daramchad Mena",
+      "placeId": "ChIJgSs60X9rXQ0RG4G6cJn3qj0",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "CM-2105, 4, 16140 Villalba de la Sierra, Cuenca, Spain"
     }
   ],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "experiences": [
+    {
+      "name": "La Casa del Arbol",
+      "coord": [
+        -1.4182111,
+        -78.4263339
+      ],
+      "desc": "Iconic swing hanging from ancient tree, cloud forest views, Instagram-famous adventure spot",
+      "longDesc": "Swing out over misty valleys at this beloved treehouse experience. Kids love the thrilling swings while parents capture stunning cloud forest photographs.",
+      "gmapsUrl": "https://maps.google.com/?cid=9831796119977120677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Adventure & Active",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 11715,
+      "website": "https://www.lacasadelarbol.ec/",
+      "photoRef": "places/ChIJ4yOoKdSW05ERpdNM43qOcYg/photos/AcnlKN0hP5qSsX1ny3-UWO9izEw_qnycvEJmbS_gWP3aXDygSJeKmotj8t1wLVvW11W9TfNfhrXeUDThVK6o7A0jRrE2SmXUkDCp6zAmvIwXGa8vGKof7HJoVM0e4bQxBfKM3Y0919deqFdyKGm2ZBoq9j2xBzv5i4_gXNQ-FHVmbCTUfUhL-4bq03eU9W9ztH73LhJ7meQj2eJXrETBkXPfE6UsLKemc-E13Ll1yZdKX0KODMev8GS2_2StZAcIfYv3asytxnCayNkM9XrHH45YYWWqSOM4J4eghJdtpJJ7xoHAYg",
+      "photoAttribution": "La Casa del Arbol",
+      "placeId": "ChIJ4yOoKdSW05ERpdNM43qOcYg",
+      "phone": "098 385 8733",
+      "hours": [
+        "Monday: 8:30 AM – 6:30 PM",
+        "Tuesday: 8:30 AM – 6:30 PM",
+        "Wednesday: 8:30 AM – 6:30 PM",
+        "Thursday: 8:30 AM – 6:30 PM",
+        "Friday: 8:30 AM – 7:00 PM",
+        "Saturday: 7:30 AM – 7:00 PM",
+        "Sunday: 7:30 AM – 7:00 PM"
+      ],
+      "address": "Calle Pastaza, y, Baños de Agua Santa, Ecuador"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Aqua Park El Surillal",
+      "coord": [
+        0.8533219999999999,
+        -79.8515953
+      ],
+      "desc": "Family water park, splash pools, lazy river, water slides, beach resort vibes",
+      "longDesc": "Tropical water park paradise with multiple pools and slides perfect for splashing families. A refreshing break from rainforest exploration with shallow toddler areas.",
+      "gmapsUrl": "https://maps.google.com/?cid=3866790938787842250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Good for Groups"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3679,
+      "website": "http://www.aquaparkelsurillal.com/",
+      "photoRef": "places/ChIJK4M8cpPs1I8RyggmJ9-ZqTU/photos/AcnlKN2fV0y5ks0wZumOb1DctXoMfureVeXBEOkk07xH1Ql9dNT7QGSgJyxIbVr0oc_9IAfxAxujz7bwvJt8yBUUebiVfgsymqYbLLJ3YaJMGGqZ3dlbSht5VOHbpg2n-_peDOE8Y9m21zUq1AWB-SF1CtBqOketStFqsUW0JY5eC8I-Op_RMxCwmYkLhN76BbTY4Oj4GtsmE-2tJHif7_eQw_bBPJDo-iInYFUG7FAQ357M1KiHAQJQroXJfBN297vxkysYvKj9AqAWcgtuonQfz-icRpcpNV0rj2w3KygYdlAtRmHVJR5tyIGIRrxd8vouuHVYLXuYiN3EqlxhDzgfYHX-RmInluSYH3jqf4DSaNkxZ4a3ADYesWYelvnN1LBXleu_EhVPoEE7-QUnpqw8F8KiKBcI_3324yDdFy5T-SuPMuqv",
+      "photoAttribution": "Silvana Ruales",
+      "placeId": "ChIJK4M8cpPs1I8RyggmJ9-ZqTU",
+      "phone": "(06) 299-5190",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "address": "Sector El Candelillo, El Triángulo, Canton, paso lateral, Atacames, Ecuador"
+    },
+    {
+      "name": "Complejo Manantial Latacunga",
+      "coord": [
+        -0.9205764999999998,
+        -78.6060792
+      ],
+      "desc": "Thermal pool complex, hot spring waters, mountain views, naturally heated family pools",
+      "longDesc": "Relax in warm geothermal pools surrounded by Andean peaks. Families enjoy the naturally heated waters perfect for toddlers and a unique wellness experience in the highlands.",
+      "gmapsUrl": "https://maps.google.com/?cid=12293215561783490792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Wellness & Spa",
+        "Budget Friendly"
+      ],
+      "rating": 4.1,
+      "ratingCount": 22,
+      "photoRef": "places/ChIJ7TgLe4Bh1JER6Lho02tGmqo/photos/AcnlKN3UVt3ZjEXm8z4ByLTWHXz2Kqi31eCBbKKcbXLdk6SI9af6QKKgkP7mWhLZllq7EL9Iaxy5Jwrb_jdb8IG7B3s44wJlfNWozafQeER7I8-KILspVrOn27cH6eDXgN5C3tvdAlGpuyNrvJsfw9u20l_zhgMw-N0w6R4rWGY7jWKdQYavraoC8FgzGj6sOs0jpbTd0mBuWmDvrNp4yWLqH4mztonnLifHAb6Vvas6H4bZ53WoRY5j9nDwtQ1JeYhhsdQJctgu4GDgGINNrEHBfRlLfu3dSwm_wjHVVp5GDBUZ-w",
+      "photoAttribution": "COMPLEJO MANANTIAL",
+      "placeId": "ChIJ7TgLe4Bh1JER6Lho02tGmqo",
+      "phone": "098 738 4853",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "address": "malacatos, y, Latacunga 050103, Ecuador"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Plaza de Ponchos",
+      "coord": [
+        0.2299706,
+        -78.2621266
+      ],
+      "desc": "Indigenous textile market, colorful handwoven crafts, traditional alpaca products, cultural immersion",
+      "longDesc": "Explore Ecuador's most vibrant indigenous market where local artisans sell handcrafted textiles, ceramics, and traditional goods. A feast for the senses and authentic cultural experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=10943359162981456029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Local Delicacies"
+      ],
+      "rating": 4.5,
+      "ratingCount": 6804,
+      "photoRef": "places/ChIJa8dIi5AUKo4RnZgGpy2f3pc/photos/AcnlKN2Eg03oxqzNoJdhhfrm8T8-Ls0e507V-N1n4gB9YjNVswXa92TgOMmywQF_ZdPLls-uxWbLuvcVMdAqLp-IFjHX2LSECmXzb7VhKiOu6KXHwX_xT-VnNCDHp6h-IP3KuHvnkq4tse2QjWcloO50hymp0BMfPKrTgKNJp9Lj98QEHPb-aQtuItCyvUc7r-kjdlowDuqDhxWQcLPxHMYcCUtAIIBuA9SYjiCt2-8Udy54HRmeZK9DhF2qj4__8GLi3SYf4vAPiBskjpIQH8eQ53p-zyHf9RCMm4p5QWulCjoREA3fsvkIuabNGRyrhPSkFz-hUBomA9RQphOGi0O2wB-V6ldlRMKsCvQPqd900-w0Glzq5uwSvTpECZf54Dr0wfEr4tM3E2IoQdsSbEpR9ve8NDp08OHaxl2gymq7cPpn__Fj",
+      "photoAttribution": "Gina Knox",
+      "placeId": "ChIJa8dIi5AUKo4RnZgGpy2f3pc",
+      "phone": "099 787 8570",
+      "hours": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 7:00 AM – 6:00 PM",
+        "Sunday: 7:00 AM – 6:00 PM"
+      ],
+      "address": "Otavalo 100401, Ecuador"
+    }
+  ],
   "cityCenters": {
     "Quito": [
       -0.209,

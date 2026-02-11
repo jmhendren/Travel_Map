@@ -28,7 +28,9 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views"
       ]
     },
     {
@@ -51,7 +53,9 @@
         "Splurge",
         "Wellness & Spa",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views"
       ]
     },
     {
@@ -73,12 +77,142 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views"
       ],
       "phone": "4 293 100"
+    },
+    {
+      "name": "Constance Ephelia Mahe Seychelles",
+      "coord": [
+        -4.6569741,
+        55.4059313
+      ],
+      "desc": "Beachfront resort with water sports, kids club, multiple pools, family suites",
+      "longDesc": "A sprawling beachfront resort perfect for families, featuring a dedicated kids club, multiple pools, and direct beach access. Water sports and activities keep everyone entertained throughout the day.",
+      "gmapsUrl": "https://maps.google.com/?cid=15984130990753182691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 3767,
+      "website": "https://www.constancehotels.com/en/hotels-resorts/ephelia/",
+      "photoRef": "places/ChIJCcMlWQcs4CIR4_Mn03IK090/photos/AcnlKN3V9pm4dk6S0m2XqBe0HBs3UgyURtfsn9cppQ1FhBviN_lROBAXcliWZXIReIGfXXiMvPVhSr2K2lZkXFGRs9huKUGbQAIOlul51Q_qdDn4bcSR5exO8dlYEaBVzE5VBJB9iUEweeHv9r1gfZS4PWM_Rrahd2PrDZO0zTFbw4dpocO7tdEjEfOCoE2l_yuSmOS1e9rtVICkV0nlvZlWEf7upIOD0WilHIakYzUXcM0SuK1LqD1BgLDcOJvwqn-3b29RupmfZ2hCzFQV3J8relzxNWr9cE1GNYbZOpDR17I",
+      "photoAttribution": "Constance Ephelia Mahe Seychelles",
+      "placeId": "ChIJCcMlWQcs4CIR4_Mn03IK090",
+      "phone": "4 395 000",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Port Launay, Constance Ephelia Rd, N.Y.S. Village, Seychelles"
+    },
+    {
+      "name": "Banyan Tree Seychelles Resort & Spa",
+      "coord": [
+        -4.7822023,
+        55.497566299999995
+      ],
+      "desc": "Ultra-luxury villa resort, spa, private beach, gourmet dining, exclusive experience",
+      "longDesc": "An exclusive ultra-luxury resort with private villas, world-class spa, and pristine beach access. Perfect for families seeking premium comfort and personalized service in a tropical paradise.",
+      "gmapsUrl": "https://maps.google.com/?cid=15109565270255429714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Beach",
+        "Reservations Recommended"
+      ],
+      "website": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D1068143%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+      "placeId": "ChIJ845dcAwqHiMRUmgnNI_1r9E",
+      "address": "Seychelles"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Auberge Chez Plume",
+      "coord": [
+        -4.705369,
+        55.47864
+      ],
+      "desc": "Casual Creole cuisine, local seafood, family-friendly atmosphere, authentic flavors",
+      "longDesc": "A beloved local eatery serving traditional Seychellois Creole dishes and fresh seafood. The relaxed family atmosphere and authentic flavors make it a must-visit for tasting genuine island cuisine.",
+      "gmapsUrl": "https://maps.google.com/?cid=8140603432344096836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Casual Eats",
+        "Off-Hours Eats",
+        "Hidden Gem"
+      ],
+      "rating": 3.9,
+      "ratingCount": 195,
+      "website": "http://www.aubergechezplume.com/",
+      "photoRef": "places/ChIJo61875Mq4CIRRBAy4rA7-XA/photos/AcnlKN0WUdEgorhuO3_oyaRF-E8vXpzDFlowloCJTGzVKgcLnOIBycMouEvuLVBCXGnRXvBy2WlQ2PaX8JFfPYSAudlIMg5Kgl7nDtwRXE8i2K3sMA_BTx4_6MTY15sGT1z7RyJEGx8RcDyTlBUh-NBOjSUZyU5WlFIZPRlo4UN0wco7hfd2hDhSE7u4DfSKzwFfNpciPq1Gw9Xl_oaKzsOBUt5-sEgujD1X2P2vbjTRLeTpdCbIZ8sOlG26OijzDvGLXFy9edDUvHta2GGfCrvdFgA7e8sDQI6if9_DQr78Ny0TRg",
+      "photoAttribution": "Auberge Chez Plume",
+      "placeId": "ChIJo61875Mq4CIRRBAy4rA7-XA",
+      "phone": "4 355 050",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 8:30 PM",
+        "Wednesday: 12:00 – 8:30 PM",
+        "Thursday: 12:00 – 8:30 PM",
+        "Friday: 12:00 – 8:30 PM",
+        "Saturday: 12:00 – 8:30 PM",
+        "Sunday: 12:00 – 8:30 PM"
+      ],
+      "address": "W Coast Rd, Anse Boileau, Seychelles"
+    },
+    {
+      "name": "La Perle Noire Restaurant",
+      "coord": [
+        -4.6133846,
+        55.429801899999994
+      ],
+      "desc": "Fine dining seafood, oceanfront terrace, sunset views, upscale but welcoming",
+      "longDesc": "An elegant oceanfront restaurant specializing in fresh seafood and international cuisine. The stunning sunset views and sophisticated yet family-welcoming ambiance make dining here truly memorable.",
+      "gmapsUrl": "https://maps.google.com/?cid=3619410309002011881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Dinner",
+        "Photography Worthy",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 833,
+      "photoRef": "places/ChIJN6pFl-Yo4CIR6aRz5H-6OjI/photos/AcnlKN2CHhZcR3BJRh0h94DQybuVWRP4CWREFbFAIO4Uc2lBR2cB6jsb9HUbyNsTIGydpHihIoZuYgZwC1ycEkqpNT8kuCHWU0LEex9OiC9G2upqRrQjK63bsZ3sodUsro9q2gPwwUQ4Jf_T2D13D_Mf6KpMAMoFlBwgwXCMK9SWovnRQnA9XjNUZ-1mW_hvblmoo6-XHHUXUTpC2gWMKPKVOUsqy90UkoUYOqqHfD8B9PobCP4JEmQBRs-SdHx4HRiC50v_eYPRPBsKr6s152s8olXs7JUvwOBv22lnYx-8haMMIF-bCvgtODuMClcL0r_J3MyzUiA_Aguwfo3_oXXORKZhGjofxeDNzpgc9oX9Xq7qhliYLgaq-yKIPP-YKIEPYQj2Z1lkeYmk0wqLFk5mtiwvi2Zay-xQXCDyjbFextqooqDh",
+      "photoAttribution": "Mélanie Marques",
+      "placeId": "ChIJN6pFl-Yo4CIR6aRz5H-6OjI",
+      "phone": "4 620 220",
+      "hours": [
+        "Monday: 6:30 – 11:00 PM",
+        "Tuesday: 6:30 – 11:00 PM",
+        "Wednesday: 6:30 – 11:00 PM",
+        "Thursday: 6:30 – 11:00 PM",
+        "Friday: 6:30 – 11:00 PM",
+        "Saturday: 6:30 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "9CPH+JWV, Beau Vallon, Seychelles",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Seychelles",
@@ -97,12 +231,128 @@
       "tags": [
         "Photography Worthy",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Beach"
       ]
+    },
+    {
+      "name": "National Museum of History",
+      "coord": [
+        -4.6234149,
+        55.4526145
+      ],
+      "desc": "Cultural artifacts, maritime history, local art, colonial heritage, educational displays",
+      "longDesc": "Located in the heart of Victoria, this museum showcases Seychelles' rich cultural heritage through artifacts, maritime history, and traditional art. A fascinating indoor activity perfect for rainy afternoons with curious kids.",
+      "gmapsUrl": "https://maps.google.com/?cid=11547900808270979709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Rainy Day"
+      ],
+      "rating": 4.5,
+      "ratingCount": 173,
+      "website": "http://www.seychellesnationalmuseums.org/",
+      "photoRef": "places/ChIJX2doyogp4CIRfSJwCppiQqA/photos/AcnlKN1odX_1kG9fWrZ-Azs6wxakeeD2lLCpk5mOAyui65zEthtKuaA5hHltTT7YMF5rK5uUOL9Y9nQmclLYqVU-Wyo8lS29W9Nn2jUOKevaNM-ykV-mCOgTbdBKprJwqtk3o0kX1D7qrWs95g1OFmZGOMvUWxXx14Hr_v74rc3XjeOEHkDpirPMqbdQfUz0Ss3VFiBvzehacpBItcyOkGFW7Q2UGJ_9NZu-2KNOqySfKwUQFSPwbwZA3o4tSzMU2chEofndkKHsFAcAz-LiPjS3MxpXe7ipgTgIV8BMRIaPTXa781isqtfbXs4D1Mm4UyHQOMSKYNGI6R8FTmIaysQ8jy1ZVM9I8IJeWcu2qZFD8M82_Z4qELgctuLZjN7_kVY9h-LBdeBli2StaJuVYKajSt0-4J_qwvdcCHrVxEN1IHN58kIo",
+      "photoAttribution": "Hugo Drouard",
+      "placeId": "ChIJX2doyogp4CIRfSJwCppiQqA",
+      "hours": [
+        "Monday: 9:30 AM – 12:00 PM",
+        "Tuesday: 9:30 AM – 12:00 PM, 1:00 – 4:45 PM",
+        "Wednesday: 9:30 AM – 12:00 PM, 1:00 – 4:45 PM",
+        "Thursday: 9:30 AM – 12:00 PM, 1:00 – 4:45 PM",
+        "Friday: 9:30 AM – 12:00 PM, 1:00 – 4:45 PM",
+        "Saturday: 9:30 AM – 1:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Independence Ave, Victoria, Seychelles"
+    },
+    {
+      "name": "Vallée de Mai, Praslin, Seychelles",
+      "coord": [
+        -4.3318525999999995,
+        55.7401062
+      ],
+      "desc": "Ancient palm forest, endemic wildlife, guided nature trails, UNESCO World Heritage site",
+      "longDesc": "A primordial paradise featuring towering Coco de Mer palms and exotic endemic wildlife. Families can explore well-marked trails while spotting rare birds and learning about this unique ecosystem.",
+      "gmapsUrl": "https://maps.google.com/?cid=3624599431549917599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1805,
+      "website": "http://www.sif.sc/vdm",
+      "photoRef": "places/ChIJVVVVVQXuHyMRn5mdovopTTI/photos/AcnlKN2tpXFCG317V1NvVYyWXIlDV9YRJaekQB1zu8yIk5lUVjzzr2HGMA6YBwBMnOPky-AYIWnYjQwp6IoM3sRKO-88_PzqKQr6r6gQ3bpkeHXkHBbcjAkkJPUncd2dgYH_EEVKrkDhuOgKsTidTyy4jfjXDQ9qFeOM1BVHSHGSuxVS7XcnUX62aWWTb99611kAVHpuXVRdKjzWQ9DydlqvANqQrGqbTyIXYwLiE6lYmQCi3NRtrElp34MVxr6QGz3OVWOtGbaKURAgxHiau0e3xqQgWcUdZFJhQOmN5shNHrOc2iS4Dj6f8hzgnHIqsYY_1_K7Gwqxl9I6JqlW8s2QhD62g6SuvAaxqrFrCTLzT5kKH7TrGx-UefybqVPGD2kLCgtxEr8LpNBC5YaepAsXtfsBkqAM3l9n9aoRiM9bsmbwzZM",
+      "photoAttribution": "Nabil Abdelhalim",
+      "placeId": "ChIJVVVVVQXuHyMRn5mdovopTTI",
+      "phone": "4 236 220",
+      "hours": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: 8:30 AM – 4:30 PM",
+        "Sunday: 8:30 AM – 4:30 PM"
+      ],
+      "address": "Baie Ste Anne, Seychelles"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Beau Vallon Beach",
+      "coord": [
+        -4.615603,
+        55.42284910000001
+      ],
+      "desc": "Gentle sandy beach, calm waters, family facilities, water sports, sunset views",
+      "longDesc": "Seychelles' most family-friendly beach with calm, clear waters ideal for young swimmers. Complete with shaded areas, water sports rentals, and nearby restaurants, it's perfect for a full day of family fun.",
+      "gmapsUrl": "https://maps.google.com/?cid=4987156545678789474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Good for Lunch",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1040,
+      "photoRef": "places/ChIJ_diqsOco4CIRYstyiHTwNUU/photos/AcnlKN0mwJBzqD65JILMiz4rwjSHU7dUEJaCb9AAacnf_tIQHTF3_xu48f_j5CYnHgdUg5-vMj0ZsU6uQ8XOWMn8SPegBBvoMnuVnugkrJN5DdvLrwwuuI561HgX9VcQBHojJWv6XS-zRUaqbAr-kotAKm3kxFMbE1Rpcdrp5m_rfPuxscS9ltpuhgTVrYKkaiG4yz8xHpayx7FKgVe988zDqLyjgiZzDkmRtqMamv2i5l9bKaygBfu_4qPPA-GeeABDXbOyfMJBX0rnBMwVABiYxt4JYi4g-kyPzMsG6xyBWw1XMzfVov_sBZDu20B1lViY5d_F36oEMwGB8z_kEfZjOLl8c-XUVcoPglavtnPm0LrIY2X-ZzRe5yBiaXZR5Z2SgW2AqQVOJrIzvJqb6sLguqKWN9cW1x2mhNdv-x-W36u1JhJG",
+      "photoAttribution": "Liudmila Ianchuk",
+      "placeId": "ChIJ_diqsOco4CIRYstyiHTwNUU",
+      "address": "Beau Vallon Beach, Seychelles"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Market",
+      "coord": [
+        -4.621129799999999,
+        55.4522153
+      ],
+      "desc": "Colorful produce market, local spices, fresh seafood, artisan crafts, vibrant culture",
+      "longDesc": "Victoria's bustling market is a sensory delight featuring colorful tropical fruits, fragrant spices, and local crafts. A cultural experience where families can interact with vendors and taste authentic island flavors.",
+      "gmapsUrl": "https://maps.google.com/?cid=13673632810519808125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 3.9,
+      "ratingCount": 7,
+      "photoRef": "places/ChIJc83yV2Qp4CIRfcgoXJiAwr0/photos/AcnlKN0b65eqRf52XgFUlJl0wu4Gau8ei2F2yE0WuHNdYdaR6cVqc1P-tA2IC4WYL7NyMclqyTWlUGgPEzcHzrD7hSn0kxJ5CxFwLx-a1uS3HrwJZoA8u4UjaUPUuqvdVk424kTW3SoCx7tFSgqVPwKNsPCuhpXS_iKCHGm8W0H1bwdz10V9k5T3VC-BRpfghD5cZpjfJVrzm3Sm9SBaQzAOvm29C9fkWPAQAME4gsTLHahRuhf-h9dO2QE2oKItm-94rCSyv0OzJdZLa-TP_QQSdlEfl1M4F_asxNAOjji1TwXNIdkYt4mpXrDMGXQ39xtcu3PMy_buxGBnHdUbTS3Dm15ImTAs1KEcOWJBsr4a-Q-YO3OAF-QHrBOL6FqkwrbVoKD23Pfgt2zZef6kU42qVmbaW_4s-ShqLkrTkhiKttSwEn0c",
+      "photoAttribution": "Björn Zimmermann",
+      "placeId": "ChIJc83yV2Qp4CIRfcgoXJiAwr0",
+      "address": "9FH2+GVW, Victoria, Seychelles"
+    }
+  ],
   "cityCenters": {
     "Fregate Island": [
       -4.5837,

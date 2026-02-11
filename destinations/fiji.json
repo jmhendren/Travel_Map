@@ -30,7 +30,11 @@
         "Photography Worthy",
         "Splurge",
         "Adventure & Active",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Beach",
+        "Reservations Recommended"
       ]
     },
     {
@@ -52,7 +56,10 @@
       "tags": [
         "Romantic",
         "Splurge",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Beach",
+        "Reservations Recommended"
       ],
       "phone": "776 4441"
     },
@@ -75,7 +82,8 @@
       "tags": [
         "Romantic",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach"
       ],
       "phone": "672 2266"
     },
@@ -98,7 +106,10 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Beach",
+        "Reservations Recommended"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -110,12 +121,289 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "888 0077"
+    },
+    {
+      "name": "Nanuku Resort",
+      "desc": "Family-centric resort, kids programming, dedicated nannies, idyllic beaches",
+      "longDesc": "A laidback family resort in Fiji's stunning archipelago offering terrific kids programming and dedicated nannies for young children, perfect for toddler-friendly travel.",
+      "coord": [
+        -18.2639812,
+        178.04616539999998
+      ],
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Splurge",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 4.6,
+      "ratingCount": 264,
+      "website": "http://nanukuresort.com/",
+      "photoRef": "places/ChIJDcj3GkswGm4RWwROg1zoGtA/photos/AcnlKN2bxRouOWjfjS3W1VQxqNqI1opbeSNS-Bx7-blS0nbjTibQ4k_L31ODltdTzObyZrprp2f-Z_1MCLYmHxEeR8oB10H79F9j8Vg4Gqt4oXJ7UkfrQwqPeQamuAYqL-dZLpdfAS0wGaiSaYYD-8MRVts3y0rI5I0I9rOPDtsRLtV8AqYyz6K_bhT2teXXVN8dsLU8vFKVsA6M8BljW1tnoUhetNep1scLvfSdPn0has93z8Z-3pJsyTBetHaCXrUzgVaBBIHrAYy7SBMSCXNn3TtHrIVEsfjMYgu6K00mO1lzDA",
+      "photoAttribution": "Nanuku Resort, Fiji",
+      "gmapsUrl": "https://maps.google.com/?cid=14995553393321051227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJDcj3GkswGm4RWwROg1zoGtA",
+      "address": "11 Nanuku Drive, Pacific Harbour, Fiji"
+    },
+    {
+      "name": "JMC Fiji Resort",
+      "desc": "Family-centric resort, kids club, dedicated nannies, tropical beaches, stargazing",
+      "longDesc": "A family-friendly Fiji resort offering excellent kids programming, dedicated nannies for toddlers, and stunning beaches ideal for 88-day family world trips.",
+      "coord": [
+        -16.813614599999998,
+        179.2867868
+      ],
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Splurge",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 4.5,
+      "ratingCount": 192,
+      "website": "https://www.fijiresort.com/",
+      "photoRef": "places/ChIJMeybhtp2H24RqoX9lqysTdY/photos/AcnlKN1rhonJBhHldx1oFEqznh41dDya17_1nIiQc2fYNWxyg9omNrzx2fdJirR41VJ13Sevd952sN8-hzqQHv-9BAFNng6D2_qzxabyCFkUHMwPnl3RWc37Xptn2gMECPRgL9J4ebhwQwf_6ISDlEzY2G_-8XkIcX-zOgX0MDZLYNW9olIyCAhFNnYJJh1jc2ojOR2VURzEEGn2Mis6-QnzwnO3QRKkY4o2kM3f45mgSFn0I8m1GSt-mDXqEw38mtPgaTxAvle9afnh3yJ9P4M_VulTB4bXGaWXYf_3soMQw557Tw",
+      "photoAttribution": "Jean-Michel Cousteau Resort Fiji",
+      "gmapsUrl": "https://maps.google.com/?cid=15442188554590848426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJMeybhtp2H24RqoX9lqysTdY",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Lesiaceva Pt Road, Savusavu, Fiji"
+    },
+    {
+      "name": "Hilton Fiji Beach Resort and Spa",
+      "coord": [
+        -17.768351499999998,
+        177.37756
+      ],
+      "desc": "Beachfront family resort, water sports, kids club, tropical gardens",
+      "longDesc": "An ideal family base with direct beach access, engaging kids' activities, and easy airport proximity. Perfect for families wanting comfort without extreme luxury pricing.",
+      "gmapsUrl": "https://maps.google.com/?cid=18133266632853223884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 4.2,
+      "ratingCount": 2827,
+      "website": "https://www.hilton.com/en/hotels/nanhihi-hilton-fiji-beach-resort-and-spa/?SEO_id=GMB-APAC-HI-NANHIHI",
+      "photoRef": "places/ChIJg2QmcrZEF24RzPmorO1Npvs/photos/AcnlKN06mODAe8hYMRjbvl8gsoENf90-kdaHMUIOPyVuc6TNccJGNcqb2m2y6Rg66GW1APfqOTLRJm9UyYb0AdhKai_3vPwmsKi-3yPVkZlcrz6DhTqIJvsaSs3G09fQTxg_NbMoesYm09n_t62od40HXbUHZjGzjf0CWp-JX4HcpjJi2yYn4UOFKA3INoMej__laaQEKUxIC_gX2J5qmyQ-fzX20dqsNt2JFFccmjrUdJS6bLnlzPI8fcmuGRfIw_zHAfUT1NgBzLu0GQDtO13R38q6SLGOq6GhUubCdZV6jAqA1g",
+      "photoAttribution": "Hilton Fiji Beach Resort and Spa",
+      "placeId": "ChIJg2QmcrZEF24RzPmorO1Npvs",
+      "phone": "675 6800",
+      "address": "Denarau Island, Fiji"
+    },
+    {
+      "name": "The Westin Fiji Golf Resort & Spa",
+      "coord": [
+        -17.769852699999998,
+        177.36967439999998
+      ],
+      "desc": "All-inclusive resort, beach access, multiple pools, family suites, activities",
+      "longDesc": "A comprehensive family resort offering everything on-site: multiple pools, beach access, and organized activities. Minimal need to venture off-property keeps families relaxed and content.",
+      "gmapsUrl": "https://maps.google.com/?cid=13024630559994800529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Wellness & Spa",
+        "Playgrounds",
+        "Beach"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1106,
+      "website": "https://www.marriott.com/en-us/hotels/nanwi-the-westin-fiji-golf-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "photoRef": "places/ChIJKfHmKMREF24Rkekvo3zIwLQ/photos/AcnlKN12_eKkC1Sbf69h7wYFL9G7dzZ71B-TCYkwwMOXNExZFHP_d-mXE26VjRS9Yh0iiSokB6tUAZXkjbzGym2uDOJw2eIhjBX7-ujdXnEZiAecAUEf9zrob90avUUoIE2x5qhO4Oi4qjpMNUZ0a-xMcKhPCtWCgFkdkX7pxvwRZRFG7TedFTBagUPPs56d-u1ZY30GjSDCfGUMUs4JpbwRQHjjOZYNcgqvUlDyPLUfOSBcbSON0v_s7Bjz3NiqeQTA3tGx390JhMuLaLhxOHZUzPa5n0ahIEdVe1sPa_-21JRLWA",
+      "photoAttribution": "The Westin Fiji Golf Resort & Spa",
+      "placeId": "ChIJKfHmKMREF24Rkekvo3zIwLQ",
+      "phone": "675 0000",
+      "address": "Denarau Island North, Nadi, Fiji"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Cardo's Steakhouse & Cocktail Bar",
+      "coord": [
+        -17.771360599999998,
+        177.3803297
+      ],
+      "desc": "Fine dining steakhouse, premium beef, tropical cocktails, ocean views",
+      "longDesc": "An upscale dining experience featuring flame-grilled steaks and fresh seafood with sweeping ocean vistas. Perfect for celebrating a special family moment in Fiji.",
+      "gmapsUrl": "https://maps.google.com/?cid=264325812875941271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 3.9,
+      "ratingCount": 658,
+      "website": "https://cardosfj.com/",
+      "photoRef": "places/ChIJG094uMpEF24Rl9VvJe0SqwM/photos/AcnlKN0hgD75o_jIfHpRYZCj_8eBy7dDKqpwe-tG0hVmBhGGbNTaTg8DE4naqvx6wU98IkzknU_Unf45Kocs_x8Yfp7LdMwKlnSAFX0hdRyBsy26nCWDHbhs8xAfq-FJEsxrnDEVjoR7Worn75FJYU2gY0q8snRlr4EVefRGZ9c-cuak7DYQYiirsrdIAvext2Kp8btxwATlevW_aVX-WbtZ4tgwScHBEP_4NUNIq2b4-V0OotezfKNNLPnTnxxyU4QHQ8mCgDYC68ji_8-0grzy7hl-_kOyYk8HfmkDvtU_6m9ayA",
+      "photoAttribution": "Cardo's Steakhouse & Cocktail Bar",
+      "placeId": "ChIJG094uMpEF24Rl9VvJe0SqwM",
+      "phone": "245 5479",
+      "hours": [
+        "Monday: 7:00 AM – 1:00 AM",
+        "Tuesday: 7:00 AM – 1:00 AM",
+        "Wednesday: 7:00 AM – 1:00 AM",
+        "Thursday: 7:00 AM – 1:00 AM",
+        "Friday: 7:00 AM – 1:00 AM",
+        "Saturday: 7:00 AM – 1:00 AM",
+        "Sunday: 7:00 AM – 1:00 AM"
+      ],
+      "address": "1 Port Denarau, Denarau Island, Fiji"
+    },
+    {
+      "name": "Mama's Pizza (Namaka)",
+      "coord": [
+        -17.7711279,
+        177.4364673
+      ],
+      "desc": "Casual family pizzeria, wood-fired oven, local ingredients, casual vibe",
+      "longDesc": "A relaxed, family-friendly pizzeria beloved by locals and visitors alike. Kids love watching pizza preparation, and the casual atmosphere welcomes families with little ones.",
+      "gmapsUrl": "https://maps.google.com/?cid=18060122951975912110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Budget Friendly",
+        "Toddler Friendly",
+        "Off-Hours Eats"
+      ],
+      "rating": 4.2,
+      "ratingCount": 579,
+      "website": "https://www.facebook.com/MamaspizzaOFFICAL/",
+      "photoRef": "places/ChIJM0dZY5VbF24RrkJnYCNyovo/photos/AcnlKN1AqzZ4L_GGr8X9T3XdKfGA46qRsVeEU7A2BWqijKCHSXkLM8Xh0vgjoQHtPfOpjXKjWdoOYdSg1IzbeUEKoM7XLrCk_AGZ54kCKfRyk58KFUhkqJpFNfRmgJl4uA5ANK6K8zAqMC6o5m8Shqq1S7ZdmUE4L6L0lMgad2bNcztZf2P4TmYneHsFEHsmZej1YnkmKSkamawYSEJ_4frZ_r2qhaBQNk5kWYgrppbEu-4_85D1-j1ktu9k4c06f1-LwL1-ailuwlFT3HRUDRZ3LnqSoZBJn4d9WVIacnbkrHuFeJYFD4adGuPK6NfgdqilQsB69zxNI9Dp0AfMnjVHEXVwYfaCsDwX9DzMOylSm9OOOTo048ZhB120MMarxw96-UBNC76ggKuerrVqTsOVMUJU9iVfBdR4KKCT84TBkM4",
+      "photoAttribution": "katsuhiko yoshida",
+      "placeId": "ChIJM0dZY5VbF24RrkJnYCNyovo",
+      "phone": "672 0922",
+      "hours": [
+        "Monday: 10:00 AM – 11:00 PM",
+        "Tuesday: 10:00 AM – 11:00 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 11:00 PM"
+      ],
+      "address": "6CHP+GHW, Nadi, Fiji",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Fiji Museum",
+      "coord": [
+        -18.149666,
+        178.425735
+      ],
+      "desc": "Cultural museum, Fijian history, artifacts, interactive exhibits, educational",
+      "longDesc": "Explore Fiji's rich indigenous heritage through fascinating artifacts, traditional weapons, and cultural exhibits. Engaging displays captivate curious young minds while parents learn the island's unique story.",
+      "gmapsUrl": "https://maps.google.com/?cid=997217011929989144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Rainy Day"
+      ],
+      "rating": 4.2,
+      "ratingCount": 902,
+      "website": "http://www.fijimuseum.org.fj/",
+      "photoRef": "places/ChIJG1pWoDzcG24RGEAQwJbT1g0/photos/AcnlKN23BaK7kngBe1MDadtXXisbpiVeHp7cGG8rCiFlCWjQhaxIc-aRZvjiWFD291d2iP8TBVCY8QNpNlLUydRgHMkkKMnPGwvXG_gDXE7BSLYBMS_w9QhtLqSos2MF2zC16XBAVFtYiL4f-GyQLhKOO0rpc9ZdR3abTt_oqvj97JSYg5WUtku1DuQIMPYcS1Yba8ICvj80EZYZ-jLUUI-gruo6HeuNWylyVaF4VHP1VOXySwJrH8f9PbzyOw2SPMK3DpjQO9O6HyOJFWc9LIkk5Ta6OSElWNN3OYuBm_CY6DC6Ba-T4aLwahhJpfzDOGPlEhYF2drdgrhp7VjVaj24G10bdxWESiQsCdd8OM_Pl16eRnLR6de85QzqdFx44fr_GD_cLf6qw5SXPxUClrW39NZ7v2aWAvapia8CgqoTzGvVADU",
+      "photoAttribution": "徳留佑樹",
+      "placeId": "ChIJG1pWoDzcG24RGEAQwJbT1g0",
+      "phone": "331 5944",
+      "hours": [
+        "Monday: 9:00 AM – 4:30 PM",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: 9:00 AM – 4:30 PM",
+        "Sunday: 9:00 AM – 4:30 PM"
+      ],
+      "address": "VC2G+48R, 2 Cakobau Road, Suva, Fiji"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Sabeto Hotspring Mudpool Fiji & Tours",
+      "coord": [
+        -17.7182159,
+        177.4844362
+      ],
+      "desc": "Natural hot mineral springs, mud baths, scenic valley, family-friendly adventure",
+      "longDesc": "Unique geothermal experience where families can bathe in naturally warm mineral waters and traditional mud treatments. A memorable, safe adventure that children find thrilling and adults find rejuvenating.",
+      "gmapsUrl": "https://maps.google.com/?cid=12214678388917106434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Toddler Friendly"
+      ],
+      "rating": 4.5,
+      "ratingCount": 675,
+      "website": "https://hotspringsabetofijiandtours.com/tours",
+      "photoRef": "places/ChIJKaxnMVFfF24RAncLUUdBg6k/photos/AcnlKN3GyQpob5uNJduXFY69VFQPjzl_Rl5qPt-g0Ye-3bpNaG42keI3kKCBiM9R7dU9Vv0FBDle1tKq7CUyWFIehgnmRmomICcA8KRB-T50ARRaCgheMoWqIeowZ9C3qKSG673UlIEk9vCRHlL7WaWxdFLiGfeKj7bsPvmN0hEOMoljuTudEhurdNWkcoQwFmprdRcJAPVirMYs07VxxCokoJzoMDGkQqZGiGEgF6f9M_SERhHgULPl5Q8hlZOQoJU1M7ovVYUEZtPVWguPn5PYNhaXQ5HNt7qkB6Nv4mrQ1dbqCw",
+      "photoAttribution": "Sabeto Hotspring Mudpool Fiji & Tours",
+      "placeId": "ChIJKaxnMVFfF24RAncLUUdBg6k",
+      "phone": "845 2462",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "address": "7FJM+MQP Naboutini, Nadi, Fiji"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Nadi Market",
+      "coord": [
+        -17.8035948,
+        177.4164379
+      ],
+      "desc": "Traditional produce market, local crafts, souvenirs, authentic Fijian experience",
+      "longDesc": "A vibrant, bustling marketplace showcasing fresh tropical produce, colorful textiles, and handcrafted souvenirs. Families enjoy the sensory experience and discovering genuine local artisan goods.",
+      "gmapsUrl": "https://maps.google.com/?cid=4126416081878693791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Market / Street Food"
+      ],
+      "rating": 3.9,
+      "ratingCount": 1925,
+      "photoRef": "places/ChIJJ6vNovlaF24Rn7fWU5D5Qzk/photos/AcnlKN1eLt3MG5aT_H-Bliu8vdSvYjnzPuXDGoYG4Yni8f8FzC9rrKesfPZKL4cQ1YbYsnNirI2CdR78VIdCvErelFLCzsxpf5Ud7MqbuRqShecYDPdgPEfYQ2jiuuix121GZi5WgLtoeSRFfkqYlxm4xbdXdvo0f0EerYemxU3-pZa383qnyW3CywfhhwBcOybHILsbnKWrOmyRW0A05-E7ZCrktTZWVP_yp2P_CTxPAmfXib-REFJG-bDuXV1th-WprZsCe19tppUsPjT7MtxTQsBmcojwMnnY-XXdne0XYi5-xyJYcRgyi9Cf8XCP26b6Ingfau3NXA5yvHDfW8XNy9sGV-zpdiHuHaLnFUh3Cp4eN08HTW77iBliRpTnOHEj289cJWHcJ45JzgjoA3N69St_rDYLOGdYDMB2d5S6KzvLx0U",
+      "photoAttribution": "Rajesh Mahajan",
+      "placeId": "ChIJJ6vNovlaF24Rn7fWU5D5Qzk",
+      "hours": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 6:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "5CW8+HH8, Nadi, Fiji"
+    }
+  ],
   "cityCenters": {
     "Fiji": [
       -17.4336,

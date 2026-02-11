@@ -28,14 +28,937 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views",
+        "Iconic / Must-See"
       ]
+    },
+    {
+      "name": "Baha Mar",
+      "desc": "Luxury resort complex, beachfront, multiple restaurants and amenities",
+      "longDesc": "A sprawling luxury resort destination in Nassau featuring pristine beaches, championship golf, world-class dining, and comprehensive family-friendly amenities.",
+      "coord": [
+        25.070585800000003,
+        -77.3967067
+      ],
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Photography Worthy",
+        "Scenic Views",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 6780,
+      "website": "http://www.bahamar.com/",
+      "photoRef": "places/ChIJ9bd9fSFjL4kRjxlS_My3nhc/photos/AcnlKN23Jvh4_AzPkE6iv4MZYuMTe3C8LsHRAeeNb922KJYVfblMaXnGorgHX-mLSJbRHWdBijcqrAoS8OiZAPqTvQSfSMHF5qjycyfe0XvZiY3afynmDIJ7MwAiSSGejobd7yy9Fs4ngZ52VV3RKhtTrl_Cz5vA2ZdPHJNy4Vx7hLHRmxm2mYbsSSemeQkajg0GRM5KBg67q8VaS4yHUvxjtRybfY0g2PSNUOvj2ANVDaO2c_LkFvxLa_KdP4QRhXIOnyKLAbZblcjgZHkO6jVQN037epvcznxze-PbebmepqWmRw",
+      "photoAttribution": "Baha Mar",
+      "gmapsUrl": "https://maps.google.com/?cid=1701999800227076495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ9bd9fSFjL4kRjxlS_My3nhc",
+      "address": "1 Baha Mar Blvd, Nassau, The Bahamas"
+    },
+    {
+      "name": "The Cove, Atlantis",
+      "desc": "Ultra-luxury resort, exclusive accommodations, Atlantis amenities",
+      "longDesc": "The most exclusive tower at Atlantis Paradise Island, offering premium suites, private beach access, and full resort amenities for luxury-seeking families.",
+      "coord": [
+        25.0864115,
+        -77.32696609999999
+      ],
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Photography Worthy",
+        "Playgrounds",
+        "Scenic Views",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.2,
+      "ratingCount": 1361,
+      "website": "https://www.marriott.com/en-us/hotels/nascv-the-cove-at-atlantis/overview/",
+      "photoRef": "places/ChIJ_79V7aN9L4kRM-T9-BQEPss/photos/AcnlKN1sciEWFHsWM3Y5aNwhkbYUCEyUo1z-OBVS-x3esZB6cmzflrD0c_swj0ars1gU4OP-6p018-M5sqptH9dOsyo2Achyoc9ffYKsB4_67GjLArMvww71ufWMy5hnIgkhI4SEvlgtZvzbjCnFuEEO1uYOfck9bECkywEbMQKp9E0TIWKAPAZkhvw9ccYFXp1NYYoWcPB78HYnEug0ODCitNmI-Nzhe-SymzI-DeW5olwHjnugXQ7mTwK_Iz1ZDGaVx96FGY0lAjTVW0aZ7r9rrIj7O6LUnEC4PJ4Fpy44Xgeq3A",
+      "photoAttribution": "The Cove at Atlantis",
+      "gmapsUrl": "https://maps.google.com/?cid=14645147526378677299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ_79V7aN9L4kRM-T9-BQEPss",
+      "address": "1 Casino Drive, Paradise Island, The Bahamas"
+    },
+    {
+      "name": "The Reefs",
+      "desc": "Spacious family resort, kitchens, more privacy, Caribbean beachfront",
+      "longDesc": "A family-oriented resort offering larger accommodations with full kitchens, providing more space and independence for families exploring Nassau.",
+      "coord": [
+        25.0851312,
+        -77.3284202
+      ],
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Scenic Views",
+        "Beach"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1309,
+      "website": "http://www.atlantisbahamas.com/rooms/thereefatlantis?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+      "photoRef": "places/ChIJWZD66aZ9L4kRQLPJx59sRf8/photos/AcnlKN0inlnUmS8CSjC-2cFoiomUJY5TzPOTqDCVNfUV38ZcOeiyY8spXd4Wsckd4QiXc1oCYjr_JOSzf9OCdbmrHS7_aUT70gvSeBFOgioIj9MWkXcjB69WOpObKgfoetyRoNP5FE-MTpvqLuZ61xjUKOzZS3_hId-GcshJL5YRPX2gl4curw-0LJqgtiYjDuKfe3knwBQKoevAU-VnW1m_YKGObw5o2A5QUL_3cj3dS0yyJjV2SOGtv1_egjJRqa9PiSaZ94H-SOkWEsXY-NZOzaRkwG5E3mU_snjnnGns9fHqR7qHIQNhO7hCdGM-uh8PeW0Fk3O06bC2mYplKad1ttoXgEgCAj6PzzWxiI9NDX3UCRtqbiFsVUkLcByvenrBjsKTl3is4zw6v_PTJzir3D1DsRsJIgbFfVIujXhnVcpJyS-M534nsGqtaRiKpw-d",
+      "photoAttribution": "Our Mind on Music",
+      "gmapsUrl": "https://maps.google.com/?cid=18394227686572143424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJWZD66aZ9L4kRQLPJx59sRf8",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "1 Casino Drive Paradise Island Grand Bahama, The Bahamas"
+    },
+    {
+      "name": "The Dunmore, Harbour Island",
+      "desc": "Luxury beachfront resort, pink sand beaches, intimate elegance",
+      "longDesc": "An exclusive luxury resort on Harbour Island featuring iconic pink sand beaches, sophisticated accommodations, and refined Caribbean hospitality for upscale travelers.",
+      "coord": [
+        25.501815699999998,
+        -76.6332439
+      ],
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Scenic Views",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 161,
+      "website": "https://www.dunmorebeach.com/",
+      "photoRef": "places/ChIJhfbUdls3JYkRHIWw0I6D3Cg/photos/AcnlKN2oSBppGQ1O-4zhte7ykAlifz30FcFRGzkKwYBwRsSR2Xmq4jzB716dYt2a252qiUbYSpeKC0Y7kU5WcvSWkIJgTmh7yUGLnjAgsDQLf0Quv5QOltOQVmFgBpIZaLoTJZ2Uo3nz4bVZSUzm0aHOBvOR8nbZNUeq1YDbnOjqCpL7df3okDFJvzhEmRk6Zkt9pp28oq_JvhA-rZ70ABlOh_LqV-drTasezaup3_l-ZvDe_i66cBNVu8MyqFKE6PJeBufcqSnKM68B8CdcaGFRcb9O72Hsd1v4zvPNd4vxTZAP9g",
+      "photoAttribution": "The Dunmore Hotel",
+      "gmapsUrl": "https://maps.google.com/?cid=2944372905803285788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJhfbUdls3JYkRHIWw0I6D3Cg",
+      "address": "Colebrook St, Dunmore Town, The Bahamas"
+    },
+    {
+      "name": "Coral Sands Hotel",
+      "desc": "Luxury beachfront resort, pink aesthetic, recently renovated, iconic Caribbean property",
+      "longDesc": "A classically iconic luxury hotel on Harbour Island that perfectly complements its famous pink sand beach setting. Recently refined through renovation while maintaining its timeless elegance and charm.",
+      "coord": [
+        25.5039293,
+        -76.6330358
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Art & Design",
+        "Scenic Views",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 230,
+      "website": "https://www.coralsands.com/",
+      "photoRef": "places/ChIJNdMaqFs3JYkRaVl22CnD-qo/photos/AcnlKN0ftOvPX1p31cNIkLUBgSjZqdgD_hZi-8kUZDY6UxUM3gXpYlqQz9uWC_G925LOLW_8Lmcn3qfN6gOYc9idetltv-uzwuY8doum-lbQYNdxoxjeaowmEmxmTwQIivfGNJT0KYfzXxT1jnAgLogei3crrdMl6CjM3L-jZTPu6472PT3T1s6qoU3LnHDv27qVUPdlYDxMkZyar_Jk7q8rdNeG6NjyGvgftKoPQPUK32SS8uiFNS3agT6e0a3UrTmcaJrJtMG7j2y_aGInjF7192CYpgs5Ek75BwT1OnCKMjVPJg",
+      "photoAttribution": "Coral Sands Inn & Cottages, Harbour Island",
+      "gmapsUrl": "https://maps.google.com/?cid=12320374315118123369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJNdMaqFs3JYkRaVl22CnD-qo",
+      "address": "G939+F37, Chapel St, Dunmore Town, The Bahamas"
+    },
+    {
+      "name": "The Farm at San Simón",
+      "desc": "Celebrity-favorite island resort, tropical luxury, farm-to-table dining, beachfront paradise",
+      "longDesc": "An exclusive Bahamian resort that has become a celebrity hotspot, blending luxury accommodations with farm-to-table experiences and pristine beachfront setting.",
+      "coord": [
+        25.446002999999997,
+        -76.6393463
+      ],
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Family Friendly",
+        "Scenic Views",
+        "Beach"
+      ],
+      "rating": 5,
+      "ratingCount": 5,
+      "website": "https://www.littleislandhotels.com/the-farm",
+      "photoRef": "places/ChIJg80SKAA3JYkRINknjcx_BrU/photos/AcnlKN3KuuGOe2bInetZX1R2gXfR4iG3RcQi2m_KdITDg91PRU6Ydk8XBaLxlVSUEpfmZiCrOmhaKaBl-b1CFZqElgwaa18tBLflM1CZSDS4r-IhC6duc98lTUn2W1QZlrAPTC54y5L2m6PE3sgKA7ZF60kw7cvMFm-4ynzHGpEsSy_asOAuQjuZJNJJQxqq0TOk1DlBa6mA-ozUntEi0-G2emdKC3OHAoIklbnDnwbxU5U3rU-PSC7Hg0zdWtKErsNP-vR5gOae1A-3VLyi87nrObbEfYsPSuyW7cCRTZIxOr9muA",
+      "photoAttribution": "The Farm",
+      "gmapsUrl": "https://maps.google.com/?cid=13044253887243475232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJg80SKAA3JYkRINknjcx_BrU",
+      "address": "The dirt road, Queens Hwy, Upper Bogue, The Bahamas"
+    },
+    {
+      "name": "The Surf Club at Norman's Cay Exumas",
+      "desc": "New luxury resort launch, Caribbean island elegance, acclaimed brand expansion, Exuma",
+      "longDesc": "The extraordinary Caribbean launch of Miami's iconic Surf Club brand, bringing acclaimed glamour and excellence to a pristine Bahamian island setting.",
+      "coord": [
+        24.590119200000004,
+        -76.8158902
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Scenic Views",
+        "Beach"
+      ],
+      "rating": 4.6,
+      "ratingCount": 8,
+      "website": "https://normanscay.com/#dining-yacht",
+      "photoRef": "places/ChIJC8PMXwDHL4kRTSRWXi6rY8c/photos/AcnlKN0JsqO-YXBY_Hpw5HvY8PuuGNVcGhWMLuPfRJ12Ivi7UigfSQFMCZarQWVmVoCN39599BBVoCymd0_NL_LTpZlU2bLPIHkul9e7GbChwcRqgsJwYrjNnQD6aw5cYF7wmFLRkxzQCXgKQii7iQ7h6io0EXDzgIBKYB2l8gQnfW9jxeAy2XFtgNBHhRPxwOIAlMfVIi1YMc1UCuObe8rcEKKNl2pWmWn0v1uk7vcNGvo6SZw_GVejXU3FkimrhmFzcZk3w0N7ZotKv9B6hpjcDP6dicHqT2wZMo42ZVzEuH7EC-ugRDtwim_thzvK_v38t-cBDTJ3JIXvW5iupSSwm2BJDMWUDtmZGU0oa109DRzY6PL5nv8383CqPVZrK1NzjfascmerjtN6LzkFneQuHcaiar2GsQNDeWuX_j1hetMOQaCDBiPoo_Ee_rTW_g",
+      "photoAttribution": "Nicki D",
+      "gmapsUrl": "https://maps.google.com/?cid=14367515451881563213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJC8PMXwDHL4kRTSRWXi6rY8c",
+      "address": "H5RM+2JX, Norman's Cay, The Bahamas"
+    },
+    {
+      "name": "Coral Sands Resort",
+      "desc": "Pink sand beach resort, iconic Bahamian hospitality, weekend getaway destination",
+      "longDesc": "A legendary beachfront resort on Harbour Island renowned for its stunning pink sand beaches and classic Caribbean charm, welcoming weekend travelers seeking island relaxation.",
+      "coord": [
+        25.5039293,
+        -76.6330358
+      ],
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly",
+        "Splurge",
+        "Scenic Views",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 230,
+      "website": "https://www.coralsands.com/",
+      "photoRef": "places/ChIJNdMaqFs3JYkRaVl22CnD-qo/photos/AcnlKN1BMB7-Q2Xo7WFwjw0PJtHcTnvxeJci7BAqUi29-WY0Y8qQGLbbHw_ncT5HHOrCwiOq2crG0D6AqkEAUDHKJ6GSsxj7aJdD3tXx_5NCZoD8tpvEHIq4kL2uTjJKk7NqdRK2cuwqe5IKEdtAfELhNrAvTgxaudwDpf60dULAPcQf-aIP_2tV8Hb-7ULaO25H8BJJNDK9-pluvQ4X8VC0U-bHmWSolOeDjiyTg4GQJq4ajlwWujk2YqhEepZKsy16a6GIls0-b8QeEK0h4-DiGkt53gTaICOt-QiQz0gF4rQAsQ",
+      "photoAttribution": "Coral Sands Inn & Cottages, Harbour Island",
+      "gmapsUrl": "https://maps.google.com/?cid=12320374315118123369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJNdMaqFs3JYkRaVl22CnD-qo",
+      "address": "G939+F37, Chapel St, Dunmore Town, The Bahamas"
+    },
+    {
+      "name": "Amancaya",
+      "desc": "Ultra-luxury resort, two private cays, pristine beaches, world-class diving",
+      "longDesc": "Aman's first Bahamian property across two private cays in Exuma, offering 36 pavilions and Aman Residences with signature amenities including an Aman Spa, marina, Beach Club, and exceptional dining.",
+      "coord": [
+        23.5174012,
+        -75.7521124
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Scenic Views",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.9,
+      "ratingCount": 25,
+      "website": "https://www.baymahni.com/",
+      "photoRef": "places/ChIJ2QaSI_WBMYkRqf6KBoXihMQ/photos/AcnlKN2nFaO5pPOofdiLYZGpslAuryIpipqsHrHpXnzbuDcu3LRvvpBnqALfqscyHVe7_KiA-9TwkHNTezI_v5cFCdUxn8ZIgHAZSMdxFnrhXIRYjXmKxdIJF7Vmmx8ak62plZHNxT9QqZtqpmbZQGw7GC2sEVU_j62g7axlB1-TyGM-S5dVh3XFxxmHcHBq3T2BUYyZUM2GXKaaJGYxTBXRWavcKfb-7gl4F6EzlbSxlLn2XcWW91AIgnd-iLez1_sGUMhYOOK5eVRKKSIsDVZKkPRpIWnt7NTrXYlFwibSrRkSzA",
+      "photoAttribution": "Baymahni",
+      "gmapsUrl": "https://maps.google.com/?cid=14160692189327982249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ2QaSI_WBMYkRqf6KBoXihMQ",
+      "address": "Stocking Island, The Bahamas"
+    },
+    {
+      "name": "The Ocean Club, A Four Seasons Resort",
+      "desc": "Luxury beachfront resort, white sand beach, Versailles gardens, iconic movie location",
+      "longDesc": "A cinematic beachfront paradise on Cabbage Beach featuring soft white sand, swaying palms, elegant poolside views, and a stunning Versailles-style garden with historic ruins.",
+      "coord": [
+        25.083445899999997,
+        -77.311358
+      ],
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Family Friendly",
+        "Scenic Views",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 892,
+      "website": "https://www.fourseasons.com/oceanclub/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-boc-hre-mid-seo-na&utm_content=na-na&utm_term=na",
+      "photoRef": "places/ChIJxzEcPad9L4kRSUunoHVeGrY/photos/AcnlKN0lsGsq_fyNdjrFutw0pIrp8V9e0GXeYtp7G9v7xt-RKbGB0mOkAqPCfkInIfK5XuC5LWSb-kUo-59D7Vk2EloGEgIFAQSKWSEJoJxI-0esno2aRK6YKwdHPJS2_vkYGlQHOmt19HePWsEaOWiO0R9a-k9a0Q1UaFQLITWgcYiEmg3Pu83qjYCpAPT3h_B90ZopKH_Wlulph2pnE0xWnn59vi8HQstRRe94z_hvi_L7lvK5GqtNAJZ7QjqyNqquujmcAQA45OwfyDDf4X9ETfHK5CxNjGokUhRBH-Vo1AxdEA",
+      "photoAttribution": "The Ocean Club, A Four Seasons Resort, Bahamas",
+      "gmapsUrl": "https://maps.google.com/?cid=13121904323596864329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJxzEcPad9L4kRSUunoHVeGrY",
+      "address": "Paradise Island, One Ocean Drive, Nassau, The Bahamas"
+    },
+    {
+      "name": "Marina Village at Atlantis",
+      "coord": [
+        25.0828939,
+        -77.31940449999999
+      ],
+      "desc": "All-inclusive beachfront resort, aquariums, water parks, family pools",
+      "longDesc": "Iconic mega-resort combining luxury with unlimited family activities. Kids enjoy aquariums, slides, and beach access while parents relax at world-class amenities.",
+      "gmapsUrl": "https://maps.google.com/?cid=16699565779465289111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Toddler Friendly",
+        "Playgrounds",
+        "Scenic Views",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 292,
+      "photoRef": "places/ChIJnWa6H7t9L4kRlz1MLJnGwOc/photos/AcnlKN3STIdNC9w9hexozzrwRrg8CuUrBA2_uddNGtnoJt6KwJGSRR7r2L2_qGAmM0rdFOwN2wp9WzA8ExbA2oi9l3xbWtdkosKTKRe2_PJjNRwCMKgZbaBAaUSl9o_Dq-Ejf1GYh_cLcVEHZi1TjC0P1pvWC5t6nAvDZE6-s7k5_oYUQRfybXxbnLdSSRTfw_KbkjaiFNO1SN36Gj85zCCvLbtsoB8KsIBhRkZ59bFC1CsN46AYAlNy8uFWmVwIqFKQpddOyAguZm_6PzIc-ypPiHdl_FdOxLm6PaH228HdpueZnPzbTlcTRcTE9MaovDJIGQEQbmKpwvMLSXfIiazqbwkr6bhQJjYCnh7ZXiENTS9ulVP75VbMTbwKeLU_eEs3t9dFfzz73D3mUwckoAale-CKZu_Nb28wCpwOVmPMMcJ1wbn7",
+      "photoAttribution": "Nickie",
+      "placeId": "ChIJnWa6H7t9L4kRlz1MLJnGwOc",
+      "phone": "(954) 809-1209",
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "address": "3MMJ+565 Paradise Island, Nassau, The Bahamas"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Macduff's",
+      "desc": "Historic fishing and yachting bar, legendary 30-year institution, local favorite",
+      "longDesc": "A storied 30-year-old bar and cottages where the fishing and yachting community gathers, offering authentic island hospitality and local character in the Exumas.",
+      "coord": [
+        24.595267399999997,
+        -76.8203365
+      ],
+      "tags": [
+        "Cocktails & Bars",
+        "Local Delicacies",
+        "Casual Eats",
+        "Off-Hours Eats",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 142,
+      "website": "http://macduffscottages.com/",
+      "photoRef": "places/ChIJ-UT9MlfHL4kRsPTc-3Ngs4g/photos/AcnlKN3TJ4GgBoqD5_eJFHlb5tpAmx7jyEkjHYK_9UL2P-8J3Trd39vmvcQ_em_ZwmfV5Sv58uv9tnE1U8r5VJIcI-B9B0XuV62JwscwCQROapTIEr0ZQ8NUYJd4Xi3JMWlY8fyCF0og2CnTmJAZGNcQ6ZhIL0YoKCHd9ARRh_O_2w8C9j2HuUE2asVk48Q6yQyinx-tyvY9J6ad1fxhBpZ4NSTp9IEwQpxf9jXyy00QEhhY7X5rmV6x9abIMBavh6UrTxk9_34h3skJiYfAVvsBObzrPQs1NSGpGY8svF1zDqoxUpjCpbb1VZz5p6tXQOxcgegQKvvBsKju0jzIQoHIOSxGLaiO8Z_kAwdyKAYu-z7sRJhqtkuHHQc7hf8_D3Dm4S0GAntnMa1v08A3Bk0FtTs8mg12EFFya10ZmJOcMUB9dw",
+      "photoAttribution": "Daniel Piraino",
+      "gmapsUrl": "https://maps.google.com/?cid=9850322861252474032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJ-UT9MlfHL4kRsPTc-3Ngs4g",
+      "address": "Norman's Cay, The Bahamas"
+    },
+    {
+      "name": "Rosie's Place",
+      "coord": [
+        27.2193281,
+        -78.3246727
+      ],
+      "desc": "Casual local eatery, authentic Bahamian cuisine, conch salad, friendly service",
+      "longDesc": "Authentic Bahamian flavors in a laid-back setting loved by locals and families. Perfect for discovering true island taste without formality or steep prices.",
+      "gmapsUrl": "https://maps.google.com/?cid=2128107429353062424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Lunch",
+        "Off-Hours Eats"
+      ],
+      "rating": 4.3,
+      "ratingCount": 76,
+      "photoRef": "places/ChIJpaGDte0SIYkRGIB1im6OiB0/photos/AcnlKN3ubNxTufMruZzkvOmZOpNDdYl_WWv9iPP_LVUqIMSxb6j8A_3BQnqMxQBIaM8Y7u-VaqoXOoh7eSDOE9oStSDfgw5JUJn4-pRKpUA0JCeQ_3WkqCLSxC4nMI-LsL2rngg3iWyKMP8vqB8s9GR2RJsKk2RqXt_65gglEBkldkK9-qdJzW_mOKbPdBA2wdcu5hDk9vR6teK0v3tVP_JfLoHshxzrr1KRhqB1o2BpoHm8tvmSS6vKIz9Cgx6avTvhu9UBk-Hgv2elHT_3SkAz83A-9l9RC72uQ2yj-1urZgjSr2bxr4vw9EGpPz2Zn02nsYEJ7XoiAqlwY8Q5sBxfkXiKFLKn_sEACX5pBvBu8jYs8J-SYYyR3j4ZZimK55odROXk4-CkN5wXp8Fa7iMQrDNMl1ZSFl50Clk14j0bthIcId_Z",
+      "photoAttribution": "Alexandru Tinta",
+      "placeId": "ChIJpaGDte0SIYkRGIB1im6OiB0",
+      "phone": "(242) 727-6051",
+      "address": "The Bahamas"
+    },
+    {
+      "name": "Graycliff Restaurant",
+      "coord": [
+        25.075845899999997,
+        -77.3455566
+      ],
+      "desc": "Fine dining in historic mansion, gourmet cuisine, extensive wine cellar, elegant ambiance",
+      "longDesc": "Award-winning restaurant in a restored colonial mansion offering refined international cuisine. Sophisticated dining experience for special family celebrations and memorable evenings.",
+      "gmapsUrl": "https://maps.google.com/?cid=2924577109542938637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Dinner",
+        "Cultural & Historical",
+        "Reservations Recommended"
+      ],
+      "rating": 4.1,
+      "ratingCount": 153,
+      "website": "http://www.graycliff.com/dining/",
+      "photoRef": "places/ChIJK2glpKl9L4kRDaiL1GIvlig/photos/AcnlKN1r1Ty22yw8EATDcorUlm4Ur9b9YxaoKfg9UkHRGpz0SP1OIAf2Yf7NsxqqGnhgkRBjD4lXxXMAlhpG2UKobA-gUKVNojWzwpzlL5SJUXLDjRG7-ft65GO29JBZn2QwElyxxT4aLNhoUNQCXFPOotcDqwe5uwoXv-URiRaoeMLxIxyBHFCIJ3C_kPDE0faTFNiXpkcwrVLVULSa-4fNAEeCFucho0tmb03DITUX1BeTmWIkskJyBhLpJV8NLYpYi2zlOHnt6ll_tD37a2pR_mKhZeQtBNaOK-ow-quTJ6bQQg",
+      "photoAttribution": "Graycliff Restaurant",
+      "placeId": "ChIJK2glpKl9L4kRDaiL1GIvlig",
+      "phone": "(242) 302-9150",
+      "hours": [
+        "Monday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Tuesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Thursday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Friday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Sunday: 12:00 – 3:00 PM, 6:00 – 10:00 PM"
+      ],
+      "address": "W Hill St, Nassau, The Bahamas",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Café Matisse",
+      "coord": [
+        25.0768698,
+        -77.3401399
+      ],
+      "desc": "Upscale Italian restaurant in Nassau with courtyard dining",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5197995698213720764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Local Delicacies",
+        "Photography Worthy"
+      ],
+      "rating": 4.7,
+      "ratingCount": 561,
+      "website": "https://cafematisse.rest/",
+      "photoRef": "places/ChIJk3LHjTR9L4kRvJIJIIz9Ikg/photos/AcnlKN2_ofphlYId353QzjjuehhyAETHHGVOpEk__L1UX2Gy5oMHLxg0ErP3K5misGUjN76R8vSl9wNvQM7_WXYFpDenkfzNPaTaLFMIkiEyM0flG6IopCBg7fxTGlI9jkO-_kHwRC8KfYTaYk94pOJvfaOMyO8m8h6Z_L54XGj0wefZyO-6tdtXXBRDRHjbHtpJQs0ebvrsbyR5gaOkOafu4Kdtdx1o7v5SUlP-aS0MYNiCjh7bxVymB1S5bF8N8oSjIkPerPwb6V99DzjHOB7K6MTqai-cb80J3UI-xiRnUfdD8w",
+      "photoAttribution": "Café Matisse",
+      "placeId": "ChIJk3LHjTR9L4kRvJIJIIz9Ikg",
+      "phone": "(242) 356-7012",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Thursday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Friday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Bank Lane, Nassau, The Bahamas"
+    },
+    {
+      "name": "Nobu",
+      "coord": [
+        25.083554,
+        -77.321365
+      ],
+      "desc": "Japanese fusion with ocean views and kid-friendly menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5709507217230268333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Scenic Views",
+        "Good for Dinner"
+      ],
+      "rating": 3.8,
+      "ratingCount": 1106,
+      "website": "https://www.atlantisbahamas.com/dining/finedining/nobu",
+      "photoRef": "places/ChIJ0Z3Zyrp9L4kRrQeKVZA-PE8/photos/AcnlKN0ETwV_QhtNXLyRpuNXq9rhRnnHi3hvSVXCphnKHPMudinGQXoll3MS5slUIMPbWW9yYHrEnk1hRkXzYskQeFaT9K-Ya2CayD9KFrcs52xdDrL1z4IgjdzRabLs9lcAsVHK_nlbMmaPVQBHXAQXUEXFeNeF04eXnuiAPYYjGOAFQNdbE0_Z7i2JstfI8HZ7oMsKZDegSdqWUnc2-Erxkz-2OCpWOaGBKsqFcYxNFoWoMm4woKbj1V-9hjsw7QTxu7Cpmqt6fTICs7xZC1uGpCXHcgz06sTqZ2GwM_92rewS1A",
+      "photoAttribution": "Nobu",
+      "placeId": "ChIJ0Z3Zyrp9L4kRrQeKVZA-PE8",
+      "phone": "(242) 363-2000",
+      "hours": [
+        "Monday: 5:30 – 11:00 PM",
+        "Tuesday: 5:30 – 11:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 5:30 – 11:00 PM",
+        "Friday: 5:30 – 11:00 PM",
+        "Saturday: 5:30 – 11:00 PM",
+        "Sunday: 5:30 – 11:00 PM"
+      ],
+      "address": "One Casino Drive, Suite 13, Paradise Island, The Bahamas",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Twin Brothers",
+      "coord": [
+        25.0799068,
+        -77.35839279999999
+      ],
+      "desc": "Family-run Bahamian soul food spot famous for cracked conch and mac and cheese",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17440443867170805289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Local Delicacies",
+        "Hidden Gem"
+      ],
+      "rating": 4,
+      "ratingCount": 5702,
+      "website": "https://twinbrothersbahamas.com/",
+      "photoRef": "places/ChIJ22rqUid9L4kRKRbbM0vnCPI/photos/AcnlKN0i-1bs6X99vythtIEG7SBrTqRji9mgKiP8RXi7q_pupJ8Kuz-TOWuX51nVPf1DqDSnWGtGz7z5Jzuz7h1dw3Ucx3iptjBUJ1Tk8gLcYfF3JgBgiHZ0HYrqw256cLbZTIWfHMC1S4NwnWuV0YJcEi8OAUeukj8gw6_WTJmyYSoKjzsLJR0CTtGEjuSfW-WlaFxKtzyQMnLyh_RB8T5qsXXf-eIzpvrQL0sz_4XBqOshK49oXgTFF-QCjIqG-m4JTC_SNtyIa_FFj8dkIfWifCdDygWI9bLKl0dj23GYSBkQsKaFbwrN0RP2JN9H7DlpR4gSXysunGy6avS_JYTMcf8bWNnnLDE-iEOYZSLTtR3o_qFgMn0iABem8nTqlfcmlio9vUEryg7xsDoEs0VHr4LwST-wUeznbbY0l3dSk3zTn1ml2_NM4843EAQiZdZu",
+      "photoAttribution": "Lisy Crespo",
+      "placeId": "ChIJ22rqUid9L4kRKRbbM0vnCPI",
+      "phone": "(242) 328-5033",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "address": "Nassau, The Bahamas",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Rock House Hotel and Restaurant",
+      "coord": [
+        25.4991786,
+        -76.63672369999999
+      ],
+      "desc": "Waterfront dining with Caribbean-Asian fusion and stunning harbor views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18384971920211000313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 160,
+      "website": "http://www.rockhousebahamas.com/",
+      "photoRef": "places/ChIJF9h5i143JYkR-Tu1vY2KJP8/photos/AcnlKN3t3gInb2bFBav_MgVKlR6XrOgxaPIrGtcK1GFU1lHSYunbMHx5EbOaKAcV9x45GmM0jsqZ0v1BeBhkmzpXOHCMyxpQH1D2QAHTKqx2WptvYkzpczXOLm5DKHtI1Ud7TG7jbkQ4Tj3KCor5bjy_OtOP5dL21kJEDDkid-g6aCD3p9wbHRyN2w0OJdHU5B6vW02jyeMVkTZv5C9gXNMSZ3rBk9olyCnCiFDiCbl7QiTnLX9_dMwHKl6T5TjuTa17tf60NZzNDTpCjW3Umcrf6Tfs1P3v-8q-Buij7GHXFCNwUw",
+      "photoAttribution": "Rock House Hotel and Restaurant",
+      "placeId": "ChIJF9h5i143JYkR-Tu1vY2KJP8",
+      "phone": "(305) 433-2024",
+      "address": "Bay Street, Dunmore Town, The Bahamas"
+    },
+    {
+      "name": "Sip Sip Restaurant",
+      "coord": [
+        25.5010162,
+        -76.6322775
+      ],
+      "desc": "Charming beachside cafe with fresh seafood, colorful decor, and family-friendly vibe",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15917016229563430106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Beach",
+        "Photography Worthy"
+      ],
+      "rating": 4.8,
+      "ratingCount": 44,
+      "website": "https://www.sipsiprestaurant.com/",
+      "photoRef": "places/ChIJDXoHaPg3JYkR2nRBx-2Z5Nw/photos/AcnlKN3rMR6_W3nVkmTBuAS53AJnHCYnMVA3hos1e_IwTiNeCwyyZmE_qGcZfQ7KRqZjDcBsxz4wdZeO1Bu2sweFeq_t7BWjDrwxv-okk5ZB1mBPi2v4BMokeLlO1ZgVk5EfGxk5yYZuKHAUjcVqRA-cUwJxPGKKbmJYa8nAvOD9JLZtaNtCHOzalmaLXG62j2RZx2yBSA_3uizEisyND9Oy5mtUApIIF6IxWp0bYRnkuQKuILDnW4HDWAUlV17GodOHsUtwtKeEDBxCEfqf2HhABkxHxJ-GJK3DVmlgpZFreP4TvbP0uQMNywKSmsjIRSwh2jBNLNc1PxaQ757EcJx9oXuKkF7m_hXKR_SHW_yi6ucq4q0usL0aScsE_a1eaHYdaQDgbxRJP6Vbop2sKzWzM7gGdmeXgAsDZ5N7EeevgWH5bLgm",
+      "photoAttribution": "François Valin",
+      "placeId": "ChIJDXoHaPg3JYkR2nRBx-2Z5Nw",
+      "phone": "(242) 333-3316",
+      "hours": [
+        "Monday: 11:30 AM – 4:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 11:30 AM – 4:00 PM",
+        "Thursday: 11:30 AM – 4:00 PM",
+        "Friday: 11:30 AM – 4:00 PM",
+        "Saturday: 11:30 AM – 4:00 PM",
+        "Sunday: 11:30 AM – 4:00 PM"
+      ],
+      "address": "G929+C35, Dunmore Town, The Bahamas"
+    },
+    {
+      "name": "The Landing Hotel & Restaurant",
+      "coord": [
+        25.499913499999998,
+        -76.6368487
+      ],
+      "desc": "Elegant harborfront restaurant with farm-to-table cuisine in historic setting",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14741167818048366392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Local Delicacies",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 114,
+      "website": "https://harbourislandlanding.com/",
+      "photoRef": "places/ChIJjUNjlF43JYkROGcxSQcmk8w/photos/AcnlKN1zjQbn2VC4F-jgcLFyNOhl4h2FI2QkMbbwMDBETWV_3CmJupDUlu_Gi6U80qNXIBshjMPaRNatqmLFQDP6fGCtzgpIVMXViDrp4nuQR55ggZi6hGkqe8tIjsLlx0wSz39-qhbzmRCIlxiRbgIs4heB7KWuF8KGDCEV5kaGvFkyQBEguu4OGC4rKpVUiliysliWpkUpZsnLQ-dVPlWutPI1_rKd5UOJuMeE48RaZbZDBYgFvOcZeAKwKwo1HMZQ1U_NTEpPXIK3bVUrc_i4ZSkriP66KjNEj2bnSQggrDD-mORqTKKZhTzEPp8dhIaaIRKa8oqO5z788b8eQDLqT8zvW2Mlu6tdNNW_00FtVxGJA3B00q0h-6TW52YyY4Bzsjqz0rEcZq-ZAQ4evQZFviudOdOeeQCaDYc8uFAyKNEjLcY",
+      "photoAttribution": "Araceli Alvarado",
+      "placeId": "ChIJjUNjlF43JYkROGcxSQcmk8w",
+      "phone": "(242) 333-2707",
+      "hours": [
+        "Monday: 8:00 – 11:00 AM, 6:00 – 10:00 PM",
+        "Tuesday: 8:00 – 11:00 AM, 6:00 – 10:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 8:00 – 11:00 AM, 6:00 – 10:00 PM",
+        "Friday: 8:00 – 11:00 AM, 6:00 – 10:00 PM",
+        "Saturday: 8:00 – 11:00 AM, 6:00 – 10:00 PM",
+        "Sunday: 8:00 AM – 12:00 PM, 6:00 – 10:00 PM"
+      ],
+      "address": "Bay Street, Dunmore Town, The Bahamas"
+    },
+    {
+      "name": "Acquapazza Wine Bar & Ristorante",
+      "coord": [
+        25.5061441,
+        -76.6347582
+      ],
+      "desc": "Upscale Italian restaurant in Harbour Island with waterfront views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11521090269060762604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 4.5,
+      "ratingCount": 172,
+      "website": "https://www.acquapazzabahamas.net/menu",
+      "photoRef": "places/ChIJyaNB7l43JYkR7IuT8I4i458/photos/AcnlKN1_VXLILLXk3jvSLSyZWaCPqos0MtAyLIhvbkR6dLV2je3DOW5MOfgs7aZTi3d2sV54IlfVKSYIdiolSN_-iCJrucKjESI91oiiAFnhlzXQO5w7W_IETA7WPkHxXoLHxHFMM3xdNVffjolX-l_JneasHPbS48ukT1HljFqbGObP8Xau8oZCm8xV_6ENPVEbg_wu6XSy_6IF0yLHJpoE628ggNxou6j-M1OcYoWo101I1NWU-95jDp1ZMrcjIB6gml0OdIjeQCTQFQ7eLeX0W4Nt3N3K2AdTlw2kUJ_FP4NpXQ",
+      "photoAttribution": "Acquapazza Wine Bar & Ristorante",
+      "placeId": "ChIJyaNB7l43JYkR7IuT8I4i458",
+      "phone": "(242) 333-3240",
+      "hours": [
+        "Monday: 11:30 AM – 9:30 PM",
+        "Tuesday: 11:30 AM – 9:30 PM",
+        "Wednesday: 11:30 AM – 9:30 PM",
+        "Thursday: 11:30 AM – 9:30 PM",
+        "Friday: 11:30 AM – 9:30 PM",
+        "Saturday: 11:30 AM – 9:30 PM",
+        "Sunday: 11:30 AM – 9:30 PM"
+      ],
+      "address": "Nesbitt Street (at the former Baretta's Hotel, Dunmore Town, The Bahamas",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Queen Conch",
+      "coord": [
+        25.5033423,
+        -76.639415
+      ],
+      "desc": "Local seafood spot serving conch salad and Bahamian dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8531119637685506324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Hidden Gem"
+      ],
+      "rating": 4.2,
+      "ratingCount": 207,
+      "photoRef": "places/ChIJG6mTz1g3JYkRFJGaVBygZHY/photos/AcnlKN3bDGAd3sBiUJYP1cusvq0KwUYFphjOGB181tJAVILEJE7YENCcfwkbGbby3Uk211xkT9gaCWNZ4jouYYrHQkMqWWFzBY461z6eucjfI0aT188q7x8_NjUpgtfJA87I84zAmBW-XpUBbhwKtGpneRMaxh2QPARDpvV0I9VfXrDSTWbxrX9Odk-TiPMz7Gt2M9mzey6S2i8zi9NWWtSjyO0r148oAHA3tbF8Qv-yPu7QOEFqekQudZVHnKXdI4HhycbdT4dWtYEwrnvCdWFqNk_QI5DcjlDiU0dVxc6AWzsSZRNH1wdY8yWtrKLJmg_V0heU7c0R1PGeH5GiUXLS4Q4bENJ4kMMKz4gtnQtx61T5z2Krj8bkNh3B2aYYJCAO9A5qH3ToI3BGoN3eC7mZmbzCrJ9HO6NQhZaXfl9_byN8AuYh",
+      "photoAttribution": "Kyle Davis",
+      "placeId": "ChIJG6mTz1g3JYkRFJGaVBygZHY",
+      "phone": "(242) 333-3811",
+      "hours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "G936+86P, Bay Street, Dunmore Town, The Bahamas",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Marina Pizzeria",
+      "coord": [
+        25.083412,
+        -77.320134
+      ],
+      "desc": "Casual waterfront pizza spot at Atlantis Marina Village",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4498116994551108671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Family Friendly"
+      ],
+      "rating": 3.9,
+      "ratingCount": 323,
+      "website": "https://www.atlantisbahamas.com/dining/casualdining/marina-pizzeria",
+      "photoRef": "places/ChIJE_jYJbt9L4kRP9RdEpOFbD4/photos/AcnlKN1ne0L4GXgf7ytKGJfiBn6Z3zKnchvoSgVe6LLNm6hRHr84sJjZpOq7Xjq6fNxO7cMR6oC_yFhKRWD8jJJ4GNFKCQ_C8l8wyqpndeXsZIop95Ddm89KFIvvWpLQuyf_Ab5W1vqoGsRcmkRnvNzvoWDRIbvr9K7nZDKu9jhbWJzlabvUK-t-oD8WsFYfoEKPw0V41qylSxCpyfYyhE3HydUvpXx6UCaZQbl7GoGdLQOBg0ZODNY45gFy6gcQ0AMvKDQUkIuYBPqqaJ6-Nq9d3avg3gAR2EoD-urzcTlSe1Rn-A",
+      "photoAttribution": "Marina Pizzeria",
+      "placeId": "ChIJE_jYJbt9L4kRP9RdEpOFbD4",
+      "phone": "(242) 363-3000",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "address": "One Casino Drive, Suite 31, Paradise Island, The Bahamas"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Pink Sands Beach",
+      "desc": "Iconic naturally pink sand beach, Instagram-famous, pristine and secluded",
+      "longDesc": "Harbour Island's legendary naturally pink beach, famous long before Instagram. The unique coral sand creates a stunning rose-hued shoreline that remains quietly iconic and unapologetically beautiful.",
+      "coord": [
+        25.5070092,
+        -76.6321214
+      ],
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Beach"
+      ],
+      "rating": 4.7,
+      "ratingCount": 156,
+      "website": "https://www.pandotrip.com/the-unique-pink-sands-beach-in-harbour-island-the-bahamas-17855/",
+      "photoRef": "places/ChIJpdeyg1o3JYkRr8FV4EF-UQ0/photos/AcnlKN1iTRUPWycsR2iCqkmRa4AG1pvKcJZDCLSdsCX7BKDVZqT827HKjn3B87b7_1FntfZOMHQMwQruZPkw_8AWfgKSSl3Ee4aVNqVoJBAwnhG1z7QXYYYJcPWLjyjce2XNKC-FcPaoLBLXYgrNleLb4U-SN9Oh0muFj4JAG-SYRK_pOkUW7dTCn7cuXvCHyQgd4bBEmdiBXvXp5Ui9i4edgOo_vVs4McuGb-1pWjrQ6bLrwl9KT6NMHUWnhl1Ok4E9QdLyTSx7Ht79CfUzaQ4-vWoJzaGaR-U6AuZJzQL2SxcIc_eK46yJiFckK7YTu3wka7wQ6VLnr1AeU-7_sDvrKn4rcj8Y-8ZKiREAp-8q70ypnnA4L7dQtjekkzVkfa1HM0QthrEvvVdnMmJ-qOpz_6PIWauhA3FnM6XxGIDoq3JoaqNv",
+      "photoAttribution": "Randolfo Santos ·",
+      "gmapsUrl": "https://maps.google.com/?cid=959687017008316847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJpdeyg1o3JYkRr8FV4EF-UQ0",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Isla Harbour, The Bahamas"
+    },
+    {
+      "name": "Cabbage Beach",
+      "desc": "Pristine white sand beach, palm trees, soft sand, turquoise waters",
+      "longDesc": "A stunning stretch of powdery white sand and swaying palms, home to The Ocean Club resort and a perfect Caribbean beach experience.",
+      "coord": [
+        25.0846108,
+        -77.30690720000001
+      ],
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Beach"
+      ],
+      "rating": 4.5,
+      "ratingCount": 788,
+      "website": "http://www.bahamas.com/vendor/cabbage-beach",
+      "photoRef": "places/ChIJLcXyKsF9L4kRlgZwa9aHmj8/photos/AcnlKN3fqn6IKMB3PQtU8vj8v-X2L-_TjR02AbZMGCENznEYnDcMQ3VrguPtrK8Tizr3V-ZHG5Vo0gelb3ifV2HTGT06PYy7l5lu3kc-dKibm2So7-sGTQJooDHoPBt3fZti4oYtbOCItCmquglEv3kuBeOA8JVCJGTdWI4mygj_7AXi3oFJWufX_VX1E8k9byhmzUREC7hiYvGkzrBNFZnfewFyo--9nIRm_VGsiICkwC61KmsuAQ3SqByPMMNlwyr9BgEL_w5e3q-V81VDAOH0Hcj9geiqy1wTVPRkUzNbpG_ZT2EVYIQC6ZOPscu4ME--cUSxeDKMi6GY7fPBsMX8oFWZGeZ9A-seDKx2dG1U8xQgEq9bSgiqYN5GwGAT4sE2KcRb4QJYxgq-sjXdmF6_omNlfgOdgkFJKpgH0gD6If91FQ",
+      "photoAttribution": "Sedrick Longpre perreault",
+      "gmapsUrl": "https://maps.google.com/?cid=4583124925798155926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJLcXyKsF9L4kRlgZwa9aHmj8",
+      "address": "Cabbage Beach, The Bahamas"
+    },
+    {
+      "name": "Blue Lagoon Island Bahamas",
+      "coord": [
+        25.098983699999998,
+        -77.26844559999999
+      ],
+      "desc": "Private island adventure, dolphin encounters, zip-lining, beach activities",
+      "longDesc": "Thrilling day-trip destination offering dolphin swimming, ziplines, and pristine beaches. Perfect for families seeking memorable interactions with marine life.",
+      "gmapsUrl": "https://maps.google.com/?cid=16470363195702346375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Toddler Friendly",
+        "Photography Worthy",
+        "Playgrounds",
+        "Beach",
+        "Full-Day Activity"
+      ],
+      "rating": 4.5,
+      "ratingCount": 4218,
+      "website": "https://www.dolphinencounters.com/",
+      "photoRef": "places/ChIJiwtEXHp9L4kRh4KBERB8kuQ/photos/AcnlKN33_tFRfa1g5VnSZ3ayNNrZcfVzAQHLGg2n6wHZGKGv7qRqSSXuWSaLnP3ATJ71G08azeJhNSw5vP27gP4EcESlWSsADrshcrKUFzDuK5D1h67th15AYMu7Uq4w16gxydGaWtBRel1400iEX7KE5nLMtM5pTxjCIm7xqo6Y5k6WUJLS1DTddqY-F94wI4rHysiCh9_aWRs-0ZoX61BSvsA0MTxHG3syylvLm5AnSihEELCH3WRA0CTajfC2EY6UQvmRxLBqQMooQxEN52oYb1hiUc1rVo_5IEP1u0yG0QwapA",
+      "photoAttribution": "Blue Lagoon Island Bahamas",
+      "placeId": "ChIJiwtEXHp9L4kRh4KBERB8kuQ",
+      "phone": "(242) 363-1003",
+      "hours": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "address": "One Marina Drive, Paradise Island Ferry Terminal, Nassau, The Bahamas"
+    },
+    {
+      "name": "Exuma Cays Land and Sea Park Visitor Center",
+      "coord": [
+        24.3934947,
+        -76.6317303
+      ],
+      "desc": "Protected marine park, snorkeling, swimming with pigs, pristine beaches, coral reefs",
+      "longDesc": "Iconic nature reserve featuring the famous swimming pigs and stunning coral gardens. Families encounter unique wildlife and crystal-clear waters in an unspoiled paradise setting.",
+      "gmapsUrl": "https://maps.google.com/?cid=171212582489528749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Beach",
+        "Full-Day Activity"
+      ],
+      "rating": 4.9,
+      "ratingCount": 117,
+      "website": "https://bnt.bs/explore/exuma/exuma-cays-land-sea-park/",
+      "photoRef": "places/ChIJ8fCSBQXSL4kRrZldyO9EYAI/photos/AcnlKN1AI-YOkdANKGnLFXUYFbd6AolTerchaYz8n76pPuZWGmsQfTGbbSD7hF7h9lHYcIkrKvX6gckzUnDd-vRwojQxFaQF-k0CpdL7lplpptEAX09M-sGaM51ABi8za4hNKMmFqaX42O-m0PlQxphJ7Oy78hgTc38xaGZOVmTt9nzj2GlnROT7biptSsKSaOT5WH79vfUve4ZvrNAFxUMbM-0xt7lTaQ0QWVEFxGxOkUw9UWKGe1fs8tKIqRY5Fcxm4FPX2Nohlrq2p4QvPu2E1vTSjHOEANbeJ3CD01sbXgGtEE6Degi9D08qaAvVTSFH-ROM2TTB0k__MKtxgwrFgopOOIVVOYTaQgOGi8HWYnaliX8Gs1fODPTr2lztRKIGrYfOP-daGStCr-M2vPcW_gpC1USRJUQwWyeAP7_h3Y0Cmqo",
+      "photoAttribution": "Mike Rhine",
+      "placeId": "ChIJ8fCSBQXSL4kRrZldyO9EYAI",
+      "phone": "(242) 601-7438",
+      "hours": [
+        "Monday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM",
+        "Tuesday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM",
+        "Wednesday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM",
+        "Thursday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM",
+        "Friday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM",
+        "Saturday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM",
+        "Sunday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM"
+      ],
+      "address": "Warderick Wells, The Bahamas"
+    },
+    {
+      "name": "Aquaventure",
+      "coord": [
+        25.0861916,
+        -77.32375139999999
+      ],
+      "desc": "Water park with slides, lazy river, and marine habitats at Atlantis Resort",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10308445399886253413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Full-Day Activity",
+        "Toddler Friendly"
+      ],
+      "rating": 4.4,
+      "ratingCount": 937,
+      "website": "http://www.atlantisbahamas.com/thingstodo/waterpark?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+      "photoRef": "places/ChIJy_XvoaR9L4kRZc26hnn0Do8/photos/AcnlKN1s3pPe3zu80_nnA3kkfXcQfCE84D9FI9nrLKUw_ZLgOmh4eoLDMMusWT6fLDY5ibG5beeOs2p1auYkofFBqIAK1YZBH7V9QMN8rt5qIEFSa4Riq54dnOFiDNKTrrxQNah6gJI82c82ImGAXmW5T5QgTlWp9hLeiI1IvrrifKzykdaZNtqmQstlJSR_0O9Pe8BvRi6QE_rN95AUp6GTEOlXFQgZAJAXo5KpLkzTrrGq593y3jfN2iHSHSsCCQ-BomHTE4cLYZ2kMdEyodHv6NlLJibTIsYQ8fjYPR48cM8TysF7QM_EF-0j3XST9IiZrJM0CFZIkwTE642NSpH2xX-MUaYGO6wopSVUs5RPGI3Rop6yvMDnPeyvrs9TDB0h3aWmRtEWKYpuYJeJN-qx48ZujGUJuBWc2rnJfQhIJxJUKtPZ",
+      "photoAttribution": "Heather Gillis",
+      "placeId": "ChIJy_XvoaR9L4kRZc26hnn0Do8",
+      "phone": "(242) 363-3000",
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "One Casino Drive, Suite 42, Paradise Island, The Bahamas"
+    },
+    {
+      "name": "St. John’s Anglican Church",
+      "coord": [
+        25.5000862,
+        -76.6358352
+      ],
+      "desc": "Historic 1768 church in Dunmore Town with beautiful architecture",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15541424677160467973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.5,
+      "ratingCount": 2,
+      "photoRef": "places/ChIJtxnap7Y3JYkRBb6j4WY7rtc/photos/AcnlKN0I-DPp16-J-KT7IjyNayfRD98bBsrC4-FceSuxrNr7bH2QNrz5ndzbi9P4ovRiWPfeefuvCQWOX2nGmIGPRB6z2g-TA2uLomMZIL6wBtwgFK6EfA_Tu11JBDeXKsb8yOozKTEMKi7bMBDp0O8EIpLZo961RsBOTamMfBo8-pOL8oM4pu8zcLD43RAvKYquSopdokSgHwMlDmZjqvK9jkZBaGWrCp-aPYaudb9Bm5U60oOZrt7HWnuElz5Xr4bZgV7wXxD-Pz0GT_VSSoAN387w9CDq-BQjUuYcJGMkE5KsYa9PXL6j43TFEocf4vuEFTwVkMHygdZ3c9DPM09qKcrHCbBP-ArU5rU5lXb4AWR_H-yZoyY_vJ3WIvy_92rkw1QtDT-Pq2V0JInJipurUTm1fP-7TWzZS62hqJT2Qztz_A",
+      "photoAttribution": "B. Travis Fernander",
+      "placeId": "ChIJtxnap7Y3JYkRBb6j4WY7rtc",
+      "address": "G927+2MM, Dunmore Town, The Bahamas"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Junkanoo Beach",
+      "coord": [
+        25.0794823,
+        -77.34803079999999
+      ],
+      "desc": "Family beach, calm waters, shallow areas, beach bars, colorful atmosphere",
+      "longDesc": "Vibrant beach ideal for young swimmers with calm, shallow turquoise waters and nearby amenities. Named after famous Bahamian festival with energetic island vibe.",
+      "gmapsUrl": "https://maps.google.com/?cid=8324915800868162953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Beach",
+        "Good for Groups"
+      ],
+      "rating": 4.2,
+      "ratingCount": 1821,
+      "photoRef": "places/ChIJI78rIXZ9L4kRiY3IR9AKiHM/photos/AcnlKN2ZPYu3rNlJ774mTRPOJxUh2czniutbFxlDTS4m1lzVJ1hnAAkvyG674_gzf4ueOJpWU9nahdd-yBaMgYpdx2V_o9aq9-zaUk4Ct35s0ZuRcADS5PgIavOkZqyKbaBChEmr4gwfl0ALJRAWNBKw5kjej-3b47iD0PqU22dIklZOkYPAXQo4x0BWH4Zi_JXLT6uZzr4mG7bXRzcjT38MhmLklBJdPSuBKxZp4_-4wGmKrdpwDZNvq-LUIMXED7CjuvI5XgpluzQCmsNL2BXRTt4HWIJKd6fdPzgYf60dNb9tD76RNOvMGicBUF3XW3GmEMqctugyARHsSuhWlxYfuIriavuRhSD9ZxECjZ1u6brz27ALqShcW5LGXE0eV7snD67-sYFQQYHnbSDrKFaf0LmR3S_k_8Nz3RMKarLEedAD_R5O",
+      "photoAttribution": "Sara N",
+      "placeId": "ChIJI78rIXZ9L4kRiY3IR9AKiHM",
+      "phone": "(242) 395-1007",
+      "address": "Nassau, The Bahamas"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Nassau Straw Market",
+      "coord": [
+        25.078275800000004,
+        -77.34340499999999
+      ],
+      "desc": "Historic market, handmade crafts, local souvenirs, colorful woven goods",
+      "longDesc": "Vibrant marketplace showcasing authentic Bahamian handcrafts and souvenirs. Families browse woven baskets, artwork, and local treasures in an engaging cultural setting.",
+      "gmapsUrl": "https://maps.google.com/?cid=7045120526637742829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Shopping",
+        "Cultural & Historical",
+        "Market / Street Food"
+      ],
+      "rating": 4,
+      "ratingCount": 8721,
+      "website": "https://www.nassauparadiseisland.com/experiences/straw-market",
+      "photoRef": "places/ChIJz5MLFCFjL4kR7ToO1spLxWE/photos/AcnlKN1jLriF-1RxiulxRcaat-nrowPOjSvjjvNJjyBxT5FpuYw8YsCEEzEJCASdJ3Uj4-odhZjrFjHI3AzZhkJfJfPEkaqg-bZJuTXUu1tCBKvl_LJurWzPw7smvpeTuXozEu0L9WqLOJJ5RT_FayNARhSBZ5QgxqiG989aj-sIMzcH9t6Q0t1M8b5LLn4thmjpV4NIkxWwiJheZVPdQkCYVbeHMu0MD06-EbR3hW4_MCJDsjfH2pgeiq9RyxK9ph5Hygj8AYIlc_EcziT2Ll8xsZnmC2c1ZuH0hqhyJyqcd9rQvmBRFFLtfUPDbA0YHSdiCio5yzmvIvz-vCde86q-0CtcC9skiaaMXbeR1IUVv7YHc52nAcepU4INjiQEP1O4hhns4txTYgXV_TUUcr0VNhhP_oCF7RhNq8QfrW1GNCSb5VhLgUdV1x8Zlf3Hiw",
+      "photoAttribution": "Kamini Brignoni",
+      "placeId": "ChIJz5MLFCFjL4kR7ToO1spLxWE",
+      "phone": "(242) 363-2000",
+      "hours": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 5:00 PM",
+        "Saturday: 7:30 AM – 5:00 PM",
+        "Sunday: 7:30 AM – 5:00 PM"
+      ],
+      "address": "3MH4+8J9, Bay St, Nassau, The Bahamas"
+    }
+  ],
   "cityCenters": {
     "Exuma": [
       23.8927,
@@ -43,5 +966,327 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Bahamas Family Island Adventure (7 Days)",
+      "description": "Discover the Bahamas' most magical family moments—from swimming with dolphins and meeting friendly stingrays to playing on pink sand beaches and splashing in world-class water parks.",
+      "familyFriendly": true,
+      "duration": 7,
+      "bases": [
+        "Nassau/Paradise Island",
+        "Harbour Island"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Nassau",
+          "dayType": "urban",
+          "base": "Nassau/Paradise Island",
+          "items": [
+            {
+              "name": "The Ocean Club, A Four Seasons Resort",
+              "type": "hotel",
+              "coord": [
+                25.083445899999997,
+                -77.311358
+              ]
+            },
+            {
+              "name": "Café Matisse",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale Italian restaurant in Nassau with courtyard dining",
+              "suggestedCity": "Nassau"
+            },
+            {
+              "name": "Hotel check-in and pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Junkanoo Beach",
+              "type": "beach",
+              "coord": [
+                25.0794823,
+                -77.34803079999999
+              ]
+            },
+            {
+              "name": "Graycliff Restaurant",
+              "type": "dinner",
+              "coord": [
+                25.075845899999997,
+                -77.3455566
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Blue Lagoon Island Adventure",
+          "dayType": "urban",
+          "base": "Nassau/Paradise Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Blue Lagoon Island Bahamas",
+              "type": "sightseeing",
+              "coord": [
+                25.098983699999998,
+                -77.26844559999999
+              ]
+            },
+            {
+              "name": "Lunch at Blue Lagoon Island",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Island buffet with grilled seafood and Bahamian specialties at the beach pavilion",
+              "suggestedCity": "Nassau"
+            },
+            {
+              "name": "Afternoon pool and beach time at hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Luciano's of Chicago",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale Italian steakhouse at Marina Village with family-friendly atmosphere",
+              "suggestedCity": "Paradise Island"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Atlantis Aquaventure Day",
+          "dayType": "urban",
+          "base": "Nassau/Paradise Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Marina Village at Atlantis",
+              "type": "sightseeing",
+              "coord": [
+                25.0828939,
+                -77.31940449999999
+              ]
+            },
+            {
+              "name": "Aquaventure at Atlantis Paradise Island",
+              "type": "kidFriendly",
+              "suggested": true,
+              "suggestedCategory": "attractions",
+              "suggestedDesc": "Water park with slides, lazy river, and marine habitats at Atlantis Resort",
+              "suggestedCity": "Paradise Island"
+            },
+            {
+              "name": "Marina Pizzeria",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual waterfront pizza spot at Atlantis Marina Village",
+              "suggestedCity": "Paradise Island"
+            },
+            {
+              "name": "Continue Atlantis exploration",
+              "type": "freeTime"
+            },
+            {
+              "name": "Nobu at Atlantis",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Japanese fusion with ocean views and kid-friendly menu",
+              "suggestedCity": "Paradise Island"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Nassau Culture & Transit to Harbour Island",
+          "dayType": "urban",
+          "base": "Nassau/Paradise Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Nassau Straw Market",
+              "type": "markets",
+              "coord": [
+                25.078275800000004,
+                -77.34340499999999
+              ]
+            },
+            {
+              "name": "Twin Brothers",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-run Bahamian soul food spot famous for cracked conch and mac and cheese",
+              "suggestedCity": "Nassau"
+            },
+            {
+              "name": "Transit to Harbour Island",
+              "type": "info"
+            },
+            {
+              "name": "The Dunmore, Harbour Island",
+              "type": "hotel",
+              "coord": [
+                25.501815699999998,
+                -76.6332439
+              ]
+            },
+            {
+              "name": "Rock House Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Waterfront dining with Caribbean-Asian fusion and stunning harbor views",
+              "suggestedCity": "Harbour Island"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Pink Sands Beach Discovery",
+          "dayType": "rural",
+          "base": "Harbour Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Pink Sands Beach",
+              "type": "beach",
+              "coord": [
+                25.5070092,
+                -76.6321214
+              ]
+            },
+            {
+              "name": "Morning beach play and swimming",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sip Sip",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Charming beachside cafe with fresh seafood, colorful decor, and family-friendly vibe",
+              "suggestedCity": "Harbour Island"
+            },
+            {
+              "name": "Afternoon nap and pool time",
+              "type": "nap"
+            },
+            {
+              "name": "Sunset beach walk",
+              "type": "freeTime"
+            },
+            {
+              "name": "The Landing",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Elegant harborfront restaurant with farm-to-table cuisine in historic setting",
+              "suggestedCity": "Harbour Island"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Island Exploration & Golf Cart Adventure",
+          "dayType": "rural",
+          "base": "Harbour Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "St. John's Anglican Church",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "sightseeing",
+              "suggestedDesc": "Historic 1768 church in Dunmore Town with beautiful architecture",
+              "suggestedCity": "Harbour Island"
+            },
+            {
+              "name": "Man Island Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Secluded beach on the western side of Harbour Island with calm waters",
+              "suggestedCity": "Harbour Island"
+            },
+            {
+              "name": "Queen Conch",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Local favorite for authentic conch salad and Bahamian comfort food",
+              "suggestedCity": "Harbour Island"
+            },
+            {
+              "name": "Afternoon at hotel pool and beach",
+              "type": "freeTime"
+            },
+            {
+              "name": "Acquapazza",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale Italian restaurant in Harbour Island with waterfront views",
+              "suggestedCity": "Harbour Island"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Departure Day",
+          "dayType": "rural",
+          "base": "Harbour Island",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final beach time and packing",
+              "type": "freeTime"
+            },
+            {
+              "name": "Transit to Nassau airport",
+              "type": "info"
+            },
+            {
+              "name": "Bahama Barrels",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual airport-area restaurant with Bahamian favorites and quick service",
+              "suggestedCity": "Nassau"
+            },
+            {
+              "name": "Departure from Nassau",
+              "type": "info"
+            },
+            {
+              "name": "Queen Conch Dunmore Town",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Local seafood spot serving conch salad and Bahamian dishes",
+              "suggestedCity": "Harbour Island"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

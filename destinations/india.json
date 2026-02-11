@@ -28,7 +28,8 @@
       "tags": [
         "Wellness & Spa",
         "Splurge",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -91,7 +92,9 @@
         "Romantic",
         "Photography Worthy",
         "Splurge",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -124,7 +127,8 @@
         "Romantic",
         "Photography Worthy",
         "Splurge",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -182,7 +186,8 @@
         "Photography Worthy",
         "Romantic",
         "Adventure & Active",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views"
       ],
       "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
       "phone": "07462 252 052"
@@ -207,7 +212,8 @@
         "Romantic",
         "Wellness & Spa",
         "Splurge",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 9:00 AM – 8:00 PM",
@@ -239,7 +245,8 @@
       "tags": [
         "Splurge",
         "Wellness & Spa",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -271,7 +278,8 @@
       "tags": [
         "Splurge",
         "Wellness & Spa",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 9:00 AM – 8:00 PM",
@@ -315,9 +323,814 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "07462 257 777"
+    },
+    {
+      "name": "The Oberoi Udaivilas, Udaipur",
+      "coord": [
+        24.577382699999998,
+        73.67244120000001
+      ],
+      "desc": "Lakeside luxury palace hotel, traditional Rajasthani architecture, world-class amenities",
+      "longDesc": "A stunning lakeside palace hotel offering families authentic Rajasthani hospitality with modern comforts. Perfect base for exploring Udaipur's romantic palaces and vibrant culture.",
+      "gmapsUrl": "https://maps.google.com/?cid=2444188424022556314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Romantic",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 7381,
+      "website": "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/?utm_source=GMBlisting&utm_medium=organic",
+      "photoRef": "places/ChIJ8-KpToDPbDkRmn78-WuA6yE/photos/AcnlKN1vbSXxdqZHjfUCUEDbBuWr6EzxscsBBhv8z5QYScbdfJF1mvuD3-9SKIH5k4q3J27pcUxbafO3bi9FXAaq9FbPSUA1RaISuHMbu97Pim9Ovmyp3I670QawhHxjm_DDeonQ04wdSKYqB1cdc56rrz2ZZxzgLfYn50OGSY-oOwxYu7KS6-Dji4so5fe04wOu2BZ-coiGAH5IUvYTNLYe6MWyonObmBaK0Azq2les-mjvokDgSCwZ1HiXFdsUGGJa6IUkfxHJgH8_mmVxgYO7XpBBEQwGCNkYFl8O0jnn6hGLMw",
+      "photoAttribution": "The Oberoi Udaivilas, Udaipur",
+      "placeId": "ChIJ8-KpToDPbDkRmn78-WuA6yE",
+      "phone": "0294 243 3300",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "HMGC+VVV, Badi-Gorela-Mulla Talai Rd, Haridas Ji Ki Magri, Pichola, Udaipur, Rajasthan 313004, India",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Evolve Back, Coorg",
+      "coord": [
+        12.322030999999999,
+        75.89011760000001
+      ],
+      "desc": "Sustainable coffee plantation resort, lush green hills, organic farm experiences",
+      "longDesc": "A boutique eco-resort nestled in misty coffee plantations where families can learn about sustainable farming. Kids love exploring nature trails and experiencing authentic plantation life.",
+      "gmapsUrl": "https://maps.google.com/?cid=398722658310189783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Wellness & Spa"
+      ],
+      "rating": 4.7,
+      "ratingCount": 3343,
+      "website": "https://www.evolveback.com/evolve-back-coorg/",
+      "photoRef": "places/ChIJpSE-xbuvpTsR13J6LCWMiAU/photos/AcnlKN0hCz3_YfMdqQw4zBY05xahxZeT7SiQJFyLfOJ6bQEHbm9idyVswT2sMvhGI23vo4NYUaqcIOODparmPfv0YE90RrT6zsBzCsmMJNgXuVFGo-qF8wPiL_DNcAGRpMMZfvUAhRIV8NtDF-odstlWe1DDWr5bKEqmWY7CtJncRenrEo2Gi6Mc8m1Itspq0Bt0xeDJaqBJ2LEt97LUSwqKCJh5ca2xpG-18dwFmk9_i0cChqcJqlQk-SZhT1reGmaWhkXbquYoOcLylOdk1uSr8maX5aLMipXbUVyfy9ELXivhgA",
+      "photoAttribution": "Evolve Back, Coorg",
+      "placeId": "ChIJpSE-xbuvpTsR13J6LCWMiAU",
+      "phone": "063669 20434",
+      "address": "Post, Karadigodu, Siddapura, Karnataka 571253, India"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Spice Terrace",
+      "coord": [
+        12.972144199999999,
+        77.594923
+      ],
+      "desc": "Contemporary Indian cuisine, chef-driven tasting menus, modern ambiance, award-winning",
+      "longDesc": "An innovative restaurant celebrating Indian culinary traditions with creative presentations. Family-friendly yet sophisticated, perfect for introducing children to elevated local flavors.",
+      "gmapsUrl": "https://maps.google.com/?cid=11507795395275196399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Reservations Recommended"
+      ],
+      "rating": 4.3,
+      "ratingCount": 2144,
+      "website": "http://www.sevenrooms.com/reservations/spiceterraceblrjw/spice-terrace-marriott-com",
+      "photoRef": "places/ChIJc_4WSHcWrjsR7wdB6_Dms58/photos/AcnlKN3Dv2TMg8iE9EJlBGV8qIU8g8aXfjlk7QIOrxJFchgcWPAbJDZKWKv76xJjd97_UW9H2FViHxJCQoNNVWXZv20up6TPs0tzM7GAjPZxQbM5OvM64cz14orpFmFMhNrgBqE4buRm9vvGJA5VXrMrLJ5zrvKU5rrP02S9W2qfXJPZx8d5s1ggAjxBn8wxNu-LQTqHHuhK70triK84WnBsyUwUnEZW3Jk4T4e8J89SRlGeVV9ZZcgp7ol5us24fQNSuBI9eTN3LTE4xAMuTif3ptGH4VP2vbbjJ3GIC8T2BKiTEA",
+      "photoAttribution": "Spice Terrace",
+      "placeId": "ChIJc_4WSHcWrjsR7wdB6_Dms58",
+      "phone": "088846 75454",
+      "hours": [
+        "Monday: 7:00 – 11:45 PM",
+        "Tuesday: 7:00 – 11:45 PM",
+        "Wednesday: 7:00 – 11:45 PM",
+        "Thursday: 7:00 – 11:45 PM",
+        "Friday: 7:00 – 11:45 PM",
+        "Saturday: 7:00 – 11:45 PM",
+        "Sunday: 7:00 – 11:45 PM"
+      ],
+      "address": "JW Marriott Bengaluru, 24, 1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "The Chai Trail",
+      "coord": [
+        32.1158029,
+        77.1679332
+      ],
+      "desc": "Cozy tea lounge, authentic Darjeeling chai, homemade Himalayan pastries, mountain views",
+      "longDesc": "A charming tea house offering authentic Darjeeling experiences with warm hospitality. Families enjoy sampling world-famous teas while enjoying mountain vistas and homemade treats.",
+      "gmapsUrl": "https://maps.google.com/?cid=3284473632491654478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Family Friendly",
+        "Casual Eats",
+        "Off-Hours Eats",
+        "Breakfast Spot",
+        "Hidden Gem"
+      ],
+      "rating": 5,
+      "ratingCount": 17,
+      "website": "https://thechaitrail.com/",
+      "photoRef": "places/ChIJybjl8dWLBDkRTk3N6l3LlC0/photos/AcnlKN05YqoLILpJPLjq4avrnWuYd41V2glAL_QkEpm1m0AnZzpLkdCmpPrAatH1GyE47pnnqXDGEGPQUXo4E3bnsXfOw2kAqzTHE68myuSab-LOqvO3qoyqgC-tFi1ZGnO_Q9PyJ2Ne7J9gKCw6PxZP03DXE6DUbezW53PPnJl5AcWcunzQo_Obf1Bh6JzZpQrw_Z1Z7POugOBaX0c7WKFAQEKItGQEIqEJaHjFKZW4cu4MgEsou1dMJ8EE8g2wFKjwM81sHKl4MDYcSKi82peaGNC49k3CipwiESZAr-wIswrcaQ",
+      "photoAttribution": "The Chai Trail",
+      "placeId": "ChIJybjl8dWLBDkRTk3N6l3LlC0",
+      "phone": "081309 17092",
+      "hours": [
+        "Monday: 2:00 – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "address": "The Chai Trail, Pulag Rd, near Nicholas Roerich Art Gallery, Naggar, Himachal Pradesh 175130, India"
+    },
+    {
+      "name": "Spice Court",
+      "coord": [
+        26.910827899999997,
+        75.7889568
+      ],
+      "desc": "Traditional Rajasthani restaurant in a heritage haveli setting near City Palace",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15338035396026959247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Casual Eats",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 3421,
+      "website": "https://spice-court-restaurant.shop/",
+      "photoRef": "places/ChIJTZ9GZeG1bTkRjwWOpO2l29Q/photos/AcnlKN2VuPbv2sU4doJ4vyvHK5Xe5aZjxDTrrkdXZeYnTP0W33TF8OrOxK6EZESs-CiHcA-2AZZ47wnZmYGHdP0ZUwiTpmYEeUz_jVHEHxjNvcp_pLnBnD0xZFQ5NirBuxbxaQv3BQMQdjhuj-4A74dOGEjzQsMsYYxnfxCfeG2QvOSO8Vsp-YtOJC9boVKG9rnQew6vHVJ7_ykrIS2nsZym0Q8q4uLEC9A0xz90qAi2w99L7Cie3SqaoZvbHBNs43eWBISsumsf9gKrHAmOZFTx4RlzJbTTEqiY5cpfJ2tJwx3-cP10avN2DZYB8HnA0Tly-YHQTSB5vdIMnGBi6AvUjY34HwS5JAKmT1t9VEPW5qspO_j7ODSfycDuGZ0Ve-nA0PydAIlfFeo-HvZnZ851Ede7-N_F0MnJ105cqbs2TLvxuw",
+      "photoAttribution": "Aena Pareek",
+      "placeId": "ChIJTZ9GZeG1bTkRjwWOpO2l29Q",
+      "phone": "091166 42231",
+      "hours": [
+        "Monday: 12:00 – 10:30 PM",
+        "Tuesday: 12:00 – 10:30 PM",
+        "Wednesday: 12:00 – 10:30 PM",
+        "Thursday: 12:00 – 10:30 PM",
+        "Friday: 12:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 12:00 – 10:30 PM"
+      ],
+      "address": "Jacob Rd, Mysore House/Achrol House Colony, Madrampur, Civil Lines, Jaipur, Rajasthan 302006, India",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Peacock Restaurant",
+      "coord": [
+        26.9163158,
+        75.7955975
+      ],
+      "desc": "Rooftop restaurant with traditional Rajasthani thali and city views, family-friendly",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3698355137082258307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Scenic Views",
+        "Family Friendly",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 3545,
+      "website": "http://hotelpearlpalace.com/wordpress/?page_id=89",
+      "photoRef": "places/ChIJOVIF1Ae0bTkRg3MHB2cyUzM/photos/AcnlKN2nUNqOBHosOUIbRrkLtfDX9ttlAepbPo4dpeMzHhPBInaJ_5RP7iG38kxjtTTOC9OTHklddXFbZxdJosSav-rVaQ17A2mSc0h26-HwCJS5tkPJvLVE0Uaj1QUWffZtTbhtzVuQLu8a2RQtlo2ZOxF81FgdaY1uw7M0sgT3U2AQozZvyks9UpBR95jcWxw-bs2m2VijS2_ZRdcPP9jbKVLPpKWHE1CGtGIcCBEliqexrtNR1haB_efn27wjUGgFYFMLxKgJ3MvTe5IJlVFpR_ybWG7h9HDsUWgdF3Hpdks-4Rmr6vmCMHZODERsFt-bwq2DC-DonlLJ6FfAZfvlTXiC3kqNp79w1PbmYv_eIf9Nw0Mh--3lhbrZgxlLrtz8v1YPgGpVk9WWQNJlvklDzfwylnEhsM_wECL1krdf2Ijzeg",
+      "photoAttribution": "Deepanshi Sharma",
+      "placeId": "ChIJOVIF1Ae0bTkRg3MHB2cyUzM",
+      "phone": "0141 237 3700",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "51, Hathroi Fort, Hari Kishan Somani Marg, near Native Cocktail bar, Ajmer Rd, Hathroi, Jaipur, Rajasthan 302001, India",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Tapri Central",
+      "coord": [
+        26.905517900000003,
+        75.8111115
+      ],
+      "desc": "Charming rooftop tea cafe with traditional Indian chai and snacks",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12502191192263122506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Casual Eats",
+        "Scenic Views",
+        "Budget Friendly"
+      ],
+      "rating": 4.5,
+      "ratingCount": 13779,
+      "website": "http://www.tapri.net/",
+      "photoRef": "places/ChIJO-MTKTy3bTkRSl7cYKa0gK0/photos/AcnlKN2dsf_PDy_Cbsmg07zT4l-BNv6rk7fPQhlBPYTSXei2O57CPtKEQQZHTkV7T2aBY3SQHmtvv4tfy4YLaKd81Z6MX8ymAWGRA_1gTBALeUy_lXm39bqfmT0mDOP2bbC-hXJ9sz52MLi1zKiWgnalAFHOWYmFGLFVjMv3s4hVS6qONqdmdncLI3pTIzxwxbiPuSYGuqid8REYeIV0C5Cp7D63849-uiUbA06LDHPqXe7QtukeFh8et5QZFdaca6v3pPOts_GOPJQrmhks9YHT_NhlAfFaSH--JouRlEb7bzS3nWYWNfVWr2jM_8kuMjPe1SXWSL6vp5_a8AXaIrcti3wtoLVf9-OchN4kInszbnlYYEad9iMqzMWpvqLX_U1Mrvx_ATXqLUF2j3JGFcdek-oegBjW_PskEDXVAJMyAQUd8o7c",
+      "photoAttribution": "Rahul M N",
+      "placeId": "ChIJO-MTKTy3bTkRSl7cYKa0gK0",
+      "phone": "099509 66667",
+      "hours": [
+        "Monday: 7:30 AM – 10:00 PM",
+        "Tuesday: 12:30 – 10:00 PM",
+        "Wednesday: 7:30 AM – 10:00 PM",
+        "Thursday: 7:30 AM – 10:00 PM",
+        "Friday: 7:30 AM – 10:00 PM",
+        "Saturday: 7:30 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "Rooftop B4-E, पृथ्वीराज मार्ग, opposite Surana Jewelers, opposite Central Park Gate, सी स्कीम, अशोक नगर, जयपुर, राजस्थान 302001, India",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Laxmi Misthan Bhandar",
+      "coord": [
+        26.919618699999997,
+        75.8256378
+      ],
+      "desc": "Historic vegetarian restaurant famous for Rajasthani sweets and snacks since 1727",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5545720421116571714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Sweet Treats",
+        "Cultural & Historical",
+        "Budget Friendly"
+      ],
+      "rating": 3.6,
+      "ratingCount": 24628,
+      "website": "http://www.lmbsweets.com/",
+      "photoRef": "places/ChIJv84fjbS2bTkRQnBILFdb9kw/photos/AcnlKN1wYINT6jLcfNQ0-mylXFdIStnL9VSGZTz1bHD-wLPgjUUziSAh_d8W895mud8IU_LWd-AZIanEikQKUdRfPQNaIsEthdnDRYmZYEGfOih-ZjQ9mFcEa500zXF_tlC1Z-65hVaZK-9un-JlN7ghKLYSorilPwcylBmAYFlS5dOsoIW61IcmHzdySg20cxhFWD1DZMioPeZxeTuRDtU0MHAbFSK5sTWH381h0aU4I-yrHTAx-blvn990svS1hslMo42N30N9C5JdFEjk2nLpwB-NfYBwHsEkmWygIaYr2MNXf5u1EAup_Ihoxgoq5Nc4qZDSRHgy5PKC_tQtyfVTwCgEyaz8g9kBRlUWTmCS0Xei1L9we5FFwTadc6tRbWjxjsXzH7T8Hc9EQKN0I8qZJNTg2zv6qygThnp8n7AqVDsDg53Y",
+      "photoAttribution": "pranjal pagaria",
+      "placeId": "ChIJv84fjbS2bTkRQnBILFdb9kw",
+      "phone": "090246 09609",
+      "hours": [
+        "Monday: 7:00 AM – 11:30 PM",
+        "Tuesday: 7:00 AM – 11:30 PM",
+        "Wednesday: 7:00 AM – 11:30 PM",
+        "Thursday: 7:00 AM – 11:30 PM",
+        "Friday: 7:00 AM – 11:30 PM",
+        "Saturday: 7:00 AM – 11:30 PM",
+        "Sunday: 7:00 AM – 11:30 PM"
+      ],
+      "address": "No. 98, 99, Johari Bazar Rd, Bapu Bazar, Biseswarji, Jaipur, Rajasthan 302003, India",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "1135 AD",
+      "coord": [
+        26.9868113,
+        75.8505696
+      ],
+      "desc": "Royal dining experience inside Amber Fort with traditional Rajasthani cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7066899022708348221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Iconic / Must-See",
+        "Romantic"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1789,
+      "photoRef": "places/ChIJWVJSCbOxbTkRPRUWGDirEmI/photos/AcnlKN2Eaq1uQdbdCKBJCd62TUyM1Thysp-t4vt-10AdYtIO1bvHKcPa_7ssfMj22L53-SP6l8_hROdBgJNVsKQecemTc4iskzQLlpDbKWBgDQTo_0ngqJRcUDYugOJTz-wl4eCR4YF4DfLAEfkbYWqeFdxvFsHWISPhkUdTh32wQ3GGZaGa-_QjXy-D637VhsUyMpGYb1Ck6DK4Vv3K6QGdRU1g9nWYsYDoe5ys6kjuN5rPxaWZft_Kqh9xi_UJwd8OgtE1JAbLDoaorqEsxh3qMFu0ew1tCsK2YItVpdoLhcNzLKiFl6RMF9WCnffiVOZ99d_6fAi5Bhh2DG-ocY0kvjKcgDXROK8FTGQ5MHWHAmfiLAwdZMENuJ_c_eClaRfkBq6BwgLTiKR8cLIX1dMKRVbgnTW2ERITa-mcdJZAlnJ-P3tx8kcuzuekcOLL8eqc",
+      "photoAttribution": "Shivangi Singh",
+      "placeId": "ChIJWVJSCbOxbTkRPRUWGDirEmI",
+      "phone": "098290 37170",
+      "hours": [
+        "Monday: 11:00 AM – 11:30 PM",
+        "Tuesday: 11:00 AM – 11:30 PM",
+        "Wednesday: 11:00 AM – 11:30 PM",
+        "Thursday: 11:00 AM – 11:30 PM",
+        "Friday: 11:00 AM – 11:30 PM",
+        "Saturday: 11:00 AM – 11:30 PM",
+        "Sunday: 11:00 AM – 11:30 PM"
+      ],
+      "address": "1135 AD, Amber Palace, Jaleb Chowk, Devisinghpura, Amer, Jaipur, Rajasthan 302028, India",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Bar Palladio Jaipur",
+      "coord": [
+        26.8979267,
+        75.8143738
+      ],
+      "desc": "Italian restaurant with dreamy blue-and-white decor, early dining available",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7520788602127617285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Photography Worthy",
+        "Good for Dinner",
+        "Off-Hours Eats"
+      ],
+      "rating": 4,
+      "ratingCount": 3249,
+      "website": "https://www.bar-palladio.com/",
+      "photoRef": "places/ChIJ95efVri3bTkRBY2fBGM1X2g/photos/AcnlKN1xffKUOGzBdPNv5kfw86oen3JLEyElAkKkLZLovurXW0tPjc06V_dfxEcoY1zwI-I1q9QCUSnysJN6p-DCVgEyULwQ-3W_hD16-c9oekE49rndm8v1zKU5bsjH7FE2eK2uDOAX-ShRAWtMKg7NSRV3hsC1DVLFJ6VI96TLx05GoRwUEV5-sf8usmWtyWAehTnCbjmq1QLIiqAM6RqPVIljp1acCgfv26x4NUagFH4XmwNNqHiFeriCyKDuCq42PvinUXdL81Wx0PQDHgW8cl-U3EWO8KUhPbV5Q1IFB9jWqw",
+      "photoAttribution": "Bar Palladio Jaipur",
+      "placeId": "ChIJ95efVri3bTkRBY2fBGM1X2g",
+      "phone": "088906 30553",
+      "hours": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 – 11:00 PM",
+        "Wednesday: 4:00 – 11:00 PM",
+        "Thursday: 4:00 – 11:00 PM",
+        "Friday: 4:00 – 11:00 PM",
+        "Saturday: 4:00 – 11:00 PM",
+        "Sunday: 1:00 – 11:00 PM"
+      ],
+      "address": "Kanota Bagh, Narayan Singh Rd, Rambagh, Jaipur, Rajasthan 302004, India",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "The Oberoi Vanyavilas Wildlife Resort, Ranthambore",
+      "coord": [
+        26.023849100000003,
+        76.3877239
+      ],
+      "desc": "Luxury dining at The Oberoi Vanyavilas resort near Ranthambore",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1476091654161635267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Local Delicacies",
+        "Romantic"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1360,
+      "website": "https://www.oberoihotels.com/hotels-in-ranthambhore-vanyavilas-resort/?utm_source=GMBlisting&utm_medium=organic",
+      "photoRef": "places/ChIJSTQRYusmbjkRwxc57okhfBQ/photos/AcnlKN2yeDzgiSYqxAg5CEIH7z9TTo_p1005Ed5P3kQcfQ0caqrj8P_1qIFlrJZxKPfqPC7xi5_hu3GQwGjXqMT-wbcUMZFxpufCXC1McoQl0RtIuyJIjLrwhjVddI_-8HUO4QNrq_FjK6EOgLdqYEoo19vR80HsnpGqRAQg15MJPxHuBIVV9ShMTICacm_itw9TAWhcYbWdzEIwr1AYYbtM0tt60XpT6CC9Y4rifIePozkS9-kduxW_GYTFtkM9G02vbvvQfV4phXwOxRVS4lHR_DyLyhKNEqtk2Vx3H0zh1JDr-g",
+      "photoAttribution": "The Oberoi Vanyavilas Wildlife Resort, Ranthambore",
+      "placeId": "ChIJSTQRYusmbjkRwxc57okhfBQ",
+      "phone": "07462 353 999",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "29FQ+F6, Ranthambhore Rd, Sawai Madhopur, Rajasthan 322001, India",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Suvarna Mahal",
+      "coord": [
+        26.898130899999998,
+        75.80823989999999
+      ],
+      "desc": "Royal fine dining restaurant at Rambagh Palace serving Indian cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13478045046993855267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Romantic",
+        "Local Delicacies"
+      ],
+      "rating": 4.7,
+      "ratingCount": 3591,
+      "website": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/restaurants/suvarna-mahal?utm_source=google&utm_medium=local&utm_campaign=rambagh-palace-jaipur-suvarna-mahal",
+      "photoRef": "places/ChIJ0RfdzAK0bTkRIyPIfI-iC7s/photos/AcnlKN026UNO7QiJ4ukh1NOZR_iQwgUjDK3WYMzISwLh5zNCImjs6xV2JDNd8AjQ0iNgTVdYcEYtOEeZE6DW3JtiZwHR8pNKG8QrliavzoTiHE-8SpiEwJkZMEkluoowrokLlt0naSuX9wUuU2CbUi_SPubCplZ9iy8-yXuiYRjzzknDLEGtDf5AI872tltRPLNVEPlxfLKkunDfWvICK9um8xGg5z97Pq_7knMbyiLN-aqmL5RoKsqfLuhWB4m5ZxZfjITe4rvj4lKoOuABhRxflnRY_SfnKnaUfhia3V05PU0ZzQ",
+      "photoAttribution": "Suvarna Mahal",
+      "placeId": "ChIJ0RfdzAK0bTkRIyPIfI-iC7s",
+      "phone": "0141 667 1234",
+      "hours": [
+        "Monday: 7:00 – 11:45 PM",
+        "Tuesday: 7:00 – 11:45 PM",
+        "Wednesday: 7:00 – 11:45 PM",
+        "Thursday: 7:00 – 11:45 PM",
+        "Friday: 7:00 – 11:45 PM",
+        "Saturday: 7:00 – 11:45 PM",
+        "Sunday: 7:00 – 11:45 PM"
+      ],
+      "address": "RAMBAGH PALACE, Bhawani Singh Rd, Rambagh, Jaipur, Rajasthan 302015, India",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Handi restaurant jaipur",
+      "coord": [
+        26.9168891,
+        75.8039984
+      ],
+      "desc": "Famous Jaipur restaurant known for authentic Rajasthani cuisine and laal maas",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14433092704581672109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Dinner",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.1,
+      "ratingCount": 12255,
+      "photoRef": "places/ChIJERP0VLG2bTkRrVzfUlilTMg/photos/AcnlKN1bHkTWAvchzbNOsXehqQWDA_nfEQawI4YCqyz7EmY9Nxt2rceaKxVRjJpf0QcFOwClQRrjJyClYsgTz_4pWU7eQBuqRQTk-yrqfnIl6FK95AO92DMCFIPR-dTukSxYJOl1ExLGj9IKf9dm2RnbfyGwK_9mQARD0vez8a00E0BjEnqKKk7OcQW2L9WiY-UOsLziOAukScu2bvcPc7ixAexobunc5bmM5jg6kccRvSCvqLqcix6SXsIac7fUYs-5sAv6X4qdzXdKh-35FrdARK9kr2xQ2FmNcrdwnMpmxEVQkvujwuXzmw36vtnbCYm6OHrIySWqSQ2tyKuk60haAcEHlLcP040UHRg4MRU41bOHRK-piUR48KrskofdGpSvz6xWBK3FpQQ0qLH4gcJUI9XflG71NTsunOOH_9XB9FUk_A",
+      "photoAttribution": "장영웅",
+      "placeId": "ChIJERP0VLG2bTkRrVzfUlilTMg",
+      "phone": "098291 74873",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "Mirza Ismail Rd, opp. GPO, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Jagat Niwas Palace Hotel",
+      "coord": [
+        24.5784095,
+        73.682525
+      ],
+      "desc": "Rooftop restaurant with lake views at heritage hotel near City Palace",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13723750866932544367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Local Delicacies",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 3768,
+      "website": "https://www.jagatcollection.com/",
+      "photoRef": "places/ChIJd3q9h2blZzkRbzN5sbOOdL4/photos/AcnlKN1vsE6uk9NGNns94uSqGmqvzlo3k0iDpg82whklPu7aeG-SCREoKJelwBuIoHXvemh1P0rqPjVXXbxi1bn8gTot_LcgQkN5QPQF-HM1cwLyyS1Ub3jc8VbJ8GWBmF8xTYbPzpwqpVQqN1qyrM_lK2WEU5WNwduzrYxDtV_GLKb3rmJEZ2nuRztYxh0NFFC5ox65uhYNcu_GxrVE0Pya4_pLoPjgxOKaKjH3attx16jZ1Bz6PJELaZg3z4AxtO1eV-dl6xR627JxJzdsYEQPhy68J17I6zrQ6hq-2io3b6Yv0g",
+      "photoAttribution": "Jagat Niwas Palace Hotel",
+      "placeId": "ChIJd3q9h2blZzkRbzN5sbOOdL4",
+      "phone": "0294 242 0133",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "23-25, Lal Ghat Behind Jagdish Temple, Udaipur, Rajasthan 313004, India"
+    },
+    {
+      "name": "Ambrai Restaurant",
+      "coord": [
+        24.578158499999997,
+        73.6801224
+      ],
+      "desc": "Romantic lakeside dining with palace views and traditional Rajasthani cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16404611817941260945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Scenic Views",
+        "Local Delicacies",
+        "Good for Dinner"
+      ],
+      "rating": 4,
+      "ratingCount": 3795,
+      "website": "https://www.ambrairestaurant.com/",
+      "photoRef": "places/ChIJwbKf4mblZzkRkVqQdojjqOM/photos/AcnlKN2pLIeeQKmVgOrnaMRHOp0w1DVOMHm-z0XVWd-8H2BdiurykndFfuyLcndkynZnICHxCCfpfklHwyaIcwMFErO_eFgXfz6y-IUnDWMLSJv2UR51Zfm2kbzIpNlFLHqiB-1CC3NM8KrK_Y2nJAZyXfHFltgwVANrlvTduZvLFC83bqZJqdeN-YrxrjlbWe-JaX-MFTM9UcVhcfpt0bA9pDNpXLpvbiMd088T7TbkF559skULpgsCQqI3U79bdGiQbHcQlqYPnfYhHjg12qwAEmMeDdVV7ORjUks2nXVJZS8rbI6N3vn366jYkr19vUJixKYow4nbdcbUUxz7cF6_hl6-Ald6O1fsON8hBEboOI7NG-2PIz_oDXrxjC1r51cbdkOLM5h0lpMM061Wr2Y8GETviMdmBgUKuJzDILJRao4",
+      "photoAttribution": "Arpit Bairathi",
+      "placeId": "ChIJwbKf4mblZzkRkVqQdojjqOM",
+      "phone": "096720 41085",
+      "hours": [
+        "Monday: 7:30 AM – 10:30 PM",
+        "Tuesday: 7:30 AM – 10:30 PM",
+        "Wednesday: 7:30 AM – 10:30 PM",
+        "Thursday: 7:30 AM – 10:30 PM",
+        "Friday: 7:30 AM – 10:30 PM",
+        "Saturday: 7:30 AM – 10:30 PM",
+        "Sunday: 7:30 AM – 10:30 PM"
+      ],
+      "address": "62, Ambrai Rd, Chand Pole, Silawatwari, Udaipur, Rajasthan 313004, India"
+    },
+    {
+      "name": "Jheel’s Ginger Coffee Bar & Bakery",
+      "coord": [
+        24.580847499999997,
+        73.6818364
+      ],
+      "desc": "Lakeside cafe with excellent coffee and pastries, relaxed atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4962119991369523672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Casual Eats",
+        "Scenic Views",
+        "Budget Friendly"
+      ],
+      "rating": 4.1,
+      "ratingCount": 6759,
+      "photoRef": "places/ChIJb85la2blZzkR2OFxetf93EQ/photos/AcnlKN2PbxPyOHuI_nX6fgvxv5UOfOsrlhUpv4SPkK-BdCrE16ze0c6iY8tWxHl5JqG4fyTwje-ZA7GkOfVeqYOzGpk9xHd8DVQcGTaiha9jpw55EBzbjMcxGgIwTDdntEg_5ZABak8XmwP9MiMOKhIuFtpa4CBbbUo5Qa1Lxx3knUdo2TqTxV6GaGfqCqF6EPbo6SczdKQltBYvE-bnVK5Vmia7Y86xe2JQ-9IgQIceUu_0bgk6gWh8o4eK4_Ap_jrS4Mp_RUa-C_CTGshIr7z-r64pT9RB7bRl4SQlJ37XHXbv7Q",
+      "photoAttribution": "Jheel’s Ginger Coffee Bar & Bakery",
+      "placeId": "ChIJb85la2blZzkR2OFxetf93EQ",
+      "phone": "094610 16511",
+      "hours": [
+        "Monday: 8:30 AM – 9:30 PM",
+        "Tuesday: 8:30 AM – 9:30 PM",
+        "Wednesday: 8:30 AM – 9:30 PM",
+        "Thursday: 8:30 AM – 9:30 PM",
+        "Friday: 8:30 AM – 9:30 PM",
+        "Saturday: 8:30 AM – 9:30 PM",
+        "Sunday: 8:30 AM – 9:30 PM"
+      ],
+      "address": "Hotel Jheel 52 56, Gangaur Ghat Marg, Old City, Udaipur, Rajasthan 313004, India",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Upre",
+      "coord": [
+        24.5791988,
+        73.68043039999999
+      ],
+      "desc": "Rooftop restaurant in City Palace with panoramic lake views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10389712703461246356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Romantic",
+        "Casual Eats",
+        "Photography Worthy"
+      ],
+      "rating": 3.9,
+      "ratingCount": 3851,
+      "website": "http://www.1559ad.com/profile-upre.html",
+      "photoRef": "places/ChIJa0XBVWblZzkRlMUrIKisL5A/photos/AcnlKN3G7pLKhG3ohOW5OpcNA9PqA5s_vX0oVJo9TSrWdOZCiwE6gAu_CNAX8_Og6jiKW_bD19HYKhRSqKx1_nE2jbpgf7By8eqFiHCsfOGNKKonOkJrGfrULvkmGnbBvBygy7lfJ3J95jAS4HwMVOIe6k-WQhYfWbEqJZdRxFx7NiTIjkUa3SGnkp2xgSzt5nwPvxfxOiyrnLpKx2TeTwdT1ncnUg762GbBewptgK_6WuO83M7SVQpXKEIdpSdJ8pvNyxbFE-HMrOg51pRhr-4sP4NEhEh_OiKozy-7kOuuSEk7w4RlGmnTyh9ziw9juL4H4RtrsAmsBc6L7ED0823Z2iT4PnPqcGmmPhZJ-_dVjMaZuRM8Qo2bowFfH0aXiXbu1jzKFH3a6w4mYenkq0hqYqFsjYSwm628uTLbkCiDEzd6WSI7",
+      "photoAttribution": "Pradeep Pillai",
+      "placeId": "ChIJa0XBVWblZzkRlMUrIKisL5A",
+      "phone": "091161 73737",
+      "hours": [
+        "Monday: 7:30 – 10:30 AM, 12:30 – 3:00 PM, 7:00 – 11:00 PM",
+        "Tuesday: 7:30 – 10:30 AM, 12:30 – 3:00 PM, 7:00 – 11:00 PM",
+        "Wednesday: 7:30 – 10:30 AM, 12:30 – 3:00 PM, 7:00 – 11:00 PM",
+        "Thursday: 7:30 – 10:30 AM, 12:30 – 3:00 PM, 7:00 – 11:00 PM",
+        "Friday: 7:30 – 10:30 AM, 12:30 – 3:00 PM, 7:00 – 11:00 PM",
+        "Saturday: 7:30 – 10:30 AM, 12:30 – 3:00 PM, 7:00 – 11:00 PM",
+        "Sunday: 7:30 – 10:30 AM, 12:30 – 3:00 PM, 7:00 – 11:00 PM"
+      ],
+      "address": "Roof Top Hotel Lake Pichola Road Outside Chand Pole, Lake, Pichola, Udaipur, Rajasthan 313004, India",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Sheesh Mahal",
+      "coord": [
+        24.5779157,
+        73.67733059999999
+      ],
+      "desc": "Fine dining at Leela Palace with mirror work interiors and contemporary Indian cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15879199880260688374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Local Delicacies",
+        "Romantic"
+      ],
+      "rating": 4.6,
+      "ratingCount": 493,
+      "photoRef": "places/ChIJN47AUqblZzkR9hld1ChAXtw/photos/AcnlKN1EUDn9N-i6vm2FyziZmIzbV7-EXuMAtC-Y4wuxmqUkLxMmWtiihfiVYKveMfFGNtYC1pZi9T1YGRXc8voDa2POFkS_WgXiWvjzhCJ0dowIhsH8FgLsGVwVRkxO8_M0JtxIT7B_h88gOjfrI0r0PxaLT-DEsDTxMu8sRggODa0aNZvr6szZbIKdRGglr_4tSSeIQaX90bmoeODk1nmT8QnjspbLN3Q2vV4B2tqsoAoYYe1S98jbLSnQ_bVBkNIniC8_LRWkHmjfis3xsdqXX1fa2Vc0H_UWGHXUcuiKNM9aOG9-8DlPovINPmHC270FnUlcg6hmkBn4GtI2-8jQVSZpxUdsophO62Ta9QbFFSWWhNcTWjCVKz-2qs6vxOPb3oabw4I15NobBvZMjgEs67KYTQbTautWNQ0715ZXFGlKuw",
+      "photoAttribution": "Aakash Chakraborty",
+      "placeId": "ChIJN47AUqblZzkR9hld1ChAXtw",
+      "phone": "0294 670 1234",
+      "hours": [
+        "Monday: 7:30 – 11:30 PM",
+        "Tuesday: 7:30 – 11:30 PM",
+        "Wednesday: 7:30 – 11:30 PM",
+        "Thursday: 7:30 – 11:30 PM",
+        "Friday: 7:30 – 11:30 PM",
+        "Saturday: 7:30 – 11:30 PM",
+        "Sunday: 7:30 – 11:30 PM"
+      ],
+      "address": "Pichola, Udaipur, Rajasthan 313004, India"
+    },
+    {
+      "name": "Millets Of Mewar Restaurant",
+      "coord": [
+        24.5792276,
+        73.683735
+      ],
+      "desc": "Healthy farm-to-table restaurant with organic ingredients and kid-friendly options",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16191890999577072676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "rating": 4.6,
+      "ratingCount": 4729,
+      "website": "http://www.milletsofmewar.co.in/",
+      "photoRef": "places/ChIJi-GSMmblZzkRJNSiZxMnteA/photos/AcnlKN1L425rTB1bx3c_hA-dqPB5-7BL-PfhxRqrrbkU3MfzyQtW1QROm_MWwIgoOE1I3nrN2PASqHLY6zP5xriG8q-wUQCiMkYwv14Sk7PhIR9K-UiREjKdUcoeCQrOPkqjvZ0yOwbh54h_JN6tGHB9V1wwKY3FyInzOpt1sbbNFJAxovz5_ZwyTWZSb_lanz1bfGvNmcFEzv9hxXxj7BzkNU6jeCnMFAnpPULhL-xLLlaSuGP8TdX--GYrlxQjcvugmg1ScbvjwaCNxdrhMEzJkqT05E_UqqAIz-m7Mei06ecAQA",
+      "photoAttribution": "Millets Of Mewar Restaurant",
+      "placeId": "ChIJi-GSMmblZzkRJNSiZxMnteA",
+      "phone": "087693 48440",
+      "hours": [
+        "Monday: 9:00 AM – 10:30 PM",
+        "Tuesday: 9:00 AM – 10:30 PM",
+        "Wednesday: 9:00 AM – 10:30 PM",
+        "Thursday: 9:00 AM – 10:30 PM",
+        "Friday: 9:00 AM – 10:30 PM",
+        "Saturday: 9:00 AM – 10:30 PM",
+        "Sunday: 9:00 AM – 10:30 PM"
+      ],
+      "address": "Badhu Ji ka Darwaja, 51, City Palace Rd, Near Jagdish Temple, Udaipur, Rajasthan 313001, India",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "The Darikhana",
+      "coord": [
+        24.567659,
+        73.6784078
+      ],
+      "desc": "Darikhana restaurant on island palace with lake views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12822891380784257992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 3.4,
+      "ratingCount": 408,
+      "website": "http://www.hrhhotels.com/",
+      "photoRef": "places/ChIJ_71J3IrvZzkRyFsQscUP9LE/photos/AcnlKN0zyjnwDgKC5ci8e9sRqd9RXhCEyGZWq8IrOr_5mnDE8VbfJxqYNMIq8fza_kojIEMIf-HXO_hijfRWsC0VDM2FLOspD37Xd8gB0tTRt2fB5LcyMkdpT5e-ImiRRGYm9TXaTJvu6ibOL057Z39MN47agcmvocDpYWzdIxrHpFHffMj08e4qqiv9PIK98MfaUAWmAObv8Y6A_Bpd92UOocxFPsFjj0OMCveS4hb6AF32Nr3gTXlvkKRzj_3Jyjxx9lAHV8QcpioyBVJnwF9ix8fuXLQSh2dNWdvUlZDxHUifI6yI3AijCeDkJFb29rzM2L-kDnNEKHGbEgibWvqSO2wf66z9Dw3EHEJLQffKn_WKO2MsMbfwwXBLPUgenivfaTElBpIhn4nICVOTpRHAUKDW95jg32l3nyUpxynm29ITpHKuVT7ovv3RymXn7w",
+      "photoAttribution": "varun dixit",
+      "placeId": "ChIJ_71J3IrvZzkRyFsQscUP9LE",
+      "phone": "0294 242 4187",
+      "hours": [
+        "Monday: 11:00 AM – 10:30 PM",
+        "Tuesday: 11:00 AM – 10:30 PM",
+        "Wednesday: 11:00 AM – 10:30 PM",
+        "Thursday: 11:00 AM – 10:30 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 10:30 PM"
+      ],
+      "address": "The City Palace Complex Lake, HM9H+397 Jagmandir Island Palace, Pichola, Udaipur, Rajasthan 313001, India",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "The Whistling Teal",
+      "coord": [
+        24.5791196,
+        73.6693493
+      ],
+      "desc": "Fine dining restaurant at The Leela Palace Udaipur with lake views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5923187991173477182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Scenic Views",
+        "Romantic",
+        "Splurge"
+      ],
+      "rating": 4.4,
+      "ratingCount": 679,
+      "website": "http://www.jhadolvijayvilas.com/",
+      "photoRef": "places/ChIJm4vxiGPlZzkRPjPBdxhkM1I/photos/AcnlKN1pBGaq6FUFle0eRgpPvfElcGifnsGdgQifTDVwaecgWpmY4NYBTE8cLeOXthG-viG99PpJenupDNE-uo_LpaCiavpsHnMpkSZXRfiGbBwzht1QS1NINQiBNRuZ2_ctb1J1iIGvNs_9bSLMd9eVhqAiAV-WAog785GnbUxDwX8mCG1Yd2DZT3RFHIkXcOQbM9xMug_i3S8E-x-ahkM6vDLOgqKo_6U_h4_SsCv5lpnaNIvrIOzeSymhZThhORNpOFjT5aWn6pxtFNr6ZNtr6_AhfEfeSnnT3byacbkdXa6WLNGkKl0dT2zt00QpQFfHqEazUoV1yzgTEFzJkul09VFq0dmqnPTTBN_gmxz4s08S7Y6rUP4duuxOKXCJ3zSpJR3UmUZSlZ1fPe5AVVkJW4YpU6iaGX_fOw9NqY8KafI",
+      "photoAttribution": "Ravindra Jain",
+      "placeId": "ChIJm4vxiGPlZzkRPjPBdxhkM1I",
+      "phone": "099296 17161",
+      "hours": [
+        "Monday: 10:30 AM – 10:30 PM",
+        "Tuesday: 10:30 AM – 10:30 PM",
+        "Wednesday: 10:30 AM – 10:30 PM",
+        "Thursday: 10:30 AM – 10:30 PM",
+        "Friday: 10:30 AM – 10:30 PM",
+        "Saturday: 10:30 AM – 10:30 PM",
+        "Sunday: 10:30 AM – 10:30 PM"
+      ],
+      "address": "6, Haridas Ji Ki Magri Trident Road Near Oberoi Udai Vilas, Subhash Chauraha, Malla Talai, Udaipur, Rajasthan 313004, India"
+    },
+    {
+      "name": "Charcoal By Carlsson",
+      "coord": [
+        24.5794876,
+        73.6828896
+      ],
+      "desc": "Modern grill restaurant with rooftop seating and lake views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7260782387384346726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Scenic Views",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "rating": 4.2,
+      "ratingCount": 1193,
+      "website": "https://www.charcoalpb.com/",
+      "photoRef": "places/ChIJl7anf2blZzkRZuh0rxx7w2Q/photos/AcnlKN2vb66UeGEnkvK5fN2iKJEPLAWqKQDqNz40Ay5R1wjiPeQfTxkWp0UkJFLG3G-Tm_MYHqYdn8MzioUa5P69rVBcWn38RaFOQ6Fvsi8XPMxS_Daf2dZfZYkfPyqR7VtIPZE9o8Srnzb93-LyOniH8UuAZR_4iqts4dgsc-zaKUB9ccVW5zcivPegZ-rxb23gRqZxS2Qkro04mZHF6f7hLebNvYcA9xLQSQVRN-uRSlNQAJzf9nplafn8RQFa-JgzKIwdTM5mx3ZEiiCfRSBk464-0M0QC--LKAiZTQ8oyIjR2A",
+      "photoAttribution": "Charcoal By Carlsson",
+      "placeId": "ChIJl7anf2blZzkRZuh0rxx7w2Q",
+      "phone": "087691 60106",
+      "hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:30 PM",
+        "Sunday: 8:00 AM – 11:30 PM"
+      ],
+      "address": "12, Lal Ghat Road, behind Jagdish Temple, Old City, Silawatwari, Udaipur, Rajasthan 313004, India",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Jaipur Modern - Store & Kitchen",
+      "coord": [
+        26.914000899999998,
+        75.7988414
+      ],
+      "desc": "Contemporary Indian cuisine in elegant setting, family-friendly",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2521145201240514221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Family Friendly",
+        "Local Delicacies"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1516,
+      "website": "https://linktr.ee/jaipurmodern",
+      "photoRef": "places/ChIJ14Rijwa0bTkRrR4f8zPo_CI/photos/AcnlKN2pK6zSCkFL3EaeXsw3rOS4eQ6j5MKClWwid_kTWESWACSy0h23TOCh5pHuIzJ1WuqLHUsK55QAJQdl2F4O_E-nxZ0WIQZeREXOOoesobBWr9GxNbuIknEB-Q-RiBiQpXfEvD3j32zSaf3fTjpVjFZ3IzX2p_a9FGOsAvMtmkOHIpVe0ygnhK9WBN4sSxePP8Av4NkayalwbTJQzfuSiGJyPjAMgedJqGzo2yWtyuQa4Z5FK08wmobpaMmWm_UCHuKG0JE4nkVRpHLiI7oWBcjaeEqms_GL5HSJzLr0fX4",
+      "photoAttribution": "Jaipur Modern - Store & Kitchen",
+      "placeId": "ChIJ14Rijwa0bTkRrR4f8zPo_CI",
+      "phone": "077377 35806",
+      "hours": [
+        "Monday: 8:00 AM – 10:30 PM",
+        "Tuesday: 8:00 AM – 10:30 PM",
+        "Wednesday: 8:00 AM – 10:30 PM",
+        "Thursday: 8:00 AM – 10:30 PM",
+        "Friday: 8:00 AM – 10:30 PM",
+        "Saturday: 8:00 AM – 10:30 PM",
+        "Sunday: 8:00 AM – 10:30 PM"
+      ],
+      "address": "51, Dhuleshwar Garden, Sardar Patel Marg, near Kotak Bank, C Scheme, Jaipur, Rajasthan 302001, India",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Aravalli Restaurant at The Trident, Udaipur",
+      "coord": [
+        24.576645,
+        73.6695343
+      ],
+      "desc": "Lakeside dining with North Indian cuisine and garden seating",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7316562770776719665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 83,
+      "website": "https://www.tridenthotels.com/hotels-in-udaipur/restaurant-in-udaipur/aravalli?utm_source=GMBlisting&utm_medium=organic",
+      "photoRef": "places/ChIJdcCEvlvlZzkRMYH-QBOniWU/photos/AcnlKN1G2G6H7XXHoikbIWDaz9-E0Eifn52HjtfzcPoZxk5l2r2s4YK4CsofMZso319AWRkQEhWzv05T8KCVMLbALPK55OinwbOhHk1ntvhA3QlGyvtAelUZhmA_xWfV-mmruGVgEAaFyavjutQdYVa8ZUTWQod-rCQUH8c9bKwiqsp_DLs09GQMnyFVV-aJwci7_zQBXXLI3NT1FuZhlDSibBAvOW00iiAj0_7ape8GLxrbwNSXuvtKFLE7FHDObAcIyQpxHAGz9Yirf3A_I7vfm8oH54O0C4ObUYwVIodgOL5MqQ",
+      "photoAttribution": "Aravalli -Restaurant at The Trident, Udaipur",
+      "placeId": "ChIJdcCEvlvlZzkRMYH-QBOniWU",
+      "phone": "0294 243 2200",
+      "hours": [
+        "Monday: 6:30 AM – 11:00 PM",
+        "Tuesday: 6:30 AM – 11:00 PM",
+        "Wednesday: 6:30 AM – 11:00 PM",
+        "Thursday: 6:30 AM – 11:00 PM",
+        "Friday: 6:30 AM – 11:00 PM",
+        "Saturday: 6:30 AM – 11:00 PM",
+        "Sunday: 6:30 AM – 11:00 PM"
+      ],
+      "address": "Trident Rd, Pichola, Udaipur, Rajasthan 313004, India"
+    }
+  ],
   "experiences": [
     {
       "name": "Ranthambore National Park",
@@ -338,7 +1151,9 @@
       "tags": [
         "Adventure & Active",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Full-Day Activity",
+        "Iconic / Must-See"
       ],
       "phone": "0141 515 5163"
     },
@@ -361,7 +1176,8 @@
       "tags": [
         "Wellness & Spa",
         "Splurge",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -373,10 +1189,449 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "080 6975 0000"
+    },
+    {
+      "name": "Mysuru Palace",
+      "coord": [
+        12.305163,
+        76.65517489999999
+      ],
+      "desc": "Grand royal palace, intricate Indo-Saracenic architecture, illuminated evening spectacle",
+      "longDesc": "India's most magnificent palace offers families a glimpse into royal heritage with stunning architecture. The evening light show creates magical memories for children exploring ornate halls.",
+      "gmapsUrl": "https://maps.google.com/?cid=14087183641967122957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Art & Design",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 297591,
+      "website": "https://mysorepalace.karnataka.gov.in/",
+      "photoRef": "places/ChIJ-aH5AxFwrzsRDdokoeK6f8M/photos/AcnlKN22CE1yzHLKJUlI4hbBlxybnkYJQ9Gtj8I0fAgM-puF6Y1Ci8nrTKZK1EREnluR2c2yMFvjAxvCxC6acIk3pmMXBSZ0AsTbvy-fsNk_X0XMKA8lDRrySbO0zBQd1HOAxDN7DYr9kMOmU6FYfw74Kk28aPhPfuTJM8LUPjNye3PpR8QczL79b7MDToDD_f1R0LjVkNA9Pi4RnVNzBlTvdpDeC-i3B_mIUB94J1Okzf1qwdnpH5JcXxpXWH5LHU2evZKcil071I-yhJaDdh0BrkXJSBOdtdgJGFWuMGZ_2NbSlPqCyr9mlA94l3TzfafuwtnzE5prgDLAjwaTPOvAaT4sEi8CKf3lGy-SJwoQ-K3mxtlPYxKqa5QvT-522BTENk_jvMC2N94VpBic81zbb7ilKAVK4ZG5Qgu0PlqyElnI-M7-",
+      "photoAttribution": "SAURAV KUMAR",
+      "placeId": "ChIJ-aH5AxFwrzsRDdokoeK6f8M",
+      "phone": "0821 242 1051",
+      "hours": [
+        "Monday: 10:00 AM – 5:30 PM",
+        "Tuesday: 10:00 AM – 5:30 PM",
+        "Wednesday: 10:00 AM – 5:30 PM",
+        "Thursday: 10:00 AM – 5:30 PM",
+        "Friday: 10:00 AM – 5:30 PM",
+        "Saturday: 10:00 AM – 5:30 PM",
+        "Sunday: 10:00 AM – 5:30 PM"
+      ],
+      "address": "Agrahara, Chamrajpura, Mysuru, Karnataka 570001, India"
+    },
+    {
+      "name": "The City Palace",
+      "coord": [
+        26.925794300000003,
+        75.8236714
+      ],
+      "desc": "Royal palace complex with museums, courtyards, and peacocks roaming freely",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4935968491820645216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 58189,
+      "website": "https://royaljaipur.in/",
+      "photoRef": "places/ChIJwbAghgu0bTkRYHt9ATEVgEQ/photos/AcnlKN2xCgpY6y7DTJPZ-y2XYx6L3aVCniHfBDwayohMZkzZxCw9cS_b4Ed8LMT-CeeHD3ZJKfPbiHVeC8y2gg7UhNIzISbLN55nDLJ5PMrJzqEpF5yruP3fPB3aWDk3UNBRctDB26azP6tYaoQdNWAYzZVR7FRl2gytX40C2U_lrH726rjQh0-H2y_3fdWHL8AN53Vv9sTGh1_Hrtjzs1Os_EVK_oqPLtGEY1g_yDmqCwFIKLFpvGAEx96zEKlyTJWA1jIxFZEv_ZTgM97SV3qzd4TI-QvjauRgTNDgcYSdyx1e8hHXsiMhpi23-1pF8cXIpCTskM5DCr0GvJShD3_IcqhK5mLsK3UybUqstv934S_FatvTmRv_yhiulWWCY-LmByv5JMds9Ollh6oF1Q9Eo64bYmw4ttgxxkGGGV3x35XcnhRnm5pg1AYpPwWUwrPe",
+      "photoAttribution": "Latib khan",
+      "placeId": "ChIJwbAghgu0bTkRYHt9ATEVgEQ",
+      "phone": "0141 408 8888",
+      "hours": [
+        "Monday: 9:30 AM – 7:30 PM",
+        "Tuesday: 9:30 AM – 7:30 PM",
+        "Wednesday: 9:30 AM – 7:30 PM",
+        "Thursday: 9:30 AM – 7:30 PM",
+        "Friday: 9:30 AM – 7:30 PM",
+        "Saturday: 9:30 AM – 7:30 PM",
+        "Sunday: 9:30 AM – 7:30 PM"
+      ],
+      "address": "Gangori Bazaar, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India"
+    },
+    {
+      "name": "Hawa Mahal",
+      "coord": [
+        26.9240458,
+        75.8267144
+      ],
+      "desc": "Iconic Palace of Winds with 953 windows, beautiful at sunset",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9659760862336692748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Iconic / Must-See",
+        "Photography Worthy",
+        "Scenic Views",
+        "Cultural & Historical"
+      ],
+      "rating": 4.5,
+      "ratingCount": 162461,
+      "website": "https://obms-tourist.rajasthan.gov.in/place-details/Hawa-mahal",
+      "photoRef": "places/ChIJpQvTG0uxbTkRDLLMHlNdDoY/photos/AcnlKN2scQB_A3G9hkcUi7sOF9xXJBqbTsTcslRAM7thvmFqQ9Dj7CoOQhvxn93bML4Icwtwo_TtDeZeu72FXoa2CfJy5KO5gNAshuDZpNiQm_6LEDo4E1NKzvnYCXtK3JoUtThP683_jI-AGvYPPA4RKED09EPvp6GFdIgFKmBBDfkkp7syH5PC31_A5ZMrgPkiHI7ExV1A_SQMZ5aANnJqDmmFcpjgYAHcbGSLezFJm7l-FA5GRQJmJs3C-QbWV7tjzTTmxNVhVbWLhK-UrzG580QlaOWRDEi6ECTPka9GtmiBAUpRhsrCfh6lTeD2SDRy9ITFgi3ClLw1LQGkr4BKGAs9ZmnEWlB8lJXTo8hBbPJ_Q5LjAaeXFsM0uaO4-cCZFjxQq3z2z4zXlgotUvoBv7AoH8bk6r_sPNk_P9lW7eY9RgRt",
+      "photoAttribution": "Tharun Masarp",
+      "placeId": "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
+      "hours": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ],
+      "address": "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India"
+    },
+    {
+      "name": "Amber Palace",
+      "coord": [
+        26.9854865,
+        75.8513454
+      ],
+      "desc": "Majestic hilltop fort with mirror palace and elephant rides for kids",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7071178524615540267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Adventure & Active",
+        "Half-Day Trip"
+      ],
+      "rating": 4.6,
+      "ratingCount": 170357,
+      "website": "https://www.tourism.rajasthan.gov.in/amber-palace.html",
+      "photoRef": "places/ChIJ-w3Sy1qwbTkRK34UR2ffIWI/photos/AcnlKN2ZLmExb16KbtUJHFS1uYXAS-qEAGGPdBE-luBaUKwKqodSIrVhopyQhQSyz_WaGjPIT7n-0Fn_5GJtdNaQ2IXpvRJHBRcNLI0jOfWSjvOmbneojAijIr-CpIJ7w0GZKpOmWXfDIck_ho66xm-ZKvzJu_WnUmA-SEF5E6r32K_rVLJt7A4VHuZAcq0sIkbr_Yakc5qKlGH37mCPs5fqQMq3kHUta_F0wlHoER7E40wtLtGhjwuhMw4dReAeu46lDhOvzftBDv0DSbMf8l9J3Bf1SfGeMD-f0X7lOMzCxH_wJQxP1ruPK4r5hVb6bSINFd7v1wX4q9g76VOcdUODbFEBXHgGWxmAKYOgVucEEfK321JB0_kQhPkZCcpohtTWJyVd9MLJXiVzyKdwN97svL3nYhP6kzPB4CF2_qkf4RLULZY",
+      "photoAttribution": "Tanish Raj Sharma",
+      "placeId": "ChIJ-w3Sy1qwbTkRK34UR2ffIWI",
+      "phone": "0141 253 0293",
+      "hours": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ],
+      "address": "Devisinghpura, Amer, Jaipur, Rajasthan 302001, India"
+    },
+    {
+      "name": "Ranthambore Fort",
+      "coord": [
+        26.0207552,
+        76.45496949999999
+      ],
+      "desc": "UNESCO World Heritage Site historic fort within Ranthambore National Park",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14287958093312749601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Half-Day Trip"
+      ],
+      "rating": 4.5,
+      "ratingCount": 12368,
+      "website": "https://ranthamborenationalpark.net/",
+      "photoRef": "places/ChIJU6g7730nbjkRIfCSXS8GScY/photos/AcnlKN0Nhz4AXQEKUkpk-drPNAFWR8l3ZV43dh8rdbhX5R3zpEy2N3H4Sg8mGQHDY2vozUFAFrYfRsBZIhg1O-gcJWDJ7uQ-L2dxSHzUjYEzinoYxKBzQjXpHxiZVvPZ91ghzBDf7gTiuYsyHXIznMNeo7w9AJHLh7toOMHE7j51GK0-V9sN1RJsjwC8Za0okosd51Xd-ilmoornHjggqdXCr8ycA3kxhLOl7D-FLHllV8SBDA2i_xbarJ4JeNWFqnUttRu-BFwaMvRXA2RQVMEBLJnx96-9Jbd6LdqCQwet_sTR1Msqo_7cWSqVnR_AuGAF5jcXlSwZOmmYleSCXRZa_gtJ9KgU8IHG_L7jvfvJqWMEK4BrRP6wLgp3RfX_Ty2VIzdch7Ebh7HRjUsJLQzoWIy7cQlgk51iJ0ogvD1X4qeTTMc",
+      "photoAttribution": "Sagar Goyal",
+      "placeId": "ChIJU6g7730nbjkRIfCSXS8GScY",
+      "phone": "0141 282 2863",
+      "hours": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 5:00 AM – 7:00 PM",
+        "Saturday: 5:00 AM – 7:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ],
+      "address": "2, Ranthambhor Road, Vigyan Nagar, Sawai Madhopur, Ranthambhore Fort, Rajasthan 322001, India"
+    },
+    {
+      "name": "Lake Pichola Municipal Boat Ride Point",
+      "coord": [
+        24.568426199999998,
+        73.6836515
+      ],
+      "desc": "Private boat tour with views of City Palace and Lake Palace",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=688123939509796115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Photography Worthy",
+        "Family Friendly",
+        "Half-Day Trip"
+      ],
+      "rating": 4.4,
+      "ratingCount": 12652,
+      "website": "https://udaipurboating.in/",
+      "photoRef": "places/ChIJ38JojonvZzkRE33svxO1jAk/photos/AcnlKN39kS_YeH7kVLqpg6mP9fkUbsnKztQc0ZXLnTHg5gbzW3gYxyEEP-e0Kyv8_ZE8PQuOZEEw76h4w_65XlAKE18lunIdVS8DcVgJK3nVnGBb9X2vfPf4QSvMZJ0RipmQSK-5J356n7CMG0JmtE8z0_U_-kLEzGuQXrJVs1JyfgubLwfbg_GH0ZKi1kyioD4bcwdOfNskcmdEC-X-P53kXEfqWc0AKEjo7O7CH7r7SXXO4IujZSUy55hCKMZTpc2BDcg8aSIph7TxJSZ2zIN3_TymdnlJBYGdoAKKjAO6GOS1iKyj3KwVuIu6kk9bnHmcWMGNMBp_UTfu8mKZN4cYT9lnqwAZ5UABL1hlQjE9rso10WhXZeKFSFKMK5gYPs7dnbpMSHf7aRV5QOq7Zfc59ciQX826dikLxhI0seIsvBDwCWIM",
+      "photoAttribution": "suhas mathur",
+      "placeId": "ChIJ38JojonvZzkRE33svxO1jAk",
+      "phone": "1800 11 1363",
+      "hours": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ],
+      "address": "Pichola, Udaipur, Rajasthan 313001, India"
+    },
+    {
+      "name": "City Palace",
+      "coord": [
+        24.576442099999998,
+        73.6835109
+      ],
+      "desc": "Magnificent palace complex overlooking Lake Pichola with royal artifacts",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10545089978061990670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Iconic / Must-See",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 103194,
+      "website": "https://citypalacemuseum.org/",
+      "photoRef": "places/ChIJ1adZBmTlZzkRDqvq-navV5I/photos/AcnlKN0-APbDKYlUwI4yI0OShr1TUVi_46gbJzvdhoESvnpcdRaefpqwe_j6WtaONnTMyIMWH4iRtaQ8GuOh4Many6l0Z1yVWJF3QG23G27w24P1I6kZ59ZPYXPfvRh5WjrLc4L9PI7jncXDzWbzLXjZ-5S4iqC8S4JOdz8HzhbVT25PXzlYO6M7_YujTknSwU2CeEPixKrXK2cUwbRSkiYtRAbEeLX1DwXjg-_Hb2euGQoZlouElaJUTrtnx-ymW3umBqfU4SoV1PX_16Kxc6OjAcLagO889W_q-jQza9ZhxemqkWLE_If9N6lq9GFxiNvmBDYqg_CIob648YizyJB75wk_D-vliT9qdpKS2jwHeXhpiK18hEvjo2GnP6AO1DN-rYQ4h6rFYj0-OLjED6xfOK1y5w2VcuFo0iZLXecvDkHkeA",
+      "photoAttribution": "Yash Narang",
+      "placeId": "ChIJ1adZBmTlZzkRDqvq-navV5I",
+      "phone": "0294 241 9021",
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "address": "Old City, Udaipur, Rajasthan 313001, India"
+    },
+    {
+      "name": "Bagore Ki Haveli",
+      "coord": [
+        24.5800483,
+        73.6822576
+      ],
+      "desc": "Evening cultural performance with traditional Rajasthani puppets and dance",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17526235240995823629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Live Music / Entertainment",
+        "Cultural & Historical",
+        "Family Friendly"
+      ],
+      "rating": 4.5,
+      "ratingCount": 5095,
+      "website": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur/bagore-ki-haveli",
+      "photoRef": "places/ChIJA_ZPmxzlZzkRDSB9_ReyOfM/photos/AcnlKN3zGivutY4o4tGhwYvDjAYxLPliMm_sCqG5q0Sj5uqjsgC8o_x9xiqxVy442i-tv7f-BDkN9sho1kDOREwx7f1nOcTHAz_6KmRgLP86I1aAPpqiMOeRKDAdsx1uF9TuOkKAiR5TghJQGwmYnh4FOIXCndMei61naOqM3C3w09ivq6NfKfAA1t2b3934D-80ZvoZquXnd1RbtOXiLZ5cxxSHpX2AGOsq0Kn5910T6e81ngPP2BXeKKJVAsYDVQDZDVzyeXV8xTxUT8icQFLZInW7l4DjSvcCatqr3QevsLe8yZdGc8MAFx-NXacbszAkuAJDCLpQBnM4uwNV7Vuyc8KZ9z8M8PVjT1iydSqy0vijl4DpYlRnrwFpvZ6SLIJ2yys4dcmYUrA51I89o5naP3LhkOPgMl6Qx0sYeqWNea0lT4rz",
+      "photoAttribution": "SMC Ess_Emm_Cee",
+      "placeId": "ChIJA_ZPmxzlZzkRDSB9_ReyOfM",
+      "hours": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "HMJJ+2W6, Hotel Gangaur Palace, Pichola, Udaipur, Rajasthan 313004, India"
+    },
+    {
+      "name": "Monsoon Palace",
+      "coord": [
+        24.5931853,
+        73.6396056
+      ],
+      "desc": "Hilltop palace with panoramic city and lake views at sunset",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9255976409530578213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Photography Worthy",
+        "Romantic",
+        "Cultural & Historical"
+      ],
+      "rating": 4.4,
+      "ratingCount": 33529,
+      "website": "https://www.tourism.rajasthan.gov.in/monsoon-palace.html",
+      "photoRef": "places/ChIJw7A_ucr6ZzkRJTV3E4HVc4A/photos/AcnlKN2jeWPsC-3Bhmu6f6Ih2YHO9QmYCl15zN-UhN59lA9vItva2m3gwKykmp3Fet6dxaKaGOeQHaRM2zX0nXhhEu4p-f5rxmIQXbj-Vrd7N1MDbogJaa6lESUjAVd6eczms29JSCNbjm8AAN8RGnJ3wB7LPOtV8oaucKF9l3P80vrJQIToaPeaxralRJPLCSfEpTc7R_-cRyHFfo4R5tzIE_JCbM5x42IonpOqF_Xte1sYgljwVg0aLWtx2VkaF4JF1t4SYxW3bmnJ5REbgV6IJO4YcE5LsQM9aO4tKno0U4P7zXwDVoM3VDH2k7jLMcUMGrKbybH2rTjs0nTLi152R4pm2T-0B3idqdHkjt5TtmyN2gzs3AsmEoCbnN3x5_GF8jQZpvDIl7brZz6uiCKkHwGVUqWMmK9VhN8hXUmweSuew_8i",
+      "photoAttribution": "Chirag Patel",
+      "placeId": "ChIJw7A_ucr6ZzkRJTV3E4HVc4A",
+      "phone": "0141 282 2863",
+      "address": "Udaipur, Kodiyat, Rajasthan 313031, India"
+    },
+    {
+      "name": "Jagmandir Island Palace",
+      "coord": [
+        24.567594399999997,
+        73.6777615
+      ],
+      "desc": "Island palace with gardens, elephant statues, and café",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5951116065565877862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Scenic Views",
+        "Photography Worthy",
+        "Family Friendly",
+        "Cultural & Historical"
+      ],
+      "rating": 4.4,
+      "ratingCount": 10178,
+      "website": "https://www.hrhhotels.com/hotels/jagmandir_island_palace/",
+      "photoRef": "places/ChIJuQqJ2YrvZzkRZqYsAYicllI/photos/AcnlKN1UrSliu4ZtWpvzEL2yvocc-0tlUlWUECEFN8Oei825tG8AaFUnHv4gRZ7VlLfe-9R4W2DC6BlZZOOCOEeGdl9qEOBRqt-hKqHKwy3eJ5o6P4hZEm_kIkYixy6XGbTwZ81pIGTuL8XUsCkhPr8RE2X64JdilMNTXCnQtdfGPfKIsrEOgUKq_HMENYjAO5o2d3xouOLNEDlxA0cwXvq5DIPdC71to4lyWUb4aU3pgbt4RCVcg5WF2LHeMvwrBt0VZOiadSvdDRY-d0SfSat6okKQabER2tuhNsEamau4LWXFFRoEKifofB3aKG4LQNekb9ccnHexxzcRmomLOFf0fxJZDYPjuNNxHNG7HleCXb7vn6eAjJYxCtzyY6pNF3AKqp6xLF7DADw4pHqEMciPIn0vwPyKNoYGmlP9-H-_WNwSAOWS",
+      "photoAttribution": "SAMBIT BHATTACHARYA",
+      "placeId": "ChIJuQqJ2YrvZzkRZqYsAYicllI",
+      "phone": "0294 242 4186",
+      "address": "Pichola, Udaipur, Rajasthan 313001, India"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Jatayu Earth's Center",
+      "coord": [
+        8.8608338,
+        76.8663916
+      ],
+      "desc": "Giant sculpture park, adventure activities, rock climbing, zip-lining, family playground",
+      "longDesc": "A unique adventure park built around a massive bird sculpture offering thrilling activities for all ages. Kids enjoy climbing, zip-lining, and exploring interactive zones amid scenic landscape.",
+      "gmapsUrl": "https://maps.google.com/?cid=8620537672624573552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds",
+        "Full-Day Activity"
+      ],
+      "rating": 4.4,
+      "ratingCount": 40015,
+      "website": "http://www.jatayuearthscenter.in/",
+      "photoRef": "places/ChIJmZUr6tXdBTsRcAyp9VZNonc/photos/AcnlKN1R04s1MQC93E7k0BrLQsqdVfUOAi-y41XqU1lU-yusv7bmHBdsr19lVtZ1KcSxf-rxzZc0qHKUEbyAhRf5ia2d9nbBDTGLjxqQx769haoT9mFgSdYHC1fz-JvE1aBJdnWux-HP73bDOolqkTEJJDh81fuNa1DoW4fd1-jUBZRQ9AeJd1BOl_i0WBRIWeH3mFql3sUiFDMektFZ5A9GTC6iHH2XmE338iPMuMUFsjHQuEMpDiHuebfSV2MCfRkqDTROLQZ6XUyItRxJbmQCL8zhWduVvc8RGsQeRkRFhankQIMmxUsNizKiGvWy2MT6zKMp8bd56YLXIm8JGEunGK9ll0k1kzzEryHfJxoPIGtY2d_BRIS1PV1G3XSSN4G9T1i3fXt8bXaGinaNHgi1JfQM_GjJn2D7l6PEQfJ625krKObc5R_yfZ5QH91q8R_1",
+      "photoAttribution": "Manoj Rai",
+      "placeId": "ChIJmZUr6tXdBTsRcAyp9VZNonc",
+      "hours": [
+        "Monday: 9:30 AM – 5:30 PM",
+        "Tuesday: 9:30 AM – 5:30 PM",
+        "Wednesday: 9:30 AM – 5:30 PM",
+        "Thursday: 9:30 AM – 5:30 PM",
+        "Friday: 9:30 AM – 5:30 PM",
+        "Saturday: 9:30 AM – 5:30 PM",
+        "Sunday: 9:30 AM – 5:30 PM"
+      ],
+      "address": "Jatayu Nature Park Rd, Jatayu Junction, Chadayamangalam, Kerala 691534, India"
+    },
+    {
+      "name": "Lakecity miniature painting",
+      "coord": [
+        24.579838199999998,
+        73.695506
+      ],
+      "desc": "Family-friendly art class learning traditional Rajasthani miniature painting",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1465074659674716985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Art & Design",
+        "Cultural & Historical",
+        "Rainy Day"
+      ],
+      "rating": 4.9,
+      "ratingCount": 18,
+      "placeId": "ChIJt6dDPfflZzkROXtWA6T9VBQ",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Closed"
+      ],
+      "address": "67 JOGIWARA INSIDE, Old City, Surajpole, Nada Khada, Udaipur, Rajasthan 313001, India"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Devaraja market",
+      "coord": [
+        12.3104046,
+        76.65248249999999
+      ],
+      "desc": "Vibrant heritage market, spices, silk, sandalwood, flowers, authentic local atmosphere",
+      "longDesc": "Mysore's most colorful market pulses with energy and tradition, offering families an immersive cultural experience. Aromatic spices, vibrant silks, and local crafts create sensory adventures for children.",
+      "gmapsUrl": "https://maps.google.com/?cid=13425966264962779212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Family Friendly",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1533,
+      "photoRef": "places/ChIJF2TzXABxrzsRTAh8JS-dUro/photos/AcnlKN2NAsqGKUUh8DbeKHseM3ejc0SqJ1wDcgVJIFZwE4piyfv_tGUmw-mbSP7g4Fsa5clAE_G7KYjwIz8SCqnnAKCduZCo2oNxwF6QiKm1QonRgUMjEHGZEWWY3elWO6HoudlXh4sxUXRjKQiyqa806L43VDyZI7Uz714f5R-J0wtLBE2ZwCjt-3oNoWB2to4dEaYd-dmsz3RoPxloHk6AbRyxHO6a6N1TEKdtiNSaagpUzgocuzH7cp28hhu0NPI_6Cq8GlLxUiEFqAiZSxqRDjcne-CyNNtFJn9UYkW9a5qBIXk8ElZKW2FAP8KOVNKe7nHSVOIZ8Nw_NjMsJrwdWMe36M9qeWn5WJ3jvT-SgFgRDBDnSVha45cogzJ7a5g-DoPM_6uOVmF0pdLN1MqEJJqFFDC2YPti0Fyc6lUrjOYQ1kbCn5qxfM70qcCMiTTF",
+      "photoAttribution": "석상열",
+      "placeId": "ChIJF2TzXABxrzsRTAh8JS-dUro",
+      "hours": [
+        "Monday: 6:00 AM – 8:00 PM",
+        "Tuesday: 6:00 AM – 8:00 PM",
+        "Wednesday: 6:00 AM – 8:00 PM",
+        "Thursday: 6:00 AM – 8:00 PM",
+        "Friday: 6:00 AM – 8:00 PM",
+        "Saturday: 6:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "8M62+5X9, Sayyaji Rao Rd, Medar Block, Tilak Nagar, Mysuru, Karnataka 570001, India"
+    },
+    {
+      "name": "Bapu Bazaar Shopping Street, Udaipur",
+      "coord": [
+        24.582254799999998,
+        73.69573799999999
+      ],
+      "desc": "Bada Bazaar and Hathi Pol market with miniature paintings and textiles",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10121149710911691425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Hidden Gem",
+        "Budget Friendly"
+      ],
+      "rating": 4.2,
+      "ratingCount": 1992,
+      "photoRef": "places/ChIJGwWN-2TlZzkRoVpwtQmMdYw/photos/AcnlKN0qD5VNp-r5tAzBC1PqYdMYFjXP1bQWGgbQZf_j_9mgEVHF_B6W6g5r7h8MQ0iyfGDdwOmk2zVcM4xIeHU4TKaVQbvD_cP6PYbqPkYi3eA7Y7YCR010MLueRs1GtdskE6bijXgPGv8RdiTk_FVSzuC2rOjBOw6wKJ2mjq2y8sB40YN-mKKMK6_NQ7gHQ2rebUF9aLROz6bJyLAAsDyl2TBiAfUrByKDSLLhTw1B0ZdLKYH-644HnaVi353CpiZNkvtqHLvHvYge4cnv-jfJghrYWZ38hAJop8Z4tyUMBcDWErS9WOXsaEfaAVIximylNB5gzlpD-E6i9h2_FN5st9ENbABICfR-PCoIfkg93-zgORrGzNh4opMuoakzXV3q9MYv9RKN2ZvQl0OsUynrf_6sg_NZoNtU4tP4EJbonozeo9zl",
+      "photoAttribution": "Shubham Gajjar",
+      "placeId": "ChIJGwWN-2TlZzkRoVpwtQmMdYw",
+      "hours": [
+        "Monday: 9:30 AM – 9:00 PM",
+        "Tuesday: 9:30 AM – 9:00 PM",
+        "Wednesday: 9:30 AM – 9:00 PM",
+        "Thursday: 9:30 AM – 9:00 PM",
+        "Friday: 9:30 AM – 9:00 PM",
+        "Saturday: 9:30 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "233-229, Bapu Bazar Main Rd, Old City, Bapu Bazar, Nada Khada, Udaipur, Rajasthan 313001, India"
+    }
+  ],
   "cityCenters": {
     "Rishikesh": [
       28.1042,
@@ -424,5 +1679,480 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Rajasthan's Royal Palaces & Tigers (10 Days)",
+      "description": "A magical family journey through India's most enchanting palaces, wildlife safaris searching for Bengal tigers, and lakeside luxury that will captivate children and parents alike.",
+      "familyFriendly": true,
+      "duration": 10,
+      "bases": [
+        "Jaipur",
+        "Udaipur"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Jaipur",
+          "dayType": "urban",
+          "base": "Jaipur",
+          "items": [
+            {
+              "name": "Villa Palladio Jaipur",
+              "type": "hotel",
+              "coord": [
+                26.924201,
+                75.91743919999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Spice Court",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Rajasthani restaurant in a heritage haveli setting near City Palace",
+              "suggestedCity": "Jaipur"
+            },
+            {
+              "name": "Gentle afternoon exploring the hotel gardens",
+              "type": "freeTime"
+            },
+            {
+              "name": "Peacock Rooftop Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Rooftop restaurant with traditional Rajasthani thali and city views, family-friendly",
+              "suggestedCity": "Jaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — The Pink City",
+          "dayType": "urban",
+          "base": "Jaipur",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Tapri Central",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Charming rooftop tea cafe with traditional Indian chai and snacks",
+              "suggestedCity": "Jaipur"
+            },
+            {
+              "name": "City Palace Jaipur",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Royal palace complex with museums, courtyards, and peacocks roaming freely",
+              "suggestedCity": "Jaipur"
+            },
+            {
+              "name": "Laxmi Misthan Bhandar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Historic vegetarian restaurant famous for Rajasthani sweets and snacks since 1727",
+              "suggestedCity": "Jaipur"
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Evening at Hawa Mahal for photos",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Iconic Palace of Winds with 953 windows, beautiful at sunset",
+              "suggestedCity": "Jaipur"
+            },
+            {
+              "name": "1135 AD",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Royal dining experience inside Amber Fort with traditional Rajasthani cuisine",
+              "suggestedCity": "Jaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Amber Fort & Tiger Safari Prep",
+          "dayType": "suburban",
+          "base": "Jaipur",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning visit to Amber Fort",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Majestic hilltop fort with mirror palace and elephant rides for kids",
+              "suggestedCity": "Jaipur"
+            },
+            {
+              "name": "Jaipur Modern Kitchen",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary Indian cuisine in elegant setting, family-friendly",
+              "suggestedCity": "Jaipur"
+            },
+            {
+              "name": "Pool time at the hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Packing and early dinner prep for morning safari",
+              "type": "info"
+            },
+            {
+              "name": "Bar Palladio",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Italian restaurant with dreamy blue-and-white decor, early dining available",
+              "suggestedCity": "Jaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Tiger Safari at Ranthambore",
+          "dayType": "rural",
+          "base": "Jaipur",
+          "items": [
+            {
+              "name": "Pre-dawn departure for Ranthambore (3.5 hour drive)",
+              "type": "info"
+            },
+            {
+              "name": "Packed breakfast from hotel",
+              "type": "breakfast"
+            },
+            {
+              "name": "Ranthambore National Park",
+              "type": "sightseeing",
+              "coord": [
+                25.9775867,
+                76.5532869
+              ]
+            },
+            {
+              "name": "The Oberoi Vanyavilas Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Luxury dining at The Oberoi Vanyavilas resort near Ranthambore",
+              "suggestedCity": "Ranthambore"
+            },
+            {
+              "name": "Ranthambore Fort",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "historical_sites",
+              "suggestedDesc": "UNESCO World Heritage Site historic fort within Ranthambore National Park",
+              "suggestedCity": "Ranthambore"
+            },
+            {
+              "name": "Return drive to Jaipur (arrive evening)",
+              "type": "info"
+            },
+            {
+              "name": "Suvarna Mahal",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Royal fine dining restaurant at Rambagh Palace serving Indian cuisine",
+              "suggestedCity": "Jaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Travel to Udaipur",
+          "dayType": "suburban",
+          "base": "Jaipur",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Mid-morning departure for Udaipur",
+              "type": "info"
+            },
+            {
+              "name": "Private car transfer to Udaipur (6-7 hours with lunch stop)",
+              "type": "info"
+            },
+            {
+              "name": "Roadside lunch at Charbagh",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular highway restaurant with North Indian cuisine and rest facilities",
+              "suggestedCity": "Chittorgarh"
+            },
+            {
+              "name": "Handi Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Famous Jaipur restaurant known for authentic Rajasthani cuisine and laal maas",
+              "suggestedCity": "Jaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 Evening — Arrival in Udaipur",
+          "dayType": "urban",
+          "base": "Udaipur",
+          "items": [
+            {
+              "name": "The Oberoi Udaivilas, Udaipur",
+              "type": "hotel",
+              "coord": [
+                24.577382699999998,
+                73.67244120000001
+              ]
+            },
+            {
+              "name": "Evening arrival and check-in",
+              "type": "info"
+            },
+            {
+              "name": "Sunset boat ride on Lake Pichola",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Private boat tour with views of City Palace and Lake Palace",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Jagat Niwas Palace Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Rooftop restaurant with lake views at heritage hotel near City Palace",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Ambrai Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Romantic lakeside dining with palace views and traditional Rajasthani cuisine",
+              "suggestedCity": "Udaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Udaipur's Lake Palace",
+          "dayType": "urban",
+          "base": "Udaipur",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Jheel's Ginger Coffee Bar & Bakery",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lakeside cafe with excellent coffee and pastries, relaxed atmosphere",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "City Palace Museum",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Magnificent palace complex overlooking Lake Pichola with royal artifacts",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Upre by 1559 AD",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Rooftop restaurant in City Palace with panoramic lake views",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Afternoon pool and spa time at the hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Evening visit to Bagore Ki Haveli for folk dance show",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Evening cultural performance with traditional Rajasthani puppets and dance",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Sheesh Mahal",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fine dining at Leela Palace with mirror work interiors and contemporary Indian cuisine",
+              "suggestedCity": "Udaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Exploring Old Udaipur",
+          "dayType": "urban",
+          "base": "Udaipur",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning walk through old city bazaars",
+              "type": "shopping",
+              "suggested": true,
+              "suggestedCategory": "markets",
+              "suggestedDesc": "Bada Bazaar and Hathi Pol market with miniature paintings and textiles",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Miniature painting workshop for kids",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Family-friendly art class learning traditional Rajasthani miniature painting",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Millets of Mewar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Healthy farm-to-table restaurant with organic ingredients and kid-friendly options",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Sunset at Sajjangarh Monsoon Palace",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Hilltop palace with panoramic city and lake views at sunset",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Trident Hotel Aravalli Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lakeside dining with North Indian cuisine and garden seating",
+              "suggestedCity": "Udaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Relaxation & Lake Activities",
+          "dayType": "urban",
+          "base": "Udaipur",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Lazy morning at the hotel pool",
+              "type": "freeTime"
+            },
+            {
+              "name": "Private boat ride to Jag Mandir Island Palace",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Island palace with gardens, elephant statues, and café",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Lunch at Jag Mandir Island",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Darikhana restaurant on island palace with lake views",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Return to hotel for rest",
+              "type": "info"
+            },
+            {
+              "name": "Late afternoon spa treatment (parents) while kids enjoy hotel activities",
+              "type": "optional"
+            },
+            {
+              "name": "Whistling Teal",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fine dining restaurant at The Leela Palace Udaipur with lake views",
+              "suggestedCity": "Udaipur"
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Farewell to Udaipur",
+          "dayType": "urban",
+          "base": "Udaipur",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final morning swim and packing",
+              "type": "freeTime"
+            },
+            {
+              "name": "Check out and transfer to Udaipur Airport",
+              "type": "info"
+            },
+            {
+              "name": "Lunch at airport lounge",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Travel Food Court at Udaipur Airport with multiple cuisine options",
+              "suggestedCity": "Udaipur"
+            },
+            {
+              "name": "Departure from Udaipur",
+              "type": "info"
+            },
+            {
+              "name": "Charcoal by Carlsson",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Modern grill restaurant with rooftop seating and lake views",
+              "suggestedCity": "Udaipur"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

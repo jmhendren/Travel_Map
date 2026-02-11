@@ -47,7 +47,9 @@
       "tags": [
         "Family Friendly",
         "Splurge",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Playgrounds",
+        "Good for Groups"
       ],
       "phone": "04 426 0000"
     },
@@ -70,7 +72,9 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Beach",
+        "Iconic / Must-See"
       ],
       "phone": "04 368 3355"
     },
@@ -93,7 +97,9 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Beach",
+        "Iconic / Must-See"
       ],
       "phone": "04 540 8888"
     },
@@ -116,7 +122,8 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Art & Design"
+        "Art & Design",
+        "Beach"
       ],
       "phone": "04 777 5555"
     },
@@ -139,7 +146,8 @@
       "tags": [
         "Romantic",
         "Splurge",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Beach"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -191,7 +199,8 @@
         "Splurge",
         "Photography Worthy",
         "Art & Design",
-        "Romantic"
+        "Romantic",
+        "Hidden Gem"
       ]
     },
     {
@@ -215,7 +224,9 @@
         "Photography Worthy",
         "Splurge",
         "Wellness & Spa",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Beach",
+        "Hidden Gem"
       ],
       "phone": "4023 0666"
     }
@@ -240,7 +251,8 @@
       "tags": [
         "Romantic",
         "Cultural & Historical",
-        "Fine Dining"
+        "Fine Dining",
+        "Reservations Recommended"
       ],
       "hours": [
         "Monday: 7:00 AM – 12:00 AM",
@@ -251,6 +263,544 @@
         "Saturday: 7:00 AM – 12:00 AM",
         "Sunday: 7:00 AM – 12:00 AM"
       ]
+    },
+    {
+      "name": "Gordon Ramsay's Bread Street Kitchen & Bar",
+      "coord": [
+        25.131584399999998,
+        55.118517499999996
+      ],
+      "desc": "Gordon Ramsay's family-friendly restaurant at Atlantis with diverse menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18063805804946458494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Dinner",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.1,
+      "ratingCount": 2536,
+      "website": "https://www.atlantis.com/dubai/dining/gordon-ramsay-bread-street-kitchen?utm_source=googleplaces&utm_medium=location&utm_campaign=bsk&utm_content=listing",
+      "photoRef": "places/ChIJm-Jx_T4VXz4Rfgd5Z6yHr_o/photos/AcnlKN0J9qZUFEgh77RsP054K2DxE9Rl907q_wbEJ0eDz07NrCi9x6uTTcGxQdc-BcI-W_CoV47EocyHfAYPhHD-P6xni6dcna3SJMVy8luB3rrB-yd-J2TH0vctCfgMgvuUDDgbJIYg0VAokyTvxKlRaw5P5-Uk544s9FCuYJrhv_4yDmCrKXl3w3soVNinS7UkjA5x5iIdJ98N8Ak_QC5-DKTHtBTob8t3G1ZkUOlGhp9Bu5e7YbHdBdUPL_zamrOh49upqiAcd9LnCWCygXJ4hpjnK9TG0LUNHWVAnOoIdzX-2A",
+      "photoAttribution": "Gordon Ramsay's Bread Street Kitchen & Bar",
+      "placeId": "ChIJm-Jx_T4VXz4Rfgd5Z6yHr_o",
+      "phone": "04 426 2626",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "Atlantis The Palm, Dubai - Crescent Road - نخلة جميرا - دبي - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Kaleidoscope",
+      "coord": [
+        25.130940799999998,
+        55.1179358
+      ],
+      "desc": "International buffet at Atlantis with kid-friendly stations and views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2987708463678700366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Scenic Views"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2803,
+      "website": "https://www.atlantis.com/dubai/dining/kaleidoscope?utm_source=googleplaces&utm_medium=location&utm_campaign=kaleidoscope&utm_content=listing",
+      "photoRef": "places/ChIJRyquSD4VXz4RTjv_pQR5dik/photos/AcnlKN0DddufsadALU1z8iJ4jgXFWSiOMKEkDkHlGAjpe-7ga3CbsOHHhIyn_YulmhSsnS0inKf6-Wj-W78ZSs_o3ushjRJaU9k5URYCqTyDQNrS6siVLu38TPHQmy9KGMwE5pCa-ert6hZ91Q7yU_tPFH_sBiwiFkHpH-fxg1qqaWkLOgWKuRuZoSPmRoO_zS45MQcEs9CaslQo5nPAHWp_RbYAdttezTbmZNkcJt6eDnuOXZNQKSo05KgKoUIAS2Y27Dw1HTf-pXQhKHzIa7OxmSL3NNbXaXXPSiFL7bF6AMlSN3mX90Ob-W5Gbm9kxLhA-UtV_Xp9Mwd2f3hfyO7DPp8CqOCbmrxHughleuQrf9LLX0OZDdu8YIS6ukg9HFG7_ZdsJPw93mWruTwnDlp7dao5ViUAscbBvIbRsmQC9ac",
+      "photoAttribution": "Ana Maria",
+      "placeId": "ChIJRyquSD4VXz4RTjv_pQR5dik",
+      "phone": "04 426 2626",
+      "hours": [
+        "Monday: 7:00 – 11:30 AM, 6:00 – 11:00 PM",
+        "Tuesday: 7:00 – 11:30 AM, 6:00 – 11:00 PM",
+        "Wednesday: 7:00 – 11:30 AM, 6:00 – 11:00 PM",
+        "Thursday: 7:00 – 11:30 AM, 6:00 – 11:00 PM",
+        "Friday: 7:00 – 11:30 AM, 6:00 – 11:00 PM",
+        "Saturday: 7:00 – 11:30 AM, 6:00 – 11:00 PM",
+        "Sunday: 7:00 – 11:30 AM, 6:00 – 11:00 PM"
+      ],
+      "address": "Atlantis The Palm - The Palm Jumeirah - Dubai - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Li Beirut",
+      "coord": [
+        24.4584889,
+        54.3222987
+      ],
+      "desc": "Lebanese restaurant at Saadiyat with mezze and grilled meats",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18077046569221113817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Good for Lunch"
+      ],
+      "rating": 4.6,
+      "ratingCount": 358,
+      "website": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/li-beirut/",
+      "photoRef": "places/ChIJs0OGRxhmXj4R2UeeEhSS3vo/photos/AcnlKN1UEiLNk4-oQyewS90k9rXFW0PfZkwuTpmkiuHJYZ7iQPGbZZv-cWUMaWS_qrDSazMY87-LN_1ITYdNp49KI67CouQwL3u2bQtM7mvrqKvXkA_y2AAp8KyMDHUHp3WX3ZgNVAYYLNwAvKp-hr5ME25RatoGDQFGTiyKd6elbSa2-WAfvSUd1D3LRCE4Pm5nv7SShbftilCZDytrAzvXp_brDEc2eFWkJ_hB7yrp_PgCm763A5S91oBG12kDRLvkLw3WYX3Ez6VoHadlrYmthZ28nQXIowFe74TzjAkWZSBw5g",
+      "photoAttribution": "Li Beirut",
+      "placeId": "ChIJs0OGRxhmXj4R2UeeEhSS3vo",
+      "phone": "02 811 5666",
+      "hours": [
+        "Monday: 7:00 – 11:30 PM",
+        "Tuesday: 7:00 – 11:30 PM",
+        "Wednesday: 7:00 – 11:30 PM",
+        "Thursday: 7:00 – 11:30 PM",
+        "Friday: 7:00 – 11:30 PM",
+        "Saturday: 7:00 – 11:30 PM",
+        "Sunday: 7:00 – 11:30 PM"
+      ],
+      "address": "Podium 2 - King Abdullah Bin Abdulaziz Al Saud St - Al Bateen - W32 - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "Turquoise",
+      "coord": [
+        24.542975499999997,
+        54.4331147
+      ],
+      "desc": "Beachfront dining at Saadiyat Rotana with Mediterranean cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12106355140914039255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4,
+      "ratingCount": 4,
+      "website": "https://restaurantsandbars.accor.com/fr/restaurant/B399_R001?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps",
+      "photoRef": "places/ChIJc1c1_cpnXj4R18nnwttpAqg/photos/AcnlKN11-YwcWahbj4qtiozJu5BHzG4AHqKlXqdbfJ7eTSAvdn4EWcYlBGOBlt06bd_0KxBVxvIU_3dNZxQKLqAijZi1nTZUbT5P-xyl_wYWoICtOub68xjQNHJmxAb9G84DPs0Pm-5d-8rlLh2yqQVy6CAcIuQ2gNcfHLlC1cYKy_cFmQCWusSpFYXoBejGUPBn7hSoiC2S7Pre26NHGMxzcm0wXljnZLOoX5ftgWopUr1mZWy_Uf6DWX1w0yndW6ibXBERnM82W6dqommu6eFoxE5Vodc2lfQiWdIPNW5iiUNw6g",
+      "photoAttribution": "Turquoise",
+      "placeId": "ChIJc1c1_cpnXj4R18nnwttpAqg",
+      "phone": "02 249 2222",
+      "hours": [
+        "Monday: 7:00 – 11:00 AM, 12:30 – 3:30 PM, 7:00 – 10:00 PM",
+        "Tuesday: 7:00 – 11:00 AM, 12:30 – 3:30 PM, 7:00 – 10:00 PM",
+        "Wednesday: 7:00 – 11:00 AM, 12:30 – 3:30 PM, 7:00 – 10:00 PM",
+        "Thursday: 7:00 – 11:00 AM, 12:30 – 3:30 PM, 7:00 – 10:00 PM",
+        "Friday: 7:00 – 11:00 AM, 12:30 – 3:30 PM, 7:00 – 10:00 PM",
+        "Saturday: 7:00 – 11:00 AM, 12:30 – 3:30 PM, 7:00 – 10:00 PM",
+        "Sunday: 7:00 – 11:00 AM, 12:30 – 3:30 PM, 7:00 – 10:00 PM"
+      ],
+      "address": "Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "Art Lounge Louvre Abu Dhabi",
+      "coord": [
+        24.5333048,
+        54.397921999999994
+      ],
+      "desc": "Museum cafe with light meals and outdoor seating",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18237540928920444516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Rainy Day",
+        "Good for Lunch",
+        "Cultural & Historical"
+      ],
+      "rating": 4.7,
+      "ratingCount": 282,
+      "website": "https://www.louvreabudhabi.ae/en/visit/art-lounge",
+      "photoRef": "places/ChIJW4yWoBZnXj4RZF7zJNnCGP0/photos/AcnlKN2e8CfojitngSNgo06l2wiysxX7g2rQh2zBSctp2YNiYDSWc6m3sx5dQJ2PRlJ-dZQQfonuowYXLHIg5zKVuFHVwhB8MDlldDBGN5A9KouTFykOI3GVo-gkHvfp2QuCHjhnJBC2kTKllmg079YJMs1mIKBSaeJ2op9FoU-a0klku-_HusDOzUdS3evMPA6deNXG3SqOCAn7BTkugmH41pMpVjYGupr7YEjztIO2WkzrbSkBRM0kps16WqYAxzv6stHgx8PCz-Sssjn9d4-jVvEeRA6QrF6BothS2Wn6La5h-w",
+      "photoAttribution": "Art Lounge Louvre Abu Dhabi",
+      "placeId": "ChIJW4yWoBZnXj4RZF7zJNnCGP0",
+      "phone": "052 799 4538",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 PM – 12:00 AM",
+        "Wednesday: 5:00 PM – 12:00 AM",
+        "Thursday: 5:00 PM – 12:00 AM",
+        "Friday: 5:00 PM – 12:00 AM",
+        "Saturday: 5:00 PM – 12:00 AM",
+        "Sunday: 5:00 PM – 12:00 AM"
+      ],
+      "address": "Saadiyat Cultural District 1 - Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "Sontaya Abu Dhabi",
+      "coord": [
+        24.5398848,
+        54.424031299999996
+      ],
+      "desc": "Thai restaurant at Saadiyat Rotana with family-friendly curries",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1267575261721210676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner"
+      ],
+      "rating": 4.6,
+      "ratingCount": 452,
+      "website": "http://www.sontayaabudhabi.com/",
+      "photoRef": "places/ChIJreHJ6VxnXj4RNC_3EPxUlxE/photos/AcnlKN2EuQSq7tuzdgWj0YtidDERhFfi7YAcWS6qpLqJzq0GxiAVmMxt8YdlRN6W4n_y6TGe1v0ieD7r8qK7Npsook0RqKppFkLFco4AUq2Hndxp4dRj-O2j8Lmov0r7Zg4hVRPLahAUBUTlOXPyTmjGM7cZIbUFhoPVHotZhh8SoHBjxZ09irGtgvbF2C4EL_eCiP4v9QUhx62oGLzhANn-tiwb68M-lQwdgAA1Kc0bhqNKe21mR7v36HBKOp-CC3duXhSyWu4U89VfqTO2QsbWYImI9e76pAkb15fl503AM5iQfg",
+      "photoAttribution": "Sontaya Abu Dhabi",
+      "placeId": "ChIJreHJ6VxnXj4RNC_3EPxUlxE",
+      "phone": "02 498 8088",
+      "hours": [
+        "Monday: 1:00 – 4:00 PM, 6:00 PM – 12:00 AM",
+        "Tuesday: 1:00 – 4:00 PM, 6:00 PM – 12:00 AM",
+        "Wednesday: 1:00 – 4:00 PM, 6:00 PM – 12:00 AM",
+        "Thursday: 1:00 – 4:00 PM, 6:00 PM – 12:00 AM",
+        "Friday: 1:00 – 4:00 PM, 6:00 PM – 12:00 AM",
+        "Saturday: 1:00 – 4:00 PM, 6:00 PM – 12:00 AM",
+        "Sunday: 1:00 – 4:00 PM, 6:00 PM – 12:00 AM"
+      ],
+      "address": "The St Regis Saadiyat Island Resort - Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "THE SUM OF US",
+      "coord": [
+        25.2295765,
+        55.2859169
+      ],
+      "desc": "Contemporary café in DIFC offering healthy bowls, salads, and international dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9198782759616604598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2858,
+      "website": "https://eatx.com/the-sum-of-us/",
+      "photoRef": "places/ChIJ8fJbT-9CXz4RtmnvwC6kqH8/photos/AcnlKN2KDxrneuAjxfsExeLeGImSpTervp9m_8Zxsa8-Wbv_k0TxieoGX4M0090JFeW9x6EItO2pGyVQUjEkRyWjpBI8oo9hk46t0VBMwM1iS1QQHROREx8nSNV-yS59fqXrYlzDCrcoEiaz8FEFCuM-kfXld6PCT71Xe1fDYiGexLWqOUawP_3atCuVgcrMKi5F1OZhdyAsuxcZ-AVIf0txKrdqMC9oodk5ZBw1u92vsfuwBnGk7eV_QqOmlg1XFkeOwFhzrUXZGd4ic9UvP43vafR9KHXRo3qn1H0ageB9Xziubg",
+      "photoAttribution": "THE SUM OF US",
+      "placeId": "ChIJ8fJbT-9CXz4RtmnvwC6kqH8",
+      "phone": "056 445 7526",
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "address": "Ground Floor, Burj Al Salam, 6th Street - Trade Centre - Trade Center First - Dubai - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Seafire Steakhouse",
+      "coord": [
+        25.1319058,
+        55.1188478
+      ],
+      "desc": "Upscale steakhouse at Atlantis with ocean views and family-friendly service",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11630550051506221148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1028,
+      "website": "https://www.atlantis.com/dubai/dining/seafire-steakhouse?utm_source=googleplaces&utm_medium=location&utm_campaign=seafire&utm_content=listing",
+      "photoRef": "places/ChIJnz2cOz4VXz4RXPBtiqYDaKE/photos/AcnlKN3QR24Ua7auTWrkLGAqkGX7DDJPeALkJqHsWlCo5aE6zCHiFX-PMxMdxTRqL8WsPxzKg18TtguxPmAW8ugDhM_SNhJtnF3_pQcvk8FIa3O1eCjggDVeJRJlTLOb2gK7C4jxhXkiEfedRghciJOiEDHL5g0UMXx2JuUHwhgO9WExwvbGnGGpQs4OokS_cAli3yp5jry-YDHVenH2wCwTdIPZ2flKYgTdwWOt46UCLPlMMGZnLdmajkWVoISTXA1k1NWiTP8ABmfrHsXfR9sEagNkVgOjt0z03u1yxQ5Umj9YFQ",
+      "photoAttribution": "Seafire Steakhouse",
+      "placeId": "ChIJnz2cOz4VXz4RXPBtiqYDaKE",
+      "phone": "04 426 2626",
+      "hours": [
+        "Monday: 6:00 – 11:00 PM",
+        "Tuesday: 6:00 – 11:00 PM",
+        "Wednesday: 6:00 – 11:00 PM",
+        "Thursday: 6:00 – 11:00 PM",
+        "Friday: 6:00 – 11:00 PM",
+        "Saturday: 6:00 – 11:00 PM",
+        "Sunday: 6:00 – 11:00 PM"
+      ],
+      "address": "Atlantis - The Palm Jumeirah - Dubai - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Eataly",
+      "coord": [
+        25.1959074,
+        55.2788092
+      ],
+      "desc": "Italian marketplace at Dubai Mall with fresh pasta and gelato",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=221182122820346125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Sweet Treats",
+        "Shopping"
+      ],
+      "rating": 4.7,
+      "ratingCount": 9120,
+      "website": "https://www.eatalyarabia.com/?y_source=1_ODA2MzQwMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJjeQxxIrQXT4RDaFfBfjLEQM/photos/AcnlKN0EAA0pL7Kx4nurA5yTrI8XLJ9Gb4sHRpuubI_mUKm7qkb8subRBuJutfG9ywAKHRGmjKmo8tuzGC1gMo-jy_4U6QMlSa1hqZzV4ZwYSDDGnmr27H7DJG0S-gDihmIyevl-LVwhgYJi5U9pWM19g_QXZLfmcLuUVk4rD4Ys5CCOhxtg3hDuuBBhuSPlqlP4VYuuFueLMbz18ERcVysYmjI3eFLfiM8GdkB189PBcD9QOCRrdhxyP4H89mpceeiGAKACBtxao5LevYRlUxTHvxZxPa52o20PHaBGUz2z6Rv6nA",
+      "photoAttribution": "Eataly",
+      "placeId": "ChIJjeQxxIrQXT4RDaFfBfjLEQM",
+      "phone": "04 330 8899",
+      "hours": [
+        "Monday: 9:00 AM – 12:00 AM",
+        "Tuesday: 9:00 AM – 12:00 AM",
+        "Wednesday: 9:00 AM – 12:00 AM",
+        "Thursday: 9:00 AM – 12:00 AM",
+        "Friday: 9:00 AM – 1:00 AM",
+        "Saturday: 9:00 AM – 1:00 AM",
+        "Sunday: 9:00 AM – 12:00 AM"
+      ],
+      "address": "Dubai Mall - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Thiptara",
+      "coord": [
+        25.1942558,
+        55.2749792
+      ],
+      "desc": "Thai restaurant with Burj Khalifa views and family-friendly terrace",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4319418300318664341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Dinner",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1819,
+      "website": "http://www.palacehotels.com/",
+      "photoRef": "places/ChIJRcbZaklDXz4RlcbQEg-o8Ts/photos/AcnlKN2sYVnYWsMun2j2HUj2pOeRpSjyhMnDa1FrjxY2krNGcaRHvB-khiyW9vgwAFi5RPO9nCI21N4uapT97S1c5tg2TKZAdx2pzrzP1hzVyMatXAlvk-pCprumQqV_GK7a6vsXyH6msQSmm2_8XUfaYXYa2Ip5YrgABGTc4jDRwC9QTwiu0SKiCR-s17LVeUU3ObBJXjM7BEtWspF52ealOHMnCJlmvoi9FD18zXaMoUNNlIvJqXhrL6hizvPHPS-v9R19MEMwc_mlPwJeXxVLWLvh6tHbP5wyT31ENz4d-E_Y2A",
+      "photoAttribution": "Thiptara",
+      "placeId": "ChIJRcbZaklDXz4RlcbQEg-o8Ts",
+      "phone": "04 428 7961",
+      "hours": [
+        "Monday: 12:30 – 3:30 PM, 6:00 – 11:30 PM",
+        "Tuesday: 12:30 – 3:30 PM, 6:00 – 11:30 PM",
+        "Wednesday: 12:30 – 3:30 PM, 6:00 – 11:30 PM",
+        "Thursday: 12:30 – 3:30 PM, 6:00 – 11:30 PM",
+        "Friday: 12:30 – 3:30 PM, 6:00 – 11:30 PM",
+        "Saturday: 12:30 – 3:30 PM, 6:00 – 11:30 PM",
+        "Sunday: 12:30 – 3:30 PM, 6:00 – 11:30 PM"
+      ],
+      "address": "Ground Level, Palace Downtown 9770 - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Hakkasan Abu Dhabi",
+      "coord": [
+        24.462711,
+        54.318627799999994
+      ],
+      "desc": "Michelin-starred modern Cantonese restaurant at Emirates Palace",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2918975589857347337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1100,
+      "website": "https://hakkasan.com/abu-dhabi/",
+      "photoRef": "places/ChIJp_C3jZZlXj4RCcd7ZdVIgig/photos/AcnlKN1CXf3SD_w_4n5RBp01wS3NuamGDLjdwRyi1Ff3h7vWOeU4E2UAupe-j585ecSeefrpd5TUtzWGLZ38dHxy2Gz6petqL1xOD1VlkfLYUamidOG7t1TPlCoW-WwJTALylK3OZt0fRyqg5R75lonCmafsfCuMZyR4a8jxrdne1wvNWSW5CY9hp3qwHadyB_FhyizisEL5e2aJ-cFg2aTW5Ic5l-qp8Cfn5K9qX9AhMZUKpNCKP4TsjTqB7PIp5YkNwfiuZkvIh3-ULyPe4PCZ1bfh8MLrI6_8uk4iDFPKKjk",
+      "photoAttribution": "Hakkasan Abu Dhabi",
+      "placeId": "ChIJp_C3jZZlXj4RCcd7ZdVIgig",
+      "phone": "02 690 7739",
+      "hours": [
+        "Monday: 6:00 – 11:30 PM",
+        "Tuesday: 6:00 – 11:30 PM",
+        "Wednesday: 6:00 – 11:30 PM",
+        "Thursday: 6:00 – 11:30 PM",
+        "Friday: 6:00 – 11:30 PM",
+        "Saturday: 12:00 – 3:30 PM, 6:00 – 11:30 PM",
+        "Sunday: 6:00 – 11:30 PM"
+      ],
+      "address": "Emirates Palace Mandarin Oriental - W Corniche Rd - Al Ras Al Akhdar - Abu Dhabi - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Nobu Dubai",
+      "coord": [
+        25.1302611,
+        55.1168911
+      ],
+      "desc": "Upscale Japanese at Atlantis with kid-friendly options available",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4678323895181518828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Family Friendly",
+        "Good for Dinner",
+        "Splurge"
+      ],
+      "rating": 4.5,
+      "ratingCount": 2802,
+      "website": "https://www.nobudubai.com/noburestaurant?utm_source=googleplaces&utm_medium=location&utm_campaign=nobu_dubai&utm_content=listing",
+      "photoRef": "places/ChIJld1nSitrXz4R7CeEvMu-7EA/photos/AcnlKN12haHSUGrFf1SEswCuz4Dgafn7GnJcMvWxMsU31z6sFB9Ky9aK8CEcrPuOimbPqsdnkRn4WPsH06gRh2pLgyIcuDHEmmHhXeXfsVn2j-WH_hHn7gPlvUa-edO1Hwf3MF7wnkWG0F7CVzl5DaFVkjMAOSW3RWSkyCA2X3UKWzIEGQET9eUfGtjQQ_jZ0XWboYFEQPupQwO0YGG7R5W2M8CqzcXKaK7xX3SqiZsIHoy5QRZjeYintMY7dZSj3Mteb52PpeoCrJGeC59M05pfLYx0gYBZAadorKDsrGZDOHpMEg",
+      "photoAttribution": "Nobu Dubai",
+      "placeId": "ChIJld1nSitrXz4R7CeEvMu-7EA",
+      "phone": "04 426 0760",
+      "hours": [
+        "Monday: 6:00 PM – 1:00 AM",
+        "Tuesday: 6:00 PM – 1:00 AM",
+        "Wednesday: 6:00 PM – 1:00 AM",
+        "Thursday: 6:00 PM – 1:30 AM",
+        "Friday: 12:30 – 4:00 PM, 6:00 PM – 1:30 AM",
+        "Saturday: 12:30 – 4:00 PM, 6:00 PM – 1:30 AM",
+        "Sunday: 12:30 – 4:00 PM, 6:00 PM – 1:00 AM"
+      ],
+      "address": "at Atlantis - 22nd floor - The Palm Jumeirah - Dubai - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Zen Diamond",
+      "coord": [
+        24.4877549,
+        54.6085181
+      ],
+      "desc": "Pan-Asian restaurant at Saadiyat Rotana with sushi and dim sum",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5260245418813373780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 5,
+      "ratingCount": 99,
+      "website": "https://ae.zendiamond.com/",
+      "photoRef": "places/ChIJKfwAYpNFXj4RVD2_o1YlAEk/photos/AcnlKN0VxjoJDgqyONoaR9xWqxN322r1XxdTwxxHta6f7r5Us4PwmQRoeTtJJH0a3P16HhuUVeWHtwppqD3RrzOr1caS0ZXzp6EE33i5EbeAeJu0gYXUygUexk1OPkLht7asCcMa1QMRvSQvgCdP-zCfEQRBSPfA7m2-O6yAwyEUaeLgEma4il5u1yxE2sSj9gnA4kqper4pv-CyTCBzOKwBLjqCxYtxyZLhd6J2lHS7MYTdl1R0HMuLksKlu_5HpkSO7F-0xG4Y-M5UKDY8AKE5UQu7yFfQal7NNG-KjZL9AIk5R6CeNEALWOkhVz04Ti26XffqUDPRmspsN07GdqtNjYchRaDxlFVi2hg68GHjL2_5rKG7zO7DIPR2anbi3DhWwjY_Xbt4I-HWSQHzO5IJBrn03TW7NkLX69r1l7tpYPBmuIqjrTs-4CppR1mSU1N9",
+      "photoAttribution": "rnoo mhd",
+      "placeId": "ChIJKfwAYpNFXj4RVD2_o1YlAEk",
+      "phone": "02 565 1516",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "L1-143A Yas Mall - Yas Island - YS1 - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "SMAT Resto-Cafe",
+      "coord": [
+        25.1895041,
+        55.2978853
+      ],
+      "desc": "Contemporary Middle Eastern cafe on Saadiyat Island with healthy kids options",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3068889301913973689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Budget Friendly",
+        "Local Delicacies"
+      ],
+      "rating": 4.4,
+      "ratingCount": 742,
+      "website": "https://smat.ae/",
+      "photoRef": "places/ChIJn6j44NxhXz4RuTOUd4_ilio/photos/AcnlKN3evbyF7gT8WTs1AmTtGJrSIG4urFdNaIDOTYXXTS2xnBsgyAz2QN6VIeKQGUhdS2xKs4tpOjjiqz1mJBrTh5KhW3BW_idJs5RhsH7xi1p5s5X5z-lFuCF_AP5VqvVxjtNOn7b38sQ0w3ktqfRwBwV7xqt3I1EgaTruVUNyXx0_zf4qFu1H5M67W_kyKgGV79tNH3AxH1nLYfuxnb10fb7_sLf_Fd1DB9IQoCmJe-1pwpbXr84m-Ofc6TSKQ66gLxBaczMCovYpakRwIWvIMqSVcVTQRsCZRqWnpPRFOyuCaw",
+      "photoAttribution": "SMAT Resto-Cafe",
+      "placeId": "ChIJn6j44NxhXz4RuTOUd4_ilio",
+      "phone": "04 580 2429",
+      "hours": [
+        "Monday: 8:00 AM – 11:30 PM",
+        "Tuesday: 8:00 AM – 11:30 PM",
+        "Wednesday: 8:00 AM – 11:30 PM",
+        "Thursday: 8:00 AM – 11:30 PM",
+        "Friday: 8:00 AM – 11:30 PM",
+        "Saturday: 8:00 AM – 11:30 PM",
+        "Sunday: 8:00 AM – 11:30 PM"
+      ],
+      "address": "Dubai Design District Building No. 10 - زعبيل الثانية - Dubai Design District - دبي - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Turtle Bay Bar & Grill",
+      "coord": [
+        24.5427608,
+        54.4301033
+      ],
+      "desc": "Beachfront dining at the resort with sunset views and grilled seafood",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9945707409076893139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 424,
+      "website": "https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/saadiyatrotanaresortandvillas/diningout/turtlebaybargrill?utm_source=google&utm_medium=local&utm_campaign=turtle",
+      "photoRef": "places/ChIJTQjwe6NnXj4R07X_pTFABoo/photos/AcnlKN1mcA_3R4HoZ-GorPpd-L2wy2l32_wYxgD3tfIF5TshSEVUuIWvNRaj8YrWUu7POK8lmKIEkYFN3GTiFm6ju0EvquX1WRd8cjaP9GXH3KDYYIszl1LLS1iTWyKEXrwaw_YM3vf4-sPB3MGje7H4Hw4SrUnzp07Q0IwJYjtVBv3oJjpZh-qJM942QFArzmXhesIc3FKSTKNt5XqJMV0fp03UtvQG0b2BVIBJWeFaKYtGtb8bn5SFXlPbatuyD4kmWUrbf_QY0rwA2hkaFWVSnjdYF740g5ce0RV7Q6vKaeMt4SYEXD-IW9Rp1MIOpXYNwjkUdOwAmimhN3fRHp5d1DNDEokVbJGq3K8-xADaqU--b8lUFYnxGcZJjK3WIKmePLdPlcQeeUV_hq7CC5HnxMKbGKNKky_CX1kfh60zXLWwVJbNOy15UulCFO36fA",
+      "photoAttribution": "Blauer Helfer",
+      "placeId": "ChIJTQjwe6NnXj4R07X_pTFABoo",
+      "phone": "02 697 0000",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "address": "Saadiyat Rotana Resort & Villas - جزيرة السعديات - السعديات شمال 1 - أبو ظبي - United Arab Emirates"
+    },
+    {
+      "name": "Jones the Grocer, Khalidiyah (Abu Dhabi)",
+      "coord": [
+        24.4689281,
+        54.339929999999995
+      ],
+      "desc": "Gourmet deli and cafe at Abu Dhabi Airport with grab-and-go options",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2188852709744505034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Budget Friendly",
+        "Off-Hours Eats"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1596,
+      "website": "https://www.jonesthegrocer.com/",
+      "photoRef": "places/ChIJoWLvJOdlXj4RyvD4RfFdYB4/photos/AcnlKN0oon-uB75MOaIfSO4aNWr1FRkyrrwan3FDnf7fdSlqwIHXrDh-yBcvjlA2pkSZCbp3zlFTFc0d9SVn8a43gv6V2sXK-xkZVgKRJymUk-zzKeu7bUuRkEEkTqt3mKMQukDPjOJOQWiYcj3lTWpYqwSYmJIWDiUJRf5E3A_Ksx-gsdL1h03ypuvzLhha_NZkm_Dr3G7olUYpvjp0Yi0W3F6okjeL5sW5ZF6cA5Mec8WX85XsbnR_qbZE5YU6mKzYqXVGzGk1Je8KyzKJNDIKxYaSm4tQFCO3U79fYnU5l1-eMw",
+      "photoAttribution": "Jones the Grocer",
+      "placeId": "ChIJoWLvJOdlXj4RyvD4RfFdYB4",
+      "phone": "02 639 5883",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "address": "Ground Floor - Pearl Plaza Tower - Khalidiyah St - البطين - غرب 10 - أبو ظبي - United Arab Emirates",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
     }
   ],
   "experiences": [
@@ -273,7 +823,8 @@
       "tags": [
         "Outdoor & Nature",
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Full-Day Activity"
       ],
       "phone": "9588 5302"
     },
@@ -296,7 +847,8 @@
       "tags": [
         "Outdoor & Nature",
         "Photography Worthy",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Full-Day Activity"
       ]
     },
     {
@@ -318,7 +870,8 @@
       "tags": [
         "Outdoor & Nature",
         "Photography Worthy",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Full-Day Activity"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -347,7 +900,8 @@
       "tags": [
         "Outdoor & Nature",
         "Photography Worthy",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Half-Day Trip"
       ]
     },
     {
@@ -369,7 +923,9 @@
       "tags": [
         "Splurge",
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Full-Day Activity",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: 7:30 AM – 8:00 PM",
@@ -381,9 +937,386 @@
         "Sunday: 7:30 AM – 8:00 PM"
       ],
       "phone": "9200 00329"
+    },
+    {
+      "name": "Kai Beach Saadiyat",
+      "coord": [
+        24.5470905,
+        54.435862699999994
+      ],
+      "desc": "Public beach on Saadiyat Island with facilities, lifeguards, and family-friendly amenities",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2364561843959599055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.1,
+      "ratingCount": 4563,
+      "website": "https://www.kaibeachsaadiyat.com/?lang=en",
+      "photoRef": "places/ChIJr-ESvvddXj4Rz4-nFnic0CA/photos/AcnlKN2usDx0Rxh-lHq7Slo3tDBXX3GDSQvjlYy4Jlkvbs8DX03EfAriX7elygaHXw-lRF0IB7ZUWdkuc-8XYSM5-ZXS9yPYVU9wSu0Sm4cUOta5Z0c00z3rSVzvVLFCb2CSv0PRfRPvNOEJK3SAtW-WAuYLNPg43ONFv7uglKuDDnRu9znEKJBxjMkvBy8MruCCC0OYdjfvLDnxBB5yWjIBAPClZQW1TbwaxGDG3bIRmiTvKHOT2eZJlu0vH9VHx0HL6ySYRQwy--_OK0ggpl2c2XiuWlh6mvYXl6MevlpPNsxJQ-uaE603qzk_Orh--xVG7gCsfV4RoQRRwwebgiAE5gsmB8IYlDlQ2eUA_EIrRO03ESgzcu7HYlOHa005cu3516sV_1P9OPa3ubgJsrN9xGqkcKBN9Gww02ddnNWp1dPSxw",
+      "photoAttribution": "Roman Radakovics",
+      "placeId": "ChIJr-ESvvddXj4Rz4-nFnic0CA",
+      "phone": "050 283 5795",
+      "hours": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 7:00 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 7:00 AM – 7:00 PM",
+        "Sunday: 7:00 AM – 7:00 PM"
+      ],
+      "address": "GCWP+R74 - 190 Shati Al Sa'diyat St - Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "Sheikh Zayed Grand Mosque",
+      "coord": [
+        24.4128334,
+        54.4749754
+      ],
+      "desc": "Magnificent white marble mosque with family-friendly guided tours",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2634530791612395463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.8,
+      "ratingCount": 60200,
+      "website": "https://www.szgmc.gov.ae/",
+      "photoRef": "places/ChIJSf7a6HNCXj4Rx6_i78u7jyQ/photos/AcnlKN3Df2uxneipmAOGjAaVx7cdxLZE_Xh2U-yavecYDDHCq0GtYqC2rCelEBoHMfSRm0OZrKj5JWCEMv_w6silcs-zMe-g9oo10hOziUp8AD8aPyCZRlwHmBoR0SfvTF7rk-j6jHAYgoMArFLUd189WHaPCi4Fa-IAPkwp5Bpce2gSVEzIFObO5WDniuVj-rH3nwGH2_9yDu_aCob_dVXuJIWIvmTDcZPVP_AHCVVyG8v9lgAllpKv1SFUsp2Rwk7fd3fbRRHn39kjOo_GUir7tCIdCtxCsXKOB8iMAaw6TMrDJwKn7QK2O9eW0AWFX7yJLNKHwi6nHvX3QYODNy5YGgfc2sJdb5OfaqSEiEVSD1XktWtWpYQVvylGyXs9yHcP0vyQgB8ldfydGZVOm7gNHphSLJAnOw5iYAe--h-LidmVADbN",
+      "photoAttribution": "SALIL SOLKAR",
+      "placeId": "ChIJSf7a6HNCXj4Rx6_i78u7jyQ",
+      "phone": "02 419 1919",
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 12:00 PM, 3:00 – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "address": "Abu Dhabi - Al Rawdah - W54 - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "Qasr Al Watan",
+      "coord": [
+        24.459430599999997,
+        54.307633599999996
+      ],
+      "desc": "Stunning palace with gardens and children's library wing",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8476293913628765466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Family Friendly",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 10070,
+      "website": "https://www.qasralwatan.ae/",
+      "photoRef": "places/ChIJVxtybJdlXj4RGu2ltWfYoXU/photos/AcnlKN2wdNG8THTyx9ZuzaeZVeGyv_ONR4phl2IpuMWqlSC72bvSXUj7lBbii1hhWM-S48s8dRA0WqgbfS8CYTpzmLODYP7_-VAy8Oof2TVgBqN3Rakr4eFkj_dgWFPSl-ClYrU0mH8wbTRMIqBIY9D69liC7YRidgMsmdlFj8ejYEHr8E7k7ilji0GTWxWHxx6R2UcaceS-sVZ3XaFwbGQ_aHrX5qKJkxHyD0xzKODaJW-AHNawKlPas046Xu_8ZP_rcykTFjtFfZF_jTD7D0Q1d_e1Q5OT-Fu0isC7cN89c95RFA",
+      "photoAttribution": "Qasr Al Watan",
+      "placeId": "ChIJVxtybJdlXj4RGu2ltWfYoXU",
+      "phone": "600 544442",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Abu Dhabi - Al Ras Al Akhdar - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "Corniche Beach",
+      "coord": [
+        24.471960199999998,
+        54.337492399999995
+      ],
+      "desc": "Popular public beach along Abu Dhabi Corniche with sunset views and facilities",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14507766876709521863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Scenic Views",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.5,
+      "ratingCount": 9541,
+      "photoRef": "places/ChIJFXiv_txlXj4Rxwlz4hvxVck/photos/AcnlKN3kcdf0kDQqc1oYMqZ7JeWxjwMxOdi3uMrS6o7FWUs-_4rTQwqdph7SLuo13o0LILKTaUZvAwcTDOqJIZhGWWVAG7n4Mwp6-vB7sfp57uC4OpL-KosV8OaCi3s5_Y5w8ZIwZ9bBVyl-KYD_mkskPSImq64Hy4mtwUSjh0vQZra_8-kyCUOKnr3vo-q1Tf4GzKz81AYKjigsTK2mvcC38rjDcFReKNOGXQNwC_uDk7xZ9g-KhsPfJDw5BGu9nnfyH8K2YyKw0U4fCJFBvYzGypBB5ixektM6nKT8dEK6Ldy4YDiZUvQGXLlZgcWNIpQ2EMR9xDEXhBVdx2bBPiNizhB1W2U0w0fw9rejGsUmMp401qqewOCAjA6ib8lol7mWInqcmOwMCrcnYCxivTGrW9bOtmXOtQENn9s1c1WvxkClx9NFS8raT_XZLmypkg",
+      "photoAttribution": "Baris Taptik",
+      "placeId": "ChIJFXiv_txlXj4Rxwlz4hvxVck",
+      "address": "Corniche Beach - Al Bateen - W10 01 - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "Yas Beach",
+      "coord": [
+        24.461468399999998,
+        54.5921216
+      ],
+      "desc": "Beach club on Yas Island with family facilities, pools, and sunset beach access",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9788692028492883833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Splurge",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 4586,
+      "website": "https://yasbeach.ae/",
+      "photoRef": "places/ChIJBWdYq5ZFXj4ReScEholr2Ic/photos/AcnlKN0NFJN9gKVtGeSqwkLsWcckHnqyTuNnECxv36PUrIvlVedrSkQFuFVKDM4EfT2En4plAbj3XrdRjo4LLpll9JHHu87Gz86fCIjQIjmQkhSEu93402aGcsV6ke3p4XFicwwpH7S4X_exiKdiYYdZgk54G_YjYKKfX5bSthVh_mx9pM3H0XSd2vDyYF5_pCsKJmHi4JeoA7LPKTD3LQh-BD9UKC_FpnbRa4MDXFEqq4d9aM7hHt4iTjq7v7_tAcoZfnaeBtglhZ81tBwpWRKVEujjPV9nYkGVHjGqk3F_SOsE4Q",
+      "photoAttribution": "Yas Beach",
+      "placeId": "ChIJBWdYq5ZFXj4ReScEholr2Ic",
+      "phone": "056 242 0435",
+      "hours": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: 10:00 AM – 7:00 PM"
+      ],
+      "address": "92 Al Ihtiraf St - Yas Island - YS3 06 - Abu Dhabi - United Arab Emirates"
     }
   ],
-  "kidFriendly": [],
+  "kidFriendly": [
+    {
+      "name": "Aquaventure World",
+      "coord": [
+        25.1324245,
+        55.1183099
+      ],
+      "desc": "Massive waterpark with toddler-friendly Splashers zone and family slides",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13226824138871337565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Full-Day Activity"
+      ],
+      "rating": 4.6,
+      "ratingCount": 37979,
+      "website": "https://www.aquaventureworld.com/?utm_source=googleplaces&utm_medium=location&utm_campaign=mwp&utm_content=listing",
+      "photoRef": "places/ChIJRcbZaklDXz4RXfL8v3kej7c/photos/AcnlKN2Db5lm6Et3MVkllhpuPeaDeteBb3AIAdvARxcbwyn1OhdzD4aC2OH0851cn9vO3HI4Q-_sihn5dT1_958vzu-AYIiujMvM27iSUakm6ORf8V4c6IwIXRSflEXFsMho0V3n62dLn5y_KOtQpSaX72Wn7dX8LD95vSUACXZga--wXDRH7GFDMC_krzZVZkhV7vThEJsnobebKymJCkxU3ISMRef1rCfkLN6MqYtkIxnWbIxR651pXAs28Cbuo0W3QhLyBxHe-5rTcpceD36LwyW_nW5JIBIrF2Y82Bl-P0z1nJVgoQztr-TbN8J9PtEA2QK6pdTkdXu48r_SU4cZl5rxZwXcRQd_PZPl1rByMbSJjVzlR33hqixgLTPf8KMwls1tHnoMyB6Dyno90J0KDeaq9VYz8Yo2UTfd_luyN_U_nH1EHyEq6ucO6TikmKso",
+      "photoAttribution": "Lakshay Jhuria",
+      "placeId": "ChIJRcbZaklDXz4RXfL8v3kej7c",
+      "phone": "04 426 2666",
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 5:30 PM",
+        "Sunday: 9:00 AM – 5:30 PM"
+      ],
+      "address": "Atlantis The Palm - Crescent Rd - The Palm Jumeirah - Dubai - United Arab Emirates"
+    },
+    {
+      "name": "Lost World Aquarium at Aquaventure World",
+      "coord": [
+        25.1308881,
+        55.1170997
+      ],
+      "desc": "Underwater aquarium tunnels at Atlantis with 65,000 marine animals",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1706348660642079642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy",
+        "Rainy Day"
+      ],
+      "rating": 4.5,
+      "ratingCount": 12673,
+      "website": "https://www.aquaventureworld.com/lost-world-aquarium?utm_source=googleplaces&utm_medium=location&utm_campaign=lost_world&utm_content=listing",
+      "photoRef": "places/ChIJ0Wo4qj8VXz4RmuOI9BArrhc/photos/AcnlKN3ZfUYsWQuiZbXibqSr_xTvQ-ouUo-Ejk_O3KIQhKExaHlZlzWkls_SgvXgwUSNGYg7q4cFyDwwgdJgYWVMppbNsAEUtQKEQyqewsP-lJ91hz7UUj9p4ILThJ_PxpCBrYHVjO_GEEi6ky3HL1ZTPCpYVZd2W3vjRKkV2F78COCsD1CCJm4S6qgHrn7uqsn5RlprDu7l3md-KdM_3GVQShj_ieqwM33V828TltfDcVw8uVSlQE8HQk28e0XspBV2uUhJUtmEkNM-Vdl06OABaoJYCkG0Wln1HKwwMb_vYgdgsQ",
+      "photoAttribution": "Lost World Aquarium at Aquaventure World",
+      "placeId": "ChIJ0Wo4qj8VXz4RmuOI9BArrhc",
+      "phone": "04 426 2666",
+      "hours": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "address": "Atlantis, The Palm - Crescent Rd - The Palm Jumeirah - Dubai - United Arab Emirates"
+    },
+    {
+      "name": "Dubai Aquarium & Underwater Zoo",
+      "coord": [
+        25.1975134,
+        55.2785005
+      ],
+      "desc": "Dubai Mall aquarium with penguin cove and interactive experiences",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2525206442934852905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy",
+        "Rainy Day"
+      ],
+      "rating": 4.5,
+      "ratingCount": 78266,
+      "website": "https://www.thedubaiaquarium.com/",
+      "photoRef": "places/ChIJRcbZaklDXz4RKd2od-FVCyM/photos/AcnlKN2iQKRn_GH_lSVzNPiePc9KAqWrrOlQVyBpjJNGuwI5HPQ2Ign-kOUGdkFPRLbDwIJ__Qqnpz7LyK0edAyYonox2e_fpqZ8cpEzWQT30xBr8AdNzS0cT8OoLxxnYhSz2Qmenyx3cyiKAYN0SPwEeTiEO0iSgWJqr-vu_Z3n63NwYCQ8Md-n1x2vZAhVTfzCfx6MmIugS60AajxT9zZ8jwDggnF-egENZ-kkXgR4zXTwirKMv1j8LmX5b4ar_J3QLYqbwY0BngQ3ZR7adMNzVrCa4X7ujbrLjLAm6W4iPFORiR4V4VzZcxGc0JzKSaTJJXitsl-AkFq9gX9pGh6Moe93cg0Nl9Xi78IMC5Azr9sjucl8-alQbrI7eurrl-eJ0HT2sZoTNu705xvqtKLotaLoQ5S8U0vU3C6SZLaZQqGdAg",
+      "photoAttribution": "Nasro",
+      "placeId": "ChIJRcbZaklDXz4RKd2od-FVCyM",
+      "phone": "04 888 8888",
+      "hours": [
+        "Monday: 10:00 AM – 10:15 PM",
+        "Tuesday: 10:00 AM – 10:15 PM",
+        "Wednesday: 10:00 AM – 10:15 PM",
+        "Thursday: 10:00 AM – 10:15 PM",
+        "Friday: 10:00 AM – 10:15 PM",
+        "Saturday: 10:00 AM – 11:15 PM",
+        "Sunday: 10:00 AM – 11:15 PM"
+      ],
+      "address": "Dubai - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates"
+    },
+    {
+      "name": "The Dubai Fountain",
+      "coord": [
+        25.195155399999997,
+        55.2751579
+      ],
+      "desc": "Free outdoor fountain show every 30 minutes with music and lights",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4502866564103614152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Budget Friendly"
+      ],
+      "rating": 4.8,
+      "ratingCount": 138087,
+      "website": "https://www.burjkhalifa.ae/experiences/experiences-nearby/#dubai-fountain",
+      "photoRef": "places/ChIJP_HMuyloXz4RyC5haEhlfT4/photos/AcnlKN2ySWVYgbuWpLclO66CbKjBV1LXv8TlTfB7jTOpzp5zUmRlzaWCTPYp4ZSIetwhOAO2VLjLMOvnHqr3q5pqfJJZopfaOH9kc_t4mObgzI6FQyBNDo17tMarBui5ADr5QLQbFzFnT8NrX6CuYbmmdh245HsydibSjlsZ158Z_nF-pkaW-V4smCwrFEMzXUd9gcX_2zKOrV07xjUBUTFbHqtSPjQzrWd6PqHzy9I2tuhVYtY-wb5t5mx0BSUXu_W4tSHneV8-rVgjDO6hG0MdwTgdxpGr2nzPI9ExxBr1TnZfoW-riI_DabqNrPxvA8RqWqse1HQKnh5CvNZPE_1yMwZIwdZC1zRuyHNrPvrmqMIjU1wqAHHeiO6ZP93X8jwqe2YY30KQda1_vFk-q5lyyPEKGppkwQNzrF5J9bT_Vz3Sds1e",
+      "photoAttribution": "Sanjay Rana",
+      "placeId": "ChIJP_HMuyloXz4RyC5haEhlfT4",
+      "phone": "04 888 8888",
+      "address": "Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates"
+    },
+    {
+      "name": "Louvre Abu Dhabi",
+      "coord": [
+        24.5336954,
+        54.398136799999996
+      ],
+      "desc": "Stunning art museum with family programs and rain of light dome",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4762873243859500537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Art & Design",
+        "Photography Worthy",
+        "Rainy Day"
+      ],
+      "rating": 4.7,
+      "ratingCount": 38310,
+      "website": "https://www.louvreabudhabi.ae/",
+      "photoRef": "places/ChIJ8WcAYyRnXj4R-T11AvsfGUI/photos/AcnlKN1fcOeLH5B0P6nSL7hzrYU_5DF3J5M2Ofm3HQ9PbiXz8dLGHtAZGB3s4_nvygQ0So-43fxze7HGB_Bvz4FDgmi5LFxIHgv_l6EFG5HRwnNOxLYfBwRzovs53jPMe3_EoKOBkWElrTURX9uFQH4lJnF1g0ks0xwnl4AC5PcXNQLRpw76x9yT5YZC8Hdl4ewPDOeEZpx_DgYcZoxBNybSzSDl4ux7no0QqunFk4uXv60iglX4IlMZURB-HDkBBMIXTr3pmBxKQMhDw6TGOOzcgOpCqv5iMZzPTkcrkheBfb0e53aNnSvtmsjYAPzs9iTs9rWcCnotwv-L-tMzI_keKoOlWYZZ-WracWobPcBKu1YDmsofdTim_D99JS4_-tYpz_bjTBey9ulzYds5K5cDLc19t8ippFrMCByhQXRgHHkoDYqV",
+      "photoAttribution": "Thomas Eyersheim",
+      "placeId": "ChIJ8WcAYyRnXj4R-T11AvsfGUI",
+      "phone": "600 565566",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:30 PM",
+        "Wednesday: 10:00 AM – 6:30 PM",
+        "Thursday: 10:00 AM – 6:30 PM",
+        "Friday: 10:00 AM – 8:30 PM",
+        "Saturday: 10:00 AM – 8:30 PM",
+        "Sunday: 10:00 AM – 8:30 PM"
+      ],
+      "address": "Saadiyat - جزيرة السعديات - السعديات شمال 1 - أبو ظبي - United Arab Emirates"
+    },
+    {
+      "name": "Abu Dhabi Morning Desert Safari - Desert Wonders Tourism",
+      "coord": [
+        24.4840105,
+        54.3656103
+      ],
+      "desc": "Gentle desert experience with sand dunes and short camel rides for toddlers",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4895890028615594235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.9,
+      "ratingCount": 94,
+      "website": "http://www.abudhabimorningsafari.com/",
+      "photoRef": "places/ChIJnZmTyJNnXj4R-3ACnwqy8UM/photos/AcnlKN3LfzWy25SQ6zS__RhkPRCWLFYTrHPqpmZKb4CYTNnUZ7bp-1L2NQWpSi9IyQALPULZJv6g1ARGPacRtDIfcACZYu3qwr5e6e56Gz_TKgwU7VHA6Ks5lWpfUyVwzQDQBgE0q2oGTOd1tnKnAgg2sUZhI0xGyQfCeJdFleTpqLzcl8mwXugzG5E-v8kxC6iWAoy_cgnwoK1kHDuJScH5dbWJlISAwc8QI1y85bXBq6VNkmaJONVvzXuUr7gX_IrzICrsBb04ZUDRkkH8G2pSEFBr7wXRfHE4yltw5gIEiiMmsp64hB4d7W2umn3mVfh7YyEOomUhJJQLQk8z9DEgd5ncfDtxVLp_n6gDdSsOF-K1sikUMi2gjz1c2YXVJVyLQx8L_4uyeb7qVFdzhBXCe006owl3W64KzIAchlJBZr3Ly7iF",
+      "photoAttribution": "Rami Maki",
+      "placeId": "ChIJnZmTyJNnXj4R-3ACnwqy8UM",
+      "phone": "050 797 9641",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Madinat Zayed Shopping Center - Office G-90, Ground Floor - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "Kayaking Tour Abu Dhabi",
+      "coord": [
+        24.446132900000002,
+        54.415672099999995
+      ],
+      "desc": "Gentle kayak tour through mangrove forests suitable for families with young children",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16187657649091050682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.6,
+      "ratingCount": 236,
+      "website": "https://www.kayakingtourabudhabi.com/",
+      "photoRef": "places/ChIJgWk_gmRpXj4Ruvy0r90cpuA/photos/AcnlKN1A0Esi8Ur98oYkThMa3_TQNDEczYLgogoERvmFeZk10M3gF5fv_aHCRha2lMg6DYpGfyyHhuVtFam16PNgvvWbJqHxg3hr4Q6WivyqUbz5edySD9dsLr-TBpiglpE4XwIhuRzTQFNBoa5HRfbV7GQyOvQrNgkHq3u7cqI0quRkuba4cqekDLwnN5lnQiszbscErV5FaWCJz_DWjN5dBvY3QUJK27NvRN2pofJ-eGVuTeBZh1vugqcI0BlRvlmxDlz895fqkfNd_0d9m6GIaZqx-YSUTvbdelPZno_wzMOLJVhgfsJxcZMfqVxa4r969GBQFIxLZF_ePH8mOYxAP8diRr3zXeCIPFKpf3fKpqrV6EjExrfpVU_rDI9L3xZnuAzIdExZGDyqe6xzLQLcVnzhh2qvvWwgamNjyKfkQAWwbw",
+      "photoAttribution": "ali raza",
+      "placeId": "ChIJgWk_gmRpXj4Ruvy0r90cpuA",
+      "phone": "054 266 6001",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "Abu Dhabi - Al Kheeran - Al Garm - Abu Dhabi - United Arab Emirates"
+    }
+  ],
   "markets": [],
   "cityCenters": {
     "Abu Dhabi": [
@@ -392,5 +1325,354 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Emirates Family Adventure (8 Days)",
+      "description": "A perfectly paced journey through Dubai and Abu Dhabi designed for young explorers, balancing world-class resorts with desert magic, waterparks with cultural discoveries, and plenty of poolside downtime.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Dubai",
+        "Abu Dhabi"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Dubai",
+          "dayType": "urban",
+          "base": "Dubai",
+          "items": [
+            {
+              "name": "Atlantis The Palm",
+              "type": "hotel",
+              "coord": [
+                25.1304426,
+                55.1171498
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "The Sum of Us",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary café in DIFC offering healthy bowls, salads, and international dishes",
+              "suggestedCity": "Dubai"
+            },
+            {
+              "name": "Afternoon at Aquaventure Waterpark",
+              "type": "freeTime"
+            },
+            {
+              "name": "Ronda Locatelli",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly Italian restaurant at Atlantis with pasta-making for kids",
+              "suggestedCity": "Dubai"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — The Palm & Beach Day",
+          "dayType": "urban",
+          "base": "Dubai",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "The Lost Chambers Aquarium",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "attractions",
+              "suggestedDesc": "Underwater aquarium at Atlantis The Palm featuring Arabian-themed halls and marine life",
+              "suggestedCity": "Dubai"
+            },
+            {
+              "name": "Bread Street Kitchen",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Gordon Ramsay's casual all-day dining at Atlantis with kids menu",
+              "suggestedCity": "Dubai"
+            },
+            {
+              "name": "Afternoon pool time and kids club",
+              "type": "freeTime"
+            },
+            {
+              "name": "Seafire Steakhouse",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale steakhouse at Atlantis with ocean views and family-friendly service",
+              "suggestedCity": "Dubai"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Dubai Highlights",
+          "dayType": "urban",
+          "base": "Dubai",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "The Sum of Us",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Specialty coffee shop in JBR with outdoor seating and smoothies for kids",
+              "suggestedCity": "Dubai"
+            },
+            {
+              "name": "Dubai Mall Aquarium & Underwater Zoo",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Massive indoor aquarium with walk-through tunnel and marine life encounters",
+              "suggestedCity": "Dubai"
+            },
+            {
+              "name": "Eataly",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Italian marketplace at Dubai Mall with fresh pasta and gelato",
+              "suggestedCity": "Dubai"
+            },
+            {
+              "name": "Early afternoon nap back at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "The Dubai Fountain",
+              "type": "sightseling",
+              "suggested": true,
+              "suggestedCategory": "attractions",
+              "suggestedDesc": "World's largest choreographed fountain system at Dubai Mall with evening shows",
+              "suggestedCity": "Dubai"
+            },
+            {
+              "name": "Thiptara",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Thai restaurant with Burj Khalifa views and family-friendly terrace",
+              "suggestedCity": "Dubai"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Transit to Abu Dhabi",
+          "dayType": "suburban",
+          "base": "Abu Dhabi",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning departure to Abu Dhabi (1.5 hour drive)",
+              "type": "info"
+            },
+            {
+              "name": "Saadiyat Rotana Resort & Villas",
+              "type": "hotel",
+              "coord": [
+                24.541618900000003,
+                54.430689799999996
+              ]
+            },
+            {
+              "name": "Smat",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Contemporary Middle Eastern cafe on Saadiyat Island with healthy kids options",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Saadiyat Public Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beaches",
+              "suggestedDesc": "Public beach on Saadiyat Island with facilities and Blue Flag certification",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Turtle Beach Bar & Grill",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront dining at the resort with sunset views and grilled seafood",
+              "suggestedCity": "Abu Dhabi"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Saadiyat Culture & Beach",
+          "dayType": "suburban",
+          "base": "Abu Dhabi",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Louvre Abu Dhabi Children's Museum",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Interactive art museum for children with hands-on activities and story-based exhibits",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Art Lounge at Louvre Abu Dhabi",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Museum cafe with Mediterranean menu and waterfront terrace",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Afternoon rest at hotel pool",
+              "type": "nap"
+            },
+            {
+              "name": "Jenaan",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly Arabic restaurant at the resort with traditional flavors",
+              "suggestedCity": "Abu Dhabi"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Sheikh Zayed Grand Mosque & Mangroves",
+          "dayType": "urban",
+          "base": "Abu Dhabi",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning visit to Sheikh Zayed Grand Mosque",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Iconic white marble mosque with family-friendly guided tours and stunning architecture",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Café Milano",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Italian cafe at The Galleria with pizzas and pasta popular with families",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Eastern Mangroves kayaking tour",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Gentle kayak tour through mangrove forests suitable for families with young children",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Li Beirut",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale Lebanese restaurant with mezze platters and live music",
+              "suggestedCity": "Abu Dhabi"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Desert Safari Adventure",
+          "dayType": "rural",
+          "base": "Abu Dhabi",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at leisure and pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sama Lounge",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Relaxed all-day dining at resort with international buffet",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Private family desert safari with dune bashing and camel rides",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Gentle desert experience with sandboarding, short camel rides, and traditional Bedouin camp dinner",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Al Hadheerah Desert Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Arabic restaurant at Bab Al Shams Desert Resort serving authentic Emirati cuisine",
+              "suggestedCity": "Dubai"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Abu Dhabi",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final morning swim and check-out",
+              "type": "freeTime"
+            },
+            {
+              "name": "Jones the Grocer",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Gourmet deli and cafe at Abu Dhabi Airport with grab-and-go options",
+              "suggestedCity": "Abu Dhabi"
+            },
+            {
+              "name": "Transfer to Abu Dhabi International Airport",
+              "type": "info"
+            },
+            {
+              "name": "Hakkasan Abu Dhabi",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Michelin-starred modern Cantonese restaurant at Emirates Palace",
+              "suggestedCity": "Abu Dhabi"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

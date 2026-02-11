@@ -30,7 +30,10 @@
         "Adventure & Active",
         "Fine Dining",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "hours": [
         "Monday: 8:00 AM – 6:00 PM",
@@ -62,12 +65,150 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Scenic Views",
+        "Hidden Gem"
       ],
       "phone": "03 442 4112"
+    },
+    {
+      "name": "Hilton Lake Taupo",
+      "coord": [
+        -38.703595899999996,
+        176.1012038
+      ],
+      "desc": "Lakefront luxury resort, geothermal hot pools, family suites with mountain views",
+      "longDesc": "Stunning lakefront property featuring natural geothermal hot pools and spacious family suites perfect for relaxing after hiking adventures around Lake Taupo.",
+      "gmapsUrl": "https://maps.google.com/?cid=7237994875158760658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Wellness & Spa",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1629,
+      "website": "https://www.hilton.com/en/hotels/akllthi-hilton-lake-taupo/?SEO_id=GMB-APAC-HI-AKLLTHI",
+      "photoRef": "places/ChIJ7zljDXr6a20R0ozvi_2FcmQ/photos/AcnlKN275n9fiQj2vqN57MPuzFzycJf9KN6LbhlQvsYrB-G7D3EOD4WHGVzngAu773eHrzQVOW_p0eDcUrLASWRBaC5_nvvdErZwM9bJb3nY_jM3OuSi42mWw8ygoJhhLO-LAfMdYYSF5dMH11dYid3yonKxPF7usbnwM0SGQ9TjZAUp_8nuduU0lkItMsEzrWkKUEJUGb2A6FWAiRXzyyuhJdyNKK-FS1i56LhA74qdzS4qGb1huKUZWGyeVmcbd1tlX4qTfiti5eJFvEONLuJN2aa_E1PAtj8MVDZoojtdS08rWg",
+      "photoAttribution": "Hilton Lake Taupo",
+      "placeId": "ChIJ7zljDXr6a20R0ozvi_2FcmQ",
+      "phone": "07 378 7080",
+      "address": "80/100 Napier Road, Hilltop, Taupō 3379, New Zealand"
+    },
+    {
+      "name": "Mudbrick Vineyard and Restaurant",
+      "coord": [
+        -36.7925172,
+        175.0003898
+      ],
+      "desc": "Boutique vineyard resort, ocean views, private gardens, intimate family getaway",
+      "longDesc": "Charming boutique resort nestled among vineyards with ocean vistas, offering peaceful grounds where families can enjoy wine tastings and peaceful gardens.",
+      "gmapsUrl": "https://maps.google.com/?cid=10255568827358387453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Romantic",
+        "Splurge",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1353,
+      "website": "http://www.mudbrick.co.nz/",
+      "photoRef": "places/ChIJZYYC_LjLcm0R_RxEHIMZU44/photos/AcnlKN17ymDlMtiKth9ZP7bKHKDjTkpBKK5JgPfMwkjsoc4nV6p7fkLyKOh05ezisWnwt-hsVUJSEPaLctRiEQVhp2oueN9sanwPxeShR96rmS_xC5ciKa3TfPY3iQLA8YFMjTOXTM7itLscnN_XNqBQBlBxw6uyRZV0D5_wu_d1f9VlZuMqVkk47e8Ij68uB8rQqcXQXZzVb20PH1TWrVKKuqBuKxm7jNrNimgF6qJ1kV8MhI2KD6Hh9MVCA8008wY3MhgsBlXig7Kzd7OKZNX41wHz0CS8dpLZNjj7bdybT8gG2szf-NmhfVBFO_eniksZDG33UEwbYe_BY7SsEZT0DJC6Dv4V7CBSvQSM3HT59MV1uB3Rt29xFMD2nW9p_q-JptFjJGRRiN9OQTTt9w5w0iz3Tk2_zAGlR1MBVvMEctsKn22R",
+      "photoAttribution": "Naoaki Tamakawa",
+      "placeId": "ChIJZYYC_LjLcm0R_RxEHIMZU44",
+      "phone": "09 372 9050",
+      "address": "126 Church Bay Road, Oneroa, Waiheke Island 1971, New Zealand",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Kiwi Backpackers Hostel",
+      "coord": [
+        28.2054677,
+        83.9636792
+      ],
+      "desc": "Budget-friendly hostel, central location, family rooms, friendly atmosphere",
+      "longDesc": "Welcoming backpackers in Wellington's heart offering affordable family rooms and a vibrant social atmosphere perfect for meeting other travelers.",
+      "gmapsUrl": "https://maps.google.com/?cid=5893720171580646472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.5,
+      "ratingCount": 378,
+      "photoRef": "places/ChIJF5PILBuVlTkRSGSeEEWzylE/photos/AcnlKN2lV4U6eM5-Y9mOoXK-xdhOUM_dADzdgCgduTdjw7yOZ-Z9EI4cpvI_oc5YRL4gXEjVHVUumSvW0eyS2VkQa8b5qIhJEU-C82nhxpwWbKFf4v6a2Dd_ESdQaIR9e1b93dG-NSQcXbjQIrKnz_dqm5bKbsyAPZA6CI1D_OCMGxmsQE2rj4U4UwoIGvrJsjtE5IpeioXJSacSG-RvX9zo5pp9Siih9EunzRIh-nzMXqCgy_CP2pws0KMns6XYn-WSn2QR02qMJCXotoKxlFc0N_thNHcn9O1cPQDYn8OxvmzXWA",
+      "photoAttribution": "Kiwi Backpackers Hostel",
+      "placeId": "ChIJF5PILBuVlTkRSGSeEEWzylE",
+      "phone": "984-8259100",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "7 kiwi Ln, 5th Street Ammat, Lakeside Rd, Pokhara 33700, Nepal"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Rata Street",
+      "coord": [
+        -36.9043079,
+        174.6799955
+      ],
+      "desc": "Fine dining restaurant, New Zealand cuisine, seasonal tasting menu, elegant setting",
+      "longDesc": "Award-winning fine dining showcasing local New Zealand ingredients with artistic presentations, offering an elevated culinary experience for special family occasions.",
+      "gmapsUrl": "https://maps.google.com/?cid=6367982835249030293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "placeId": "ChIJSUz9vEhBDW0RlaTNTqaeX1g",
+      "address": "Rata Street, New Lynn, Auckland 0600, New Zealand"
+    },
+    {
+      "name": "Majestic at Mayfair",
+      "coord": [
+        -43.522425,
+        172.6289718
+      ],
+      "desc": "Cozy café, artisan coffee, homemade pastries, family-friendly vibes",
+      "longDesc": "Charming local café serving exceptional coffee and freshly baked pastries, welcoming families for breakfast or lunch in a relaxed, creative atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=13910580058525784202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Coffee",
+        "Budget Friendly",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.6,
+      "ratingCount": 259,
+      "website": "http://www.majesticatmayfair.com/",
+      "photoRef": "places/ChIJDZE9p3SLMW0RitgPoNxODME/photos/AcnlKN2G_f66UgevxGDsB3OJ_iLqqpOrUewQI4q0zlXPTYx8pnhhTG89lHhAt9-2CgAv-9dOKUgYOcgi1zOaEDZ4w4saTz6yvVrMHbvoKcmWaqf33gchzQNSlwtjcM4X7bAvmGsA4Ny1fj7UhU97KTy3fMIu-lmgF1NgglssO88yP6d2-GgDYxlPKezyijw5DPXa6s9VKAbbyhDmFsSIrY9oQOo2I6CeW-NyaB2nQmzM8DexwDYkIE7AQP_L53bdDVbyTB4nLiRQb13iYVjAwPQVv3MDNgR7vfJocmX6Ms_e5gI",
+      "photoAttribution": "Majestic at Mayfair",
+      "placeId": "ChIJDZE9p3SLMW0RitgPoNxODME",
+      "phone": "03 595 6335",
+      "hours": [
+        "Monday: 6:30 AM – 10:00 PM",
+        "Tuesday: 6:30 AM – 10:00 PM",
+        "Wednesday: 6:30 AM – 10:00 PM",
+        "Thursday: 6:30 AM – 11:00 PM",
+        "Friday: 6:30 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "155 Victoria Street, Christchurch Central City, Christchurch 8013, New Zealand"
+    }
+  ],
   "experiences": [
     {
       "name": "New Zealand Alpine Valleys",
@@ -88,7 +229,9 @@
       "tags": [
         "Adventure & Active",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Full-Day Activity",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -100,10 +243,141 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "06 388 1344"
+    },
+    {
+      "name": "Museum of New Zealand Te Papa Tongarewa",
+      "coord": [
+        -41.290456299999995,
+        174.7820894
+      ],
+      "desc": "National museum, interactive exhibits, Māori heritage, earthquake simulator, free entry",
+      "longDesc": "Incredible national museum with hands-on exhibits capturing New Zealand's culture, natural history, and Māori heritage—perfect for curious families of all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=11115059788926261808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Rainy Day",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 25576,
+      "website": "https://www.tepapa.govt.nz/",
+      "photoRef": "places/ChIJnRaYrdGvOG0RMJot6PyfQJo/photos/AcnlKN1-onJwvNqPaomLWFDTPn-o5jpqVWmh8202eeud1wRKXNZFHSLinGAeDNq1ZTCpjfnOB6E9RhQhBgSGx8dei2NEvPerm32xHrJui8XnxhMjnlmLrnC5qGnd8oGQ7IA3l3tuZob6eINlESbrGbGY8Un8XLCnlRUcBjl8ZLir0z1uDqo84SnnubcEwsqvBPr5daznrKdlIT-2CfKdEJS0GMEc7a8CbjbmbGkNZ9LKk0ewHyzKlaGe5CNnGMXpId2Hnj4i_GpcEMXe4169cDXVqIOVU4pUL_ZJVQi3cZTKbK6itlEmkBNiu6yrdG00riDKTciM38_o0AgF4W1AD51rcnTahXK7fLLrecVmar9kKZ-3y-Bg9AIwEC6lHiFchY1udyTThpjloVG7IdPBuBWXVFf6nyUWG9IQnXmLqg9Hntpdy5g",
+      "photoAttribution": "Kidada Tamar",
+      "placeId": "ChIJnRaYrdGvOG0RMJot6PyfQJo",
+      "phone": "04 381 7000",
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "55 Cable Street, Te Aro, Wellington 6011, New Zealand"
+    },
+    {
+      "name": "Cruise Milford",
+      "coord": [
+        -44.6681582,
+        167.92710649999998
+      ],
+      "desc": "Scenic fjord cruise, waterfalls, rainforest, marine wildlife, breathtaking views",
+      "longDesc": "Iconic cruise through dramatic Milford Sound revealing cascading waterfalls, rainforests, and resident dolphins—a once-in-a-lifetime natural wonder families treasure.",
+      "gmapsUrl": "https://maps.google.com/?cid=1424636958799085652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Full-Day Activity"
+      ],
+      "rating": 4.9,
+      "ratingCount": 735,
+      "website": "https://cruisemilfordnz.com/",
+      "photoRef": "places/ChIJ7cziHJDd1akRVMAcF8RTxRM/photos/AcnlKN1VT4L2MyCGvtBryZvUeMjBks46n8nI0IHEPkpRrqNv9r8Hj4LNPwK2JI2SJwowsDU17gQ5yDxC6tUXh3KNZAvAqzH8drDjgjDQ7Ckvic2G1boPLgLjFR7KkbuLzxMTMZUSu9BQTLlI14ny1w2BdppEPQxVZIsF_MU4fucexUIFJQRVCGuCT8iQqnRJfabnZBbvdIlgMKr8O9sH9v1hNPIsVqZYyIVTq-ozkawEJl_VXdNWPIhm9RFVXv0kexc8BzqAuZlxPVyWQ0waQjPHbdwNed1xbQRVy7e4pqXvYVctCA",
+      "photoAttribution": "Cruise Milford",
+      "placeId": "ChIJ7cziHJDd1akRVMAcF8RTxRM",
+      "phone": "03 398 1250",
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "address": "1 Milford Sound Highway, Milford Sound 9679, New Zealand"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Hobbiton™ Movie Set Tours",
+      "coord": [
+        -37.8720905,
+        175.6829096
+      ],
+      "desc": "Lord of the Rings film set, guided tours, hobbit homes, interactive experiences",
+      "longDesc": "Immersive tours through the actual Lord of the Rings film set with charming hobbit holes, lush gardens, and interactive activities delighting families and fans alike.",
+      "gmapsUrl": "https://maps.google.com/?cid=2665986765826105766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.8,
+      "ratingCount": 25063,
+      "website": "https://www.hobbitontours.com/",
+      "photoRef": "places/ChIJd0roN2KrbW0RpiH1qNZ8_yQ/photos/AcnlKN2svwQVBFUMm0rm9F8HLUYgQekgxBgRCIGAMQUSCKTBl-Gu08zsppyI3C9MHJ-IqrnVsRfXSwYBpHRPvyjT1tFJIgJH2NmvLRtfn_UWp1Z5HJGn1pkhwMeXiJxPGpwD5UUrm3Aekq09ZwbEQQN_g4fJ1qrwwFa5KVCBlDHp1lOte0XCqERhbSSdOmbEwIdcEw5wbCPMk1zogPM7cdpoAaSXzf74_4RABOL8IHk00mJ-t2kmRq0-WeQhLUzGE7SbnJxW4z-SFv_5QTE4DRyyZxPmHDAJ_f4FjFiqQnxtaKrF5ikanpOkOuhynDTw6AoV11HQqF8liEqJVsVM_9Cod2c8oU6lo6eNn68nVuY3h8UmA_ghNdysvyf8qYWyC4pvMXZElpGOIqSgdAiXcioodaO_HKEkpuLZHJ99aPzorqkn4hU-",
+      "photoAttribution": "Kim Kim",
+      "placeId": "ChIJd0roN2KrbW0RpiH1qNZ8_yQ",
+      "phone": "07 888 1505",
+      "address": "501 Buckland Road, Matamata 3472, New Zealand"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Otara Flea Market",
+      "coord": [
+        -36.9610665,
+        174.8721572
+      ],
+      "desc": "Pacific Island produce market, fresh food stalls, local crafts, cultural experience",
+      "longDesc": "Vibrant Saturday market celebrating Pacific Island culture with fresh tropical produce, local crafts, and authentic street food representing Auckland's diverse community.",
+      "gmapsUrl": "https://maps.google.com/?cid=8786236219756983883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.3,
+      "ratingCount": 2470,
+      "website": "https://www.otaramarkets.co.nz/",
+      "photoRef": "places/ChIJjVMpCTpMDW0RSzZJV0r77nk/photos/AcnlKN1_WDUwCY2-i6QY6PL_3AJ3kTvW-_k3M16i2XHcrNvXhRcmEBuMN6fikihDb30NYrMaZob6SkpmazIsN9nkTEET3Ib4tPlSVGe5zMwHQ_S-H0CzBRfcb5ladUH94aegahwJXcxfdszIOEF5M70XIKomMs6o0LNFlZa7l8KIpsCv2S6Io6MbmNrf0VRhygkMWPZ8pXJv-KQifoUvVZeXXNqrnFdHVMJqP7COaJG5tsDLSAbEx9imGjtY8I9OEF859g9cldxUgXFT9m4ZKPZ1tNdTeJEzV-NehGqygkwsrJzZX0uiJYoJFoyEukYrBwBH31nkMKtpdB4toMItDzQp8-6ev3PEsTIcMiUxz0rwCLagqG6SP8lVDSM-4JJA6x8YqjvNlHcgNi-bO3qbW8jhYcreqaZc4GxZ3_ZKDFv3JhI",
+      "photoAttribution": "Alun Bain",
+      "placeId": "ChIJjVMpCTpMDW0RSzZJV0r77nk",
+      "phone": "09 274 0830",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 6:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Newbury Street, Manukau, Auckland 2023, New Zealand"
+    }
+  ],
   "cityCenters": {
     "Fiordland": [
       -44.7236,

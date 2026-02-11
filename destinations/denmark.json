@@ -8,7 +8,66 @@
     12.6109
   ],
   "defaultZoom": 7,
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Nimb Hotel, an SLH Hotel",
+      "coord": [
+        55.6736716,
+        12.566111099999999
+      ],
+      "desc": "Luxury palace-inspired hotel, rooftop terrace, fine dining restaurant",
+      "longDesc": "An iconic luxury hotel overlooking Tivoli Gardens with stunning architecture, elegant rooms, and exceptional service. Perfect for families seeking a memorable, upscale Copenhagen base.",
+      "gmapsUrl": "https://maps.google.com/?cid=2347211146778977627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1377,
+      "website": "https://www.nimb.dk/?&utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=website_button",
+      "photoRef": "places/ChIJm43fcg1TUkYRWyWZGBr4kiA/photos/AcnlKN3r6bHO5pafJ0MRK4mIRSiblVL5tpKHqzHupsxp1XKjw4UNkSACHRJC4j05chLd5Rig7VRfYc3PJEKCvimCyyEiPXNTz55UN1uGCusk2kdMTbwha11NimsGq_9YMAEi0ceWsujdoQAaeCDBKwos1qVfkR5OYAapRvP96Visd5AfODc39FMXSXq8MU04MOYJdKZ4UP_JbtrbbpQPuf3imQHXrUOMFgARtEyVagYcUZC8OClzzLktxkCPatPicQSXW2zGt8oc_JgJPs1Bw7oN0sswwFqTjAUHVmeMUBDI4rNtdg",
+      "photoAttribution": "Nimb Hotel, an SLH Hotel",
+      "placeId": "ChIJm43fcg1TUkYRWyWZGBr4kiA",
+      "phone": "88 70 00 00",
+      "address": "Bernstorffsgade 5, 1577 København, Denmark"
+    },
+    {
+      "name": "Danhostel Copenhagen City",
+      "coord": [
+        55.671029399999995,
+        12.576690699999999
+      ],
+      "desc": "Budget-friendly hostel, family rooms available, central location, shared kitchens",
+      "longDesc": "Welcoming hostel with private family rooms offering excellent value in central Copenhagen. Great for families looking to save money while staying near major attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=4467717714143099578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.1,
+      "ratingCount": 4031,
+      "website": "https://danhostelcopenhagencity.dk/?utm_source=gmb&utm_medium=organic",
+      "photoRef": "places/ChIJHWaluxRTUkYRujo4DJeFAD4/photos/AcnlKN0M6nBSfaClhbH7okI1jJuvh3C3HvGnaIKcY8UjyGv0NqrKNF1-zQrH8OK32LTpiMi52ScZndHJ9VZ5z28FMo-_JKyrG5r88RYPJjMRAJpROSsGB2oRYao5PKU2d7n3ReZnLG_EfDybkWibyhCgl02Lfb0-WDrWIQSbRe4uj2w28njQ45RFteCPiTJ0Jyqy5F4POu0SU7dlQP1sj0nVXhw08JJGUt_JWxLVhoUkC2LL2ue9VgsMZYcnoF2Y32EcRDoAdyc0kFLnR0ENuixH4evDvNi6kgTm_CTkpCta2FTUgA",
+      "photoAttribution": "Danhostel Copenhagen City",
+      "placeId": "ChIJHWaluxRTUkYRujo4DJeFAD4",
+      "phone": "33 11 85 85",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "H. C. Andersens Blvd. 50, 1553 København, Denmark"
+    }
+  ],
   "restaurants": [
     {
       "name": "La Banchina",
@@ -29,7 +88,9 @@
       "tags": [
         "Fine Dining",
         "Photography Worthy",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Scenic Views",
+        "Reservations Recommended"
       ],
       "hours": [
         "Monday: 8:00 AM – 4:30 PM",
@@ -42,6 +103,79 @@
       ],
       "priceLevel": "PRICE_LEVEL_MODERATE",
       "phone": "31 26 65 61"
+    },
+    {
+      "name": "Noma",
+      "coord": [
+        55.6828273,
+        12.6104808
+      ],
+      "desc": "World-renowned fine dining, Nordic cuisine, seasonal tasting menus",
+      "longDesc": "One of the world's best restaurants celebrating Nordic ingredients and culinary innovation. An extraordinary gastronomic experience for adventurous families wanting fine dining.",
+      "gmapsUrl": "https://maps.google.com/?cid=4821926685852557588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Iconic / Must-See",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2377,
+      "website": "https://noma.dk/",
+      "photoRef": "places/ChIJpYCQZztTUkYRFOE368Xs6kI/photos/AcnlKN0a0XvznGa_RwKL322_lPFkQmcjsXxYt-4SkTsDJFkOQXytLggDeNkjuBWf5f2iJ9w_xk9gYDLW_5n9Rt77z8e9rgToeTiWvfIY2wCP9UyMFir8pfqFIh_0e8I04eG1OyS2LLHEcZGCpaI1QA1v2-O0j_fQ5u0sq_lYiijDmaprtf_--urQHbHyBHdnFk4Fx8DjZlemn3BZykOsxtgdt539zh7si80X3hAUNttVkNrf9nb8KNi41f_ZTtTMp9wAiRgEV_UuDlwHvkjmvzK-3EG6XLjzJzv5V1o_oJuw3cxsNKGk0Jata1CH0FZMYZHLeJftmDB9Sal-awKQ4Q9fHYDE8DwbhlcXapcQCOGmpodUGL7VFNfUO_c1hBHrJPzZNQ3dH_3iFJysEcpWDXCN6yWO81ZIlaP0uNTbB18R7bs-LpYZ",
+      "photoAttribution": "lIlllIIllIIll",
+      "placeId": "ChIJpYCQZztTUkYRFOE368Xs6kI",
+      "phone": "32 96 32 97",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 – 11:00 PM",
+        "Friday: 12:00 – 4:00 PM, 6:00 – 11:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "address": "Refshalevej 96, 1432 Indre By, Denmark",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Reffen - Copenhagen Street Food",
+      "coord": [
+        55.693633299999995,
+        12.608231799999999
+      ],
+      "desc": "Casual street food market, international cuisine, family-friendly, outdoor seating",
+      "longDesc": "Vibrant food court with diverse street food vendors offering something for everyone. Perfect for families seeking casual, affordable dining with plenty of kid-friendly options.",
+      "gmapsUrl": "https://maps.google.com/?cid=15917900653273586336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Good for Groups"
+      ],
+      "rating": 4.6,
+      "ratingCount": 12146,
+      "website": "http://reffen.dk/",
+      "photoRef": "places/ChIJJ9EDaddSUkYRoJpUuE6-59w/photos/AcnlKN3gpOBkBtqdJ9Ch4OfkVryLxVkHtZ7tathKygYb4TOUbH4pu3SQOE5mmy7nUHcQMo64YH0m7BQBUCzoN6JFmqjW1ATCAqkvMr493EHuStrHXNHR7MLh7PgRDHmO81W-kZg-g06zBZ2lVmSqVIm_6Uw1CpXJc5iL3wqoMqYcpa89mcXMc-7E0cZjuPaftqQM5Hgfbx7Y1mfoXUHTawAaxAN9JFLaFPbZnOJQB5dgG1y5zhx-31sb-yX_WdnpguJO30F1Zge6ZSEY5HLJduCgk8YRb2HcI5_TZZwqL2mode4Yxw",
+      "photoAttribution": "Reffen - Copenhagen Street Food",
+      "placeId": "ChIJJ9EDaddSUkYRoJpUuE6-59w",
+      "phone": "33 93 07 60",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 10:30 PM"
+      ],
+      "address": "Refshalevej 167, 1432 København, Denmark",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
     }
   ],
   "experiences": [
@@ -57,7 +191,9 @@
         "Photography Worthy",
         "Romantic",
         "Good for Dinner",
-        "Nightlife"
+        "Nightlife",
+        "Afternoon Wine",
+        "Scenic Views"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=5405695602507565630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.6,
@@ -95,7 +231,9 @@
       "tags": [
         "Family Friendly",
         "Outdoor & Nature",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Playgrounds",
+        "Iconic / Must-See"
       ],
       "phone": "33 15 10 01"
     },
@@ -119,10 +257,123 @@
         "Photography Worthy",
         "Art & Design"
       ]
+    },
+    {
+      "name": "The Little Mermaid",
+      "coord": [
+        55.692859999999996,
+        12.599282800000001
+      ],
+      "desc": "Iconic bronze statue, waterfront location, historic landmark, photo essential",
+      "longDesc": "Denmark's most famous landmark depicts Hans Christian Andersen's beloved character. A must-see spot offering beautiful harbor views and quintessential Copenhagen memories.",
+      "gmapsUrl": "https://maps.google.com/?cid=16116289650480717372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.1,
+      "ratingCount": 35597,
+      "photoRef": "places/ChIJAyFCjeuQTEYRPB41ogyQqN8/photos/AcnlKN3DxzzQuzvsdTxyZp8uKxldtbuBQWypKk5OqygD4tN83OWx956TpQcba2KsJgLMisnZRXBTqXfOOKHHO3q-ThUPxfFM2YHcd3IDM0Al50SE5BsrvW4jErEOBH6wNns1NFjgQEsKZcpzm18uGHC51I69M1_5s_Im1wab02_UES31ItljiotNJs0AukHzR69grSrsE0beRLlpgEKj71zyALNUkr_oWs9GigNJ5MuMCxHrzRLno65v5I-EHrlZPSM38oSgcBqo1dkjkBCk-tuZmMLQA9lhQRU0UsewWz_5DLoAHYE_C_HgTQ3J2eODD0QIH9AhGlMSpC-u-UluQYtaOXJgwWCU-dwRenjzLCWdpmIgkbW02_kQdCPkDHG-unUgNzlB50OVy1eQ8qMY8haQKK_99rDGYWywOJmDukJgg91HEQ",
+      "photoAttribution": "Vladimír Černý",
+      "placeId": "ChIJAyFCjeuQTEYRPB41ogyQqN8",
+      "address": "Langelinie, 2100 København Ø, Denmark"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Copencamp",
+      "desc": "Children's summer camp, ages 3-8, play-based learning and city exploration",
+      "longDesc": "A Copenhagen-based summer camp program designed for young children aged 3-8, combining creative play with exploration of the city while parents enjoy their time.",
+      "coord": [
+        55.73129540000001,
+        12.563932399999999
+      ],
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds"
+      ],
+      "gmapsUrl": "https://maps.google.com/?cid=11980880419436544189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "placeId": "ChIJez8-43ZTUkYRvcDymEOjRKY",
+      "address": "Rebekkavej 33, 2900 Hellerup, Denmark"
+    },
+    {
+      "name": "LEGOLAND® Billund Resort",
+      "coord": [
+        55.7349478,
+        9.1272672
+      ],
+      "desc": "LEGO theme park, roller coasters, family rides, LEGO building activities",
+      "longDesc": "Denmark's premier family theme park featuring LEGO attractions, thrilling rides, and interactive experiences. An absolute must-visit destination for families with children of all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=18132492844902527290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Playgrounds",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.4,
+      "ratingCount": 52010,
+      "website": "http://www.legoland.dk/",
+      "photoRef": "places/ChIJm6m_KHRxS0YROjG6ICyOo_s/photos/AcnlKN0pnrlE5v9Iz6P8J6mHIQLT9pq8hn8v0fc2vFkdiVF33C4woyrwkqdTsQPlAYHmIhr0l7_HblyYnn2vUQmH97YxIwGKu5yv5kEUuMRt6GhFEQjk1h7dfRPuqe9K15uqI8qt1J8KpI3Yeepy55OO96fneku8OpZjxyqWDXfJ3J37tXPuos9TQV2c3NImhm4uChCq1JsBjD914EQfDhVtQTWHihWK0Irkg1559C4ZK1lR-2WWxCl3xNRDyNLBj-5V5XdGxhGyqmJ-y-qA44qq3ziKGFlG58VqCLYhVOPsz-PYysj43yumma-I9L8I2McAv5-QCoLqaWv8XaH4HRxWvWMhhO0NNL-oOylCr4gGzGv_gpUCjQ-7Fl9S_Uy0KSzH3YXnxdxJtyVDD5V5hKJD4sLoi1hs0zuIx_WDjHTSJDoY_IY",
+      "photoAttribution": "Leditia M",
+      "placeId": "ChIJm6m_KHRxS0YROjG6ICyOo_s",
+      "phone": "79 50 17 17",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Nordmarksvej 9, 7190 Billund, Denmark"
+    }
+  ],
+  "markets": [
+    {
+      "name": "TorvehallerneKBH",
+      "coord": [
+        55.6837848,
+        12.568928
+      ],
+      "desc": "Gourmet food market, fresh produce, local specialties, casual dining stalls",
+      "longDesc": "Copenhagen's vibrant indoor food market showcasing fresh Danish produce, artisan goods, and local treats. A sensory delight where families can explore Nordic flavors and grab quality snacks.",
+      "gmapsUrl": "https://maps.google.com/?cid=8319535972432306747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Good for Groups"
+      ],
+      "rating": 4.5,
+      "ratingCount": 15913,
+      "website": "http://torvehallernekbh.dk/",
+      "photoRef": "places/ChIJGzGFEgVTUkYRO2LpXOPtdHM/photos/AcnlKN2i01WDYscWE3m1xpfidDOqOIVo0sOEhA-vUih7Q8mFTvI0pSr0L9EqVlTihYqJH-Dp96R7_t4kfLadE-iD7JeOVKkpD8VOVqr5YX3TaiaPbitgEkZqAPuR2T5gs7vlZDmWG1h1tlvDpDfBK9Ak4ex0bRKg4MmgdgqMKL2FGFYKk4OsGf4G4n4oDgTbHr2ajkxVmJQSoJcP5s2Pn8kE92bMhdIPlxWXFAMlvmTLkCHaaOLYytiWKRd5G5DCqftzUAk95Va-FbKn8xPiYDulSXNRfNSiCpnOAlNktr54vcUg7iWYvSkKvs-YvUxIsgPmzan38zBQ33rgcXouRWf8XO7bWVfFGSHIP6Zax6dLlQgRK4m8vdbEItfItw6aM0fomz6NwUlvDDnMlQg2Rra0uNN2ebVceBd2HunBTPn9ArI",
+      "photoAttribution": "Ivan Zarif",
+      "placeId": "ChIJGzGFEgVTUkYRO2LpXOPtdHM",
+      "hours": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Frederiksborggade 21, 1362 København, Denmark"
+    }
+  ],
   "cityCenters": {
     "Copenhagen": [
       55.6893,

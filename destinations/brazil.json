@@ -28,7 +28,8 @@
       "tags": [
         "Wellness & Spa",
         "Family Friendly",
-        "Romantic"
+        "Romantic",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -40,9 +41,142 @@
         "Sunday: Open 24 hours"
       ],
       "phone": "(84) 3030-0077"
+    },
+    {
+      "name": "Copacabana Palace, A Belmond Hotel, Rio de Janeiro",
+      "coord": [
+        -22.9673111,
+        -43.1789541
+      ],
+      "desc": "Iconic beachfront luxury hotel, legendary service, Art Deco elegance since 1923",
+      "longDesc": "Rio's most prestigious hotel offers families timeless elegance, direct beach access, and world-class amenities on the famous Copacabana strip.",
+      "gmapsUrl": "https://maps.google.com/?cid=17234801990948456622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Romantic",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Beach",
+        "Reservations Recommended"
+      ],
+      "rating": 4.8,
+      "ratingCount": 40988,
+      "website": "https://www.belmond.com/hotels/south-america/brazil/rio-de-janeiro/belmond-copacabana-palace/?utm_source=local_search&utm_medium=link&utm_campaign=google_business",
+      "photoRef": "places/ChIJjZJPDlTVmwARroitzBhRLu8/photos/AcnlKN3WxiUahMKUH_w2PPSp8yib7neacZk3IB8V-nSVbKqHiPFSRyxwouKV6BYFpufEVUvqMKdxO-ZwLCgXdvksNQDOtsFYiHWwj8TnP8wxtgjfTzpKY8e0biTNz5u9WOOWEBegPgHbENV7tywB4bGEuN0xFQbTodW9dG7WEC0FzA9xLLltJxhoE8pv-OPLB7h1SuexmwJFnt7Vj7scTMxEqt02qJjUUNHDgiOMQhorwjP1-XyPtwmY_EwPGQSRRf-TEI2SNw3rn9sBKf91uhRo59dgxEUWtFBBO2TEvXBKClcj7g",
+      "photoAttribution": "Copacabana Palace, A Belmond Hotel, Rio de Janeiro",
+      "placeId": "ChIJjZJPDlTVmwARroitzBhRLu8",
+      "phone": "(21) 2141-8990",
+      "address": "Av. Atlântica, 1702 - Copacabana, Rio de Janeiro - RJ, 22021-001, Brazil"
+    },
+    {
+      "name": "Pousada Literária de Paraty",
+      "coord": [
+        -23.220314,
+        -44.715343399999995
+      ],
+      "desc": "Charming colonial guesthouse, art gallery, intimate courtyard, family-run charm",
+      "longDesc": "This boutique pousada in a historic colonial town features cozy rooms, curated art, and warm hospitality perfect for families exploring Minas Gerais.",
+      "gmapsUrl": "https://maps.google.com/?cid=14198692981566910181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Art & Design",
+        "Cultural & Historical",
+        "Hidden Gem"
+      ],
+      "rating": 4.7,
+      "ratingCount": 275,
+      "website": "https://pousadaliteraria.com.br/",
+      "photoRef": "places/ChIJzXXA4y2vnQAR5a4g8QnkC8U/photos/AcnlKN3gTwv_Im53LGCC56JYqwPzxTRgFfcalNwb1z_AlwLRGxDkoYYbSQfBlMr3AgTwzTlr5rQ_hxIbiJqS-G9ia9xv8B3ViMgF7mDvdeW-ob6Y2MqsrTBGG1Iu2yjKvssey620Hey62op4LQUcX6KsrTxU4GLUciImPoNP7brA8kbCZOcbKkUlzUrM0y-M-NizAtUF3NFhMzlQF4FncgjAIJQAlnVozOE7timar7X-fNIu_WHxk7QI-YiGJnCtue4edFUJyLjYnD8-LyHfhVKIqwtdOzvWWH14PJ1arNqvN645jQ",
+      "photoAttribution": "Pousada Literária de Paraty",
+      "placeId": "ChIJzXXA4y2vnQAR5a4g8QnkC8U",
+      "phone": "(11) 2770-0237",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "R. Domingos Gonçalves de Abreu, 254 - Centro Histórico, Paraty - RJ, 23970-000, Brazil"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Confeitaria Colombo",
+      "coord": [
+        -22.9051966,
+        -43.178745899999996
+      ],
+      "desc": "Historic Belle Époque bakery and café, ornate interiors, traditional pastries and coffee",
+      "longDesc": "A Rio institution since 1894, this stunning ornate café delights families with decadent pastries, hot chocolate, and charming old-world atmosphere.",
+      "gmapsUrl": "https://maps.google.com/?cid=9345797772796085978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Breakfast Spot",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 38507,
+      "website": "http://www.confeitariacolombo.com.br/",
+      "photoRef": "places/ChIJSWWrd15_mQAR2sYl5o7xsoE/photos/AcnlKN3Urf-9fVrChsAiOsOnpNc75a4-2aMJJLY1A2a6v1UC_SggfEg9xT2iVR8NcLMKy3VNYPodWQ9WOnCY7BpxEj8BdUAbkkeBLkPrJgxiZf_Y8RPhpYtcoEyzTU4sw1FfSme-XYcC4vGwFPt86kIz4BzCsVzxFWttO8gv1Xy-KqGXGTt9uHqw6chedKQFrmWJkEjxWOxtLXLCiWXhITrkay5V1vC14QgjqpsZzLksHjqlJTOAGXf9ltp_iX4U4HBfS_qdiiE1-VakitT2uB41i7wXwjOZl0-6csaYZ-H7nRtg1Q",
+      "photoAttribution": "Confeitaria Colombo",
+      "placeId": "ChIJSWWrd15_mQAR2sYl5o7xsoE",
+      "hours": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: 11:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "R. Gonçalves Dias, 32 - Centro, Rio de Janeiro - RJ, 20050-030, Brazil",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Zazá Bistrô Tropical",
+      "coord": [
+        -22.9854508,
+        -43.2049036
+      ],
+      "desc": "Contemporary Bahian cuisine, creative local flavors, relaxed atmosphere, chef's specials",
+      "longDesc": "This laid-back bistro celebrates Bahian culinary traditions with fresh, inventive dishes that introduce families to authentic regional flavors.",
+      "gmapsUrl": "https://maps.google.com/?cid=2286630346652693424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Local Delicacies",
+        "Good for Dinner"
+      ],
+      "rating": 4.6,
+      "ratingCount": 3005,
+      "website": "https://www.instagram.com/zazabistro?igsh=MXB0Z3A2NGI1c3ZueQ==",
+      "photoRef": "places/ChIJe3Hs4ATVmwARsLPcaC--ux8/photos/AcnlKN36QW1SbJTAl7UqTf_t7JVlhiSfkUXtHtnl3N67ZYABnwQrH0kShQSlUV81l5r6RuGRDdZGELGKsyst-xL-4OmKXEEqmwnCrMEvAx7H113S-tbg9ZTunc3Cj_7Axc4uc8n468J0r8ZzvolzJ1Om0ufF6NS9mvMLSAZEU9tQeMVSF68eDNixoWkWyE2vAy8hI_FH3Yo6Hd-pNvgzU24GcKUz7ta35u7ax5PvQs6fUpSpilLn8_YRaNakqEO6oHqbmLPDNPuO252PrDsggeB9aqSAUfFPgG25fN7zGynEJJGCCw",
+      "photoAttribution": "Zazá Bistrô Tropical",
+      "placeId": "ChIJe3Hs4ATVmwARsLPcaC--ux8",
+      "phone": "(21) 99530-7173",
+      "hours": [
+        "Monday: 12:00 PM – 12:30 AM",
+        "Tuesday: 12:00 PM – 12:30 AM",
+        "Wednesday: 12:00 PM – 12:30 AM",
+        "Thursday: 12:00 PM – 12:30 AM",
+        "Friday: 12:00 PM – 12:30 AM",
+        "Saturday: 12:00 PM – 12:30 AM",
+        "Sunday: 12:00 – 11:30 PM"
+      ],
+      "address": "R. Joana Angélica, 40 - Ipanema, Rio de Janeiro - RJ, 22420-030, Brazil",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    }
+  ],
   "experiences": [
     {
       "name": "Antonio Prado",
@@ -61,7 +195,8 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Hidden Gem"
       ]
     },
     {
@@ -81,7 +216,9 @@
       "tags": [
         "Photography Worthy",
         "Outdoor & Nature",
-        "Romantic"
+        "Romantic",
+        "Scenic Views",
+        "Beach"
       ]
     },
     {
@@ -103,7 +240,9 @@
       "tags": [
         "Photography Worthy",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Full-Day Activity",
+        "Scenic Views"
       ],
       "phone": "(98) 3349-1267"
     },
@@ -126,13 +265,142 @@
       "tags": [
         "Photography Worthy",
         "Adventure & Active",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Full-Day Activity",
+        "Scenic Views"
       ],
       "phone": "(98) 3349-1267"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "coord": [
+        -22.951916,
+        -43.210487199999996
+      ],
+      "desc": "Iconic 38-meter statue, panoramic city views, mountaintop monument, unforgettable photos",
+      "longDesc": "This 1931 Art Deco masterpiece atop Corcovado mountain offers breathtaking 360-degree views of Rio and remains a must-see for every visiting family.",
+      "gmapsUrl": "https://maps.google.com/?cid=11369764793252905694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.8,
+      "ratingCount": 128714,
+      "photoRef": "places/ChIJP6FKmNV_mQAR3gKVAdeEyZ0/photos/AcnlKN0S_Ri_7t9lz3YePNWXhdwTLf_FSwhK8Rmd7ny4SCx90HJri87tV1-sFhWBx489MRnQoz_2uQ8xoyigdMzLLuKTFzYwhaLQnysUudy3BzZVAyhgGVcjNFCcmEupE40lT9kmrkRDPtKTns-xeYQ8MtcsTUloKaGrI0jrf5JG9b2kR2_fmk9fhl1b7m9pjlgoKfmFxVE61MNZxpAd9Xmb4_eKCkcKVkkpYsZT_0rY0hZ7zs2YYvO5ZpivrZynXsh_MOrU3_7j4c0KI58i6Da3NyZ4Fsdg5Cm2A3y1xziC-RrHkK9lpdwgQYG0tg1dWKN0aLwDZ7rS9SCox3rj7UDcarTyb8VuYP9UPOF5oYCIMMeod6P4aJJB82iF_-aZC0xHIAnA89a9TfnmMRPSfhaTBkJIPMoTCYdfxRZg6GvOGguRkQ",
+      "photoAttribution": "Keryson Patrick Oliveira Belarmino",
+      "placeId": "ChIJP6FKmNV_mQAR3gKVAdeEyZ0",
+      "hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ],
+      "address": "Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, 22261, Brazil"
+    },
+    {
+      "name": "Amazonas Theater",
+      "coord": [
+        -3.1302887999999998,
+        -60.023414200000005
+      ],
+      "desc": "Ornate Belle Époque opera house, guided tours, architectural gem, cultural performances",
+      "longDesc": "This stunning rubber-boom-era theatre showcases Amazonian grandeur with opulent interiors, fascinating history, and performances that captivate family audiences.",
+      "gmapsUrl": "https://maps.google.com/?cid=968412881784572870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Art & Design",
+        "Photography Worthy",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.9,
+      "ratingCount": 34018,
+      "website": "https://teatroamazonas.com.br/",
+      "photoRef": "places/ChIJ5Ys6KX0FbJIRxouulmJ-cA0/photos/AcnlKN2Z1On_-O0u4vaAe_4HtrhjYD21xYfRXDlPuDy0B-cRj4OOEwUv_yuDmWXJ_KKLrrLU00bnLsfniN8qn1c729iDU8TGTVxtSsbj80fDolWQtdh3ddu3dUqlb2vimrK88u45-uS6roDtANBBcv4j1n0BooQ7q6AH2gvwLTkTD-VSe5A06trVMnjqti52txS5ex3AIaD_x2ZB_JutIO1vmF8J-5A-wc0CMIrd1VlUHN79XuEi1EFnb6wECvrI5TmagDonAGAM99W2aCcGBszdadtTx0MK6ws8R3-rnDI_hMeMQw",
+      "photoAttribution": "Teatro Amazonas",
+      "placeId": "ChIJ5Ys6KX0FbJIRxouulmJ-cA0",
+      "phone": "(92) 3131-2450",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 1:00 PM"
+      ],
+      "address": "Largo de São Sebastião - Centro, Manaus - AM, 69067-080, Brazil"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Praia de Maragogi",
+      "coord": [
+        -9.015295,
+        -35.221872999999995
+      ],
+      "desc": "Calm turquoise waters, natural pools, coral reefs, pristine beach, snorkeling paradise",
+      "longDesc": "This spectacular northeastern beach features shallow, clear waters perfect for young swimmers, plus natural coral pools and abundant marine life to explore.",
+      "gmapsUrl": "https://maps.google.com/?cid=4206160375433882186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1498,
+      "photoRef": "places/ChIJO5GtlVD1AAcRSmoPhpNIXzo/photos/AcnlKN1UnGg54KC6VLBEGbL8xlz8vUJ-A8EmWWs40GoySesCdFcGbbn6wOCyx6VI1uEf7cNiEbXjuq_Wvcq2hCs2wx9pIzP7biUpMHy5RcM_6Vl-G8RstGYNWLo4Uaqwy5iil8ouochUS8xxHVbOILCvuo7QGNsYz_KHauMC8DMzduDuknivD_hQtkitO6rbzJ__uAGzdkam3k7JOCVbxsxpbR-cynelG3e-FvSXRruSnLChg4pDKwDGVGpjSmv3EVl650DeCVdy7Coq0TcZmPFOVRtDvNYzNrVAqVALiZeUKwdgxLsVFHxE23agBljNhOBwd-gt220z0vyXeH2BHewgEYLaKrntxV1a2r1VLgNG5_Fk468_R8x_J7UJQe1CXxb1xh-D4q3KtGzeDaaRXchks3BV46BaxrkkWbLrDHVnZP-9Esn0",
+      "photoAttribution": "Camargo",
+      "placeId": "ChIJO5GtlVD1AAcRSmoPhpNIXzo",
+      "address": "Praia de Maragogi - Maragogi, AL, 57955-000, Brazil"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Ver-o-Peso Market",
+      "coord": [
+        -1.4523651000000002,
+        -48.5037509
+      ],
+      "desc": "Historic riverside market, fresh produce, local fish, handicrafts, vibrant atmosphere",
+      "longDesc": "Founded in 1628, this bustling waterfront market immerses families in Amazonian culture with exotic fruits, fresh seafood, and authentic regional crafts.",
+      "gmapsUrl": "https://maps.google.com/?cid=15937296112694828306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Shopping",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.4,
+      "ratingCount": 35912,
+      "photoRef": "places/ChIJrwq2_-2OpJIREp1jBWCmLN0/photos/AcnlKN0GkoCIefbVu05LTgYgOUy8P2OFQ0dCdki_CS_g4qXU4NNuqFoqjjf0l1IhGiIlodsUQ1dvSfDkFO-5xfE8OLPlsX18mUztt1ajF8GXP3EYAK98IT9--2Nv4Zml4YqMyQJHh4TgBzrCF5ZrQpvmvWrxeKI4EPfDNGl40oRUKVrAo6skFmcnpG2xujrFpFXgpPJx7d7QqJgYsAFjT6dgjNMCYjIeKoXkv6h42ZY3M2L1BdA7OiIuZQayj1OqURb0iZ8mcCHFuFhn8v-cEepDzeBnDqpnplVSS6ZDuCZnWGNUg8JWn6RUQlM9EYbQlEKqefU6EicLHauJSdOJ9BHl9hVnN32vW6of-4kcNOhYyAzrLfai9nF_JlxumZl7ahZ9LhppwxeAsu97tPkcYONAdaZ_3ixNdqAxz4xQsg5tESsPLPB5",
+      "photoAttribution": "Celso Lobo",
+      "placeId": "ChIJrwq2_-2OpJIREp1jBWCmLN0",
+      "hours": [
+        "Monday: 5:00 AM – 6:30 PM",
+        "Tuesday: 5:00 AM – 6:30 PM",
+        "Wednesday: 5:00 AM – 6:30 PM",
+        "Thursday: 5:00 AM – 6:30 PM",
+        "Friday: 5:00 AM – 6:30 PM",
+        "Saturday: 5:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Blvd. Castilhos França - Campina, Belém - PA, 66013-030, Brazil"
+    }
+  ],
   "cityCenters": {
     "Antonio Prado": [
       -28.857,

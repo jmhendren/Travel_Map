@@ -30,8 +30,106 @@
       "tags": [
         "Adventure & Active",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Iconic / Must-See",
+        "Full-Day Activity"
       ]
+    },
+    {
+      "name": "Penguin Island",
+      "coord": [
+        -62.1013678,
+        -57.9295731
+      ],
+      "desc": "Thriving penguin colonies, abundant wildlife viewing, pristine natural habitat",
+      "longDesc": "Watch thousands of penguins in their natural environment. A spectacular family adventure showcasing Antarctica's iconic wildlife and stunning landscapes.",
+      "gmapsUrl": "https://maps.google.com/?cid=5505251518513129087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 63,
+      "photoRef": "places/ChIJzwZYobmAc7wRf6YniBaVZkw/photos/AcnlKN14wWVqRVGrC8srwjlLahlmpo9E4yM81vCS9DHzdZteRrIwV3QM57rSBGjrRJ_b5CWSLQ_V8S-F2_doeJQJ3V3lmQAZy9xi_aLsEm8oQZORumDA-hUbVbuAS2dI8Xwe6eA9qWFIOs0RqYLBp7bIGRbAgeA0fOLMhkYpEOzlTeTIdH-lv8XQsXBB5fGGa6Y2AnMw6bIIvJbylwCJrJIn-U293E1pwsMqrNO7wiywC4m39IOhiiG1_Ug9Tz0mRj3mI9W360bAHrwBCtcgfLzYvglYv04kT_CHia9GwQymjEkaSGeBhAniHdDo9zvlR4ZneCa7iOaLxzQXnhPMTsrvDhblsbs0igz_7pPevuPUfqdAiSIJ9qgXAvAz_bSEfIV_XCZyLVBeKuXLFIf9p97sjLQEWI8I51ZRkEuphz6YVrBZ0g",
+      "photoAttribution": "Zwie Zebra",
+      "placeId": "ChIJzwZYobmAc7wRf6YniBaVZkw",
+      "address": "Penguin Island, Antarctica"
+    },
+    {
+      "name": "Paradise Bay",
+      "coord": [
+        -64.8574435,
+        -62.9201434
+      ],
+      "desc": "Scenic glaciers, calm waters, excellent kayaking opportunities, wildlife encounters",
+      "longDesc": "One of Antarctica's most picturesque spots with dramatic ice cliffs and calm waters perfect for families to explore by kayak or zodiac.",
+      "gmapsUrl": "https://maps.google.com/?cid=10837903714294157369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 4.9,
+      "ratingCount": 124,
+      "photoRef": "places/ChIJsfz-AN1Uf7wROdBjqAH4Z5Y/photos/AcnlKN3qTS0Eo0CsoQrI-jvGNmkL3FcFRWKLsCgwrJgY60hN73xuFfwQsRt_VHBqgXz1YhfQF3IASYc8ZC7yUyysEpXqiYwNokr7AluOPp-jUV2UPlDoABCsQiJS5jJhKsLy1T-CWN6ooimTk_05-IQ4qneL14qMjVTNiRKOuqwj-tTwwGs2kuXR43fikH4k9sMW-0lGfhJQ_s4JG4gU7xYU2FgUig71SVbrzzLAt-uXHZ-vU7s5jg1Pd7-R9bdc7M21_wFiV0mTJ4cEh60tTNtyUl06VM4zuVLHcltwl-eK1GgZgFlU8hIdrIU494s5nuUNKYcia4eYH0fyu2_OY7jo0pxW3t7bVYc30DpuITQGApZVNeB7ad5Mtl3tvzY5ioikTBllrD7NfV5NSZW3kau4OYChS_UFbQlvX-OG-ZD3r-YpFZw",
+      "photoAttribution": "Irfan Shah",
+      "placeId": "ChIJsfz-AN1Uf7wROdBjqAH4Z5Y",
+      "address": "Paradise Bay, Antarctica"
+    },
+    {
+      "name": "Deception Island",
+      "coord": [
+        -62.9409297,
+        -60.555375100000006
+      ],
+      "desc": "Volcanic landscape, geothermal hot springs, historic whaling station ruins",
+      "longDesc": "Explore an active volcano with unique geothermal features and fascinating history. Families can hike volcanic terrain and discover Antarctic heritage sites.",
+      "gmapsUrl": "https://maps.google.com/?cid=3585854937776610287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Full-Day Activity",
+        "Hidden Gem"
+      ],
+      "rating": 4.6,
+      "ratingCount": 672,
+      "photoRef": "places/ChIJy86TpF4wd7wR71tBNhGEwzE/photos/AcnlKN0AY8_sopzXUxZdYVqsvYYMyG3caKhIS0Qy-NCrgxteiwPslOd00yN_QAaGe-gYp26QVKEtOmYBH5M1WOvQByel9ZWQbPexZs3bv4eO0heiPEOQx5EHI1YgqVw26NUGMvVeWfm7ktPaDGSi0QC9LKjI48wCHzkNhfElt11vZwDWUUuWQrRJI1RK2Pbx2Yrv2Ke7HGV65IvwyoDx-Z4pIL8t4HSvtOOWTbnO5kLVujRN6UHsh6GvM-7whZzY7lznL67dMwYguRd4hHraJTVFs9Diz54C2Jxt4JPXuTRNB3H5xZhUrrwZVvcO7QaL0AEOx_fq07dDypvR-FAQk9kPxsh2SotUl9TwhXMz0sJAzKzUbHxHhuKwO-gvsmRocVLYDd-d_pVBASk8XmUWxPPVTl-_xzEw5gZPAhuV8Yu_xKke8mR0",
+      "photoAttribution": "Plinio Lisboa",
+      "placeId": "ChIJy86TpF4wd7wR71tBNhGEwzE",
+      "address": "Deception Island, Antarctica"
+    },
+    {
+      "name": "Wiencke Island",
+      "coord": [
+        -64.833333,
+        -63.383333
+      ],
+      "desc": "Historic British research station, museum, post office, penguin colonies nearby",
+      "longDesc": "Visit Antarctica's most visited historic site with a working post office and museum. Families enjoy the heritage building and surrounding penguin populations.",
+      "gmapsUrl": "https://maps.google.com/?cid=738108263356040850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Half-Day Trip",
+        "Hidden Gem"
+      ],
+      "rating": 5,
+      "ratingCount": 9,
+      "photoRef": "places/ChIJk5rZlZ9af7wRkgYeC45JPgo/photos/AcnlKN2fYeNkWeonKFUReOV3w9dsNNB_e6z123eB8n6gTafUSRPj34coAxtm95KzvYHuE1ZUB33ChIZaO4x18ffDgs3frhQB2cWhVmrxmwHvj0cUcgcVcb0i0zg4tlqlCADfNhRz8xHyjhzFLqlBBxDnup0-5uHR7Ux-l-i1p9htQ5MSjC3nyRM-Xmo4fCpsBVOVlpaEGmAOpnvqjjLjYjjZKZi-YjL93w-d_xz-CQZflGOCh3C1rtj7n08E_nc8mqkq_3afuTem9NJvNWRNIh56pa3Rw6IXyQFW37zRpvfcRZt7OjCUUS3ELZ7lGJ5Jr_SHCI3g7w_g3yHqzCEvhgarJ-oPniDPOXjB88GKDoTTc9wxPvUK8PrSBhXM4xFuT0mJRxG723mMRvggLsdgROqgiBc8nSSaOpCGKpPgcTRii5U",
+      "photoAttribution": "Jürgen",
+      "placeId": "ChIJk5rZlZ9af7wRkgYeC45JPgo",
+      "address": "Wiencke Island, Antarctica"
     }
   ],
   "kidFriendly": [],

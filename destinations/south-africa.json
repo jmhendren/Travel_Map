@@ -29,7 +29,8 @@
         "Splurge",
         "Adventure & Active",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: 8:00 AM – 5:00 PM",
@@ -85,7 +86,8 @@
         "Romantic",
         "Wellness & Spa",
         "Splurge",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Hidden Gem"
       ],
       "phone": "021 007 0762"
     },
@@ -109,7 +111,8 @@
         "Romantic",
         "Splurge",
         "Photography Worthy",
-        "Art & Design"
+        "Art & Design",
+        "Afternoon Wine"
       ],
       "phone": "021 888 8000"
     },
@@ -153,7 +156,8 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Art & Design"
+        "Art & Design",
+        "Reservations Recommended"
       ],
       "phone": "087 375 7777"
     },
@@ -176,7 +180,8 @@
       "tags": [
         "Splurge",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Scenic Views"
       ],
       "hours": [
         "Monday: 7:30 AM – 10:00 PM",
@@ -208,7 +213,8 @@
       "tags": [
         "Splurge",
         "Adventure & Active",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See"
       ],
       "phone": "021 683 3424"
     },
@@ -232,7 +238,8 @@
         "Romantic",
         "Splurge",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Hidden Gem"
       ],
       "phone": "061 427 200"
     },
@@ -288,7 +295,8 @@
       "tags": [
         "Splurge",
         "Family Friendly",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Pet Friendly"
       ],
       "phone": "021 483 1000"
     },
@@ -311,7 +319,8 @@
       "tags": [
         "Splurge",
         "Romantic",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Hidden Gem"
       ],
       "hours": [
         "Monday: Open 24 hours",
@@ -344,7 +353,8 @@
         "Splurge",
         "Adventure & Active",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: 8:00 AM – 5:00 PM",
@@ -377,7 +387,8 @@
         "Splurge",
         "Adventure & Active",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Scenic Views"
       ],
       "phone": "0730 630630"
     }
@@ -414,6 +425,358 @@
         "Sunday: 9:00 AM – 5:00 PM"
       ],
       "phone": "(41) 98739-7944"
+    },
+    {
+      "name": "Chefs Warehouse Beau Constantia",
+      "coord": [
+        -34.013672299999996,
+        18.406393899999998
+      ],
+      "desc": "Tapas-style restaurant with stunning views over Constantia valley",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15449236516595233600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Scenic Views",
+        "Photography Worthy",
+        "Good for Dinner"
+      ],
+      "rating": 4.6,
+      "ratingCount": 446,
+      "website": "https://www.chefswarehouse.co.za/beau-constantia",
+      "photoRef": "places/ChIJz1AGNjhozB0RQPOmHsK2ZtY/photos/AcnlKN3SKngpxs6PDub-A-i4zr3G5eFpLU7cQvpAeqNGkBX17-M52jz5Uqpl9FYZ_wm4x16eR5KPO81PgR2ohs2fcgYHvCZwBuBOywy8vqgoK1iZEa22dRGHcIvJsmn40GpZBJYL60pHvgQMonfhhB-vK4bhgci5IzOE8g2qroddXz2gy08HTR_SB-5gV8NzSRFmx9uJ-vt9-ZDC_81edTqQz5sDB5tcHjKcIgsd7YXP2xH0HVnkxQLLB7v8yAY5dnToWC90jhFH282pHLWMBquM6JAk3Fef2FMZrEryasLEWG987g",
+      "photoAttribution": "Chefs Warehouse Beau Constantia",
+      "placeId": "ChIJz1AGNjhozB0RQPOmHsK2ZtY",
+      "phone": "021 794 8632",
+      "hours": [
+        "Monday: 12:00 – 2:00 PM, 6:30 – 8:30 PM",
+        "Tuesday: 12:00 – 2:00 PM, 6:30 – 8:30 PM",
+        "Wednesday: 12:00 – 2:00 PM, 6:30 – 8:30 PM",
+        "Thursday: 12:00 – 2:00 PM, 6:30 – 8:30 PM",
+        "Friday: 12:00 – 2:00 PM, 6:30 – 8:30 PM",
+        "Saturday: 12:00 – 2:00 PM, 6:30 – 8:30 PM",
+        "Sunday: 12:00 – 2:00 PM"
+      ],
+      "address": "1043 Constantia Main Road, Beau Constantia Wine Farm, Constantia Neck, Glen Alpine, Kaapstad, 7806, South Africa"
+    },
+    {
+      "name": "Truth Coffee Roasting",
+      "coord": [
+        -33.92819,
+        18.4226889
+      ],
+      "desc": "Steampunk-themed cafe with excellent pastries, kid-friendly atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=18096512055230600182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Family Friendly",
+        "Casual Eats"
+      ],
+      "rating": 4.5,
+      "ratingCount": 5552,
+      "website": "https://www.truth.capetown/",
+      "photoRef": "places/ChIJk0_6kHxnzB0R9hOYtdW5I_s/photos/AcnlKN0F4mgEt-HmKM71i03whHEyNOtdO0rk3K-zIvFPa03hwDW2zXSMDsb2TaHNdh4DXsRCbm8-EK8rtRjJX63-9JMM7t-CcvLJ4MUHrDFHAnSpEuz44zioo2gKo_evzv-MB--68mEYgKVSpHog_zslbm6qGEkbA60bVN0ZY8oAuzTSN20qC-zhnu7TkLPTA2ahsZgtKPB5lmIsLiVvHVnskADBBY0WzOOZ_mXdHVUnvNDCC0ZZL6MtgH7Xd1K1ggS_4zN84wV7OwM4urOCLfFv9BeDgjHGzT7yKaB6mVomeLTFQw",
+      "photoAttribution": "Truth Coffee Roasting",
+      "placeId": "ChIJk0_6kHxnzB0R9hOYtdW5I_s",
+      "phone": "021 201 7000",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "address": "36 Buitenkant St, Cape Town City Centre, Cape Town, 8000, South Africa",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "The Shortmarket Club Johannesburg",
+      "coord": [
+        -26.102306,
+        28.057385099999998
+      ],
+      "desc": "Relaxed upscale dining in the city center with sharing plates",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16135588091596927631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Splurge",
+        "Good for Groups"
+      ],
+      "website": "http://www.theshortmarketclub.co.za/",
+      "photoRef": "places/ChIJ6cobfmZnzB0Rj3KoGeEf7d8/photos/AcnlKN3bcZi0Ne-R7OtCu2dyt5nyeDWJNGYuXLbrGqlKlAJn6cL9mSbLQBt6hsr079ELmYJqfjg0l2oFo3VSMWavR66buYWX-EMLKxBITyOBGfxlC25bMP840BKwiPrsc9TrtZH4jJvH4vHTI5fjlZC5izGASXIicr78fJd37SOgcPrnPs9foMGEPzObWTCVeLQBn-Z-jXocVvAvVkPYkoxoHVcKQaT8ZfR685QKSTJqOcYlArKxLW9X28AmHMYcYK11wck7vpZdvvSNXRmTeMel77OaCEQ3dstdsEuR8CIBpFVbxCtmGrxxxDWf8iOqEg1tRyMxdrUB1EU0hyhtinDMEY5WjwuTk2486SUmZgN5tOopHmRRkiFQaod2uCMXS-FYRs0yusnm-PyD9rYzNeEjRY5wYl4cZm_EN23CkfRGbfY",
+      "photoAttribution": "Anthony Vorster",
+      "placeId": "ChIJ6cobfmZnzB0Rj3KoGeEf7d8",
+      "phone": "079 179 7362",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 4:00 – 10:00 PM",
+        "Friday: 4:00 – 10:00 PM",
+        "Saturday: 4:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "6 Gwen Ln, Sandown, Sandton, 2031, South Africa",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Tokara Delicatessen",
+      "coord": [
+        -33.914190999999995,
+        18.918776299999998
+      ],
+      "desc": "Vineyard restaurant with stunning views and outdoor space for kids to roam",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14201171766938004484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Scenic Views",
+        "Family Friendly",
+        "Local Delicacies"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1712,
+      "website": "https://www.tokara.com/tokara-wine-estate/delicatessen/",
+      "photoRef": "places/ChIJWWuSQu-xzR0RBGylInuyFMU/photos/AcnlKN3MxS6XHrpg6Uj4Td8zvaRXWFf1W1oA5PpuKCt1ECrjwsM7_eG6-8lq_O9_1AvKWwselWdACPPpsJfH3M_utLEwhL6egxxQ-eQQja3WGvAIU8h6wEE-354oV_VHijcEcSzDlj50XzeVouiQum9JEIcQfORfvOZn-X-zKMbQP8iUdcSE7PZHmwHTLpPQoMKXqN4kneevZmWBi8P54-CJECC8WowTDWUIyp_TN-9TB_CmaG6sRVJ-oGxC9acoNaNp3tcZWCYfTMLNqk6TJUG54OViR47nD0O0AMKvYMrud4lZJw",
+      "photoAttribution": "Tokara Delicatessen",
+      "placeId": "ChIJWWuSQu-xzR0RBGylInuyFMU",
+      "phone": "021 808 5950",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "Helshoogte Rd, Stellenbosch, 7600, South Africa",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "La Colombe",
+      "coord": [
+        -34.013901,
+        18.4028798
+      ],
+      "desc": "World-class tasting menu in Constantia, early seating available for families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6156682382605536876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Family Friendly",
+        "Reservations Recommended"
+      ],
+      "placeId": "ChIJc7iX_EdozB0RbM4b6gHucFU",
+      "address": "La Colombe, Hout Bay, Cape Town, 7806, South Africa"
+    },
+    {
+      "name": "Codfather Seafood & Sushi",
+      "coord": [
+        -33.954155,
+        18.377465
+      ],
+      "desc": "Fresh seafood market restaurant where you pick your fish, relaxed atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4346568274157365125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3560,
+      "website": "http://www.codfather.co.za/",
+      "photoRef": "places/ChIJUVWciFJmzB0Rhech9dAcUjw/photos/AcnlKN2gwuHyUv15iaINMoslnwi5v1JIxGftMprqy88jyq0W2JbvJOng-bG2nPyQPKiRWBfDkl_WNsMY3_mfPe3SCOhOfwK4G4a-nvtFFSNQU20mSXWigtR8HYUyxP-SDfec9JH4FehJ8GuMpY4HUg2EMXOhQEGEfgw7KX6d_MyjCKcQSNSP6FHqvqY-pKAsSBCmUQIAx-Lz35aMvCf1dhwxwJLjuf9d7eiWzmTe2Matv0ENkCRNGVJkDwT1OSn-tqaFpgkMg7D-Tgisfus5nmrU-oXicnLcHGl-_JPpgu5-j5GiO7_gY3NX2CcQ6VwommosGR1vGqNiwj2ucRZrXv7eQrp4huqK_AtWhPdRz_fP6FABf2Qht27DwJ5GT-MssQCMD7Yr8gzUl_hizSVQs8moLa_0Y9P9XM8mWu5ktycYdOA",
+      "photoAttribution": "Sharlene Simon",
+      "placeId": "ChIJUVWciFJmzB0Rhech9dAcUjw",
+      "phone": "021 438 0782",
+      "hours": [
+        "Monday: 12:00 – 10:30 PM",
+        "Tuesday: 12:00 – 10:30 PM",
+        "Wednesday: 12:00 – 10:30 PM",
+        "Thursday: 12:00 – 10:30 PM",
+        "Friday: 12:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 12:00 – 10:30 PM"
+      ],
+      "address": "37 The Dr, Camps Bay, Cape Town, 8040, South Africa",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Kloof Street House",
+      "coord": [
+        -33.9282119,
+        18.412091699999998
+      ],
+      "desc": "Charming Victorian house restaurant with garden, relaxed family atmosphere",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9423565060924060373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Romantic",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 5317,
+      "website": "http://www.kloofstreethouse.co.za/",
+      "photoRef": "places/ChIJ_Tc00XFnzB0R1TIppn46x4I/photos/AcnlKN3E5K18oCMwG93XVHSnxAcgNu3LuATnb33Ad9oN4i-LhVNAXWuss102CEZjvwQDQK_-ZrPV8sSPFnLkc__2zuFGAc-UvFA7H-oMuZkxjUfrQYZHMnuXRVLzeBYP-xkMcdIu7qAo5EtNxgV9qI629Xb2128b0-rAvP_9dn3yOikuvYDGSK2YkU4qDLmvT965AJuBpOb_lGVgeDntlfuzCuOPjcuOPPyTSkaulh_-4Ru8_lYhPM-GGviBJgBVgKG55tIlu1yXcyi6s7Hd6JT4YLvnupkeDwHhMZClcLMmRSdDk8FZ8dxAUgTfOQrEnmFo0aQbc4SXOrvF8dnvOEetDrofjAZGCUmNrGd_CP2bUJexulYVZUH09MbnGOLliuHd8xSySbSSaDdSK7Ebsk0lIpIclYk6nVdAWSyKMrk_NOhWxt8",
+      "photoAttribution": "Dan Kruse",
+      "placeId": "ChIJ_Tc00XFnzB0R1TIppn46x4I",
+      "phone": "021 423 4413",
+      "hours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ],
+      "address": "30 Kloof St, Gardens, Cape Town, 8005, South Africa",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Den Anker",
+      "coord": [
+        -33.9060905,
+        18.4211876
+      ],
+      "desc": "Cafe Neo at Watershed, healthy bowls and kids options at the craft market",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10861187130983891205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.4,
+      "ratingCount": 5141,
+      "photoRef": "places/ChIJuc8XN61nzB0RBcFWjSawupY/photos/AcnlKN1OQ_yTWFemRgYUXRDaJLIskJPlPFfG_PWhk9drOUznrqYUpsZ46EHjbrf4aYfHuBmsufu2biUV1bfyALRVO-5rfs7Nc0vboSELYh9eLWIgKmbppZuTF2tFcxVslvlIdalAcB-DFJ1WxVEFH2BUIthKVIpZW-vzxyl28f1yoCmNhq0CoyoWNK05AsVnt6UvjFQ37jKAY5RcRNelrf41kS28JhM-Y0zSd6dFvWj_AYgPKhCFjJHbl6QYR4UtP3d72zG7-PYBEXsK5fHjoerl3s6V9m9Ul65o3LF9RRtLhXYBcYpdOvQhQ8Pgav0ZzRyhmG0C7pwNt1WxMsDls3g31t-VXXrMSxoZ3f1sjI_45B-UHx6k5_HdxBlw1e9E8flj664TBurBqjKGNBqk9kg1Wj8CeX08nWpK_G0fM92vcaw",
+      "photoAttribution": "Laila Menkö",
+      "placeId": "ChIJuc8XN61nzB0RBcFWjSawupY",
+      "phone": "021 419 0249",
+      "hours": [
+        "Monday: 9:00 AM – 10:30 PM",
+        "Tuesday: 9:00 AM – 10:30 PM",
+        "Wednesday: 9:00 AM – 10:30 PM",
+        "Thursday: 9:00 AM – 10:30 PM",
+        "Friday: 9:00 AM – 10:30 PM",
+        "Saturday: 9:00 AM – 10:30 PM",
+        "Sunday: 9:00 AM – 10:30 PM"
+      ],
+      "address": "Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Cattle Baron @ Skukuza Camp",
+      "coord": [
+        -24.992354,
+        31.592391199999998
+      ],
+      "desc": "Steakhouse restaurant at Kruger Mpumalanga International Airport area",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12128782253330872427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 3744,
+      "website": "http://www.cattlebaron.co.za/",
+      "photoRef": "places/ChIJQUudxjAA6B4RazjZxzIXUqg/photos/AcnlKN1yKZKF75WpHTuOHpL02bFnlbR0gmAR29Zg6UWuDtSxrriWiOZ7EZtgL4P7h9fkPEUUPMq3kZEJ6e0cFOAiU5h5-IzKTE0kG9U9UldbA7azjU85ZO8RliocyZDsZy_xqlXnXVmFgOERu0iOQwHMcXkbY6m7Iv043nUxELulZBdZjHbzc3FR2KAGiovm-hRrUwpR9A4NP1P_Q89FiWFqaunDYG87TrQoRs2JLO5MwHaSQGUw_aePucCzu7-Difh8LUZsFfzZQ2Z7rIml7dWxiPdNER1ZVyS-gQiWN8QBwbhpJXF1slW8PBrvGdWeFl7b35r-q5jTvNQhdAxVqhbMNotxq51vpn_Qqt8Xsgb6u6ShBK62WedA4oC_xAIKp2UStzSEjLj-tOKyBuMdLGOTIwMYNcrKrJrNVL0tqP2yPAu5pgY1",
+      "photoAttribution": "Hugo Picciochi",
+      "placeId": "ChIJQUudxjAA6B4RazjZxzIXUqg",
+      "phone": "013 735 0209",
+      "hours": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ],
+      "address": "Kruger National Park, Skukuza, 1350, South Africa",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Mugg & Bean @ Lower Sabie",
+      "coord": [
+        -25.1186838,
+        31.9163991
+      ],
+      "desc": "Family-friendly cafe chain with locations near Kruger, casual dining",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10119881070564057624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Lunch",
+        "Budget Friendly"
+      ],
+      "rating": 3.8,
+      "ratingCount": 710,
+      "website": "http://www.muggandbean.co.za/",
+      "photoRef": "places/ChIJH2aTdDHs5x4RGKIrXDcKcYw/photos/AcnlKN0b9oKTbcbBwHZ5ssuLyOFMbiWCf3p1F9cij32knWg83_OWaoPskF0bGFNs2lWmdKaBwm9zACjgP-aJcGk4F_MgSRHO4X4nGcOO1gXK_NsxOnL30IKBZ5YkCM3-gFzhGJeFUHD4NOhww47GvuCNXdZN65jN6acy0IsUq1I5aoneI0g_5n9ZnkvaCMpjMMtCTtkFiLkIR5FSTTMiFuZ-dCN4KtOYE0tdDc3scRImMnNP8rQx9-TzfEw4hNFLhWJsV2vyH0DKpw4l8uFKEZBFpBywPSpkncuz7XDp2T8duPf7fWraUpQaUClU0Ij7_WYpz2X5jVjDSk-DuEIJB0clwAo5s3iZqrz-M3kUZ2yAx9cOH55czYGCLuu9KLkjf8AMzK-gVHboHrsM1HBsyvmaYke21_2DJdh1lgNE7YdqVlgdJg",
+      "photoAttribution": "Jantsen Tanner",
+      "placeId": "ChIJH2aTdDHs5x4RGKIrXDcKcYw",
+      "phone": "078 757 7916",
+      "hours": [
+        "Monday: 7:00 AM – 8:30 PM",
+        "Tuesday: 7:00 AM – 8:30 PM",
+        "Wednesday: 7:00 AM – 8:30 PM",
+        "Thursday: 7:00 AM – 8:30 PM",
+        "Friday: 7:00 AM – 8:30 PM",
+        "Saturday: 7:00 AM – 8:30 PM",
+        "Sunday: 7:00 AM – 8:30 PM"
+      ],
+      "address": "Lower Sabie Rest Camp Kruger Park, Kruger National Park, 1350, South Africa",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "GOLD Restaurant",
+      "coord": [
+        -33.9128367,
+        18.419109799999998
+      ],
+      "desc": "African cuisine experience with live entertainment and traditional dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6123750949900509640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Live Music / Entertainment",
+        "Cultural & Historical"
+      ],
+      "rating": 4.5,
+      "ratingCount": 4005,
+      "website": "http://www.goldrestaurant.co.za/",
+      "photoRef": "places/ChIJ7Rdn5mZnzB0RyOHHPQvv-1Q/photos/AcnlKN2g2NfAs9OSvu5_YAHyQaubLgxvei49P-wK1vZ1fbZFWJD7h1L_GagxWUzun0EuxpJflq-FEhe08Coabr_dRn63ZkMXMmUm9w2oVeSHH4kbYnujgw__SODEkTG6nhkrGIF7BBcFGjrMp_HrYo343N1gMbVQocA-yra-cQogn32H8bQPNarncLZDUEYU6kLavK8mnOs5mySK76IhbWieaXzqkuy5hN-QwGrSgvSwwmRnIldfk9VOZvvldVa7Qav6ns6AIR9Wukj6llOF4YEK1C7_W47E4s9Y1U_jh2OOzTnbqg",
+      "photoAttribution": "GOLD Restaurant",
+      "placeId": "ChIJ7Rdn5mZnzB0RyOHHPQvv-1Q",
+      "phone": "021 421 4653",
+      "hours": [
+        "Monday: 6:30 – 11:00 PM",
+        "Tuesday: 6:30 – 11:00 PM",
+        "Wednesday: 6:30 – 11:00 PM",
+        "Thursday: 6:30 – 11:00 PM",
+        "Friday: 6:30 – 11:00 PM",
+        "Saturday: 6:30 – 11:00 PM",
+        "Sunday: 6:30 – 11:00 PM"
+      ],
+      "address": "15 Bennett St, Green Point, Cape Town, 8005, South Africa",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
     }
   ],
   "experiences": [
@@ -436,7 +799,9 @@
       "tags": [
         "Adventure & Active",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Full-Day Activity",
+        "Iconic / Must-See"
       ],
       "hours": [
         "Monday: 6:00 AM – 6:00 PM",
@@ -497,11 +862,169 @@
       "tags": [
         "Outdoor & Nature",
         "Photography Worthy",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Iconic / Must-See",
+        "Scenic Views"
       ]
+    },
+    {
+      "name": "Boulders Beach",
+      "coord": [
+        -34.1956153,
+        18.4503585
+      ],
+      "desc": "Protected beach with resident African penguin colony, toddler-safe boardwalks",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8988305253387741456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 27484,
+      "website": "https://www.sanparks.org/parks/table_mountain/tourism/attractions.php#boulders",
+      "photoRef": "places/ChIJKeByCDY-zB0RECn0gAHgvHw/photos/AcnlKN0Lb1A0b1n6Rw_iM52eMiY1DjtZzcvgN-u840-aFHY_eNg11jdXeK8Bscy_W5W47Y9IyVf6Fc5Cmwl1j6uhDBz8GboJDdYlFb9mAzuRLOKtnB01-0KHsRY5igx9hXso_Avlbw_sZ9Fv0lnKN3iLbYp8bMYZ-AVz6Hy8rK1SWpVunZQqRAkzIbunxg1IcYW5dPQAjJJDSmmpf__q9dJwPWKOvqeoPXpsfqkhpqvmGFQK69vBNJlBkw8ajZyS3NXYyZGu0oR-UGpH5hxyDWwCZKwO11fgaBGHKVpRP6N1URHYruqF72LuyIfVkQbO7uXfnDRD296ySEDTyU5VFHZPwKJtDU3ptN3rzfVckgsf6i5mXK7EgFJnchnSAAaeWHiYyGe3N5i--M8e9xBvsC5Kw3PppK0eRBkT8bcCJOvlkKQNEqgM",
+      "photoAttribution": "Johannes",
+      "placeId": "ChIJKeByCDY-zB0RECn0gAHgvHw",
+      "phone": "021 786 2329",
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ],
+      "address": "Simon's Town, Cape Town, 7995, South Africa"
+    },
+    {
+      "name": "Camps Bay Beach",
+      "coord": [
+        -33.9506605,
+        18.3776413
+      ],
+      "desc": "Family-friendly white sand beach with calm waters and mountain backdrop",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1210421080167961967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 6454,
+      "website": "http://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Beaches/Camps%20Bay%20Beach",
+      "photoRef": "places/ChIJ-_mNi1RmzB0Rb1UOMI9HzBA/photos/AcnlKN2YeFg-KBcAlb0P3hHzlzySv3Fm6VhUL4C3eSBkvtBSPpxFyPDT4xynpamqEKqjcas_lCx_ci9J2xlQTt4hKN9TT2Q-O32ssN0tI2Lz-_eS0IO734yidEZj5toPEwAvvSHlr4uxdNrj0yq86uQNYy591gt54xAJgx_QUPBvF2jaMfo9YfJ0CSdGC8vyeaHlNs7j6IQRHZucZdOPEEf1us6Hu0UmK3gDtrlbWCyKDHzxV6-Os4B6F2BCFi0h8UVc6aPKiBRLOcwxg3Xj0QTwXlcpjutzxsE3NqRzJtFIGzPno9UYGxyv11_UEr46Vs065bI0qufCuB_Ik3q9Yt3VVomGOIl5bYYPeQzcYmtPVnffpzw2oON0IdJqx5RaqiOJA93qit0KNmz32Wz8Qn4p2SGK6B2pWgI4wEsMbia0fBDrMhQ",
+      "photoAttribution": "Madhur Kumar Sharma",
+      "placeId": "ChIJ-_mNi1RmzB0Rb1UOMI9HzBA",
+      "phone": "021 439 4332",
+      "address": "Camps Bay Beach, 63 Victoria Rd, Camps Bay, Cape Town, 8040, South Africa"
+    },
+    {
+      "name": "Kruger National Park",
+      "coord": [
+        -23.9883848,
+        31.5547402
+      ],
+      "desc": "Private family game drive with flexible timing for little ones",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11119474148649695355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Family Friendly",
+        "Full-Day Activity",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 20977,
+      "website": "http://www.sanparks.org/parks/kruger/default.php/",
+      "photoRef": "places/ChIJoaA1xZZIwx4Re3hnH9NOUJo/photos/AcnlKN2D14LR7S_PVyicVQLq6bT59DDKiXyccQfwz3QeeTPtVwrtBLFNnhNPOsoSIUlsIuAQS43z_zixfFWQYJiXQMWuQXCmTgKus9qxB4V15c2FjYD-nIZoVsJWB2NE0FLdbJ16ECqCZgUKFFoKrH8b5tsQkeyEWus9UzUZlA6eZjiNp9np2UqigtZ9LCYnuKmYFepklxRqePVqLWz5wNwR2EDPDEQyvZFYgspZSoeOAQxYWNCx743Q_nHuOGe5meRyR2soZBST0tY4q17-556F4ASdOdxiGUSDIv418r3607Dg5O79hgyongsbepfIVXBZQ-w-hdM5tem4OUv7ZhdEE0T7i_CVae3bfBAXXwZg5I1t6f8rH1Sdlkle1igYh_qHPEQ8NU6Zci1VpsrOhEwU4k_2oalwdvewu0Cy39GC5FlUdM1I",
+      "photoAttribution": "Shrey",
+      "placeId": "ChIJoaA1xZZIwx4Re3hnH9NOUJo",
+      "phone": "013 735 4000",
+      "hours": [
+        "Monday: 6:00 AM – 5:30 PM",
+        "Tuesday: 6:00 AM – 5:30 PM",
+        "Wednesday: 6:00 AM – 5:30 PM",
+        "Thursday: 6:00 AM – 5:30 PM",
+        "Friday: 6:00 AM – 5:30 PM",
+        "Saturday: 6:00 AM – 5:30 PM",
+        "Sunday: 6:00 AM – 5:30 PM"
+      ],
+      "address": "South Africa"
+    },
+    {
+      "name": "Kruger Park Safaris|Big 5 Game Drives|Kruger Wildlife Safaris",
+      "coord": [
+        -24.3490136,
+        30.9542069
+      ],
+      "desc": "Dawn game drive for optimal wildlife viewing with expert trackers",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10756049155537300551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Adventure & Active",
+        "Full-Day Activity",
+        "Iconic / Must-See"
+      ],
+      "rating": 5,
+      "ratingCount": 3,
+      "website": "http://www.krugerwildlife-safaris.com/",
+      "photoRef": "places/ChIJpyVGjIlzwx4RR-xwDrgpRZU/photos/AcnlKN2dbNXKPOMIjGe94Lr8RdKlAQRndwFaNO31TXKKMC5zAQnsScoTyYlYXPKnfreW_HIH3U3wsJ-Trj61XhI7_sgyGJ0Dy3CrU_6fTF5Lu_6tCvpZcxfaR0OHXlJrYet2vHLH-JMSIJ1UJAucl7vZXbGqQ7Q44bVj8ZXA0WX0GLvtbkx3018ANLzB56Tikglpbd5DngpX4_Jxwvwqc7w_LgDVFKAAX5dw_CQsr2_E_sX0yUOLuFOeeRDnIYxuxQ-dxz5DXXqGgTtnTPvbgTeHx2EVNFsAtOUsdArndZlrtaA",
+      "photoAttribution": "Kruger Park Safaris|Big 5 Game Drives|Kruger Wildlife Safaris",
+      "placeId": "ChIJpyVGjIlzwx4RR-xwDrgpRZU",
+      "phone": "082 575 4344",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "R40, Hoedspruit, 1380, South Africa"
     }
   ],
-  "kidFriendly": [],
+  "kidFriendly": [
+    {
+      "name": "Kirstenbosch National Botanical Garden",
+      "coord": [
+        -33.987501099999996,
+        18.432722
+      ],
+      "desc": "World-renowned gardens with tree canopy walkway and grassy lawns for kids",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1980610602659915110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Cultural & Historical"
+      ],
+      "rating": 4.8,
+      "ratingCount": 33388,
+      "website": "https://www.sanbi.org/gardens/kirstenbosch/",
+      "photoRef": "places/ChIJecz6YqhCzB0RZqXqcdmKfBs/photos/AcnlKN0vgXWq9nCv5GgiFFWH0TVrTWVviQsx6yEZGR4UCRq1TmpU6h1yFW_NqU2OZ1Y_bUsdE4_iDXd0vk1vfG3RZWRVjVrsu_pBkdWpp4yg297VPT-WqcFOKjZv5OdxP0mcVae4JySL_XawaBLjqG7C0pIFpMdqKpKd7pjnRS5P25V6h5lbVpivgNxVfSe2An6RIsRKtSjIDGlUbhwiWlKEiGZF7GJQQakRDe_W8XXtQEUZ5eBXBOguc3KUkP3w9Vt5_5LEybbwmQ_LXmupC140DYzDJYzxHnl_DFr4ocsGSJJPyxv6xtUOwv2mXXKI6VLlFGlXkbB0WObY_V1J-e7uwubPkn1_RwMC_PxPrqXgQAOd9uShfJbGjSs7I2WCir4-JdtubFYbr8iy6ZO7PuPO7dDzZxB13OlIp5et2qA_1VE",
+      "photoAttribution": "Peter Taai",
+      "placeId": "ChIJecz6YqhCzB0RZqXqcdmKfBs",
+      "phone": "021 799 8783",
+      "hours": [
+        "Monday: 8:30 AM – 5:30 PM",
+        "Tuesday: 8:30 AM – 5:30 PM",
+        "Wednesday: 8:30 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:30 PM",
+        "Saturday: 8:30 AM – 5:30 PM",
+        "Sunday: 8:30 AM – 5:30 PM"
+      ],
+      "address": "Rhodes Dr, Newlands, Cape Town, 7735, South Africa"
+    }
+  ],
   "markets": [],
   "cityCenters": {
     "Botswana": [
@@ -575,5 +1098,421 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Cape Winelands & Safari Magic (9 Days)",
+      "description": "A perfectly paced family adventure through South Africa's scenic wine country and Big Five safari lands, designed for young explorers with nap-friendly days and unforgettable wildlife encounters.",
+      "familyFriendly": true,
+      "duration": 9,
+      "bases": [
+        "Cape Town",
+        "Kruger National Park"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Cape Town",
+          "dayType": "urban",
+          "base": "Cape Town",
+          "items": [
+            {
+              "name": "Belmond Mount Nelson Hotel",
+              "type": "hotel",
+              "coord": [
+                -33.93206500000001,
+                18.411655
+              ]
+            },
+            {
+              "name": "Chef's Warehouse at Beau Constantia",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Tapas-style restaurant with stunning views over Constantia valley",
+              "suggestedCity": "Cape Town"
+            },
+            {
+              "name": "Check in and afternoon pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Early dinner at hotel (kids menu available)",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Planet Restaurant at Belmond Mount Nelson, sophisticated yet family-friendly dining",
+              "suggestedCity": "Cape Town"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Cape Town Exploration",
+          "dayType": "urban",
+          "base": "Cape Town",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Truth Coffee",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Steampunk-themed cafe with excellent pastries, kid-friendly atmosphere",
+              "suggestedCity": "Cape Town"
+            },
+            {
+              "name": "Cape Town",
+              "type": "sightseeing",
+              "coord": [
+                -33.922087,
+                18.4231418
+              ]
+            },
+            {
+              "name": "V&A Waterfront casual lunch",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Cafe Neo at Watershed, healthy bowls and kids options at the craft market",
+              "suggestedCity": "Cape Town"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "The Shortmarket Club",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Relaxed upscale dining in the city center with sharing plates",
+              "suggestedCity": "Cape Town"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Wine Country Day Trip",
+          "dayType": "suburban",
+          "base": "Cape Town",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning drive to wine country (45 minutes)",
+              "type": "info"
+            },
+            {
+              "name": "Stellenbosch Vineyard Lodges",
+              "type": "sightseeing",
+              "coord": [
+                -33.9495413,
+                18.8125724
+              ]
+            },
+            {
+              "name": "Tokara Delicatessen",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Vineyard restaurant with stunning views and outdoor space for kids to roam",
+              "suggestedCity": "Stellenbosch"
+            },
+            {
+              "name": "Franschhoek House",
+              "type": "sightseeing",
+              "coord": [
+                -33.9050995,
+                19.113607
+              ]
+            },
+            {
+              "name": "Drive back to Cape Town",
+              "type": "info"
+            },
+            {
+              "name": "La Colombe",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "World-class tasting menu in Constantia, early seating available for families",
+              "suggestedCity": "Cape Town"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Coastal Adventure",
+          "dayType": "suburban",
+          "base": "Cape Town",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning visit to Boulders Beach",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Protected beach with resident African penguin colony, toddler-safe boardwalks",
+              "suggestedCity": "Simon's Town"
+            },
+            {
+              "name": "Tintswalo Atlantic",
+              "type": "lunch",
+              "coord": [
+                -34.065146999999996,
+                18.36796
+              ]
+            },
+            {
+              "name": "Afternoon beach time at Camps Bay",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Family-friendly white sand beach with calm waters and mountain backdrop",
+              "suggestedCity": "Cape Town"
+            },
+            {
+              "name": "The Codfather",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Fresh seafood market restaurant where you pick your fish, relaxed atmosphere",
+              "suggestedCity": "Cape Town"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Transit to Kruger",
+          "dayType": "rural",
+          "base": "Kruger National Park",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning flight Cape Town to Kruger (2 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Royal Malewane",
+              "type": "hotel",
+              "coord": [
+                -24.5179567,
+                31.164185999999994
+              ]
+            },
+            {
+              "name": "Lunch at lodge upon arrival",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Royal Malewane dining room, fresh seasonal cuisine with bush views",
+              "suggestedCity": "Kruger National Park"
+            },
+            {
+              "name": "Afternoon rest and pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Early evening game drive (toddlers can join private vehicle)",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Private family game drive with flexible timing for little ones",
+              "suggestedCity": "Kruger National Park"
+            },
+            {
+              "name": "Dinner at lodge",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Bush boma dinner under the stars at Royal Malewane",
+              "suggestedCity": "Kruger National Park"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Safari Day",
+          "dayType": "rural",
+          "base": "Kruger National Park",
+          "items": [
+            {
+              "name": "Early breakfast at lodge",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning game drive (Big Five safari)",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Dawn game drive for optimal wildlife viewing with expert trackers",
+              "suggestedCity": "Kruger National Park"
+            },
+            {
+              "name": "Brunch at lodge",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Late morning poolside brunch at Royal Malewane",
+              "suggestedCity": "Kruger National Park"
+            },
+            {
+              "name": "Midday rest and nap time",
+              "type": "nap"
+            },
+            {
+              "name": "Afternoon nature walk (toddler-paced)",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "Gentle bush walk focused on smaller animals and tracks, suitable for young children",
+              "suggestedCity": "Kruger National Park"
+            },
+            {
+              "name": "Sundowner drinks with kids-friendly snacks",
+              "type": "freeTime"
+            },
+            {
+              "name": "Cattle Baron",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Steakhouse restaurant at Kruger Mpumalanga International Airport area",
+              "suggestedCity": "Kruger National Park"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Final Safari Morning",
+          "dayType": "rural",
+          "base": "Kruger National Park",
+          "items": [
+            {
+              "name": "Early breakfast at lodge",
+              "type": "breakfast"
+            },
+            {
+              "name": "Final morning game drive",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Last chance wildlife viewing with focus on any animals not yet spotted",
+              "suggestedCity": "Kruger National Park"
+            },
+            {
+              "name": "Mugg & Bean",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-friendly cafe chain with locations near Kruger, casual dining",
+              "suggestedCity": "Kruger National Park"
+            },
+            {
+              "name": "Afternoon at lodge pool and spa",
+              "type": "freeTime"
+            },
+            {
+              "name": "Farewell dinner at lodge",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Special celebration dinner at Royal Malewane wine cellar",
+              "suggestedCity": "Kruger National Park"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Return to Cape Town",
+          "dayType": "urban",
+          "base": "Cape Town",
+          "items": [
+            {
+              "name": "Early breakfast at lodge",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning flight Kruger to Cape Town (2 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Belmond Mount Nelson Hotel",
+              "type": "hotel",
+              "coord": [
+                -33.93206500000001,
+                18.411655
+              ]
+            },
+            {
+              "name": "Relaxed lunch at hotel",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Oasis Bistro at Belmond Mount Nelson, garden terrace dining",
+              "suggestedCity": "Cape Town"
+            },
+            {
+              "name": "Afternoon rest and pool time",
+              "type": "nap"
+            },
+            {
+              "name": "Kloof Street House",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Charming Victorian house restaurant with garden, relaxed family atmosphere",
+              "suggestedCity": "Cape Town"
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Departure",
+          "dayType": "urban",
+          "base": "Cape Town",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning at Kirstenbosch Botanical Gardens",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "kidFriendly",
+              "suggestedDesc": "World-renowned gardens with tree canopy walkway and grassy lawns for kids",
+              "suggestedCity": "Cape Town"
+            },
+            {
+              "name": "Light lunch at gardens cafe",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Moyo Kirstenbosch, African-inspired cuisine in garden setting",
+              "suggestedCity": "Cape Town"
+            },
+            {
+              "name": "Return to hotel for checkout",
+              "type": "info"
+            },
+            {
+              "name": "Departure to airport",
+              "type": "info"
+            },
+            {
+              "name": "Gold Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "African cuisine experience with live entertainment and traditional dishes",
+              "suggestedCity": "Cape Town"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

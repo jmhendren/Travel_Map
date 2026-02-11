@@ -8,8 +8,763 @@
     13.7841
   ],
   "defaultZoom": 10,
-  "hotels": [],
-  "restaurants": [],
+  "hotels": [
+    {
+      "name": "Hotel Park",
+      "coord": [
+        46.3679018,
+        14.1092328
+      ],
+      "desc": "Iconic lakeside hotel, elegant rooms, direct beach access, spa facilities",
+      "longDesc": "Slovenia's most famous hotel sits right on Lake Bled's shore, offering families easy access to water activities and stunning alpine views from their rooms.",
+      "gmapsUrl": "https://maps.google.com/?cid=9903238362085556449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Romantic",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Beach"
+      ],
+      "rating": 4.4,
+      "ratingCount": 2769,
+      "website": "https://www.sava-hotels-resorts.com/en/sava-hotels-bled/accomodations/hotel-park/",
+      "photoRef": "places/ChIJwcvB_8yWekcR4YAhGtJeb4k/photos/AcnlKN2ccPKzTgoyM49GzpU_5ikpgWB0gwEFyWYah5KJ4xWNRodz1ON6mc8lLAf3mpkoVYmZdHjzbsbY2CUy26efFxNF0N6wY8wr_LFzRQ49Phq8HgTonOrtgNAAXSImY9f1reFCRfQ5bbo2Y2AJdnEAPD6Zq769QFAZd4dryZ7cCoIhzf3BXAb8TWmVCMuvn-XfADaHPwlQ7wilEdpr54NrH2lqF-LRbZU-_Emg520l-XWd0DbUKqGJjRIXjqE1wIfcb6Xxdv6jH9jePrgcx3NZdMqMvhrjOCBEU6LXpSf3K5d6eA",
+      "photoAttribution": "Hotel Park",
+      "placeId": "ChIJwcvB_8yWekcR4YAhGtJeb4k",
+      "phone": "(04) 579 18 00",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Cesta svobode 15, 4260 Bled, Slovenia"
+    },
+    {
+      "name": "Pristava Lepena",
+      "coord": [
+        46.330946,
+        13.645905899999999
+      ],
+      "desc": "Boutique glamping resort, riverside setting, eco-friendly design, adventure activities",
+      "longDesc": "Unique riverside glamping experience along the Soča River with cozy tents and adventure tours perfect for families seeking nature immersion without sacrificing comfort.",
+      "gmapsUrl": "https://maps.google.com/?cid=12875763962185310088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Hidden Gem",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 928,
+      "website": "http://www.pristava-lepena.com/",
+      "photoRef": "places/ChIJrwTsFEJnekcRiN_U2Rrnr7I/photos/AcnlKN202NSVVG7OdMPxK51jIEngTVQeJ1FDK3tO3KiqBqngRqg7e93KyYthwxsSLlnUXgCvDHAH98kOx_NN39YzGa-GO1gM9BgmpeODBRAsCQeczAsUOpYCtRmPVUIdqF4fCJUdtfIx8iVH_s3wyKUWvVDFjdDQnVvcN3U3LxnbnfFN00vqvx7Ju9Q3ycf_kHxwj9piDwCSvqRMu19sYlzeHx1CW_DHBrPWh2fAJxdZcEMuazjBKKpldL2bz9L6-GX_m_gzP3dV4XwLYl7ml0DfkevuPizbccTps_2Lm1rOUkF_wA",
+      "photoAttribution": "Pristava Lepena Hotel Village",
+      "placeId": "ChIJrwTsFEJnekcRiN_U2Rrnr7I",
+      "phone": "041 671 981",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "address": "Lepena 2, 5232 Soča, Slovenia"
+    },
+    {
+      "name": "Grand Plaza Hotel & Congress Center, Ljubljana",
+      "coord": [
+        46.05721,
+        14.506229900000001
+      ],
+      "desc": "Central city hotel, modern amenities, family rooms, near green spaces",
+      "longDesc": "Modern Ljubljana hotel in the heart of the capital with spacious family rooms and easy walking distance to parks, museums, and local attractions.",
+      "gmapsUrl": "https://maps.google.com/?cid=7168809167843040312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly"
+      ],
+      "rating": 4.6,
+      "ratingCount": 951,
+      "website": "https://www.grandplazahotel.si/",
+      "photoRef": "places/ChIJPR5cjNozZUcROBzZx_S5fGM/photos/AcnlKN0cz1KpEDDtzvkWVP2Tm4kq5DY2gWvALm1K8rYH9TqxS0Baco5W53zItIlML9qsOopYcCPTaJ8gfTgnD44_8texTTQq7ThbR0U5NGznyfI-kz4RxjfudjmU8m9irtby431YhsRgw9_GE2yaIpkzgRsFlCz3-selsXA22wankSwBkHuhjU_byoWgkmNHRhe5hY-MzrQ86S4BIboAtGr1t5YPTP0ZdSKDnd_juuQaN1uFYuvvNu3qblDzol6QJjECP0fcwlZFkU7BFEl4MKIwZdfTt_9da4jAAa08n1kxoIu9xw",
+      "photoAttribution": "Grand Plaza Hotel & Congress Center, Ljubljana",
+      "placeId": "ChIJPR5cjNozZUcROBzZx_S5fGM",
+      "phone": "(01) 243 01 00",
+      "address": "Slovenska cesta 60, 1000 Ljubljana, Slovenia"
+    },
+    {
+      "name": "Camping Polovnik",
+      "coord": [
+        46.3360104,
+        13.5581404
+      ],
+      "desc": "Family-friendly campground, river location, playgrounds, rental accommodations",
+      "longDesc": "Welcoming riverside campground with cabin rentals, playgrounds, and organized activities ideal for families wanting affordable accommodation with outdoor recreation.",
+      "gmapsUrl": "https://maps.google.com/?cid=1500141256381435406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Playgrounds"
+      ],
+      "rating": 4.4,
+      "ratingCount": 784,
+      "website": "https://www.kamp-polovnik.com/",
+      "photoRef": "places/ChIJKVxwGgVoekcRDg6GS4aS0RQ/photos/AcnlKN2gKwqZfRBHnb_o_BuPyZAfdZ86Qwb-VsYhSI8ATJYVTqVqGMbeTwNFZe-nkEBbyI8RZwBvE3cqLsuTxceio5WKS9AuMSkyH6q8IbH22By_VSxCtRBsued4q_b7lkauBTYhPP-vf9ctoSJ3cDA9eFEIkpYcDQiuEkXLvuN8hUTvorHemdxE6_iVwZWNBae8HstZkwmlJU_-JUX9DLxSB3hp53dRC-nV5mSAEE55NozUp5ZtldjpUtlpoxW68CwRpI-ce1CM4y5vx-BwQFICtUP2q92oLtOS4EW0rYmGIaB9TA",
+      "photoAttribution": "Kamp Polovnik",
+      "placeId": "ChIJKVxwGgVoekcRDg6GS4aS0RQ",
+      "phone": "(05) 389 60 07",
+      "hours": [
+        "Monday: 6:00 – 7:00 PM",
+        "Tuesday: 6:00 – 7:00 PM",
+        "Wednesday: 6:00 – 7:00 PM",
+        "Thursday: 6:00 – 7:00 PM",
+        "Friday: 6:00 – 7:00 PM",
+        "Saturday: 6:00 – 7:00 PM",
+        "Sunday: 6:00 – 7:00 PM"
+      ],
+      "address": "Ledina 8, 5230 Bovec, Slovenia"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Hiša Franko",
+      "coord": [
+        46.2472492,
+        13.5377614
+      ],
+      "desc": "Michelin-starred fine dining, farm-to-table cuisine, breathtaking valley views",
+      "longDesc": "Internationally acclaimed restaurant where celebrated chef Ana Roš creates innovative dishes using local ingredients with stunning Soča Valley panoramas.",
+      "gmapsUrl": "https://maps.google.com/?cid=451706219225608952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Dinner",
+        "Iconic / Must-See",
+        "Reservations Recommended",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 930,
+      "website": "http://www.hisafranko.com/",
+      "photoRef": "places/ChIJg2ySsFBbekcR-PLGw2nIRAY/photos/AcnlKN0We6RfpAX65nEydW1Tn2XXY2CVgeqYcm0Mf1H3EvuQQSDGmBKe3k3M9SxzxOmE1Mvr1n6jkwFal35itPQ8LqAi2YWp1ZKE0dRzQdJ7DxA8ZIg6Vco9ggfBDUo9_ijY4FxQuIOeIBy3u3NvBsYi_rNut3x28DheyV82TuqyrR-eDBHGte9CGEqTpSXole6FPT65EvzPruOLT4OqBUFaj_Bp4IbJLQJn2hf-Gf95E9lxEKhYQeDhWK5beb7q4VMiLtVW1RI6XyZzDM9dBGpkQQDjTDK91_nVLjsPM9LQAZtaohItT3U6WpwbIZUbRplDjhf6bM-pHVLd4ZOrLZ19fPoqGVdUrQylXkQs9yqFA7khvXMUl73joYsqiqJFKhsvKAsXakSDL6rFT3gfsKuws7s0KSibKpz5i7KniG604H1AmaQp",
+      "photoAttribution": "Alja Marčič",
+      "placeId": "ChIJg2ySsFBbekcR-PLGw2nIRAY",
+      "phone": "(05) 389 41 20",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 7:00 – 11:00 PM",
+        "Sunday: 7:00 – 11:00 PM"
+      ],
+      "address": "Staro selo 1, 5222 Kobarid, Slovenia",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Stara Fužina",
+      "coord": [
+        46.288666,
+        13.894894
+      ],
+      "desc": "Traditional Slovenian cuisine, cozy family atmosphere, honey specialties",
+      "longDesc": "Charming countryside restaurant in Slovenia's honey capital serving authentic local dishes in a warm, family-welcoming setting surrounded by beehives.",
+      "gmapsUrl": "https://maps.google.com/?cid=11366565610642851259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Hidden Gem"
+      ],
+      "photoRef": "places/ChIJZbMFnQ6LekcRu8WJQjMnvp0/photos/AcnlKN29GE6A-PLK4XQE6NjwjMhnD0YKoNDXtXbkWk11JJLc-qyHfV5nqnvRXFSHlxAI3mvukKBsPw3454uzCeHa8TCK61htEi2T7-D2UsYi_eaqRcKWj9qI3YqkrwoIl91_sJMeu4RcRv_kWOOrzV4X3ALSRzbUXvm0UIFl10F4KFKOD1erdlcqkFKrcoVERL8yo-VoVKWEyPnTIrq71wqBhZ8gtYT6xd0WdKoBHG5LiILafeQmAMjQS-1otptkRQ7T9uOGjY6Ox9f4QdzoS8nElKeOCuU4OZynMuMD-WVGNkW5Ts54DU8r_SAQp800TAbz242nHktuyBdWx0Ei-qmiuj6GMOTnWb10paHaEIG4sGjOF1LFerqJbhdCS3njfEPgKIzidxLn08LXzvmp02iINmH5SOGks8Ns0sQQPP_CDVeM8_jh",
+      "photoAttribution": "Suzana Ravs (Nana)",
+      "placeId": "ChIJZbMFnQ6LekcRu8WJQjMnvp0",
+      "address": "4265 Stara Fužina, Slovenia"
+    },
+    {
+      "name": "Gostišče Sovdat, Erika Vračun s.p.",
+      "coord": [
+        46.3382186,
+        13.5530449
+      ],
+      "desc": "Local favorite, hearty Slovenian food, vintage decor, reasonable prices",
+      "longDesc": "Beloved neighborhood restaurant serving generous portions of traditional Slovenian comfort food in a cozy, nostalgic setting popular with locals and families.",
+      "gmapsUrl": "https://maps.google.com/?cid=1065806218272728142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Casual Eats",
+        "Hidden Gem"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1065,
+      "website": "http://www.gostiscesovdat.com/",
+      "photoRef": "places/ChIJh1rseRpoekcRTmSMzxuByg4/photos/AcnlKN0YpTUuqUexRoDgk46n3-SdAzDRavvRUNlh_GH4YDZEpj1x8yIQklRyp4Kv5r65rZwRQbGv1cYfmXWd06xo8Fw2Zw4GuFTgzBdOmKI2pSOuM_mj-Kh9S8aI1n7ICjIj1-BGqg7hDC7GROR--_4B6peYC57cdebVOyOBG3AOR97xA_RScb7yDd30yDTizCMC2ztbQitkdwCdfam-afRUn7-Y18ZsazFwgRtnGR-dzoi5xT-DXce0_gv-jjjSRbTaIa_DehxvNwqdpo7qzVlDD6GqNTkuOmTyD1kImSUGsveB2g",
+      "photoAttribution": "Gostišče Sovdat",
+      "placeId": "ChIJh1rseRpoekcRTmSMzxuByg4",
+      "phone": "031 567 567",
+      "address": "Trg golobarskih žrtev 24, 5230 Bovec, Slovenia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Prešernov trg",
+      "coord": [
+        46.0514711,
+        14.506072699999997
+      ],
+      "desc": "Historic cafe, prime square location, pastries and coffee, people-watching spot",
+      "longDesc": "Elegant historic cafe overlooking Ljubljana's main square, perfect for families to enjoy Slovenian pastries, quality coffee, and vibrant street-watching.",
+      "gmapsUrl": "https://maps.google.com/?cid=15788970364153356152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Good for Lunch",
+        "Off-Hours Eats",
+        "Breakfast Spot",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 12606,
+      "photoRef": "places/ChIJo4WJTGItZUcReN-HhOSwHds/photos/AcnlKN3GqBYvDf3Sw3dUuJIFMWN5fckhuAS1IOMHiyoERG0ZfP9t9BVeH94NGlpShGD8qbTF_meiifqL2kUhfVxv2sgqY7mFRWC8D8Dn89T6Q13zotKLWdWMXPN86BlZoaRWbDcbhNAGAVCauX418Tco1psZjijlwNeigjZp4F5-Vw8FKeh8QwuQ7yEUbRNB9R-_0Gzqfh4mkf8_qrMcA_4cWCZuEADMHOi7ZwQWhsuNFnMak65wkwkQ0wjrBTIssKAWyR8CehNNvIWQKYHsz_cy8mKf5yacUPCgp0BAtWGCES3x-h0lafynMyKz0Kk2fN9l8mST5T5ZQGkpAV7mHuB3wsPoy5Tn8LjdMeZmndQiC-bXlxFN9vm3Fq25J8hCqksbjNvLPE8SuOUqdXd6FgiTUiwGhN9UCJ_jIzYV_j4mIBsy-g",
+      "photoAttribution": "a t",
+      "placeId": "ChIJo4WJTGItZUcReN-HhOSwHds",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Prešernov trg 1, 1000 Ljubljana, Slovenia"
+    },
+    {
+      "name": "Hotel Gasperin Bohinj",
+      "coord": [
+        46.2749649,
+        13.891464599999999
+      ],
+      "desc": "Family-run restaurant near Lake Jasna serving traditional Slovenian dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12667440429916499792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Casual Eats"
+      ],
+      "rating": 4.8,
+      "ratingCount": 381,
+      "website": "https://www.bohinj-hotel-gasperin.com/",
+      "photoRef": "places/ChIJqe2e2iTzekcRUC-YvvTJy68/photos/AcnlKN2jbqN01rM8aHFXvM96EFSw8rLaDN5oeqPEpLYbJEMt1OXZ5c0EQ4HJZpBzYXh8xvV60qDe-rP85-yeTpzLMmdkzD40taJKGrZuPvVA3KuTnLt4jbcUzWHI2LhYvhJiijCylnuLRp0INwkHh8M_SdE_tCY9sgFRpZd-o2iI5u7ojffGjBOaEW0SWwZIHkh1Dsgki1Vzs4xZu4aKJRAMcadw07Sdyjwqf3uj9Joze5WTjDFaVikHHe0Kle2VFQiIoaby_jPDtnL_DuctQvNOwSEsDwG26L0tnIuPhXQBdChYzQ",
+      "photoAttribution": "Hotel Gasperin Bohinj",
+      "placeId": "ChIJqe2e2iTzekcRUC-YvvTJy68",
+      "phone": "041 540 805",
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "address": "Ribčev Laz 36a, 4265 Bohinjsko jezero, Slovenia"
+    },
+    {
+      "name": "Restavracija Vila Ajda Dax & apartma",
+      "coord": [
+        46.3643393,
+        14.1058618
+      ],
+      "desc": "Lakeside restaurant with outdoor terrace and kid-friendly Slovenian menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10086366977839404829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Casual Eats",
+        "Scenic Views"
+      ],
+      "rating": 4.1,
+      "ratingCount": 455,
+      "website": "http://www.vila-ajda.si/",
+      "photoRef": "places/ChIJZbaAtcyWekcRHRdZlFP5-Ys/photos/AcnlKN2He81FIlwMc23gAaewYtaXpRNClre3OJ9w03T4VjXTldxL9dTxC59GOPzg9XzcUmhVe6bIv7WxWZ0cbIdr3XegsfUCWzSnfez6eYRyFnYsey9viAi8QNl6rf28gPc03wa3JrAy9I31IireIvrb2QCgNqdgGnwjxPNv41kLip8IflK_8eVgQrh-F395YeMJhBDiwrbNgAwv9SDMYZxZqbAqvo9rOzHuicAYiY3JYiKW-tD7b_kBd2BlJgKl5UTo-_Vqk6vCxbkfuiR2av7qbqxWap3bz5GjluX_E8JMjxxcuQ",
+      "photoAttribution": "Restavracija Vila Ajda Dax & apartma",
+      "placeId": "ChIJZbaAtcyWekcRHRdZlFP5-Ys",
+      "phone": "(04) 576 83 20",
+      "address": "Cesta svobode 27, 4260 Bled, Slovenia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Kavarna Park",
+      "coord": [
+        46.367590199999995,
+        14.108753
+      ],
+      "desc": "Hotel restaurant with lake views and excellent children's menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10096755837655060040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch",
+        "Scenic Views",
+        "Casual Eats"
+      ],
+      "rating": 4.1,
+      "ratingCount": 4344,
+      "website": "https://www.sava-hotels-resorts.com/en/sava-hotels-bled/services-and-experiences/gastronomy/cafe-park/",
+      "photoRef": "places/ChIJYTSbXs2WekcRSA5If_DhHow/photos/AcnlKN2wirw9eFXX1gsSAVRpWhtPFN_MjjsZjbNJIwpSXM8wH8KTRkh3R-YJWse7b40GkuD7vqzMnxApE8GF3DFAr12D-WU8aFcBTBwfxw9RU0WtxngyOl1r0CWNCZ2LbX1BqTiK8CM7DGMOI82g0AmyPraj0Agj4zTfpHps68uwvJg3DLTkj1Vwzr8D_6TmktP3Qu9I9ad8tcdIpMP0sqGL-09N2rELz_JRfsY0e-Fs9XAiFd72axjML9SHLzNezhpxu2evEK4eHQYqlgTo4qw9_QEbbsGx0w_QVzPVCPz0NUHmHg",
+      "photoAttribution": "Kavarna Park",
+      "placeId": "ChIJYTSbXs2WekcRSA5If_DhHow",
+      "phone": "(04) 579 18 18",
+      "hours": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ],
+      "address": "Cesta svobode 10, 4260 Bled, Slovenia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Bled Castle Restaurant",
+      "coord": [
+        46.3696863,
+        14.1005654
+      ],
+      "desc": "Castle terrace dining with panoramic lake views and traditional cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1590958527337738251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Local Delicacies",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 4.4,
+      "ratingCount": 830,
+      "website": "https://www.jezersek.si/en/locations/bled-castle",
+      "photoRef": "places/ChIJyUgsEi6RekcRCzBY8lk4FBY/photos/AcnlKN1FyFcad4ED-6RBLWFSKVXCegzVxhCGBrpHXJ5QHIPduAETXo_Kt_rSqpLpr-PwtAES-mUQRwLmKg6a0PETM0MnvRlu2GWDtJBqlOYCUUrWUsCkE6jTsNpwS2bygKKUOYJiDmvNNgSJIL3vaKtgdNP0DIAOEbCtutWf0GkYNxr8Hh5xTccMPW4l8IqbAwjzTW4YEDjAnCgjFt5SbCagdtOwwBDOROs-MkgWCojjK3ltrvz72W0qDBSbiK_8oLzjuW0AV0HYdmHYqJIu8rKGFP803Dne7gMkNmVIgJNxkVyXOg",
+      "photoAttribution": "Bled Castle Restaurant",
+      "placeId": "ChIJyUgsEi6RekcRCzBY8lk4FBY",
+      "phone": "(04) 620 34 44",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Grajska cesta 61, 4260 Bled, Slovenia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Gostilna Požar",
+      "coord": [
+        45.8149835,
+        14.128149899999999
+      ],
+      "desc": "Historic inn near Predjama Castle with hearty Slovenian fare and outdoor seating",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=69850461019226008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Hidden Gem"
+      ],
+      "rating": 4.1,
+      "ratingCount": 418,
+      "photoRef": "places/ChIJF7jfumgle0cRmL9yzJ8o-AA/photos/AcnlKN2s7I4EZjxH6WA7_jnOa3waAZ-MqwB63M08HXVihDEXdnbWm56K1YgESbr9Dw806BaMg9OzEdbtb-S-Z3-oidvF-iwNvoyGQ8LFX2_2FEl1VlMSkWvzdIyYAtVs6CfPynXgm7xrgh7WqAqG-sfN6ZfqjU5QFpDSVVlnrAlNlnM3p1Uj5TjnspFD0Dr2s0soL02w3gC-en0tLMoul3gmJBYB-_r5yIMXEyqrzuzNHdewc7YH0pm5hIxYOjeWm7SaW_ZKDWz9ZWU36S0a-3p28tEBQ1yjaRJ3xnAGVpw3KPY2RccM0QRF4AXJGcp7Oc0_-BERiJ9ALdPeEPx_-NvEI4liylRBx4AYGb-SYAaZwjK5E69u-Xd_DZshVyxJp0-4eJXwJ8gNnYimiI8cNv3Dnl7HPTxOBsLhMs3n7VYLl7jpOL9i",
+      "photoAttribution": "Federico Cazzadore",
+      "placeId": "ChIJF7jfumgle0cRmL9yzJ8o-AA",
+      "phone": "(05) 751 52 52",
+      "address": "Predjama 02, 6230 Postojna, Slovenia"
+    },
+    {
+      "name": "Penzion Berc",
+      "coord": [
+        46.364934,
+        14.108965
+      ],
+      "desc": "Contemporary Slovenian cuisine in relaxed setting with children welcome",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15605798645069475226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Casual Eats"
+      ],
+      "rating": 4.8,
+      "ratingCount": 323,
+      "website": "https://www.penzion-berc.si/",
+      "photoRef": "places/ChIJb1fSV8yWekcRmm2jQy_vktg/photos/AcnlKN1UppxOjS3F4_cg2c15jxeb5-gUt2Jy7dH-T-HaX7M617FlTI4liyEdMJtRI1dVoN18Y-Zh6zvZZwhfzybK7x4NvhnnPT5oDGZ6lzSBma9y-4zVS55jno20sm0tfu7vYjtOD4jV8-KW5uzYu3Jj5I8zb5r6ZHuLdqlj71CnRB7DiDi4xWktszeeIYscIsAaflzC1hy7HgELRYFKTTQXKXGSBUAICzk5u6prBhkZ_e9-kS07kJ3wUD-vmKalFQ340uRIDod-32sIHqhPftC_qzriwvYGQWlIOKK428ULQj7ZvA",
+      "photoAttribution": "Penzion Berc",
+      "placeId": "ChIJb1fSV8yWekcRmm2jQy_vktg",
+      "phone": "040 366 017",
+      "hours": [
+        "Monday: 12:00 AM – 12:00 PM",
+        "Tuesday: 12:00 AM – 12:00 PM",
+        "Wednesday: 12:00 AM – 12:00 PM",
+        "Thursday: 12:00 AM – 12:00 PM",
+        "Friday: 12:00 AM – 12:00 PM",
+        "Saturday: 12:00 AM – 12:00 PM",
+        "Sunday: 12:00 AM – 12:00 PM"
+      ],
+      "address": "Želeška cesta 15, 4260 Bled, Slovenia"
+    },
+    {
+      "name": "Restaurant Šestica",
+      "coord": [
+        46.0532884,
+        14.504116000000002
+      ],
+      "desc": "Traditional Slovenian inn near the zoo with authentic local dishes and garden",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2471474860836508127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Casual Eats"
+      ],
+      "rating": 4.1,
+      "ratingCount": 3038,
+      "website": "http://www.sestica.si/",
+      "photoRef": "places/ChIJRwIK8GEtZUcR39F3n0pxTCI/photos/AcnlKN2b63yvulxPsU4nsFiJNn5SPKBXXHNj29YKBSI8SW6YMlS8t8H9kCnUDezI7Z_i2vdqfh9gmqDp_jU2B8ftjR-Vz1nAT8-t6VfPitTEeYxtGKsrRRpb7CHGn08mFzLXFqLKdLUKQaQY7bd3vrADVBT5sAThV2LnRtKfsCGKd7qkHFhOvk_7fKIoPy_1TYko98py8VUVxe_1IJkWdgueM6DwXflkK9fwIvgDNVVojZmV_SDH8dn71-VTwUn5XYaiIvUoNNDRaWk7lu4TO8em7MLTaUHF50w1v35v_CxIWVWacg",
+      "photoAttribution": "Gostilna Šestica",
+      "placeId": "ChIJRwIK8GEtZUcR39F3n0pxTCI",
+      "phone": "(01) 242 08 55",
+      "hours": [
+        "Monday: 10:00 AM – 11:00 PM",
+        "Tuesday: 10:00 AM – 11:00 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Slovenska cesta 40, 1000 Ljubljana, Slovenia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Pizzeria Rustika",
+      "coord": [
+        46.3713039,
+        14.104299399999999
+      ],
+      "desc": "Family-friendly pizzeria with wood-fired oven and kids play area",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3679862179692453613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Playgrounds"
+      ],
+      "rating": 4.6,
+      "ratingCount": 4575,
+      "website": "http://www.pizzeria-rustika.si/",
+      "photoRef": "places/ChIJ71YtSCyRekcR7Z722id_ETM/photos/AcnlKN1mIRR8XYS0YodM-u3Emar2tC3Q08XL6-fLPRQxFe7vqLNJjX42oQQcDa2MQORm8shyTG3MGENlEJizoss2_ZLTfDareRd1Y-jhsQaV8LWFfet8X3M66b2r47G-hhU8GVW2tULN9B1knQuHfLDXViabRk4fNrz3jiyBVyupYBWSlZXosu6xA6AjNf23k2sR8gJXB6V4syU2SRWnLlusI2sAnQnZAYUj_QuPGyYAVZ0zLf4rfC3Up5Ru-tNjy0QL8fJmuWJH5RhaDQVZBPEohXB2QwzPitpGBoBB6VG2xMml-o32Z6D_sDWpe7t-_nrqaynuKObTz6gbWllT8uTbfQGEOOp_4kn39XR8SKI8_CefyD0mm7m10ZYTW54cBDpOQK_CCIQhXncK5ubySdhI0RR-4ri1kOdi42D-eSI6jriLwlvD",
+      "photoAttribution": "Haroon Sadiq",
+      "placeId": "ChIJ71YtSCyRekcR7Z722id_ETM",
+      "phone": "(04) 576 89 00",
+      "hours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 12:00 – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "address": "Riklijeva cesta 13, 4260 Bled, Slovenia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Vila Podvin, Slovenija",
+      "coord": [
+        46.3394097,
+        14.2092993
+      ],
+      "desc": "Modern Slovenian cuisine in countryside manor with playground",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=144520651980633754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Playgrounds"
+      ],
+      "rating": 4.7,
+      "ratingCount": 262,
+      "website": "https://www.vilapodvin.com/",
+      "photoRef": "places/ChIJId8irvG9ekcRmnYDbMRwAQI/photos/AcnlKN0UXxchggmqksSyHVqZre7sLTynp5gJqp-bsQtrinUgzKWKPoKlE5C6lTZ4QpAwyKnBqotNg_OqLr5B5W158Lfv8fjQA6othBB29zTWNFxHw5DeGuhsXhsM5GoYyS_yQHaw-i5caLrggdeSJIJgXTaP-JMEe_SoYpaCsulSnqd3VlThz0giWlkntH0QEEOqvYxVs0lR6djxV5K8Oq1ooijtOI1FqSvu1xu4VQ7GDexSabUIpaK3jLlwVHhuOg0pp202X1HL9B32AxRze6a3c0Ju52j-Ev1unOACQB3rhE7Zp2auzq1sfF5PeZjVGrQEnvozGnPg03XmQ_8xdjTti_YU7QEoPmfcfF_iZdUHdKVIcNh1hre9VrEPB8K24FVxPOHvNxNqn8jDbQ-3iRjhs2O-DKvK6t-smvbbV4ixVvA",
+      "photoAttribution": "Sašo Panić (ETREND d.o.o.)",
+      "placeId": "ChIJId8irvG9ekcRmnYDbMRwAQI",
+      "phone": "041 634 906",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ],
+      "address": "Mošnje 1, 4240 Radovljica, Slovenia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Penzion Mlino",
+      "coord": [
+        46.3594428,
+        14.0985654
+      ],
+      "desc": "Cozy restaurant with traditional Slovenian dishes near Lake Bled",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14209602879172206837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Romantic"
+      ],
+      "rating": 4.3,
+      "ratingCount": 786,
+      "website": "https://www.malcajt.com/gorenjska/bled/penzion-mlino.html",
+      "photoRef": "places/ChIJtRd09jWRekcR9WBtbIimMsU/photos/AcnlKN1XfMcOy_LjjM3fBuQOjvLAA3zi-uFB7TaUtQzqItEuZ5CSVBwwY4Mc3VIDrvkKwyJ2HWJimJ55Grsw2Q0_msWUIUxtBxQXxOC8MnGzQmZfciN3r8Th-UEjS4JD6pVM1iyWdV015HPL0VoRu9v9u-tAxbbkv9Q05xC06FRMplVRXPeuf7zKYMM2FecjCd1zv1KFdpxNqcxB-tSVQTCfP-d72khxhsmyEqEjqsibmmil8Q_xBrL4A_IaGkL0PVgCehjg0SsZBiNll-aP4e0ko9IFyYoNbn290F-Clp3Ii1gGwg",
+      "photoAttribution": "Restavracija Penzion Mlino",
+      "placeId": "ChIJtRd09jWRekcR9WBtbIimMsU",
+      "phone": "(04) 574 14 04",
+      "address": "Cesta svobode 45, 4260 Bled, Slovenia"
+    },
+    {
+      "name": "Gostišče Martinov hram Martin Berginc s.p.",
+      "coord": [
+        46.33843100000001,
+        13.553628
+      ],
+      "desc": "Family-run restaurant in Kobarid offering local Soča Valley specialties",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8478520136097665896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Hidden Gem"
+      ],
+      "rating": 3.6,
+      "ratingCount": 1190,
+      "website": "https://www.martinov-hram.com/",
+      "photoRef": "places/ChIJ3V5DfxpoekcRaBMZhSTBqXU/photos/AcnlKN1VXpeBKXFn1TqgPfZfhAwLs9myiRk0m5ylXhNboZXelBEkukmmG5NTl9A38L8rLRAbk-8VdLaWyX511OICUzNho6UstKd_SfDKy2Q_ZqIatJrjBNPHKfWNpKWZ06cGoafwhnouLE-OlZ6X2uoxryCI5PolhTuhbZekWx_grMPEYb-ko0QGkEAiw81zl8kms2eL1sS9B3Sohzt9Dz098cWA0IJ1C-pQcVRGe2eT2auV763tStdg94HoCUuRQ3f-dwA3myyDR-l1ns_KdHhd4QCFJun3qkBuAsiKZJtwg9nchQ",
+      "photoAttribution": "Gostišče Martinov hram d. o. o. - Guest house - restaurant",
+      "placeId": "ChIJ3V5DfxpoekcRaBMZhSTBqXU",
+      "phone": "(05) 388 62 14",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 9:30 PM",
+        "Wednesday: 12:00 – 9:30 PM",
+        "Thursday: 12:00 – 9:30 PM",
+        "Friday: 12:00 – 9:30 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Trg golobarskih žrtev 27, 5230 Bovec, Slovenia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Hotel Dobra Vila Bovec",
+      "coord": [
+        46.3381258,
+        13.5573661
+      ],
+      "desc": "Boutique hotel restaurant with local trout and seasonal Slovenian dishes",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5553477196321076834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Splurge"
+      ],
+      "rating": 4.7,
+      "ratingCount": 208,
+      "website": "http://www.dobra-vila-bovec.si/",
+      "photoRef": "places/ChIJUwvd_g9oekcRYjbzIhbqEU0/photos/AcnlKN3Jz3yTqec6xBKGE1xMGlUSEig-vEKB0BlELNs5gEv7kOU4CdtVaibhUmzDMwJ0oE7iCbSxZztEHpO_zUpcumS5aIN1u3cfd5Kq88srS-jId2H6byvHxSZqGRNcwBTb-_D0r60DUh6WyvXTgevKFPyiIarFwp9AGJ0NMdGSGrqXGGZ1FJvCusO1xg0HOGmNXpVcR4jjWjg68U1hbbxIgjA5xggIF8OqIHS06pwq2mTdWPZUBIaHEOEQqdlXfAwn1Kt9xV1ufQjOXprxwMX-lvyfQiLL4PxXR11vjXw0DYYlbvEzVhpoipG7oC7-scgeQPPedceWrAcDoEqPgnec-tCasKj_Bbl-PWQAPE93uEQOhyh2M3VHvlRLciN7DzvVBqh6VeF7Qiow-R4-4NGK6YmwbzOzlcxHKk4qvd6RIlcrliqO",
+      "photoAttribution": "Saska Grusovnik",
+      "placeId": "ChIJUwvd_g9oekcRYjbzIhbqEU0",
+      "phone": "(05) 389 64 00",
+      "hours": [
+        "Monday: 12:00 AM – 11:30 PM",
+        "Tuesday: 12:00 AM – 11:30 PM",
+        "Wednesday: 12:00 AM – 11:30 PM",
+        "Thursday: 12:00 AM – 11:30 PM",
+        "Friday: 12:00 AM – 11:30 PM",
+        "Saturday: 12:00 AM – 11:30 PM",
+        "Sunday: 12:00 AM – 11:30 PM"
+      ],
+      "address": "Mala vas 112, 5320 Bovec, Slovenia"
+    },
+    {
+      "name": "Gostilna Metoja Božo Bradaškja s.p.",
+      "coord": [
+        46.375573599999996,
+        13.742584299999999
+      ],
+      "desc": "Traditional mountain inn with homemade pasta and valley views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12140929891852238561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Scenic Views",
+        "Casual Eats"
+      ],
+      "rating": 4.5,
+      "ratingCount": 754,
+      "website": "https://www.metoja-trenta.com/",
+      "photoRef": "places/ChIJ1_G1bnhhekcR4T7GRmk_fag/photos/AcnlKN0jdmiygWTkJCTJC2KC1T1XZGdN-eD6iCd9U98JtyjqRqOkNXZdv8urRU3p0zBML0eN-loIgyo-jwzyZGqvHbUpAmUwcdGnQaIlg6hkMT32cvtRW1ViFyAuumyffXsyl_PNh0Yi-jvKSWdfH9GJvY4VTDSEv6HZlRa1waOgvbvDMfma7z8QqUzBBGuTPQwRzxCcwwPZdFG8OFuu35ShR_vPkLNi5sUQGr5guYSq4DF8qf-9JUAz_paXTDZKa1pONyaGrm9QsEmqJKITw6aQnRSs3L4fS6JPwAT3ML3kRu3UPgDbHxXj9ybkmOiVLd0rNqxHkzvpf-68n75iLTfNWF3J3lfqW4okkDQItNFjomUNhlMMMaNBNJn4q5nET07qLZs57hL6UNcy0HvGJrR8xhu7wKVm9rSaCctqlBVMPsVUM5SsNKzS34F8AUAasVu-",
+      "photoAttribution": "Phil Ashman",
+      "placeId": "ChIJ1_G1bnhhekcR4T7GRmk_fag",
+      "phone": "041 503 551",
+      "address": "Trenta 19a, 5232 Soča, Slovenia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Restavracija Strelec",
+      "coord": [
+        46.0490116,
+        14.509220200000001
+      ],
+      "desc": "Castle tower restaurant with modern Slovenian cuisine and city views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8570667632801246476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Romantic",
+        "Local Delicacies",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 4.7,
+      "ratingCount": 761,
+      "website": "https://www.restavracija-strelec.si/",
+      "photoRef": "places/ChIJ-QJ-TWMtZUcRDG0Ofc0g8XY/photos/AcnlKN3mADwzyUVmLtcGaeLW7GkXf8ci6IDmNzLdcKM92MeNQK9zol26KY6VaUOfyyijyDAqb03mJoaUwCBunHgu5vTriDqRsc_g7_2XnTD85n3oMg5APx37Gz-oyBV7YY485PfzDaV6A8TsMJ9befBQspoEDPmjkFT1jKnL4-_76Zv346vf7vBwsNbvwh_OKsGVutKuMkTXvqgPQby2_JGivWHe23a-4pE2nvXT8KBFWJjfE7EHOaYPckmQwNCee09NivyO1MFYL5JLW6X2SviZLFTE801OJK3FCwby3vFNNpjOYA",
+      "photoAttribution": "Restavracija Strelec",
+      "placeId": "ChIJ-QJ-TWMtZUcRDG0Ofc0g8XY",
+      "phone": "031 687 648",
+      "hours": [
+        "Monday: 5:00 – 10:00 PM",
+        "Tuesday: 5:00 – 10:00 PM",
+        "Wednesday: 5:00 – 10:00 PM",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Gostilna na Gradu",
+      "coord": [
+        46.0486596,
+        14.508541399999999
+      ],
+      "desc": "Restaurant located in Ljubljana Castle offering traditional Slovenian cuisine with panoramic city views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=11560846327646073840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Iconic / Must-See",
+        "Local Delicacies",
+        "Scenic Views",
+        "Photography Worthy"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1039,
+      "website": "https://www.jezersek.si/si/lokacije/ljubljanski-grad/gostilna-na-gradu",
+      "photoRef": "places/ChIJM0x_VGMtZUcR8DM5pntgcKA/photos/AcnlKN3rhFyYpQPr3oE5jTUqlJXV3zOJN7w5oATX6dxgaSgDkRZteSmgapOW3rI326VHrQKrlnYWID85dAzX74bRHAAd-fVV_vKLLkw_IaSu-HE4cSTG1X_86rLxcIQ8LTaAtU5KX6gE9rjYaoj3aVwXUs8uBD2lsZz4dQvXjcMiVpOZv1jpjjcw6cSuhkNmp8EIVpcub0YxCStUBt8L6MD3QpFuZa_W6wGFlxzIwCxM4dcWKvVocA3rWH6vU85yQQi3Y32H0GLxei9aSK_4kPNPypsj1xUySfD2IBUaHvNNAOJq5w",
+      "photoAttribution": "Gostilna na Gradu",
+      "placeId": "ChIJM0x_VGMtZUcR8DM5pntgcKA",
+      "phone": "0820 51931",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Restaurant & Wine Bar Murka",
+      "coord": [
+        46.3717209,
+        14.1046956
+      ],
+      "desc": "Traditional Slovenian restaurant in Bled serving local cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10618128136296747605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Casual Eats",
+        "Romantic"
+      ],
+      "rating": 4.2,
+      "ratingCount": 1573,
+      "website": "https://www.charming-bled.com/en/restaurant-and-wine-bar-murka/?utm_source=mybusiness&utm_medium=organic&utm_campaign=RestaurantWineBarMurka",
+      "photoRef": "places/ChIJK2AsQSyRekcRVVKMX0grW5M/photos/AcnlKN2MqPHH7A4NKj_DrxbJGtzCf1CHbrY9ETx9FN8cRcsnPMF2DxlCVOKr6UIvuIhdGSPZWhx-iHr0w6oAtPhS0wnL9XVmqLK95DFP-KzG5_ACUHRA1Up0xCZbNSpzQDBG9J0fVjpk5HKRhssbKLZpiLgjvv4jtpQxhSC0ZX9MAUpjrxdhbRcRdUrO3hG1jkRsTwb92n6xGqdNvI2QTH_LRvPfh3-aIRZptX_aH-baslIE2X5b-UCV6BOBZtYD8_4alAzuSXtneECn7grbVYNpAgg41_vwk76Qa9dq0pQ1TDmZzQ",
+      "photoAttribution": "Restaurant & Wine Bar Murka",
+      "placeId": "ChIJK2AsQSyRekcRVVKMX0grW5M",
+      "phone": "041 245 918",
+      "address": "Riklijeva cesta 9, 4260 Bled, Slovenia",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Bistro 9:45",
+      "coord": [
+        46.3410342,
+        13.570725399999999
+      ],
+      "desc": "Gostilna Vanč serving riverside terrace meals and packed picnics",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=10175182118653243084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Scenic Views",
+        "Hidden Gem"
+      ],
+      "rating": 4.9,
+      "ratingCount": 348,
+      "photoRef": "places/ChIJg7oDZxdpekcRzK47-zmCNY0/photos/AcnlKN3_PA1Id0D5tFJJmIFtQMmpIPKw6HwrlALgUzo9pf6rtBqSJ3N0TEID_G1s_vcsZBB4-9pwQEQ6YsYEehoKcH9zGo0L7sYXjjqv4FjpomMZdzXQmZZMJlhw3IZ7PjPM_ZFaTH659rQ587WJlCMshpxH6eVzzMWnWqSlpoXXhBZK6rmpcHnuznJXc-l2xQ6FGtFdnmVMEcPQuqlBQKkpnxWE0Q6ChEm6NbPucUmO8walT8SGQsKRD4SOhycl6GFiJqRsFz9ydA-NimAQ6Luv6wIr3npeHsusMIaqPZADtFskVA",
+      "photoAttribution": "Bistro 9:45",
+      "placeId": "ChIJg7oDZxdpekcRzK47-zmCNY0",
+      "phone": "031 444 626",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Ravni Laz 18, 5231 Bovec, Slovenia"
+    }
+  ],
   "experiences": [
     {
       "name": "Lake Jasna",
@@ -30,12 +785,410 @@
       "tags": [
         "Photography Worthy",
         "Outdoor & Nature",
-        "Family Friendly"
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Scenic Views"
       ]
+    },
+    {
+      "name": "Postojna Cave",
+      "coord": [
+        45.7830298,
+        14.2038417
+      ],
+      "desc": "Massive underground cavern, train ride through cave, stalactites and stalagmites",
+      "longDesc": "Slovenia's most spectacular cave system featuring a thrilling train ride through illuminated chambers filled with dramatic limestone formations that captivate children.",
+      "gmapsUrl": "https://maps.google.com/?cid=10180141766497075902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.8,
+      "ratingCount": 56672,
+      "website": "https://www.postojnska-jama.eu/sl/postojnska-jama/",
+      "photoRef": "places/ChIJK4twzeExe0cRvgIt-_8gR40/photos/AcnlKN3zVNvFr-mLW4zU3nVH8cNUayAVAHCAf-jRFn9rqQCXi_LctuGDiNWti3lK3evIByT61wCSusto-kc6q-3dR2Ta-VdJ8XMGTNrwDWpBTMviTn08mA4g3Kz53p5m3X-u7opDyGujOuBHyO9v1NWh-Gfzf4jPE2W8IuJWSicb229gCDVloz1BriD_dpp3JlDEMUln4csA9wKxUknuDLM2tIu59zzcTAgQyJd_FnWI1D42ofIiYkwcsE99YTD0jTzKICvC8Klfss3QA1mzB0MHWJ3KqJgHxGua-tKzwbKOc42zL8F-6x3WqleiuF2tBGgC24mjJsIfOWLv3OAlZwVEJie0kLPMZ8mOaS5oKbVzqGyIKL0x3TTuNMz0qRY9qztOxcXpdyFcz1ENSkeETGGrSF7GmrSfVxoepERxYjP66fMq8xjw",
+      "photoAttribution": "Dimitrios Tolis",
+      "placeId": "ChIJK4twzeExe0cRvgIt-_8gR40",
+      "phone": "(05) 700 01 00",
+      "hours": [
+        "Monday: 10:00 AM – 3:00 PM",
+        "Tuesday: 10:00 AM – 3:00 PM",
+        "Wednesday: 10:00 AM – 3:00 PM",
+        "Thursday: 10:00 AM – 3:00 PM",
+        "Friday: 10:00 AM – 3:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: 10:00 AM – 3:00 PM"
+      ],
+      "address": "Jamska cesta 30, 6230 Postojna, Slovenia"
+    },
+    {
+      "name": "Predjama Castle",
+      "coord": [
+        45.8158037,
+        14.126879599999999
+      ],
+      "desc": "Cliff-side medieval castle, dramatic location, secret tunnel network, museum",
+      "longDesc": "Jaw-dropping fortress built into a cliff face near Postojna, offering families medieval history, tunnel exploration, and breathtaking photo opportunities.",
+      "gmapsUrl": "https://maps.google.com/?cid=15607057181585026177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Iconic / Must-See",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 27779,
+      "website": "https://www.postojnska-jama.eu/sl/predjamski-grad/",
+      "photoRef": "places/ChIJXSrK02gle0cRgayVIdFnl9g/photos/AcnlKN1Rmaq08X6zNB7vgWBM5lasa8ZEEKdVoOfdafcEzgHBrjI8r-fl4ZUZ18qkcBxc85yMpUgDlyiegWlTNeMiGh093u8l_F7NYlcYpv_-vTWjSVhIIAvc6Yb8gfI-RGGUD7JyOvsf_wxsk2M72C2uUtJfolaOfiq2nOnQQb-OjpuxzxLYNVOxqBuH3Jb4_VixAe7R5J_nl9z8Eityg8OcPaDBQgVwgp9jkRToXWfjZivtIwER0v2tkX1_ItmfuJzCz38syxIdBOZnQW5aTwecHrkjO0Rnie1fGAB2GIxa0cLY60yTv0bJXvxVHUWJ0XBv0wI_e1RDtBEeoRjj3oQnKiuiocksGyde9PNCBZmoSKkuBGc-Ry6q-EiQhYlVHoEdM6LMoD5hMpn-GqumctAmIB3VblQAFOYvAkJql_jeCrWOpw",
+      "photoAttribution": "Václav Kestler",
+      "placeId": "ChIJXSrK02gle0cRgayVIdFnl9g",
+      "phone": "(05) 700 01 00",
+      "hours": [
+        "Monday: 10:00 AM – 3:30 PM",
+        "Tuesday: 10:00 AM – 3:30 PM",
+        "Wednesday: 10:00 AM – 3:30 PM",
+        "Thursday: 10:00 AM – 3:30 PM",
+        "Friday: 10:00 AM – 3:30 PM",
+        "Saturday: 10:00 AM – 3:30 PM",
+        "Sunday: 10:00 AM – 3:30 PM"
+      ],
+      "address": "Predjama 1, 6230 Predjama, Slovenia"
+    },
+    {
+      "name": "Narodni muzej Slovenije",
+      "coord": [
+        46.0519026,
+        14.499564999999999
+      ],
+      "desc": "Comprehensive history museum, interactive exhibits, Slovenian cultural heritage",
+      "longDesc": "Ljubljana's premier museum presenting Slovenia's history through engaging exhibits that help families understand the nation's cultural identity and artistic achievements.",
+      "gmapsUrl": "https://maps.google.com/?cid=11382243531208326708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day",
+        "Cultural & Historical"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1384,
+      "website": "http://www.nms.si/",
+      "photoRef": "places/ChIJUVnncGctZUcRNP6omC_a9Z0/photos/AcnlKN0RK-RsajU8CsMo-ea7BlfA34zmk9ligvxQFt3ySeueY6oEgTFqQj_-Ug5ZHTTxBoqjyB4d9EAdOtD0G_YCbE5oRSklgcA-BWULEXnFns6hf2fKE4fK7-OqPilYj06VXM-kxD7UlS3FeuThY5YJelK_FOKIGnzwZNhZjJh4vX2oK47ocgwCasYQBBMzpKzKSJOKb6ab_BL6JI2D9Mphn9O4Btau0_jbN78_6cntNrQWOLZEdiIkrw-NfE0llqjWrOFWFsD1jxUQXYFZGtErNPSV0w7i86MlmyfEA8xyqA7iQcV4m0SyywZXgX4WgNY37NNHyPAbYlBrWZSowqr4RCUO7nbKvAEr2E-JCkaWJRBH58CpAyTBKFqKhKFQe4K_w5HSvrbNWGlkejDMK2RRqChII-zidLNVft7DRhYLqmBMqw",
+      "photoAttribution": "Ken Kaminski",
+      "placeId": "ChIJUVnncGctZUcRNP6omC_a9Z0",
+      "phone": "(01) 241 44 00",
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Muzejska ulica 1, 1000 Ljubljana, Slovenia"
+    },
+    {
+      "name": "Aqua tours Bovec - Rafting, Canyoning and Kayaking",
+      "coord": [
+        46.3189857,
+        13.549695799999999
+      ],
+      "desc": "Emerald river adventure, guided kayak tours, turquoise water, scenic gorge",
+      "longDesc": "Experience Slovenia's most famous river through guided kayaking adventures down emerald-colored gorges, suitable for families and offering unforgettable alpine water views.",
+      "gmapsUrl": "https://maps.google.com/?cid=6189457810621594357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 5,
+      "ratingCount": 1210,
+      "website": "https://www.aquatoursbovec.com/",
+      "photoRef": "places/ChIJPT2sDTFDekcR9fpd6hVf5VU/photos/AcnlKN0PMlVIqbSz5kSaBzeTID-zN0ExCkuGyARiNkGO9sJs9t8BIiApyRtdxaZjCGlo6Ep1pD0aCldUJF1WVQqJNLKmWrVp9jwcTT3elnaP-rMnfuXRqIrLtY8a0QNzmlLEr2zQIflSnI7RIBjlsPY_3yQ4T4DCOVx6PJxenosJXDgDl3VIvJxk47RAb2WswaRrJe2yOAfndf1VeJB0QjddUpwUjmsNIcsv7kNXO2AdBylpvg67iSg56HepJrLPw-vEraOKqIqfjQz_D_-rA1oDsQrkcJ1ZR7_lLz-8SnQZ0xUcz5oW2Ryin_9QkIoal9dD01YQqIbPRGdf8yiALiUkNjA3dyqUNa_8Ecf4a1jAnvx5hen0r5mIz-zRI5MSzy0jCmO5Nmyk9UQoTHtFxh4q6-cOmdG0QTTR-hrt0t9h81PJFrXMbft00cXkElwb_moA",
+      "photoAttribution": "Daniel “Daniel F.” Fronert",
+      "placeId": "ChIJPT2sDTFDekcR9fpd6hVf5VU",
+      "phone": "068 686 440",
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "address": "Čezsoča 71, 5230 Bovec, Slovenia"
+    },
+    {
+      "name": "Fröccs Terrace Bovec",
+      "coord": [
+        46.338131600000004,
+        13.5633856
+      ],
+      "desc": "Pack a picnic from local shops and enjoy riverside relaxation",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15510983782815840882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Budget Friendly",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 21,
+      "website": "https://www.froccs.hu/",
+      "photoRef": "places/ChIJ0Skt-hhpekcRcjqV25EVQtc/photos/AcnlKN3BHde_R06d8pLBYhBzE_qmiT4W_PXwuT1hNLsqCN8m2KdWOBQO71szQm-OQZL0gCmHGOD53sGDktMCFHaP7aqjixpJo7TXVgOuiJnhrHTDMcx3z2gpxbF-PX__67o5L-UipQKhIzuIs5O4TZZQ0G72I_MJlOxzbvXZLd7bV--bjksAFotu03IVyD7jEyjohZOYPpkQvilZRbFWBJbT1sOD44bxM6udfsDClTBOdnO84x-yAd2bJTYvG1R2rRwbMvTCguCQ2kaDN-rNJtrZYPSf4Grq--RP58wZYjy83kCtPQ",
+      "photoAttribution": "Fröccs Terrace Bovec",
+      "placeId": "ChIJ0Skt-hhpekcRcjqV25EVQtc",
+      "phone": "06 30 399 7974",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "address": "Industrijska cona 4, 5230 Bovec, Slovenia"
+    },
+    {
+      "name": "Nature's Ways Bovec - Rafting & Canyoning",
+      "coord": [
+        46.3242738,
+        13.5531256
+      ],
+      "desc": "Gentle family-friendly trails with stunning mountain views and wildflowers",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6941249781484422680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "rating": 4.9,
+      "ratingCount": 1176,
+      "website": "https://www.econaturesways.com/",
+      "photoRef": "places/ChIJaVtscC5DekcRGAajYuZFVGA/photos/AcnlKN0vx2NBrcFrvAY3guR7nlWzpavYMeenea2YQ2EDvASO4dnnc4lmCJinCQC-JQF9rDlCif_iFsdCwN-ev-7rD_8sxwWCDqJZiBlsh1C_dz7lvKacbiyrEB8a5QLgxf1G0521H7f7siy9L4fIe3Q7Tg67d1trtSe65Ba1toD7GwmpQAn3D6DfH0LVgszKkHhIBsHYQld7RfuO7nJVKQtPLLl5xTOqg3DfAWYcQZ95t3dPujAoik8IiKScKvRNw2I7A8uzdMUyLUvhCyswtAzluk9-aESlFM_EuvEGXbNIag8etg",
+      "photoAttribution": "Nature's Ways Bovec - Rafting & Canyoning",
+      "placeId": "ChIJaVtscC5DekcRGAajYuZFVGA",
+      "phone": "040 534 919",
+      "hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ],
+      "address": "Čezsoča 78, 5230 Bovec, Slovenia"
+    },
+    {
+      "name": "Castle Bathing Area",
+      "coord": [
+        46.3693351,
+        14.102664899999999
+      ],
+      "desc": "Historic public swimming area on Lake Bled with direct lake access, lawns, and views of Bled Castle",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13215415214451915964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Beach",
+        "Scenic Views",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.2,
+      "ratingCount": 606,
+      "website": "http://www.kopalisce-bled.si/",
+      "photoRef": "places/ChIJsa1X-S2RekcRvPyyiB6WZrc/photos/AcnlKN2YKgDqvfpTEGPGLfiAayQ8cd2ozT18My1RzX-P07d6AKURzCKHkMMcX7aXTNqEbPzTcxZTAK_6OQdF4WUSsAA_7JAXgau_8h4vANCdfOxu767hHjOcxlQiqDpHO5hZtIx4s_ocJXVr2scJK5MthuX6h3tmuLyGG4sVkQyJoAkg_Wbn8nAEL7_WFcpnvY7H1w99mdJJTuKhAqUF-Ex-SN5MNZBz1r8bUL0UVYMBMqmV5iGeZFaNt2pR3tKYkAgn2PvUxHWKazgsg_U4htmwXyLinZAX1UcMy2mYMM1Ocj0uX34vc2xLFrJoo-pLt5s-jVmjY3HjaT19TJJRx8dg-oHQS0cPMsKQvoX5v9XVPi9bvnTyjZQhO-jYKLd6z2eTlFM6dSyDWq4VDY_jK6Pb2ybpK-jeDkXOn1wV8tCqulnkFiBx",
+      "photoAttribution": "Peter Rozenbajgier",
+      "placeId": "ChIJsa1X-S2RekcRvPyyiB6WZrc",
+      "phone": "(04) 578 05 28",
+      "hours": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ],
+      "address": "Veslaška promenada 11, 4260 Bled, Slovenia"
+    },
+    {
+      "name": "PLETNA BOAT CRUISE TO THE ISLAND BLED",
+      "coord": [
+        46.3594489,
+        14.0986919
+      ],
+      "desc": "Traditional wooden boat ride to the island church with 99 steps and wishing bell",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17825482859808402308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "rating": 4.3,
+      "ratingCount": 181,
+      "website": "http://www.pletna.net/",
+      "photoRef": "places/ChIJTwy8Cy2RekcRhKuxsDfWYPc/photos/AcnlKN16i3WaKaKzFrnicp8uLsgR-sRSgxrt66qeggBYpAEDD5hMn4rzUS0HomVhguMinHOrRX65NG-Ra3B7XKbhvDHXCIIrsdr52ygcDF1-ZDSYqfkjiltGaeaJ6BVKUu1XRNn1aVJNm3ki4HbWnm4wqhK0TbLzOH80dEZ_PJ9fgJpHrlLLsQ-JsronfRFI3S2_75iYLYlCmNWwlEa8gwayDT6hiH3Ia2Ni1VkWO2ZuYdubnq4CAkAGhV9rucCUwttmX8VONuAnjJqJrChohmqqLD5RmRozPUVr3yTubTpUukmCZA",
+      "photoAttribution": "PLETNA BOAT CRUISE TO THE ISLAND BLED",
+      "placeId": "ChIJTwy8Cy2RekcRhKuxsDfWYPc",
+      "phone": "041 948 168",
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "address": "Cesta svobode 45, 4260 Bled, Slovenia"
+    },
+    {
+      "name": "Kobarid Museum",
+      "coord": [
+        46.24660370000001,
+        13.5809344
+      ],
+      "desc": "WWI museum with multimedia exhibits about the Isonzo Front",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1749498376437551394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Reservations Recommended"
+      ],
+      "rating": 4.7,
+      "ratingCount": 2787,
+      "website": "https://www.kobariski-muzej.si/",
+      "photoRef": "places/ChIJ3ShdfYBbekcRItGuDoF3Rxg/photos/AcnlKN2x5AbFFJXYyDYtCRU1VucdeebKnpLrWBOS2Y5o0TRSgNT71JKI7I6g6HkLk6kpTcHZW-TQ_W7xipht_GKi5ygz4pCQlmdcpOG4UjlYKHMsGs4rqx89miculFX_6SzATGIJidoQD5v2ToG2TYusDAoG9bbTsCmcOgLsx5iGkBaPYEHwy63E-c2ZO0Mk7UpS3-7Qcnt9x7G-TryuT9bI--o4ENHkj57gQJZKXMhw5iU2SuxvTINiWzBIzCHRrtH8GLw39rINPfwdeGfBoXcJ3fq0VsPeWgBOzJptQtL6R3-FCxG-FZNInWBUqDs03z8wALPLAExfuNuAgFMGonGVw0C4RP5hW9xERPfuTuu2XOljg2tTPT3n7c7vi9az-1lXNQef9AVaERLBuXt-UaW4gUNbrLWaZwfIdYUvtpRHIv8Ieo-4",
+      "photoAttribution": "And",
+      "placeId": "ChIJ3ShdfYBbekcRItGuDoF3Rxg",
+      "phone": "(05) 389 00 00",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "Gregorčičeva ulica 10, 5222 Kobarid, Slovenia"
+    },
+    {
+      "name": "Great Soča Gorge",
+      "coord": [
+        46.3372098,
+        13.6459342
+      ],
+      "desc": "Easy family-friendly trail along turquoise gorge with wooden walkways",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5425290612965934083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Scenic Views"
+      ],
+      "rating": 4.9,
+      "ratingCount": 2751,
+      "photoRef": "places/ChIJd7lA0hpnekcRA4QYbRGBSks/photos/AcnlKN0DeTaefqyBPWTGQgP1BQXLiQtIW9BWT1S3GF_TPK-HKgEMENOxm8K1k-6JBGcXWBEa3Cww9QpEEeMIsWii64HBIxlrLxpaEWWfF6dsU_XPOxNAO_PUOF5kA1aCdjSdGzhUXP0-OwcHR_xVDXrrRTMrAM4_rH_3j5bUptMcZCjoP7mR2szTn_fa_XWVSl6rvDFJg-SPjUiCpbPP198Neo8MJu5ZidCyHjl_Olb1rIuxup5MSqEtBfPZ3T_gPuoZ0lznsd7aat2PStMoXtv61KEqQKy6k_yQiTP_POImxvTWaIOIO-FLHQ4V99ZiGqDbOxlOAUAIhKjhpXQLWJkNAFAbRazS2cPzdinODrDDbMLKtEJHcmplgBRRAWwhs2gleuqqPZLEqmHONrH91eQTIIvEbZoKXhiX9jdGb5xJYbavMA",
+      "photoAttribution": "Jakub K.",
+      "placeId": "ChIJd7lA0hpnekcRA4QYbRGBSks",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "5232 Soča, Slovenia"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Ljubljana Zoo",
+      "coord": [
+        46.0527405,
+        14.4720881
+      ],
+      "desc": "Family zoo with diverse animals, playgrounds, park setting, educational programs",
+      "longDesc": "Well-maintained zoo in Tivoli Park featuring animals from around the world, interactive feeding experiences, and playgrounds that delight young travelers.",
+      "gmapsUrl": "https://maps.google.com/?cid=4715427678121587635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Budget Friendly",
+        "Playgrounds"
+      ],
+      "rating": 4.6,
+      "ratingCount": 13967,
+      "website": "http://www.zoo.si/",
+      "photoRef": "places/ChIJSwvOqKzSekcRs3N7Zn2QcEE/photos/AcnlKN2L1ZZSc0D9yqrfRIy50b3P-VtShUnCwe-lweaT2CEjwTR9nB4BZSdAo3rowoSySgM8k2yl7Xcz_9kmmrvCuwlJxarJBGYw1R3diXO8ScQtyUGe9RsSH_YcMz8ydZrQLF4sYfU3ofrEKD4VD4hVNfc-bMp_H5qdc9VGGcK6NR-2Rj8qUfMZwXlD_7Bfk9_nqOcxprhCrrsu9NP0lPYIDSa0ymtPONmBjJsSV2liVoQKWLYkbbWyS9F_pk6_5lzRywUYSWgEr9wCjTaPoqDEae2c8q-sw_aK02RwnWYFElawFg",
+      "photoAttribution": "Živalski vrt Ljubljana",
+      "placeId": "ChIJSwvOqKzSekcRs3N7Zn2QcEE",
+      "phone": "(01) 244 21 88",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "address": "Večna pot 70, 1000 Ljubljana, Slovenia"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Central Market",
+      "coord": [
+        46.05114,
+        14.5094908
+      ],
+      "desc": "Historic farmers market, fresh produce, local crafts, riverside location",
+      "longDesc": "Vibrant central market bustling with local vendors selling fresh produce, artisan goods, and traditional foods, offering families authentic Slovenian food culture.",
+      "gmapsUrl": "https://maps.google.com/?cid=8099769116432013185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3763,
+      "photoRef": "places/ChIJgW8c0GItZUcRgRec0xgpaHA/photos/AcnlKN3Pwknx_4Ta7ORgzSPdBgOpJkvm0g6e3pn2vnlXK73oU-52dKbzUGW8TzRKO04FyumwMDmGhP3lDFIOsbOMolzteuu2BF9lYbZ9mnrUDtT8v92bIGduOb6bt_dZBIs8xC_fmhNtUf_7v6FXrw2a3wVXrYgh37Y7tyk_UXoCrn73jQweUl4Vmw-Jyr4r06YzYINd8ZFFa2Qv2E16OgwO0LUDqqMFtJUwiRoa73HPIZwn6wLWWG_Q4cljgYte5nv8pBhC2GkNBB0H2heRTkJforUdzrEr_UQtRIFKTpF0kLpwU-LLX0aWtqp0jqWoYzJ8aBA1C2Fa4XS_IkMUQC5IcodW465q_-MYy5R7jx8mLjr0mKR7RrIF97u-l5eNWlqlWtGBSp60Pze5wqOPtjyylHrMe2Rs91kh__-chTnSXJvKCg",
+      "photoAttribution": "Adriano Falcão",
+      "placeId": "ChIJgW8c0GItZUcRgRec0xgpaHA",
+      "phone": "(01) 300 12 00",
+      "hours": [
+        "Monday: 7:00 AM – 4:00 PM",
+        "Tuesday: 7:00 AM – 4:00 PM",
+        "Wednesday: 7:00 AM – 4:00 PM",
+        "Thursday: 7:00 AM – 4:00 PM",
+        "Friday: 7:00 AM – 4:00 PM",
+        "Saturday: 7:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ],
+      "address": "Adamič-Lundrovo nabrežje 6, 1000 Ljubljana, Slovenia"
+    }
+  ],
   "cityCenters": {
     "Kranjska Gora": [
       46.474,
@@ -43,5 +1196,398 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Slovenia's Lakes & Valleys (8 Days)",
+      "description": "Alpine meadows, emerald rivers, and fairytale castles—a magical Slovenian adventure perfectly paced for families with young children.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Bled",
+        "Soča Valley"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Bled",
+          "dayType": "rural",
+          "base": "Bled",
+          "items": [
+            {
+              "name": "Hotel Park",
+              "type": "hotel",
+              "coord": [
+                46.3679018,
+                14.1092328
+              ]
+            },
+            {
+              "name": "Gostilna Murka",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Slovenian restaurant in Bled serving local cuisine",
+              "suggestedCity": "Bled"
+            },
+            {
+              "name": "Settle into the hotel and beach time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Stara Fužina",
+              "type": "dinner",
+              "coord": [
+                46.288666,
+                13.894894
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Lake Bled & Bled Castle",
+          "dayType": "rural",
+          "base": "Bled",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Bled Café",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lakeside café with famous cream cake and lake views",
+              "suggestedCity": "Bled"
+            },
+            {
+              "name": "Pletna boat ride to Bled Island",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Traditional wooden boat ride to the church island with wishing bell",
+              "suggestedCity": "Bled"
+            },
+            {
+              "name": "Vila Podvin",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Modern Slovenian cuisine in countryside manor with playground",
+              "suggestedCity": "Radovljica"
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Pension Mlino Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Cozy restaurant with traditional Slovenian dishes near Lake Bled",
+              "suggestedCity": "Bled"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Postojna Cave & Predjama Castle",
+          "dayType": "rural",
+          "base": "Bled",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Postojna (1 hour)",
+              "type": "info"
+            },
+            {
+              "name": "Postojna Cave",
+              "type": "sightseeing",
+              "coord": [
+                45.7830298,
+                14.2038417
+              ]
+            },
+            {
+              "name": "Predjama Castle",
+              "type": "sightseeing",
+              "coord": [
+                45.8158037,
+                14.1268796
+              ]
+            },
+            {
+              "name": "Gostilna Požar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Slovenian inn near Predjama Castle with hearty local dishes",
+              "suggestedCity": "Predjama"
+            },
+            {
+              "name": "Return to Bled",
+              "type": "info"
+            },
+            {
+              "name": "Pool time at hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Penzion Berc Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-run restaurant with garden terrace and traditional Slovenian fare",
+              "suggestedCity": "Bled"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Transfer to Soča Valley",
+          "dayType": "rural",
+          "base": "Soča Valley",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive through Vršič Pass to Soča Valley (1.5 hours with stops)",
+              "type": "info"
+            },
+            {
+              "name": "Lake Jasna",
+              "type": "sightseeing",
+              "coord": [
+                46.4740417,
+                13.7840952
+              ]
+            },
+            {
+              "name": "Pristava Lepena",
+              "type": "hotel",
+              "coord": [
+                46.330946,
+                13.6459059
+              ]
+            },
+            {
+              "name": "Gostišče Sovdat, Erika Vračun s.p.",
+              "type": "lunch",
+              "coord": [
+                46.3382186,
+                13.5530449
+              ]
+            },
+            {
+              "name": "Explore the eco-resort grounds and river",
+              "type": "freeTime"
+            },
+            {
+              "name": "Gostilna Martinov Hram",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-run restaurant in Kobarid offering local Soča Valley specialties",
+              "suggestedCity": "Kobarid"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Soča River Adventures",
+          "dayType": "rural",
+          "base": "Soča Valley",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Aqua tours Bovec - Rafting, Canyoning and Kayaking",
+              "type": "sightseeing",
+              "coord": [
+                46.3189857,
+                13.5496958
+              ]
+            },
+            {
+              "name": "Picnic lunch by the Soča River",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Gostilna Vanč serving riverside terrace meals and packed picnics",
+              "suggestedCity": "Bovec"
+            },
+            {
+              "name": "Afternoon rest at the hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Short nature walk around Lepena Valley",
+              "type": "freeTime"
+            },
+            {
+              "name": "Dobra Vila Bovec",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Boutique hotel restaurant with local trout and seasonal Slovenian dishes",
+              "suggestedCity": "Bovec"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Kobarid & Great Soča Gorge",
+          "dayType": "rural",
+          "base": "Soča Valley",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Kobarid Museum",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "WWI museum with multimedia exhibits about the Isonzo Front",
+              "suggestedCity": "Kobarid"
+            },
+            {
+              "name": "Hiša Franko",
+              "type": "lunch",
+              "coord": [
+                46.2472492,
+                13.5377614
+              ]
+            },
+            {
+              "name": "Great Soča Gorge walking trail",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "experiences",
+              "suggestedDesc": "Easy family-friendly trail along turquoise gorge with wooden walkways",
+              "suggestedCity": "Kobarid"
+            },
+            {
+              "name": "Return to hotel for pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Gostilna Metoja",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional mountain inn with homemade pasta and valley views",
+              "suggestedCity": "Trenta"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Return to Ljubljana",
+          "dayType": "urban",
+          "base": "Ljubljana",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Drive to Ljubljana (1.5 hours)",
+              "type": "info"
+            },
+            {
+              "name": "Grand Plaza Hotel & Congress Center, Ljubljana",
+              "type": "hotel",
+              "coord": [
+                46.05721,
+                14.5062299
+              ]
+            },
+            {
+              "name": "Central Market",
+              "type": "sightseeing",
+              "coord": [
+                46.05114,
+                14.5094908
+              ]
+            },
+            {
+              "name": "Prešernov trg",
+              "type": "lunch",
+              "coord": [
+                46.0514711,
+                14.5060727
+              ]
+            },
+            {
+              "name": "Ljubljana Zoo",
+              "type": "sightseeing",
+              "coord": [
+                46.0527405,
+                14.4720881
+              ]
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Strelec Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Castle tower restaurant with modern Slovenian cuisine and city views",
+              "suggestedCity": "Ljubljana"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure from Ljubljana",
+          "dayType": "urban",
+          "base": "Ljubljana",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning walk through Tivoli Park",
+              "type": "freeTime"
+            },
+            {
+              "name": "Narodni muzej Slovenije",
+              "type": "sightseeing",
+              "coord": [
+                46.0519026,
+                14.499565
+              ]
+            },
+            {
+              "name": "Monstera Bistro",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Modern bistro near old town with seasonal menu and kid-friendly options",
+              "suggestedCity": "Ljubljana"
+            },
+            {
+              "name": "Transfer to Ljubljana Airport",
+              "type": "info"
+            },
+            {
+              "name": "Gostilna na Gradu",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Restaurant located in Ljubljana Castle offering traditional Slovenian cuisine with panoramic city views",
+              "suggestedCity": "Ljubljana"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

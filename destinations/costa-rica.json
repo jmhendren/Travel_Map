@@ -29,15 +29,943 @@
         "Splurge",
         "Photography Worthy",
         "Outdoor & Nature",
-        "Romantic"
+        "Romantic",
+        "Hidden Gem",
+        "Scenic Views"
       ],
       "phone": "4081 1221"
+    },
+    {
+      "name": "Four Seasons Peninsula Papagayo, Costa Rica",
+      "coord": [
+        10.6115855,
+        -85.6884147
+      ],
+      "desc": "All-inclusive beachfront resort, championship golf, kids club, water sports",
+      "longDesc": "A stunning all-inclusive resort perfect for families, featuring pristine beaches, an excellent kids club, and numerous water activities to keep everyone entertained.",
+      "gmapsUrl": "https://maps.google.com/?cid=12760667552619822360&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Romantic",
+        "Playgrounds",
+        "Beach",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1646,
+      "website": "https://www.fourseasons.com/costarica/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-cos-hre-mid-seo-na&utm_content=na-na&utm_term=na",
+      "photoRef": "places/ChIJ4-8la0qHdY8RGP3Buof_FrE/photos/AcnlKN1FuOVj91aej3vvWoalRi7R_F53x2zchNNr7fAKCZVPjW1o9hvls0TnAL4lYTWfUCGgmXXm9Q51d839BwN2CZ9QKhISvYAMVR1tITBhxM351c4Wsua2df7lHJXqLL60Ptyp056tjIrj3pjyNLhBd4QYpTF_a_5yIfJrTXtzicuJOhpRfg6jUfDjJkeFESv8uWmZOjpoQ_PtyG8IpUNnqiNR9Pv_291xIZa93Ex1-K7EnqOcuTF10wZEQ8etJH96MwPREEAEAP7e9oh_y_ecYnbxNquyCgndwwDrDRAbKVOnzA",
+      "photoAttribution": "Four Seasons Peninsula Papagayo, Costa Rica",
+      "placeId": "ChIJ4-8la0qHdY8RGP3Buof_FrE",
+      "phone": "2696 0000",
+      "address": "Liberia Guanaste 26Km al Norte del Doit, CR-G, Peninsula Papagayo, 05000, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE"
+    },
+    {
+      "name": "Andaz Peninsula Papagayo Resort, Costa Rica, by Hyatt",
+      "coord": [
+        10.641584,
+        -85.658913
+      ],
+      "desc": "Modern beachfront hotel, multiple pools, family suites, adventure activities included",
+      "longDesc": "Contemporary beachfront luxury with spacious family suites, multiple pools, and included adventure activities perfect for active families exploring Costa Rica.",
+      "gmapsUrl": "https://maps.google.com/?cid=12896236038621703876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Adventure & Active",
+        "Beach"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1217,
+      "website": "https://www.hyatt.com/andaz/en-US/liraz-andaz-peninsula-papagayo-resort-costa-rica?src=corp_lclb_google_seo_liraz&utm_source=google&utm_medium=organic&utm_campaign=lmr",
+      "photoRef": "places/ChIJQSGM1hqBdY8RxC6jlVmi-LI/photos/AcnlKN0Zmltq0c_MbqwL46H9iLr6V4eSfPsYcTtT4GD9G3PlcxSs0v3cfJYgR3Y61mVvBDtiEFWmx9d5Uo8_O4uAi8kAiKvulH4tXx1_3iNsBMC4ne87I2b_K3VTeBb8S78bXEOkVkwdfUIccOGyJzJrO3PlzKkOiVAlhi81AyA6MG3D-z2M6LXXTLu5KFGmHc2z8afN0Q3O51SS56QIx7M2r5WFOAzvqJS7g1qC9UsgCo1PqGYYgAQe2dTT9Cbi9O5mDduGc-E1quzD5uH90vpAvpVzuFd0D9M_Bfk4CnzsWlXQbg",
+      "photoAttribution": "Andaz Peninsula Papagayo Resort, Costa Rica, by Hyatt",
+      "placeId": "ChIJQSGM1hqBdY8RxC6jlVmi-LI",
+      "phone": "(800) 254-0129",
+      "address": "Peninsula Papagayo, Provincia de Guanacaste, Liberia, Costa Rica"
+    },
+    {
+      "name": "Tabacón Thermal Resort and Spa",
+      "coord": [
+        10.4916133,
+        -84.7220382
+      ],
+      "desc": "Rainforest spa resort, natural hot springs, lush gardens, adventure tours",
+      "longDesc": "Nestled in rainforest near Arenal Volcano, this resort features natural hot springs and is ideal for families seeking relaxation amid nature and adventure.",
+      "gmapsUrl": "https://maps.google.com/?cid=6569934857827547898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Wellness & Spa",
+        "Outdoor & Nature",
+        "Hidden Gem"
+      ],
+      "rating": 4.7,
+      "ratingCount": 3316,
+      "website": "http://www.tabacon.com/",
+      "photoRef": "places/ChIJb2ZqvC0JoI8R-npEtvEYLVs/photos/AcnlKN3Ds28gcX9giry8vLiqayNcNEuefyhJjUV3YBvm4UDhhT8hD0M59Zg41ghWdoxS2Di7AlnsKJfWB6aUmaA1487JpYKnpwq7MUc-bfmeEYaCdPYX0zsE3JJ8f0k6Wh_Gdx9Ptky73vHrMcJcTbc7AT9BUihwwH7v5BvoRqEDYh82k_Q3duzpy4U3-6IiTDOCJQPWSrNCQHFizaUvzgwIsTI7FyMKepXuv0tf4mFYtQ_fyow0cq6bnKX6-7nh3isPe8PlNJJfDCOMUYwypOLp3Z_qyNoVYnQQ-HuEb48IcmKfYA",
+      "photoAttribution": "Tabacón Thermal Resort & Spa",
+      "placeId": "ChIJb2ZqvC0JoI8R-npEtvEYLVs",
+      "phone": "(855) 822-2266",
+      "address": "Noreste de Centro de la Fortuna de San Carlos 13 Km, Provincia de Alajuela, Nuevo Arenal, Costa Rica"
+    },
+    {
+      "name": "Mal Pais Surf Camp",
+      "coord": [
+        9.625430399999999,
+        -85.1462696
+      ],
+      "desc": "Beachfront budget hotel, surf lessons, bohemian vibe, family bungalows",
+      "longDesc": "A laid-back beachfront property offering surf lessons and cozy family bungalows, perfect for families wanting beach life without the luxury price tag.",
+      "gmapsUrl": "https://maps.google.com/?cid=13952280172168044882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Adventure & Active",
+        "Beach",
+        "Hidden Gem"
+      ],
+      "rating": 4.5,
+      "ratingCount": 132,
+      "website": "https://malpaissurfcamp.com/",
+      "photoRef": "places/ChIJIdcctR9vn48RUmHN7OR0oME/photos/AcnlKN1d9M0m3FfQC0uIZh8_2Snk5koJ7HGqI9n5FsgCWMtEE_VFfz7T5cDGaUUKr09Be2EH9q6xCerWkQSiBWlbsKqYRxh5xoDVs7R4ZkJnNdjmUtz7T5JhaYNpvWFSeN3plDDzSGiYAp1fj6YpF-LisgkgRbygm-tpo1A4Mp7UVZy2SkQSLldy-PoKDHUGsWmwzfbuhPhQNUjOEx1xHYegbaYHeCBn0kcY6Df2BuL1LduEn9oPJfKTxHMupWvV9YtlyXIj1FWwQs7ptOjsGQHuvFzHlJ7A8oX3RdsCoNb0Pe8k7w",
+      "photoAttribution": "Mal Pais Surf Camp",
+      "placeId": "ChIJIdcctR9vn48RUmHN7OR0oME",
+      "phone": "2640 0031",
+      "address": "500 metros sur del Hotel Franks Place, de, Provincia de Puntarenas, Malpaís, 60111, Costa Rica"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "Restaurante Silvestre",
+      "coord": [
+        9.938441,
+        -84.07636049999999
+      ],
+      "desc": "Farm-to-table fine dining, innovative Costa Rican cuisine, elegant atmosphere",
+      "longDesc": "Award-winning farm-to-table restaurant showcasing innovative Costa Rican flavors with an elegant setting perfect for a special family dinner experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=6463730966511857182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1111,
+      "website": "http://www.restaurantesilvestre.com/",
+      "photoRef": "places/ChIJ-f9v3mHjoI8RHq6hVhHJs1k/photos/AcnlKN3hnWVDnVPwbzpYetG5Sea1JZys6ExUPFdm3JXbxrukgixvMnykYyApy4ZP0wz-7DcwthLlGHZbYmcuvJYY0Hkn9OisZFc2XXeq-Zmf-YNE0Ty-ZJwNMSGzhYRxppm5OPFktLbos2tUedWBqYC97jG7pxiUuRNmWN2t1hGJfQbacaqELAlPvKNgJsTSvXTl-afwZk90beGtaKEzK4pTofLTjFATfbZkKb8tzSsR2oZHhO3XIOqJLBe95yx2zjgSg1hGVYvamYpijc0ePEHi2fBr5rX1ybBuDZtJP9-8YfJxzA",
+      "photoAttribution": "Restaurante Silvestre",
+      "placeId": "ChIJ-f9v3mHjoI8RHq6hVhHJs1k",
+      "phone": "2221 2465",
+      "hours": [
+        "Monday: 12:00 – 2:45 PM, 6:00 – 9:45 PM",
+        "Tuesday: 12:00 – 2:45 PM, 6:00 – 9:45 PM",
+        "Wednesday: 12:00 – 2:45 PM, 6:00 – 9:45 PM",
+        "Thursday: 12:00 – 3:00 PM, 6:00 – 9:45 PM",
+        "Friday: 12:00 – 3:00 PM, 6:00 – 9:45 PM",
+        "Saturday: 12:00 – 2:45 PM, 6:00 – 9:45 PM",
+        "Sunday: 12:00 – 2:45 PM, 6:00 – 9:45 PM"
+      ],
+      "address": "Av. 11 955, San José, Amón, 10101, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Restaurante Grano De Oro",
+      "coord": [
+        9.9337122,
+        -84.09300689999999
+      ],
+      "desc": "Upscale Central American cuisine, colonial charm, intimate dining, wine selection",
+      "longDesc": "Intimate fine dining in a beautifully restored colonial mansion, offering Central American flavors and an excellent wine list for a memorable family meal.",
+      "gmapsUrl": "https://maps.google.com/?cid=14695369094200665985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Romantic",
+        "Good for Dinner",
+        "Reservations Recommended"
+      ],
+      "rating": 4.6,
+      "ratingCount": 733,
+      "website": "http://www.hotelgranodeoro.com/",
+      "photoRef": "places/ChIJ38Yw1VDjoI8RgacV71Rw8Ms/photos/AcnlKN1mQhWN_V-3N5rf1hh6gIEZ2jxbVa48iPQ6R0bczAaRwubdJOEMe3ZycgNi_6YgLNM1GmN0Ax90xNuRtjVC0pvEwE3ny33yd9NnVKpgFyTTojGMiu7BYAaqSvyQodtXxPqj3Nm4Sv3c2ULXsViIgEBVRu4e618Uq1GGWk-Fy9o9lQf44QOAib-UHVGWPBsKAOHKBAzbC3Vgy5Mt6YSfUocjNGyH3g8IwOLQ1g6suX-h-jNDVH1hvLhihEYvx1147SROvJFFMQNiUe-o0LzeCLHQ-9E7aYysjcF2_61hxaFxngfJ7S5h1hoUE51vZ4fKI3B3YydNHH-sKbAOS9tKBCG5OuGC_zEhKke9jVBOVSvNeWo-DCDb9RJ6TvwvpJeRAqqgh9nRsTIRQOjK8F9j6Hsvrg_hIND00a_mSG9HJ-o",
+      "photoAttribution": "Chris H",
+      "placeId": "ChIJ38Yw1VDjoI8RgacV71Rw8Ms",
+      "phone": "2255 3322",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "Calle 30, San José, San Bosco, 10101, Costa Rica"
+    },
+    {
+      "name": "Britt Café and Bakery • San José",
+      "coord": [
+        9.9276634,
+        -84.07880399999999
+      ],
+      "desc": "Premium coffee cafe, roastery tours, pastries, Costa Rican breakfast, gift shop",
+      "longDesc": "Costa Rica's famous coffee destination with cafe seating, roastery tours, and delicious pastries—a must-visit for coffee-loving families and breakfast stops.",
+      "gmapsUrl": "https://maps.google.com/?cid=16657551858205634244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Family Friendly",
+        "Good for Lunch",
+        "Sweet Treats",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4.3,
+      "ratingCount": 477,
+      "photoRef": "places/ChIJK0uygbnjoI8RxK7-1yiDK-c/photos/AcnlKN1R4oxuIpTpAMu-VQLHrJ8arhARYd3r_mSN98ONKgcIyxYUZCnYfwDRlEYMhq6yShp6M7TCvQdQ2S1pKn3Biutoc9Pv2HclLpdB0f0GyEyyCxxDEOc34pgezNm7BY8ye7fGJgd30E4ezJZpGt5HM4g3zDJk4Y_okCP5IrKoHNg8swbtlItg_3juzHayrrwiwgcJENqF7AizaaMWV9FsmfI8lWApMCMqqUloJm1l5Y6cp7j2EUWhnDqM9tFUdK0So_dIAezFIVvyclbqx0j4V03pr1t0Fbrfl_Pq0xQ0hiWaa4rQ51giDQhpBNUB2y_ghMg4Lh5IwdgHx8H8A1WXMMgg-I0zIccT-c2tUBKIUFwh4pqDlCcqpuBEixcgN_3ZOqFIwOK2lUpL7Nzt0FhsQk22sBbLWUBim-a6ivtdHyjRMw",
+      "photoAttribution": "Jose Cruise Across",
+      "placeId": "ChIJK0uygbnjoI8RxK7-1yiDK-c",
+      "phone": "2277 1777",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Clínica Bíblica, Av. 14, San José, Laberinto, 10104, Costa Rica"
+    },
+    {
+      "name": "Al Mercat",
+      "coord": [
+        9.9055461,
+        -84.0321331
+      ],
+      "desc": "Mediterranean casual dining, fresh seafood, market-inspired, family-friendly atmosphere",
+      "longDesc": "Relaxed Mediterranean restaurant with fresh, market-inspired dishes and a welcoming family atmosphere ideal for casual lunches and dinners in the city.",
+      "gmapsUrl": "https://maps.google.com/?cid=10995319884461087299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Local Delicacies",
+        "Family Friendly",
+        "Off-Hours Eats"
+      ],
+      "rating": 4.6,
+      "ratingCount": 189,
+      "photoRef": "places/ChIJI6y95n3joI8RQ5oX4S05l5g/photos/AcnlKN0c5d5ys37WqPjo0AypGjo6sUdQyNSqg7ubTDRXSBpybpN5ukPaOcnIz5KIHS__FK9cwX3w1dmCh2vzoQokYcueIR6TljY8nN0ZZ93YP6ToUOltNoe1Ezev28b3d7kB6Pf-STg0XVbQ16up89UIwUYodZjVfMzmvtKpxD_1m2kISnnOS1_o_pMP5Scgi6WtxElgOk_BkFobzkpye25lz-pTiWYrqzEkgomOcadVQxBMNls69wtixz8iSgzXTuuLwVaAbLEtmPQKL-uo2BEhBXi9CUWs5lRqmIinjkPjsS91XwU4lDieS49oiKVk6EJRCYAjeTu6ChTen8J7n-dkzc0Fa0_E5cuhvka0poio6Ev1w2oifFvhEO170MiHT-_BZ7LmdwfQ8C95QDz1ddGcf1-u6XyG_EN2tCDmoC_SI6QP0w",
+      "photoAttribution": "Folco De Rentiis",
+      "placeId": "ChIJI6y95n3joI8RQ5oX4S05l5g",
+      "address": "Tirrases, Curridabat. Del Pali 50 este, 250 norte Porton de malla, San José, 11801, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Organico Fortuna",
+      "coord": [
+        10.4722043,
+        -84.64366179999999
+      ],
+      "desc": "Farm-to-table organic cafe with fresh juices and family-friendly garden seating",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15694402195681003215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 919,
+      "website": "https://organicofortuna.com/",
+      "photoRef": "places/ChIJSaS2uIgMoI8Rz0at-6S3zdk/photos/AcnlKN0XvF73CkilKl3TzEAOjglYllemiiJNlPKg48AeCJu1-Z5HnFExbNnX3v_W3Glx11cKmT19rul9jcaEm4urcrZnl65gEz3q0vucPB5iaAaHkqipLm4vv0EAK1mQsZXAObsphGs_aVtgyQ4a6ysedo-8y-lobMJre0asviLzjfs5ruNRmtRYrKmR5nXSdCCrTzsLDEreSCSRzdyNRlYYbcBBi3toUFfdeqt-MZfflugM7KN7JmmO2XnfLavwGa_LHkK4kk6uJXM9Cq0N71MY-H4zDXl_REGTj-aqGmuCWXEecw",
+      "photoAttribution": "Organico Fortuna",
+      "placeId": "ChIJSaS2uIgMoI8Rz0at-6S3zdk",
+      "phone": "8572 2115",
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "address": "East From Parque, 100 Meters, Provincia de Alajuela, La Fortuna, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Tucanes Restaurant",
+      "coord": [
+        10.491163,
+        -84.72321579999999
+      ],
+      "desc": "On-site restaurant at Tabacón with Costa Rican cuisine and volcano views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=8775394152341222258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 118,
+      "photoRef": "places/ChIJY8be0C0JoI8RcrNWznx2yHk/photos/AcnlKN0rA0MJwKrH4YbQzpazXRS7ay1SOPxcf9L0yUNlQZMdPh8s7Qvf0X3PfczdoVZIktDKeZYRfr-urAbOCHm3pBVm5Cdr_4Q3FVp-Fv9ju46MuP0RHurqDqeocrA2iBLib_xhUYaimbxfrhegWNh2t34IxfQxODhB4ZwQKSAid1289KebXb8ZHK8eLz6iM1OhVQ58rQxwp7FUci-jZKlcqxPpU1nx75mexBdSCh9RXDYemftfr9jnyQZJXKJ3YAPr2vlZbDKxYSUNawjER-3HNSyzCynSbU9JR8eGVox5VfXaiTjkLqzwADQ271-YcX2c3xpdJO34kACjBZZr7f5uY81_hIrm3MYgHBA_RTrgRso0VklLH0r2zGQisl0vwoLrhvp8ophachad7INNAwXun6OCMsUB4u7hKCcaAUVnZUB9Fw",
+      "photoAttribution": "Jill Gagnon",
+      "placeId": "ChIJY8be0C0JoI8RcrNWznx2yHk",
+      "phone": "2479 2000",
+      "hours": [
+        "Monday: 6:00 – 10:00 PM",
+        "Tuesday: 6:00 – 10:00 PM",
+        "Wednesday: 6:00 – 10:00 PM",
+        "Thursday: 6:00 – 10:00 PM",
+        "Friday: 6:00 – 10:00 PM",
+        "Saturday: 6:00 – 10:00 PM",
+        "Sunday: 6:00 – 10:00 PM"
+      ],
+      "address": "Noreste de Centro de la Fortuna de San Carlos 13 Km, Provincia de Alajuela, Nuevo Arenal, Costa Rica"
+    },
+    {
+      "name": "Don Rufino",
+      "coord": [
+        10.471396,
+        -84.64351200000002
+      ],
+      "desc": "Upscale steakhouse in La Fortuna with fire-grilled meats and local wines",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13760240328797013409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge",
+        "Local Delicacies"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1831,
+      "website": "http://www.donrufino.com/",
+      "photoRef": "places/ChIJmVCB_4gMoI8RoUXzlawx9r4/photos/AcnlKN2-er9G9ygOPxiwZ04NN9O0EEeFsWhdEPyIA_hN4_-pe_l2XrIhVX6SI-em7ypR8Iv_Gwlkl83VRpmJPJBt6lxWSCz21dgDPXaSfqojlSARnPFeiBuaTEa-WudmdsuoUz5aSpfl8k6K3US8xlT6et1l6SSUfWJnyWAJ1LrW5Dn4iMS66PYK_I4VVTxZBp0JxJyoTbO7Tregr_eflsdAaicO17SF5h-9KBzoVAeF9Bq34TEKp0q6WkS4On5vsc10mCgL5t7u6LmWZthGb1Z64qBJyWnwrMmowOmhDFSpsaWYkw",
+      "photoAttribution": "Don Rufino",
+      "placeId": "ChIJmVCB_4gMoI8RoUXzlawx9r4",
+      "phone": "8466 4288",
+      "hours": [
+        "Monday: 12:00 – 9:30 PM",
+        "Tuesday: 12:00 – 9:30 PM",
+        "Wednesday: 12:00 – 9:30 PM",
+        "Thursday: 12:00 – 9:30 PM",
+        "Friday: 12:00 – 9:30 PM",
+        "Saturday: 12:00 – 9:30 PM",
+        "Sunday: 12:00 – 9:30 PM"
+      ],
+      "address": "142 94, Provincia de Alajuela, La Fortuna, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Pizzería e Ristorante Tramonti",
+      "coord": [
+        10.3104547,
+        -84.81173419999999
+      ],
+      "desc": "Italian trattoria in Monteverde with wood-fired pizza and pasta, family-friendly",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15516653103729159474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Dinner",
+        "Budget Friendly"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1028,
+      "website": "http://www.tramonticr.com",
+      "photoRef": "places/ChIJNwH7joAZoI8RMi29fsk5Vtc/photos/AcnlKN0CsCmRoaFfxI0CqaQq2parrJmdcmTfbWVzzef1ekncWn_rJqvPlB7KAr1KskoIlvf3eod1Sl1Zz-N84NbQOo2bcjHzzK74PfpE9jKlPSgf4X18xqtTwBMwTCVskAcREGiejCs3Uc8DDh_O7mem5BfgaJKLLCRuc7bpTB0nJSb08P5w-mpcZL_U4SBfewXmikediDgP5BhZgdfzl3hz9tgHgDMP_AdI35I0uI4duxEC7y1oMzikB7hPeSuO3JHq-gWZpMcVPS097cF1Ocu9gw4mNtXMgQO0LlLo5coqOoIhkonTpcDcSN_e-hB_sFCKgvWHOqg8stGP-aRkn9fNpytIkLbBgsk3tokEU4IGkLyq8KxYLovzk-xalFEe9t9vCEkH5L0I6yI2SM9EnIJpPERtAPKUpnecu2x8YGN-OK2JZJYE",
+      "photoAttribution": "Dalberth Corrales",
+      "placeId": "ChIJNwH7joAZoI8RMi29fsk5Vtc",
+      "phone": "2645 6120",
+      "hours": [
+        "Monday: 12:00 – 3:00 PM, 4:30 – 9:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 3:00 PM, 4:30 – 9:00 PM",
+        "Friday: 12:00 – 3:00 PM, 4:30 – 9:00 PM",
+        "Saturday: 12:00 – 3:00 PM, 4:30 – 9:00 PM",
+        "Sunday: 12:00 – 3:00 PM, 4:30 – 9:00 PM"
+      ],
+      "address": "C. La Cascada, Provincia de Puntarenas, Monteverde, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Bahia",
+      "coord": [
+        10.6116234,
+        -85.688401
+      ],
+      "desc": "On-site Mediterranean restaurant at Four Seasons with ocean views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6073511983223128696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 12,
+      "website": "https://www.fourseasons.com/costarica/dining/restaurants/bahia/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-cos-fab-mid-seo-na&utm_content=na-na&utm_term=na",
+      "photoRef": "places/ChIJxzOVKiqCdY8ReMIXS_hySVQ/photos/AcnlKN03RQZonQyHmwzeBWVvK6V6tDFSDT2GwAqBHLJPHXVp3EUzVTLdXwDXkVx3SKQYETZJLICSPjb51X6qL3kj2udaZCu0MSrN0_spWz8zDWmXv5Mt5IV3AE3jJAeho0wYkcJaLHGVADHtBoBS62xTiPoh5-fnB3IkfdStSw4AUVogazN9JN45xAIJcZ9MuNtBET5X_yqa9HKNQZvctaTPRnLaOnaiQ3a_4T34JHu1zs8pRFmT1UVr34nIu3KlX5SXB-e17rYH3_Rfdlp_MufX_6_VA5xwLzh8n6fP1n7pqhp6fA",
+      "photoAttribution": "Bahia",
+      "placeId": "ChIJxzOVKiqCdY8ReMIXS_hySVQ",
+      "phone": "2696 0354",
+      "hours": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 10:00 PM",
+        "Saturday: 6:00 AM – 10:00 PM",
+        "Sunday: 6:00 AM – 10:00 PM"
+      ],
+      "address": "Liberia Guanaste 26Km al Norte del Doit, CR-G, Peninsula Papagayo, 05000, Costa Rica"
+    },
+    {
+      "name": "Ginger Restaurant Bar",
+      "coord": [
+        10.5752712,
+        -85.6726351
+      ],
+      "desc": "Beachfront restaurant at Playa Hermosa with fresh seafood and tapas",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1114146942324250609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Beach"
+      ],
+      "rating": 4.5,
+      "ratingCount": 750,
+      "website": "https://www.gingercostarica.com/",
+      "photoRef": "places/ChIJU7b87xAqno8R8RfTtL0-dg8/photos/AcnlKN0der9_mrcFvyJd3K5ulo3Skj60pRuKZplo-1ikcajAoHJwIw0_XnvLRvHQB8NDMIXZYZAlqcXIrmpfvJFPBEtkhGqzkIzftwV12pfFErvM3kIM8y8hlNAPfFIDGwJT-kCH2T72FDJhNrWq57vfwcPK3NPMZAZw15O1vBVxrDBpuhO6RdUUgJDFQFirbb0Gp4XNeBdtE-6RbF4n3BUf82YIRPPCUx7B1648tmV0HRoa4hFeEsz4uLVtWo28zhWpkRSTb8X9pR37ZurVBlRBE9aFT7R4Js0K5bs18U_OFhNdJXwzp0NyJoIL77WFSFOYfPOWULp-W7QobDATnDxyeh2U23s5ntjUCbDGvJYmjedFiG4MRs8MBWjjwvpsa0EElom7pqT5D1vQ0LNAphFG9la_Ld42HMOqp0iSMloODgRdYn9P",
+      "photoAttribution": "Jarrett Baston",
+      "placeId": "ChIJU7b87xAqno8R8RfTtL0-dg8",
+      "phone": "2672 0041",
+      "hours": [
+        "Monday: 5:00 – 10:00 PM",
+        "Tuesday: 5:00 – 10:00 PM",
+        "Wednesday: 5:00 – 10:00 PM",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 5:00 – 10:00 PM",
+        "Sunday: 5:00 – 10:00 PM"
+      ],
+      "address": "Calle Principal - Main Street 159, Guanacaste Province, Playa Hermosa, 50503, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Makoko",
+      "coord": [
+        10.589374,
+        -85.65063339999999
+      ],
+      "desc": "Pan-Asian fusion restaurant at Andaz resort with family-friendly menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7234407974359592173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Family Friendly",
+        "Good for Dinner",
+        "Budget Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 31,
+      "website": "https://elmangroove.net/es/attraction/restaurantes-y-bares/",
+      "photoRef": "places/ChIJKT9lU-KBdY8R7ez0H7nHZWQ/photos/AcnlKN0bFG0nK3N255UCC7CayIOdAU65fuQ7aep2qs2jRd4FHBzFpoNt9GgMI9bdn6houLMxwTTpP9QFBtaMDiH894lq4qiT088PWBMJuC55ykgYhmsHiFGDS4sCs8XTr23SKLqk0L_wCfhvfBfeQVrpyxT80DqzflUHitUlo0w8OLmS9db4DRPhcSTHMcAp8y08M4CnzfpIsdzYwugVY9O3dMzG3mLgmkSd19ZlZdU5WMhJno7KwHh_cCdlX5or_R4InxjGTGe2PklGDRAUBaTPB8MuWYTMvxlzUnInOviV8CAY-A",
+      "photoAttribution": "Makoko",
+      "placeId": "ChIJKT9lU-KBdY8R7ez0H7nHZWQ",
+      "phone": "2105 7575",
+      "hours": [
+        "Monday: 6:30 AM – 12:00 AM",
+        "Tuesday: 6:30 AM – 12:00 AM",
+        "Wednesday: 6:30 AM – 12:00 AM",
+        "Thursday: 6:30 AM – 12:00 AM",
+        "Friday: 6:30 AM – 12:00 PM, 6:00 – 9:30 PM",
+        "Saturday: 6:30 AM – 12:00 PM, 6:00 – 9:30 PM",
+        "Sunday: 6:30 AM – 12:00 AM"
+      ],
+      "address": "Playa Panama Golfo de papagayo, Provincia de Guanacaste, Sardinal de Carrillo, 50503, Costa Rica"
+    },
+    {
+      "name": "El Avion",
+      "coord": [
+        9.402160499999999,
+        -84.1532192
+      ],
+      "desc": "Iconic restaurant built around vintage airplane with ocean views and fresh seafood",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5080602905822361230&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Iconic / Must-See",
+        "Photography Worthy"
+      ],
+      "rating": 4.4,
+      "ratingCount": 5607,
+      "website": "http://elavion.net/",
+      "photoRef": "places/ChIJnXnuWHtxoY8RjvZbtmztgUY/photos/AcnlKN1y4WXcTyJkmwgv_UqEp9oIIh0dxWIXEyMrAk0EBgWpyCLQon2bbrSJoOiJo_tMcrzcuhCkBBbTK2MDYMnNH28hSNzuq7GOLcpL2cvAVfF9O03kW69sTfNRRk5qnB66RiVGYMO4gvUJG-vGq2mT6xeOr4rD2TREFixZh1Zpf4L95pcyFhurnC8Pwi0FpN6uQtuIDeOhX09a9IhkEUuM_zCfZ-tWDRLsPqwRY3wNpZ_UlTf2C2gDQcWhu0udWB8Uecm75McHRmE2eSv1b-kCe6CqecuNV2LFKdVD-uU0AkDVoqxO-bXo79s-imPHKziuPaLYnr3nDbmu6WROhD6lHuzg7A1zJ8dCiw76IHKFVsYX1aTXkB4FTefo9n5Pd0V0WRntrMpNkOFWj1FUM7ZSp4C0rw0HjYu32ClY__qowx5WzfCj8fo39S1-G9FOPw9N",
+      "photoAttribution": "Gary Cagle",
+      "placeId": "ChIJnXnuWHtxoY8RjvZbtmztgUY",
+      "phone": "2777 3378",
+      "hours": [
+        "Monday: 6:30 AM – 10:00 PM",
+        "Tuesday: 6:30 AM – 10:00 PM",
+        "Wednesday: 6:30 AM – 10:00 PM",
+        "Thursday: 6:30 AM – 10:00 PM",
+        "Friday: 6:30 AM – 10:00 PM",
+        "Saturday: 6:30 AM – 10:00 PM",
+        "Sunday: 6:30 AM – 10:00 PM"
+      ],
+      "address": "Puntarenas Province, Aguirre, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Parque Nacional Volcán Arenal",
+      "coord": [
+        10.461213599999999,
+        -84.72814869999999
+      ],
+      "desc": "Active volcano, hiking trails, lava formations, scenic viewpoints, visitor center",
+      "longDesc": "Costa Rica's iconic active volcano with accessible trails and stunning viewpoints, offering families an unforgettable experience of volcanic landscape and nature.",
+      "gmapsUrl": "https://maps.google.com/?cid=1180744399635480271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.6,
+      "ratingCount": 7277,
+      "website": "http://www.sinac.go.cr/ES/ac/ACAHN/pnva/Paginas/default.aspx",
+      "photoRef": "places/ChIJERG1K5YOoI8Rz_7NjsbYYhA/photos/AcnlKN0SDBji2QqHw1fDT2shN9Bgyn4Tw6WPs1GqX1WPT6zxMF6RbCYka-ll7RJMath1CIQQGR4t_N04-QKr9gFuugTnyxNk2nlmrGXqR_4U53OWpNzncNuHyYZ0Ke4oDhu4Nmf1fJaeeR7LIQ4mKOiWobbXEIZiiIQb0WXqXgCCtpMiunftsHifSkQ17pJSjGnZ7Rv7aeotES0PT5zMacMzKHSwUlUMdQOrP8GP2UTAs8O-qETHSg5x30IMHptx72IHLosv89FT-gqymVFBQgC0PCsIdLhkWMXCnXgDH5At8mNxSW4eQV4NAmncOh6oodP4xfce4V6-Ga3Glv7iZFggNsdS76-XBO-2arU90qs3cDdGSBJENz4OqNXBDf375K32BI_YULHM58YsI7g46rPkvqN2q5y3k0IuBFeUb-gGKBn-oA",
+      "photoAttribution": "Patricia Rodriguez",
+      "placeId": "ChIJERG1K5YOoI8Rz_7NjsbYYhA",
+      "phone": "2200 4192",
+      "hours": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ],
+      "address": "F76C+FPQ, Alajuela Province, El Castillo, La Fortuna, Costa Rica"
+    },
+    {
+      "name": "National Museum of Costa Rica",
+      "coord": [
+        9.9329022,
+        -84.0718086
+      ],
+      "desc": "National museum, pre-Columbian artifacts, colonial history, interactive exhibits",
+      "longDesc": "Costa Rica's premier museum housed in a historic fortress, featuring fascinating pre-Columbian artifacts and interactive exhibits that engage visitors of all ages.",
+      "gmapsUrl": "https://maps.google.com/?cid=6361046005697024311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 8628,
+      "website": "https://www.museocostarica.go.cr/",
+      "photoRef": "places/ChIJPRkhmGTjoI8RNxF90aP5Rlg/photos/AcnlKN2KnHuO35K_PY-6Q7is2kt_1AQuydyN0VU59HEDgjhJPG5JXN-K7pUmHcUVLwGBIq464O7ghuURq8LK2kD0Uy-42dnJbv0pid2MWqH_KVyKALTG-gUULvNfK8M3DVJPLspBptOCkhMyHqECza27LagX8s3o9rOhKD6uJd_NA3oAgFrFnaluQj0kEhk9K_HG19VjA81YriU4hnwXGLdQbkKssrte4OEJ6ilCZh33X0u_54WMA57PbrL-NzqZvtK5QaSqAFEa8o454OGV0VX8pHun55AYjn-iU5gMAl_3nXiCEA",
+      "photoAttribution": "Museo Nacional de Costa Rica",
+      "placeId": "ChIJPRkhmGTjoI8RNxF90aP5Rlg",
+      "phone": "2211 5700",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: 8:30 AM – 4:30 PM",
+        "Sunday: 9:00 AM – 4:30 PM"
+      ],
+      "address": "Cuesta de Moras, Av. Central, San José, Bella Vista, 10101, Costa Rica"
+    },
+    {
+      "name": "Monteverde Cloud Forest Biological Preserve",
+      "coord": [
+        10.2989417,
+        -84.7681559
+      ],
+      "desc": "Misty cloud forest, hanging bridges, quetzal bird watching, nature trails",
+      "longDesc": "Spectacular cloud forest with suspended bridges offering magical canopy walks and exceptional wildlife viewing—a breathtaking natural wonder for the whole family.",
+      "gmapsUrl": "https://maps.google.com/?cid=12623511585485868646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Full-Day Activity",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 5710,
+      "website": "https://cloudforestmonteverde.com/",
+      "photoRef": "places/ChIJzxHsVYcZoI8RZs7pnue4L68/photos/AcnlKN1Q-ERB6FhJVJO-dWHmVkDqqC2-b0oMu2gMzT3kUOaGyUytkn2Syl72zc2bUdV6IukoK0CAmgjPTHHo4PqycHUAFGfcV5oQGHhcQS9BH20SpPh-RJEBwmoXkian0jB7lX1tjiuZFOCGaUWy-toslwajouHroKHQQXqdhGEhH8rEHzqwFKiykuuZ8iYShLVZB71QfjzKXUr5GqPmu-aryGgeh65PBe2Py_frr-RKc37IOkmnab4eR9L8Tfl4UO4oCXVmnHZIRZ9B7lCtH2v_RK-klMb6Z3InvEdLyz7AHc_0STL-ULf5HbOzvxnRObA9ZXAUc5EVq9Jor_iVq40nqSjpQWv3zTmd1c7fs1pdY-hGsZTJIt3fhNxb5_9K4jyfsZnRsnObjfCDCjinPT5zOUHL9jQnJUZTv_aQ20XsCm4",
+      "photoAttribution": "Tiffany Vera",
+      "placeId": "ChIJzxHsVYcZoI8RZs7pnue4L68",
+      "phone": "2645 5122",
+      "hours": [
+        "Monday: 7:00 AM – 4:00 PM",
+        "Tuesday: 7:00 AM – 4:00 PM",
+        "Wednesday: 7:00 AM – 4:00 PM",
+        "Thursday: 7:00 AM – 4:00 PM",
+        "Friday: 7:00 AM – 4:00 PM",
+        "Saturday: 7:00 AM – 4:00 PM",
+        "Sunday: 7:00 AM – 4:00 PM"
+      ],
+      "address": "Puntarenas Province, Monteverde, Costa Rica"
+    },
+    {
+      "name": "Manuel Antonio Beach",
+      "coord": [
+        9.381300800000002,
+        -84.14509079999999
+      ],
+      "desc": "Coastal park, white sand beaches, hiking, monkeys, sloths, tropical wildlife",
+      "longDesc": "Stunning Pacific coastal park combining pristine beaches with rainforest trails, abundant wildlife including monkeys and sloths, perfect for adventurous families.",
+      "gmapsUrl": "https://maps.google.com/?cid=6859462231791396976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Full-Day Activity",
+        "Beach"
+      ],
+      "rating": 4.6,
+      "ratingCount": 1082,
+      "photoRef": "places/ChIJFdVKFgpxoY8RcGgijI60MV8/photos/AcnlKN1qsc4HmvkKECycsw2hy_AyGA8eAb1TfXas9SL_R3-gZimP354j3Y7AhOIcDk0klLZ26VdJ_ycVNmGyWj1yqYbTXs63fOrLibpOuxN3CfG3ezFt_CurZC_3yPMIjx8XLyfZsivKabkfGG5hq5nsN2Lc33i35k5A0JZsJKnMP5ebCYOUGkO_DnBlWaNWl1escA9eFtNO97q9fX1jgrEFOFnbHwjS9SpKD5oB5Sz29ldrCyYfPYcf6XJ_aCQVy6yYSogl7pZrGVVaL3-hkRBmXgdZ_uIfCFmxx5nl9_cUHbH4hQFzmoHdG4nmkwilOZ0Fcg_svzFXdtRQOBrXafEnr06D6GtA4TdU3dP2FUQ8suabn289TOsTDMN7J8MbKJ7aT_O7vyktnSYQ-cN137nvyO3yaqu9eYzf7rydaTNjMjsVYQ",
+      "photoAttribution": "Joel Dario Sanchez Junior",
+      "placeId": "ChIJFdVKFgpxoY8RcGgijI60MV8",
+      "address": "Manuel Antonio Beach, Puntarenas Province, Quepos, Costa Rica"
+    },
+    {
+      "name": "Playa Nacascolo",
+      "coord": [
+        10.6275767,
+        -85.6755742
+      ],
+      "desc": "Secluded beach within Papagayo Peninsula with calm waters ideal for families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=148187199436411642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Scenic Views",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.7,
+      "ratingCount": 1178,
+      "website": "http://fb.com/visualpacific",
+      "photoRef": "places/ChIJj4-07NCAdY8R-tKqBnl3DgI/photos/AcnlKN0eadIrxJ3cu7DYyOB-2t6ZPZMVuKew1i3u7AHpxjcO3nMsFt-pB9TXakvgljFstO6IBIyq1Y-W6hSaVk735KUchWHxYIBfkysueC6S8teWGC4vBFLoswQzFm5CF3U3cnJX-EtzQuiZqJxCIS8O9pEFhYxpSiGmre4A_dC6kLs5VhoVPOIMJh8o0JgibFgn_BWTUcbsidV9Tg6rgvHuVkm-gMwWCFf7A01YCCUuMIVaOmlmqhnJfr5IifS50ymmwUrFaa32fZ3WgG8fia0lx-WgZSqLjGgtSIQX6jbjRZla7m6JL5wYBaPUPdQfIiFVuC7rxfMI0XJIbp4W5vKmu9mJyJohvd0I7m-3DMaUR6iNFzqElf2zErpsVWHRR41N3Z_yCOCvpThyOLevyM-tmO74_bvhPE_M0BOcItZxpsR_slxH",
+      "photoAttribution": "Enoc Palma",
+      "placeId": "ChIJj4-07NCAdY8R-tKqBnl3DgI",
+      "hours": [
+        "Monday: 9:00 AM – 5:15 PM",
+        "Tuesday: 9:00 AM – 4:45 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:45 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:15 PM",
+        "Saturday: 9:00 AM – 3:45 PM",
+        "Sunday: 9:00 AM – 2:30 PM"
+      ],
+      "address": "Playa Nacascolo, Guanacaste Province, Liberia, Costa Rica"
+    },
+    {
+      "name": "Danta Beach",
+      "coord": [
+        10.480220300000001,
+        -85.7863656
+      ],
+      "desc": "Protected beach with shallow reefs ideal for snorkeling and marine life viewing",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=13605008004727472453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "rating": 4.6,
+      "ratingCount": 552,
+      "photoRef": "places/ChIJOYiqoeolno8RRYEgqLKyzrw/photos/AcnlKN0ADTG1L95ZJmiJJHR067YIgvlXb_qKB4w54VKbW3GpWJly3nGVjlHEhg6qBCZgbAMp2R2lBHllatUlcPtDU88U82dVdjb6OXGfAuf7g0La8Jn-VJmCfkXlOvS63HPtszbo78j_hShifXuf5HQKDpNtZsGLHT3e0AFjk_bK7RyMhwwjObaHGRWxugwy8LHDBljQ-6bK0cJKGg7i-esih-4xpfW_hGzhpWnrOc3u2FtmmJMY5V463Fs7j6BNeYtAm-d3VhHbf8v_Nko9UjXam_TUnPEVJiBwP5lglnIPKzuCjaI4kxvYRbMbjPavgknJJ12Z2koSVpyO1S0GGiKT35g_7Ke93zhCvPBRQlm0Pk9u9vEs0-kwYfzVUZJnpCuzedpVVV0IcDUZdlNsCcQC_YQVVooVTFHZmrjqdteb9s0",
+      "photoAttribution": "Michelle Cascante",
+      "placeId": "ChIJOYiqoeolno8RRYEgqLKyzrw",
+      "address": "Danta Beach, Guanacaste Province, Costa Rica"
+    },
+    {
+      "name": "Dive Bar, Peninsula Papagayo, Costa Rica",
+      "coord": [
+        10.6422694,
+        -85.6532496
+      ],
+      "desc": "Casual poolside restaurant at Andaz Peninsula Papagayo",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9638229751841512212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Beach"
+      ],
+      "rating": 4.5,
+      "ratingCount": 267,
+      "website": "https://clubmembers.peninsulapapagayo.com/files/DiveBar%20Menu-2-2.pdf",
+      "photoRef": "places/ChIJEVwGzwSBdY8RFFsdzuTewYU/photos/AcnlKN1PgQZAKEYFisDwpIiY9SBSnUWxMPzZzEI0jIcidL5CtBoozYd6nm-tOxrqujm6ZK_tYeWZVxS1l6GpAMzWS2W9CvX7iGgqbsiSye6wRKl_rLdfK7pzyJzrMBawXTO6_faWgi5VSduVvCimlZDnf6AGCpSbkf4KIlhAf-IZasZgMJTo9x203WNS-QZeTK7n4XSddv5XMm1ppvU_P97yjcZgwWG86mPJiq6l3Szk7rhGgEGhRQqIMVwSXP7csccOTUL3Dn8NtlPkSBlZuSpAIIctEjXvPf8JLO-OGmPFnKarfml2Pe0cL9Kp-l_5OJmrgdYPn2X9CDPpyokLpA5NWxJxIHtweEpiCZ91Gbkz2MQ9tXh85gSkdGg14rUZdw-ls8seGvrjvt2VbIYzJZw-KTRacSHCeqbcKq2GGtBN75g0zw",
+      "photoAttribution": "Ted Eckman",
+      "placeId": "ChIJEVwGzwSBdY8RFFsdzuTewYU",
+      "phone": "2696 2311",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "J8RW+WP2, Andaz Rd, Guanacaste Province, Liberia, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Espadilla Beach",
+      "coord": [
+        9.3942137,
+        -84.1542307
+      ],
+      "desc": "Long public beach adjacent to Manuel Antonio National Park, excellent for wildlife viewing",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=16897868140697366247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "rating": 4.4,
+      "ratingCount": 596,
+      "photoRef": "places/ChIJnQcnF25xoY8R5y6ok4tJgeo/photos/AcnlKN3K_AYjeJ8M-laGNzU2Y-i9JREVNQW4D5NS__0u5PYGlrjhpKPvHWla15azL_bOHFoKzBMp4_mjJsgl-Suw8n3zlZvZXDw-alL9pdCMgdmpW1wKiLoQx_mUgj9J3AFsUixVRRi2i3_yBmvuvGljdRl1xoBCiVU8I0l4NXR10QYz6lPO_om00P85FmM-Oo8b691A9oKaJ0yQeW0TZUglzvJl38e2Wqic40yRp78aE8TCuNnqhtEzbtwZzA1SdFfrcEL-LK21bY6DvAgfiyuI1BPPp8pWupG-6vWgboAyXnhH4TJXk9E11HkM_mZfLTA9i-t6qZL2c8u2iTU-ZuSCPmuH3V2_z5QEas3MCg7e_L_sLEJlEGjT9P1rsQTPJT5l0lXzh8posEAVA7TkyuIu3cxXZgQ8ti6NS6p0tRf5aI0",
+      "photoAttribution": "Neri Paniagua, SDB.",
+      "placeId": "ChIJnQcnF25xoY8R5y6ok4tJgeo",
+      "address": "Espadilla Beach, Puntarenas Province, Quepos, Costa Rica"
+    },
+    {
+      "name": "Playa Panama",
+      "coord": [
+        10.5916459,
+        -85.6503797
+      ],
+      "desc": "Wide sandy beach with calm waters in Gulf of Papagayo, ideal for families",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1208213391404669958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Scenic Views",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.6,
+      "ratingCount": 520,
+      "photoRef": "places/ChIJF9u18IKAdY8RBpyLl61vxBA/photos/AcnlKN2c3QO1jjLI3YvJkIGbbXxLbpxh_6jOKzYFruWyO0KbPw6P-xeIlYcQbPYeV5O2f77ZrPXleADvjOMSKl_M1NEFn8mCpVaKr1tK_nb3iWjy3Ng4LtyFHH-MwFsxUz9xYUcI7Qmqww6sN-IS1vX_gA1SSqUdl2Lw_kK2vXSSixkNqFG1HvhzrZcR2xkhAkoJbzp9ymz-Wa93F96nPiUjgd-qjzNCtUjmWOAJCX09UZeYccgXCg29r9L6Gli43jfgsPWD7R3JnKgcZegGWyfwW542l6TBvHCAL6DMMWX4Y-AlEP9vaPPksWQyXqIInXF9PcXxCwuR1TlpmzYpZQp1yFALohnbvBcJO3QIbuHnTOAzbssG82xoWjaQpQZ2q-rYi9PA3doRtR2nHV1IJpEEK991wvAAV6DQMeD6i54rrA_RpHAI",
+      "photoAttribution": "Javier Gilardini",
+      "placeId": "ChIJF9u18IKAdY8RBpyLl61vxBA",
+      "address": "Playa Panama, Guanacaste Province, Costa Rica"
+    },
+    {
+      "name": "Playa Virador",
+      "coord": [
+        10.612185000000002,
+        -85.68911539999999
+      ],
+      "desc": "Protected cove beach with shallow, calm waters perfect for toddlers",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1772181912953720162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature"
+      ],
+      "rating": 4.7,
+      "ratingCount": 556,
+      "photoRef": "places/ChIJr-BvBUqHdY8RYo36dg8OmBg/photos/AcnlKN1uOI-xYhTllgQ1yRIMEldYdUDYlqSZJK9RFHYLUt0NIVQS1q76KV9np9_t1mq2Qec_xwlVC-fpsfdAptk6SEHfd06CCtwF2RWpciK6KEjMXIYQ0H0K_5jqtPsz04B4SF3lZ8EUEMMCChfXhGtDmRGbrnkziJIYEi8WdsNWWJ0KTPtzrhcdrx90FGTFBVU8wu1S0u_F8b45iYumXiL35SPiuDCQ3Fd4CDr230j0gUNuV4_ay36dIAbcl7av7SCbxz2vN6y6jcaKvj7iiiE7rofnC3K7-PSzA0YKZiIEMS6wHTa-ZriKvlXrXU7RIEULMEHfKrjSFfgaxWfPppo8aL6Q3eqGHkr64OhSq_mG-7RBkd-Y0yvZwHrJeg0AMBQ3cbJiaKYNb_tqaWtk6m0xuNlRvTfx6RFjD6MEIJKpITBU0nw",
+      "photoAttribution": "Cris",
+      "placeId": "ChIJr-BvBUqHdY8RYo36dg8OmBg",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "J866+V9C, Provincia de Guanacaste, Liberia, Costa Rica"
+    },
+    {
+      "name": "Olas at Prieta Beach Club",
+      "coord": [
+        10.6203092,
+        -85.6843388
+      ],
+      "desc": "Fine dining restaurant at Andaz Peninsula Papagayo with Pacific views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=6122963572220707344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge",
+        "Scenic Views"
+      ],
+      "rating": 4.9,
+      "ratingCount": 31,
+      "website": "https://andazpuravida.com/dining-2/ostra/",
+      "photoRef": "places/ChIJCRcBzcyAdY8REELflu0i-VQ/photos/AcnlKN2aJlLVH78cdwmP5q1XZK3yGzcYg8tqSjs29rDVfPDDlT6szHLmgAsZhAWY4h0EwSmPwSllxmn4mZwcPlr9FakJuIrldwGcTPV2U6jDG2D8wdXfYd3-_EL7jCwFBcB2XkFzErlaU_qegXixzTZ4EstoMox_k7bV-Jpsy_lVCzvqV442ap5MrqgokCTm4TGH2Eqd9wcJmeW80eMKSD9oRW-oeyOVjLL0XTHXE7-ZBHUHljytfK6pzkoUMZZQ66VNNw1EmUh4j60MdsPIFXSXExAHR1h0bJryLfqc5LWyOmYeKvQTXKptzSmSzuF_i6YOVP0Uv1s8A0Nfwc-f8aBAF1dGDVezInScYrLXtuGzTXDZuBx97kJFQzZYkxad3YjHHT1wwFeLCsaRwrN9MQMq1lKKNYlulRit8SPLeSQ_hyL07PsT",
+      "photoAttribution": "adonis perez carranza",
+      "placeId": "ChIJCRcBzcyAdY8REELflu0i-VQ",
+      "phone": "2696 2126",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "address": "Peninsula Papagayo, Next to Four Seasons, 50105, Guanacaste Province, Liberia, Costa Rica"
+    },
+    {
+      "name": "Pacífico Beach Club",
+      "coord": [
+        10.5588923,
+        -85.6910597
+      ],
+      "desc": "Beachfront seafood restaurant in nearby Playa del Coco",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=647477171383967361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Beach",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 474,
+      "website": "http://www.pacifico-costarica.com/",
+      "photoRef": "places/ChIJuYTNPI8pno8RgR6EkA5N_Ag/photos/AcnlKN2-WtgLvPMgV5cQBakOvnyNnn_8mPleneb9fOaGl8QxD-icMQLxgvhng-HoPoA62M3GnKZFjSlQpE6W05xalL2EASgnu17pzY3aSMalb2wfxN8O9PcU24hexWEOstdCkkMnoe95BJOZDQvjt4cYeaHfIN31dGs1oDJWTgNPcXLqzYpJszoGgMRbJPQYeNe4flWaRl-onfrMZ8HpDLREExIWW3UufXUOpCyz_y4HzhqI_LslwpIeSX_ST5pq8CQyY4jwbejN4lTZ_VdNLOn-U_T2IXYpp7-padVao2BDzu2wzA",
+      "photoAttribution": "Pacífico Beach Club",
+      "placeId": "ChIJuYTNPI8pno8RgR6EkA5N_Ag",
+      "phone": "2670 2217",
+      "hours": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "address": "Playas del, La Chorrera, Provincia de Guanacaste, Coco, 50503, Costa Rica",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Sky Adventures",
+      "coord": [
+        10.425557099999999,
+        -84.7355444
+      ],
+      "desc": "Interactive kids activity center, water park, adventure games, educational fun",
+      "longDesc": "Engaging amusement center with water park attractions and interactive activities designed to entertain children while offering educational and adventure-filled experiences.",
+      "gmapsUrl": "https://maps.google.com/?cid=17395092149354459322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Playgrounds",
+        "Good for Groups"
+      ],
+      "rating": 4.7,
+      "ratingCount": 4251,
+      "website": "https://skyadventures.travel/",
+      "photoRef": "places/ChIJYaRMOLMPoI8RunB1jSXIZ_E/photos/AcnlKN1iXqOkGa41Nr3cjuQYL6xWawy3lWdAcsKiZTGTyd3BEg9xTtoB4fJiuV_9Dlr-P_bC8lLhuXXC6b6rC-dDTrhonJ6V4cK7DAV4M6pBwk5PCMtx9h1jGtlr7Yh7YPoZlZiAsIy8v-g-2v-JH3VbX3EloHRxrD629ENWvKTgB5-QhzZxmH4NI5iYoUBk7sfVXhMMFXUQCj7eJ4cIcP5XUglCyEOlFuVu7GZMVKaoWRU0glzGU-W-NMQswRsxTpmlLQidWXL2PZpTZvSPPSGb1IXd8WqWz_rL5W3ikoKnLIDXwg",
+      "photoAttribution": "Sky Adventures",
+      "placeId": "ChIJYaRMOLMPoI8RunB1jSXIZ_E",
+      "phone": "2479 4100",
+      "hours": [
+        "Monday: 8:00 AM – 3:15 PM",
+        "Tuesday: 8:00 AM – 3:15 PM",
+        "Wednesday: 8:00 AM – 3:15 PM",
+        "Thursday: 8:00 AM – 3:15 PM",
+        "Friday: 8:00 AM – 3:15 PM",
+        "Saturday: 8:00 AM – 3:15 PM",
+        "Sunday: 8:00 AM – 3:15 PM"
+      ],
+      "address": "Sky Adventures, Provincia de Alajuela, La Fortuna, 21007, Costa Rica"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mercado Borbón",
+      "coord": [
+        9.936017399999999,
+        -84.08251109999999
+      ],
+      "desc": "Historic public market, local produce, fresh food, traditional crafts, authentic atmosphere",
+      "longDesc": "Vibrant traditional market buzzing with local energy, offering fresh tropical fruits, crafts, and authentic Costa Rican food—an immersive cultural experience for families.",
+      "gmapsUrl": "https://maps.google.com/?cid=7966253754852476999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.1,
+      "ratingCount": 4063,
+      "website": "http://www.mercado-borbón.com/",
+      "photoRef": "places/ChIJEdBvB1_joI8RR4iaQJXRjW4/photos/AcnlKN3-MPHAU0-HN6ufrgW2mlo4vwbYncTlAjtLcuyFVoas0bE4GJc49FyIC7X4jWsNk-1Nk7ZwXxcpRkoIWlly1d2AS2kOK165pKfvGRHNrhnMNtEQzo9gVV-W4VsWKsAQdq7orlqOLCwRgKMjH-PA6qHJdvvgDFmL11of2dLKPFtlrSG61NAMat6KWmMUYw1cWWowcqJQL7mjg2da2zlQuewE9cr-yt8VzXSmXfqYYNZEkxiQbbSYGMWBn_QGk3dwdj9mDH6LQK4ffJ6mh6aSXqJIGxTkRA1ebcjY6Tm53q8Cdg",
+      "photoAttribution": "Mercado Borbón",
+      "placeId": "ChIJEdBvB1_joI8RR4iaQJXRjW4",
+      "phone": "2222 1261",
+      "hours": [
+        "Monday: 5:00 AM – 5:30 PM",
+        "Tuesday: 5:00 AM – 5:30 PM",
+        "Wednesday: 5:00 AM – 5:30 PM",
+        "Thursday: 5:00 AM – 5:30 PM",
+        "Friday: 5:00 AM – 5:30 PM",
+        "Saturday: 5:00 AM – 5:30 PM",
+        "Sunday: Closed"
+      ],
+      "address": "San José Province, San José, Paso De La Vaca, Costa Rica"
+    }
+  ],
   "cityCenters": {
     "Guanacaste": [
       10.6301,
@@ -45,5 +973,460 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Costa Rica Family Adventure: Volcanoes, Cloud Forests & Beach (10 Days)",
+      "description": "An unforgettable family journey from the mystical cloud forests of Monteverde to the natural hot springs beneath Arenal Volcano, ending with sun-soaked beach days on the Papagayo Peninsula—perfectly paced for curious toddlers and young explorers.",
+      "familyFriendly": true,
+      "duration": 10,
+      "bases": [
+        "Arenal",
+        "Papagayo Peninsula"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Arenal",
+          "dayType": "rural",
+          "base": "Arenal",
+          "items": [
+            {
+              "name": "Tabacón Thermal Resort and Spa",
+              "type": "hotel",
+              "coord": [
+                10.4916133,
+                -84.7220382
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Arrival note: Fly into San José (SJO), private transfer to Arenal (~3 hours through scenic countryside). Stop for lunch en route.",
+              "type": "info"
+            },
+            {
+              "name": "Organico Fortuna",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Farm-to-table organic cafe with fresh juices and family-friendly garden seating",
+              "suggestedCity": "La Fortuna"
+            },
+            {
+              "name": "Afternoon exploration of Tabacón's natural hot springs and thermal pools",
+              "type": "freeTime"
+            },
+            {
+              "name": "Los Tucanes Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "On-site restaurant at Tabacón with Costa Rican cuisine and volcano views",
+              "suggestedCity": "La Fortuna"
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Arenal Volcano Adventure",
+          "dayType": "rural",
+          "base": "Arenal",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Parque Nacional Volcán Arenal",
+              "type": "sightseeing",
+              "coord": [
+                10.461213599999999,
+                -84.72814869999999
+              ]
+            },
+            {
+              "name": "Easy morning hike on family-friendly lava trails with volcano viewpoints",
+              "type": "info"
+            },
+            {
+              "name": "Restaurante El Colibri",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual spot near Arenal with traditional casados and fresh smoothies for kids",
+              "suggestedCity": "La Fortuna"
+            },
+            {
+              "name": "Sky Adventures",
+              "type": "sightseeing",
+              "coord": [
+                10.425557099999999,
+                -84.7355444
+              ]
+            },
+            {
+              "name": "Afternoon rest at the hotel thermal pools",
+              "type": "nap"
+            },
+            {
+              "name": "Don Rufino",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale steakhouse in La Fortuna with fire-grilled meats and local wines",
+              "suggestedCity": "La Fortuna"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Cloud Forest Excursion",
+          "dayType": "rural",
+          "base": "Arenal",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Day trip to Monteverde (1.5 hour scenic drive). Pack extra layers—it's cooler and misty!",
+              "type": "info"
+            },
+            {
+              "name": "Monteverde Cloud Forest Biological Preserve",
+              "type": "sightseeing",
+              "coord": [
+                10.2989417,
+                -84.7681559
+              ]
+            },
+            {
+              "name": "Tramonti",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Italian trattoria in Monteverde with wood-fired pizza and pasta, family-friendly",
+              "suggestedCity": "Monteverde"
+            },
+            {
+              "name": "Optional afternoon hanging bridges walk or hummingbird garden visit",
+              "type": "optional"
+            },
+            {
+              "name": "Return to Arenal in late afternoon",
+              "type": "info"
+            },
+            {
+              "name": "Amor Loco",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Casual taco spot in La Fortuna with creative flavors and beachside vibe",
+              "suggestedCity": "La Fortuna"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Transfer to Papagayo Peninsula",
+          "dayType": "rural",
+          "base": "Papagayo Peninsula",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Private transfer from Arenal to Papagayo Peninsula (~3.5 hours). Morning departure recommended.",
+              "type": "info"
+            },
+            {
+              "name": "Four Seasons Peninsula Papagayo, Costa Rica",
+              "type": "hotel",
+              "coord": [
+                10.6115855,
+                -85.6884147
+              ]
+            },
+            {
+              "name": "Bahia Ik",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "On-site Mediterranean restaurant at Four Seasons with ocean views",
+              "suggestedCity": "Papagayo Peninsula"
+            },
+            {
+              "name": "Playa Nacascolo",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Secluded beach within Papagayo Peninsula with calm waters ideal for families",
+              "suggestedCity": "Papagayo Peninsula"
+            },
+            {
+              "name": "Pool and kids club exploration",
+              "type": "freeTime"
+            },
+            {
+              "name": "Caracol",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Four Seasons signature restaurant with Latin American fusion cuisine",
+              "suggestedCity": "Papagayo Peninsula"
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Beach & Resort Day",
+          "dayType": "rural",
+          "base": "Papagayo Peninsula",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Playa Virador",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Protected cove beach with shallow, calm waters perfect for toddlers",
+              "suggestedCity": "Papagayo Peninsula"
+            },
+            {
+              "name": "Light poolside lunch at resort",
+              "type": "lunch"
+            },
+            {
+              "name": "Afternoon nap time or kids club activities",
+              "type": "nap"
+            },
+            {
+              "name": "Family surfing lesson or kayaking excursion",
+              "type": "optional"
+            },
+            {
+              "name": "Sapore Trattoria",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Beachfront Italian restaurant at Four Seasons Resort",
+              "suggestedCity": "Papagayo Peninsula"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Explore Nearby Beaches",
+          "dayType": "rural",
+          "base": "Papagayo Peninsula",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Short drive to Playa Hermosa for morning beach time",
+              "type": "beach"
+            },
+            {
+              "name": "Ginger Beach Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Beachfront restaurant at Playa Hermosa with fresh seafood and tapas",
+              "suggestedCity": "Playa Hermosa"
+            },
+            {
+              "name": "Return to resort for afternoon pool time",
+              "type": "freeTime"
+            },
+            {
+              "name": "Sunset catamaran cruise (family-friendly, optional)",
+              "type": "optional"
+            },
+            {
+              "name": "Fleming's Prime Steakhouse",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Upscale steakhouse near Papagayo with extensive wine list",
+              "suggestedCity": "Papagayo Peninsula"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Water Adventures",
+          "dayType": "rural",
+          "base": "Papagayo Peninsula",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Playa Danta",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "beach/snorkeling",
+              "suggestedDesc": "Protected beach with shallow reefs ideal for snorkeling and marine life viewing",
+              "suggestedCity": "Papagayo Peninsula"
+            },
+            {
+              "name": "Tiki Bar",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Casual poolside restaurant at Andaz Peninsula Papagayo",
+              "suggestedCity": "Papagayo Peninsula"
+            },
+            {
+              "name": "Afternoon at the resort's main pool complex with water slides",
+              "type": "freeTime"
+            },
+            {
+              "name": "Kids club evening activities while parents enjoy cocktails",
+              "type": "optional"
+            },
+            {
+              "name": "Makoko",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Pan-Asian fusion restaurant at Andaz resort with family-friendly menu",
+              "suggestedCity": "Papagayo Peninsula"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Manuel Antonio Day Trip",
+          "dayType": "rural",
+          "base": "Papagago Peninsula",
+          "items": [
+            {
+              "name": "Early hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Full day excursion to Manuel Antonio (2.5 hour drive each way, guided tour recommended)",
+              "type": "info"
+            },
+            {
+              "name": "Manuel Antonio Beach",
+              "type": "sightseeing",
+              "coord": [
+                9.381300800000002,
+                -84.14509079999999
+              ]
+            },
+            {
+              "name": "El Avión",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Iconic restaurant built around vintage airplane with ocean views and fresh seafood",
+              "suggestedCity": "Manuel Antonio"
+            },
+            {
+              "name": "Playa Espadilla",
+              "type": "sightseeing",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Long public beach adjacent to Manuel Antonio National Park, excellent for wildlife viewing",
+              "suggestedCity": "Manuel Antonio"
+            },
+            {
+              "name": "Return to resort in evening",
+              "type": "info"
+            },
+            {
+              "name": "Papagayo Golden Palms Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Casual beachfront dining at Secrets Papagayo Resort",
+              "suggestedCity": "Papagayo Peninsula"
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Relaxation & Farewell",
+          "dayType": "rural",
+          "base": "Papagayo Peninsula",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Playa Panamá",
+              "type": "beach",
+              "suggested": true,
+              "suggestedCategory": "beach",
+              "suggestedDesc": "Wide sandy beach with calm waters in Gulf of Papagayo, ideal for families",
+              "suggestedCity": "Papagayo Peninsula"
+            },
+            {
+              "name": "Final poolside lunch",
+              "type": "lunch"
+            },
+            {
+              "name": "Spa treatment for parents while kids enjoy supervised activities",
+              "type": "optional"
+            },
+            {
+              "name": "Packing and preparing for departure",
+              "type": "freeTime"
+            },
+            {
+              "name": "Zo Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Fine dining restaurant at Andaz Peninsula Papagayo with Pacific views",
+              "suggestedCity": "Papagayo Peninsula"
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Departure",
+          "dayType": "rural",
+          "base": "Papagayo Peninsula",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Private transfer to Liberia International Airport (LIR) - 45 minutes",
+              "type": "info"
+            },
+            {
+              "name": "Stop at local market for last-minute souvenirs if time allows",
+              "type": "optional"
+            },
+            {
+              "name": "Cafe Liberia",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Airport-adjacent cafe with Costa Rican coffee and light bites before departure",
+              "suggestedCity": "Liberia"
+            },
+            {
+              "name": "Departure from Liberia - Pura Vida!",
+              "type": "info"
+            },
+            {
+              "name": "Coco Beach Restaurant & Bar",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurant",
+              "suggestedDesc": "Beachfront seafood restaurant in nearby Playa del Coco",
+              "suggestedCity": "Playa del Coco"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

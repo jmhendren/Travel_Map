@@ -30,15 +30,975 @@
         "Romantic",
         "Photography Worthy",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Scenic Views",
+        "Iconic / Must-See"
       ],
       "phone": "980-1192031"
+    },
+    {
+      "name": "The Dwarika's",
+      "coord": [
+        27.705162899999998,
+        85.34232449999999
+      ],
+      "desc": "Luxury heritage hotel, traditional Newari architecture, ornate woodcarvings, serene courtyards",
+      "longDesc": "A stunning heritage property showcasing authentic Newari craftsmanship with spacious rooms and excellent service. Perfect for families seeking cultural immersion with comfort and elegance.",
+      "gmapsUrl": "https://maps.google.com/?cid=2393895947961373455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2095,
+      "website": "http://www.dwarikas.com/",
+      "photoRef": "places/ChIJl5e0Yp0Z6zkRDxN8Z67TOCE/photos/AcnlKN32iMZ03jP6iY1TmmC11cEXLBR-86zy8j1abj4Rzt-4T-MQZPrToYiCuE7U1S5GxiTIfORFP660sv6Um8LtwPvczm5iay4jBneaGfPwOWrHyumNs13vRdqyjPOQqvNpSNQ2fK13PfL4b1daD3y4L9wHl8ern5TPQwOhAIf4uaP6DO4w3o4nZDV6o52LTcx5NptlNcs_oq-8_ZWSqSGySQUWOstSOGD8M4Rq4w4BLM64w4V78cwoOk_5SJfIaI_ld2Dj1V2Lui3BBYxMZnniazzo3a_fU3IPxhz6g0pcWOnvVg",
+      "photoAttribution": "The Dwarika's Hotel",
+      "placeId": "ChIJl5e0Yp0Z6zkRDxN8Z67TOCE",
+      "phone": "01-4579488",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Battisputali Rd, Kathmandu 44600, Nepal"
+    },
+    {
+      "name": "Hotel Himalaya",
+      "coord": [
+        27.6841382,
+        85.3193951
+      ],
+      "desc": "Boutique hotel, garden views, traditional Nepali decor, central location, family suites available",
+      "longDesc": "Charming boutique hotel featuring traditional Nepali architecture and warm hospitality. Offers family-friendly amenities including a garden courtyard and spacious accommodation options.",
+      "gmapsUrl": "https://maps.google.com/?cid=9333550974028477343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Budget Friendly",
+        "Romantic"
+      ],
+      "rating": 4.2,
+      "ratingCount": 3230,
+      "website": "http://www.hotelhimalaya.com/",
+      "photoRef": "places/ChIJ_RUrZbYZ6zkRn_P32yhvh4E/photos/AcnlKN08R0-TPMRvkHjnEZRrR-TwaudMfj-PEo1sjdgtLJB-IqdTfA_6RC38zlpJecnFLPK8f88zY23QtY1xRBU-cxnj3bLZyLkHPE1epP9-PfRLqo5j1gX3vpVMp_m1PbBKJYI-jabiPUW7XXL1wHh9vQODU5xcP7ewW4y7E1ButbIVuHx8IDtV28gSxMBLNU3GYa4F4zKwAMV5llrdTA5uET6iOebMbWZkHnz34RtCwnEw5dUaKm8XqYRZGZ0Gk6fdu40PvNtlJ3_7VxezOy7oBhmd0ZL51xHkhmg-o8aOYKOgZA",
+      "photoAttribution": "Hotel Himalaya",
+      "placeId": "ChIJ_RUrZbYZ6zkRn_P32yhvh4E",
+      "phone": "01-5423900",
+      "hours": [
+        "Monday: 6:30 AM – 11:00 PM",
+        "Tuesday: 6:30 AM – 11:00 PM",
+        "Wednesday: 6:30 AM – 11:00 PM",
+        "Thursday: 6:30 AM – 11:00 PM",
+        "Friday: 6:30 AM – 11:00 PM",
+        "Saturday: 6:30 AM – 11:00 PM",
+        "Sunday: 6:30 AM – 11:00 PM"
+      ],
+      "address": "3584 Yala Sadak, Lalitpur 44600, Nepal"
+    },
+    {
+      "name": "Hotel Pokhara Grande",
+      "coord": [
+        28.1925557,
+        83.974092
+      ],
+      "desc": "Waterfront resort, lakeside views, swimming pool, adventure activity center, kids' programs",
+      "longDesc": "Spectacular lakeside resort with panoramic mountain views and excellent family amenities. Features a pool, water sports activities, and professional kids' clubs for memorable adventures.",
+      "gmapsUrl": "https://maps.google.com/?cid=17714004473397909822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Family Friendly",
+        "Adventure & Active",
+        "Playgrounds",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1831,
+      "website": "http://www.pokharagrande.com/",
+      "photoRef": "places/ChIJ8YXCRn-UlTkRPhmQOjfJ1PU/photos/AcnlKN1T7G2gSOKLL3KZZMajOYdkohjKvvaBfyeqgjvzaNpOcQk8vMcD0ivZeLTg90VRnlECsGEYRaC-U6e7hGXKlrtmm9-VeI4Rp8L7pinQPTeAkvT2-hTEyNhMl-6-vc9KfOX7oOA3OX-fuZvvY_rmOz5akNzIChxaXk21WU6NkL--CtJquHivAB06GiXjsz6OMrEA5oS_mIdD04mcXLvKhDIsSNnwGp3ccF3aoKaApz17_YL428zaZQp4q1ie2RkhGBJy3dG8YmPY1yP4Jm4jrJbAe5Yk5zpguYwNJnjUY1eBIA",
+      "photoAttribution": "Hotel Pokhara Grande",
+      "placeId": "ChIJ8YXCRn-UlTkRPhmQOjfJ1PU",
+      "phone": "061-450210",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "H10, Pokhara 33700, Nepal"
+    },
+    {
+      "name": "Kathmandu Guest House",
+      "coord": [
+        27.7151791,
+        85.30958009999999
+      ],
+      "desc": "Budget-friendly guesthouse, cozy rooms, rooftop restaurant, local guides, backpacker community",
+      "longDesc": "Popular budget accommodation with friendly staff and authentic local atmosphere. Great for families seeking value without sacrificing comfort, with knowledgeable staff for trip planning.",
+      "gmapsUrl": "https://maps.google.com/?cid=15222100416214570856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Good for Lunch"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1039,
+      "website": "http://www.ktmgh.com/",
+      "photoRef": "places/ChIJWXEmlfwY6zkRaJfLq63DP9M/photos/AcnlKN2J-FjCJ7gqmDmLBhFAjZU_JtDQilfGwTtbaC1NR92WdsfTdAECfvxLWiGTFzeDCv54-7sq9Xde9n5UqRws75TYOP2kdPSQToKWYaFVzNz6h1wfCJAr89zqYsxY_vjvvaoq44fWgkbmiseN9eF-2JozdFAFskpOt7R-CWXdVIg7YkZlNaNOTreOAJsxfHHXrj1LhTxKuFl_A8CbPkekViWRolITGGMnnWK4aC0OgJDfnMWvPewWTzMmnvydmM6axz_QRTIgzkEktEREXNZwEWh5X3K7WyAGqvRkNCC5hbq5Fw",
+      "photoAttribution": "Kathmandu Guest House",
+      "placeId": "ChIJWXEmlfwY6zkRaJfLq63DP9M",
+      "phone": "01-4700800",
+      "address": "P885+3RG, Saathgumti-16, Kathmandu 44600, Nepal"
     }
   ],
-  "restaurants": [],
-  "experiences": [],
-  "kidFriendly": [],
-  "markets": [],
+  "restaurants": [
+    {
+      "name": "New Fewa Restaurant",
+      "coord": [
+        28.2190561,
+        83.95785719999999
+      ],
+      "desc": "Lakeside dining, fresh fish dishes, mountain views, casual ambiance, vegetarian options",
+      "longDesc": "Charming waterfront restaurant offering fresh catch and traditional Nepali cuisine with stunning lake and mountain views. Perfect for families seeking authentic flavors in a relaxed setting.",
+      "gmapsUrl": "https://maps.google.com/?cid=14071336861917883428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 100,
+      "photoRef": "places/ChIJO0yLsuaUlTkRJKx5oVJuR8M/photos/AcnlKN2a3Zsh5ABU86F2nP7x8ZTMc49BO16AyfU8aCfI4FaYHDB599Zan7BXW_l9IwVBhIMw6jzPm1sIwY3ta2RhTlrF7urZuDheRzXnIIjS9IkE9yWlZVOQ-DjoI4yN3nh9xcky8MP4uxxWs5ek34ok-tLmDO3st9hkXjGYi6qbu8AGOLW9yy41LlPTAWDQ8K0dIvkgQtnx5fW2aI0jAF-Q95rT_fsdG3BIX_QlWAEfofWKTLA9vS6vY3HBDj0livo50a8YiPZ-SWwTPTPDKAObXMIg-mY_NDmmwQTw74-PTX-wbw",
+      "photoAttribution": "New Fewa Restaurant",
+      "placeId": "ChIJO0yLsuaUlTkRJKx5oVJuR8M",
+      "phone": "980-6667234",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "address": "Lakeside Rd, Pokhara 33700, Nepal",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE"
+    },
+    {
+      "name": "Kathmandu Chabad House",
+      "coord": [
+        27.7170942,
+        85.3103034
+      ],
+      "desc": "Fine dining, farm-to-table concept, modern Nepali cuisine, intimate setting, seasonal menus",
+      "longDesc": "Award-winning restaurant showcasing contemporary takes on traditional Nepali dishes with locally-sourced ingredients. Sophisticated yet welcoming atmosphere suitable for families celebrating special occasions.",
+      "gmapsUrl": "https://maps.google.com/?cid=12429468625488059051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Photography Worthy",
+        "Reservations Recommended"
+      ],
+      "rating": 4.8,
+      "ratingCount": 332,
+      "website": "http://www.chabadnepal.com/",
+      "photoRef": "places/ChIJnxK3K-MY6zkRqxoUWdxXfqw/photos/AcnlKN2qoeh1t1v1e8p7TJpj42mKlO-lozHZ_ltluISA4f6MSKFfbzC202XF9MK4N7_5Ragte52uk5L7Rv40PEpouNSv-8-NVTNdsdAJSoXI1hhy0W9VO5Kls52R9TzchDJMc4_6JJMlp8nCJKVMdJAkN9xgrjoGrFQo5Ry6rQFQCazvcivaLx5LGR7riTmeHKGEJbm05UlZdksBVVKkenbdMxlIiJIf9ghVO4BK9twXJl9MIhtBFfcKlw2bcy5-H3Nhfw1MFFioGFlGnHEF6261ct7pGwIaS2-mdKdSztxP8-NuTmI-i8f5vTEUgeL9I2M387l_WyUmLjrXFzx2YdoWl5TJ_0QWoxLPY7Wd3L-UqxVnOgDAVpLygttjmknEXJdEMRogF54-GNQNbgbJxnUXqbOoa9MzU0ks5uDmR_0K96q-qLTGE1Zl1ZJ8M5UpkKSW",
+      "photoAttribution": "David Barkan",
+      "placeId": "ChIJnxK3K-MY6zkRqxoUWdxXfqw",
+      "hours": [
+        "Monday: 9:00 AM – 9:30 PM",
+        "Tuesday: 9:00 AM – 9:30 PM",
+        "Wednesday: 9:00 AM – 9:30 PM",
+        "Thursday: 9:00 AM – 9:30 PM",
+        "Friday: 9:00 AM – 2:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 9:30 PM"
+      ],
+      "address": "Chaksibari Marg, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE"
+    },
+    {
+      "name": "The Bakery Cafe Baneshwor",
+      "coord": [
+        27.6887822,
+        85.33446970000001
+      ],
+      "desc": "Cozy cafe, fresh pastries, organic coffee, home-baked goods, friendly staff, family-welcoming",
+      "longDesc": "Delightful neighborhood bakery serving exceptional pastries, fresh coffee, and light meals in a warm, family-friendly atmosphere. Ideal spot for leisurely breakfasts and afternoon treats.",
+      "gmapsUrl": "https://maps.google.com/?cid=3809190841114840310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Coffee",
+        "Sweet Treats",
+        "Toddler Friendly",
+        "Off-Hours Eats",
+        "Breakfast Spot"
+      ],
+      "rating": 4,
+      "ratingCount": 1360,
+      "website": "http://www.thebakerycafe.com.np/",
+      "photoRef": "places/ChIJNyFJApYZ6zkR9kxSVuP23DQ/photos/AcnlKN3FGKwbagSsLnncdBUTXuHKHtQeuCAK6Iklb9q4Uc70KqmL1dEBKoDHfFQ0ZyVf8uwuqj-jdEW0n10GTehfpJHRt-gc3HnCgoGfEroo0CpfGwqlIQpwmTDQf2r1_PSAPchov2OwoQXzX16A-lGaCjQKssjXTndjfdURNvnLNAcFN3RRDtnd4DIfwXJTEr0Y2Mz4zG5KlkLRbZKPpmYTX9o1gnnvDf753Pmh0e3drlq9OEOvykj1VJIvF-B17SAuJ9ZORSne6Kwo-uasn0SMsL_-e6nIfjA0vJGnqhUoS7tm-cbvY8R6IzfY1okBoiB9CoPhpS_bgue3LAbLCGqr1TO1Pi7s2sM5-BDUA1YqfkIq8uBRYpytSjzCHUBchziqjC6VJAYU0NvLCoLCqLftUfE2f7r8aRmSYZiWA9J3EFwHKsw0dk7iRqNwPjobrw",
+      "photoAttribution": "Rajendra Sanjelchhetri",
+      "placeId": "ChIJNyFJApYZ6zkR9kxSVuP23DQ",
+      "phone": "01-4798528",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "address": "Chhakku Bakku Marg, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Nepali Chulo",
+      "coord": [
+        27.723142799999998,
+        85.3205732
+      ],
+      "desc": "Traditional Nepali restaurant, authentic recipes, clay cooking methods, rustic decor, local favorites",
+      "longDesc": "Authentic establishment featuring traditional Nepali recipes prepared using time-honored clay cooking techniques. Warm, inviting setting perfect for families wanting to experience genuine local cuisine.",
+      "gmapsUrl": "https://maps.google.com/?cid=17052851086906338090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Local Delicacies"
+      ],
+      "rating": 4.1,
+      "ratingCount": 810,
+      "website": "https://nepalichulo.com.np/",
+      "photoRef": "places/ChIJxX1sYRkZ6zkRKquvsrblp-w/photos/AcnlKN1kSpgk1MTxJy-Jll0CC8aR31E5_6oABzvU2Gu5Zq7FPDv5ldegVza4Y4c35xOaGSvGGKaFEtdUpImLVUpXkSMGeEcwXiu8jTr8bDi3Ubq_r7_ow1aZYl7IcOmbA49MwIh5RDACpRewreTkSW066xThtM1T4evjegs0QvPpu1k0lKYcMybPq_B0N2sEOnON55PnsJYOtS2kPtg77WXZz8ZNRj8IuCYFpwT8zUiFViuVGG8VJN2ZeIMwLghF0e-NvZG2yFRap-uMaZw6Y3G1PozdR6waVsDLDtIdrD-Jbub-Qw",
+      "photoAttribution": "Nepali Chulo Authentic Restaurant and Banquet",
+      "placeId": "ChIJxX1sYRkZ6zkRKquvsrblp-w",
+      "phone": "01-4002009",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "Lazimpat , Behind Hotel Gangjong, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Tukche Thakali Kitchen",
+      "coord": [
+        27.7173853,
+        85.32926719999999
+      ],
+      "desc": "Family-friendly Asian fusion with outdoor seating in Thamel",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12940514657066182142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 3.7,
+      "ratingCount": 1482,
+      "photoRef": "places/ChIJLa_xJRsZ6zkR_mUq0YTxlbM/photos/AcnlKN2Q7oPOBRWcGPBN7lK-0QnRqiybQe697MQYwNGy2PbF7ieXYYbUC0gLFZFOC6Wom7A5-LSACpKDfYKv7P_97rk6kp7gV2ZFLbvaFU3BSuz3uud1gS6uhZsIflXguvteWgUcJaEonfJlerCk9zNYKgZm95an8Bp1FBYrqXjHfCciJOBWKr5jT8NNVIoqJh3Dxq59rODwRwenHelrhMVaiiWFLuZvIEjngezTrLENxR7G5G8QY8-TjqdgUUCnTVDJ-wFCYj4mmDXe7BZrkCCYrvpJNRqS6FJY3NenaXyzBbUmdCF8PkYXfBMMffLhLvNIXffwUePQ3e4gm27qptJedvWbIM4A9vgC6DkaoH92KwXdCkHr8cqCpYU51StlEJjLhuKQlUqeV44dfVGl9eLVESyumaWxwFC1wfOxF0u2oElpbnJS",
+      "photoAttribution": "Being Surendra",
+      "placeId": "ChIJLa_xJRsZ6zkR_mUq0YTxlbM",
+      "phone": "01-4512462",
+      "hours": [
+        "Monday: 10:30 AM – 9:00 PM",
+        "Tuesday: 10:30 AM – 9:00 PM",
+        "Wednesday: 10:30 AM – 9:00 PM",
+        "Thursday: 10:30 AM – 9:00 PM",
+        "Friday: 10:30 AM – 9:00 PM",
+        "Saturday: 10:30 AM – 9:00 PM",
+        "Sunday: 10:30 AM – 9:00 PM"
+      ],
+      "address": "Gairidhara Rd, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Fire And Ice Pizzeria",
+      "coord": [
+        27.713779799999998,
+        85.31350739999999
+      ],
+      "desc": "Wood-fired pizza popular with families in Thamel district",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=2265337188124440969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.3,
+      "ratingCount": 4550,
+      "website": "https://www.fireandicepizzeria.com/",
+      "photoRef": "places/ChIJadJrgP0Y6zkRibmjmisYcB8/photos/AcnlKN2pohqbrfzpc3PQBzlkVrwPv3wdjWnBOFQ3HZskmX0YK8jI6W-hPDOsgshM7k7b6Xxf6jAe1P-b5B-1hQMpqZfE7tJoCHB85KkPsdo6kiWxSreUCcCVMNbmeqoOjbf7XUqF2mGhokZ8GKBm2FmqWJcYNLpTjpdeRXGgRl8u5_eHCz9gldX2nr1XSfU0MtuqykiLGYZKGd6n1kVJJS95F8N9d1ool6XyJ_2hMGAqY-PCaJzx17kZsK7AcSySxmn-7rWgmcsvkwTLTcVhhlb0kPSoJBfxtkscOxEWk2beOcAuBPh_XoZtQgMHuz9Jr2_uCGW0kVLGHBFVO7Dr7dHNkXxIL5WF7Hwy4KiS-80RknFk_K_ui-26-3EPnBFo2oRY42C5Hv4auzONbHctOb59ZfP3-RyJh1nHVyS6D1lgoxQpbBg",
+      "photoAttribution": "Satyam Kheria",
+      "placeId": "ChIJadJrgP0Y6zkRibmjmisYcB8",
+      "phone": "01-5350210",
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "address": "Thamel, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "The Chimney Restaurant",
+      "coord": [
+        27.711319399999997,
+        85.3200713
+      ],
+      "desc": "Russian-European cuisine in cozy garden setting, Thamel",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=14217533179031381142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Romantic"
+      ],
+      "rating": 4.4,
+      "ratingCount": 356,
+      "website": "https://www.yakandyeti.com/culinary-delights/the-chimney-fine-dining",
+      "photoRef": "places/ChIJKY6fFwQZ6zkRluR-PhnTTsU/photos/AcnlKN2DrEgRNIWPLDGjihKZE_U1TyJboO5bKHF2rx_3R1daMPAkM1Apek5-R0srLdm2VPZ94-Ry5uuBZoTa4UsIxiCQAYpUBWKIwK8jPsNzhSESIlkBhqmouKNHAk_9Fvj0R19LS9_5AkvCidbuJbL7Je6WSc6qLllWkX9qrPVlu8pDoxIP15SEurcC8OUW_j7OctCKbvwfT-GDLP0kVVrEzV7RYg9u0Ck8n4CZRMwqaj0x5-Z7-0NuWf6-_ACHgdEeUTeh3HCMyZYdROIUEt8xzoq6lDrdQQc1MNnbOcHznhdFgA",
+      "photoAttribution": "The Chimney Restaurant",
+      "placeId": "ChIJKY6fFwQZ6zkRluR-PhnTTsU",
+      "phone": "01-4248999",
+      "hours": [
+        "Monday: 12:00 – 10:30 PM",
+        "Tuesday: 12:00 – 10:30 PM",
+        "Wednesday: 12:00 – 10:30 PM",
+        "Thursday: 12:00 – 10:30 PM",
+        "Friday: 12:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 12:00 – 10:30 PM"
+      ],
+      "address": "Hotel Yak & Yeti, Durbar Marg, Kathmandu 44600, Nepal"
+    },
+    {
+      "name": "Busy Bee Cafe",
+      "coord": [
+        28.2109641,
+        83.9568681
+      ],
+      "desc": "Lakeside cafe with fresh pastries and playground views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=15219117932133257078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Breakfast Spot",
+        "Sweet Treats",
+        "Playgrounds",
+        "Good for Lunch"
+      ],
+      "rating": 4.2,
+      "ratingCount": 3273,
+      "website": "http://www.cafebusybee.com/",
+      "photoRef": "places/ChIJdWGmQR6VlTkRdo-U-x8rNdM/photos/AcnlKN0azNwa11X0oQp0wAVFJbK4kmIeku93vCZZdn0jkTuep8zoKbm-1AoFoTaynQTpjWpTNZdJ1wpXo75LtolEUOm4T67gopeaymJrYivxceyLZIfPr6lj2T_I7vmIp1dDGnlIGWewJj3UvIWq3Kbep3UUZVr4Ux4S4jOMHA35Yb0c-D7GKvkOaePw-zmPt8bADKot44ZvfE_Syug1DEm3_LTFJVlzPZsdlL5EgvMBqnf4xgKwSU9auxtGX8O56qLALThO_4MHLRilvTFh2Eeo872dm27V8yaF1jGgRCHK5PeP-24C-4tDKYUmjzPC3EVvNrM8HD7B0_RynG1yoHKVgTRoZLnGvR4flzC6k37D_VDHTZeHQVAHaTKR1dKuJBixprIP3zmmfhMJxPYT0yJR3qxMAqeIFj-sNXg1pXM1wxZq3Q",
+      "photoAttribution": "Mohit kumar",
+      "placeId": "ChIJdWGmQR6VlTkRdo-U-x8rNdM",
+      "phone": "985-6028475",
+      "hours": [
+        "Monday: 11:00 AM – 2:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ],
+      "address": "Baidam Rd, Pokhara 33700, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Moondance Restaurant & Bar",
+      "coord": [
+        28.2081914,
+        83.9575539
+      ],
+      "desc": "Lakeside restaurant with rooftop terrace and kids menu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=7463516336679025645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Dinner",
+        "Scenic Views"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1368,
+      "website": "http://www.moondancepokhara.com/",
+      "photoRef": "places/ChIJPSxquR6VlTkR7fsTl5C8k2c/photos/AcnlKN1imZvSaoTlNu26capIe8rvwieOQReU5h5tcHgwkIJe6V_nIDLZ9mgEi-cNAZ3pynOJrQCIb7mAm2XqkMbea-ovSt6O6-EBbBSAdSn3bX0sLNsZWLYL8pqijtrQ9vIXtMRdmevEYSYAVXoOrigO7UfzAaECbhmK9uOGcDMU6WvUYviwFpLQYyKnke2G0ro-sHz1sKLte6rXMac2Q3EnnTzgarDZdSWvXr-ebsFG1_idwYJVIk3_lKNMS0l3-X74IMzXBdgfQLpMKXIjtoTi3MyB0y0dJwmcSMuFU2g-tVGW-6Moaf4MWIDbCuH8RRb97mEla6GqMn5ThmCNWZQAjIb3y4Y8sTyeeOkfBAjdhh4BvEmDdFYauGs9ZZjs25ICbN_L8Z2294r4h_LifyPsEwJt4YwgkhL15oDNXxMQz7o",
+      "photoAttribution": "Ram Krishna Bhattacharjee",
+      "placeId": "ChIJPSxquR6VlTkR7fsTl5C8k2c",
+      "phone": "061-451835",
+      "hours": [
+        "Monday: 7:00 AM – 10:30 PM",
+        "Tuesday: 7:00 AM – 10:30 PM",
+        "Wednesday: 7:00 AM – 10:30 PM",
+        "Thursday: 7:00 AM – 10:30 PM",
+        "Friday: 7:00 AM – 10:30 PM",
+        "Saturday: 7:00 AM – 10:30 PM",
+        "Sunday: 7:00 AM – 10:30 PM"
+      ],
+      "address": "Lakeside Rd, Pokhara 33700, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Caffe Concerto",
+      "coord": [
+        28.206058199999998,
+        83.9605686
+      ],
+      "desc": "Italian family dining with live music on Lakeside Road",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=3413332262048826817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Dinner",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1364,
+      "website": "http://caffeconcertonepal.com/",
+      "photoRef": "places/ChIJmzCblxuVlTkRwQXNk5uXXi8/photos/AcnlKN2WupLxwZ3dd8sTpT55qj7sTJu4vNi62NZs-CRw9f4YieseN94KPjQa78WrU4CxW0BucNog-w8W8UH7XACmCozUJQE4XGDHp-az8Vxq0ep02kR785Wp0YaSg-BdCuZ6mAyIfGf4D611HORHo-VDOMtflrqrQlIGovB6nEe_3OMiuVGjt5aCieBm8jeWyeIVB404mpm-C_LmvPd5vyYOukfQxa4smS4t99cmpaYWwELhVl2k8wHrBz9fsC2kxs_Fpb_bkdGCQy3U4rtNdlvONHAWekNfvH8nKb_ghLzIQqsrwg",
+      "photoAttribution": "Caffe Concerto",
+      "placeId": "ChIJmzCblxuVlTkRwQXNk5uXXi8",
+      "phone": "061-453529",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "address": "Pokhara 33700, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Fresh Elements Restaurant & Bar",
+      "coord": [
+        28.211395099999997,
+        83.9582595
+      ],
+      "desc": "Healthy lakeside cafe with smoothies and kid-friendly options",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=4903354764904594162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Breakfast Spot"
+      ],
+      "rating": 4.6,
+      "ratingCount": 2433,
+      "website": "https://www.freshelementsrestaurant.com.np/",
+      "photoRef": "places/ChIJlxAwdR6VlTkR8nrb-S03DEQ/photos/AcnlKN2GY9uz5-NDfcfsuQZbACvpuHJkWS-dTl0yDEvdDjgyjTyWfWgIsjubwIZoiGwMgMpp0uWHR4BsfTSy5zwSSY-3Yka110ZSpZ6MbK16iQTN-Hurt1GXcgMIMwj3y97w6ddPHRV3xcsbs8DRPmCHWdTQFYoD73MboeQrudAsnsrA_vJhtXUxOeXlAh_3HqkwPymiLpTGagGdmpCpmN-6s3OLVLu3dNWMGz5V2R82L2YL2o4tA0_Y89eyyxaKNb6s7H-6mJsSvJ1jWl2kWR8C1m55ZOKPd1CbdDz2fJiOXydvZA",
+      "photoAttribution": "Fresh Elements Restaurant & Bar",
+      "placeId": "ChIJlxAwdR6VlTkR8nrb-S03DEQ",
+      "phone": "061-455744",
+      "hours": [
+        "Monday: 11:00 AM – 4:00 AM",
+        "Tuesday: 11:00 AM – 4:00 AM",
+        "Wednesday: 11:00 AM – 4:00 AM",
+        "Thursday: 11:00 AM – 4:00 AM",
+        "Friday: 11:00 AM – 4:00 AM",
+        "Saturday: 11:00 AM – 4:00 AM",
+        "Sunday: 11:00 AM – 4:00 AM"
+      ],
+      "address": "16 Middle Path St, Pokhara 33700, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Roadhouse Cafe",
+      "coord": [
+        27.7143996,
+        85.31033289999999
+      ],
+      "desc": "Family-friendly bistro with international menu in Thamel",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=5677810770351821659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 3355,
+      "website": "https://www.instagram.com/roadhousecafenepal/?hl=en",
+      "photoRef": "places/ChIJFaOQ8PwY6zkRWxO1NNCiy04/photos/AcnlKN17KjjhUahrzFTTkQDtBVkfIcVesF2rFLRm6iZmBD-ISUNXnrfqphOvWzDBGIjsl69b9qcmsMudFzR7FfCZh7cvpPwIxj43NVqoyRLCI_mASoAIjqYReJROK1PfI7I7h0xU1ykx7qRODk_J4w-BdUyWThMlQhPPhMJQGOqXe3ANj0VBbiDcl72Xx-Iqw4Q7ybNAKx9FK0a_-HRoLE-srGNKgxFMD8YIbCssdRBrcVChi5g2-TUWcnUtaZ8yCgxVRpf_SnBaPg051cqURVddu0lrorbZpQVdBHgdS93Uz6qpKg",
+      "photoAttribution": "Roadhouse Cafe",
+      "placeId": "ChIJFaOQ8PwY6zkRWxO1NNCiy04",
+      "phone": "01-5367885",
+      "hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ],
+      "address": "Chaksibari Road, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Boomerang Restaurant and Bar",
+      "coord": [
+        28.209814700000003,
+        83.9562641
+      ],
+      "desc": "German bakery and bistro with kid-friendly menu and mountain views",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17636618492874227220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Breakfast Spot",
+        "Sweet Treats",
+        "Scenic Views"
+      ],
+      "rating": 3.7,
+      "ratingCount": 710,
+      "photoRef": "places/ChIJ_YfX_h6VlTkRFH7akhPbwfQ/photos/AcnlKN2ied8TOmzlukhkJO6ZbXM_gAfce2xcxbNfehd8Xy8ZDeVH6sZViivRlQs-IyH5wCoqI2wlKxJEedBQ0lIWS6YgrjIdY7QFdCLzUH3XDtZafQFjmx_MaB_cTX14PKBu7JHHJjAQrcYtLe22lcixoBnGDQSxSP5bxko3qGl1yD2NMc1zVV2kZ39YmF6mZPPXuHZ6z8PyCQ0RtAE1b7I1bEVCMSehXmAtfR4EAWYFVksWTL5-17kzQFNdQlwzGCOIAjKzo_u-b7MiIgPM6N9oPDy1_VlghU8NKmhsU1VLxqB_2JpwwRbipo7xSnYQ2h5uB-Bs0bJrdCpf7nJEGjRGB07wAq0RwZn63oYLOvhC1SiHrLRqWZ5pptnt0n7gTH-XesD6X8Ex7sHRfNaO8jTohSz2NVIfXk7FgKQeSFgriGIjaqrFEJyJpi563aCm4pfm",
+      "photoAttribution": "Fritz L.",
+      "placeId": "ChIJ_YfX_h6VlTkRFH7akhPbwfQ",
+      "phone": "061-452978",
+      "hours": [
+        "Monday: 7:30 AM – 10:00 PM",
+        "Tuesday: 7:30 AM – 10:00 PM",
+        "Wednesday: 7:30 AM – 10:00 PM",
+        "Thursday: 7:30 AM – 10:00 PM",
+        "Friday: 7:30 AM – 10:00 PM",
+        "Saturday: 7:30 AM – 10:00 PM",
+        "Sunday: 7:30 AM – 10:00 PM"
+      ],
+      "address": "6X54+WGC, Lakeside Rd, Pokhara 33700, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Yangling Tibetan Restaurant",
+      "coord": [
+        27.7159576,
+        85.3071538
+      ],
+      "desc": "Family-run Tibetan restaurant near Boudhanath with momos and noodle soups",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12388928722676723452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1300,
+      "website": "https://www.facebook.com/pages/Yangling-Restaurant/1979402438985700",
+      "photoRef": "places/ChIJQ1kIxvwY6zkR_K7HrghR7qs/photos/AcnlKN0l4cSoDxAKD4bDDdResL32lXWpHJ95kaH9H3JM4I7sdZnPLWCGZsZzk0NRaOuRjN5i7iqHcNaJEGXbNAXzDX5atjaVMcdsbYztkYh2kYbh9LnFf_MXgq01dSuMxQ3Dh6d_ocpxVY0CeqrVwhmt0Jfj0q0pne0IFcy5T7oG7K387gKscxmcklxp38FjA0t2Tu2eb0dck4taXrF3zqW3QHeU8lexTQJWVsElmx-Ojzi_lvlQZuNRRdgwDEYlvS-bV3TPuZwNngMHoiAJZLbBBj3nn7ZSeG5yE78UwTkZzqdYQboa6LLL_q2H7MUL864YDDLBE6efjFESAM2q84K1djgCJGKrTYEnTBN31ePHygpSxfhCLYoL-INJwqg2VRmYfYCayqlcnVBR-9Y6-WLaGeF5nWvXbfZ9KOdOOwWmFYLa_w",
+      "photoAttribution": "luvfeelin 乐飞翎 (乐飞翎)",
+      "placeId": "ChIJQ1kIxvwY6zkR_K7HrghR7qs",
+      "phone": "01-5357408",
+      "hours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 12:00 – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: Closed",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "address": "P884+GV9, Kaldhara Marg, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE"
+    },
+    {
+      "name": "Himalayan Java - Tridevi Thamel",
+      "coord": [
+        27.7140252,
+        85.31392
+      ],
+      "desc": "Local coffee chain with stroller-friendly spaces and excellent pastries",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=12682721959830274789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Coffee",
+        "Breakfast Spot",
+        "Sweet Treats",
+        "Family Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1938,
+      "website": "http://himalayanjava.com/",
+      "photoRef": "places/ChIJrVTkhgIZ6zkR5cK6MG0UArA/photos/AcnlKN0FonSj_WfEXYMqaAWQb1mzKO3pHxazDszGjOGLYvt1f7zbVf-SGmzKZ9Piv2n6rpPcYsmh56thF1tkkeeaqCoKabbWCQsM2q9ab0ZH2Umb2RpNYQ9nK50sGxEJFG2pzjbnlJuHzOYfBfCWKLT_ue5FcrQ3JOdobp2RwAkPR1cgi3YjFFCLz_PL1e0XAL0RL8RMcNZ_38PxehJATSjIq4lCM3zr3QAY7Munw8jrlhB-iVTrAkbr0KE_98wNvRKh0LuZMssSE7-VkGStpsqrft5KTaYtKXmW2gzh8L9cGoedqInhm3zIRlyGORNkKZ7jcelocn6emKZb78c_VMLWlRkn74PXzaUJiltzX_8LGICmwW730DdaPdsvi3icS4v1N3r6uBhlZ_FN8wKjJp65PS7NtRdkHOTzWVcjEFBf9baufv_-",
+      "photoAttribution": "sujesh harsha bajracharya",
+      "placeId": "ChIJrVTkhgIZ6zkR5cK6MG0UArA",
+      "phone": "01-4522519",
+      "hours": [
+        "Monday: 7:00 AM – 8:30 PM",
+        "Tuesday: 7:00 AM – 8:30 PM",
+        "Wednesday: 7:00 AM – 8:30 PM",
+        "Thursday: 7:00 AM – 8:30 PM",
+        "Friday: 7:00 AM – 8:30 PM",
+        "Saturday: 7:00 AM – 8:30 PM",
+        "Sunday: 7:00 AM – 8:30 PM"
+      ],
+      "address": "P877+JH7, Tridevi Sadak, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Bhojan Griha",
+      "coord": [
+        27.7064375,
+        85.32543749999999
+      ],
+      "desc": "Traditional Nepali restaurant in historic Kathmandu mansion with cultural performances",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1439226785605124829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Cultural & Historical",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.3,
+      "ratingCount": 665,
+      "website": "https://www.bhojangriha.com.np/",
+      "photoRef": "places/ChIJtUKkPAgZ6zkR3YI42yIp-RM/photos/AcnlKN1tdSZ4KIkAYnIb0WzipglO-xII8X4gV6JebIOhvWQxLStTHlh2YzRGsgMX2vYZ4ims5C6dDZD9thCtp3qAp3KmuMAu4zrc8fk9xf5dK1LLFD2gXFMRm0qD83znVXkKndyatMm5Ups94p6vOUz-1WIk4s3RYVcpDnX6H7G4zKTbuXlD58-sbInS5I1lgH45MXEcygNnZa1Te8BALGqe8IQi8PzvUs8aatGPUH-GoHHRjBPT972dD6_q-2c-03ocR1tWabXDXzDh9YfA11ttlxSeL_QiMapznCAcLyKBQL_qdNLcqrG3BGXZy2niid2KtiakEy_y5c4l_ZnQnJI0omtGkG40DvD2RAjcat_zgZ_B6wtChLsS51h1S1GqkiGm1tL_X9R5DB4e8XGe60qmZxwnedymlzqi43WJj9xv89v1ef8",
+      "photoAttribution": "Ewa",
+      "placeId": "ChIJtUKkPAgZ6zkR3YI42yIp-RM",
+      "phone": "01-4520169",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "address": "Dilli Bazar Height Marg, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    },
+    {
+      "name": "Kaiser Café",
+      "coord": [
+        27.7138577,
+        85.3151508
+      ],
+      "desc": "Garden cafe restaurant in Kathmandu serving continental and Nepali cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=9443647555312197621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.2,
+      "ratingCount": 379,
+      "website": "http://www.baseraboutiquehotel.com.np/",
+      "photoRef": "places/ChIJh3vIWAIZ6zkR9Z9evmqTDoM/photos/AcnlKN35RP6bk41QRvLH8-sBZ_j_n1fTJJKmTMcdj8cxQKZ6op6R7Fzz1-_IuGVQmkQF5woak2cg3IIwz0FvoT1Mp0qG_8cXiJ1QMFkUTkUVAQdwj1RbaninbJLHJrWSCGNErLK-7uIQDkuF8HDvDe_SGq-CqSLf29b6BGS_Y3ndNAlDszufryHpzL7OMuzXFpVCtTdHjIkOMZCp29-XSmaqJE4Vj3YY74sh3zNaUnzt_wlrcdieE5QaFai-KdBaHsPxL9plCuFu8LmkhiUm-QOUV7mDcO6q84sTQxOYRtWL6_ty0vPwBHYFZ3-CwDxoSKBBqwGPunKNENJXUJJMdsHE1XhtHVgDVUAEJi0D6qTYRa2Ef_Og3trizyZ_wUJEkwHigt3B5zXN-Ovzb4UOHd3qtEpnJkwA-Cq7vekHe8eTUjI",
+      "photoAttribution": "nashib chaudhary (Monkey D.kakashi)",
+      "placeId": "ChIJh3vIWAIZ6zkR9Z9evmqTDoM",
+      "phone": "974-8300064",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "address": "Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    },
+    {
+      "name": "Dream Garden Restaurant & Bar",
+      "coord": [
+        27.720177999999997,
+        85.36487970000002
+      ],
+      "desc": "Peaceful garden cafe in central Kathmandu serving international cuisine",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=1901212906977614323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Romantic"
+      ],
+      "rating": 4.3,
+      "ratingCount": 8,
+      "photoRef": "places/ChIJj9ixS8Ub6zkR89nJ2hB3Yho/photos/AcnlKN3KMA2OzUF7BAkyt09wJBSJtKtEpEeCTlniXDXRtgZ2_1q3NfIz11rMxNnq034umqmLVt34F6Pc_Cpptfblv-wAyur9iF8h82BUZeKt1S4_pj9ORd38oBAzMx8v_6t-7NfmbXo_JQ_1xuI79Ww9vMZCxQA47uXgyu1DJUG5eOucSjgQN0-lbnUMeg1L52Drt8Urc4rwysuzsWHowWg6YqmAzaYpQZPR1Fsanr7rUPyljDd9_O0M1uSGxbz-XS-M0HRJQdKO7msiFkQzzGLSt2Kxk_YSqZy3NXQbrmHUWTpxwda2bT563i4_mLBhkqIJ622NKldzMMGmSTncbW_sFtxZqQP1EKZ7Z1XFht4obfwSab9Zt0kRlu7cuJXEVog0xcewVXWv4wf3LxggrT2y4nvqlv2ORwAaFckddhm6Ve6ABrXF",
+      "photoAttribution": "Lewis Cardenas",
+      "placeId": "ChIJj9ixS8Ub6zkR89nJ2hB3Yho",
+      "phone": "01-4911768",
+      "hours": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 8:00 PM",
+        "Saturday: 7:30 AM – 8:00 PM",
+        "Sunday: 7:30 AM – 8:00 PM"
+      ],
+      "address": "44604, काठमाडौँ 44604, Nepal"
+    },
+    {
+      "name": "Third Eye Restaurant",
+      "coord": [
+        27.7144515,
+        85.31008
+      ],
+      "desc": "Indian and Nepali restaurant in Thamel, Kathmandu",
+      "longDesc": "",
+      "gmapsUrl": "https://maps.google.com/?cid=17873954177957023462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Casual Eats",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1761,
+      "website": "https://thirdeye.com.np/",
+      "photoRef": "places/ChIJKzwE8fwY6zkR5s685J8KDfg/photos/AcnlKN1uTZSlDnWCK7azRwkh1-xB_dEnwKo5HJMK-HoNIhMdodKASZEUJVJ1rHQMkphFADhLTtq4RHYlZWCVIinppsw_7gjadjj1zhHryGons6Xy3qF8J7TabQckwoMxyW9gQ-qMjlBr-mSbh2yxGTU7UCMoHm61CbDcGrVP9k0nnd9OjvYQ2BF4WlXSfbqW6HvisvPZHEhelC3UtnXur0G-6u9MuSRZRaZFqyP3c2andRb3Rzkn5DCOg5DJjS4fAI3wxj2zjd1WlONDURtJXFQ6WBbeUOc1WaB0FoXPPykpxaWCiQ",
+      "photoAttribution": "Third Eye Restaurant",
+      "placeId": "ChIJKzwE8fwY6zkR5s685J8KDfg",
+      "phone": "01-5360289",
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "address": "JP Rd, Kathmandu 44600, Nepal",
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Buddha Stupa",
+      "coord": [
+        27.7214694,
+        85.36203499999999
+      ],
+      "desc": "UNESCO World Heritage site, ancient Buddhist stupa, sacred pilgrimage site, prayer flags, monastery views",
+      "longDesc": "Magnificent ancient stupa surrounded by monasteries and prayer flags, offering spiritual atmosphere and cultural immersion. Families can explore surrounding shops and enjoy traditional Tibetan butter tea.",
+      "gmapsUrl": "https://maps.google.com/?cid=4457080541452288957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 21418,
+      "photoRef": "places/ChIJDx-VStob6zkRvcORSCO72j0/photos/AcnlKN0ohzMtZprsyhmjxIhE2_edr-McIoxMoCDUK9GQEl0A9kv-zJf7O3gryH4-ZAk1-xLcvIOwWOrVUATCA-0BghtUyqMOTJJ76VyRnlXsevlXoUI_Ru357r_qUowL4uwTtnUVHjwhYT5-ioqoE1YWmQLKJ2ByqgMEuANf28hEnie1bkjgb9NcjSKSEBFxV1rwIajeciQGLHwvLmmYT0pzhVVPB1BL1Ys5xm98DUBtea185R-CxOM6xUN_GiT-XEU1thWsf4hEh3NtWq2gT8Qz6nNKcygxZgEZg8fPFUBdTkSrRM6ppXTHtKXOFx33Df8JB3e01vnOCpwj9HQk2vqXIZvq7cVEOkgtuxk3jz6RkAkf63dmcwOID1OwKdkOWdIxzxB20-Pc6Pzux9eU9Go3yivzHdawJyv1y7jguXtwI3Qjcg",
+      "photoAttribution": "rod haines",
+      "placeId": "ChIJDx-VStob6zkRvcORSCO72j0",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Kathmandu 44600, Nepal"
+    },
+    {
+      "name": "Pashupatinath Temple",
+      "coord": [
+        27.710511999999998,
+        85.3488125
+      ],
+      "desc": "Sacred Hindu temple, ancient architecture, riverside setting, pilgrimage destination, cultural significance",
+      "longDesc": "One of the holiest Hindu temples with intricate golden architecture overlooking the Bagmati River. Offers profound cultural experience while children enjoy exploring the sacred compound and riverside paths.",
+      "gmapsUrl": "https://maps.google.com/?cid=4777330788261662865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See"
+      ],
+      "rating": 4.7,
+      "ratingCount": 41241,
+      "website": "https://kathmandu.gov.np/archives/heritage/%E0%A4%AA%E0%A4%B6%E0%A5%81%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%A5-%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0",
+      "photoRef": "places/ChIJq6qqqhoZ6zkRkZDfYAp9TEI/photos/AcnlKN0d6XlxTPDH4ku8704kLTSKkMOxuEH-rWQbBeOcavyT_jMQPp1_-gIuCsL44PhtMSIcQ9-w0u4al2vRkaE165Ur76OfZenZ40ndDM5Q45Op6NRZq8HVSk_9y_DBeKKT6BYLo3YHxZcExs2yivaDt8A4AcLG70oFLqZInATyk_GTdaNd8QaZVgbgRPVbDfJ3J0mRG1e5hkwLBP62tA-4wEv9I-aOFQwMnTZ63JBES2UlCW5cP_8Wzs1U8fm5r2jj9F8UjEBSVmIXLPoweB3FjlDViTKM8ApJBZJElhdu-sc5ArLWE3ro5mRsdVPVqb1Qg4qLMyzUwB4AF-Le7lKxJFl388szRXwrgZvZyhQwn7Wjq7Ba7Q4mNzWaZ6G01wEgS27TP7KJ0oQOynocWzKXYdldsZAdTBrD4YpBJA8nZJfF3w",
+      "photoAttribution": "Govinda Prasad Sapkota",
+      "placeId": "ChIJq6qqqhoZ6zkRkZDfYAp9TEI",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "address": "44621 Pashupati Nath Road, Kathmandu 44600, Nepal"
+    },
+    {
+      "name": "Phewa Lake",
+      "coord": [
+        28.2153837,
+        83.9453168
+      ],
+      "desc": "Scenic alpine lake, boating opportunities, Annapurna views, lakeside walks, water activities",
+      "longDesc": "Beautiful mountain lake ideal for family boating and scenic walks with spectacular Himalayan backdrop. Kids enjoy feeding fish and exploring lakeside paths while families capture stunning photographs.",
+      "gmapsUrl": "https://maps.google.com/?cid=18205429833808205511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Scenic Views"
+      ],
+      "rating": 4.7,
+      "ratingCount": 3220,
+      "photoRef": "places/ChIJu5iEkSCVlTkRx9ZvM_qtpvw/photos/AcnlKN0v-YLLSoaJujbpZhVE_0oORp12WCj_e-aFrptg9a6MKs0ZA47Itwcj5RdCBhlvMBpeJEsTGsrtPZ6YLyiCW1e-kHNNWsqXx09dPUTdMIkuQkwDFTAZrG8KV6Evkg1RHmtkRrFthzF5IQ14lhA5qqehywqAR7RUguGrFqRPOj9SlqivViJuuwAgd5zEhrNqMtzwsDlL20Vy2YOY7Qjkh8OhCpYy0U3gWp25-b5e9qQuzfbhf3CEb6ce-5R1AzrxDbTa76xQri8dj05rgYYJQdDUOEdLHEbXYPtVRry987BOSh550aSQAtRYkiElQp97EesQJlBlIuuxuRcUV6xXwjCGTIIJ3cH2p3qSWIoyKDReEmDWCUFWlkK-B55XpToGCvvyYDbWJYoJC4DBoYlkwXtDiMBnULikLyNiSJ-tkLs6GMw",
+      "photoAttribution": "bhupesh dawadi",
+      "placeId": "ChIJu5iEkSCVlTkRx9ZvM_qtpvw",
+      "address": "Phewa Lake, Pokhara 33700, Nepal"
+    },
+    {
+      "name": "National Museum of Nepal",
+      "coord": [
+        27.7057476,
+        85.2895324
+      ],
+      "desc": "Comprehensive art and artifact collection, historical exhibits, ancient sculptures, educational displays",
+      "longDesc": "Excellent museum showcasing Nepal's rich artistic and cultural heritage with well-organized exhibits spanning centuries. Engaging for families with interactive displays and knowledgeable staff.",
+      "gmapsUrl": "https://maps.google.com/?cid=8513493796067658040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Rainy Day"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1570,
+      "website": "http://www.nationalmuseum.gov.np/",
+      "photoRef": "places/ChIJ4StWa4oY6zkROMkaSIABJnY/photos/AcnlKN0hXwWLqSFm0CMI1NHFJix9qhjy3L_eiLZEVHA2Qlip71aWhv_nkBeQKKrMq6UNJKL9vRXWmEGJD2_roawUGdcHO5akOLh4ky4uws8WvJX8Mi0wKTAVnAqZa_p2SHdbXOFu-jMIh3_qeLpv2fnB7YgJskKzk7RT5zCpgt-eKLJa1G1gNjaYWr37QDfox5PHeBXHkzMKj0hrT2Qi05L806mvtk5rmYfeNL7ZDUDrn18ir0Rb40hJa89vxASn_AQifefDY7Vw4wqURKcNM5b3isG66-QpgDzC52dRUgBgBg8",
+      "photoAttribution": "National Museum of Nepal",
+      "placeId": "ChIJ4StWa4oY6zkROMkaSIABJnY",
+      "phone": "01-5371478",
+      "hours": [
+        "Monday: 10:30 AM – 2:30 PM",
+        "Tuesday: Closed",
+        "Wednesday: 10:30 AM – 3:30 PM",
+        "Thursday: 10:30 AM – 3:30 PM",
+        "Friday: 10:30 AM – 3:30 PM",
+        "Saturday: 10:30 AM – 3:30 PM",
+        "Sunday: 10:30 AM – 3:30 PM"
+      ],
+      "address": "Museum Marg, Kathmandu 44600, Nepal"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Central Zoo",
+      "coord": [
+        27.672704000000003,
+        85.3118294
+      ],
+      "desc": "Nepal's premier zoo, diverse wildlife, educational programs, family-friendly amenities, shaded walking areas",
+      "longDesc": "Engaging zoo featuring native Himalayan animals and exotic species in naturalistic habitats. Perfect family destination with educational signage, shaded pathways, and amenities for young children.",
+      "gmapsUrl": "https://maps.google.com/?cid=3515093410212624776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Playgrounds"
+      ],
+      "rating": 4,
+      "ratingCount": 9120,
+      "website": "https://www.ntnc.org.np/thematic-area/central-zoo",
+      "photoRef": "places/ChIJF1XBqzMY6zkRiDkKNNUeyDA/photos/AcnlKN29diPtEKHvli4_q6kAFqDRj-CuOpWjrEuh782f4sGAkSe5bZW9rK93l23GwLM18ezl6pfHZ6jja5t0h4PJ6dpMXj_DQmh3ygsAC7kbThsczfIZac55uw4kuLqNcxYsLZZ2WhbepzeFOMrI7hjuK3mqrvqqX14fZWBQ3hNgLMnOzkofQwRr7loUrRBodZa1TVZ_fntxzt8Ds46LD9DxEYy8YqUK6RqFccFkgLtHAh_9AhUES-oes9xfJYAsuhK1mXzKOhYge2Sn136n3JGbxZUrSyUzlWbmTTEWYpHXVcMgP12weDA76kr26CzYtbJSLYHaVER0bUOJws4KYM91Fp9OYfd2DCNcp8Ojdcmj3FqHlwHlY3-6JJ-WdCLbGAvRJ2tcCRerPxch1-48L6fw4UUM6ueiy37itVQuAJlQYDmhJPJh",
+      "photoAttribution": "kumar",
+      "placeId": "ChIJF1XBqzMY6zkRiDkKNNUeyDA",
+      "phone": "01-5528323",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 6:30 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "address": "Jawalakhel Rd, Lalitpur 44600, Nepal"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Ason Bazar",
+      "coord": [
+        27.707486799999998,
+        85.3121427
+      ],
+      "desc": "Historic spice market, colorful stalls, traditional goods, street food vendors, authentic local atmosphere",
+      "longDesc": "Vibrant centuries-old market brimming with aromatic spices, traditional crafts, and street food. Families enjoy exploring narrow lanes, sampling local treats, and purchasing unique souvenirs.",
+      "gmapsUrl": "https://maps.google.com/?cid=8573870791305125690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Budget Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Off-Hours Eats",
+        "Market / Street Food",
+        "Hidden Gem"
+      ],
+      "rating": 4.2,
+      "ratingCount": 5916,
+      "photoRef": "places/ChIJzw7Stv8Y6zkROt_W8Q6C_HY/photos/AcnlKN30Hfgk2iefXdxi0_OfTrzoQL9_QU8KuAR7wIHH7Kew5egrN5OXyBSbfty8ZBnhga0jZjKcsR_xf6aPdHwfHE_BrFqXnirw0-L0IH280WhCp0pPAGGgYyGfGsZVKfYm4ESzT2ZXXMQ-Hk7tRvo4FwZXtRq-DS-YT-7fG9y_BWfBYBsNi_97ZWLOPkiUOLdejUa6X88rAgSkcGMZE6ONqSsY-YWkSAFU-Ptzi_ugqC-cACKaOheFeQvnLdR6uLtFCt09AeGGpP7btE7hWH0CQdceci5ogC_ELmXiKd4zOWk5ZsfTTxZfcezvBF6Idt0lkg3NOy9fclV4U3LXUjRFvOxxhMASpnb5jGYt-Hco8DqWsamzfW3mrFUtFaOTwgAKDv1DDSsTX1NQ_Affs4W_m6JU438EF3BKMsB4j-si9UU",
+      "photoAttribution": "ole bull",
+      "placeId": "ChIJzw7Stv8Y6zkROt_W8Q6C_HY",
+      "phone": "01-4218801",
+      "hours": [
+        "Monday: 5:00 AM – 9:00 PM",
+        "Tuesday: 5:00 AM – 9:00 PM",
+        "Wednesday: 5:00 AM – 9:00 PM",
+        "Thursday: 5:00 AM – 9:00 PM",
+        "Friday: 5:00 AM – 9:00 PM",
+        "Saturday: 5:00 AM – 9:00 PM",
+        "Sunday: 5:00 AM – 9:00 PM"
+      ],
+      "address": "Chittadhar Marg, Kathmandu 44600, Nepal"
+    }
+  ],
   "cityCenters": {
     "Mustang": [
       28.7808,
@@ -46,5 +1006,346 @@
       0.03
     ]
   },
-  "itineraryData": {}
+  "itineraryData": {
+    "a": {
+      "name": "Family First Steps in Nepal (8 Days)",
+      "description": "A gentle introduction to the Himalayas designed for young families—lakeside tranquility in Pokhara, cultural discovery in Kathmandu, and a pace that honors naptime and wonder in equal measure.",
+      "familyFriendly": true,
+      "duration": 8,
+      "bases": [
+        "Pokhara",
+        "Kathmandu"
+      ],
+      "days": [
+        {
+          "label": "Day 1 — Arrival in Pokhara",
+          "dayType": "suburban",
+          "base": "Pokhara",
+          "items": [
+            {
+              "name": "Hotel Pokhara Grande",
+              "type": "hotel",
+              "coord": [
+                28.1925557,
+                83.974092
+              ]
+            },
+            {
+              "name": "Moondance Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular lakeside restaurant in Pokhara serving international and Nepali cuisine",
+              "suggestedCity": "Pokhara"
+            },
+            {
+              "name": "Pool time and settle in",
+              "type": "freeTime"
+            },
+            {
+              "name": "New Fewa Restaurant",
+              "type": "dinner",
+              "coord": [
+                28.2190561,
+                83.95785719999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Lakeside Mornings",
+          "dayType": "suburban",
+          "base": "Pokhara",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Phewa Lake",
+              "type": "sightseeing",
+              "coord": [
+                28.2153837,
+                83.9453168
+              ]
+            },
+            {
+              "name": "Busy Bee Cafe & Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Popular lakeside restaurant in Pokhara serving Nepali, Indian, and Continental cuisine with lake views",
+              "suggestedCity": "Pokhara"
+            },
+            {
+              "name": "Afternoon nap at the hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Boomerang Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "German bakery and bistro with kid-friendly menu and mountain views",
+              "suggestedCity": "Pokhara"
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Gentle Adventures",
+          "dayType": "suburban",
+          "base": "Pokhara",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning boat ride on the lake",
+              "type": "freeTime"
+            },
+            {
+              "name": "Fresh Elements",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Health-conscious cafe with smoothie bowls and toddler-friendly light meals",
+              "suggestedCity": "Pokhara"
+            },
+            {
+              "name": "Kids' club activities at hotel",
+              "type": "freeTime"
+            },
+            {
+              "name": "Caffe Concerto",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Lakeside restaurant in Pokhara known for Italian and continental dishes",
+              "suggestedCity": "Pokhara"
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Kathmandu",
+          "dayType": "urban",
+          "base": "Kathmandu",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Morning flight or scenic drive to Kathmandu (6 hours by road, 25 minutes by air)",
+              "type": "info"
+            },
+            {
+              "name": "The Dwarika's",
+              "type": "hotel",
+              "coord": [
+                27.705162899999998,
+                85.34232449999999
+              ]
+            },
+            {
+              "name": "Nepali Chulo",
+              "type": "lunch",
+              "coord": [
+                27.723142799999998,
+                85.3205732
+              ]
+            },
+            {
+              "name": "Rest and explore hotel courtyards",
+              "type": "freeTime"
+            },
+            {
+              "name": "Kathmandu Chabad House",
+              "type": "dinner",
+              "coord": [
+                27.7170942,
+                85.3103034
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Sacred Sites",
+          "dayType": "urban",
+          "base": "Kathmandu",
+          "items": [
+            {
+              "name": "The Bakery Cafe Baneshwor",
+              "type": "coffee",
+              "coord": [
+                27.6887822,
+                85.33446970000001
+              ]
+            },
+            {
+              "name": "Buddha Stupa",
+              "type": "sightseeing",
+              "coord": [
+                27.7214694,
+                85.36203499999999
+              ]
+            },
+            {
+              "name": "Yangling Tibetan Restaurant",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Family-run Tibetan restaurant near Boudhanath with momos and noodle soups",
+              "suggestedCity": "Kathmandu"
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "nap"
+            },
+            {
+              "name": "Garden of Dreams cafe walk",
+              "type": "freeTime"
+            },
+            {
+              "name": "Fire and Ice Pizzeria",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Italian restaurant in Thamel with wood-fired pizza beloved by families",
+              "suggestedCity": "Kathmandu"
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Culture and Play",
+          "dayType": "urban",
+          "base": "Kathmandu",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "National Museum of Nepal",
+              "type": "sightseeing",
+              "coord": [
+                27.7057476,
+                85.2895324
+              ]
+            },
+            {
+              "name": "The Bakery Cafe Baneshwor",
+              "type": "lunch",
+              "coord": [
+                27.6887822,
+                85.33446970000001
+              ]
+            },
+            {
+              "name": "Central Zoo",
+              "type": "sightseeing",
+              "coord": [
+                27.672704000000003,
+                85.3118294
+              ]
+            },
+            {
+              "name": "OR Chulo",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Newari restaurant with cultural performances and comfortable family seating",
+              "suggestedCity": "Kathmandu"
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Markets and Memories",
+          "dayType": "urban",
+          "base": "Kathmandu",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Himalayan Java Coffee",
+              "type": "coffee",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Local coffee chain with stroller-friendly spaces and excellent pastries",
+              "suggestedCity": "Kathmandu"
+            },
+            {
+              "name": "Ason Bazar",
+              "type": "shopping",
+              "coord": [
+                27.707486799999998,
+                85.3121427
+              ]
+            },
+            {
+              "name": "Bhojan Griha",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Traditional Nepali restaurant in historic Kathmandu mansion with cultural performances",
+              "suggestedCity": "Kathmandu"
+            },
+            {
+              "name": "Pashupatinath Temple",
+              "type": "sightseeing",
+              "coord": [
+                27.710511999999998,
+                85.3488125
+              ]
+            },
+            {
+              "name": "Kaiser Cafe",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Garden cafe restaurant in Kathmandu serving continental and Nepali cuisine",
+              "suggestedCity": "Kathmandu"
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Departure",
+          "dayType": "urban",
+          "base": "Kathmandu",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast"
+            },
+            {
+              "name": "Garden of Dreams Cafe",
+              "type": "lunch",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Peaceful garden cafe in central Kathmandu serving international cuisine",
+              "suggestedCity": "Kathmandu"
+            },
+            {
+              "name": "Leisurely packing and hotel checkout",
+              "type": "freeTime"
+            },
+            {
+              "name": "Airport transfer",
+              "type": "info"
+            },
+            {
+              "name": "Third Eye Restaurant",
+              "type": "dinner",
+              "suggested": true,
+              "suggestedCategory": "restaurants",
+              "suggestedDesc": "Indian and Nepali restaurant in Thamel, Kathmandu",
+              "suggestedCity": "Kathmandu"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

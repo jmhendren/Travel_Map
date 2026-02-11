@@ -21,7 +21,9 @@
         "Romantic",
         "Photography Worthy",
         "Splurge",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Iconic / Must-See",
+        "Reservations Recommended"
       ],
       "gmapsUrl": "https://maps.google.com/?cid=10310516219419411806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "rating": 4.7,
@@ -49,7 +51,9 @@
       "tags": [
         "Splurge",
         "Outdoor & Nature",
-        "Art & Design"
+        "Art & Design",
+        "Hidden Gem",
+        "Reservations Recommended"
       ],
       "hours": [
         "Monday: 8:00 AM – 5:00 AM",
@@ -82,11 +86,153 @@
         "Splurge",
         "Romantic",
         "Wellness & Spa",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Reservations Recommended",
+        "Scenic Views"
       ]
+    },
+    {
+      "name": "Arusha Coffee Lodge by Elewana",
+      "coord": [
+        -3.3745016,
+        36.6439397
+      ],
+      "desc": "Working coffee plantation lodge, farm-to-table dining, scenic mountain views, family suites",
+      "longDesc": "Stay on an active coffee farm with hands-on experiences for kids. Families enjoy plantation tours, organic meals, and authentic Tanzanian hospitality in a peaceful mountain setting.",
+      "gmapsUrl": "https://maps.google.com/?cid=17746723064371010089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Scenic Views"
+      ],
+      "rating": 4.5,
+      "ratingCount": 1340,
+      "website": "https://www.elewanacollection.com/arusha-coffee-lodge/at-a-glance",
+      "photoRef": "places/ChIJORMqzxodNxgRKdoQ05kGSfY/photos/AcnlKN0eWu-BJDWqXJ8HWkP5u_nanWyiS_ggG9pjv6123lm6RD_H0ia5Po1qbliRVYrT6bg-K7eeAguG7uxAtxNXz_UZ2ee3Dp58_D0_FhPnp7cBwaVC6I6BZ2Tfmu4n0LKa-1s4wesigTjYE5RHfQdtSWBTPdHpu_si5D1Cy_JtguOcmD-BgMZJbDuiCe3PqSB_sc-GietY1ISWuOL5o3Ex59LcmLXfBnrRHbYwP3q_Xfd4ToX7IgB9I-SIUDeYWupipCb771aJ5DoiN-o2l-lmsiI75I4pIrJIrwQmj5yWl2631Q",
+      "photoAttribution": "Arusha Coffee Lodge by Elewana",
+      "placeId": "ChIJORMqzxodNxgRKdoQ05kGSfY",
+      "phone": "0754 250 630",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Old Dodoma Road, Burka Coffee Estate, Arusha, Tanzania"
+    },
+    {
+      "name": "Dar es Salaam Serena Hotel",
+      "coord": [
+        -6.810644099999999,
+        39.2881295
+      ],
+      "desc": "Beachfront luxury hotel, kid pools, water sports, ocean views, fine dining options",
+      "longDesc": "Premier coastal resort perfect for families seeking comfort and adventure. Features dedicated children's activities, pristine beach access, and multiple restaurants catering to all tastes.",
+      "gmapsUrl": "https://maps.google.com/?cid=8884539561903887316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Splurge",
+        "Photography Worthy",
+        "Beach",
+        "Scenic Views"
+      ],
+      "rating": 4.6,
+      "ratingCount": 5429,
+      "website": "https://www.serenahotels.com/dar-es-salaam",
+      "photoRef": "places/ChIJiSFeEA1LXBgR1JMvxKg5THs/photos/AcnlKN32pr4WRpMtcBSpbqBr9dBTIhshlmEmbe0iRkN31tb99ic5yOJAZRfXv9hiHnBscNNEPsYPxVB03pHi0KLwSYntk4w3cZ8EF933-Zw5mk0G-oVZDg2fitMIZk6m_ZChOgV_XmHY4omth2POb0p-bYkzv7E3mQO3eQgm8doQAgLEA-OvrJrvD-jLt5uEq0g8vfLCFlNV8v515rkL948hCybT8r1tuzC-DwOFcOz_bfzYFNodSEFPvT-_30mQ5T6-ZiRCjED1u8t9EiOfXLZ_S0Qw8pIfhtQHUwn8kcIudibL6g",
+      "photoAttribution": "Dar es Salaam Serena Hotel",
+      "placeId": "ChIJiSFeEA1LXBgR1JMvxKg5THs",
+      "phone": "022 221 2500",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "Ohio St, Dar es Salaam, Tanzania"
     }
   ],
-  "restaurants": [],
+  "restaurants": [
+    {
+      "name": "Old Dispensary",
+      "coord": [
+        -6.1582409,
+        39.1925253
+      ],
+      "desc": "Historic Stone Town rooftop dining, Swahili cuisine, sunset views, spice island flavors",
+      "longDesc": "Iconic restaurant in a restored 19th-century building offering panoramic island views. Families savor authentic Swahili dishes in a charming, cultural setting with excellent service.",
+      "gmapsUrl": "https://maps.google.com/?cid=9340379340484719189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Iconic / Must-See",
+        "Reservations Recommended",
+        "Scenic Views",
+        "Live Music / Entertainment"
+      ],
+      "rating": 4.4,
+      "ratingCount": 290,
+      "photoRef": "places/ChIJeYQowlnQXBgRVTL90IWxn4E/photos/AcnlKN3D9zQh2B8luSXnTzeVP5n8x7bVEBuvKN6A6AGP1-nuvKg2OeSCB9QqRbiQT4MW-t8_X65knOGw7x9LyoMjNCkEvOs_LIK1DSkJ0zLP2lV2LnpgFebtMThUbozOk4pJiPESbyzAqufLAw3QM3i0saSelFxdXDMwLkZVQz23ar3FXVW2TijFhQ_q5k0tJyQtmWL3W1oaKid5mC3ffSIHZOqz5rrZQH8pJivpmzYjxdNrET8Pn-_wtMlu4UXiufyrncsOzII3B27Jbh0H6n5AQlbWiPCpvtAMNqkEieq5v5Ii7pdggCxTnTjFA4_BMHwAbWuhIc2QrBnEZa1QXzV8KX7n2gBvW_L4UZQ7EOHBWJ7iJZLYHYLSjrkRAYHSJl3Cc2nkZdA5fluOEHvMzzY0qy4Mbq4x4D4kMnvaOrdkeZninnth",
+      "photoAttribution": "Robin",
+      "placeId": "ChIJeYQowlnQXBgRVTL90IWxn4E",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "address": "R5RV+P22, Malindi Rd, Zanzibar, Tanzania"
+    },
+    {
+      "name": "Samaki Samaki restaurant",
+      "coord": [
+        -6.7645287,
+        39.2757187
+      ],
+      "desc": "Casual beachfront seafood, grilled fresh catch, local atmosphere, family-friendly pricing",
+      "longDesc": "Beloved local spot serving the freshest grilled fish and seafood. Families appreciate the relaxed beach setting, affordable prices, and authentic coastal dining experience.",
+      "gmapsUrl": "https://maps.google.com/?cid=17507313603586918697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Casual Eats",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Beach"
+      ],
+      "rating": 4.5,
+      "ratingCount": 6808,
+      "website": "https://samakisamaki.com/",
+      "photoRef": "places/ChIJr1L95FZMXBgRKYkp-fZ49vI/photos/AcnlKN0OnhGfTn2CHvX6dPPUoCXzCI_XyEGa9xy8QoPgaCELRaHe5uXiA3QlLOtJgPxfbj1CC_jV2p1luvJWasjnoq7aoav7nmOWRl4Z9u_7lbWPK6XBgrcFPyt4YSelNrasK7FbypASCq0Skxtatt9ccg4X9RAsUdo6iZGUOJhPt1bRdnS8yRpWABMMXF15j43SC4DA7xcbsLxyexYGhnQKHzZahkWNKMkWX3sdsy9GfuINaPoc_cCbNbta5e2JmzoRfNsoCuXkJHFI47jGvj6Ntyvwdn5P4tUYT3lc1pTl_JiPMcH9BK3AVdQT6XHWyiDoP7y6uCbBsTEuNtaHFRVUzP_vuvkEkuQepbFofne0L_pcrEPSB0-mynH30IlbYK_HKpCACO76z4YJd7YuMTbexwSqxRmu7Js8mJdb0cIC7PekmA",
+      "photoAttribution": "Branko Glozmek",
+      "placeId": "ChIJr1L95FZMXBgRKYkp-fZ49vI",
+      "phone": "0765 676 955",
+      "hours": [
+        "Monday: 10:00 AM – 3:00 AM",
+        "Tuesday: 10:00 AM – 3:00 AM",
+        "Wednesday: 10:00 AM – 3:00 AM",
+        "Thursday: 10:00 AM – 3:00 AM",
+        "Friday: 10:00 AM – 3:00 AM",
+        "Saturday: 10:00 AM – 3:00 AM",
+        "Sunday: 10:00 AM – 3:00 AM"
+      ],
+      "address": "Haile Selassie Rd, Dar es Salaam, Tanzania",
+      "priceLevel": "PRICE_LEVEL_MODERATE"
+    }
+  ],
   "experiences": [
     {
       "name": "Zanzibar",
@@ -108,7 +254,10 @@
         "Photography Worthy",
         "Romantic",
         "Outdoor & Nature",
-        "Adventure & Active"
+        "Adventure & Active",
+        "Iconic / Must-See",
+        "Scenic Views",
+        "Beach"
       ]
     },
     {
@@ -128,12 +277,129 @@
       "tags": [
         "Adventure & Active",
         "Photography Worthy",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Full-Day Activity"
       ]
+    },
+    {
+      "name": "Mount Kilimanjaro National Park",
+      "coord": [
+        -3.0499001999999997,
+        37.3597503
+      ],
+      "desc": "Africa's tallest mountain, guided trekking routes, alpine ecosystems, breathtaking summit views",
+      "longDesc": "Iconic snow-capped peak offering trails for various fitness levels. Families can enjoy lower altitude hikes, wildlife spotting, and the awe-inspiring experience of Tanzania's most famous landmark.",
+      "gmapsUrl": "https://maps.google.com/?cid=14116211281320099144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Family Friendly",
+        "Iconic / Must-See",
+        "Full-Day Activity"
+      ],
+      "rating": 4.6,
+      "ratingCount": 3755,
+      "website": "https://mountkilimanjaro.guide/",
+      "photoRef": "places/ChIJhXh6Cmb8ORgRSD1ylV7b5sM/photos/AcnlKN2zT8y2jbnY6F6je9eWVZWK0FFBCjk-ABd99LT8-D9ajjgoiraZ3N37Zv_qJVUuHQuc0jlJTt7Yr-T_lu9EYrOPyvAA-HTFpR7iBwlBjHyds57j_adVDMv8h38zdigZYEuYxWbR08JHR22Kc5Mp2DGIiGsw_3DBPL5Gnd0GLThzX3TwQH9gZ2YOWkzE4BXqzbXnJ8KFE8-ArPqucKtXMSC8dikJcrlGLJxOvaXPDylArEu-81QJw1fXpCzkUBqRbm2WZLOktT9xa61IkoxFhvpU1K8-s4Wp5D-wBieWIcVxw9B4yNpj9B70OzHsryJQfkbvwC09CBgDdaSiaLW2a5HnECcFOd-OoBpEua3k6UJVzibpN5uhOAGClDFGBgv3lctsNW9jN4wgYNarnPPkoRfe1BSnZLZvuhcYC8b1nBUO0in_",
+      "photoAttribution": "GOVIND CHAUDHARY",
+      "placeId": "ChIJhXh6Cmb8ORgRSD1ylV7b5sM",
+      "phone": "0713 524 020",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ],
+      "address": "Gilman's Point, Tanzania"
+    },
+    {
+      "name": "National Museum and House of Culture",
+      "coord": [
+        -6.8135829999999995,
+        39.2941126
+      ],
+      "desc": "History museum, fossil exhibits, cultural artifacts, interactive displays, educational programs",
+      "longDesc": "Engaging museum showcasing Tanzania's rich history from prehistoric times to independence. Children explore fossil discoveries, traditional crafts, and learn about diverse cultures through interactive exhibits.",
+      "gmapsUrl": "https://maps.google.com/?cid=4813297849173036650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Family Friendly"
+      ],
+      "rating": 4.3,
+      "ratingCount": 1994,
+      "website": "https://www.nmt.go.tz/",
+      "photoRef": "places/ChIJld4XThFLXBgRak4cUuREzEI/photos/AcnlKN3_NCaZTazZKsTqRM_JE-B7gnxDPsJROpjwL7tjUtf3VW-77ToFRTtIvXsseKJb8GPMJxaW5L3s16QZnZlQNVmhUxHuXQ6NHLHcMsupZP2OKrpf5nvOdNBBMgolnaP8Ux_uoEp_cZ3wJfw2tTzRWPsWTZWJPZ5cWfaS8bOkv3tSOtZkKHzGjqinHBm0vm6-e3xuZZfEQXTIxkwJ7SD38C0C-Ci6rjS8TdOqQl_tyGS6bLl0c8bWKcar9KRVcRfVCf84llBrtkhA0oKBdsLE0Axt35A68MUIX3HioCLD-Ef2_RoNTturHq1nOKOcJyyEFzIhzpJ4SqkQWKzis2jsJpc2I7p0Dyn0b4wVlOKLAWLquYJsEzPEkz4zQ630RWhgyi3k6ZrL6d5GbWrWBha4GX9I5_XAzBZ9uhV9k-BSk-J6Jg",
+      "photoAttribution": "Lalit Varadpande",
+      "placeId": "ChIJld4XThFLXBgRak4cUuREzEI",
+      "hours": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 6:00 PM",
+        "Friday: 9:30 AM – 6:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: 9:30 AM – 6:00 PM"
+      ],
+      "address": "5 Shaaban Robert St, Dar es Salaam, Tanzania"
     }
   ],
-  "kidFriendly": [],
-  "markets": [],
+  "kidFriendly": [
+    {
+      "name": "Nungwi Beach",
+      "coord": [
+        -5.7238371,
+        39.295080999999996
+      ],
+      "desc": "Family beach paradise, calm waters, sand activities, snorkeling, water sports, vibrant village",
+      "longDesc": "Northern Zanzibar's most child-friendly beach with calm, shallow waters perfect for swimming. Families enjoy snorkeling, sandcastle building, dhow boat tours, and proximity to the charming fishing village.",
+      "gmapsUrl": "https://maps.google.com/?cid=3131421058353994079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Beach",
+        "Good for Groups"
+      ],
+      "rating": 4.4,
+      "ratingCount": 1242,
+      "photoRef": "places/ChIJd2ubu0YeQxgRXxlekdwKdSs/photos/AcnlKN3TUcmRaQ5d_DloDFmFyVIyVa9rkKkdq0iELFQSF2lK88qwTdUThrQkYvESaKfJWvc3uXfhhUACWA-PwVUCT0Boq7Fjgh_RDgZkFPLKShXh1xG8pJczbnNsGs_B_8x-hdT8q3dOaOxTCMYLrFsWRmN_Ui37kbe_tQlSrQwbk8YOp4P7r9ykEv5glS-TgP-QVxisT4dHMUjAY9eYVjJIrlWv9ROojMauvGexio1VQp3RXAkDRlTCM1t7-taQ3FpxBOwNCl3aY2-z3vwC0MhMecg8FjI1kQlV5oofI9ipckJGtJn15owO0tDWVwKz8_8zhFVgW_FAmwDFnRb5spAaNXDpGwtnlcZCEUIZs2-d97qkyUFzYh-5EyOiWlDbaKnzstIOkHHYdMr1X2bbT9Gd_byQGg0HboA_3nknDzPQXiY",
+      "photoAttribution": "Mihai Tache",
+      "placeId": "ChIJd2ubu0YeQxgRXxlekdwKdSs",
+      "address": "Nungwi Beach, Tanzania"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Dar es Salaam Fish Market",
+      "coord": [
+        -6.8189318,
+        39.3000178
+      ],
+      "desc": "Bustling morning fish market, fresh seafood, local vendors, authentic coastal experience",
+      "longDesc": "Vibrant early-morning market where families witness daily coastal life and purchase the freshest fish. A sensory adventure showcasing local culture, colors, and flavors of Tanzania's fishing heritage.",
+      "gmapsUrl": "https://maps.google.com/?cid=18415145741276887409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "tags": [
+        "Local Delicacies",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Off-Hours Eats",
+        "Market / Street Food"
+      ],
+      "rating": 4,
+      "ratingCount": 14,
+      "photoRef": "places/ChIJeeF3ytVLXBgRcTnb63u9j_8/photos/AcnlKN2DTVZjbYZAsItUeo2ieKggPQvOop-TmMC7wOdkAJtiUP7Cqsy-75xZeKT5QWSHJkxNNxZdvo2BGrw_-w99ONfgGaEAWlrLUj-Fu3kYW1jBOcZ2VrBkoLrjNzIN60oYcfsT3uywfJBFXobOOmzc2aaUyGVdbQqshclelHyHuHn3rT5gcLoiukM3HxKAfatPt9a3_KBraiyKlEa93ssjOY6A5Ai5E-bB13WuuLZw1dR4fMD50KAUXfj7oAxt2luqEs8Mxh678_6zmzSKzCxbB3q-IWoG_9eiW1UljTpEzQ5z8aElgUoSx2-Lgco9EJ8mNPv--aPZDiSXaOvIyTyBFfimZUJihulooK-veT2Qno-PrSPJ66bjLSmAtGAoTDGunp6GkWaCFacdSf3vWt3jYDxAgAbw-99eP_28mKvf_0YADg",
+      "photoAttribution": "Tom Thomas",
+      "placeId": "ChIJeeF3ytVLXBgRcTnb63u9j_8",
+      "address": "58J2+C2C, Barack Obama Dr, Dar es Salaam, Tanzania"
+    }
+  ],
   "cityCenters": {
     "Serengeti": [
       -2.0865,
