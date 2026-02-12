@@ -178,6 +178,197 @@
             .gen-modal { max-width: 95%; padding: 16px; max-height: 80vh; }
         }
 
+        /* ====== 3-Option Itinerary Mode Selector ====== */
+        .itin-mode-selector { display: flex; flex-direction: column; gap: 10px; padding: 4px 0; }
+        .itin-mode-card {
+            display: flex; align-items: center; gap: 14px;
+            padding: 14px 16px; border: 2px solid #e5e7eb; border-radius: 12px;
+            background: #f9fafb; cursor: pointer; transition: all 0.2s;
+            user-select: none;
+        }
+        .itin-mode-card:hover { border-color: #7C3AED; background: #faf5ff; transform: translateY(-1px); box-shadow: 0 2px 8px rgba(124,58,237,0.1); }
+        .itin-mode-card:active { transform: translateY(0); }
+        .itin-mode-card .card-icon { font-size: 28px; flex-shrink: 0; width: 40px; text-align: center; }
+        .itin-mode-card .card-text { flex: 1; min-width: 0; }
+        .itin-mode-card .card-title { font-size: 13px; font-weight: 700; color: #111827; margin-bottom: 2px; }
+        .itin-mode-card .card-desc { font-size: 11px; color: #6b7280; line-height: 1.3; }
+        .itin-mode-card .card-arrow { color: #9ca3af; font-size: 14px; flex-shrink: 0; }
+        .itin-mode-card:hover .card-arrow { color: #7C3AED; }
+        .itin-mode-back {
+            display: inline-flex; align-items: center; gap: 4px;
+            background: none; border: none; color: #6b7280; font-size: 11px;
+            font-weight: 600; cursor: pointer; padding: 6px 0; margin-bottom: 8px;
+            transition: color 0.15s;
+        }
+        .itin-mode-back:hover { color: #7C3AED; }
+        .itin-mode-back .back-arrow { font-size: 14px; }
+
+        /* ====== Inline Generator (Option 2) ====== */
+        .itin-inline-gen { padding: 4px 0; }
+        .itin-inline-gen .gen-modal-title { font-size: 15px; margin-bottom: 2px; }
+        .itin-inline-gen .gen-modal-subtitle { margin-bottom: 12px; }
+        .itin-inline-gen .gen-generate-btn { margin-top: 6px; }
+        .itin-inline-gen .gen-preview { max-height: 250px; }
+
+        /* ====== Step-by-Step Builder ====== */
+        .step-builder { padding: 4px 0; }
+        .step-builder-progress {
+            display: flex; align-items: center; gap: 0; margin-bottom: 16px;
+            padding: 8px 0; overflow-x: auto; scrollbar-width: none;
+        }
+        .step-builder-progress::-webkit-scrollbar { display: none; }
+        .step-dot {
+            width: 24px; height: 24px; border-radius: 50%;
+            border: 2px solid #d1d5db; background: white;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 10px; font-weight: 700; color: #9ca3af;
+            flex-shrink: 0; transition: all 0.2s; cursor: pointer;
+        }
+        .step-dot.active { border-color: #7C3AED; background: #7C3AED; color: white; }
+        .step-dot.completed { border-color: #10B981; background: #10B981; color: white; }
+        .step-dot.completed::after { content: '✓'; }
+        .step-line { flex: 1; height: 2px; background: #d1d5db; min-width: 8px; }
+        .step-line.completed { background: #10B981; }
+        .step-builder-title { font-size: 14px; font-weight: 700; color: #111827; margin-bottom: 4px; }
+        .step-builder-subtitle { font-size: 11px; color: #6b7280; margin-bottom: 14px; }
+        .step-builder-field { margin-bottom: 12px; }
+        .step-builder-field label { display: block; font-size: 11px; font-weight: 600; color: #555; margin-bottom: 4px; }
+        .step-builder-field input, .step-builder-field select {
+            width: 100%; padding: 9px 12px; border: 1px solid #ddd; border-radius: 8px;
+            font-size: 12px; font-family: inherit; box-sizing: border-box;
+        }
+        .step-builder-field input:focus, .step-builder-field select:focus { outline: none; border-color: #7C3AED; }
+        .step-builder-nav { display: flex; gap: 8px; margin-top: 16px; }
+        .step-builder-nav button {
+            flex: 1; padding: 10px; border: none; border-radius: 8px;
+            font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.15s;
+        }
+        .step-nav-prev { background: #f0f0f0; color: #333; }
+        .step-nav-prev:hover { background: #e0e0e0; }
+        .step-nav-next { background: #7C3AED; color: white; }
+        .step-nav-next:hover { background: #6D28D9; }
+        .step-nav-next:disabled { background: #C4B5FD; cursor: not-allowed; }
+
+        /* POI Picker */
+        .step-poi-search {
+            width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 8px;
+            font-size: 12px; font-family: inherit; box-sizing: border-box; margin-bottom: 8px;
+        }
+        .step-poi-search:focus { outline: none; border-color: #7C3AED; }
+        .step-poi-list { max-height: 220px; overflow-y: auto; border: 1px solid #e5e7eb; border-radius: 8px; }
+        .step-poi-item {
+            padding: 10px 12px; border-bottom: 1px solid #f3f4f6; cursor: pointer;
+            transition: background 0.15s;
+        }
+        .step-poi-item:last-child { border-bottom: none; }
+        .step-poi-item:hover { background: #f9fafb; }
+        .step-poi-item.selected { background: #faf5ff; border-left: 3px solid #7C3AED; }
+        .step-poi-name { font-size: 12px; font-weight: 600; color: #111827; }
+        .step-poi-desc { font-size: 10px; color: #6b7280; margin-top: 2px; line-height: 1.3; }
+        .step-poi-tags { display: flex; flex-wrap: wrap; gap: 3px; margin-top: 4px; }
+        .step-poi-tag { font-size: 9px; padding: 1px 6px; border-radius: 10px; background: #f3f4f6; color: #6b7280; }
+
+        /* Hotel entry with nights */
+        .step-hotel-entry {
+            display: flex; align-items: center; gap: 8px;
+            padding: 8px 12px; background: #fef2f2; border-radius: 8px;
+            margin-bottom: 8px; border: 1px solid #fecaca;
+        }
+        .step-hotel-entry .hotel-name { flex: 1; font-size: 12px; font-weight: 600; color: #111; }
+        .step-hotel-entry .hotel-nights { font-size: 11px; color: #6b7280; }
+        .step-hotel-entry .hotel-remove { background: none; border: none; cursor: pointer; color: #9ca3af; font-size: 16px; padding: 0 4px; }
+        .step-hotel-entry .hotel-remove:hover { color: #DC2626; }
+        .step-nights-input { width: 60px !important; text-align: center; }
+
+        /* Day Planning Slots */
+        .step-day-header {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 8px 0; border-bottom: 1px solid #e5e7eb; margin-bottom: 10px;
+        }
+        .step-day-header .day-label { font-size: 14px; font-weight: 700; color: #111; }
+        .step-day-header .day-hotel { font-size: 11px; color: #6b7280; }
+        .step-day-slots { display: flex; flex-direction: column; gap: 8px; }
+        .step-day-slot {
+            display: flex; align-items: center; gap: 10px;
+            padding: 10px 12px; border: 1.5px solid #e5e7eb; border-radius: 8px;
+            background: white; transition: all 0.15s;
+        }
+        .step-day-slot:hover { border-color: #d1d5db; }
+        .step-day-slot .slot-icon { font-size: 18px; flex-shrink: 0; }
+        .step-day-slot .slot-info { flex: 1; min-width: 0; }
+        .step-day-slot .slot-label { font-size: 10px; font-weight: 600; text-transform: uppercase; color: #9ca3af; }
+        .step-day-slot .slot-content { font-size: 12px; color: #111; margin-top: 1px; }
+        .step-day-slot .slot-content.empty { color: #9ca3af; font-style: italic; }
+        .step-day-slot .slot-actions { display: flex; gap: 4px; flex-shrink: 0; }
+        .step-day-slot .slot-choose-btn {
+            padding: 4px 10px; border: 1.5px solid #7C3AED; background: white;
+            color: #7C3AED; border-radius: 14px; font-size: 10px; font-weight: 600;
+            cursor: pointer; transition: all 0.15s; white-space: nowrap;
+        }
+        .step-day-slot .slot-choose-btn:hover { background: #7C3AED; color: white; }
+        .step-day-slot .slot-clear-btn {
+            padding: 4px 8px; border: none; background: none;
+            color: #9ca3af; cursor: pointer; font-size: 14px;
+        }
+        .step-day-slot .slot-clear-btn:hover { color: #DC2626; }
+        .step-day-slot.filled { border-color: #7C3AED; background: #faf5ff; }
+
+        /* AI Recommend Button */
+        .step-ai-recommend-btn {
+            width: 100%; padding: 10px; margin-top: 10px;
+            border: 2px dashed #7C3AED; border-radius: 8px;
+            background: linear-gradient(135deg, #faf5ff 0%, #ede9fe 100%);
+            color: #7C3AED; font-size: 12px; font-weight: 600;
+            cursor: pointer; transition: all 0.2s; display: flex;
+            align-items: center; justify-content: center; gap: 6px;
+        }
+        .step-ai-recommend-btn:hover { background: linear-gradient(135deg, #ede9fe 0%, #ddd6fe 100%); border-style: solid; }
+        .step-ai-recommend-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        /* Review step */
+        .step-review-card {
+            border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 10px;
+            overflow: hidden; background: white;
+        }
+        .step-review-card-header {
+            padding: 10px 14px; background: #f9fafb; font-size: 13px;
+            font-weight: 600; color: #111; border-bottom: 1px solid #e5e7eb;
+        }
+        .step-review-card-body { padding: 8px 14px; }
+        .step-review-item {
+            padding: 4px 0; font-size: 12px; color: #374151;
+            border-bottom: 1px solid #f3f4f6;
+        }
+        .step-review-item:last-child { border-bottom: none; }
+        .step-review-item .review-type { font-size: 10px; font-weight: 600; text-transform: uppercase; color: #9ca3af; margin-right: 6px; }
+        .step-save-btn {
+            width: 100%; padding: 12px; background: #10B981; color: white;
+            border: none; border-radius: 8px; font-size: 14px; font-weight: 700;
+            cursor: pointer; margin-top: 12px; transition: all 0.15s;
+        }
+        .step-save-btn:hover { background: #059669; }
+
+        /* Draft resume prompt */
+        .step-draft-prompt {
+            padding: 14px; border: 2px solid #F59E0B; border-radius: 10px;
+            background: #FFFBEB; margin-bottom: 14px;
+        }
+        .step-draft-prompt p { font-size: 12px; color: #92400E; margin: 0 0 10px 0; }
+        .step-draft-prompt-actions { display: flex; gap: 8px; }
+        .step-draft-prompt-actions button { flex: 1; padding: 8px; border-radius: 6px; font-size: 11px; font-weight: 600; cursor: pointer; border: none; }
+        .step-draft-resume { background: #F59E0B; color: white; }
+        .step-draft-resume:hover { background: #D97706; }
+        .step-draft-new { background: #f0f0f0; color: #333; }
+        .step-draft-new:hover { background: #e0e0e0; }
+
+        /* Mobile-specific mode selector tweaks */
+        @media (max-width: 768px) {
+            .itin-mode-card { padding: 12px 14px; gap: 12px; }
+            .itin-mode-card .card-icon { font-size: 24px; width: 34px; }
+            .itin-mode-card .card-title { font-size: 13px; }
+            .step-poi-list { max-height: 180px; }
+        }
+
         /* View toggle */
         .view-toggle {
             display: flex;
@@ -1534,26 +1725,6 @@
 }
 
 /* Mobile tag filter modal */
-.mobile-tag-filter-btn {
-    flex-shrink: 0;
-    padding: 6px 12px;
-    border-radius: 20px;
-    border: 1.5px solid #d1d5db;
-    background: white;
-    font-size: 12px;
-    font-weight: 500;
-    color: #6b7280;
-    cursor: pointer;
-    white-space: nowrap;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-    transition: all 0.15s;
-    -webkit-tap-highlight-color: transparent;
-}
-.mobile-tag-filter-btn.has-active {
-    background: #7C3AED;
-    color: white;
-    border-color: #7C3AED;
-}
 
 .mobile-tag-modal {
     display: none;
@@ -1561,7 +1732,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    z-index: 200;
+    z-index: 1050;
     background: white;
     border-radius: 16px 16px 0 0;
     box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
@@ -1611,7 +1782,7 @@
     right: 0;
     bottom: 0;
     background: rgba(0,0,0,0.3);
-    z-index: 199;
+    z-index: 1049;
 }
 .mobile-tag-modal-backdrop.visible {
     display: block;
@@ -2664,23 +2835,69 @@
         right: 0;
         z-index: 50;
         display: flex;
-        justify-content: center;
+        align-items: flex-end;
+        gap: 6px;
+        padding: 0 6px;
         pointer-events: none;
     }
 
     .mobile-cat-chips {
         display: flex;
         gap: 6px;
-        padding: 6px 10px;
+        padding: 6px 4px;
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
         pointer-events: auto;
-        max-width: 100%;
+        flex: 1;
+        min-width: 0;
         scrollbar-width: none;
     }
 
     .mobile-cat-chips::-webkit-scrollbar {
         display: none;
+    }
+
+    .mobile-tag-filter-fab {
+        flex-shrink: 0;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: 1.5px solid #d1d5db;
+        background: white;
+        font-size: 16px;
+        cursor: pointer;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        pointer-events: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.15s;
+        -webkit-tap-highlight-color: transparent;
+        position: relative;
+    }
+    .mobile-tag-filter-fab.has-active {
+        background: #7C3AED;
+        border-color: #7C3AED;
+        box-shadow: 0 2px 10px rgba(124,58,237,0.4);
+    }
+    .mobile-tag-filter-fab .tag-badge {
+        position: absolute;
+        top: -4px;
+        right: -4px;
+        min-width: 16px;
+        height: 16px;
+        border-radius: 8px;
+        background: #EF4444;
+        color: white;
+        font-size: 9px;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 3px;
+    }
+    .mobile-tag-filter-fab:active {
+        transform: scale(0.9);
     }
 
     .mobile-cat-chip {
@@ -3160,8 +3377,8 @@
                     <button class="mobile-cat-chip active" data-cat="experiences" onclick="toggleMobileCat('experiences',this)">🎭 Experiences</button>
                     <button class="mobile-cat-chip active" data-cat="kidFriendly" onclick="toggleMobileCat('kidFriendly',this)">👶 Kids</button>
                     <button class="mobile-cat-chip active" data-cat="markets" onclick="toggleMobileCat('markets',this)">🛒 Markets</button>
-                    <button class="mobile-tag-filter-btn" id="mobileTagFilterBtn" onclick="openMobileTagModal()">🏷 Tags</button>
                 </div>
+                <button class="mobile-tag-filter-fab" id="mobileTagFilterBtn" onclick="openMobileTagModal()">🏷</button>
             </div>
 
             <!-- Mobile Tag Filter Modal -->
@@ -3244,14 +3461,58 @@
 
                 <!-- Itinerary Tabs (hidden in categories view) -->
                 <div id="itineraryTabs" style="display: none; margin-top: 15px;">
-                    <div style="display:flex; align-items:center; justify-content:space-between;">
-                        <div class="sidebar-title" style="margin:0;">Select Itinerary</div>
-                        <div style="display:flex; gap:6px; align-items:center;">
-                            <button onclick="openShareModal()" style="padding:4px 10px; font-size:10px; font-weight:600; border:1.5px solid #2563EB; background:white; color:#2563EB; border-radius:16px; cursor:pointer; white-space:nowrap; transition: all 0.15s;" onmouseover="this.style.background='#2563EB';this.style.color='white'" onmouseout="this.style.background='white';this.style.color='#2563EB'">&#x1F517; Share</button>
-                            <button onclick="openGeneratorModal()" style="padding:4px 10px; font-size:10px; font-weight:600; border:1.5px dashed #7C3AED; background:white; color:#7C3AED; border-radius:16px; cursor:pointer; white-space:nowrap; transition: all 0.15s;" onmouseover="this.style.background='#7C3AED';this.style.color='white'" onmouseout="this.style.background='white';this.style.color='#7C3AED'">+ Generate</button>
+                    <!-- 3-Option Mode Selector -->
+                    <div id="itinModeSelector" class="itin-mode-selector">
+                        <div class="itin-mode-card" onclick="selectItinMode('curated')">
+                            <div class="card-icon">📋</div>
+                            <div class="card-text">
+                                <div class="card-title">Curated Itineraries</div>
+                                <div class="card-desc">Browse pre-made trip plans and generated itineraries</div>
+                            </div>
+                            <div class="card-arrow">›</div>
+                        </div>
+                        <div class="itin-mode-card" onclick="selectItinMode('generate')">
+                            <div class="card-icon">✨</div>
+                            <div class="card-text">
+                                <div class="card-title">Generate Custom Itinerary</div>
+                                <div class="card-desc">AI-powered itinerary built from your preferences</div>
+                            </div>
+                            <div class="card-arrow">›</div>
+                        </div>
+                        <div class="itin-mode-card" onclick="selectItinMode('builder')">
+                            <div class="card-icon">🗺️</div>
+                            <div class="card-text">
+                                <div class="card-title">Step-by-Step Builder</div>
+                                <div class="card-desc">Plan your trip day by day with flights, hotels &amp; activities</div>
+                            </div>
+                            <div class="card-arrow">›</div>
                         </div>
                     </div>
-                    <div class="itin-tabs" id="tabsContainer"></div>
+
+                    <!-- Curated sub-view (existing tabs) -->
+                    <div id="itinCuratedView" style="display:none;">
+                        <button class="itin-mode-back" onclick="selectItinMode('menu')"><span class="back-arrow">‹</span> Back to options</button>
+                        <div style="display:flex; align-items:center; justify-content:space-between;">
+                            <div class="sidebar-title" style="margin:0;">Select Itinerary</div>
+                            <div style="display:flex; gap:6px; align-items:center;">
+                                <button onclick="openShareModal()" style="padding:4px 10px; font-size:10px; font-weight:600; border:1.5px solid #2563EB; background:white; color:#2563EB; border-radius:16px; cursor:pointer; white-space:nowrap; transition: all 0.15s;" onmouseover="this.style.background='#2563EB';this.style.color='white'" onmouseout="this.style.background='white';this.style.color='#2563EB'">&#x1F517; Share</button>
+                                <button onclick="openGeneratorModal()" style="padding:4px 10px; font-size:10px; font-weight:600; border:1.5px dashed #7C3AED; background:white; color:#7C3AED; border-radius:16px; cursor:pointer; white-space:nowrap; transition: all 0.15s;" onmouseover="this.style.background='#7C3AED';this.style.color='white'" onmouseout="this.style.background='white';this.style.color='#7C3AED'">+ Generate</button>
+                            </div>
+                        </div>
+                        <div class="itin-tabs" id="tabsContainer"></div>
+                    </div>
+
+                    <!-- Inline Generator sub-view -->
+                    <div id="itinGenerateView" style="display:none;">
+                        <button class="itin-mode-back" onclick="selectItinMode('menu')"><span class="back-arrow">‹</span> Back to options</button>
+                        <div id="inlineGenContainer" class="itin-inline-gen"></div>
+                    </div>
+
+                    <!-- Step-by-Step Builder sub-view -->
+                    <div id="itinBuilderView" style="display:none;">
+                        <button class="itin-mode-back" onclick="confirmExitBuilder('desktop')"><span class="back-arrow">‹</span> Back to options</button>
+                        <div id="stepBuilderContainer" class="step-builder"></div>
+                    </div>
                 </div>
 
                 <!-- Categories Checkboxes (hidden in itineraries view) -->
@@ -3573,6 +3834,7 @@
             <button class="mobile-search-chip" data-filter="experiences" onclick="setMobileSearchFilter('experiences',this)">🎭 Experiences</button>
             <button class="mobile-search-chip" data-filter="kidFriendly" onclick="setMobileSearchFilter('kidFriendly',this)">👶 Kids</button>
             <button class="mobile-search-chip" data-filter="markets" onclick="setMobileSearchFilter('markets',this)">🛒 Markets</button>
+            <button class="mobile-search-chip mobile-search-tag-btn" id="mobileSearchTagBtn" onclick="openMobileTagModal()" style="border-color:#7C3AED;color:#7C3AED;">🏷 Tags</button>
         </div>
         <div class="sheet-scroll">
             <div class="mobile-search-results" id="mobileSearchResults">
@@ -3587,23 +3849,82 @@
         <button class="sheet-close-btn" onclick="closeMobileSheet()" aria-label="Close">&times;</button>
         <div class="mobile-trips-header" id="mobileTripsHeader">
             <div class="mobile-trips-title">Itineraries</div>
-            <div class="mobile-trips-actions">
+            <div class="mobile-trips-actions" id="mobileTripsActions">
                 <button class="mobile-trips-action-btn" onclick="showMobileTripsSubView('notes')" title="Notes">📝</button>
                 <button class="mobile-trips-action-btn" onclick="showMobileTripsSubView('bookings')" title="Bookings" id="mobileBookingsBtn">🔖</button>
                 <button class="mobile-trips-action-btn" onclick="openShareModal()" title="Share">🔗</button>
                 <button class="mobile-trips-action-btn mobile-trips-generate" onclick="openGeneratorModal()" title="Generate">+ Generate</button>
             </div>
         </div>
-        <div class="mobile-trips-tabs" id="mobileTripsTabsContainer"></div>
-        <div class="sheet-scroll">
-            <div class="mobile-trips-content" id="mobileTripsContent">
-                <div id="mobileTripsItinView">
-                    <button class="show-all-days-btn active" id="mobileShowAllDaysBtn" onclick="showAllDays()">Show All Days</button>
-                    <div id="mobileDaysContainer"></div>
+
+        <!-- Mobile 3-Option Mode Selector -->
+        <div id="mobileItinModeSelector" class="itin-mode-selector" style="padding: 8px 12px;">
+            <div class="itin-mode-card" onclick="selectMobileItinMode('curated')">
+                <div class="card-icon">📋</div>
+                <div class="card-text">
+                    <div class="card-title">Curated Itineraries</div>
+                    <div class="card-desc">Browse pre-made trip plans and generated itineraries</div>
                 </div>
-                <div id="mobileTripsSubView" style="display:none;">
-                    <button class="mobile-trips-back" onclick="hideMobileTripsSubView()"><i class="fas fa-arrow-left"></i> Back to Itineraries</button>
-                    <div id="mobileTripsSubContent"></div>
+                <div class="card-arrow">›</div>
+            </div>
+            <div class="itin-mode-card" onclick="selectMobileItinMode('generate')">
+                <div class="card-icon">✨</div>
+                <div class="card-text">
+                    <div class="card-title">Generate Custom Itinerary</div>
+                    <div class="card-desc">AI-powered itinerary built from your preferences</div>
+                </div>
+                <div class="card-arrow">›</div>
+            </div>
+            <div class="itin-mode-card" onclick="selectMobileItinMode('builder')">
+                <div class="card-icon">🗺️</div>
+                <div class="card-text">
+                    <div class="card-title">Step-by-Step Builder</div>
+                    <div class="card-desc">Plan your trip day by day with flights, hotels &amp; activities</div>
+                </div>
+                <div class="card-arrow">›</div>
+            </div>
+        </div>
+
+        <!-- Mobile Curated sub-view -->
+        <div id="mobileCuratedView" style="display:none;">
+            <div style="padding: 4px 12px;">
+                <button class="itin-mode-back" onclick="selectMobileItinMode('menu')"><span class="back-arrow">‹</span> Back to options</button>
+            </div>
+            <div class="mobile-trips-tabs" id="mobileTripsTabsContainer"></div>
+            <div class="sheet-scroll">
+                <div class="mobile-trips-content" id="mobileTripsContent">
+                    <div id="mobileTripsItinView">
+                        <button class="show-all-days-btn active" id="mobileShowAllDaysBtn" onclick="showAllDays()">Show All Days</button>
+                        <div id="mobileDaysContainer"></div>
+                    </div>
+                    <div id="mobileTripsSubView" style="display:none;">
+                        <button class="mobile-trips-back" onclick="hideMobileTripsSubView()"><i class="fas fa-arrow-left"></i> Back to Itineraries</button>
+                        <div id="mobileTripsSubContent"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Inline Generator sub-view -->
+        <div id="mobileGenerateView" style="display:none;">
+            <div style="padding: 4px 12px;">
+                <button class="itin-mode-back" onclick="selectMobileItinMode('menu')"><span class="back-arrow">‹</span> Back to options</button>
+            </div>
+            <div class="sheet-scroll">
+                <div style="padding: 0 12px 16px 12px;">
+                    <div id="mobileInlineGenContainer" class="itin-inline-gen"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Step-by-Step Builder sub-view -->
+        <div id="mobileBuilderView" style="display:none;">
+            <div style="padding: 4px 12px;">
+                <button class="itin-mode-back" onclick="confirmExitBuilder('mobile')"><span class="back-arrow">‹</span> Back to options</button>
+            </div>
+            <div class="sheet-scroll">
+                <div style="padding: 0 12px 16px 12px;">
+                    <div id="mobileStepBuilderContainer" class="step-builder"></div>
                 </div>
             </div>
         </div>
@@ -4261,6 +4582,8 @@
                 loadCategories();
                 activeFilterChips.clear();  // Reset filter state so old destination's filters don't hide new POIs
                 activeTagFilters.clear();  // Reset tag filters on destination switch
+                currentItinMode = 'menu'; // Reset itinerary mode selector
+                resetBuilderState();      // Reset step builder
                 switchView('categories');
             } catch(e) {
                 console.error('[loadDestination] Error rebuilding categories/view:', e);
@@ -5292,19 +5615,16 @@
                 document.getElementById('itineraryTabs').style.display = 'block';
                 document.getElementById('categoriesCheckboxes').style.display = 'none';
                 document.getElementById('categoriesView').style.display = 'none';
-                document.getElementById('itinerariesView').style.display = 'block';
-                
+
                 // Hide category markers (with null guards)
                 if (categoryGroups.hotels) categoryGroups.hotels.removeFrom(map);
                 if (categoryGroups.restaurants) categoryGroups.restaurants.removeFrom(map);
                 if (categoryGroups.experiences) categoryGroups.experiences.removeFrom(map);
                 if (categoryGroups.kidFriendly) categoryGroups.kidFriendly.removeFrom(map);
                 if (categoryGroups.markets) categoryGroups.markets.removeFrom(map);
-                
-                // Load first itinerary
-                if (!currentItinerary) {
-                    selectItinerary('a');
-                }
+
+                // Show mode selector (3-option menu)
+                selectItinMode('menu');
             }
 
             // Reapply filter chips to new view
@@ -7075,20 +7395,44 @@
             const toggle = document.getElementById('tagFilterToggle');
             const label = document.getElementById('tagFilterToggleLabel');
             const mobileBtn = document.getElementById('mobileTagFilterBtn');
+            const searchBtn = document.getElementById('mobileSearchTagBtn');
 
             if (activeTagFilters.size > 0) {
                 label.textContent = '🏷 Tags (' + activeTagFilters.size + ' active)';
                 toggle.classList.add('has-active');
+                // Map tab FAB — add badge
                 if (mobileBtn) {
-                    mobileBtn.textContent = '🏷 ' + activeTagFilters.size;
                     mobileBtn.classList.add('has-active');
+                    let badge = mobileBtn.querySelector('.tag-badge');
+                    if (!badge) {
+                        badge = document.createElement('span');
+                        badge.className = 'tag-badge';
+                        mobileBtn.appendChild(badge);
+                    }
+                    badge.textContent = activeTagFilters.size;
+                }
+                // Search tab chip — highlight
+                if (searchBtn) {
+                    searchBtn.style.background = '#7C3AED';
+                    searchBtn.style.color = 'white';
+                    searchBtn.style.borderColor = '#7C3AED';
+                    searchBtn.textContent = '🏷 Tags (' + activeTagFilters.size + ')';
                 }
             } else {
                 label.textContent = '🏷 Filter by Tags';
                 toggle.classList.remove('has-active');
+                // Map tab FAB — remove badge
                 if (mobileBtn) {
-                    mobileBtn.textContent = '🏷 Tags';
                     mobileBtn.classList.remove('has-active');
+                    const badge = mobileBtn.querySelector('.tag-badge');
+                    if (badge) badge.remove();
+                }
+                // Search tab chip — reset
+                if (searchBtn) {
+                    searchBtn.style.background = '';
+                    searchBtn.style.color = '#7C3AED';
+                    searchBtn.style.borderColor = '#7C3AED';
+                    searchBtn.textContent = '🏷 Tags';
                 }
             }
         }
@@ -7414,6 +7758,18 @@
             // Apply category filter
             if (browserFilter !== 'all') {
                 activities = activities.filter(a => a.category === browserFilter);
+            }
+
+            // Apply tag filters (AND logic — activity must have ALL selected tags)
+            if (activeTagFilters.size > 0) {
+                activities = activities.filter(a => {
+                    const data = poiLookup[a.name] || {};
+                    const poiTags = data.tags || [];
+                    for (const reqTag of activeTagFilters) {
+                        if (!poiTags.includes(reqTag)) return false;
+                    }
+                    return true;
+                });
             }
 
             // Apply search filter
@@ -8386,6 +8742,1064 @@
             populateProfileDropdown();
             showCopyToast('Profile deleted');
         }
+
+        // ============================================
+        // 3-OPTION ITINERARY MODE SELECTOR
+        // ============================================
+
+        let currentItinMode = 'menu'; // 'menu', 'curated', 'generate', 'builder'
+
+        function selectItinMode(mode) {
+            currentItinMode = mode;
+            const selector = document.getElementById('itinModeSelector');
+            const curated = document.getElementById('itinCuratedView');
+            const generate = document.getElementById('itinGenerateView');
+            const builder = document.getElementById('itinBuilderView');
+            const itinView = document.getElementById('itinerariesView');
+
+            // Hide all
+            if (selector) selector.style.display = 'none';
+            if (curated) curated.style.display = 'none';
+            if (generate) generate.style.display = 'none';
+            if (builder) builder.style.display = 'none';
+
+            if (mode === 'menu') {
+                if (selector) selector.style.display = '';
+                if (itinView) itinView.style.display = 'none';
+                clearItineraryMarkers();
+            } else if (mode === 'curated') {
+                if (curated) curated.style.display = '';
+                if (itinView) itinView.style.display = '';
+                buildTabsUI();
+                if (!currentItinerary) selectItinerary('a');
+            } else if (mode === 'generate') {
+                if (generate) generate.style.display = '';
+                if (itinView) itinView.style.display = 'none';
+                renderInlineGenerator('inlineGenContainer');
+            } else if (mode === 'builder') {
+                if (builder) builder.style.display = '';
+                if (itinView) itinView.style.display = 'none';
+                initStepBuilder('stepBuilderContainer');
+            }
+        }
+
+        function selectMobileItinMode(mode) {
+            currentItinMode = mode;
+            const selector = document.getElementById('mobileItinModeSelector');
+            const curated = document.getElementById('mobileCuratedView');
+            const generate = document.getElementById('mobileGenerateView');
+            const builder = document.getElementById('mobileBuilderView');
+            const header = document.getElementById('mobileTripsHeader');
+            const actions = document.getElementById('mobileTripsActions');
+            const panel = document.getElementById('mobileTripsPanel');
+
+            // Hide all sub-views
+            if (selector) selector.style.display = 'none';
+            if (curated) curated.style.display = 'none';
+            if (generate) generate.style.display = 'none';
+            if (builder) builder.style.display = 'none';
+
+            if (mode === 'menu') {
+                if (selector) selector.style.display = '';
+                if (actions) actions.style.display = '';
+                if (panel) { panel.classList.remove('sheet-expanded'); panel.classList.add('sheet-half'); }
+                clearItineraryMarkers();
+            } else if (mode === 'curated') {
+                if (curated) curated.style.display = '';
+                if (actions) actions.style.display = '';
+                buildMobileItinTabs();
+                renderMobileItinContent();
+                if (!currentItinerary) selectItinerary('a');
+            } else if (mode === 'generate') {
+                if (generate) generate.style.display = '';
+                if (actions) actions.style.display = 'none';
+                // Expand the sheet for the form
+                if (panel) { panel.classList.remove('sheet-half'); panel.classList.add('sheet-expanded'); }
+                renderInlineGenerator('mobileInlineGenContainer');
+            } else if (mode === 'builder') {
+                if (builder) builder.style.display = '';
+                if (actions) actions.style.display = 'none';
+                // Expand for builder wizard
+                if (panel) { panel.classList.remove('sheet-half'); panel.classList.add('sheet-expanded'); }
+                initStepBuilder('mobileStepBuilderContainer');
+            }
+        }
+
+        function confirmExitBuilder(platform) {
+            if (stepBuilderState && stepBuilderState.totalDays > 0) {
+                if (!confirm('You have a builder draft in progress. Leave and save your draft?')) return;
+                saveBuilderDraft();
+            }
+            if (platform === 'mobile') {
+                selectMobileItinMode('menu');
+            } else {
+                selectItinMode('menu');
+            }
+        }
+
+        // ============================================
+        // INLINE GENERATOR (Option 2)
+        // ============================================
+
+        function renderInlineGenerator(containerId) {
+            const container = document.getElementById(containerId);
+            if (!container) return;
+
+            const dest = destinations[activeDestination];
+            const destLabel = dest ? dest.name : (activeDestination || 'this destination');
+
+            container.innerHTML = `
+                <div class="gen-modal-title">Generate Custom Itinerary</div>
+                <div class="gen-modal-subtitle" id="inlineGenDestLabel">for ${escapeHtml(destLabel)}</div>
+                <div class="gen-profile-bar">
+                    <select class="gen-profile-select" id="genProfileSelect" onchange="loadTravelProfile()">
+                        <option value="">— Select a saved profile —</option>
+                    </select>
+                    <button class="gen-profile-btn" onclick="showSaveProfileRow()">Save</button>
+                    <button class="gen-profile-btn danger" id="genProfileDeleteBtn" onclick="deleteTravelProfile()" style="display:none;">Del</button>
+                </div>
+                <div class="gen-profile-save-row" id="genProfileSaveRow">
+                    <input class="gen-profile-save-input" id="genProfileNameInput" placeholder="Profile name, e.g. 'Family with toddler'" />
+                    <button class="gen-profile-btn" onclick="saveTravelProfile()">Save</button>
+                    <button class="gen-profile-btn" onclick="hideSaveProfileRow()">Cancel</button>
+                </div>
+                <div class="gen-field">
+                    <label>Trip Type</label>
+                    <div style="display:flex;gap:6px;margin-bottom:8px;">
+                        <button class="toggle-btn active" id="genTypeSingle" onclick="setGenTripType('single')" style="flex:1;padding:6px;font-size:11px;">Single Destination</button>
+                        <button class="toggle-btn" id="genTypeMulti" onclick="setGenTripType('multi')" style="flex:1;padding:6px;font-size:11px;">Multi-Destination</button>
+                    </div>
+                </div>
+                <div class="gen-field" id="genSingleDaysField">
+                    <label>Trip Duration (days)</label>
+                    <input type="number" id="genDays" min="2" max="21" value="7" />
+                </div>
+                <div class="gen-field" id="genMultiDestField" style="display:none;">
+                    <label>Destinations & Days</label>
+                    <div id="genSegmentsList"></div>
+                    <button onclick="addGenSegment()" style="width:100%;padding:6px;font-size:11px;border:1px dashed #d1d5db;border-radius:6px;background:white;cursor:pointer;color:#6b7280;margin-top:6px;">+ Add Destination</button>
+                    <div id="genMultiTotalDays" style="font-size:11px;color:#6b7280;margin-top:4px;"></div>
+                </div>
+                <div class="gen-field">
+                    <label>Travel Party</label>
+                    <select id="genParty">
+                        <option value="couple">Couple</option>
+                        <option value="family-toddler">Family with toddler (under 4)</option>
+                        <option value="family-kids">Family with kids (4-12)</option>
+                        <option value="family-teens">Family with teens</option>
+                        <option value="solo">Solo traveler</option>
+                        <option value="friends">Group of friends</option>
+                    </select>
+                </div>
+                <div class="gen-field">
+                    <label>Interests (click to select)</label>
+                    <div class="gen-interests" id="genInterests">
+                        <span class="gen-interest-chip selected" data-interest="food" onclick="this.classList.toggle('selected')">Food &amp; Dining</span>
+                        <span class="gen-interest-chip" data-interest="culture" onclick="this.classList.toggle('selected')">Culture &amp; History</span>
+                        <span class="gen-interest-chip" data-interest="adventure" onclick="this.classList.toggle('selected')">Adventure</span>
+                        <span class="gen-interest-chip" data-interest="shopping" onclick="this.classList.toggle('selected')">Shopping</span>
+                        <span class="gen-interest-chip" data-interest="relaxation" onclick="this.classList.toggle('selected')">Relaxation</span>
+                        <span class="gen-interest-chip" data-interest="nightlife" onclick="this.classList.toggle('selected')">Nightlife</span>
+                        <span class="gen-interest-chip" data-interest="nature" onclick="this.classList.toggle('selected')">Nature &amp; Outdoors</span>
+                        <span class="gen-interest-chip" data-interest="photography" onclick="this.classList.toggle('selected')">Photography</span>
+                        <span class="gen-interest-chip" data-interest="art" onclick="this.classList.toggle('selected')">Art &amp; Design</span>
+                        <span class="gen-interest-chip" data-interest="kid-friendly" onclick="this.classList.toggle('selected')">Kid-Friendly</span>
+                    </div>
+                </div>
+                <div class="gen-field">
+                    <label>Pace</label>
+                    <select id="genPace">
+                        <option value="slow">Slow &amp; relaxed (lots of downtime)</option>
+                        <option value="moderate" selected>Moderate (balanced)</option>
+                        <option value="fast">Fast-paced (pack it all in)</option>
+                    </select>
+                </div>
+                <div class="gen-field">
+                    <label>Budget</label>
+                    <select id="genBudget">
+                        <option value="budget">Budget-friendly</option>
+                        <option value="moderate" selected>Moderate</option>
+                        <option value="luxury">Luxury</option>
+                    </select>
+                </div>
+                <div class="gen-field">
+                    <label>Special requests or constraints (optional)</label>
+                    <textarea id="genConstraints" placeholder="e.g., 'We need nap time 1-3pm', 'vegetarian', 'mobility issues'"></textarea>
+                </div>
+                <div class="gen-field" style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
+                    <span style="font-size:11px; font-weight:600; color:#555;">Web search for current info</span>
+                    <div class="web-search-toggle">
+                        <button class="web-search-switch" id="genWebSearchToggle" onclick="toggleGenWebSearch()" title="Enable web search"></button>
+                    </div>
+                </div>
+                <div id="genPreviewArea" style="display:none;"></div>
+                <div id="genError" style="display:none; color:#DC2626; font-size:12px; margin-top:8px; padding:8px; background:#FEF2F2; border-radius:8px;"></div>
+                <button class="gen-btn primary gen-generate-btn" id="genSubmitBtn" onclick="submitGeneratorForm()">Generate Itinerary</button>
+                <div class="gen-actions">
+                    <button class="gen-btn primary" id="genSaveBtn" onclick="saveGeneratedItineraryInline()" style="display:none;">Save &amp; Load Itinerary</button>
+                </div>
+            `;
+
+            // Initialize profile dropdown and web search state
+            populateProfileDropdown();
+            hideSaveProfileRow();
+            genWebSearch = false;
+            const wsToggle = document.getElementById('genWebSearchToggle');
+            if (wsToggle) wsToggle.classList.remove('active');
+            lastGeneratedItinerary = null;
+        }
+
+        function saveGeneratedItineraryInline() {
+            saveGeneratedItinerary();
+            // After saving, switch to curated mode to show the new itinerary
+            if (isMobile()) {
+                selectMobileItinMode('curated');
+            } else {
+                selectItinMode('curated');
+            }
+        }
+
+        // ============================================
+        // STEP-BY-STEP BUILDER (Option 3)
+        // ============================================
+
+        let stepBuilderState = {
+            totalDays: 0,
+            arrival: { time: '', flightNo: '', station: '' },
+            departure: { time: '', flightNo: '', station: '' },
+            hotels: [],       // [{name, coord, nights, startDay, desc}]
+            days: [],         // [{day, hotel, slots: [{type, name, coord, source}]}]
+            currentStep: 0,
+            destination: ''
+        };
+
+        let activeBuilderContainer = null;
+
+        function getBuilderDraftKey() {
+            return 'tripMap_stepBuilder_' + (activeDestination || 'default');
+        }
+
+        function saveBuilderDraft() {
+            try {
+                localStorage.setItem(getBuilderDraftKey(), JSON.stringify(stepBuilderState));
+            } catch(e) { console.warn('Could not save builder draft:', e); }
+        }
+
+        function loadBuilderDraft() {
+            try {
+                const saved = localStorage.getItem(getBuilderDraftKey());
+                if (saved) return JSON.parse(saved);
+            } catch(e) {}
+            return null;
+        }
+
+        function clearBuilderDraft() {
+            try { localStorage.removeItem(getBuilderDraftKey()); } catch(e) {}
+        }
+
+        function resetBuilderState() {
+            stepBuilderState = {
+                totalDays: 0,
+                arrival: { time: '', flightNo: '', station: '' },
+                departure: { time: '', flightNo: '', station: '' },
+                hotels: [],
+                days: [],
+                currentStep: 0,
+                destination: activeDestination || ''
+            };
+        }
+
+        function initStepBuilder(containerId) {
+            activeBuilderContainer = containerId;
+            const draft = loadBuilderDraft();
+
+            if (draft && draft.totalDays > 0 && draft.destination === activeDestination) {
+                // Show resume prompt
+                const container = document.getElementById(containerId);
+                if (!container) return;
+                container.innerHTML = `
+                    <div class="step-draft-prompt">
+                        <p><strong>You have a saved draft</strong> — ${draft.totalDays}-day trip with ${draft.hotels.length} hotel(s) and ${draft.days.filter(d => d.slots.some(s => s.name)).length} days planned.</p>
+                        <div class="step-draft-prompt-actions">
+                            <button class="step-draft-resume" onclick="resumeBuilderDraft()">Resume Draft</button>
+                            <button class="step-draft-new" onclick="startFreshBuilder()">Start Fresh</button>
+                        </div>
+                    </div>
+                `;
+            } else {
+                startFreshBuilder();
+            }
+        }
+
+        function resumeBuilderDraft() {
+            const draft = loadBuilderDraft();
+            if (draft) {
+                stepBuilderState = draft;
+            }
+            renderBuilderStep(stepBuilderState.currentStep);
+        }
+
+        function startFreshBuilder() {
+            resetBuilderState();
+            clearBuilderDraft();
+            renderBuilderStep(0);
+        }
+
+        function getTotalBuilderSteps() {
+            // Steps: 0=setup, 1=arrival, 2=departure, 3=hotels, 4...(3+totalDays)=day planning, last=review
+            return 3 + stepBuilderState.totalDays + 1 + 1; // setup + arrival + departure + hotels + days + review
+        }
+
+        function renderBuilderProgress(currentStep) {
+            const total = getTotalBuilderSteps();
+            let html = '';
+            for (let i = 0; i < total; i++) {
+                if (i > 0) {
+                    html += '<div class="step-line' + (i <= currentStep ? ' completed' : '') + '"></div>';
+                }
+                let label = '';
+                if (i === 0) label = '1';
+                else if (i === 1) label = '✈';
+                else if (i === 2) label = '✈';
+                else if (i === 3) label = '🏨';
+                else if (i < total - 1) label = 'D' + (i - 3);
+                else label = '✓';
+
+                const isCompleted = i < currentStep;
+                const isActive = i === currentStep;
+                html += '<div class="step-dot' + (isActive ? ' active' : '') + (isCompleted ? ' completed' : '') + '" onclick="navigateBuilderStep(' + i + ')">' + (isCompleted ? '' : label) + '</div>';
+            }
+            return html;
+        }
+
+        function navigateBuilderStep(step) {
+            // Only allow navigating to completed steps or the current step
+            if (step <= stepBuilderState.currentStep || step === stepBuilderState.currentStep) {
+                renderBuilderStep(step);
+            }
+        }
+
+        function renderBuilderStep(step) {
+            const container = document.getElementById(activeBuilderContainer);
+            if (!container) return;
+
+            stepBuilderState.currentStep = step;
+
+            let html = '<div class="step-builder-progress">' + renderBuilderProgress(step) + '</div>';
+
+            if (step === 0) {
+                html += renderBuilderSetup();
+            } else if (step === 1) {
+                html += renderBuilderArrival();
+            } else if (step === 2) {
+                html += renderBuilderDeparture();
+            } else if (step === 3) {
+                html += renderBuilderHotels();
+            } else if (step >= 4 && step < 4 + stepBuilderState.totalDays) {
+                html += renderBuilderDay(step - 3); // day 1, 2, 3...
+            } else {
+                html += renderBuilderReview();
+            }
+
+            container.innerHTML = html;
+            saveBuilderDraft();
+        }
+
+        function builderNext() {
+            const nextStep = stepBuilderState.currentStep + 1;
+            // If moving past setup, initialize days array
+            if (stepBuilderState.currentStep === 0) {
+                const daysInput = document.getElementById('builderDaysInput');
+                if (daysInput) {
+                    stepBuilderState.totalDays = Math.max(2, Math.min(21, parseInt(daysInput.value) || 7));
+                }
+                // Initialize days array
+                stepBuilderState.days = [];
+                for (let i = 1; i <= stepBuilderState.totalDays; i++) {
+                    stepBuilderState.days.push({
+                        day: i,
+                        hotel: '',
+                        slots: [
+                            { type: 'breakfast', name: '', coord: null, source: '' },
+                            { type: 'morning', name: '', coord: null, source: '' },
+                            { type: 'lunch', name: '', coord: null, source: '' },
+                            { type: 'afternoon', name: '', coord: null, source: '' },
+                            { type: 'dinner', name: '', coord: null, source: '' }
+                        ]
+                    });
+                }
+            }
+            // Save arrival/departure data
+            if (stepBuilderState.currentStep === 1) {
+                const t = document.getElementById('builderArrivalTime');
+                const f = document.getElementById('builderArrivalFlight');
+                const s = document.getElementById('builderArrivalStation');
+                if (t) stepBuilderState.arrival.time = t.value;
+                if (f) stepBuilderState.arrival.flightNo = f.value;
+                if (s) stepBuilderState.arrival.station = s.value;
+            }
+            if (stepBuilderState.currentStep === 2) {
+                const t = document.getElementById('builderDepartureTime');
+                const f = document.getElementById('builderDepartureFlight');
+                const s = document.getElementById('builderDepartureStation');
+                if (t) stepBuilderState.departure.time = t.value;
+                if (f) stepBuilderState.departure.flightNo = f.value;
+                if (s) stepBuilderState.departure.station = s.value;
+            }
+            renderBuilderStep(nextStep);
+        }
+
+        function builderPrev() {
+            if (stepBuilderState.currentStep > 0) {
+                renderBuilderStep(stepBuilderState.currentStep - 1);
+            }
+        }
+
+        // Step 0: Trip Setup
+        function renderBuilderSetup() {
+            const dest = destinations[activeDestination];
+            const destName = dest ? dest.name : activeDestination;
+            return `
+                <div class="step-builder-title">Trip Setup</div>
+                <div class="step-builder-subtitle">Plan your trip to ${escapeHtml(destName)}</div>
+                <div class="step-builder-field">
+                    <label>How many days is your trip?</label>
+                    <input type="number" id="builderDaysInput" min="2" max="21" value="${stepBuilderState.totalDays || 7}" />
+                </div>
+                <div class="step-builder-nav">
+                    <button class="step-nav-next" onclick="builderNext()">Next →</button>
+                </div>
+            `;
+        }
+
+        // Step 1: Arrival Info
+        function renderBuilderArrival() {
+            return `
+                <div class="step-builder-title">Arrival Information</div>
+                <div class="step-builder-subtitle">When and how are you arriving?</div>
+                <div class="step-builder-field">
+                    <label>Arrival Time</label>
+                    <input type="time" id="builderArrivalTime" value="${stepBuilderState.arrival.time || ''}" />
+                </div>
+                <div class="step-builder-field">
+                    <label>Flight / Train Number (optional)</label>
+                    <input type="text" id="builderArrivalFlight" placeholder="e.g., AA123 or Shinkansen Nozomi 7" value="${escapeHtml(stepBuilderState.arrival.flightNo || '')}" />
+                </div>
+                <div class="step-builder-field">
+                    <label>Airport / Station</label>
+                    <input type="text" id="builderArrivalStation" placeholder="e.g., NRT, Haneda, Roma Termini" value="${escapeHtml(stepBuilderState.arrival.station || '')}" />
+                </div>
+                <div class="step-builder-nav">
+                    <button class="step-nav-prev" onclick="builderPrev()">← Back</button>
+                    <button class="step-nav-next" onclick="builderNext()">Next →</button>
+                </div>
+            `;
+        }
+
+        // Step 2: Departure Info
+        function renderBuilderDeparture() {
+            return `
+                <div class="step-builder-title">Departure Information</div>
+                <div class="step-builder-subtitle">When and how are you leaving?</div>
+                <div class="step-builder-field">
+                    <label>Departure Time</label>
+                    <input type="time" id="builderDepartureTime" value="${stepBuilderState.departure.time || ''}" />
+                </div>
+                <div class="step-builder-field">
+                    <label>Flight / Train Number (optional)</label>
+                    <input type="text" id="builderDepartureFlight" placeholder="e.g., UA456" value="${escapeHtml(stepBuilderState.departure.flightNo || '')}" />
+                </div>
+                <div class="step-builder-field">
+                    <label>Airport / Station</label>
+                    <input type="text" id="builderDepartureStation" placeholder="e.g., FCO, Tokyo Station" value="${escapeHtml(stepBuilderState.departure.station || '')}" />
+                </div>
+                <div class="step-builder-nav">
+                    <button class="step-nav-prev" onclick="builderPrev()">← Back</button>
+                    <button class="step-nav-next" onclick="builderNext()">Next →</button>
+                </div>
+            `;
+        }
+
+        // Step 3: Hotel Selection
+        function renderBuilderHotels() {
+            const assignedNights = stepBuilderState.hotels.reduce((sum, h) => sum + (h.nights || 0), 0);
+            const remaining = stepBuilderState.totalDays - assignedNights;
+
+            let hotelsHtml = '';
+            stepBuilderState.hotels.forEach((h, idx) => {
+                hotelsHtml += `
+                    <div class="step-hotel-entry">
+                        <div>
+                            <div class="hotel-name">🏨 ${escapeHtml(h.name)}</div>
+                            <div class="hotel-nights">Nights ${h.startDay}–${h.startDay + h.nights - 1} (${h.nights} night${h.nights > 1 ? 's' : ''})</div>
+                        </div>
+                        <button class="hotel-remove" onclick="removeBuilderHotel(${idx})">×</button>
+                    </div>
+                `;
+            });
+
+            let pickerHtml = '';
+            if (remaining > 0) {
+                pickerHtml = `
+                    <div style="margin-top:10px; padding:10px; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:8px;">
+                        <div style="font-size:12px; font-weight:600; color:#166534; margin-bottom:8px;">
+                            ${assignedNights === 0 ? 'Select your hotel' : 'Select your next hotel'} (${remaining} night${remaining > 1 ? 's' : ''} remaining)
+                        </div>
+                        <div class="step-builder-field" style="margin-bottom:8px;">
+                            <label>Number of nights at this hotel</label>
+                            <input type="number" id="builderHotelNights" min="1" max="${remaining}" value="${remaining}" class="step-nights-input" style="width:100%;" />
+                        </div>
+                        <input class="step-poi-search" id="builderHotelSearch" placeholder="Search hotels..." oninput="filterBuilderHotels()" />
+                        <div class="step-poi-list" id="builderHotelList"></div>
+                    </div>
+                `;
+            }
+
+            const canProceed = remaining === 0;
+
+            return `
+                <div class="step-builder-title">Hotel Selection</div>
+                <div class="step-builder-subtitle">Where are you staying? (${stepBuilderState.totalDays} nights total)</div>
+                ${hotelsHtml}
+                ${pickerHtml}
+                <div class="step-builder-nav">
+                    <button class="step-nav-prev" onclick="builderPrev()">← Back</button>
+                    <button class="step-nav-next" onclick="builderNext()" ${canProceed ? '' : 'disabled'}>Next →</button>
+                </div>
+            `;
+        }
+
+        function populateBuilderHotelList(filter) {
+            const listEl = document.getElementById('builderHotelList');
+            if (!listEl) return;
+
+            const q = (filter || '').toLowerCase();
+            let html = '';
+            hotels.forEach(h => {
+                if (q && !h.name.toLowerCase().includes(q) && !(h.desc || '').toLowerCase().includes(q)) return;
+                const poiInfo = lookupPoi(h.name);
+                const tags = (poiInfo.tags || []).slice(0, 3);
+                const tagsHtml = tags.map(t => '<span class="step-poi-tag">' + escapeHtml(t) + '</span>').join('');
+                html += `
+                    <div class="step-poi-item" onclick="selectBuilderHotel('${escapeHtml(h.name).replace(/'/g, "\\'")}', ${h.coord ? JSON.stringify(h.coord) : 'null'}, '${escapeHtml(h.desc || '').replace(/'/g, "\\'")}')">
+                        <div class="step-poi-name">${escapeHtml(h.name)}</div>
+                        ${h.desc ? '<div class="step-poi-desc">' + escapeHtml(h.desc) + '</div>' : ''}
+                        ${tagsHtml ? '<div class="step-poi-tags">' + tagsHtml + '</div>' : ''}
+                    </div>
+                `;
+            });
+            if (!html) html = '<div style="padding:12px;text-align:center;color:#9ca3af;font-size:12px;">No hotels found</div>';
+            listEl.innerHTML = html;
+        }
+
+        function filterBuilderHotels() {
+            const search = document.getElementById('builderHotelSearch');
+            populateBuilderHotelList(search ? search.value : '');
+        }
+
+        function selectBuilderHotel(name, coord, desc) {
+            const nightsInput = document.getElementById('builderHotelNights');
+            const assignedNights = stepBuilderState.hotels.reduce((sum, h) => sum + (h.nights || 0), 0);
+            const remaining = stepBuilderState.totalDays - assignedNights;
+            const nights = Math.max(1, Math.min(remaining, parseInt(nightsInput ? nightsInput.value : remaining) || remaining));
+            const startDay = assignedNights + 1;
+
+            stepBuilderState.hotels.push({ name, coord, nights, startDay, desc: desc || '' });
+
+            // Auto-assign hotels to days
+            assignHotelsToDays();
+
+            renderBuilderStep(3); // Re-render hotels step
+        }
+
+        function removeBuilderHotel(idx) {
+            stepBuilderState.hotels.splice(idx);
+            // Recalculate startDays
+            let dayCounter = 1;
+            stepBuilderState.hotels.forEach(h => {
+                h.startDay = dayCounter;
+                dayCounter += h.nights;
+            });
+            assignHotelsToDays();
+            renderBuilderStep(3);
+        }
+
+        function assignHotelsToDays() {
+            stepBuilderState.days.forEach((day, i) => {
+                day.hotel = '';
+                for (const h of stepBuilderState.hotels) {
+                    if (i + 1 >= h.startDay && i + 1 < h.startDay + h.nights) {
+                        day.hotel = h.name;
+                        break;
+                    }
+                }
+            });
+        }
+
+        // After hotel step renders, populate the list
+        const _origRenderBuilderStep = renderBuilderStep;
+        renderBuilderStep = function(step) {
+            _origRenderBuilderStep(step);
+            // After render, populate hotel list if on hotels step
+            if (step === 3) {
+                setTimeout(() => populateBuilderHotelList(''), 10);
+            }
+        };
+
+        // Day Planning (Steps 4+)
+        function renderBuilderDay(dayNum) {
+            const dayData = stepBuilderState.days[dayNum - 1];
+            if (!dayData) return '<div>Invalid day</div>';
+
+            const isFirstDay = dayNum === 1;
+            const isLastDay = dayNum === stepBuilderState.totalDays;
+            const hotelName = dayData.hotel || 'Not assigned';
+            const arrivalTime = stepBuilderState.arrival.time;
+            const departureTime = stepBuilderState.departure.time;
+
+            let contextNote = '';
+            if (isFirstDay && arrivalTime) {
+                const hour = parseInt(arrivalTime.split(':')[0]);
+                if (hour >= 17) contextNote = 'Arriving in the evening — focus on dinner and settling in';
+                else if (hour >= 12) contextNote = 'Arriving in the afternoon — plan for afternoon and evening';
+                else contextNote = 'Arriving in the morning — full day available';
+            }
+            if (isLastDay && departureTime) {
+                const hour = parseInt(departureTime.split(':')[0]);
+                if (hour <= 10) contextNote = 'Early departure — limited morning activities';
+                else if (hour <= 14) contextNote = 'Midday departure — morning activities only';
+                else contextNote = 'Afternoon departure — morning and early afternoon available';
+            }
+
+            const slotIcons = {
+                breakfast: '🍳', morning: '🌅', lunch: '🍽️',
+                afternoon: '🏛️', dinner: '🌙'
+            };
+            const slotLabels = {
+                breakfast: 'Breakfast', morning: 'Morning Activity',
+                lunch: 'Lunch', afternoon: 'Afternoon Activity', dinner: 'Dinner'
+            };
+
+            let slotsHtml = '<div class="step-day-slots">';
+            dayData.slots.forEach((slot, idx) => {
+                const icon = slotIcons[slot.type] || '📌';
+                const label = slotLabels[slot.type] || slot.type;
+                const filled = slot.name ? true : false;
+                slotsHtml += `
+                    <div class="step-day-slot${filled ? ' filled' : ''}">
+                        <div class="slot-icon">${icon}</div>
+                        <div class="slot-info">
+                            <div class="slot-label">${label}</div>
+                            <div class="slot-content${filled ? '' : ' empty'}">${filled ? escapeHtml(slot.name) : 'Tap to choose...'}</div>
+                        </div>
+                        <div class="slot-actions">
+                            ${filled ? '<button class="slot-clear-btn" onclick="clearBuilderSlot(' + dayNum + ',' + idx + ')">×</button>' : ''}
+                            <button class="slot-choose-btn" onclick="openBuilderPoiPicker(${dayNum}, ${idx})">${filled ? 'Change' : 'Choose'}</button>
+                        </div>
+                    </div>
+                `;
+            });
+            slotsHtml += '</div>';
+
+            return `
+                <div class="step-day-header">
+                    <div>
+                        <div class="day-label">Day ${dayNum}</div>
+                        <div class="day-hotel">🏨 ${escapeHtml(hotelName)}</div>
+                    </div>
+                    ${isFirstDay && arrivalTime ? '<div style="font-size:11px;color:#6b7280;">Arriving ' + arrivalTime + '</div>' : ''}
+                    ${isLastDay && departureTime ? '<div style="font-size:11px;color:#6b7280;">Departing ' + departureTime + '</div>' : ''}
+                </div>
+                ${contextNote ? '<div style="font-size:11px;color:#D97706;background:#FFFBEB;padding:6px 10px;border-radius:6px;margin-bottom:8px;">💡 ' + contextNote + '</div>' : ''}
+                ${slotsHtml}
+                <button class="step-ai-recommend-btn" id="builderAiBtn" onclick="requestAIDayPlan(${dayNum})">
+                    ✨ AI Recommend Full Day
+                </button>
+                <div class="step-builder-nav">
+                    <button class="step-nav-prev" onclick="builderPrev()">← Back</button>
+                    <button class="step-nav-next" onclick="builderNext()">Next →</button>
+                </div>
+            `;
+        }
+
+        function clearBuilderSlot(dayNum, slotIdx) {
+            const day = stepBuilderState.days[dayNum - 1];
+            if (day && day.slots[slotIdx]) {
+                day.slots[slotIdx].name = '';
+                day.slots[slotIdx].coord = null;
+                day.slots[slotIdx].source = '';
+            }
+            renderBuilderStep(stepBuilderState.currentStep);
+        }
+
+        // POI Picker for builder
+        let builderPickerCallback = null;
+
+        function openBuilderPoiPicker(dayNum, slotIdx) {
+            const day = stepBuilderState.days[dayNum - 1];
+            if (!day) return;
+            const slot = day.slots[slotIdx];
+            if (!slot) return;
+
+            const slotType = slot.type;
+            // Determine which POIs to show
+            let pois = [];
+            if (slotType === 'breakfast' || slotType === 'lunch' || slotType === 'dinner') {
+                pois = restaurants.map(r => ({ name: r.name, desc: r.desc, coord: r.coord, category: 'restaurants' }));
+            } else if (slotType === 'morning' || slotType === 'afternoon') {
+                pois = [
+                    ...experiences.map(e => ({ name: e.name, desc: e.desc, coord: e.coord, category: 'experiences' })),
+                    ...(typeof kidFriendly !== 'undefined' ? kidFriendly : []).map(k => ({ name: k.name, desc: k.desc, coord: k.coord, category: 'kidFriendly' })),
+                    ...(typeof markets !== 'undefined' ? markets : []).map(m => ({ name: m.name, desc: m.desc, coord: m.coord, category: 'markets' }))
+                ];
+            }
+
+            // Build picker HTML in an overlay within the builder container
+            const container = document.getElementById(activeBuilderContainer);
+            if (!container) return;
+
+            const slotLabels = {
+                breakfast: 'Breakfast', morning: 'Morning Activity',
+                lunch: 'Lunch', afternoon: 'Afternoon Activity', dinner: 'Dinner'
+            };
+
+            let html = `
+                <div id="builderPoiPickerOverlay" style="margin-bottom:12px;">
+                    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;">
+                        <div style="font-size:13px;font-weight:700;color:#111;">Choose ${slotLabels[slotType] || slotType}</div>
+                        <button onclick="closeBuilderPoiPicker(${dayNum})" style="background:none;border:none;font-size:18px;color:#9ca3af;cursor:pointer;">&times;</button>
+                    </div>
+                    <input class="step-poi-search" id="builderPoiSearch" placeholder="Search..." oninput="filterBuilderPois()" />
+                    <div class="step-poi-list" id="builderPoiList"></div>
+                </div>
+            `;
+
+            // Store pois globally for filtering
+            window._builderPickerPois = pois;
+            window._builderPickerDayNum = dayNum;
+            window._builderPickerSlotIdx = slotIdx;
+
+            // Insert picker at top of container
+            const pickerDiv = document.createElement('div');
+            pickerDiv.id = 'builderPoiPickerWrapper';
+            pickerDiv.innerHTML = html;
+            container.insertBefore(pickerDiv, container.firstChild);
+
+            // Populate
+            populateBuilderPoiList('');
+        }
+
+        function populateBuilderPoiList(filter) {
+            const listEl = document.getElementById('builderPoiList');
+            if (!listEl) return;
+            const pois = window._builderPickerPois || [];
+            const q = (filter || '').toLowerCase();
+
+            let html = '';
+            pois.forEach(p => {
+                if (q && !p.name.toLowerCase().includes(q) && !(p.desc || '').toLowerCase().includes(q)) return;
+                const poiInfo = lookupPoi(p.name);
+                const tags = (poiInfo.tags || []).slice(0, 3);
+                const tagsHtml = tags.map(t => '<span class="step-poi-tag">' + escapeHtml(t) + '</span>').join('');
+                const coordStr = p.coord ? JSON.stringify(p.coord) : 'null';
+                html += `
+                    <div class="step-poi-item" onclick="selectBuilderPoi('${escapeHtml(p.name).replace(/'/g, "\\'")}', ${coordStr})">
+                        <div class="step-poi-name">${escapeHtml(p.name)}</div>
+                        ${p.desc ? '<div class="step-poi-desc">' + escapeHtml(p.desc) + '</div>' : ''}
+                        ${tagsHtml ? '<div class="step-poi-tags">' + tagsHtml + '</div>' : ''}
+                    </div>
+                `;
+            });
+            if (!html) html = '<div style="padding:12px;text-align:center;color:#9ca3af;font-size:12px;">No results found</div>';
+            listEl.innerHTML = html;
+        }
+
+        function filterBuilderPois() {
+            const search = document.getElementById('builderPoiSearch');
+            populateBuilderPoiList(search ? search.value : '');
+        }
+
+        function selectBuilderPoi(name, coord) {
+            const dayNum = window._builderPickerDayNum;
+            const slotIdx = window._builderPickerSlotIdx;
+            const day = stepBuilderState.days[dayNum - 1];
+            if (day && day.slots[slotIdx]) {
+                day.slots[slotIdx].name = name;
+                day.slots[slotIdx].coord = coord;
+                day.slots[slotIdx].source = 'manual';
+            }
+            closeBuilderPoiPicker(dayNum);
+        }
+
+        function closeBuilderPoiPicker(dayNum) {
+            const wrapper = document.getElementById('builderPoiPickerWrapper');
+            if (wrapper) wrapper.remove();
+            window._builderPickerPois = null;
+            // Re-render the day step
+            renderBuilderStep(stepBuilderState.currentStep);
+        }
+
+        // AI Day Recommendation
+        async function requestAIDayPlan(dayNum) {
+            const btn = document.getElementById('builderAiBtn');
+            if (btn) {
+                btn.disabled = true;
+                btn.innerHTML = '<span class="gen-spinner"></span> Generating recommendations...';
+            }
+
+            if (!chatApiKey) {
+                chatApiKey = localStorage.getItem('tripMap_apiKey') || localStorage.getItem('japanTrip_apiKey');
+            }
+            if (!chatApiKey) {
+                showCopyToast('API key required — open the Chat panel first to set it up');
+                if (btn) { btn.disabled = false; btn.innerHTML = '✨ AI Recommend Full Day'; }
+                return;
+            }
+
+            const dayData = stepBuilderState.days[dayNum - 1];
+            if (!dayData) return;
+
+            const dest = destinations[activeDestination];
+            const destName = dest ? dest.name : activeDestination;
+            const hotelName = dayData.hotel || 'not specified';
+            const isFirstDay = dayNum === 1;
+            const isLastDay = dayNum === stepBuilderState.totalDays;
+
+            // Build available POIs list
+            const restaurantNames = restaurants.slice(0, 40).map(r => r.name + (r.desc ? ' (' + r.desc + ')' : ''));
+            const activityNames = [
+                ...experiences.slice(0, 30).map(e => e.name + (e.desc ? ' (' + e.desc + ')' : '')),
+                ...(typeof kidFriendly !== 'undefined' ? kidFriendly.slice(0, 15) : []).map(k => k.name + (k.desc ? ' (' + k.desc + ')' : ''))
+            ];
+
+            let timeContext = '';
+            if (isFirstDay && stepBuilderState.arrival.time) {
+                timeContext = 'Arriving at ' + stepBuilderState.arrival.time + ' at ' + (stepBuilderState.arrival.station || 'airport/station') + '. ';
+            }
+            if (isLastDay && stepBuilderState.departure.time) {
+                timeContext += 'Departing at ' + stepBuilderState.departure.time + ' from ' + (stepBuilderState.departure.station || 'airport/station') + '. ';
+            }
+
+            const systemPrompt = `You are a travel planner for ${destName}. Generate a day plan for Day ${dayNum} of a ${stepBuilderState.totalDays}-day trip.
+Hotel: ${hotelName}
+${timeContext}
+
+Available restaurants (pick from these for meals):
+${restaurantNames.join('\n')}
+
+Available activities/sightseeing (pick from these):
+${activityNames.join('\n')}
+
+Return ONLY a JSON object with this exact format:
+{
+  "slots": [
+    {"type": "breakfast", "name": "exact restaurant name from list"},
+    {"type": "morning", "name": "exact activity name from list"},
+    {"type": "lunch", "name": "exact restaurant name from list"},
+    {"type": "afternoon", "name": "exact activity name from list"},
+    {"type": "dinner", "name": "exact restaurant name from list"}
+  ]
+}
+
+IMPORTANT: Use EXACT names from the provided lists. If it's the arrival day with a late arrival, you can leave early slots with name="" and focus on evening. If it's a departure day with early departure, leave later slots empty.`;
+
+            try {
+                const modelId = (typeof getModelId === 'function') ? getModelId() : 'claude-sonnet-4-5-20250929';
+                const response = await fetch('https://api.anthropic.com/v1/messages', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'x-api-key': chatApiKey,
+                        'anthropic-version': '2023-06-01',
+                        'anthropic-dangerous-direct-browser-access': 'true'
+                    },
+                    body: JSON.stringify({
+                        model: modelId,
+                        max_tokens: 1024,
+                        system: systemPrompt,
+                        messages: [{ role: 'user', content: 'Generate the day plan for Day ' + dayNum + '. Output raw JSON only.' }]
+                    })
+                });
+
+                if (!response.ok) {
+                    const errData = await response.json().catch(() => ({}));
+                    throw new Error(errData.error?.message || 'API error ' + response.status);
+                }
+
+                const data = await response.json();
+                let text = '';
+                if (data.content) {
+                    data.content.forEach(block => {
+                        if (block.type === 'text') text += block.text;
+                    });
+                }
+
+                let jsonStr = text.trim();
+                if (jsonStr.startsWith('```')) {
+                    jsonStr = jsonStr.replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '').trim();
+                }
+
+                const parsed = JSON.parse(jsonStr);
+                if (parsed.slots && Array.isArray(parsed.slots)) {
+                    parsed.slots.forEach(aiSlot => {
+                        if (!aiSlot.name) return;
+                        const matchIdx = dayData.slots.findIndex(s => s.type === aiSlot.type);
+                        if (matchIdx >= 0) {
+                            // Find coord from POI data
+                            let coord = null;
+                            const allPois = [...restaurants, ...experiences, ...(typeof kidFriendly !== 'undefined' ? kidFriendly : []), ...(typeof markets !== 'undefined' ? markets : [])];
+                            const match = allPois.find(p => p.name === aiSlot.name);
+                            if (match && match.coord) coord = match.coord;
+
+                            dayData.slots[matchIdx].name = aiSlot.name;
+                            dayData.slots[matchIdx].coord = coord;
+                            dayData.slots[matchIdx].source = 'ai';
+                        }
+                    });
+                }
+
+                showCopyToast('AI recommendations loaded! You can edit any slot.');
+            } catch(e) {
+                showCopyToast('AI error: ' + e.message);
+            }
+
+            renderBuilderStep(stepBuilderState.currentStep);
+        }
+
+        // Review & Save Step
+        function renderBuilderReview() {
+            let html = '<div class="step-builder-title">Review Your Itinerary</div>';
+            html += '<div class="step-builder-subtitle">Review and save your ' + stepBuilderState.totalDays + '-day trip</div>';
+
+            // Travel info summary
+            if (stepBuilderState.arrival.time || stepBuilderState.departure.time) {
+                html += '<div class="step-review-card"><div class="step-review-card-header">✈️ Travel Info</div><div class="step-review-card-body">';
+                if (stepBuilderState.arrival.time) {
+                    html += '<div class="step-review-item">Arriving: ' + stepBuilderState.arrival.time;
+                    if (stepBuilderState.arrival.flightNo) html += ' (' + escapeHtml(stepBuilderState.arrival.flightNo) + ')';
+                    if (stepBuilderState.arrival.station) html += ' at ' + escapeHtml(stepBuilderState.arrival.station);
+                    html += '</div>';
+                }
+                if (stepBuilderState.departure.time) {
+                    html += '<div class="step-review-item">Departing: ' + stepBuilderState.departure.time;
+                    if (stepBuilderState.departure.flightNo) html += ' (' + escapeHtml(stepBuilderState.departure.flightNo) + ')';
+                    if (stepBuilderState.departure.station) html += ' at ' + escapeHtml(stepBuilderState.departure.station);
+                    html += '</div>';
+                }
+                html += '</div></div>';
+            }
+
+            // Day cards
+            const slotLabels = { breakfast: 'Breakfast', morning: 'Morning', lunch: 'Lunch', afternoon: 'Afternoon', dinner: 'Dinner' };
+
+            stepBuilderState.days.forEach(day => {
+                html += '<div class="step-review-card">';
+                html += '<div class="step-review-card-header">Day ' + day.day + ' — 🏨 ' + escapeHtml(day.hotel || 'No hotel') + '</div>';
+                html += '<div class="step-review-card-body">';
+                day.slots.forEach(slot => {
+                    if (slot.name) {
+                        html += '<div class="step-review-item"><span class="review-type">' + (slotLabels[slot.type] || slot.type) + '</span>' + escapeHtml(slot.name) + '</div>';
+                    }
+                });
+                if (!day.slots.some(s => s.name)) {
+                    html += '<div class="step-review-item" style="color:#9ca3af;font-style:italic;">No activities planned</div>';
+                }
+                html += '</div></div>';
+            });
+
+            html += '<button class="step-save-btn" onclick="saveBuilderItinerary()">Save Itinerary</button>';
+            html += '<div class="step-builder-nav"><button class="step-nav-prev" onclick="builderPrev()">← Back to editing</button></div>';
+
+            return html;
+        }
+
+        function saveBuilderItinerary() {
+            // Convert builder state to itinerary format
+            const slotTypeMap = {
+                breakfast: 'breakfast', morning: 'sightseeing', lunch: 'lunch',
+                afternoon: 'sightseeing', dinner: 'dinner'
+            };
+
+            const days = stepBuilderState.days.map(day => {
+                const items = [];
+                // Add hotel first
+                if (day.hotel) {
+                    const hotelData = stepBuilderState.hotels.find(h => h.name === day.hotel);
+                    items.push({
+                        type: 'hotel',
+                        name: day.hotel,
+                        coord: hotelData ? hotelData.coord : null
+                    });
+                }
+                // Add slots
+                day.slots.forEach(slot => {
+                    if (slot.name) {
+                        items.push({
+                            type: slotTypeMap[slot.type] || slot.type,
+                            name: slot.name,
+                            coord: slot.coord
+                        });
+                    }
+                });
+                return {
+                    day: day.day,
+                    title: day.hotel ? ('Day ' + day.day + ' — ' + day.hotel) : ('Day ' + day.day),
+                    items: items
+                };
+            });
+
+            // Generate a unique key
+            const GEN_COLORS = ['#06b6d4', '#8b5cf6', '#ec4899', '#f97316', '#14b8a6', '#a855f7', '#f43f5e', '#eab308'];
+            const prefix = 'gen_builder_';
+            const builderCount = Object.keys(itineraryData).filter(k => k.startsWith(prefix)).length;
+            const genKey = prefix + (builderCount + 1);
+            const colorIdx = builderCount % GEN_COLORS.length;
+
+            const dest = destinations[activeDestination];
+            const itinName = (dest ? dest.name : activeDestination) + ' — Custom Plan';
+
+            const itinObj = {
+                name: itinName,
+                color: GEN_COLORS[colorIdx],
+                days: days,
+                isGenerated: true,
+                isBuilderMade: true,
+                arrivalInfo: stepBuilderState.arrival,
+                departureInfo: stepBuilderState.departure
+            };
+
+            // Add to itinerary data
+            normalizeItineraryDays({ [genKey]: itinObj });
+            itineraryData[genKey] = itinObj;
+            originalItineraryData[genKey] = JSON.parse(JSON.stringify(itinObj));
+
+            // Persist to localStorage
+            try {
+                const storageKey = 'tripMap_genItin_' + activeDestination;
+                const existing = JSON.parse(localStorage.getItem(storageKey) || '{}');
+                existing[genKey] = itinObj;
+                localStorage.setItem(storageKey, JSON.stringify(existing));
+            } catch(e) { console.warn('Could not save builder itinerary:', e); }
+
+            // Clear draft
+            clearBuilderDraft();
+
+            // Switch to curated mode and select
+            buildTabsUI();
+            selectItinerary(genKey);
+            if (isMobile()) {
+                selectMobileItinMode('curated');
+            } else {
+                selectItinMode('curated');
+                if (currentView !== 'itineraries') switchView('itineraries');
+            }
+
+            showCopyToast('Itinerary saved! Check the new tab.');
+        }
+
+        // ============================================
+        // END 3-OPTION ITINERARY MODE SELECTOR
+        // ============================================
 
         let genWebSearch = false;
 
@@ -9666,6 +11080,17 @@
                 filtered = filtered.filter(p => p._cat === mobileSearchFilter);
             }
 
+            // Filter by active tags (AND logic — POI must have ALL selected tags)
+            if (activeTagFilters.size > 0) {
+                filtered = filtered.filter(p => {
+                    const poiTags = p.tags || [];
+                    for (const reqTag of activeTagFilters) {
+                        if (!poiTags.includes(reqTag)) return false;
+                    }
+                    return true;
+                });
+            }
+
             // Filter by query
             if (query) {
                 const q = query.toLowerCase();
@@ -9729,8 +11154,8 @@
         // ---- Trips Tab ----
         function refreshMobileTripsUI() {
             if (!isMobile()) return;
-            buildMobileItinTabs();
-            renderMobileItinContent();
+            // Show mode selector by default when entering trips
+            selectMobileItinMode('menu');
         }
 
         function buildMobileItinTabs() {
