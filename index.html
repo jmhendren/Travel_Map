@@ -255,7 +255,7 @@
             font-size: 12px; font-family: inherit; box-sizing: border-box; margin-bottom: 8px;
         }
         .step-poi-search:focus { outline: none; border-color: #7C3AED; }
-        .step-poi-list { max-height: 220px; overflow-y: auto; border: 1px solid #e5e7eb; border-radius: 8px; }
+        .step-poi-list { max-height: 220px; overflow-y: auto; border: 1px solid #e5e7eb; border-radius: 8px; -webkit-overflow-scrolling: touch; touch-action: pan-y; overscroll-behavior: contain; }
         .step-poi-item {
             padding: 10px 12px; border-bottom: 1px solid #f3f4f6; cursor: pointer;
             transition: background 0.15s;
@@ -367,6 +367,26 @@
             .itin-mode-card .card-icon { font-size: 24px; width: 34px; }
             .itin-mode-card .card-title { font-size: 13px; }
             .step-poi-list { max-height: 180px; }
+
+            /* Mobile sub-views must flex-fill so sheet-scroll works */
+            #mobileCuratedView,
+            #mobileGenerateView,
+            #mobileBuilderView {
+                display: none;
+                flex-direction: column;
+                flex: 1;
+                min-height: 0;
+                overflow: hidden;
+            }
+            /* When visible via JS (display set to flex) */
+            #mobileCuratedView[style*="display:flex"],
+            #mobileCuratedView[style*="display: flex"],
+            #mobileGenerateView[style*="display:flex"],
+            #mobileGenerateView[style*="display: flex"],
+            #mobileBuilderView[style*="display:flex"],
+            #mobileBuilderView[style*="display: flex"] {
+                display: flex !important;
+            }
         }
 
         /* View toggle */
@@ -2761,6 +2781,7 @@
         overflow-y: auto;
         -webkit-overflow-scrolling: touch;
         min-height: 0;
+        overscroll-behavior: contain;
     }
 
     /* Drag handle for sheet panels */
@@ -3502,17 +3523,6 @@
                         <div class="itin-tabs" id="tabsContainer"></div>
                     </div>
 
-                    <!-- Inline Generator sub-view -->
-                    <div id="itinGenerateView" style="display:none;">
-                        <button class="itin-mode-back" onclick="selectItinMode('menu')"><span class="back-arrow">‹</span> Back to options</button>
-                        <div id="inlineGenContainer" class="itin-inline-gen"></div>
-                    </div>
-
-                    <!-- Step-by-Step Builder sub-view -->
-                    <div id="itinBuilderView" style="display:none;">
-                        <button class="itin-mode-back" onclick="confirmExitBuilder('desktop')"><span class="back-arrow">‹</span> Back to options</button>
-                        <div id="stepBuilderContainer" class="step-builder"></div>
-                    </div>
                 </div>
 
                 <!-- Categories Checkboxes (hidden in itineraries view) -->
@@ -3533,6 +3543,16 @@
                         Show All Days
                     </button>
                     <div id="daysContainer"></div>
+                </div>
+                <!-- Inline Generator (in scrollable area) -->
+                <div id="itinGenerateView" style="display:none;">
+                    <button class="itin-mode-back" onclick="selectItinMode('menu')"><span class="back-arrow">‹</span> Back to options</button>
+                    <div id="inlineGenContainer" class="itin-inline-gen"></div>
+                </div>
+                <!-- Step-by-Step Builder (in scrollable area) -->
+                <div id="itinBuilderView" style="display:none;">
+                    <button class="itin-mode-back" onclick="confirmExitBuilder('desktop')"><span class="back-arrow">‹</span> Back to options</button>
+                    <div id="stepBuilderContainer" class="step-builder"></div>
                 </div>
             </div>
         </div>
@@ -8756,29 +8776,32 @@
             const generate = document.getElementById('itinGenerateView');
             const builder = document.getElementById('itinBuilderView');
             const itinView = document.getElementById('itinerariesView');
+            const catView = document.getElementById('categoriesView');
 
-            // Hide all
+            // Hide all sub-views
             if (selector) selector.style.display = 'none';
             if (curated) curated.style.display = 'none';
             if (generate) generate.style.display = 'none';
             if (builder) builder.style.display = 'none';
+            if (itinView) itinView.style.display = 'none';
 
             if (mode === 'menu') {
                 if (selector) selector.style.display = '';
-                if (itinView) itinView.style.display = 'none';
+                if (catView) catView.style.display = 'none';
                 clearItineraryMarkers();
             } else if (mode === 'curated') {
                 if (curated) curated.style.display = '';
                 if (itinView) itinView.style.display = '';
+                if (catView) catView.style.display = 'none';
                 buildTabsUI();
                 if (!currentItinerary) selectItinerary('a');
             } else if (mode === 'generate') {
                 if (generate) generate.style.display = '';
-                if (itinView) itinView.style.display = 'none';
+                if (catView) catView.style.display = 'none';
                 renderInlineGenerator('inlineGenContainer');
             } else if (mode === 'builder') {
                 if (builder) builder.style.display = '';
-                if (itinView) itinView.style.display = 'none';
+                if (catView) catView.style.display = 'none';
                 initStepBuilder('stepBuilderContainer');
             }
         }
@@ -8805,19 +8828,20 @@
                 if (panel) { panel.classList.remove('sheet-expanded'); panel.classList.add('sheet-half'); }
                 clearItineraryMarkers();
             } else if (mode === 'curated') {
-                if (curated) curated.style.display = '';
+                if (curated) curated.style.display = 'flex';
                 if (actions) actions.style.display = '';
+                if (panel) { panel.classList.remove('sheet-half'); panel.classList.add('sheet-expanded'); }
                 buildMobileItinTabs();
                 renderMobileItinContent();
                 if (!currentItinerary) selectItinerary('a');
             } else if (mode === 'generate') {
-                if (generate) generate.style.display = '';
+                if (generate) generate.style.display = 'flex';
                 if (actions) actions.style.display = 'none';
                 // Expand the sheet for the form
                 if (panel) { panel.classList.remove('sheet-half'); panel.classList.add('sheet-expanded'); }
                 renderInlineGenerator('mobileInlineGenContainer');
             } else if (mode === 'builder') {
-                if (builder) builder.style.display = '';
+                if (builder) builder.style.display = 'flex';
                 if (actions) actions.style.display = 'none';
                 // Expand for builder wizard
                 if (panel) { panel.classList.remove('sheet-half'); panel.classList.add('sheet-expanded'); }
@@ -8894,16 +8918,16 @@
                 <div class="gen-field">
                     <label>Interests (click to select)</label>
                     <div class="gen-interests" id="genInterests">
-                        <span class="gen-interest-chip selected" data-interest="food" onclick="this.classList.toggle('selected')">Food &amp; Dining</span>
-                        <span class="gen-interest-chip" data-interest="culture" onclick="this.classList.toggle('selected')">Culture &amp; History</span>
-                        <span class="gen-interest-chip" data-interest="adventure" onclick="this.classList.toggle('selected')">Adventure</span>
-                        <span class="gen-interest-chip" data-interest="shopping" onclick="this.classList.toggle('selected')">Shopping</span>
-                        <span class="gen-interest-chip" data-interest="relaxation" onclick="this.classList.toggle('selected')">Relaxation</span>
-                        <span class="gen-interest-chip" data-interest="nightlife" onclick="this.classList.toggle('selected')">Nightlife</span>
-                        <span class="gen-interest-chip" data-interest="nature" onclick="this.classList.toggle('selected')">Nature &amp; Outdoors</span>
-                        <span class="gen-interest-chip" data-interest="photography" onclick="this.classList.toggle('selected')">Photography</span>
-                        <span class="gen-interest-chip" data-interest="art" onclick="this.classList.toggle('selected')">Art &amp; Design</span>
-                        <span class="gen-interest-chip" data-interest="kid-friendly" onclick="this.classList.toggle('selected')">Kid-Friendly</span>
+                        <span class="gen-interest-chip selected" data-interest="food">Food &amp; Dining</span>
+                        <span class="gen-interest-chip" data-interest="culture">Culture &amp; History</span>
+                        <span class="gen-interest-chip" data-interest="adventure">Adventure</span>
+                        <span class="gen-interest-chip" data-interest="shopping">Shopping</span>
+                        <span class="gen-interest-chip" data-interest="relaxation">Relaxation</span>
+                        <span class="gen-interest-chip" data-interest="nightlife">Nightlife</span>
+                        <span class="gen-interest-chip" data-interest="nature">Nature &amp; Outdoors</span>
+                        <span class="gen-interest-chip" data-interest="photography">Photography</span>
+                        <span class="gen-interest-chip" data-interest="art">Art &amp; Design</span>
+                        <span class="gen-interest-chip" data-interest="kid-friendly">Kid-Friendly</span>
                     </div>
                 </div>
                 <div class="gen-field">
@@ -9269,27 +9293,41 @@
             `;
         }
 
+        // Store hotels data for delegation
+        let _builderHotelItems = [];
+
         function populateBuilderHotelList(filter) {
             const listEl = document.getElementById('builderHotelList');
             if (!listEl) return;
 
             const q = (filter || '').toLowerCase();
+            _builderHotelItems = [];
             let html = '';
+            let idx = 0;
             hotels.forEach(h => {
                 if (q && !h.name.toLowerCase().includes(q) && !(h.desc || '').toLowerCase().includes(q)) return;
                 const poiInfo = lookupPoi(h.name);
                 const tags = (poiInfo.tags || []).slice(0, 3);
                 const tagsHtml = tags.map(t => '<span class="step-poi-tag">' + escapeHtml(t) + '</span>').join('');
-                html += `
-                    <div class="step-poi-item" onclick="selectBuilderHotel('${escapeHtml(h.name).replace(/'/g, "\\'")}', ${h.coord ? JSON.stringify(h.coord) : 'null'}, '${escapeHtml(h.desc || '').replace(/'/g, "\\'")}')">
-                        <div class="step-poi-name">${escapeHtml(h.name)}</div>
-                        ${h.desc ? '<div class="step-poi-desc">' + escapeHtml(h.desc) + '</div>' : ''}
-                        ${tagsHtml ? '<div class="step-poi-tags">' + tagsHtml + '</div>' : ''}
-                    </div>
-                `;
+                _builderHotelItems.push({ name: h.name, coord: h.coord || null, desc: h.desc || '' });
+                html += '<div class="step-poi-item" data-hotel-idx="' + idx + '">' +
+                    '<div class="step-poi-name">' + escapeHtml(h.name) + '</div>' +
+                    (h.desc ? '<div class="step-poi-desc">' + escapeHtml(h.desc) + '</div>' : '') +
+                    (tagsHtml ? '<div class="step-poi-tags">' + tagsHtml + '</div>' : '') +
+                    '</div>';
+                idx++;
             });
             if (!html) html = '<div style="padding:12px;text-align:center;color:#9ca3af;font-size:12px;">No hotels found</div>';
             listEl.innerHTML = html;
+
+            // Event delegation for hotel clicks
+            listEl.onclick = function(e) {
+                const item = e.target.closest('.step-poi-item[data-hotel-idx]');
+                if (!item) return;
+                const i = parseInt(item.dataset.hotelIdx);
+                const h = _builderHotelItems[i];
+                if (h) selectBuilderHotel(h.name, h.coord, h.desc);
+            };
         }
 
         function filterBuilderHotels() {
@@ -9489,29 +9527,42 @@
             populateBuilderPoiList('');
         }
 
+        // Store filtered POIs for delegation
+        let _builderPoiItems = [];
+
         function populateBuilderPoiList(filter) {
             const listEl = document.getElementById('builderPoiList');
             if (!listEl) return;
             const pois = window._builderPickerPois || [];
             const q = (filter || '').toLowerCase();
 
+            _builderPoiItems = [];
             let html = '';
+            let idx = 0;
             pois.forEach(p => {
                 if (q && !p.name.toLowerCase().includes(q) && !(p.desc || '').toLowerCase().includes(q)) return;
                 const poiInfo = lookupPoi(p.name);
                 const tags = (poiInfo.tags || []).slice(0, 3);
                 const tagsHtml = tags.map(t => '<span class="step-poi-tag">' + escapeHtml(t) + '</span>').join('');
-                const coordStr = p.coord ? JSON.stringify(p.coord) : 'null';
-                html += `
-                    <div class="step-poi-item" onclick="selectBuilderPoi('${escapeHtml(p.name).replace(/'/g, "\\'")}', ${coordStr})">
-                        <div class="step-poi-name">${escapeHtml(p.name)}</div>
-                        ${p.desc ? '<div class="step-poi-desc">' + escapeHtml(p.desc) + '</div>' : ''}
-                        ${tagsHtml ? '<div class="step-poi-tags">' + tagsHtml + '</div>' : ''}
-                    </div>
-                `;
+                _builderPoiItems.push({ name: p.name, coord: p.coord || null });
+                html += '<div class="step-poi-item" data-poi-idx="' + idx + '">' +
+                    '<div class="step-poi-name">' + escapeHtml(p.name) + '</div>' +
+                    (p.desc ? '<div class="step-poi-desc">' + escapeHtml(p.desc) + '</div>' : '') +
+                    (tagsHtml ? '<div class="step-poi-tags">' + tagsHtml + '</div>' : '') +
+                    '</div>';
+                idx++;
             });
             if (!html) html = '<div style="padding:12px;text-align:center;color:#9ca3af;font-size:12px;">No results found</div>';
             listEl.innerHTML = html;
+
+            // Event delegation for POI clicks
+            listEl.onclick = function(e) {
+                const item = e.target.closest('.step-poi-item[data-poi-idx]');
+                if (!item) return;
+                const i = parseInt(item.dataset.poiIdx);
+                const p = _builderPoiItems[i];
+                if (p) selectBuilderPoi(p.name, p.coord);
+            };
         }
 
         function filterBuilderPois() {
